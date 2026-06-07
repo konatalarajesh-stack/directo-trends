@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-06-07T16:52:12+00:00",
+  "generated_at": "2026-06-07T22:04:46+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 19,
   "trends": [
     {
       "id": "421ff88c4c41",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Sun, 07 Jun 2026 06:15:00 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Sat, 06 Jun 2026 13:00:00 GMT",
@@ -47,18 +47,38 @@
       ]
     },
     {
-      "id": "f9f17760564a",
-      "title": "How to find travel insurance that actually covers what you need - PA Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1JXZk5CWGV1TG10MkZMbTBxSG9LWVFwd0xsVWJVekFqTWVfaDBtcHE4WW85UHdyTXdMclBDY1dPalRVeEtLU1BjUXppVGRNSy1zLUV4NTZXTkstczROeHhBbW5PcHNIX0dTT1dTdXNtMzNRTnAydG5kZzVBS2lfZ1E3dDYzZXZpRTJWd0xwYWpjS3BRVHhONWk1NkNXS3Vta21QS29Bcw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1JXZk5CWGV1TG10MkZMbTBxSG9LWVFwd0xsVWJVekFqTWVfaDBtcHE4WW85UHdyTXdMclBDY1dPalRVeEtLU1BjUXppVGRNSy1zLUV4NTZXTkstczROeHhBbW5PcHNIX0dTT1dTdXNtMzNRTnAydG5kZzVBS2lfZ1E3dDYzZXZpRTJWd0xwYWpjS3BRVHhONWk1NkNXS3Vta21QS29Bcw?oc=5",
-      "score": 82.8,
+      "id": "f3b253bec556",
+      "title": "6 Travel Hacks for a Smoother, Less Stressful Vacation Every Time - Real Simple",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8zX3JBcXhEaWhGdy00bzBJbXRZWm1fSEZxY3I3R3NoS3BnQ1NBdnk2QXdpbGVPZmYwTkk3WnJlb0hvRVg3dFRDMXFlMUFwZGJndGpURWQ1Y290SGFRNUI5VFYzZmpYMXRMSktJZXBR?oc=5\" target=\"_blank\">6 Travel Hacks for a Smoother, Less Stressful Vacation Ever",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zX3JBcXhEaWhGdy00bzBJbXRZWm1fSEZxY3I3R3NoS3BnQ1NBdnk2QXdpbGVPZmYwTkk3WnJlb0hvRVg3dFRDMXFlMUFwZGJndGpURWQ1Y290SGFRNUI5VFYzZmpYMXRMSktJZXBR?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 07 Jun 2026 18:30:00 GMT",
+          "source": "Real Simple"
+        }
+      ]
+    },
+    {
+      "id": "f9f17760564a",
+      "title": "How to find travel insurance that actually covers what you need - PA Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1JXZk5CWGV1TG10MkZMbTBxSG9LWVFwd0xsVWJVekFqTWVfaDBtcHE4WW85UHdyTXdMclBDY1dPalRVeEtLU1BjUXppVGRNSy1zLUV4NTZXTkstczROeHhBbW5PcHNIX0dTT1dTdXNtMzNRTnAydG5kZzVBS2lfZ1E3dDYzZXZpRTJWd0xwYWpjS3BRVHhONWk1NkNXS3Vta21QS29Bcw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1JXZk5CWGV1TG10MkZMbTBxSG9LWVFwd0xsVWJVekFqTWVfaDBtcHE4WW85UHdyTXdMclBDY1dPalRVeEtLU1BjUXppVGRNSy1zLUV4NTZXTkstczROeHhBbW5PcHNIX0dTT1dTdXNtMzNRTnAydG5kZzVBS2lfZ1E3dDYzZXZpRTJWd0xwYWpjS3BRVHhONWk1NkNXS3Vta21QS29Bcw?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Sun, 07 Jun 2026 12:05:23 GMT",
@@ -71,14 +91,14 @@
       "title": "BA boss warns costly aviation taxes and rail tickets are stunting UK growth - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHhERDVNb250OHk5RG05WVFRdW9fc1Z3b09xWklYVVZXZ25xZTkzOUJWYURwYnNKYnRFOENoNG16UEVDREpZdlVKMzg0aWVJZzhRY3FHZ0JrOUFWQXNHazQxbTMyY0hFYnNOYzAtRHNPN3FMRTVPWDVqR1c1U3UxTDJqSl9yNGU5RUl2QUtBUDROZExlMnZpM25fRE82UF9RSFBPZE5NRFI5WF",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHhERDVNb250OHk5RG05WVFRdW9fc1Z3b09xWklYVVZXZ25xZTkzOUJWYURwYnNKYnRFOENoNG16UEVDREpZdlVKMzg0aWVJZzhRY3FHZ0JrOUFWQXNHazQxbTMyY0hFYnNOYzAtRHNPN3FMRTVPWDVqR1c1U3UxTDJqSl9yNGU5RUl2QUtBUDROZExlMnZpM25fRE82UF9RSFBPZE5NRFI5WFBaWXBLSg?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Sun, 07 Jun 2026 11:36:00 GMT",
@@ -87,42 +107,22 @@
       ]
     },
     {
-      "id": "31ee258a3af7",
-      "title": "China on track to surpass US as world’s leading travel and tourism economy - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWZIdjBKeHpPdjdsZmhGSnhqNkUzOXlBM1FtdFF6NUpZU1JRVXd4OTR4VU5QRWFKTVcwZEUyR1hHcGdOTXRibTRhQjgwaEpFVmoyV0d6RTBoNVZIUi0xVVgwNzFfV3k2Q0hsdjQtbkVCNVoxc3d1YnZadDU2TUN4UFVCWGJ1T0p2bW5LVTcybTE2MENGYUViVTFPZldPRWVRUzZtV19DZTNRbW",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWZIdjBKeHpPdjdsZmhGSnhqNkUzOXlBM1FtdFF6NUpZU1JRVXd4OTR4VU5QRWFKTVcwZEUyR1hHcGdOTXRibTRhQjgwaEpFVmoyV0d6RTBoNVZIUi0xVVgwNzFfV3k2Q0hsdjQtbkVCNVoxc3d1YnZadDU2TUN4UFVCWGJ1T0p2bW5LVTcybTE2MENGYUViVTFPZldPRWVRUzZtV19DZTNRbWs1amR4aw?oc=5",
-      "score": 75.6,
+      "id": "cb3d886fa2d6",
+      "title": "Cendant and the Origin Story of Asset-Light Travel - Skift",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUhZbm1uQUV1aHl1Si1ydzBFRjRNMmlzLVplN2VxSFo4THRUUE1sSzFuRjZrTkdBVlBoVzVoVnF4T1lUNUtLYlN2Uk9yYVNlQW5KZTFzS0c5YzE0bnpqRkdjc2ZNSlZiQnJoUUpId1lOSnBKc0lrdTNiMjl6ZDBZb3hqbGN3MHc?oc=5\" target=\"_blank\">Cendant and the Origin S",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUhZbm1uQUV1aHl1Si1ydzBFRjRNMmlzLVplN2VxSFo4THRUUE1sSzFuRjZrTkdBVlBoVzVoVnF4T1lUNUtLYlN2Uk9yYVNlQW5KZTFzS0c5YzE0bnpqRkdjc2ZNSlZiQnJoUUpId1lOSnBKc0lrdTNiMjl6ZDBZb3hqbGN3MHc?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 07 Jun 2026 15:10:00 GMT",
-          "source": "The Independent"
-        }
-      ]
-    },
-    {
-      "id": "a60b2397ea4d",
-      "title": "\"It's difficult to talk about tourism containment in the Balearics without having a say in the airports authority\" - Majorca Daily Bulletin",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPamgxZ01vM0lhRFNjaDgwanJjMUh0MDJ5MFR5bE45cEJIamdYNDNtdmRERFI1SkhEVWp2cEtNR2o3V25uc3hzc3hwQk1WWFZHTGJCUm14RWFucDlBWlFwNEVfRHNZTW1hX3M4SXk3WnZHdzdjVG1BVUliRE1DV2c1bGNlY0c4WUpRX0JBQ2FHUVJYdXlEcmMzTE1HUzhFUTZ1N1Nfa0daZ2pWbU",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPamgxZ01vM0lhRFNjaDgwanJjMUh0MDJ5MFR5bE45cEJIamdYNDNtdmRERFI1SkhEVWp2cEtNR2o3V25uc3hzc3hwQk1WWFZHTGJCUm14RWFucDlBWlFwNEVfRHNZTW1hX3M4SXk3WnZHdzdjVG1BVUliRE1DV2c1bGNlY0c4WUpRX0JBQ2FHUVJYdXlEcmMzTE1HUzhFUTZ1N1Nfa0daZ2pWbUNCYWxwdmhOa3lwaDhPblo4MnVsMzA4YnR1R3Z0WmlHR1BkZ0xDLWNZVFdXZDdVZVgwT1oyY1FITDM2S25pMlQxeXJFVHBXOC02TG9LS0puY9IB-wFBVV95cUxOMnd6bWhNeEs2R0dfUEtLN0Z4UVhDU3NFM0NZa0M3OURQSDdkTTE1ZHVzTFE2R211Nk9RaXFIR3lnTlpkaEZOWFR2dXNib1ZRcUtzUU43Wm9nQ2F1S2ZXaEtiT2lqZzI0UlpqYXJwZk4wMWI5YU96UmQtNXhPRmFZcnFwU1dJeDkxQ0dxNFVFNUdaZWt6QVJuMHVOeUhFMjFwM0hITGpUYlkwbHNYa3l0RGNWSXR2Tjk5UWxxZWpqWUNyWlF4SUtMWTdGOUEwYTN4NDVldUdBaVJvankwWENVV2daLUFMWEZEMmhVSE9iQnNaVDFERHpJNTZaWQ?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 07 Jun 2026 13:20:19 GMT",
-          "source": "Majorca Daily Bulletin"
+          "published": "Sun, 07 Jun 2026 18:33:13 GMT",
+          "source": "Skift"
         }
       ]
     },
@@ -131,14 +131,14 @@
       "title": "Travel partners rally behind Newcastle Pride - Bdaily",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYU9ocjN5VV9YUFluMllydHhseVZ5ejEtUDJjVno5UUc0VDdBbGdCTENlMXRTQmNfaEs5NUljN29rTUtCNzFWcUt2b3NVMmJ4dXpjc1NqZV92cklMaTctX1N2aVl6MXZDOW9OR1VtV0Z0aXBrMmRNaThiS2hJQU9jenI2Ym1XZFN5WWwyUFh3?oc=5\" target=\"_blank\">Travel partners",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYU9ocjN5VV9YUFluMllydHhseVZ5ejEtUDJjVno5UUc0VDdBbGdCTENlMXRTQmNfaEs5NUljN29rTUtCNzFWcUt2b3NVMmJ4dXpjc1NqZV92cklMaTctX1N2aVl6MXZDOW9OR1VtV0Z0aXBrMmRNaThiS2hJQU9jenI2Ym1XZFN5WWwyUFh3?oc=5",
-      "score": 68.4,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Sun, 07 Jun 2026 12:10:35 GMT",
@@ -147,22 +147,26 @@
       ]
     },
     {
-      "id": "75a30d150d8d",
-      "title": "Egypt's Tourism Minister Talks Travel Triumphs, Challenges in Exclusive Interview With TravelPulse - TravelPulse",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDMtck5lUmNkTkExNVdMMWdUWi1rcW9ud2d1UER2Z0lYM2xESkM5TFFOb1Y2dEVLS09kemZGNUItMlZEbWdrRWFJaXMyc0MwZlJiWVVoRjdCNDJhbWtyUVgwSlRndUIzOWhTODlQMkpDZ1l6MXczaFZyT2lWOWplTkJqT2pHNGJudWJlcXFBcEY0c1lUQ0lVYjRud3JCWUcyWTJhWG5kUWdaNk",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDMtck5lUmNkTkExNVdMMWdUWi1rcW9ud2d1UER2Z0lYM2xESkM5TFFOb1Y2dEVLS09kemZGNUItMlZEbWdrRWFJaXMyc0MwZlJiWVVoRjdCNDJhbWtyUVgwSlRndUIzOWhTODlQMkpDZ1l6MXczaFZyT2lWOWplTkJqT2pHNGJudWJlcXFBcEY0c1lUQ0lVYjRud3JCWUcyWTJhWG5kUWdaNkpFTWxKSmVPa3YwR1Z2TGFrZEJsTlBTUFE?oc=5",
-      "score": 64.8,
+      "id": "31ee258a3af7",
+      "title": "China on track to surpass US as world’s leading travel and tourism economy - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWZIdjBKeHpPdjdsZmhGSnhqNkUzOXlBM1FtdFF6NUpZU1JRVXd4OTR4VU5QRWFKTVcwZEUyR1hHcGdOTXRibTRhQjgwaEpFVmoyV0d6RTBoNVZIUi0xVVgwNzFfV3k2Q0hsdjQtbkVCNVoxc3d1YnZadDU2TUN4UFVCWGJ1T0p2bW5LVTcybTE2MENGYUViVTFPZldPRWVRUzZtV19DZTNRbW",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWZIdjBKeHpPdjdsZmhGSnhqNkUzOXlBM1FtdFF6NUpZU1JRVXd4OTR4VU5QRWFKTVcwZEUyR1hHcGdOTXRibTRhQjgwaEpFVmoyV0d6RTBoNVZIUi0xVVgwNzFfV3k2Q0hsdjQtbkVCNVoxc3d1YnZadDU2TUN4UFVCWGJ1T0p2bW5LVTcybTE2MENGYUViVTFPZldPRWVRUzZtV19DZTNRbWs1amR4aw?oc=5",
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 07 Jun 2026 12:00:00 GMT",
-          "source": "TravelPulse"
+          "published": "Sun, 07 Jun 2026 15:10:00 GMT",
+          "source": "The Independent"
+        },
+        {
+          "published": "Sun, 07 Jun 2026 17:54:00 GMT",
+          "source": "The Independent"
         }
       ]
     },
@@ -178,7 +182,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Thu, 04 Jun 2026 17:10:48 GMT",
@@ -187,10 +191,10 @@
       ]
     },
     {
-      "id": "80e06bf37e30",
-      "title": "Travel & Tourism News Middle East - Travel & Tourism News Middle East",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjVPMUpoTjltS21nN2x4Sk0yWEpTSE53N2hwWkVObVpUcW5KaFBJengtSzR6Z3lETDFiNWhGRHBlNldfV0xSZWdER3dXTWNfLTJpV0N1Q3JNN3ZTQ2ZheUh6SzlQU1NnU3NWcDZic25YSmhodl9IT3FzSGl5Ylk3ODdmWC1CWTNpUTkwd0lxa3hGbDE1dWszS2UtYUtBZVhsSTQ3ekNzZkd4Sl",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjVPMUpoTjltS21nN2x4Sk0yWEpTSE53N2hwWkVObVpUcW5KaFBJengtSzR6Z3lETDFiNWhGRHBlNldfV0xSZWdER3dXTWNfLTJpV0N1Q3JNN3ZTQ2ZheUh6SzlQU1NnU3NWcDZic25YSmhodl9IT3FzSGl5Ylk3ODdmWC1CWTNpUTkwd0lxa3hGbDE1dWszS2UtYUtBZVhsSTQ3ekNzZkd4SlNDX1EteElWVm9wWTdv?oc=5",
+      "id": "6380a8ea8059",
+      "title": "Barcelona’s Sagrada Família Nears Completion—and Inflames a Tourism Backlash - WSJ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTlppQlBrc1VIcF83SEt5WkotNWpwRVp6M1NmUGJMSm9kUTUyV2hiQWdsZng2blF3a0NEaktUbk5Ed245M0MxUzF2OTdTWFZuQko3bzdsRkloWTdQOXF4U1ROYjBCdkZQNWxvTmU2TTJoOUhJajZiLVBqSGIzb1RETWxEZzVMU2c5cDNOT3NVdzlaQ2tqYWF3NmpQSUxaUVBIWkRjalhFS3hyRk",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTlppQlBrc1VIcF83SEt5WkotNWpwRVp6M1NmUGJMSm9kUTUyV2hiQWdsZng2blF3a0NEaktUbk5Ed245M0MxUzF2OTdTWFZuQko3bzdsRkloWTdQOXF4U1ROYjBCdkZQNWxvTmU2TTJoOUhJajZiLVBqSGIzb1RETWxEZzVMU2c5cDNOT3NVdzlaQ2tqYWF3NmpQSUxaUVBIWkRjalhFS3hyRkExLTRCVi1PbVJsc3c?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +202,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 07 Jun 2026 15:41:10 GMT",
-          "source": "Travel & Tourism News Middle East"
+          "published": "Sun, 07 Jun 2026 15:25:27 GMT",
+          "source": "WSJ"
         }
       ]
     },
     {
-      "id": "781905583582",
-      "title": "Sunday travel and traffic updates for the Island LIVE - Isle of Wight County Press",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQi1DaU9maG5xdUNfR3M3WE9HeElvOWVXZVVxVndoX2N6TlF6ekVxSEVMRkZtWHBFWEVZdmJUTzBXa2FfUjI5ekFRM240TVZxRFlmS2V6dXZvNUROUy15RE1GRjY3a0s0Q2wwLVRNdjZCRWl2MWE3U3FacU9ocm0tWHRkbUtkNEtZazQ1cjVjQldvcVlXTDVr?oc=5\" target=\"_blank\">Sun",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQi1DaU9maG5xdUNfR3M3WE9HeElvOWVXZVVxVndoX2N6TlF6ekVxSEVMRkZtWHBFWEVZdmJUTzBXa2FfUjI5ekFRM240TVZxRFlmS2V6dXZvNUROUy15RE1GRjY3a0s0Q2wwLVRNdjZCRWl2MWE3U3FacU9ocm0tWHRkbUtkNEtZazQ1cjVjQldvcVlXTDVr?oc=5",
+      "id": "b3a166e1a47c",
+      "title": "Airbus Advances Ultra-Long-Haul Travel with First Test Flight of New A350 Variant - Safer Highways",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXJ0Ui1JOEMyYUNJdG9CQ2EwYWl6THhqakRjazVqb3R0NTNFT1p4YjZJcXlyeUw3aG1GVlpxZUFnbzI1NExzeHpfWmhRdXdxRTlqR1UtZVhZNUlrZ2ZidXFDV2otODU5R1lFb1g0SGphejNGVEZ6RzFIMXZMUnpFUVZHNDQzNWhaMTktVWQ4cVpvdXZtN2VWWVNMb2JCWTV1OTU5T3dPdUdDX3",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXJ0Ui1JOEMyYUNJdG9CQ2EwYWl6THhqakRjazVqb3R0NTNFT1p4YjZJcXlyeUw3aG1GVlpxZUFnbzI1NExzeHpfWmhRdXdxRTlqR1UtZVhZNUlrZ2ZidXFDV2otODU5R1lFb1g0SGphejNGVEZ6RzFIMXZMUnpFUVZHNDQzNWhaMTktVWQ4cVpvdXZtN2VWWVNMb2JCWTV1OTU5T3dPdUdDX3RudDlYNktVWFVzd1N1cUE?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,51 +222,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 07 Jun 2026 06:52:46 GMT",
-          "source": "Isle of Wight County Press"
-        }
-      ]
-    },
-    {
-      "id": "068a9cc42db4",
-      "title": "Iran Court Upholds Prison Sentence, Travel Ban for Jafar Panahi - The Hollywood Reporter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTA4OXI1MTZCNXpQRDZBTVE3OTJIcnJ1SGx1WHlodEp1MnRWNFpfUWdfN0NOZFNsUHNXWWxjc3h5bHpkbENuLUYyUUJiUmJaekJWeFNOQVJiZFZienQ5ZVRUc3hXTDYzblZESnJkd1hISUh6TDJDMnVsLXdKQjRYSlBRY2RDdnB0SHhNbDA2YTZXSm1aTnlBaFYxOXpuWEx2ajJ6RVB4ejVEU2",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTA4OXI1MTZCNXpQRDZBTVE3OTJIcnJ1SGx1WHlodEp1MnRWNFpfUWdfN0NOZFNsUHNXWWxjc3h5bHpkbENuLUYyUUJiUmJaekJWeFNOQVJiZFZienQ5ZVRUc3hXTDYzblZESnJkd1hISUh6TDJDMnVsLXdKQjRYSlBRY2RDdnB0SHhNbDA2YTZXSm1aTnlBaFYxOXpuWEx2ajJ6RVB4ejVEU255aklVaXpPVEI5aFU?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 07 Jun 2026 15:00:54 GMT",
-          "source": "The Hollywood Reporter"
-        }
-      ]
-    },
-    {
-      "id": "9c7a747a661d",
-      "title": "WTTC urges calm over Ebola concerns - Travel Weekly Asia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZl84Nl8wTnBnUW1TY3RVdUJ1RnFmRWtmS3NoZXBIZlgwU0lHVDM5YzBYVEtNeUd6WnR4ekpBUVQyQlE1bkNhdTlQcHBQOTltOHNCREp2d1U3RHZXLW1zcmJCZ19rUEs5N1l4aGs1c2x0T2JERFF2dENYUHNPTU44ZHc5TFV0R1hlalQzeXJ2NTVuQQ?oc=5\" target=\"_blank\">WTTC urge",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZl84Nl8wTnBnUW1TY3RVdUJ1RnFmRWtmS3NoZXBIZlgwU0lHVDM5YzBYVEtNeUd6WnR4ekpBUVQyQlE1bkNhdTlQcHBQOTltOHNCREp2d1U3RHZXLW1zcmJCZ19rUEs5N1l4aGs1c2x0T2JERFF2dENYUHNPTU44ZHc5TFV0R1hlalQzeXJ2NTVuQQ?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 07 Jun 2026 09:37:19 GMT",
-          "source": "Travel Weekly Asia"
+          "published": "Sun, 07 Jun 2026 21:12:10 GMT",
+          "source": "Safer Highways"
         }
       ]
     },
@@ -271,14 +235,14 @@
       "title": "Ireland imposes travel ban on Israeli ministers Ben-Gvir and Smotrich - Al Jazeera",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDRwekROZHUtNlJ5aG1TenZyQTZ6Wl9weWZwb3ZuNmc5aUU4aGlfODJQYklPYUpQenFTNmo1d1V2NElNalZ6QV9kUjBDbzdKZkt0R3o4OVN1TVNuQ3l4cTZ5VjZpRE5kOEJYTVFqU2tMQU44ZlRFMnJNa0JlRkl0NkdoYnFuVE1USW5zd2FiVE1fZWhsMVZKSS1xcDdualJUZE9oVjc0cC1xc3",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDRwekROZHUtNlJ5aG1TenZyQTZ6Wl9weWZwb3ZuNmc5aUU4aGlfODJQYklPYUpQenFTNmo1d1V2NElNalZ6QV9kUjBDbzdKZkt0R3o4OVN1TVNuQ3l4cTZ5VjZpRE5kOEJYTVFqU2tMQU44ZlRFMnJNa0JlRkl0NkdoYnFuVE1USW5zd2FiVE1fZWhsMVZKSS1xcDdualJUZE9oVjc0cC1xc3pkVnfSAbMBQVVfeXFMTjctTXMzaUdXdXJrbnB3Q3o5VGhGdTRYVlVLQTAtZWJCWU0zVFI0MnJGRVgxRXRQUTM5WlpoSGM0cGNPaURkRlN3S2dScEF3cndKcFJPR204VVkwTnB1RHBNMldtNHJnMU1oR3JPZWNGOFFyZnlKSk5NV1p4aUQ0R2F4MUlfdk4tVmdQYXpjVUwzUmRwUGlmbm5rSmZna0VwWTAtd19aVEp4NkhValczZUxMX1U?oc=5",
-      "score": 43.2,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Fri, 05 Jun 2026 16:19:31 GMT",
@@ -287,18 +251,58 @@
       ]
     },
     {
-      "id": "a3b2a2211b3f",
-      "title": "The world’s greatest travel experiences, according to 50 experts - The Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVhtYTZKX0FRTUE0VXl3YWhRRGtzUnVZc2s0MEdGVlNhelF4MUtsMldjMk82anMya3NWWm9INU9fcW9oYXVIaGNXMnBSMC10eVJUU0R6VXVlZzAydGppRHItOXlQTG5nVHdhUm04dmVhTnhJVU5TY3BfQ2FPUFplR1JaOA?oc=5\" target=\"_blank\">The world’s greatest travel e",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVhtYTZKX0FRTUE0VXl3YWhRRGtzUnVZc2s0MEdGVlNhelF4MUtsMldjMk82anMya3NWWm9INU9fcW9oYXVIaGNXMnBSMC10eVJUU0R6VXVlZzAydGppRHItOXlQTG5nVHdhUm04dmVhTnhJVU5TY3BfQ2FPUFplR1JaOA?oc=5",
-      "score": 39.6,
+      "id": "80e06bf37e30",
+      "title": "Travel & Tourism News Middle East - Travel & Tourism News Middle East",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjVPMUpoTjltS21nN2x4Sk0yWEpTSE53N2hwWkVObVpUcW5KaFBJengtSzR6Z3lETDFiNWhGRHBlNldfV0xSZWdER3dXTWNfLTJpV0N1Q3JNN3ZTQ2ZheUh6SzlQU1NnU3NWcDZic25YSmhodl9IT3FzSGl5Ylk3ODdmWC1CWTNpUTkwd0lxa3hGbDE1dWszS2UtYUtBZVhsSTQ3ekNzZkd4Sl",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjVPMUpoTjltS21nN2x4Sk0yWEpTSE53N2hwWkVObVpUcW5KaFBJengtSzR6Z3lETDFiNWhGRHBlNldfV0xSZWdER3dXTWNfLTJpV0N1Q3JNN3ZTQ2ZheUh6SzlQU1NnU3NWcDZic25YSmhodl9IT3FzSGl5Ylk3ODdmWC1CWTNpUTkwd0lxa3hGbDE1dWszS2UtYUtBZVhsSTQ3ekNzZkd4SlNDX1EteElWVm9wWTdv?oc=5",
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 07 Jun 2026 15:41:10 GMT",
+          "source": "Travel & Tourism News Middle East"
+        }
+      ]
+    },
+    {
+      "id": "75a30d150d8d",
+      "title": "Egypt's Tourism Minister Talks Travel Triumphs, Challenges in Exclusive Interview With TravelPulse - TravelPulse",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDMtck5lUmNkTkExNVdMMWdUWi1rcW9ud2d1UER2Z0lYM2xESkM5TFFOb1Y2dEVLS09kemZGNUItMlZEbWdrRWFJaXMyc0MwZlJiWVVoRjdCNDJhbWtyUVgwSlRndUIzOWhTODlQMkpDZ1l6MXczaFZyT2lWOWplTkJqT2pHNGJudWJlcXFBcEY0c1lUQ0lVYjRud3JCWUcyWTJhWG5kUWdaNk",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDMtck5lUmNkTkExNVdMMWdUWi1rcW9ud2d1UER2Z0lYM2xESkM5TFFOb1Y2dEVLS09kemZGNUItMlZEbWdrRWFJaXMyc0MwZlJiWVVoRjdCNDJhbWtyUVgwSlRndUIzOWhTODlQMkpDZ1l6MXczaFZyT2lWOWplTkJqT2pHNGJudWJlcXFBcEY0c1lUQ0lVYjRud3JCWUcyWTJhWG5kUWdaNkpFTWxKSmVPa3YwR1Z2TGFrZEJsTlBTUFE?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-07T21:56:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 07 Jun 2026 12:00:00 GMT",
+          "source": "TravelPulse"
+        }
+      ]
+    },
+    {
+      "id": "a3b2a2211b3f",
+      "title": "The world’s greatest travel experiences, according to 50 experts - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVhtYTZKX0FRTUE0VXl3YWhRRGtzUnVZc2s0MEdGVlNhelF4MUtsMldjMk82anMya3NWWm9INU9fcW9oYXVIaGNXMnBSMC10eVJUU0R6VXVlZzAydGppRHItOXlQTG5nVHdhUm04dmVhTnhJVU5TY3BfQ2FPUFplR1JaOA?oc=5\" target=\"_blank\">The world’s greatest travel e",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVhtYTZKX0FRTUE0VXl3YWhRRGtzUnVZc2s0MEdGVlNhelF4MUtsMldjMk82anMya3NWWm9INU9fcW9oYXVIaGNXMnBSMC10eVJUU0R6VXVlZzAydGppRHItOXlQTG5nVHdhUm04dmVhTnhJVU5TY3BfQ2FPUFplR1JaOA?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Thu, 04 Jun 2026 05:00:00 GMT",
@@ -311,14 +315,14 @@
       "title": "Ireland issues travel bans for two Israeli ministers - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nQ19weUJvQXA5bWlOejlGdmpjWnlsOWxTMEtuZlpRNlU3aEk5bnl1LUdqOGhMNXFuUkZjNXJfVnBhZllRazBkZV9ocl9mdzVPSng4aUk0UllmQQ?oc=5\" target=\"_blank\">Ireland issues travel bans for two Israeli ministers</a>&nbsp;&nbsp;<font color=\"#6f6",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nQ19weUJvQXA5bWlOejlGdmpjWnlsOWxTMEtuZlpRNlU3aEk5bnl1LUdqOGhMNXFuUkZjNXJfVnBhZllRazBkZV9ocl9mdzVPSng4aUk0UllmQQ?oc=5",
-      "score": 36.0,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Fri, 05 Jun 2026 13:45:53 GMT",
@@ -327,18 +331,38 @@
       ]
     },
     {
-      "id": "e8efbf414acb",
-      "title": "We’re travel experts. Here’s where you should visit in July - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzV2VlJudTNJWTFaZGxYaDlMNDJLRW9VVDRIRzBJT2RNY0lWUW5sUHBhNG1mdTNzRURycmYzUnR2dUNhNlJTUzdramVVbDB1cTV5RmNscWdYaFdCel9QN1BXWnctRGg1VGpsdDlNelZzNjY2WHNUUnBKUHNuQmZYOUtna1hGTDNaa1NucTRFMmpRcjJEWU1scjJFTUQ0ZkxSaVQ1ck94bw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzV2VlJudTNJWTFaZGxYaDlMNDJLRW9VVDRIRzBJT2RNY0lWUW5sUHBhNG1mdTNzRURycmYzUnR2dUNhNlJTUzdramVVbDB1cTV5RmNscWdYaFdCel9QN1BXWnctRGg1VGpsdDlNelZzNjY2WHNUUnBKUHNuQmZYOUtna1hGTDNaa1NucTRFMmpRcjJEWU1scjJFTUQ0ZkxSaVQ1ck94bw?oc=5",
-      "score": 32.4,
+      "id": "79a76c99ff40",
+      "title": "Reform-Led Council Backs Cycling Investment Despite National Party's Opposition to Active Travel Policies - Safer Highways",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTJVQV8zWWx5ZUt2MHM1d0dLSFB0OUR6Mlk2djRtNVBqenR1SHBQTFlhMFhHU3lMNWRCaGFMRWEySkpBemd2dk82cXNabzduTE9uM1Zad1U1b2wwcXFjaG1hMEFOTzFJM1VmQkQyM3VvLVBVTE5jcTJJaFczTFBUVFBBOGZMU1V3YWt6eW51ZzBvcnUxTDRIdHYxNjBmbEJnMzMtbEFsc1NlM0",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTJVQV8zWWx5ZUt2MHM1d0dLSFB0OUR6Mlk2djRtNVBqenR1SHBQTFlhMFhHU3lMNWRCaGFMRWEySkpBemd2dk82cXNabzduTE9uM1Zad1U1b2wwcXFjaG1hMEFOTzFJM1VmQkQyM3VvLVBVTE5jcTJJaFczTFBUVFBBOGZMU1V3YWt6eW51ZzBvcnUxTDRIdHYxNjBmbEJnMzMtbEFsc1NlM09UM2F3Y1pQQ2ZrTnBfNjZoMzNPbU1ReDdNOFVZdUhNMlJLUldZei1j?oc=5",
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 07 Jun 2026 20:39:00 GMT",
+          "source": "Safer Highways"
+        }
+      ]
+    },
+    {
+      "id": "e8efbf414acb",
+      "title": "We’re travel experts. Here’s where you should visit in July - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzV2VlJudTNJWTFaZGxYaDlMNDJLRW9VVDRIRzBJT2RNY0lWUW5sUHBhNG1mdTNzRURycmYzUnR2dUNhNlJTUzdramVVbDB1cTV5RmNscWdYaFdCel9QN1BXWnctRGg1VGpsdDlNelZzNjY2WHNUUnBKUHNuQmZYOUtna1hGTDNaa1NucTRFMmpRcjJEWU1scjJFTUQ0ZkxSaVQ1ck94bw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzV2VlJudTNJWTFaZGxYaDlMNDJLRW9VVDRIRzBJT2RNY0lWUW5sUHBhNG1mdTNzRURycmYzUnR2dUNhNlJTUzdramVVbDB1cTV5RmNscWdYaFdCel9QN1BXWnctRGg1VGpsdDlNelZzNjY2WHNUUnBKUHNuQmZYOUtna1hGTDNaa1NucTRFMmpRcjJEWU1scjJFTUQ0ZkxSaVQ1ck94bw?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
           "published": "Thu, 04 Jun 2026 10:31:00 GMT",
@@ -347,50 +371,10 @@
       ]
     },
     {
-      "id": "76e6e4582727",
-      "title": "US judge rules against Trump policies targeting immigrants from 39 travel-ban countries - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVThleHJpWnJFYkZKSkc1U2l2QUlJOXNPX283Y2twaUNnMXdzZXZZdjBySkw0Z2U1MC14RW5Wa2x1cGRiM3RLaVN3NGdXM0g0cDZLMXBCOUlDdjVKZHBtT1BsQVU5MTdDQ1gzQlVDZFgzbnNJYnZkdFpHLTlSV1NFOUdGSHZ5MVEzWWhBRDNBazBlTDlE?oc=5\" target=\"_blank\">US judg",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVThleHJpWnJFYkZKSkc1U2l2QUlJOXNPX283Y2twaUNnMXdzZXZZdjBySkw0Z2U1MC14RW5Wa2x1cGRiM3RLaVN3NGdXM0g0cDZLMXBCOUlDdjVKZHBtT1BsQVU5MTdDQ1gzQlVDZFgzbnNJYnZkdFpHLTlSV1NFOUdGSHZ5MVEzWWhBRDNBazBlTDlE?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 05 Jun 2026 16:05:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
       "id": "812aeca833a6",
       "title": "The six beautiful Canadian destinations that our travel experts love - The Independent",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMzI3YXA3UHVueW9lOUxMMVBWWjhjcXNjNTNMV3VMc2xQTFRMUXJaM1otRHFmOUV3MEstYzlWZ2d6dFhWVGYxOHNHR2xZVDY1VjVlSEZiM0E4NGNmYUE3MktOazk0VE5WeVZnM3JoSk5iYXRSdS1tRWh0N3VBR0RLUzFRUzk3Z3k5c1M2bm5ONkQtTkhhX1Z4NndIaFo1NVZnNG9nMk1ybTNLUE",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMzI3YXA3UHVueW9lOUxMMVBWWjhjcXNjNTNMV3VMc2xQTFRMUXJaM1otRHFmOUV3MEstYzlWZ2d6dFhWVGYxOHNHR2xZVDY1VjVlSEZiM0E4NGNmYUE3MktOazk0VE5WeVZnM3JoSk5iYXRSdS1tRWh0N3VBR0RLUzFRUzk3Z3k5c1M2bm5ONkQtTkhhX1Z4NndIaFo1NVZnNG9nMk1ybTNLUEx3dUgyci05NGM?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 07 Jun 2026 05:00:00 GMT",
-          "source": "The Independent"
-        }
-      ]
-    },
-    {
-      "id": "7102a7d8ddbd",
-      "title": "Earthquakes rattle Greek island near Athens ahead of tourism season - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTNfV2ZWZFJ6a240LXRfSTdTcWpHRnpxWnJTaVVHdWhDcl9MZnNJR0dDYTc4YWNfSGh0aS1yb0VjR1R0Q250RXdCV1BrT29rRUxoTGNtZ0ZkeTZ2cWhxWUVUVWlnc1JTMV9lTl9yQlZDbV9mNkJwQ1JVVGYxVm1HZDVOUDZOSG5MYnAxdmZkWHBqdFk3TmMyQndpcHFUWkRmNzY0?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTNfV2ZWZFJ6a240LXRfSTdTcWpHRnpxWnJTaVVHdWhDcl9MZnNJR0dDYTc4YWNfSGh0aS1yb0VjR1R0Q250RXdCV1BrT29rRUxoTGNtZ0ZkeTZ2cWhxWUVUVWlnc1JTMV9lTl9yQlZDbV9mNkJwQ1JVVGYxVm1HZDVOUDZOSG5MYnAxdmZkWHBqdFk3TmMyQndpcHFUWkRmNzY0?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,10 +382,10 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-07T16:43:16+00:00",
+      "first_seen": "2026-06-07T21:56:00+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 07 Jun 2026 13:27:00 GMT",
+          "published": "Sun, 07 Jun 2026 05:00:00 GMT",
           "source": "The Independent"
         }
       ]
