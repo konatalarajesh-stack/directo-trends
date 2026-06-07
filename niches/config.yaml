@@ -1,0 +1,141 @@
+# Per-niche scraper configuration.
+# Each niche defines: aliases (for matching), keywords (for trend filtering),
+# subreddits (for Reddit), youtube channels (RSS fallback), news topics.
+
+niches:
+  fitness:
+    aliases: [fitness, workout, gym, health, exercise]
+    keywords:
+      - workout
+      - fitness
+      - gym
+      - weight loss
+      - muscle
+      - cardio
+      - hiit
+      - yoga
+      - pilates
+      - running
+      - strength training
+      - bodyweight
+    subreddits: [fitness, bodyweightfitness, weightroom, xxfitness, running, yoga, gym]
+    hn_query: ""              # HN is tech-skewed; skip for fitness
+    google_news_topic: "fitness OR workout OR gym"
+    youtube_channels:
+      # high-signal short-form-active fitness creators (last 15 videos each)
+      - UCe0TLA0EsQbE-MjuHXevj2A   # athleanx
+      - UCEtMRF1ywKMc4sf3EXYyDzw   # chloe ting
+      - UCfQgsKhHjSyRLOp9mnffqVg   # heather robertson
+
+  finance:
+    aliases: [finance, money, investing, personal finance]
+    keywords:
+      - investing
+      - stocks
+      - personal finance
+      - budgeting
+      - retirement
+      - 401k
+      - crypto
+      - real estate
+      - side hustle
+      - passive income
+      - tax
+      - savings
+    subreddits: [personalfinance, investing, financialindependence, stocks, fire, povertyfinance]
+    hn_query: "investing OR finance OR markets"
+    google_news_topic: "personal finance OR investing OR stock market"
+    youtube_channels:
+      - UCV6KDgJskWaEckne5aPA0aQ   # graham stephan
+      - UCFCEuCsyWP0YkP3CZ3Mr01Q   # andrei jikh
+      - UCKvT-8xU_BTJGvsQ5lR23TQ   # nate o'brien
+
+  cooking:
+    aliases: [cooking, food, recipe, culinary]
+    keywords:
+      - recipe
+      - cooking
+      - dinner
+      - breakfast
+      - meal prep
+      - baking
+      - pasta
+      - quick meal
+      - one pot
+      - air fryer
+      - viral recipe
+      - tiktok food
+    subreddits: [cooking, recipes, mealprepsunday, food, eatcheapandhealthy, budgetfood, indianfood]
+    hn_query: ""
+    google_news_topic: "recipe OR cooking OR food trends"
+    youtube_channels:
+      - UCJHA_jMfCvEnv-3kRjTCQXw   # joshua weissman
+      - UCi0PlcPCO0V0NQyfSADlEjA   # nick digiovanni
+      - UCbXqWGS-J7y92gFLqXovIRA   # tasty
+
+  travel:
+    aliases: [travel, trip, vacation, tourism]
+    keywords:
+      - travel
+      - destination
+      - budget travel
+      - solo travel
+      - travel tips
+      - flight deal
+      - airport hack
+      - itinerary
+      - road trip
+      - backpacking
+      - digital nomad
+      - bucket list
+    subreddits: [travel, solotravel, backpacking, digitalnomad, travelhacks, awardtravel]
+    hn_query: ""
+    google_news_topic: "travel OR tourism OR destinations"
+    youtube_channels:
+      - UCFs8aMpKfaxw3KMphAk8_jA   # kara and nate
+      - UCQ54AY8Y1HXyhTSAA-XGcEw   # lost leblanc
+
+# Regions we serve. Each scraper that supports regions will iterate over these.
+# Region codes follow ISO 3166-1 alpha-2.
+regions:
+  - code: US
+    label: "United States"
+    pytrends_geo: US
+    google_news_hl: en-US
+    google_news_gl: US
+    youtube_gl: US
+    timezone: America/Los_Angeles
+  - code: UK
+    label: "United Kingdom"
+    pytrends_geo: GB
+    google_news_hl: en-GB
+    google_news_gl: GB
+    youtube_gl: GB
+    timezone: Europe/London
+  - code: CA
+    label: "Canada"
+    pytrends_geo: CA
+    google_news_hl: en-CA
+    google_news_gl: CA
+    youtube_gl: CA
+    timezone: America/Toronto
+  - code: AU
+    label: "Australia"
+    pytrends_geo: AU
+    google_news_hl: en-AU
+    google_news_gl: AU
+    youtube_gl: AU
+    timezone: Australia/Sydney
+  - code: IN
+    label: "India"
+    pytrends_geo: IN
+    google_news_hl: en-IN
+    google_news_gl: IN
+    youtube_gl: IN
+    timezone: Asia/Kolkata
+
+# Schema version emitted to clients. Bump on breaking changes.
+schema_version: 1
+
+# How long (hours) clients should treat each JSON file as fresh.
+cache_ttl_hours: 6

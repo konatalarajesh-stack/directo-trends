@@ -1,0 +1,20 @@
+# HTTP + parsing
+requests>=2.32
+feedparser>=6.0.11
+
+# Data
+pyyaml>=6.0.1
+python-dateutil>=2.9
+rapidfuzz>=3.9          # fuzzy dedup of trend titles across sources
+
+# Trend sources
+pytrends>=4.9.2         # Google Trends (semi-maintained; pin & vendor if needed)
+yt-dlp>=2025.1.15       # YouTube trending
+praw>=7.7.1             # Reddit (OAuth, polite client)
+
+# TikTok (added in next iteration)
+# playwright>=1.48
+# TikTokApi>=6.5
+
+# Dev
+pytest>=8.3
