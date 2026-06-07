@@ -12,8 +12,10 @@ pytrends>=4.9.2         # Google Trends (semi-maintained; pin & vendor if needed
 yt-dlp>=2025.1.15       # YouTube trending
 praw>=7.7.1             # Reddit (OAuth, polite client)
 
-# TikTok (added in next iteration)
-# playwright>=1.48
+# TikTok Creative Center via headless browser
+playwright>=1.48
+
+# Reserved for next iteration (needs ms_token secret)
 # TikTokApi>=6.5
 
 # Dev

@@ -27,9 +27,12 @@ import yaml
 from rapidfuzz import fuzz, process
 
 from scrapers.base import RawTrend
+from scrapers.google_trends import GoogleTrendsScraper
 from scrapers.hackernews import HackerNewsScraper
 from scrapers.news import GoogleNewsScraper
 from scrapers.reddit import RedditScraper
+from scrapers.tiktok_cc import TikTokCreativeCenterScraper
+from scrapers.youtube import YouTubeScraper
 
 log = logging.getLogger(__name__)
 
@@ -55,7 +58,10 @@ def run_scrapers(config: dict) -> list[RawTrend]:
         GoogleNewsScraper(config),
         HackerNewsScraper(config),
         RedditScraper(config),
-        # TODO: pytrends, yt-dlp, tiktok_cc, tiktok_api
+        GoogleTrendsScraper(config),
+        YouTubeScraper(config),
+        TikTokCreativeCenterScraper(config),
+        # TODO next iteration: TikTokApi (needs ms_token secret)
     ]
 
     niches = list(config["niches"].keys())
