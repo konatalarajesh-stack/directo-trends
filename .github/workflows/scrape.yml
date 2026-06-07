@@ -49,6 +49,9 @@ jobs:
           python normalize.py --config niches/config.yaml --output public/
         env:
           PYTHONUNBUFFERED: "1"
+          # Optional: TikTokApi-secondary path. Add via Settings > Secrets.
+          # When absent, tiktok_api.py no-ops; pipeline continues without it.
+          TIKTOK_MS_TOKEN: ${{ secrets.TIKTOK_MS_TOKEN }}
 
       - name: Commit refreshed trends
         run: |

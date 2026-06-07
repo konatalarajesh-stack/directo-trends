@@ -31,6 +31,7 @@ from scrapers.google_trends import GoogleTrendsScraper
 from scrapers.hackernews import HackerNewsScraper
 from scrapers.news import GoogleNewsScraper
 from scrapers.reddit import RedditScraper
+from scrapers.tiktok_api import TikTokApiScraper
 from scrapers.tiktok_cc import TikTokCreativeCenterScraper
 from scrapers.youtube import YouTubeScraper
 
@@ -61,7 +62,7 @@ def run_scrapers(config: dict) -> list[RawTrend]:
         GoogleTrendsScraper(config),
         YouTubeScraper(config),
         TikTokCreativeCenterScraper(config),
-        # TODO next iteration: TikTokApi (needs ms_token secret)
+        TikTokApiScraper(config),  # no-ops cleanly when TIKTOK_MS_TOKEN missing
     ]
 
     niches = list(config["niches"].keys())

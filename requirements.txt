@@ -15,8 +15,9 @@ praw>=7.7.1             # Reddit (OAuth, polite client)
 # TikTok Creative Center via headless browser
 playwright>=1.48
 
-# Reserved for next iteration (needs ms_token secret)
-# TikTokApi>=6.5
+# TikTok unofficial API (secondary signal). Activates when
+# TIKTOK_MS_TOKEN secret is configured in GitHub Actions.
+TikTokApi>=6.5.2
 
 # Dev
 pytest>=8.3
