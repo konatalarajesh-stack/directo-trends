@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "AU",
-  "generated_at": "2026-06-07T12:56:24+00:00",
+  "generated_at": "2026-06-07T13:11:42+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 24,
   "trends": [
     {
       "id": "93e2d0253fbd",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Thu, 04 Jun 2026 14:32:52 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Thu, 04 Jun 2026 16:00:00 GMT",
@@ -58,7 +58,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Mon, 01 Jun 2026 07:00:00 GMT",
@@ -78,7 +78,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Sat, 06 Jun 2026 18:25:51 GMT",
@@ -98,7 +98,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Sat, 06 Jun 2026 18:30:03 GMT",
@@ -118,7 +118,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Sat, 06 Jun 2026 03:11:18 GMT",
@@ -138,13 +138,36 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Tue, 26 May 2026 15:12:13 GMT",
           "source": "Growing Produce"
         }
       ]
+    },
+    {
+      "id": "213365518089",
+      "title": "4 meals in 1 🤯",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/FLjm2DjTyNM",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-06-07T13:04:54+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "FLjm2DjTyNM",
+          "published": "2026-06-05T19:00:01+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "ee8ce116aa3d",
@@ -158,13 +181,36 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Sun, 31 May 2026 07:00:00 GMT",
           "source": "BIOFACH"
         }
       ]
+    },
+    {
+      "id": "23f4a4cbe4e7",
+      "title": "The ultimate summer treat: candy bar ice cream cake!",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/p6p2in6VnRQ",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-06-07T13:04:54+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "p6p2in6VnRQ",
+          "published": "2026-06-04T20:30:36+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "516c03677b72",
@@ -178,13 +224,59 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Wed, 03 Jun 2026 08:26:51 GMT",
           "source": "Morning Ag Clips"
         }
       ]
+    },
+    {
+      "id": "7a69753a6e89",
+      "title": "How EASY Can I Make General Tso's? (5 Levels) | With Babish",
+      "summary": "You can actually order my ultimate General Tso’s right now!\nhttp://cookunity.com/babish\n\nSign up for CookUnity to order my meals at http://cookunity.com/babish and get 50% off your first week with code BABISH. \n\nNot ready to subscribe? You can order my meals from my CookUnity sto",
+      "url": "https://www.youtube.com/watch?v=0X9FFhCUByc",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-06-07T13:04:54+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "0X9FFhCUByc",
+          "published": "2026-06-02T14:00:07+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "83358c189852",
+      "title": "Mocha frappucino with an orange twist!",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/y_tPAzkRYZg",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-06-07T13:04:54+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "y_tPAzkRYZg",
+          "published": "2026-05-29T19:30:26+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "3a25cc551c8a",
@@ -198,13 +290,36 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Sat, 06 Jun 2026 22:00:00 GMT",
           "source": "Deseret News"
         }
       ]
+    },
+    {
+      "id": "4ac36e270fff",
+      "title": "How to make pizza in a cup!",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/8Aik7aQZ9SI",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-06-07T13:04:54+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "8Aik7aQZ9SI",
+          "published": "2026-05-27T22:30:37+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "d6e470c3ed1e",
@@ -218,7 +333,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Apr 2026 07:00:00 GMT",
@@ -238,7 +353,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Fri, 15 May 2026 07:00:00 GMT",
@@ -262,7 +377,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Fri, 05 Jun 2026 10:37:23 GMT",
@@ -282,7 +397,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Fri, 29 May 2026 07:00:00 GMT",
@@ -302,7 +417,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Wed, 03 Jun 2026 15:38:42 GMT",
@@ -322,7 +437,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Thu, 14 May 2026 07:00:00 GMT",
@@ -342,7 +457,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Sat, 06 Jun 2026 06:31:19 GMT",
@@ -362,7 +477,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Sat, 06 Jun 2026 13:30:03 GMT",
@@ -382,7 +497,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-07T12:55:37+00:00",
+      "first_seen": "2026-06-07T13:02:35+00:00",
       "raw_samples": [
         {
           "published": "Sat, 06 Jun 2026 09:26:18 GMT",
