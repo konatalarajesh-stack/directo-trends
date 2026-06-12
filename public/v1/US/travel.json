@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-06-12T12:50:51+00:00",
+  "generated_at": "2026-06-12T23:13:17+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "04d675ea22c2",
-      "title": "More than a vacation: Why travel stories matter - MessageMedia.co",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZk9QdzlqYkpLczFRSmJxcFU5NUlzWUpWVFY5U19TUkFfa2xuNVB6TGNDVjBKSmVoT0dSSkRYcWVzLWFleUYtdHZaM1Y4eTFqTkpfMG1uSEdNY1A5R0JzRzBrTEx1dFc4d1V4bkdVQXNmbFZFcENmZEpHNmZiSHJWOWZuc0ViWVFXSTRPWmJKbGpXUzZNSmFZMkZEMlByZlZPemRUaTl3eV9lb2",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZk9QdzlqYkpLczFRSmJxcFU5NUlzWUpWVFY5U19TUkFfa2xuNVB6TGNDVjBKSmVoT0dSSkRYcWVzLWFleUYtdHZaM1Y4eTFqTkpfMG1uSEdNY1A5R0JzRzBrTEx1dFc4d1V4bkdVQXNmbFZFcENmZEpHNmZiSHJWOWZuc0ViWVFXSTRPWmJKbGpXUzZNSmFZMkZEMlByZlZPemRUaTl3eV9lb21yQ0dfQTYtWHA0QWVGWHpwYzN3eUwxbXpZWlVITDVra19IUDUxc2huV1M5dWZlQUQyc1FpcWNsdkpXMkJu?oc=5",
+      "id": "4fd02cc73f1c",
+      "title": "Travel through ages and pages - The Statehouse File",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVzNWdmYzUHh2MnEzclFEaHJtZGx4UUpqamJUT1VNd0NsWnhJYW0tUEpPWXMxWHlPLVJUYkcxcmRBNlpyOExpUE5Fb0xpckNqYTVzSHBhaFZFaW11M2tXaFBDTXNTMXBINTQwalNTTFI5RnVhUkpQYkNHOVl1Z010QXN1S0FJajZqQ29tcXBLeGl0MnNnQ3pDS0VzYklJQzFmRy1MR1hYcG9YOG",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVzNWdmYzUHh2MnEzclFEaHJtZGx4UUpqamJUT1VNd0NsWnhJYW0tUEpPWXMxWHlPLVJUYkcxcmRBNlpyOExpUE5Fb0xpckNqYTVzSHBhaFZFaW11M2tXaFBDTXNTMXBINTQwalNTTFI5RnVhUkpQYkNHOVl1Z010QXN1S0FJajZqQ29tcXBLeGl0MnNnQ3pDS0VzYklJQzFmRy1MR1hYcG9YOGtuTXlxNzRCdEZHNl9QdlFFZDN2Y2FKQQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 12 Jun 2026 17:35:25 GMT",
+          "source": "The Statehouse File"
+        }
+      ]
+    },
+    {
+      "id": "04d675ea22c2",
+      "title": "More than a vacation: Why travel stories matter - MessageMedia.co",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZk9QdzlqYkpLczFRSmJxcFU5NUlzWUpWVFY5U19TUkFfa2xuNVB6TGNDVjBKSmVoT0dSSkRYcWVzLWFleUYtdHZaM1Y4eTFqTkpfMG1uSEdNY1A5R0JzRzBrTEx1dFc4d1V4bkdVQXNmbFZFcENmZEpHNmZiSHJWOWZuc0ViWVFXSTRPWmJKbGpXUzZNSmFZMkZEMlByZlZPemRUaTl3eV9lb2",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZk9QdzlqYkpLczFRSmJxcFU5NUlzWUpWVFY5U19TUkFfa2xuNVB6TGNDVjBKSmVoT0dSSkRYcWVzLWFleUYtdHZaM1Y4eTFqTkpfMG1uSEdNY1A5R0JzRzBrTEx1dFc4d1V4bkdVQXNmbFZFcENmZEpHNmZiSHJWOWZuc0ViWVFXSTRPWmJKbGpXUzZNSmFZMkZEMlByZlZPemRUaTl3eV9lb21yQ0dfQTYtWHA0QWVGWHpwYzN3eUwxbXpZWlVITDVra19IUDUxc2huV1M5dWZlQUQyc1FpcWNsdkpXMkJu?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
           "published": "Fri, 12 Jun 2026 10:00:00 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "ae2f3c5df36b",
-      "title": "(Re)Creation of the OIHS Culture Travel Club - Islands' Sounder",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGJXUFVxME1NYk44bkp3eVRhRUIwMGhZMEI1Mnd1UkVVVGpJRm5sdnE1NE5hSFg5dkppUmlEbjR5SlZhTVZ1NzJfeGRBeUZiY0RPcElRWWowRGxBOEpyWmVUU1Y2aDM1M3lDMmRlUUFZM0xUNndUcUNCakdTckFzV3BhcERZbEhWdUdSdVFn?oc=5\" target=\"_blank\">(Re)Creation of",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGJXUFVxME1NYk44bkp3eVRhRUIwMGhZMEI1Mnd1UkVVVGpJRm5sdnE1NE5hSFg5dkppUmlEbjR5SlZhTVZ1NzJfeGRBeUZiY0RPcElRWWowRGxBOEpyWmVUU1Y2aDM1M3lDMmRlUUFZM0xUNndUcUNCakdTckFzV3BhcERZbEhWdUdSdVFn?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 12 Jun 2026 08:32:05 GMT",
-          "source": "Islands' Sounder"
-        }
-      ]
-    },
-    {
-      "id": "96b6230b7dc2",
-      "title": "Upcoming University Drive Lane closure, travel impacts - UKNow",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXg4TDZ2eGhKOUQ5LTRUREVuYUE3MnBXMXIxelBSV0NXZE0wQ2c4UUw5QzdxaEE1SFdnd1Z0NEtGNThGVjZtdERXUk1MaXJhU2w3VXNPTHZySnkwS1VGWGJySXJRTFY0bmJfUU1JdGlUMTJWMjVHNUQ2Y3BRaUpPVGhvdnRlVkdHRFo0bEU1SQ?oc=5\" target=\"_blank\">Upcoming Univ",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXg4TDZ2eGhKOUQ5LTRUREVuYUE3MnBXMXIxelBSV0NXZE0wQ2c4UUw5QzdxaEE1SFdnd1Z0NEtGNThGVjZtdERXUk1MaXJhU2w3VXNPTHZySnkwS1VGWGJySXJRTFY0bmJfUU1JdGlUMTJWMjVHNUQ2Y3BRaUpPVGhvdnRlVkdHRFo0bEU1SQ?oc=5",
+      "id": "ffd5c1349546",
+      "title": "American to serve milestone 100 destinations in Mexico, the Caribbean and Latin America with two new cities from Miami - American Airlines",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTBRWFJJUzJfQ0hKSUU2SWtlNk9PY1NCaUp6VGE3MjFqQ2oyaWgwWjZ5dG11Sk1aRy13RnN1ZzJ4bGc4cXdURF84ZldQUGVzUnZrU2FXQmszeUN6S1FoeTZkS0lLcTIwNzFyeU5wX2NmdGtKMmF0TWYzX09SblRvTElwZnBTQnlaeDBiZm9EUEw3SEFYank5dUhscjI?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTBRWFJJUzJfQ0hKSUU2SWtlNk9PY1NCaUp6VGE3MjFqQ2oyaWgwWjZ5dG11Sk1aRy13RnN1ZzJ4bGc4cXdURF84ZldQUGVzUnZrU2FXQmszeUN6S1FoeTZkS0lLcTIwNzFyeU5wX2NmdGtKMmF0TWYzX09SblRvTElwZnBTQnlaeDBiZm9EUEw3SEFYank5dUhscjI?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,11 +58,111 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 12 Jun 2026 08:00:18 GMT",
-          "source": "UKNow"
+          "published": "Fri, 12 Jun 2026 13:59:56 GMT",
+          "source": "American Airlines"
+        }
+      ]
+    },
+    {
+      "id": "ad1b3091ab35",
+      "title": "Two Drinks with. . . Trump’s Tourism Czar - The Free Press",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5HZTAxUGJQeWhZYWhIUlg5blR4bXJuYUpyNU9MdTgyU1lLak1kWmlFMV9vcG9uR1NjbWhPWHM3cmNHdGdyZE5GSXZ1R2VKYWxnc0d6YUtENWFJNzdERnpBSW5DeEpqX25DenZr?oc=5\" target=\"_blank\">Two Drinks with. . . Trump’s Tourism Czar</a>&nbsp;&nbsp;<font ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HZTAxUGJQeWhZYWhIUlg5blR4bXJuYUpyNU9MdTgyU1lLak1kWmlFMV9vcG9uR1NjbWhPWHM3cmNHdGdyZE5GSXZ1R2VKYWxnc0d6YUtENWFJNzdERnpBSW5DeEpqX25DenZr?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-06-12T23:04:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 12 Jun 2026 18:59:04 GMT",
+          "source": "The Free Press"
+        }
+      ]
+    },
+    {
+      "id": "812a5cadbcb8",
+      "title": "Fredericksburg District Weekly Travel Alert: June 14 -20, 2026 - Virginia Department of Transportation (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkw2bXZyQmlhLWVMT1BQZC02S29ySDJSVndpYTEwdmlGbWtJazNWUktmUkxlUjI3U3JfS1hXS2ZMVlZVRk9ia3hLUVl2dzIwUHdmcS1sTVF5RnZzT1VRaTlIR0pGbFlseFl6RkNCUXM5WU5kR293VkhHVVZXNHdVaGhIcW5hV0FhdlNBWnJySTRWUDVRQUdvWHZyVzJMY09kb0FZT3FnN3NLb2",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkw2bXZyQmlhLWVMT1BQZC02S29ySDJSVndpYTEwdmlGbWtJazNWUktmUkxlUjI3U3JfS1hXS2ZMVlZVRk9ia3hLUVl2dzIwUHdmcS1sTVF5RnZzT1VRaTlIR0pGbFlseFl6RkNCUXM5WU5kR293VkhHVVZXNHdVaGhIcW5hV0FhdlNBWnJySTRWUDVRQUdvWHZyVzJMY09kb0FZT3FnN3NLb2E3aGR0eVNQVlVsQzY5RnlPclJSTkpZU2VYTWRQdWZVcw?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-06-12T23:04:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 12 Jun 2026 18:11:32 GMT",
+          "source": "Virginia Department of Transportation (.gov)"
+        }
+      ]
+    },
+    {
+      "id": "8d55016c7021",
+      "title": "Travel Price Index (2026-06-10) - U.S. Travel Association",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iZFAyRTNHbVFRYVUtSUQ2WDZaRHRWLXpxMzBhVjhRdFBJMjAxbUtFNjBvZU9lZ0d1Z0hSZGpNZmktV2RLM2poaXROeGg2b2JTYXNqOV9YNy1SUU9iLU1fMTVR?oc=5\" target=\"_blank\">Travel Price Index (2026-06-10)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. T",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iZFAyRTNHbVFRYVUtSUQ2WDZaRHRWLXpxMzBhVjhRdFBJMjAxbUtFNjBvZU9lZ0d1Z0hSZGpNZmktV2RLM2poaXROeGg2b2JTYXNqOV9YNy1SUU9iLU1fMTVR?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-06-12T23:04:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+          "source": "U.S. Travel Association"
+        }
+      ]
+    },
+    {
+      "id": "e5ecf354ea1f",
+      "title": "eJP: Conflict flare-ups, surging shekel put Israel education travel at risk - The Jewish Federations of North America",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbWZiNVFKTmZySkYwUVZkQ0JSbDFhTG9TTVJaUngxYWVwY0hRdFdrc3RqdWZQY2hLbnRRcHpxeExKRGZJSndXeUpBN3ZMT1J1eDhqMkMxa2ctcDdlRHJNbUdCdklnZlJ1eFpHSlAxZklBYkVSRlMyWldCeEFnUzBNQWgwOHY2QlU3eEJ2Mkg1SGVRd09SZTBZaG1NOGYtWnJyZGZGVmlNVmoydU",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbWZiNVFKTmZySkYwUVZkQ0JSbDFhTG9TTVJaUngxYWVwY0hRdFdrc3RqdWZQY2hLbnRRcHpxeExKRGZJSndXeUpBN3ZMT1J1eDhqMkMxa2ctcDdlRHJNbUdCdklnZlJ1eFpHSlAxZklBYkVSRlMyWldCeEFnUzBNQWgwOHY2QlU3eEJ2Mkg1SGVRd09SZTBZaG1NOGYtWnJyZGZGVmlNVmoydU54ZTlhT3ZiVXhQVkdaemFlY2dtQkY?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-06-12T23:04:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 12 Jun 2026 16:51:54 GMT",
+          "source": "The Jewish Federations of North America"
+        }
+      ]
+    },
+    {
+      "id": "2cf29184f690",
+      "title": "Christian County officials highlight ongoing tourism success with strong economic impact year - WBKO",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdW5xTENlczBwMF9pVEZ5R0pUMGREb1VSX00yQlNTNWpyWC1pV2RVa1ppalRRV0hHNTJUbmFpQ21ETTBVS3pRM1ZYRHh3a2ladE1QdG5VVEtTZ083dHRxRUlDakwyckRaR3Z6ckswNzNzWXg2dTE1NTN2WVNQUjRlR3FDa2hsU0YxaHNJRGhpQm9kQUhoVEkzR3V4WVNicDJtZzUzVW1aTHQ5dH",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdW5xTENlczBwMF9pVEZ5R0pUMGREb1VSX00yQlNTNWpyWC1pV2RVa1ppalRRV0hHNTJUbmFpQ21ETTBVS3pRM1ZYRHh3a2ladE1QdG5VVEtTZ083dHRxRUlDakwyckRaR3Z6ckswNzNzWXg2dTE1NTN2WVNQUjRlR3FDa2hsU0YxaHNJRGhpQm9kQUhoVEkzR3V4WVNicDJtZzUzVW1aTHQ5dHNOMEd5OWxMMDJVbWY1UmVTQXV2S3kwMUpa?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-06-12T23:04:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 12 Jun 2026 20:16:00 GMT",
+          "source": "WBKO"
         }
       ]
     },
@@ -71,14 +171,14 @@
       "title": "My Parents Love Dropping a Ton of Cash on Travel. My Wife Has a Weird Argument for Why It Makes Them Bad Grandparents. - Slate Magazine",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGNxd01tcFFMUGMzRXdBVFVxUDVBbG1fQnFTSG5HWmlwNHBuVHBUQVN3bTV2dy1zVDYtMlpGZUpUM05CNFQtTzl0dDBIem53TXJjU3lSMmZRY3pjSm92dXdleDQ4UU1vLTJDVFNiMUNtRDlFcE9qVWZLX0J0N1M5UjNDQQ?oc=5\" target=\"_blank\">My Parents Love Dropping a To",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGNxd01tcFFMUGMzRXdBVFVxUDVBbG1fQnFTSG5HWmlwNHBuVHBUQVN3bTV2dy1zVDYtMlpGZUpUM05CNFQtTzl0dDBIem53TXJjU3lSMmZRY3pjSm92dXdleDQ4UU1vLTJDVFNiMUNtRDlFcE9qVWZLX0J0N1M5UjNDQQ?oc=5",
-      "score": 79.2,
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
           "published": "Fri, 12 Jun 2026 10:00:00 GMT",
@@ -87,110 +187,10 @@
       ]
     },
     {
-      "id": "fdf33c9701a5",
-      "title": "Get Ready for World Cup Travel Hassles - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGxaTXRfc1Y1VGdIdVdJeXdRZURRTWd6RGVIYVVMa0l6VGtrTFM5T056OExxeHVGRE1Ta1hseDV1STFLYnozalQ5QnIwNHRNTlNoY01IT2FtZnVCd2h5UlNDd0d0ZXNLV0RmSmNkVzBIajhYNzZZa0ZHNVA0RHhWQ0VEV3JkUXRYTll5bw?oc=5\" target=\"_blank\">Get Ready for Wor",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGxaTXRfc1Y1VGdIdVdJeXdRZURRTWd6RGVIYVVMa0l6VGtrTFM5T056OExxeHVGRE1Ta1hseDV1STFLYnozalQ5QnIwNHRNTlNoY01IT2FtZnVCd2h5UlNDd0d0ZXNLV0RmSmNkVzBIajhYNzZZa0ZHNVA0RHhWQ0VEV3JkUXRYTll5bw?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 12 Jun 2026 12:25:00 GMT",
-          "source": "WSJ"
-        }
-      ]
-    },
-    {
-      "id": "c20b7d650fc9",
-      "title": "Portage County tourism generates $293M in 2025, setting new record - Stevens Point Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQkpoVkVkMnoteXpfQVItM2VRWkxEOF80LUVGWWF4d0hiQ043WW5heS1aU05jUjN1RVk2SUlxa3JlZFBPQmtuSTZmWThNOTZMTTQtTmFuVlB2cTF4SnBfTkF5Uzhuel9yNXNJSWZDRTF4RVI2emg3MlpoWENYcUVMZE5zMXdzVWYyVXo2dUVjdVg3ZzA5Q0pJVERsd2tRZ1dLd1I5SnBjZjZ6dW",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQkpoVkVkMnoteXpfQVItM2VRWkxEOF80LUVGWWF4d0hiQ043WW5heS1aU05jUjN1RVk2SUlxa3JlZFBPQmtuSTZmWThNOTZMTTQtTmFuVlB2cTF4SnBfTkF5Uzhuel9yNXNJSWZDRTF4RVI2emg3MlpoWENYcUVMZE5zMXdzVWYyVXo2dUVjdVg3ZzA5Q0pJVERsd2tRZ1dLd1I5SnBjZjZ6dWlESGUyTzVwODBtRG0zb1pGSUFEMTJwR25UTFFELXpMOC03UV9JSGUySEl3X1o?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 12 Jun 2026 09:08:00 GMT",
-          "source": "Stevens Point Journal"
-        }
-      ]
-    },
-    {
-      "id": "cef6620c5a2c",
-      "title": "World Cup travel boost hasn't materialized for U.S. businesses — yet - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rT0FtQi1rMGlEQ0xPRlFxNHBHT0tZQWdsVkpYMTgxcFNsUkRzYTVib1dIUEpXZEhzTFJIcXJRckZRLWM5TEtndVpTQjRRaEZrMU9RektaN0tKR1J2RWRqQ2U2MNIBaEFVX3lxTFBrMWFVMExoQlZFN1hvNkswMXhWUGZ5Q0dmeU5FUUVlWnpKNkFWOWtMeXJaTXkwaEQ0bTN0c3QxLVpNTXRVM3",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rT0FtQi1rMGlEQ0xPRlFxNHBHT0tZQWdsVkpYMTgxcFNsUkRzYTVib1dIUEpXZEhzTFJIcXJRckZRLWM5TEtndVpTQjRRaEZrMU9RektaN0tKR1J2RWRqQ2U2MNIBaEFVX3lxTFBrMWFVMExoQlZFN1hvNkswMXhWUGZ5Q0dmeU5FUUVlWnpKNkFWOWtMeXJaTXkwaEQ0bTN0c3QxLVpNTXRVM3RLQjEwY1U4eHpmRkdWYmpNLXg1M0h5RDliUHhhMndkNzlS?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 10 Jun 2026 17:22:42 GMT",
-          "source": "CNBC"
-        }
-      ]
-    },
-    {
-      "id": "fd9289c48d06",
-      "title": "This Popular Italian Town Will Fine You $2,900 for Wearing Flip-flops - Travel + Leisure",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWkNkOF9NbmY3YloyZHhPeHhLd1JLRERSRU9mUHh1bkVYc3JCc1NJd01NZWpFQlEwZWxlRERBTjd0LXFxWEhyVEMxY2dCRzFwYTlnUktLYWlqNlpTVkRRajNlWnB1bHhMN1lBOXFMa0Znb0E1eDhLeThBdjlLUm8?oc=5\" target=\"_blank\">This Popular Italian Town Will Fine ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWkNkOF9NbmY3YloyZHhPeHhLd1JLRERSRU9mUHh1bkVYc3JCc1NJd01NZWpFQlEwZWxlRERBTjd0LXFxWEhyVEMxY2dCRzFwYTlnUktLYWlqNlpTVkRRajNlWnB1bHhMN1lBOXFMa0Znb0E1eDhLeThBdjlLUm8?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 11 Jun 2026 21:00:00 GMT",
-          "source": "Travel + Leisure"
-        }
-      ]
-    },
-    {
-      "id": "e75a0eddd6d9",
-      "title": "Cyprus Drops to Level 1 Advisory as Mediterranean Travel Reopens - TravelPirates",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlJ3eEdETi1fc3pzd00yMlRJWUttVWtnTEtWT3lEZXRwWVdyM2UwUXVmNTFVVDJRNjRFQ1dOaDNoYUotSVEyZlFTN1I3dEdTQndYVHNvSU4xQ1JYU3o3dkdwY3hHSjN5WjFIRUlqTEt0Y0JNQ3VVbmJqcEdob0gtOWs1dFRZNmZuaFJXbkxhZ3dZb0tVc2ZJ?oc=5\" target=\"_blank\">Cyp",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlJ3eEdETi1fc3pzd00yMlRJWUttVWtnTEtWT3lEZXRwWVdyM2UwUXVmNTFVVDJRNjRFQ1dOaDNoYUotSVEyZlFTN1I3dEdTQndYVHNvSU4xQ1JYU3o3dkdwY3hHSjN5WjFIRUlqTEt0Y0JNQ3VVbmJqcEdob0gtOWs1dFRZNmZuaFJXbkxhZ3dZb0tVc2ZJ?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 12 Jun 2026 08:29:58 GMT",
-          "source": "TravelPirates"
-        }
-      ]
-    },
-    {
-      "id": "41ac2d80d292",
-      "title": "AI is the next productivity shock: Can travel reap the gains? - PhocusWire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWUyNXJWZHlzcTZWUjBRVTNqWV9ud1NkRGhrLThnWTFlVXN0UF9ob0I4bXBKSlk4SkFBV1EteFhOYzZaaDVjYTFHRHk0WlhseV9SSnRRbmxrRmtzbWwwalduMmt6VGNOWGJXOV9zMUdwUFIxaDI3U1ROcTRkTnRYYVVPb0FrVzBZV2xJV21yUFdqZ21z?oc=5\" target=\"_blank\">AI is t",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWUyNXJWZHlzcTZWUjBRVTNqWV9ud1NkRGhrLThnWTFlVXN0UF9ob0I4bXBKSlk4SkFBV1EteFhOYzZaaDVjYTFHRHk0WlhseV9SSnRRbmxrRmtzbWwwalduMmt6VGNOWGJXOV9zMUdwUFIxaDI3U1ROcTRkTnRYYVVPb0FrVzBZV2xJV21yUFdqZ21z?oc=5",
+      "id": "5e580e384c4e",
+      "title": "Judge overturns Trump policies targeting travel ban nationals - The PIE News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHRvbFhwZGlHMERCTGNfM1FCaXFpZzhlazFoUGFJX21jNlJ0QlNVMUdXVkFCci1fazZfSHBfQ3E0SHg0bHpHRFpSbVJxVU5ENmhyNlI3YkJ4OENXVEVfRUtPd0ppWGpfVmZLVkE4SndKdllFTHhMRlhWbTlETklRelI1QkpSNVZ0S3hFeGx3?oc=5\" target=\"_blank\">Judge overturns",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHRvbFhwZGlHMERCTGNfM1FCaXFpZzhlazFoUGFJX21jNlJ0QlNVMUdXVkFCci1fazZfSHBfQ3E0SHg0bHpHRFpSbVJxVU5ENmhyNlI3YkJ4OENXVEVfRUtPd0ppWGpfVmZLVkE4SndKdllFTHhMRlhWbTlETklRelI1QkpSNVZ0S3hFeGx3?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +198,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 12 Jun 2026 10:52:30 GMT",
-          "source": "PhocusWire"
+          "published": "Fri, 12 Jun 2026 14:56:06 GMT",
+          "source": "The PIE News"
         }
       ]
     },
     {
-      "id": "8cb297ce2cf8",
-      "title": "The World Cup and U.S. visas explained: Entry rules, travel bans and FIFA’s position - The Athletic - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlVLNVpKNFZMS0lBb0pUTTVBd0k4TmNvNVBfNm9PX2FnZWRNRVN6eU9VanFaSnYtUjJGWWxHNlRLMldpeE9ZSkJJNEQ5bnlNNFBSMjY4aVB2TmRtYktlZEhxOWprcmhOUlB5d3RJaHpGY09uc1ctS3lreEZCUnRITXZHd2k?oc=5\" target=\"_blank\">The World Cup and U.S. visas",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlVLNVpKNFZMS0lBb0pUTTVBd0k4TmNvNVBfNm9PX2FnZWRNRVN6eU9VanFaSnYtUjJGWWxHNlRLMldpeE9ZSkJJNEQ5bnlNNFBSMjY4aVB2TmRtYktlZEhxOWprcmhOUlB5d3RJaHpGY09uc1ctS3lreEZCUnRITXZHd2k?oc=5",
+      "id": "ae2f3c5df36b",
+      "title": "(Re)Creation of the OIHS Culture Travel Club - Islands' Sounder",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGJXUFVxME1NYk44bkp3eVRhRUIwMGhZMEI1Mnd1UkVVVGpJRm5sdnE1NE5hSFg5dkppUmlEbjR5SlZhTVZ1NzJfeGRBeUZiY0RPcElRWWowRGxBOEpyWmVUU1Y2aDM1M3lDMmRlUUFZM0xUNndUcUNCakdTckFzV3BhcERZbEhWdUdSdVFn?oc=5\" target=\"_blank\">(Re)Creation of",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGJXUFVxME1NYk44bkp3eVRhRUIwMGhZMEI1Mnd1UkVVVGpJRm5sdnE1NE5hSFg5dkppUmlEbjR5SlZhTVZ1NzJfeGRBeUZiY0RPcElRWWowRGxBOEpyWmVUU1Y2aDM1M3lDMmRlUUFZM0xUNndUcUNCakdTckFzV3BhcERZbEhWdUdSdVFn?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 11 Jun 2026 18:58:34 GMT",
-          "source": "The New York Times"
+          "published": "Fri, 12 Jun 2026 08:32:05 GMT",
+          "source": "Islands' Sounder"
         }
       ]
     },
     {
-      "id": "8e252aebee92",
-      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
+      "id": "3fa3e1852ee1",
+      "title": "AAA Survey: Half of Tennesseans Still Planning Summer Vacations Despite Rising Travel Costs - Clarksville Online",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQU12eGJKOVJibGFUU0M4eDQ2Y3pwTlZZMV9FU2R2TEFoRnVnSm05Z3FoRVFGdTRMQlhraVl2NjJ5bnJDMVZKazZfWWg2c0dqZGdjc3FyNXlCXzZzOW5mTmNaNkhLRTZMYXFsb0syb2p6aFJFTHNQQjBCcEZFd3pFUHFNMHVwdDl2NE9DTC0wV2hyMkQyZXR5dmdSZlA4VFo2dC1tQWpKLWtONm",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQU12eGJKOVJibGFUU0M4eDQ2Y3pwTlZZMV9FU2R2TEFoRnVnSm05Z3FoRVFGdTRMQlhraVl2NjJ5bnJDMVZKazZfWWg2c0dqZGdjc3FyNXlCXzZzOW5mTmNaNkhLRTZMYXFsb0syb2p6aFJFTHNQQjBCcEZFd3pFUHFNMHVwdDl2NE9DTC0wV2hyMkQyZXR5dmdSZlA4VFo2dC1tQWpKLWtONmxXdTdLOFZ3T3FyWWJvNTBQWkszVlBhdnpNaGlpOEl4cmhnOVlJOUE?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+          "published": "Fri, 12 Jun 2026 19:00:27 GMT",
+          "source": "Clarksville Online"
         }
       ]
     },
     {
-      "id": "0cdc73c7cb5f",
-      "title": "Sea-Tac Airport predicts ‘busiest ever’ summer amid World Cup. How to avoid crowds - Tacoma News Tribune",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSU5ZUGRnTUxIYVNQYU9zV0k4Y1kxMEVrOEpkTGFoZTdKaVZwWEVteFBWaFFQNzQ0Y1pQWjhmX1A5U2ZBMXZIVmVIeWFBMVZDNVZhX2htVlB4MVdYQURwX2kyS18zclFjTE9nQWM1WDh4Y085eUxBUldoX2F2dER4ZG5udHo2WHA10gGIAUFVX3lxTE1xZ1pNOEhuNzRRd3ZLVjZuWjZhakttb0",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSU5ZUGRnTUxIYVNQYU9zV0k4Y1kxMEVrOEpkTGFoZTdKaVZwWEVteFBWaFFQNzQ0Y1pQWjhmX1A5U2ZBMXZIVmVIeWFBMVZDNVZhX2htVlB4MVdYQURwX2kyS18zclFjTE9nQWM1WDh4Y085eUxBUldoX2F2dER4ZG5udHo2WHA10gGIAUFVX3lxTE1xZ1pNOEhuNzRRd3ZLVjZuWjZhakttb0tOby1UMUduWEFBc29WRHlCc2JVVVprUWtvcWlNRy00TV9LNzdzcmxqMjVLY0J0dlZLanp5Ukp1ampJOERFWjZsVTVuUmRDUG9IYXh4YkJLQmFrcnUwWW9NVE1wRWJudmFuRXFlLWhwTVo?oc=5",
+      "id": "b58b9d508602",
+      "title": "Summit Express expands group travel offerings, community thrift store opens and more - SummitDaily.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlZ3akMwMFFNVUFLMGt5UE1aUTFKREVGNnFNclNtOGJmNFhLRHlVNUNSWUN5YjFySFpQUlRqMlVycG9PRGpsMG4wVlc2dmx2czNLSExUd2JFcndIc2FpWkJkcklQYkY1SzRNb0NXaUxXc1h1M00tNFU3RmNTd2wxOS1WX0NEcXgtLUZIM3hMMWNwZjA0OWFzcDZGdWFNMkczSjk4RUJlRGtNQ3",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlZ3akMwMFFNVUFLMGt5UE1aUTFKREVGNnFNclNtOGJmNFhLRHlVNUNSWUN5YjFySFpQUlRqMlVycG9PRGpsMG4wVlc2dmx2czNLSExUd2JFcndIc2FpWkJkcklQYkY1SzRNb0NXaUxXc1h1M00tNFU3RmNTd2wxOS1WX0NEcXgtLUZIM3hMMWNwZjA0OWFzcDZGdWFNMkczSjk4RUJlRGtNQ3dYU0lTalhZcHpOeXZS?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +258,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 12 Jun 2026 12:00:00 GMT",
-          "source": "Tacoma News Tribune"
+          "published": "Fri, 12 Jun 2026 20:49:21 GMT",
+          "source": "SummitDaily.com"
         }
       ]
     },
     {
-      "id": "3cb51d2213e6",
-      "title": "Here’s the Alaska Cruise Packing List I Suggest After 6 Voyages to Alaska and Over 150 Days at Sea - Real Simple",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczF2V1JmbjRxNTI2bjFMQXJCcnpIWlJTdnhpeUZ6VnVZNGNYbEFkTlo2QTkweUViZU5tbHNiMWVpTFhsTENjcXpMSnFCZVd2WjZfTzMtd3ZVU2ZuVHRzdzhQTFd2WldJdnZ3aVRFU1l2YkxwSFZ0YXFaTGo2R1VRSkc1TzhEamRVNW9R?oc=5\" target=\"_blank\">Here’s the Alaska C",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczF2V1JmbjRxNTI2bjFMQXJCcnpIWlJTdnhpeUZ6VnVZNGNYbEFkTlo2QTkweUViZU5tbHNiMWVpTFhsTENjcXpMSnFCZVd2WjZfTzMtd3ZVU2ZuVHRzdzhQTFd2WldJdnZ3aVRFU1l2YkxwSFZ0YXFaTGo2R1VRSkc1TzhEamRVNW9R?oc=5",
+      "id": "a8c51ac810e5",
+      "title": "New Love’s travel stop bringing 75 new jobs to the City of Gretna - WCTV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1NRTkJQc1haMVJXOE54bXoyTmFLNGI0ajVRWEdlbk1BdWhxSFhtSUk0MjBNdkhsaW1jOHRaR2VqbzVNTGw4dXBGc2hzeVdaSWV5X0RlRWluZkltZy1lTWZkRmR3b0pkbUVQa2xoOWZydG5PN0lZQnZjeWZ1Vkg5M1hncmNsdEd2VFRPcFdUVQ?oc=5\" target=\"_blank\">New Love’s tr",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1NRTkJQc1haMVJXOE54bXoyTmFLNGI0ajVRWEdlbk1BdWhxSFhtSUk0MjBNdkhsaW1jOHRaR2VqbzVNTGw4dXBGc2hzeVdaSWV5X0RlRWluZkltZy1lTWZkRmR3b0pkbUVQa2xoOWZydG5PN0lZQnZjeWZ1Vkg5M1hncmNsdEd2VFRPcFdUVQ?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 12 Jun 2026 12:00:00 GMT",
-          "source": "Real Simple"
+          "published": "Fri, 12 Jun 2026 16:39:00 GMT",
+          "source": "WCTV"
         }
       ]
     },
     {
-      "id": "2da71ff0775f",
-      "title": "FIFA World Cup 2026 Sets New Benchmark for Trusted, Seamless Travel Across Borders - Hospitality Net",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnptc3A3VHFUU2ZMeTkyRlJhYXlBRHJ4RkdGYU01aHJENTl4QTFiSXhqRlFVU0Jhd05kdEszT0JJREQtX3RFZnl3aHp4cG5HbXNMeHM1WUc5azNuTXJ3VVRsMEdUczctdEJPa0s1a1EtMWVOMjdxUlRJbDgtdHh3WW55Q0tyQnBjbndyd21qa19VSmF4MWNKSWxINkgwVVMtaEVsWV9XUHhVNW",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnptc3A3VHFUU2ZMeTkyRlJhYXlBRHJ4RkdGYU01aHJENTl4QTFiSXhqRlFVU0Jhd05kdEszT0JJREQtX3RFZnl3aHp4cG5HbXNMeHM1WUc5azNuTXJ3VVRsMEdUczctdEJPa0s1a1EtMWVOMjdxUlRJbDgtdHh3WW55Q0tyQnBjbndyd21qa19VSmF4MWNKSWxINkgwVVMtaEVsWV9XUHhVNWhIdThlLVdEZTJ5TWJLeG1qUmVHZHRXZTA?oc=5",
+      "id": "81e57068dbc0",
+      "title": "How one of Florida’s smallest towns built a big reputation for tourism - WUFT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNMDB6SUhOSGhxVWNMZXNJUkNsUU14bXoyQ2I1eHZQcEtFSXUtWW9JbjVpcVM1QlpoRkd4eWNSdTdzXzhPQ3lzV3UzT1hwanlHaU54WlBjenZ6QVhWZ2xMLVUyQnNwODBrVUZ6aEx0a1hEa0J5TDFwTi0yZ3NhTHo5dW9PMU1HTVNhSEUwaTF0ZzRrOGdKZDBEdjlrVDZjRFVDX0x5c3JLRlVuM3",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMDB6SUhOSGhxVWNMZXNJUkNsUU14bXoyQ2I1eHZQcEtFSXUtWW9JbjVpcVM1QlpoRkd4eWNSdTdzXzhPQ3lzV3UzT1hwanlHaU54WlBjenZ6QVhWZ2xMLVUyQnNwODBrVUZ6aEx0a1hEa0J5TDFwTi0yZ3NhTHo5dW9PMU1HTVNhSEUwaTF0ZzRrOGdKZDBEdjlrVDZjRFVDX0x5c3JLRlVuM3l0eFNZOFN4NGJjUQ?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 12 Jun 2026 10:17:54 GMT",
-          "source": "Hospitality Net"
+          "published": "Fri, 12 Jun 2026 19:00:00 GMT",
+          "source": "WUFT"
         }
       ]
     },
     {
-      "id": "11e67f66ad5f",
-      "title": "Malaria increases prompt travel notice for Yemen - Outbreak News Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUF5ckttbWE2QUVvUzQ4dk1NMHdONVZ5R1QtaTVrVEF6dUlJY2xHVlAzNk5VSnJhdjBBTHhCMGxYYXpwdl9WcVdDTkxHdmJFRWtoVFNWNWVOeXlXMmZpcmY1VDNYSF9BV1BJUWVuMVA3cC1TXzlpZTRweHkwTFdEUnpWcC0yZw?oc=5\" target=\"_blank\">Malaria increases prompt ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUF5ckttbWE2QUVvUzQ4dk1NMHdONVZ5R1QtaTVrVEF6dUlJY2xHVlAzNk5VSnJhdjBBTHhCMGxYYXpwdl9WcVdDTkxHdmJFRWtoVFNWNWVOeXlXMmZpcmY1VDNYSF9BV1BJUWVuMVA3cC1TXzlpZTRweHkwTFdEUnpWcC0yZw?oc=5",
+      "id": "dec1fb665ea8",
+      "title": "The New Grand Egyptian Museum Is Just One Of Egyptian’s Tourism Gems - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbU5NWWhSVlNIT1gyMU9MRFd3a0RWOWZSc2ZPZ0tkOXRXSkdVT19hYlFuM0x0OGtPTFBIXzE1akttZ0VyZWtiQm5hVWlpaU5iREVYcWZHS01FX2hDblpUaE9rMHVmcVBsYUc5N0lPbExRZXcwZDJiM1dtUVUyQ24xdnF4d2RXRFFYTVhjaFc5N3BicV9fUE9Scl9wUzJiZXVlZWI0TmVwb1lyQV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbU5NWWhSVlNIT1gyMU9MRFd3a0RWOWZSc2ZPZ0tkOXRXSkdVT19hYlFuM0x0OGtPTFBIXzE1akttZ0VyZWtiQm5hVWlpaU5iREVYcWZHS01FX2hDblpUaE9rMHVmcVBsYUc5N0lPbExRZXcwZDJiM1dtUVUyQ24xdnF4d2RXRFFYTVhjaFc5N3BicV9fUE9Scl9wUzJiZXVlZWI0TmVwb1lyQVZFTHR5UTRjSzlPOF9wWHVzdzQyZEp6VGc?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 12 Jun 2026 12:33:27 GMT",
-          "source": "Outbreak News Today"
+          "published": "Fri, 12 Jun 2026 20:23:12 GMT",
+          "source": "Forbes"
         }
       ]
     },
     {
-      "id": "e5992f62d718",
-      "title": "Conflict flare-ups, shifting shekel are putting Israel education travel programs at risk - eJewishPhilanthropy",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVF5MmEycHhjaXZ5eVBqRWZyYmRoTGtvR25qV012M2RIVUdMcVlGTG5CS0VublV5cDhaaUd1OGZSSmc5ZWp0WTZSemdnWTBCMlp0NVRUV3BqRVl0Umk0b3FSUkpXYVNEZ0NQUGFuMVNVVDNTdERfaGE1WndQMzlVVVlWcVlOX1NyZkdHcFNZTWk0clNSTEdaeXdaYjNQem5fNHRDQ29sMXFKVk",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVF5MmEycHhjaXZ5eVBqRWZyYmRoTGtvR25qV012M2RIVUdMcVlGTG5CS0VublV5cDhaaUd1OGZSSmc5ZWp0WTZSemdnWTBCMlp0NVRUV3BqRVl0Umk0b3FSUkpXYVNEZ0NQUGFuMVNVVDNTdERfaGE1WndQMzlVVVlWcVlOX1NyZkdHcFNZTWk0clNSTEdaeXdaYjNQem5fNHRDQ29sMXFKVkJUUHg5MWRNNEpfcXpnY0o1Sg?oc=5",
+      "id": "9b8af0e7e4a8",
+      "title": "Game on, jets up: How major sporting events boost private jet travel - International Council on Clean Transportation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVFJWOWYxcmlLU1VRSHFxY3VlLWhnLWhsSkREUFhJY1h5NExyTGdrSHFPdHVBMnY2YWltaDJyQUVUb0Zna2FtMkhrX2JWMkZIczhJMkhscE9nd3pCZnJoSU1OY1NyNkJuYzJDUk45VDkycnFHcWF4OWNaS1ZOcWR3bEVkNUlockRIdEllM0FxSUR6WHQwT1NHcw?oc=5\" target=\"_blank\">G",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVFJWOWYxcmlLU1VRSHFxY3VlLWhnLWhsSkREUFhJY1h5NExyTGdrSHFPdHVBMnY2YWltaDJyQUVUb0Zna2FtMkhrX2JWMkZIczhJMkhscE9nd3pCZnJoSU1OY1NyNkJuYzJDUk45VDkycnFHcWF4OWNaS1ZOcWR3bEVkNUlockRIdEllM0FxSUR6WHQwT1NHcw?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 12 Jun 2026 09:46:39 GMT",
-          "source": "eJewishPhilanthropy"
+          "published": "Fri, 12 Jun 2026 16:32:50 GMT",
+          "source": "International Council on Clean Transportation"
         }
       ]
     },
     {
-      "id": "3c6d4b75de24",
-      "title": "HDFC ERGO Shares Guidance on Travel Insurance Support during Extended Journey Disruptions - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjZQc25QRGFRVnd2OVJqelJMQUZ1OWN2akFQN2tBMUtDNHdLRUlSWFdCT0FPb3NHNHRoclR2Nkh6RVY5MUFnbzN1QTN6VW9lT2Ezc3VRLWpDa0pfbmMzRGtaRjRkb2o3UkpjQkVpSnp6S3VtazZzLWxnTnh5amtiUjNwUVNHTld1NXVJcVM4dW9OS0MzRlRIVlN2Z2ZyUlJuSlVj?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjZQc25QRGFRVnd2OVJqelJMQUZ1OWN2akFQN2tBMUtDNHdLRUlSWFdCT0FPb3NHNHRoclR2Nkh6RVY5MUFnbzN1QTN6VW9lT2Ezc3VRLWpDa0pfbmMzRGtaRjRkb2o3UkpjQkVpSnp6S3VtazZzLWxnTnh5amtiUjNwUVNHTld1NXVJcVM4dW9OS0MzRlRIVlN2Z2ZyUlJuSlVj?oc=5",
+      "id": "0ec83d683473",
+      "title": "West Virginia fans travel hundreds of miles for College World Series - WOWT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOdE53M2NLR01XbFFmODRXOEt3SHJ6ZUhFVmU5MFVwTk5QSXpTZ3h6c0s4MmFMOTVQRTlQWTN6SnhTamFBUDlYanNLcnFycXh2QS1aNDE1Vk9zNS0tWExaUGFpSWZjUEhyVVp1NDZkUkNBZURJcXdCUUt0d3hTYk1WX2xtR1BOY3pCMWNaakFiYWdCQ251LU85cGZR?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdE53M2NLR01XbFFmODRXOEt3SHJ6ZUhFVmU5MFVwTk5QSXpTZ3h6c0s4MmFMOTVQRTlQWTN6SnhTamFBUDlYanNLcnFycXh2QS1aNDE1Vk9zNS0tWExaUGFpSWZjUEhyVVp1NDZkUkNBZURJcXdCUUt0d3hTYk1WX2xtR1BOY3pCMWNaakFiYWdCQ251LU85cGZR?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 12 Jun 2026 07:13:00 GMT",
-          "source": "Yahoo Finance"
+          "published": "Fri, 12 Jun 2026 22:28:00 GMT",
+          "source": "WOWT"
         }
       ]
     },
     {
-      "id": "798cf97e765e",
-      "title": "Colts safety Cam Bynum set to travel to Philippines to aid earthquake relief - ESPN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2FSTlNoOWY2MkM1amRGRXg2NmZIQTM3czMwZkxkZWhxdkpvUkJwOXhJaEtSNTFxZkYzODNWMHkwTllnMmN1UklUazE3enhaMFpsUjZ3LW85OUV6bE1EUHhFeHFIcE15MVBwZ3VTYThBTTJpTU5lbVdsWENaWmp6Zl81VThubDAwTUxLX29Zcm9QeG1CZWcwN3lPZ1VrX2JIOVZRVnU0QkRGQQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2FSTlNoOWY2MkM1amRGRXg2NmZIQTM3czMwZkxkZWhxdkpvUkJwOXhJaEtSNTFxZkYzODNWMHkwTllnMmN1UklUazE3enhaMFpsUjZ3LW85OUV6bE1EUHhFeHFIcE15MVBwZ3VTYThBTTJpTU5lbVdsWENaWmp6Zl81VThubDAwTUxLX29Zcm9QeG1CZWcwN3lPZ1VrX2JIOVZRVnU0QkRGQQ?oc=5",
+      "id": "0db7f1d456dd",
+      "title": "Christian County sees $1.6 million increase in 2025 tourism spending - Christian County Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGJyVGgzb21aMkEzeDFuM0pZbkpDdDZZaGtvTjlVNG8yR3pZNk5reUl5dXFiM3piNW0wYm1fZEVXNThvYlY3dlp5TUdEVHRteXRCWnd1aTJOUHZBNDBYN1BHWUYtSWYzWkhERVNMSm8wZkhFeGdKOWZzbGQ1d1NyWHZZZXl2elBrV1JwMjF5eUFjTFFCMzVNWHdvbmlJMVZEdU00REVwSURKUQ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGJyVGgzb21aMkEzeDFuM0pZbkpDdDZZaGtvTjlVNG8yR3pZNk5reUl5dXFiM3piNW0wYm1fZEVXNThvYlY3dlp5TUdEVHRteXRCWnd1aTJOUHZBNDBYN1BHWUYtSWYzWkhERVNMSm8wZkhFeGdKOWZzbGQ1d1NyWHZZZXl2elBrV1JwMjF5eUFjTFFCMzVNWHdvbmlJMVZEdU00REVwSURKUQ?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 11 Jun 2026 19:25:00 GMT",
-          "source": "ESPN"
+          "published": "Fri, 12 Jun 2026 20:17:51 GMT",
+          "source": "Christian County Now"
         }
       ]
     },
     {
-      "id": "b9020e9af4f9",
-      "title": "GBTA Brings Industry Voices to Capitol Hill to Champion Business Travel’s Value and Economic Impact - Hospitality Net",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHZQczdJeTJNUGVsMlBqcHFkWmZtaUpaVTJMZEpfd25UcnRKUmRUS3ZCVjFGM1lvLW1TaUx0aWlfbFlVank4cVFpT2d2X21Sa3R3Y0t3WnVrbnhCeTMyN1NPckZ0SzhpWUhobTRqTUYtLXBYYzE1bnRyTzBvYzFCTUozVGhIMEdKMDN3M1ZiS3Nzb1UzWXNlSjk3dG5rOHBHSERYZkdndmVJZW",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHZQczdJeTJNUGVsMlBqcHFkWmZtaUpaVTJMZEpfd25UcnRKUmRUS3ZCVjFGM1lvLW1TaUx0aWlfbFlVank4cVFpT2d2X21Sa3R3Y0t3WnVrbnhCeTMyN1NPckZ0SzhpWUhobTRqTUYtLXBYYzE1bnRyTzBvYzFCTUozVGhIMEdKMDN3M1ZiS3Nzb1UzWXNlSjk3dG5rOHBHSERYZkdndmVJZWgyZHN2TTVLd1RPS01kT080MllFNEdhVVpENmVKZkVoNWFMT0tZaDhVeDNyUDdjUQ?oc=5",
+      "id": "d87bcc4eb65c",
+      "title": "Texas Travel Information Center to host vintage RV show for Route 66 Friday - KFDA | NewsChannel 10",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2pQb1FIWTRMbXFmUlpTZUQzQk1MTUxTbWE4dS1xamdQbHlMYk5sS21RT1R6WXY0elFra1AwOHVidTgxeWQ1ZnZaTThKWF9OeU1EY2JHdF9HRTVHYzAtZGFTV0NhdGZndDBUTFAzWl8taUhSOUYtdXgybl9yeWhTc0c0Y2FpLUVKTkVUaVR3Mi1wSUEwQURsS1h5TVBXZEVPVWdlQTdGbTRaTn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2pQb1FIWTRMbXFmUlpTZUQzQk1MTUxTbWE4dS1xamdQbHlMYk5sS21RT1R6WXY0elFra1AwOHVidTgxeWQ1ZnZaTThKWF9OeU1EY2JHdF9HRTVHYzAtZGFTV0NhdGZndDBUTFAzWl8taUhSOUYtdXgybl9yeWhTc0c0Y2FpLUVKTkVUaVR3Mi1wSUEwQURsS1h5TVBXZEVPVWdlQTdGbTRaTnZidEE00gHDAUFVX3lxTE5qRzZuQlpXMWNJRGlJNlRSdV9NSUxEVzQtX3VwRl9fcHpyelZYbEZhWG1JT1B5MDJGNWRZTmN5OVlaU1Azb3c2c2xmRFNGbDVYeFVLUm5YZFBtVkxRMkVUNVVId0p6WUdCMzZaMnlQTy1TRFJWWXFDNU54R2JzcERYaHhWaERTaGIzQUtYcVhUU2RkaUk4VElyU001SUJOUUk5Y3F3d1dyMHlwbTVyUklhb3BRRE5MT2duOG1BNk5QdWFYVQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-06-12T12:41:52+00:00",
+      "first_seen": "2026-06-12T23:04:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 12 Jun 2026 12:14:11 GMT",
-          "source": "Hospitality Net"
+          "published": "Fri, 12 Jun 2026 15:46:00 GMT",
+          "source": "KFDA | NewsChannel 10"
         }
       ]
     }
