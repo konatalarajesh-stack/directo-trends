@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-06-17T23:19:36+00:00",
+  "generated_at": "2026-06-18T12:44:14+00:00",
   "cache_ttl_hours": 6,
   "count": 19,
   "trends": [
     {
-      "id": "5cc485a944d6",
-      "title": "U.S. Centers for Disease Control issues travel alert for Manitoba over hepatitis A outbreak - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFdiWGdiRmtFWGhXSnAtRVRTa1N1UzUyYVI1RGNaX2JHNWFsWE0xUzZDYlVkLTNpdV96Z21tQ2k4dFVoZnZGUnVqajBoUW9rR190cDRNSXQwaGFCbDJoQVNjN09TNWM4enN3WmpBc3VjQmRGdExmeGNTUlFmbHg5cTlqcFZNT1BN?oc=5\" target=\"_blank\">U.S. Centers for Diseas",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFdiWGdiRmtFWGhXSnAtRVRTa1N1UzUyYVI1RGNaX2JHNWFsWE0xUzZDYlVkLTNpdV96Z21tQ2k4dFVoZnZGUnVqajBoUW9rR190cDRNSXQwaGFCbDJoQVNjN09TNWM4enN3WmpBc3VjQmRGdExmeGNTUlFmbHg5cTlqcFZNT1BN?oc=5",
+      "id": "748c3b8f3014",
+      "title": "Quebec City revisited: A daughter remembers her father through food and memories - DurhamRegion.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxNVVhTczQ2SlBBQ3BheGdOaXc1N2xwWjlNSl9YYWVYTkt6M0hPR1UwNmlHU2ViQXlUOHJQc2NCUXpYRXQtZ2w4eE9id0Vac3FzT0dvdFpoTF9BeUJxM2tYSHU4T0lNZUhTamxsRzBRek0zTlBnX3VpZ2dXVXg1UFZQYXRrTUhQRWxjOWUyVEZVcHlOcllQZk83Q1pQSkpUUGhRUXNBX3Y2OU82LU",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVVhTczQ2SlBBQ3BheGdOaXc1N2xwWjlNSl9YYWVYTkt6M0hPR1UwNmlHU2ViQXlUOHJQc2NCUXpYRXQtZ2w4eE9id0Vac3FzT0dvdFpoTF9BeUJxM2tYSHU4T0lNZUhTamxsRzBRek0zTlBnX3VpZ2dXVXg1UFZQYXRrTUhQRWxjOWUyVEZVcHlOcllQZk83Q1pQSkpUUGhRUXNBX3Y2OU82LUtZUm5CVFZwYlVyS3V6ck8wbjR6QjFNYXYxYUVLZVRUenQ5aVlZZ1N6cjFZRVdETkt4SnBuZTFFWlp4OTdVU2lXalhzR2tPU280Y05lZG5lSUcyUThsOW15Ync3M2ptaUczcTdSWVhQM0FpTDcwM2xHc3F0UQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 18 Jun 2026 09:15:00 GMT",
+          "source": "DurhamRegion.com"
+        }
+      ]
+    },
+    {
+      "id": "5cc485a944d6",
+      "title": "U.S. Centers for Disease Control issues travel alert for Manitoba over hepatitis A outbreak - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFdiWGdiRmtFWGhXSnAtRVRTa1N1UzUyYVI1RGNaX2JHNWFsWE0xUzZDYlVkLTNpdV96Z21tQ2k4dFVoZnZGUnVqajBoUW9rR190cDRNSXQwaGFCbDJoQVNjN09TNWM4enN3WmpBc3VjQmRGdExmeGNTUlFmbHg5cTlqcFZNT1BN?oc=5\" target=\"_blank\">U.S. Centers for Diseas",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFdiWGdiRmtFWGhXSnAtRVRTa1N1UzUyYVI1RGNaX2JHNWFsWE0xUzZDYlVkLTNpdV96Z21tQ2k4dFVoZnZGUnVqajBoUW9rR190cDRNSXQwaGFCbDJoQVNjN09TNWM4enN3WmpBc3VjQmRGdExmeGNTUlFmbHg5cTlqcFZNT1BN?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
           "published": "Wed, 17 Jun 2026 22:00:11 GMT",
@@ -27,42 +47,22 @@
       ]
     },
     {
-      "id": "d7e88b141bfd",
-      "title": "How tourism is shaping the debate over natural capital - Corporate Knights",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUJYR3Z1ZVF2X1JLUzZuaTF6NXlpSlVSOUxjQ2dmZUxSSzc3Qy14bEhzdGxWVnJtbkpzZlJoQ1BqQ3F3OUwtZlBFQUY1RE9CeVlxNkt2R0d4WGE0U19WLVN1cV91VU9DdHhUcTYwZ3VvSVd1VXlhU1N6UUJTV1A4bVgxVGNFdDZoQmhqbHdEanZzNnZvT19wNHN5VmZyNjVSZkE?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUJYR3Z1ZVF2X1JLUzZuaTF6NXlpSlVSOUxjQ2dmZUxSSzc3Qy14bEhzdGxWVnJtbkpzZlJoQ1BqQ3F3OUwtZlBFQUY1RE9CeVlxNkt2R0d4WGE0U19WLVN1cV91VU9DdHhUcTYwZ3VvSVd1VXlhU1N6UUJTV1A4bVgxVGNFdDZoQmhqbHdEanZzNnZvT19wNHN5VmZyNjVSZkE?oc=5",
-      "score": 86.4,
+      "id": "2a3e80874ca9",
+      "title": "CDC Issues Travel Notice for Manitoba Amid Hepatitis A Outbreak - TravelPulse Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOem1KN0thZEVWWjBpQ2NCd2xiTnprOWxhOGFwd2lEZ0Fza1p5bnpKTWhDSkF5NWcxR2NGZXNZcEpzWjMtanduRkZFcVhLWm1qNmF0aF9RMUFhZ3ZBcGJac2F6bkpNa19WNlVJY05nMldsTzBMak9qVDhzYXJSVUgtZV8tV2VrTUVNcldWa3ZnSFB0SVBhUzlybVA5bXpYTnR2VXlIV25JN1Rua3",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem1KN0thZEVWWjBpQ2NCd2xiTnprOWxhOGFwd2lEZ0Fza1p5bnpKTWhDSkF5NWcxR2NGZXNZcEpzWjMtanduRkZFcVhLWm1qNmF0aF9RMUFhZ3ZBcGJac2F6bkpNa19WNlVJY05nMldsTzBMak9qVDhzYXJSVUgtZV8tV2VrTUVNcldWa3ZnSFB0SVBhUzlybVA5bXpYTnR2VXlIV25JN1Rua3FmekZqS3dR?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 15:39:23 GMT",
-          "source": "Corporate Knights"
-        }
-      ]
-    },
-    {
-      "id": "de5d48af0fbf",
-      "title": "Tourism Red Deer launches free ‘ Tourism Academy’ - rdnewsnow.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3IyLUtNOTRxaVhnQ0c3ZmowOFJXbWNzSGxNeWVHdmNvdVRlTjZyQk50SUIyalRvVEJySmMyZWpPRl9QYmJJek1BLTBOaVIzZlFKbGZHa3M0ZGF0SXR1SmViQXM0bGZmc0Z6S2U5RGN0WjVBNEFjV3dCNnN0WmFPSVl6RmtvUms?oc=5\" target=\"_blank\">Tourism Red Deer launche",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3IyLUtNOTRxaVhnQ0c3ZmowOFJXbWNzSGxNeWVHdmNvdVRlTjZyQk50SUIyalRvVEJySmMyZWpPRl9QYmJJek1BLTBOaVIzZlFKbGZHa3M0ZGF0SXR1SmViQXM0bGZmc0Z6S2U5RGN0WjVBNEFjV3dCNnN0WmFPSVl6RmtvUms?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 17 Jun 2026 17:22:57 GMT",
-          "source": "rdnewsnow.com"
+          "published": "Thu, 18 Jun 2026 11:35:00 GMT",
+          "source": "TravelPulse Canada"
         }
       ]
     },
@@ -71,26 +71,6 @@
       "title": "U.S. CDC travel advisory issued for Manitoba over hepatitis A outbreak - Global News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGxzOU9ETTRiSzNsR0t0bXY2b2VTTUxKMnYwZVNIbTZvVzJETDhldGZCRmdROWpoQ0xmLUJmdjJ6cnRDN0JmYnFLakp3NjItc2ZiSWhmMkJocnlEQkQ1QlB2blhnMldscFBRY0g1eTBRaDBRQUg1dkRjWUZBZk9uLTFsU3g4cmYtRWMwZkM0QQ?oc=5\" target=\"_blank\">U.S. CDC trav",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGxzOU9ETTRiSzNsR0t0bXY2b2VTTUxKMnYwZVNIbTZvVzJETDhldGZCRmdROWpoQ0xmLUJmdjJ6cnRDN0JmYnFLakp3NjItc2ZiSWhmMkJocnlEQkQ1QlB2blhnMldscFBRY0g1eTBRaDBRQUg1dkRjWUZBZk9uLTFsU3g4cmYtRWMwZkM0QQ?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 17 Jun 2026 21:08:36 GMT",
-          "source": "Global News"
-        }
-      ]
-    },
-    {
-      "id": "ec818d392b57",
-      "title": "‘See that outbreak continuing’: CDC issues travel advisory for Manitoba, as hep A cases steadily rise - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSmpmMDhIUkF3WW53OHItcTVtOEJjMGwzZWhqU2xqRkFxNURtaE9HR3ZPS08zaElLeTZ3TUFmWVl4bFhyc1o3RXhmQnM2ZURXSlBjX0xkSWFXaGlkMXhNVXBISmFNci16REd5Z29Kd3VWZjYteUVhY00ydV9JQURxaWNVZGRuR1c2aXVXYjVRNmloZ2xRREJtVDdySUZ1VmpfVVJacHdSSlljY1",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSmpmMDhIUkF3WW53OHItcTVtOEJjMGwzZWhqU2xqRkFxNURtaE9HR3ZPS08zaElLeTZ3TUFmWVl4bFhyc1o3RXhmQnM2ZURXSlBjX0xkSWFXaGlkMXhNVXBISmFNci16REd5Z29Kd3VWZjYteUVhY00ydV9JQURxaWNVZGRuR1c2aXVXYjVRNmloZ2xRREJtVDdySUZ1VmpfVVJacHdSSlljY1drYXp0RDdJRzE3QUtnc21NVmJmVjJrWV9UREVnNVFyb3RNRFpKaWc?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +78,43 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 22:19:00 GMT",
+          "published": "Wed, 17 Jun 2026 21:08:36 GMT",
+          "source": "Global News"
+        },
+        {
+          "published": "Thu, 18 Jun 2026 00:11:00 GMT",
           "source": "CTV News"
         }
       ]
     },
     {
-      "id": "e38c8f8e6316",
-      "title": "WATCH, LISTEN AND GO: Pop culture re-shaping travel booking decisions - Travel Industry Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkZRb2VEWmwtS1N6azMyS2tZVnZMQmxsNGFhd2c1dndnTWxSUW95MC1iTzkyWjNyVXlxakJleVhicElOeVY1U3ZZbXBZZmVIMk1aQ3NLcTdnWXotdFhCVzItZTRxc3BTQVZTb05UMFNUbVhUYlFHR1JsQk0xNHhWdnMtS0RhM21VeTd3RXNWakVBYkRUVTJMd1VpbkJNMmxkeVE?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkZRb2VEWmwtS1N6azMyS2tZVnZMQmxsNGFhd2c1dndnTWxSUW95MC1iTzkyWjNyVXlxakJleVhicElOeVY1U3ZZbXBZZmVIMk1aQ3NLcTdnWXotdFhCVzItZTRxc3BTQVZTb05UMFNUbVhUYlFHR1JsQk0xNHhWdnMtS0RhM21VeTd3RXNWakVBYkRUVTJMd1VpbkJNMmxkeVE?oc=5",
+      "id": "2d9ddfe8e269",
+      "title": "Europe ranks as the safest global destination, while cost pressures shape long-haul travel plans - ETC Corporate",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkdmSXdtbHRNZnZCdWNIMVFJMlV1c1JDZHhKa3dkbkdmVUdMTHZ3VmtxUnlLRnI3Njd5U0wxYmEzbU5meTczOFhpNF9XOExlTFVuME9GZzlIb3BNaDlPQW1oemU0MmtMRjIwcTE2MU9KZEhNSXNFNFZjUTNiVTdNbThtSQ?oc=5\" target=\"_blank\">Europe ranks as the safest gl",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkdmSXdtbHRNZnZCdWNIMVFJMlV1c1JDZHhKa3dkbkdmVUdMTHZ3VmtxUnlLRnI3Njd5U0wxYmEzbU5meTczOFhpNF9XOExlTFVuME9GZzlIb3BNaDlPQW1oemU0MmtMRjIwcTE2MU9KZEhNSXNFNFZjUTNiVTdNbThtSQ?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-18T12:35:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 18 Jun 2026 09:00:13 GMT",
+          "source": "ETC Corporate"
+        }
+      ]
+    },
+    {
+      "id": "f2fba97d2535",
+      "title": "Travel Manitoba says it’s business as usual despite warning issued by U.S. agency - Winnipeg Free Press",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdjZjeWN5M2NBUmRGTXNlUURRbGlWc3YzNjBhR24tbHhhOE9qUy1YRVpqeDNnMi1KbFdRRDZKODFwNHh5cTZqYnFTNDJaRER1cERKQnlLMnFHLWRVTWttNmRFX2RVR2d5bXphck54R3lscUoyY0NlenB1LWI4Tlpkcm5fdEZITEloZHNwYzVpNEoybW9tUU0zQ0FNWUcyVl9ldDI0cXFSMXhFaT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdjZjeWN5M2NBUmRGTXNlUURRbGlWc3YzNjBhR24tbHhhOE9qUy1YRVpqeDNnMi1KbFdRRDZKODFwNHh5cTZqYnFTNDJaRER1cERKQnlLMnFHLWRVTWttNmRFX2RVR2d5bXphck54R3lscUoyY0NlenB1LWI4Tlpkcm5fdEZITEloZHNwYzVpNEoybW9tUU0zQ0FNWUcyVl9ldDI0cXFSMXhFaTlscTl0dWhhZHdJYmQtaFFFanJaRkFqczhBbXBqcXRWOUhlNkx0UFJj?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,39 +122,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 20:27:20 GMT",
-          "source": "Travel Industry Today"
+          "published": "Thu, 18 Jun 2026 00:22:55 GMT",
+          "source": "Winnipeg Free Press"
         }
       ]
     },
     {
-      "id": "fe8f8bbe59ab",
-      "title": "Report highlights Sunshine Coast tourism statistics - Powell River Peak",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFNIcFRwOGtoRDFzTDE0QUhxcnJnRjhkeHY1NU9BSi1DdmtGR1ppV21wZ2Z3M0tWckJsY2FkV203WWg2T240QXVqTjBqUnltbHprdThFY2F6Rm9VM1MzTU9TenpFM0VKUlJzOUVSRGtkYjJ2clFVMEZPeW9wWE9pQmNPRzJVZEhaX1pYOG9USVdGc3BjRmJ2UTJ3?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFNIcFRwOGtoRDFzTDE0QUhxcnJnRjhkeHY1NU9BSi1DdmtGR1ppV21wZ2Z3M0tWckJsY2FkV203WWg2T240QXVqTjBqUnltbHprdThFY2F6Rm9VM1MzTU9TenpFM0VKUlJzOUVSRGtkYjJ2clFVMEZPeW9wWE9pQmNPRzJVZEhaX1pYOG9USVdGc3BjRmJ2UTJ3?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 17 Jun 2026 20:05:00 GMT",
-          "source": "Powell River Peak"
-        }
-      ]
-    },
-    {
-      "id": "57770182c71d",
-      "title": "Travel Proud Survey Reveals Challenges for LGBTQI+ Travellers - TravelPulse Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGYzUC1BXzh3LXQ5NjhYc0RyMWJqRmJnX0NVR3NJWC01Q1FGazU5UXZLYXpYcXdDVW9sNUNxdXlwQ3BZS1N0VE0zLXRwOTNRMVVsRUpQQmlPZkRoUnRxRWpNUURxczg0OHVHSmZ5Y3RTcExtbk80a0lqMWFlOFNNVlRzclh6bXRkbTFNOEpLSXRsUVJLdHNJdEhJZVB3UGRkbHlUd2lhMlV5MW",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGYzUC1BXzh3LXQ5NjhYc0RyMWJqRmJnX0NVR3NJWC01Q1FGazU5UXZLYXpYcXdDVW9sNUNxdXlwQ3BZS1N0VE0zLXRwOTNRMVVsRUpQQmlPZkRoUnRxRWpNUURxczg0OHVHSmZ5Y3RTcExtbk80a0lqMWFlOFNNVlRzclh6bXRkbTFNOEpLSXRsUVJLdHNJdEhJZVB3UGRkbHlUd2lhMlV5MWp5bEE?oc=5",
+      "id": "f15f880c7fb5",
+      "title": "WTTC gears up for its Global Summit in Malta this fall - TravelPress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTRqZ3lXUXUtU0xOVFVJcHZ6cTVEZm54UUZNYVJERkxaNjdGTW00eFozWGRwRDJOX3BmQkttSEVNd0RYZ0w1aXk2Z0dHNmlPZVY0eEF5ZUJNNS1VdUNOSl9xbU9OZXlTZVRaTzJldkpwQm1fQlY0VFhmVnVrTnZIQ2cyLWtRVFJZeEVz?oc=5\" target=\"_blank\">WTTC gears up for i",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTRqZ3lXUXUtU0xOVFVJcHZ6cTVEZm54UUZNYVJERkxaNjdGTW00eFozWGRwRDJOX3BmQkttSEVNd0RYZ0w1aXk2Z0dHNmlPZVY0eEF5ZUJNNS1VdUNOSl9xbU9OZXlTZVRaTzJldkpwQm1fQlY0VFhmVnVrTnZIQ2cyLWtRVFJZeEVz?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +142,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 16:40:00 GMT",
-          "source": "TravelPulse Canada"
+          "published": "Thu, 18 Jun 2026 10:29:39 GMT",
+          "source": "TravelPress"
         }
       ]
     },
     {
-      "id": "66a2bff41c79",
-      "title": "The magic of \"mystery trips\" – How one travel advisor keeps clients guessing - PAXnews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkx4YlVMeDh4QVV3V1RLLXlvQ0wxeHhuLXYxU1htXzg5ekpodzg0enJCMnRna1RPbEtVdmFUOG9yRXNrMTdVN3g4TUVqanFqbzVsNGFFMkJ5cE1xUlVwbHRDeGhNVnRMTGN2WDFTQURoeGt0YmxtZWhQN3c4QllyQVVqZDhaWFN5NkJrV0hISjVMR3p1Umg2eWEtcWxYeEZSM2xxVEUyUS1POE",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkx4YlVMeDh4QVV3V1RLLXlvQ0wxeHhuLXYxU1htXzg5ekpodzg0enJCMnRna1RPbEtVdmFUOG9yRXNrMTdVN3g4TUVqanFqbzVsNGFFMkJ5cE1xUlVwbHRDeGhNVnRMTGN2WDFTQURoeGt0YmxtZWhQN3c4QllyQVVqZDhaWFN5NkJrV0hISjVMR3p1Umg2eWEtcWxYeEZSM2xxVEUyUS1POEMtejdn?oc=5",
+      "id": "cc10690485af",
+      "title": "Dear Abby: My aging dog has made retirement travel nearly impossible - AL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXRXVl9pcEFnb0xabE1KYkRTYkU2LVplSHd0ckFsQVJNcnJtSkVWc3V1ekVDS3hvVGtqOXdCbFVQWnVUbUJRRWZxNU90VWNGMGsyRFZLczNYZmR5R3hidE5PRkVlWk1ES2k5TzdjdUxibnMya1AtT0hGeHR0bFptQV9OczFDSENleldyV2tsZTNCM0h2b1dBU2loY1c4WW9oNU1PeEdTc3h5d9",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXRXVl9pcEFnb0xabE1KYkRTYkU2LVplSHd0ckFsQVJNcnJtSkVWc3V1ekVDS3hvVGtqOXdCbFVQWnVUbUJRRWZxNU90VWNGMGsyRFZLczNYZmR5R3hidE5PRkVlWk1ES2k5TzdjdUxibnMya1AtT0hGeHR0bFptQV9OczFDSENleldyV2tsZTNCM0h2b1dBU2loY1c4WW9oNU1PeEdTc3h5d9IBvgFBVV95cUxQR25oRFdkMmRjdF9oTDhYTWpTRTNHVGJBMEI5eHNkNFc2SS1PTTlOV0Y2QjhhNW9XYVJIX0dFWkt6eTJiZU9zb0FtRXNTczlONlRWbWR6UjhNZUxvdHdiQnhtWG9Qc0J5Z011blB3WlBYN2RJbnJTYktPYzladFR4ZW5HVXZCV2dPZ0N6NTU2M0JoTE55a1ptdVlTenBJcy1Sb0RNQXh5VWxuSDJieldmbGZ1VTlUa1oyZ2t1MGpB?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,19 +162,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 18:39:37 GMT",
-          "source": "PAXnews.com"
+          "published": "Thu, 18 Jun 2026 10:10:00 GMT",
+          "source": "AL.com"
         }
       ]
     },
     {
-      "id": "da17e30912d4",
-      "title": "Senate threatens to freeze Hegseth’s travel in bid for boat strike videos, Iran school strike probe - Politico",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeERnVUxpbm52SjNLSXVjbVdUQjNpVXF2RUlXampJenhUTGk0X2lMQUV5TzEzOE9JenBaLXpBY0Z1MEpvMlJTXzNlRkllU2RYZzNkbkRaN2YzZW9OUXU0RzFBeW81a2VFakF5Q2lNZ21CRkE1a2cwOVFYSjd4RzlBUGNTaXcxZzJJcngxMkFCZzRBNXB3N2wyLVA3N3FlYkJaOWx6ZF9sV0hnTn",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeERnVUxpbm52SjNLSXVjbVdUQjNpVXF2RUlXampJenhUTGk0X2lMQUV5TzEzOE9JenBaLXpBY0Z1MEpvMlJTXzNlRkllU2RYZzNkbkRaN2YzZW9OUXU0RzFBeW81a2VFakF5Q2lNZ21CRkE1a2cwOVFYSjd4RzlBUGNTaXcxZzJJcngxMkFCZzRBNXB3N2wyLVA3N3FlYkJaOWx6ZF9sV0hnTnRhbUZuUjZxbGhaWEZwWGwybGthRWJnX3lWNzFYYk5YdWhyX1JqZkw4YlJrbUwxbGgtZnUwSg?oc=5",
+      "id": "0b5c35a94fd3",
+      "title": "Saudi Arabia tourism drops up to 6% in early 2026 amid Iran war - Investing.com Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWxqcm1KWk9fSko2RFpXRXdKQWhNRW1BYVFnTTVmME9oUnFYY04tdDVmLVRnNl9oOWxfSVE0a25BM3NJZTNFNV92WVVGeDFDRkd3U0NNWTZPSTloTzhjYkF2YW42NDAwYUJUZlhfS293dnhfZVE0NlhGSE41dDJJTV9HVEkxZ05oODRZU1FiNm1HLVA4ajJXX1gtVURxSWlGTk1RMk9pN0VrWE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWxqcm1KWk9fSko2RFpXRXdKQWhNRW1BYVFnTTVmME9oUnFYY04tdDVmLVRnNl9oOWxfSVE0a25BM3NJZTNFNV92WVVGeDFDRkd3U0NNWTZPSTloTzhjYkF2YW42NDAwYUJUZlhfS293dnhfZVE0NlhGSE41dDJJTV9HVEkxZ05oODRZU1FiNm1HLVA4ajJXX1gtVURxSWlGTk1RMk9pN0VrWEt1RTJ5OTZhMXFDd3pPMXc?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +182,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 14:29:58 GMT",
-          "source": "Politico"
+          "published": "Thu, 18 Jun 2026 10:23:34 GMT",
+          "source": "Investing.com Canada"
         }
       ]
     },
     {
-      "id": "7946c4d0931b",
-      "title": "Calgary airport braces for record-breaking summer travel season - DiscoverAirdrie",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEpwOGlhMktmS3c3MTdHNTBucjhnVXBJd05pcTFrMXRmc3p6bm5TMjNHaXhVY2NMeWpHc3JvaUM1MDh1Tkpvd2Iwb01PSVNWTjNaOV9MeEROTFVYbVBkMldma1VGNVpQNU1NVmhqQ1J4S1dVTktyUlNGZm1iV1dZZ2EzcVZieFRYc0hPTEdNVnF2RmkzTUhEWFNTZU91dEZDZVJtYV9nYw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEpwOGlhMktmS3c3MTdHNTBucjhnVXBJd05pcTFrMXRmc3p6bm5TMjNHaXhVY2NMeWpHc3JvaUM1MDh1Tkpvd2Iwb01PSVNWTjNaOV9MeEROTFVYbVBkMldma1VGNVpQNU1NVmhqQ1J4S1dVTktyUlNGZm1iV1dZZ2EzcVZieFRYc0hPTEdNVnF2RmkzTUhEWFNTZU91dEZDZVJtYV9nYw?oc=5",
+      "id": "5dd4a997510d",
+      "title": "JTB to Acquire Asian DMC Leader EXO Travel for Accelerated Global Growth - Business Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcEFHYnhwQ0hGTDNQWUJkNlhrcTd6TFhNc2o0NFFLcUtUejl4Tm5KVGxEZ2h1RGE3SDN5SzU3YjRUZ3hIUXByeDVhaTAtTGpsRU9zc3VDTnRkQ29vRktkelIwd0QzckthM1NnQ01FYTVIUXRqWlRMWXNwZ0FfbndBOTdzQjVEN3o0MDJjRTJ5VV9HTThmUUZJNmd0NnZrVFFHTWU1UXF5Q3ZKTn",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcEFHYnhwQ0hGTDNQWUJkNlhrcTd6TFhNc2o0NFFLcUtUejl4Tm5KVGxEZ2h1RGE3SDN5SzU3YjRUZ3hIUXByeDVhaTAtTGpsRU9zc3VDTnRkQ29vRktkelIwd0QzckthM1NnQ01FYTVIUXRqWlRMWXNwZ0FfbndBOTdzQjVEN3o0MDJjRTJ5VV9HTThmUUZJNmd0NnZrVFFHTWU1UXF5Q3ZKTnhHRm8yME5xSHgtblQtejJGRjVKSXhaSnFrZ3pMVA?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +202,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 15:56:14 GMT",
-          "source": "DiscoverAirdrie"
+          "published": "Thu, 18 Jun 2026 02:00:00 GMT",
+          "source": "Business Wire"
         }
       ]
     },
     {
-      "id": "bae6f55a4bc8",
-      "title": "Lake of Bays approves $55,000 tourism strategy contract, eyes year-round growth - MuskokaRegion.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWV9adnh1MTZ3ZVhRYTdWZC1Id2xkQnJyYzVpcWNTZFY2SjNNbnhEbDl0S1VhUjJWalBOdGQ3d3lzWlkzUmo0eFpUVWR3b3dIVUY4NmJkcGhEcExhM0JSRDRkYVRkcDlrV2RsVnpTWXljNXV6Uy1rNGx4Y1g1YUoxUDhfY1UxcmZVTk5CR3ZyM095R1h3a2k2YlhJS2hFdXRuZ3h0TU9Ybm42UF",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWV9adnh1MTZ3ZVhRYTdWZC1Id2xkQnJyYzVpcWNTZFY2SjNNbnhEbDl0S1VhUjJWalBOdGQ3d3lzWlkzUmo0eFpUVWR3b3dIVUY4NmJkcGhEcExhM0JSRDRkYVRkcDlrV2RsVnpTWXljNXV6Uy1rNGx4Y1g1YUoxUDhfY1UxcmZVTk5CR3ZyM095R1h3a2k2YlhJS2hFdXRuZ3h0TU9Ybm42UFlaRkdUQ2pkLXM1YkZqU0pmX2hB?oc=5",
+      "id": "624a371fbef5",
+      "title": "Downtown restaurants promoted as dining destinations during Hawkesbury Multicultural Festival - The Review Newspaper",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmx3TkxUbEVicVVPWk5qSEdnVHJlaWFfalNHN2phQ3NfV2dFUHFqV2xNTURZNXVyZmpEWVNVemk3Q1VKMkQtTU5PalhFQnZNdjRJRUU3c3U4NjRqNmNCbGlHaXlFVjNseS1jc0lRa2R5NTF1Rmg0dWszTXoxYkZBQU1XUHpXMzZySVpGU1FtaWEyM25rVnlfb3BURVJxVVdfZXVMZlRFUmxSRW",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmx3TkxUbEVicVVPWk5qSEdnVHJlaWFfalNHN2phQ3NfV2dFUHFqV2xNTURZNXVyZmpEWVNVemk3Q1VKMkQtTU5PalhFQnZNdjRJRUU3c3U4NjRqNmNCbGlHaXlFVjNseS1jc0lRa2R5NTF1Rmg0dWszTXoxYkZBQU1XUHpXMzZySVpGU1FtaWEyM25rVnlfb3BURVJxVVdfZXVMZlRFUmxSRW02MExuem1NU0VuY3h3VHZIUkxic2RPNnFY?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +222,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 19:00:00 GMT",
-          "source": "MuskokaRegion.com"
+          "published": "Thu, 18 Jun 2026 08:34:46 GMT",
+          "source": "The Review Newspaper"
         }
       ]
     },
     {
-      "id": "90b093d4fff1",
-      "title": "Increasing visitation, development in Kananaskis prompt creation of tourism reserve fund - Rocky Mountain Outlook",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlM2QTkzYjhBSk1JM1R2SmJCU2dNb1U5Q0NqXzRvWWRzSUExcU5pMVlSRmxMWl80RjRiUkduSHBqSWNMNnUtTG1mNkVWZEM1bUZjOHJPT0FwU19WQmJaV3JSQ0kxR3ZDUUtjWTVmOXVzUXpjM0d0VnowRkN2TnhEWXBVWEpQbDkwc2ZKdjZTTHNNdWpFaW84dWVMSDAtVkV4c0hfTE9WblRJQk",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlM2QTkzYjhBSk1JM1R2SmJCU2dNb1U5Q0NqXzRvWWRzSUExcU5pMVlSRmxMWl80RjRiUkduSHBqSWNMNnUtTG1mNkVWZEM1bUZjOHJPT0FwU19WQmJaV3JSQ0kxR3ZDUUtjWTVmOXVzUXpjM0d0VnowRkN2TnhEWXBVWEpQbDkwc2ZKdjZTTHNNdWpFaW84dWVMSDAtVkV4c0hfTE9WblRJQkFLa3B6aktXZlE5N3lpaXFkaHZHNm5lSzJkTnhZeW0wTGxQTHVtTzRHb3ZGWEo?oc=5",
+      "id": "cccac9448804",
+      "title": "Senate targets Hegseth’s travel in standoff over apparent Iran school attack, boat strikes - The Washington Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ191XzNrQ0dIVWZmRzJGRkYyWUpVRWtuSGt2NGlTbHdYSG9nRmJoQnJrRlZKenNTSTNCczY0Yy1uODgya2R6Y3FHN2JOOFJIQzlvOHRjWFRoUjY1NXhucmtWYldmMm5HZlRPelhKQWhwTUNCZlZVN0llSVJVak9YTzBqNzZ4TzFzLUJja3JzYjB4TXRBbFV0TVkzbDRUbnpxdTFZV08yZVg2dT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ191XzNrQ0dIVWZmRzJGRkYyWUpVRWtuSGt2NGlTbHdYSG9nRmJoQnJrRlZKenNTSTNCczY0Yy1uODgya2R6Y3FHN2JOOFJIQzlvOHRjWFRoUjY1NXhucmtWYldmMm5HZlRPelhKQWhwTUNCZlZVN0llSVJVak9YTzBqNzZ4TzFzLUJja3JzYjB4TXRBbFV0TVkzbDRUbnpxdTFZV08yZVg2dTFLVGhvZjJFUXFqMmtadlJseHVDZUxXbjR0QUdkODRob0w5Y3cwLUhR?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,11 +242,131 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 14:30:00 GMT",
-          "source": "Rocky Mountain Outlook"
+          "published": "Thu, 18 Jun 2026 05:55:18 GMT",
+          "source": "The Washington Post"
+        }
+      ]
+    },
+    {
+      "id": "85a5425e2f76",
+      "title": "Albanians welcome tourism but refuse to tolerate Trump/Kushner luxury resorts: ‘We don’t want to be Dubai’ - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQMGptQ3lWQTh1bzYyZFJGdnBtdkNKWGVzeGQ3alIzNkpmTXNwR29PRC1rdzBHZ3BTS09jS3g2RE54Wmtpa3lIU0MyaFc0SWVIZ1lzcHFNTW50Yk9JbkVPQVlWYjVJQWhLaGJidVFtMnRTUnc2X1BQN3lCME1nS1VyWjRxdmp2dEdzMUE?oc=5\" target=\"_blank\">Albanians welcome to",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMGptQ3lWQTh1bzYyZFJGdnBtdkNKWGVzeGQ3alIzNkpmTXNwR29PRC1rdzBHZ3BTS09jS3g2RE54Wmtpa3lIU0MyaFc0SWVIZ1lzcHFNTW50Yk9JbkVPQVlWYjVJQWhLaGJidVFtMnRTUnc2X1BQN3lCME1nS1VyWjRxdmp2dEdzMUE?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-18T12:35:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 18 Jun 2026 08:03:49 GMT",
+          "source": "Yahoo News Canada"
+        }
+      ]
+    },
+    {
+      "id": "e146fe7a6a31",
+      "title": "Discover Grey County's hidden gems: A guide to Thornbury's year-round appeal - Toronto Star",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNWGo4bUhxeGlkSkp4M3ZJbXJ5TVgyeXpTREoyZzhtY2RpVjZpZmhqaTVtZXFrZWU1bHp2WUE2NHA5bWRYVWJpX0tnSjU2N0dHYnQ1eGs2bWVoQ1RBOUhYNnZEdXFleEhhNWhrMml6aUVsLWJzaEc4MWZTeXBEUWZIV0JQa3VUbWR3T3I1Rm1wN3NvbFVMbk9aS3dIcFAtWTUyREdHZUM0bmFScl",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWGo4bUhxeGlkSkp4M3ZJbXJ5TVgyeXpTREoyZzhtY2RpVjZpZmhqaTVtZXFrZWU1bHp2WUE2NHA5bWRYVWJpX0tnSjU2N0dHYnQ1eGs2bWVoQ1RBOUhYNnZEdXFleEhhNWhrMml6aUVsLWJzaEc4MWZTeXBEUWZIV0JQa3VUbWR3T3I1Rm1wN3NvbFVMbk9aS3dIcFAtWTUyREdHZUM0bmFSclkwcmdnTUVTT0plUkRjVVp3blFSZXhQeTdlMVFjQlhWazctb0c4SzNWVTRreWhvMXFYMmViaUozWGpTUDdDeHpYdDlwMVZxZENpV0M0djRscjFYWFgtd2VqcXVvLU9idVdJd2R6YjVwaVZsTzFOdnc?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-18T12:35:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 18 Jun 2026 09:15:00 GMT",
+          "source": "Toronto Star"
+        }
+      ]
+    },
+    {
+      "id": "a2017aadcd19",
+      "title": "Travel Advisors Give Back During Collette's Appreciation Month Events - TravelPulse Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmVoNVplcW54S19yanpST2REV3NSRlIwTm5WY1BXM2lQMEhIXy1aYjloT3ZCMmhXZVNrLUNDcEFMV3QyQ2RrMmY0QXBHckU4UUFKNzVfY1lhelAtZjdfaHBCX2wtNEEycGZJcFdTbDdrUTV5bGtPQ3QxOExvU3AxUDdPVER4V0JKY0cxWnZwMmM2ZjVGcWZkTVgxNXJreWhrNUlOeHpsVUhLNT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmVoNVplcW54S19yanpST2REV3NSRlIwTm5WY1BXM2lQMEhIXy1aYjloT3ZCMmhXZVNrLUNDcEFMV3QyQ2RrMmY0QXBHckU4UUFKNzVfY1lhelAtZjdfaHBCX2wtNEEycGZJcFdTbDdrUTV5bGtPQ3QxOExvU3AxUDdPVER4V0JKY0cxWnZwMmM2ZjVGcWZkTVgxNXJreWhrNUlOeHpsVUhLNTQ?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-18T12:35:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 18 Jun 2026 10:35:00 GMT",
+          "source": "TravelPulse Canada"
+        }
+      ]
+    },
+    {
+      "id": "0c12c213e01f",
+      "title": "Bail reform bill passed, CDC travel advisory: Your Morning Winnipeg - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXp4dWR6UzNVNFhrQVkzUjd6c1hrLTFTcjduVFdLcFV6MXpvS0JHeHJac2ZUMVk1VzhfM3NNdXQ0Zk15Mk5icExzUTI5Z3JaOHJ5ZnRGVWtyZzdHUTgzUlJiZnVYYkwwOEhXelo4bXlObDFTT05ucW9tV3ZVMll4TmxyNkxmZDUwa3Z6cVNhc1NCQTZISkMtZkdSQkZjTC1VQktkWHlacEx3NG",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXp4dWR6UzNVNFhrQVkzUjd6c1hrLTFTcjduVFdLcFV6MXpvS0JHeHJac2ZUMVk1VzhfM3NNdXQ0Zk15Mk5icExzUTI5Z3JaOHJ5ZnRGVWtyZzdHUTgzUlJiZnVYYkwwOEhXelo4bXlObDFTT05ucW9tV3ZVMll4TmxyNkxmZDUwa3Z6cVNhc1NCQTZISkMtZkdSQkZjTC1VQktkWHlacEx3NG8tTUhCaVhfZEFmQQ?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-18T12:35:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 18 Jun 2026 11:26:53 GMT",
+          "source": "CTV News"
+        }
+      ]
+    },
+    {
+      "id": "3cf1f699400f",
+      "title": "London Councils shelves review of Freedom Pass - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPc0lFNlozWnVTZGZ5dThhNGpLb3JVVXEybnpYSktLZndtMUJ4QUdqNDYzNHVTWEFBT0pTVjdYSVR4TGhVbE91WTlCYTY1U0YwOGNTLWw4N3UwRGRaSTlnUlJSNlVrRTV4a0VubmNKTWFLZl9UYWk3T2EwUmp5NU5xd2VyRVFNQQ?oc=5\" target=\"_blank\">London Councils shelves r",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc0lFNlozWnVTZGZ5dThhNGpLb3JVVXEybnpYSktLZndtMUJ4QUdqNDYzNHVTWEFBT0pTVjdYSVR4TGhVbE91WTlCYTY1U0YwOGNTLWw4N3UwRGRaSTlnUlJSNlVrRTV4a0VubmNKTWFLZl9UYWk3T2EwUmp5NU5xd2VyRVFNQQ?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-18T12:35:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 18 Jun 2026 12:02:08 GMT",
+          "source": "Yahoo News Canada"
+        }
+      ]
+    },
+    {
+      "id": "c14b7afbadc1",
+      "title": "The Caribbean Hotel & Tourism Association (CHTA) Announces CHIEF 2026, a Future-focused Forum to Prepare the Industry for Caribbean Tourism 2030 - Hospitality Net",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOYWstSEJaVDFsODBaTkxESkJzWXhOeHhtUllnejBjd28ybmNSUkxkRDRUWDdvM1NaRUFKbnBpbVF0cDdrS2VudHNvNHR0d1ZqYlBQS0JFbS1MVVZBMWFUSmxIdTZrSlV3R0N3UEZWZTlMYW1aRmdHa3pMQUZZalFVVHdaaVhFQVYtLWhmVkxVN1JldEFRcV9UeXZ4bnlSbGxHNnZ1Qm9OeWZyVk",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYWstSEJaVDFsODBaTkxESkJzWXhOeHhtUllnejBjd28ybmNSUkxkRDRUWDdvM1NaRUFKbnBpbVF0cDdrS2VudHNvNHR0d1ZqYlBQS0JFbS1MVVZBMWFUSmxIdTZrSlV3R0N3UEZWZTlMYW1aRmdHa3pMQUZZalFVVHdaaVhFQVYtLWhmVkxVN1JldEFRcV9UeXZ4bnlSbGxHNnZ1Qm9OeWZyVkpBdmhYdnU5RkFJNkhEWXFJTTZxNGZPQmN4ZFByZFppdk1sd1lfX05ZQnlhOGdKTlhrNFV2VzRRb1B5T3h2UUUzcG95cFRkWUNXVlB3R2hwTjYwclJhQXRndXhtVGJBN1dmRzFxOQ?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-18T12:35:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 18 Jun 2026 12:07:10 GMT",
+          "source": "Hospitality Net"
         }
       ]
     },
@@ -271,110 +375,6 @@
       "title": "What travel experts love most about flying (and what airlines get wrong) - USA Today",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPd215djlkOXhfUW9vX2N2akxVMHlmM0dzXzJ3bDd0T0xTM2tsaHBUd19BM2NxVEZMZ2swemotREY0MmJCM3BPSlJEamFvcERKcXZwSkRmMTFVMmVXdTBmM3Ftc3RXbTJ6RHJ2VnFaSFEtdWgyY0ZRcmdJNGdwNEJ1Z2tlSUNpdmtoaTVSNWxjeE9sS1daaHdzN1ZFcV94anU1UlFqeEpUa01MVm",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd215djlkOXhfUW9vX2N2akxVMHlmM0dzXzJ3bDd0T0xTM2tsaHBUd19BM2NxVEZMZ2swemotREY0MmJCM3BPSlJEamFvcERKcXZwSkRmMTFVMmVXdTBmM3Ftc3RXbTJ6RHJ2VnFaSFEtdWgyY0ZRcmdJNGdwNEJ1Z2tlSUNpdmtoaTVSNWxjeE9sS1daaHdzN1ZFcV94anU1UlFqeEpUa01MVmV6VkpJd0NKVm4?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 17 Jun 2026 17:53:00 GMT",
-          "source": "USA Today"
-        }
-      ]
-    },
-    {
-      "id": "5c6bd2e8ebbc",
-      "title": "Business Travel to China | #MobilityMinute - Fragomen",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanoyZTZrVVI5VWpQUlpMbmE1TFdpSmNBRlJRZWE5R1FCR3RuQmE3Q1c0YnE1d0FUQm85amlfT1dVbGlMUTBwall1ZHhpbVRpc0VvSTZTMDNyWHRJaGU1WFdwcVRqS1F4eFlLT2tEQ0l0ZHYwaVdwa05sdDBpaWZvbnBaY1lWN1lY?oc=5\" target=\"_blank\">Business Travel to Chin",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanoyZTZrVVI5VWpQUlpMbmE1TFdpSmNBRlJRZWE5R1FCR3RuQmE3Q1c0YnE1d0FUQm85amlfT1dVbGlMUTBwall1ZHhpbVRpc0VvSTZTMDNyWHRJaGU1WFdwcVRqS1F4eFlLT2tEQ0l0ZHYwaVdwa05sdDBpaWZvbnBaY1lWN1lY?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 17 Jun 2026 19:14:33 GMT",
-          "source": "Fragomen"
-        }
-      ]
-    },
-    {
-      "id": "a0f182a1304e",
-      "title": "Calgary airport prepares to welcome more than 6.1M passengers during summer travel season - Calgary Herald",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnFLZ3ptUWxuVmV6Q25sdVZDdDdGSzlIQ280a2xwekxlMmw1U29Ya1Mwc2tHZHhCZDU1cWQtMXpBZEhhSS1Ba1hxSUhiNXB2cjlkTVhEaVFGd2tDRDJJdEVFbVd0QkE5eDJaRkdvSHdZTFp5UnJGX2I1bU5IQ3NvQTNYM0FCRE9hYXEzMG9pMWY0OF81ak1DbHI5bUNYZ0hURVZFV2RaaUIzaE",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnFLZ3ptUWxuVmV6Q25sdVZDdDdGSzlIQ280a2xwekxlMmw1U29Ya1Mwc2tHZHhCZDU1cWQtMXpBZEhhSS1Ba1hxSUhiNXB2cjlkTVhEaVFGd2tDRDJJdEVFbVd0QkE5eDJaRkdvSHdZTFp5UnJGX2I1bU5IQ3NvQTNYM0FCRE9hYXEzMG9pMWY0OF81ak1DbHI5bUNYZ0hURVZFV2RaaUIzaE8wZEZvVFVCYVZuTHh5Qk1VQw?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 17 Jun 2026 19:50:24 GMT",
-          "source": "Calgary Herald"
-        }
-      ]
-    },
-    {
-      "id": "6764d5f06b3b",
-      "title": "Northwest Sask. village of Buffalo Narrows embraces tourism appeal - Yahoo News Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaC1BTXNLNzJ2NVBRYjVNeU96dHNjaV9kSmgySkpOSmNjOHFmbkZSV09WeEwxNFROWmtHU1I1RExqUkxlVVRGN25EZkxBbW4yTkt6aUV4M2Q5eUV0N0JtSDEtTGNaQ0dtSU0zN29nSXo3OUkzU0JCcmU2cDRfeFpCUTFHOWk4QQ?oc=5\" target=\"_blank\">Northwest Sask. village o",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaC1BTXNLNzJ2NVBRYjVNeU96dHNjaV9kSmgySkpOSmNjOHFmbkZSV09WeEwxNFROWmtHU1I1RExqUkxlVVRGN25EZkxBbW4yTkt6aUV4M2Q5eUV0N0JtSDEtTGNaQ0dtSU0zN29nSXo3OUkzU0JCcmU2cDRfeFpCUTFHOWk4QQ?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 17 Jun 2026 21:23:28 GMT",
-          "source": "Yahoo News Canada"
-        }
-      ]
-    },
-    {
-      "id": "92174ae3a3c7",
-      "title": "CDC issues travel notice for Manitoba - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTFmWXQxZF8yS1M3YzJZOEV5UHN3eDVXZVBVTVRXeDUzTFg0ZC1QZWNvMGRMZ2x3QU1jV3NMeGlqMmh5RllPUHMxQXUxUnNPS1BPUXlMM2NBZjNQXzduWlFhandkQm42LVdZVm1rYUtqNFg3akRKMWlMZGQ2NlVFa2YycDF2a1NaTF8yOEk0TUY?oc=5\" target=\"_blank\">CDC issues t",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTFmWXQxZF8yS1M3YzJZOEV5UHN3eDVXZVBVTVRXeDUzTFg0ZC1QZWNvMGRMZ2x3QU1jV3NMeGlqMmh5RllPUHMxQXUxUnNPS1BPUXlMM2NBZjNQXzduWlFhandkQm42LVdZVm1rYUtqNFg3akRKMWlMZGQ2NlVFa2YycDF2a1NaTF8yOEk0TUY?oc=5",
-      "score": 27.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 17 Jun 2026 22:13:40 GMT",
-          "source": "CTV News"
-        },
-        {
-          "published": "Wed, 17 Jun 2026 21:55:29 GMT",
-          "source": "CTV News"
-        }
-      ]
-    },
-    {
-      "id": "6bcca9678c83",
-      "title": "Costa Cruises revamps travel advisor portal - Travelweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1NNQjAxTEF5WHU4VDh4akhzQks1ODV4MkFzUnJKdWpSS3U1T2twRlhxMHBjbVhJc2xZa1lCRjdRWFNXOXc0bUNOVm1yVEtoNnZ0am80RFZBS0R2S3pRSVlDUnZTWlhRc1diUEY0bHIyeUxmcHJlWVppNUVtTHBDNV8tNktKN1dVZ3c?oc=5\" target=\"_blank\">Costa Cruises revamp",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1NNQjAxTEF5WHU4VDh4akhzQks1ODV4MkFzUnJKdWpSS3U1T2twRlhxMHBjbVhJc2xZa1lCRjdRWFNXOXc0bUNOVm1yVEtoNnZ0am80RFZBS0R2S3pRSVlDUnZTWlhRc1diUEY0bHIyeUxmcHJlWVppNUVtTHBDNV8tNktKN1dVZ3c?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +382,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-17T23:10:45+00:00",
+      "first_seen": "2026-06-18T12:35:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 17 Jun 2026 15:49:42 GMT",
-          "source": "Travelweek"
+          "published": "Wed, 17 Jun 2026 17:53:00 GMT",
+          "source": "USA Today"
         }
       ]
     }
