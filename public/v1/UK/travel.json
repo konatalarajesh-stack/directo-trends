@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-06-22T18:09:53+00:00",
+  "generated_at": "2026-06-22T23:16:50+00:00",
   "cache_ttl_hours": 6,
-  "count": 16,
+  "count": 20,
   "trends": [
     {
-      "id": "2a78d6f2f15f",
-      "title": "Rail passengers to be told to only travel if essential amd red extreme heat warning - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONXNhdmJNSWVldU5Ia2pOTk93ZVJWWk5SWlBJNG4wRE04M3JYSnRaMnJ4aTFtaVRpMm42S1dlLXVxOUZpY1lJQVdrcXVwblRfeGVYNUxMMjZyUjFmSEk1Q05ISlpUSmJIaXlvNWx3T0VfRFplSDZ0YUlNa2s0TG9TVm54MF8teUJCWk9wOUVjUGNIcmt5T0lOOFlNQkxndFFpT1J4R1N6cw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXNhdmJNSWVldU5Ia2pOTk93ZVJWWk5SWlBJNG4wRE04M3JYSnRaMnJ4aTFtaVRpMm42S1dlLXVxOUZpY1lJQVdrcXVwblRfeGVYNUxMMjZyUjFmSEk1Q05ISlpUSmJIaXlvNWx3T0VfRFplSDZ0YUlNa2s0TG9TVm54MF8teUJCWk9wOUVjUGNIcmt5T0lOOFlNQkxndFFpT1J4R1N6cw?oc=5",
+      "id": "36550a0bbff4",
+      "title": "Rail passengers travelling to, from, or within extreme heat zones urged to only travel if absolutely necessary during record heatwave - Network Rail media centre",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdVh2YWM0a2YyX2lsZGgtYnFDQVRPUFUyZlJYRkcyZ1lwQXRiXzRsTUl6UkhEOVFhTjZjWjJkWDF5YWhKYW1rN2hBLVBia19wa3hoTmJOVkQwclo4UldXMkRaZU95VUJ1cnFwcktOdWlnUE5pdHpCYjlXN2FqbmlObTVWaEdQWENaelpMc3UzakhQQ0dlSjhsa1JuUjluTVdvdG8ySUgwcHZhcl",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdVh2YWM0a2YyX2lsZGgtYnFDQVRPUFUyZlJYRkcyZ1lwQXRiXzRsTUl6UkhEOVFhTjZjWjJkWDF5YWhKYW1rN2hBLVBia19wa3hoTmJOVkQwclo4UldXMkRaZU95VUJ1cnFwcktOdWlnUE5pdHpCYjlXN2FqbmlObTVWaEdQWENaelpMc3UzakhQQ0dlSjhsa1JuUjluTVdvdG8ySUgwcHZhcl9GOWlqcm15NXJ2MTZnVlJuWU1PcWxiNTF5QVNHTDVaOVhPNlZ5dksxenVhQWpJamZadkdTVkhfOW5YVThJVy15VW1wcUZGR0hMOThDa2R0RzFVbG53SGhXYVpOUE4?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 22 Jun 2026 16:55:24 GMT",
+          "source": "Network Rail media centre"
+        }
+      ]
+    },
+    {
+      "id": "e674d4cd0fc7",
+      "title": "Rail passengers told to travel only if essential amid red extreme heat warning - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONXNhdmJNSWVldU5Ia2pOTk93ZVJWWk5SWlBJNG4wRE04M3JYSnRaMnJ4aTFtaVRpMm42S1dlLXVxOUZpY1lJQVdrcXVwblRfeGVYNUxMMjZyUjFmSEk1Q05ISlpUSmJIaXlvNWx3T0VfRFplSDZ0YUlNa2s0TG9TVm54MF8teUJCWk9wOUVjUGNIcmt5T0lOOFlNQkxndFFpT1J4R1N6cw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXNhdmJNSWVldU5Ia2pOTk93ZVJWWk5SWlBJNG4wRE04M3JYSnRaMnJ4aTFtaVRpMm42S1dlLXVxOUZpY1lJQVdrcXVwblRfeGVYNUxMMjZyUjFmSEk1Q05ISlpUSmJIaXlvNWx3T0VfRFplSDZ0YUlNa2s0TG9TVm54MF8teUJCWk9wOUVjUGNIcmt5T0lOOFlNQkxndFFpT1J4R1N6cw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
           "published": "Mon, 22 Jun 2026 16:54:00 GMT",
@@ -27,18 +47,38 @@
       ]
     },
     {
-      "id": "db5a40a73bd5",
-      "title": "Extreme heat: Travel advice for Chiltern Railways’ customers until Friday 26 June - Chiltern Railways News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWFqakQ3X0ZJY3pEaEliazM5a05vb01Ba3ZGNTI4d3R1WTd5dE9OaUxLeVJQT2dhTXEzTVZqdnBNblU1c3k4ckdsWDNoNlltQWdpRlk1MkRjYzRYM3VyRHNrX2lpMHFOZzEzNUZHb3ZtNU45TGZGeGVrajNkbUs3WlV3MmlwU1ZvZmZfdmJNYVluT0Nkb2VVMWVneDdmVDhGVlJYOHQwa0I1RU",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWFqakQ3X0ZJY3pEaEliazM5a05vb01Ba3ZGNTI4d3R1WTd5dE9OaUxLeVJQT2dhTXEzTVZqdnBNblU1c3k4ckdsWDNoNlltQWdpRlk1MkRjYzRYM3VyRHNrX2lpMHFOZzEzNUZHb3ZtNU45TGZGeGVrajNkbUs3WlV3MmlwU1ZvZmZfdmJNYVluT0Nkb2VVMWVneDdmVDhGVlJYOHQwa0I1RUhBNi1hdjdWYWw5amZVdGVPMFN3?oc=5",
-      "score": 86.4,
+      "id": "fcbe89afb7d3",
+      "title": "West Midlands rail users urged not to travel during red weather heat warning - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jQ3Qzc0FwNExaMDUzT3VBcGlRcE4yZEJJamE0aFhPNmVHaHJRQW1jX1ZtcHVLOXZVNFBQQmc4dEJlSVVNaXd1RVl1Wm9lR2xoTFBPMG5oeEd0UQ?oc=5\" target=\"_blank\">West Midlands rail users urged not to travel during red weather heat warning</a>&nbsp",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jQ3Qzc0FwNExaMDUzT3VBcGlRcE4yZEJJamE0aFhPNmVHaHJRQW1jX1ZtcHVLOXZVNFBQQmc4dEJlSVVNaXd1RVl1Wm9lR2xoTFBPMG5oeEd0UQ?oc=5",
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 22 Jun 2026 17:01:53 GMT",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "db5a40a73bd5",
+      "title": "Extreme heat: Travel advice for Chiltern Railways’ customers until Friday 26 June - Chiltern Railways News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWFqakQ3X0ZJY3pEaEliazM5a05vb01Ba3ZGNTI4d3R1WTd5dE9OaUxLeVJQT2dhTXEzTVZqdnBNblU1c3k4ckdsWDNoNlltQWdpRlk1MkRjYzRYM3VyRHNrX2lpMHFOZzEzNUZHb3ZtNU45TGZGeGVrajNkbUs3WlV3MmlwU1ZvZmZfdmJNYVluT0Nkb2VVMWVneDdmVDhGVlJYOHQwa0I1RU",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWFqakQ3X0ZJY3pEaEliazM5a05vb01Ba3ZGNTI4d3R1WTd5dE9OaUxLeVJQT2dhTXEzTVZqdnBNblU1c3k4ckdsWDNoNlltQWdpRlk1MkRjYzRYM3VyRHNrX2lpMHFOZzEzNUZHb3ZtNU45TGZGeGVrajNkbUs3WlV3MmlwU1ZvZmZfdmJNYVluT0Nkb2VVMWVneDdmVDhGVlJYOHQwa0I1RUhBNi1hdjdWYWw5amZVdGVPMFN3?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
           "published": "Mon, 22 Jun 2026 15:29:17 GMT",
@@ -47,38 +87,18 @@
       ]
     },
     {
-      "id": "c0efe4156b44",
-      "title": "Eliza Jabore on Translating Her Fraught Travel Stories with Friends into a Novel - CrimeReads",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUdCWmVIajE5T255UGJFaHdJbE5vdjZpUzVOaldrOFZJWXptNWNDLXNDQnRQNy1LRk5VVnkxZ0VmTjNiNmUxcklsOUJjWU51eUhKM1lIaEZUbjBCOTBtSzRkaVRyeThXQlcxUW5VYzBEeWJ3ZW5BLVY0UW52R1VPUmszYWdkX2V1QlpoY0ExNUlrRUpWblVlUnFndUFkbko4OWU5RFJfWQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUdCWmVIajE5T255UGJFaHdJbE5vdjZpUzVOaldrOFZJWXptNWNDLXNDQnRQNy1LRk5VVnkxZ0VmTjNiNmUxcklsOUJjWU51eUhKM1lIaEZUbjBCOTBtSzRkaVRyeThXQlcxUW5VYzBEeWJ3ZW5BLVY0UW52R1VPUmszYWdkX2V1QlpoY0ExNUlrRUpWblVlUnFndUFkbko4OWU5RFJfWQ?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 22 Jun 2026 13:40:37 GMT",
-          "source": "CrimeReads"
-        }
-      ]
-    },
-    {
       "id": "427f064fb7b3",
       "title": "The Four Noble Truths of Travel - Tricycle: The Buddhist Review",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9TRXJOVW5mMXdSWDJZOWdieVNzYWd2a2pkM09oZVBnSnhBXzhpNExic0l3VzJteVdDOURmNXFmbWY3SUJRTlN5elpCeE9SYXhqYUVyeUlMbFdIb0JYbzM5bDVMNnltZ1RsbmxxV3FR?oc=5\" target=\"_blank\">The Four Noble Truths of Travel</a>&nbsp;&nbsp;<font color=",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TRXJOVW5mMXdSWDJZOWdieVNzYWd2a2pkM09oZVBnSnhBXzhpNExic0l3VzJteVdDOURmNXFmbWY3SUJRTlN5elpCeE9SYXhqYUVyeUlMbFdIb0JYbzM5bDVMNnltZ1RsbmxxV3FR?oc=5",
-      "score": 79.2,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
           "published": "Mon, 22 Jun 2026 10:01:51 GMT",
@@ -87,18 +107,38 @@
       ]
     },
     {
-      "id": "3701bd9f29db",
-      "title": "Uber Joins the Executive Committee of the World Travel & Tourism Council - World Travel & Tourism Council (WTTC)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FX0M0cnQxT2I0NF95QTRBbzdOM3dGcUswOWN5dlM3c2I4dGl2ZzZmNW5uVl9DNnlmXzVqSGJlWUF2cTdCcVpVNWplU0tvZw?oc=5\" target=\"_blank\">Uber Joins the Executive Committee of the World Travel & Tourism Council</a>&nbsp;&nbsp;<font color=\"",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FX0M0cnQxT2I0NF95QTRBbzdOM3dGcUswOWN5dlM3c2I4dGl2ZzZmNW5uVl9DNnlmXzVqSGJlWUF2cTdCcVpVNWplU0tvZw?oc=5",
-      "score": 75.6,
+      "id": "0d2d86415ac8",
+      "title": "US tops ranking of real estate destinations for dirty money - Tax Justice Network",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEI1NlJjaEM1T1c3MWxYOFQ5ZktCNzZOeFJpaDZQV21MbWtUU3B5YkhPMGx4MFh6RGtIRTRYTEdSejlLZ2gyUFRIZk5sSndCYm9ORlVYeXJzUXJjVUk4ZkFMdzBsQ2RiclM4X0RwRm9Vc2x3U3k3eUhLQVlmTVNZOVhyY290aTBBcjdkVENQVGc3TVk?oc=5\" target=\"_blank\">US tops ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEI1NlJjaEM1T1c3MWxYOFQ5ZktCNzZOeFJpaDZQV21MbWtUU3B5YkhPMGx4MFh6RGtIRTRYTEdSejlLZ2gyUFRIZk5sSndCYm9ORlVYeXJzUXJjVUk4ZkFMdzBsQ2RiclM4X0RwRm9Vc2x3U3k3eUhLQVlmTVNZOVhyY290aTBBcjdkVENQVGc3TVk?oc=5",
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 22 Jun 2026 23:03:04 GMT",
+          "source": "Tax Justice Network"
+        }
+      ]
+    },
+    {
+      "id": "3701bd9f29db",
+      "title": "Uber Joins the Executive Committee of the World Travel & Tourism Council - World Travel & Tourism Council (WTTC)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FX0M0cnQxT2I0NF95QTRBbzdOM3dGcUswOWN5dlM3c2I4dGl2ZzZmNW5uVl9DNnlmXzVqSGJlWUF2cTdCcVpVNWplU0tvZw?oc=5\" target=\"_blank\">Uber Joins the Executive Committee of the World Travel & Tourism Council</a>&nbsp;&nbsp;<font color=\"",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FX0M0cnQxT2I0NF95QTRBbzdOM3dGcUswOWN5dlM3c2I4dGl2ZzZmNW5uVl9DNnlmXzVqSGJlWUF2cTdCcVpVNWplU0tvZw?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
           "published": "Mon, 22 Jun 2026 15:23:47 GMT",
@@ -107,50 +147,10 @@
       ]
     },
     {
-      "id": "24b3d58f6fc7",
-      "title": "Cost of domestic tourism loss in England - The TaxPayers' Alliance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5lUEFzWjA2d1kxem5sWVhYSXhYNm5YTE9BZDNpanZ5VkhhbVlVajFoT2RyLXJnN0JST21kZjdZRHVsOWgzY185UVk5b2xwYzNmQ0xXME80RHh4N050Z1pHTXQtbDB1T3JRV0hmUlE0LTk3eXY0MVk5Mk9CNA?oc=5\" target=\"_blank\">Cost of domestic tourism loss in England<",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lUEFzWjA2d1kxem5sWVhYSXhYNm5YTE9BZDNpanZ5VkhhbVlVajFoT2RyLXJnN0JST21kZjdZRHVsOWgzY185UVk5b2xwYzNmQ0xXME80RHh4N050Z1pHTXQtbDB1T3JRV0hmUlE0LTk3eXY0MVk5Mk9CNA?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 22 Jun 2026 11:48:38 GMT",
-          "source": "The TaxPayers' Alliance"
-        }
-      ]
-    },
-    {
-      "id": "ba4998ba2674",
-      "title": "Red warning for extreme heat across West Midlands - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORTdXV1ctZGlkUDBQU2RpaTE5UVdOX0VsUjhXTEhSazhwSVF1c083S0FxN0hxVnhhSGE1bXlfenNtVlROYTdIV25jWXFRTEYtWkxMRnhkSU1FWktQ?oc=5\" target=\"_blank\">Red warning for extreme heat across West Midlands</a>&nbsp;&nbsp;<font color=\"#6f6f",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORTdXV1ctZGlkUDBQU2RpaTE5UVdOX0VsUjhXTEhSazhwSVF1c083S0FxN0hxVnhhSGE1bXlfenNtVlROYTdIV25jWXFRTEYtWkxMRnhkSU1FWktQ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 22 Jun 2026 12:33:01 GMT",
-          "source": "BBC"
-        }
-      ]
-    },
-    {
-      "id": "3f3508af21ea",
-      "title": "There's no point in short-travel eMTBs – take all the suspension you can get - BikeRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5HX2RmamVZYVZ4OFBCcno0LUc4VVIyVDEzblIyTWxDQnk4RmU0WkhSM2hKUU04aHFibUlCMElGQ3FiN3VuenExOWlWNU5yd19SbnlncjBIcjRsOFNBX1NlSU1JNVY0aTRTb0FqTElFRWNnUHZTX1FvRzh6aElwUQ?oc=5\" target=\"_blank\">There's no point in short-travel eMTB",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HX2RmamVZYVZ4OFBCcno0LUc4VVIyVDEzblIyTWxDQnk4RmU0WkhSM2hKUU04aHFibUlCMElGQ3FiN3VuenExOWlWNU5yd19SbnlncjBIcjRsOFNBX1NlSU1JNVY0aTRTb0FqTElFRWNnUHZTX1FvRzh6aElwUQ?oc=5",
+      "id": "c0efe4156b44",
+      "title": "Eliza Jabore on Translating Her Fraught Travel Stories with Friends into a Novel - CrimeReads",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUdCWmVIajE5T255UGJFaHdJbE5vdjZpUzVOaldrOFZJWXptNWNDLXNDQnRQNy1LRk5VVnkxZ0VmTjNiNmUxcklsOUJjWU51eUhKM1lIaEZUbjBCOTBtSzRkaVRyeThXQlcxUW5VYzBEeWJ3ZW5BLVY0UW52R1VPUmszYWdkX2V1QlpoY0ExNUlrRUpWblVlUnFndUFkbko4OWU5RFJfWQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUdCWmVIajE5T255UGJFaHdJbE5vdjZpUzVOaldrOFZJWXptNWNDLXNDQnRQNy1LRk5VVnkxZ0VmTjNiNmUxcklsOUJjWU51eUhKM1lIaEZUbjBCOTBtSzRkaVRyeThXQlcxUW5VYzBEeWJ3ZW5BLVY0UW52R1VPUmszYWdkX2V1QlpoY0ExNUlrRUpWblVlUnFndUFkbko4OWU5RFJfWQ?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 13:00:00 GMT",
-          "source": "BikeRadar"
+          "published": "Mon, 22 Jun 2026 13:40:37 GMT",
+          "source": "CrimeReads"
+        }
+      ]
+    },
+    {
+      "id": "06a1e4227abf",
+      "title": "Travel Weekly's 2026 Power List - Travel Weekly",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmSmhkcFY0SldYcldpTkVBWlFhcXhSc0pmMzBxRGwwVDQtRXk4ZWp3MlRnR0JwTF9KZTYtMnNaNWR6S3BOMmR5cUhmNXlCNGdjQ3dndzNZcw?oc=5\" target=\"_blank\">Travel Weekly's 2026 Power List</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel Weekly</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmSmhkcFY0SldYcldpTkVBWlFhcXhSc0pmMzBxRGwwVDQtRXk4ZWp3MlRnR0JwTF9KZTYtMnNaNWR6S3BOMmR5cUhmNXlCNGdjQ3dndzNZcw?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-22T23:07:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 22 Jun 2026 15:05:33 GMT",
+          "source": "Travel Weekly"
         }
       ]
     },
@@ -171,14 +191,14 @@
       "title": "Europe heatwave June 2026: All the holiday destinations with ‘red heat’ warnings - Time Out Worldwide",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU25ya0YzQng3SmlXVG1sN2tyUC1TS3dyc1NkWnhWd1NvdFpRYUgxb0VtYkRBVGlIcm5MYWlzRXhpcFZoekFTTnVlbVpsLVR6MDNsaUVWUktfbDQxT0ZvQlJ2ZEVublRBNDFaSVpBRDlGMU1wNGgxZDh1TlFQR2F1YXN2UDJfOVQ1R1JJNWJqaG1tSlQ5VjRDRHVVZ0l2X3ZmNnNUQUU3bUdHZG",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU25ya0YzQng3SmlXVG1sN2tyUC1TS3dyc1NkWnhWd1NvdFpRYUgxb0VtYkRBVGlIcm5MYWlzRXhpcFZoekFTTnVlbVpsLVR6MDNsaUVWUktfbDQxT0ZvQlJ2ZEVublRBNDFaSVpBRDlGMU1wNGgxZDh1TlFQR2F1YXN2UDJfOVQ1R1JJNWJqaG1tSlQ5VjRDRHVVZ0l2X3ZmNnNUQUU3bUdHZGc5aElLMHJMNA?oc=5",
-      "score": 61.2,
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
           "published": "Mon, 22 Jun 2026 10:26:17 GMT",
@@ -187,30 +207,10 @@
       ]
     },
     {
-      "id": "dd72e53c7d7a",
-      "title": "Pre-Season Friendly: Boro To Travel To Celtic - Middlesbrough FC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODc5czd1clk5MzZMVkp4YlV5MVNjRzloTVlLVGpUQnUxVURRZldGS0pHYkh5VVNpTkUtRUREb3M2eDJOMy1pblBCNDhnWTFaeWY4dWs3b25SVmN6SW5RWXpkUEhwNzJGWkdTWlFiQllwQnlEa2NuZi1OZXMwQzRXN2ZWSFdDVDBRVm13?oc=5\" target=\"_blank\">Pre-Season Friendly",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODc5czd1clk5MzZMVkp4YlV5MVNjRzloTVlLVGpUQnUxVURRZldGS0pHYkh5VVNpTkUtRUREb3M2eDJOMy1pblBCNDhnWTFaeWY4dWs3b25SVmN6SW5RWXpkUEhwNzJGWkdTWlFiQllwQnlEa2NuZi1OZXMwQzRXN2ZWSFdDVDBRVm13?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 22 Jun 2026 12:31:31 GMT",
-          "source": "Middlesbrough FC"
-        }
-      ]
-    },
-    {
-      "id": "495f71ff5fa6",
-      "title": "Informa upgraded as Middle East travel advice sets up shares to outperform - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSE5jQkpHbDh6N1pqQzkzQkRVN3hrNXVzanB2VzdfSFV5MTRFdFdfa1JCNHlBN1JzeUJOU09fT3BXZEUzRlgyQ2dQdFZ1dC1KVGdacGNYRzlVZUlLNGtSZ1FMZjNsUVlDYzFpSnJhSDN3R3BoZkJsT3l6NFBmZWZ3ZUx3QWZMSzNMSWJlTA?oc=5\" target=\"_blank\">Informa upgraded ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSE5jQkpHbDh6N1pqQzkzQkRVN3hrNXVzanB2VzdfSFV5MTRFdFdfa1JCNHlBN1JzeUJOU09fT3BXZEUzRlgyQ2dQdFZ1dC1KVGdacGNYRzlVZUlLNGtSZ1FMZjNsUVlDYzFpSnJhSDN3R3BoZkJsT3l6NFBmZWZ3ZUx3QWZMSzNMSWJlTA?oc=5",
+      "id": "780898a0f31f",
+      "title": "Audley Travel creates new destination partnership manager role - Travel Weekly - Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDVFT1BaUlBUOFVfT0FfVUNQRkxrQlRTWEdIZlJ4X3UteGprNzV0T29WV0JxajFpbXRPaEpVekJZcERiblJyTE9nMnhQajZzQmliQTI0bWQxUVN3SVF2Q3ZDb3UxWmpnVURrRGpSN2gzVHU5S05GN1NDbDJjV1RKT2U3RWNVaGlyaUJTb24yanNjeTh5SC0wd2Zn?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDVFT1BaUlBUOFVfT0FfVUNQRkxrQlRTWEdIZlJ4X3UteGprNzV0T29WV0JxajFpbXRPaEpVekJZcERiblJyTE9nMnhQajZzQmliQTI0bWQxUVN3SVF2Q3ZDb3UxWmpnVURrRGpSN2gzVHU5S05GN1NDbDJjV1RKT2U3RWNVaGlyaUJTb24yanNjeTh5SC0wd2Zn?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 11:07:00 GMT",
-          "source": "Yahoo Finance UK"
+          "published": "Mon, 22 Jun 2026 15:03:00 GMT",
+          "source": "Travel Weekly - Home"
         }
       ]
     },
     {
-      "id": "986a5f5e6122",
-      "title": "HS2 motorway closures set to disrupt Midlands traffic this summer - Carwow",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEFFNjc2anFteUVEQmtCRms4OTVmM0VtRXBfbXI3dUdCby1SbWZrOHFMQUQ1Zk5SUEN4Yk45Z0xQcHJVYXZwdjg0SU0wUzJpd01ZSUI0eTJUS1daTURuM1BrT3BnQWQ2cFdrSEo0ZzBMVnVfOXZuNmFBQnJIcTNxc1JtQQ?oc=5\" target=\"_blank\">HS2 motorway closures set to ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEFFNjc2anFteUVEQmtCRms4OTVmM0VtRXBfbXI3dUdCby1SbWZrOHFMQUQ1Zk5SUEN4Yk45Z0xQcHJVYXZwdjg0SU0wUzJpd01ZSUI0eTJUS1daTURuM1BrT3BnQWQ2cFdrSEo0ZzBMVnVfOXZuNmFBQnJIcTNxc1JtQQ?oc=5",
+      "id": "56711a5241a3",
+      "title": "Trains may stop running in Welsh heatwave peak with 'essential travel' plea issued - Wales Online",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWdCd1BkcGJNTHRONERNaGxCWTZaRlZmS0FlYmJOdUJ0X0x6eGI1S0NETDdTRTloV3JacUwtX0YwZkZNOW9EQXUwMnBzeVBQaDYydkx1U0hMRVRrVWdhM3JuWnVFWmhhQmpfNUpFWWhwUHR5d3A4WTJQUjJWendvMDdXX1pBT3lM0gGOAUFVX3lxTE1idVZSX1NOZ2tnZU1qVHNxVlgybVdNdW",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWdCd1BkcGJNTHRONERNaGxCWTZaRlZmS0FlYmJOdUJ0X0x6eGI1S0NETDdTRTloV3JacUwtX0YwZkZNOW9EQXUwMnBzeVBQaDYydkx1U0hMRVRrVWdhM3JuWnVFWmhhQmpfNUpFWWhwUHR5d3A4WTJQUjJWendvMDdXX1pBT3lM0gGOAUFVX3lxTE1idVZSX1NOZ2tnZU1qVHNxVlgybVdNdWRvVUJHT3JzYjlLeXRnOE1vTm9yVWp4aVUyaWhCUUFUYVlfcUlFaVhaYUZLMlV3UG84WnkzSGpHWHJ0bWJJUWV5c1VlaEN2NkdkcmFyRkVodmIzakp5S3RWcDF4SWI3TV9Cbm9PYmRSY1NRWE1nYWc?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +238,39 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 15:55:00 GMT",
-          "source": "Carwow"
+          "published": "Mon, 22 Jun 2026 15:04:00 GMT",
+          "source": "Wales Online"
         }
       ]
     },
     {
-      "id": "ab35505e160c",
-      "title": "Iran leave note thanking LA for ‘hospitality’ as travel restrictions continue - Football365",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE56NDZFQTV5REFDMlZtQm9ic1RSMndoVUVpLXIyZFlIczdDcXZvV251R2Fua1ZDZXR0X3BvZUJ4eDBLc0p4eUlwODJDemx5RTAyZUxIR3o4VWxXN0JGa1ZTYV9TTmxsZVZ3T0xmdDVHQnVKdkVVMHo3Z2dQV3E?oc=5\" target=\"_blank\">Iran leave note thanking LA for ‘hospita",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56NDZFQTV5REFDMlZtQm9ic1RSMndoVUVpLXIyZFlIczdDcXZvV251R2Fua1ZDZXR0X3BvZUJ4eDBLc0p4eUlwODJDemx5RTAyZUxIR3o4VWxXN0JGa1ZTYV9TTmxsZVZ3T0xmdDVHQnVKdkVVMHo3Z2dQV3E?oc=5",
+      "id": "c0374f156ac2",
+      "title": "Mothers forced to travel 75 miles to give birth - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3h1Mkg0S2JfeTFZdlhUeVdyRWVnaGJlWTlrRVp6R1lSa1lOMEY1SEY2S09VSTN5N0Rya2V4ekw4ZExKdkhuN3FXMDBXNTJkeGsyQWwyc2pvOXRQTnA5M1JWYVBtNjVIemdLaTZiMnV3dGJZbjczbjBWcm1MY3V5S21SV19ocHVWTTVoQVZuUlFFYWg4dUQ0?oc=5\" target=\"_blank\">Mot",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3h1Mkg0S2JfeTFZdlhUeVdyRWVnaGJlWTlrRVp6R1lSa1lOMEY1SEY2S09VSTN5N0Rya2V4ekw4ZExKdkhuN3FXMDBXNTJkeGsyQWwyc2pvOXRQTnA5M1JWYVBtNjVIemdLaTZiMnV3dGJZbjczbjBWcm1MY3V5S21SV19ocHVWTTVoQVZuUlFFYWg4dUQ0?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-22T23:07:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 22 Jun 2026 18:56:00 GMT",
+          "source": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "id": "9a28201521f6",
+      "title": "Boots introduces new On The Go travel store at Belfast Airport - TheIndustry.beauty",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnJSMmxZeFZIcTBFcEdMQS1HYU1ma0c0SFJhM3VnUHdTaWdmbmE0dTFsdEc0bjI2elpLbDk3NEhSWEo5a2ZOVFBLTW1oTlBsUXBCZE9aY0l2OGE1SFFtRk83RERycm1hV2J4bzF5ZlJpXzZncTQ1c0dPSEhiRTJheWJGOFRveDlOc2FyMDQ2eW05am94?oc=5\" target=\"_blank\">Boots i",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnJSMmxZeFZIcTBFcEdMQS1HYU1ma0c0SFJhM3VnUHdTaWdmbmE0dTFsdEc0bjI2elpLbDk3NEhSWEo5a2ZOVFBLTW1oTlBsUXBCZE9aY0l2OGE1SFFtRk83RERycm1hV2J4bzF5ZlJpXzZncTQ1c0dPSEhiRTJheWJGOFRveDlOc2FyMDQ2eW05am94?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -258,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 10:41:41 GMT",
-          "source": "Football365"
+          "published": "Mon, 22 Jun 2026 19:09:17 GMT",
+          "source": "TheIndustry.beauty"
         }
       ]
     },
     {
-      "id": "bf8515673cfd",
-      "title": "WTM London 2026 Registration Now Open | WTM London Hub - wtm.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0ZwOXYwQ0x6RktoaEt3SnVGNnRuU3FOdDhDLVFJNmRJVkhWdEZ4aHRGSHMxRXh2WTNYT290bHowSEVwRGNkX1d1SWVzNlczVll4Znk4NWt2TEY2REtxSHNubU01NngzRlBvZjRRSEFQSlNZcENZdmZkWmdBeW9nOHFPYzVkb2VMQWRuR0pwazlya256QlRuVmpB?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0ZwOXYwQ0x6RktoaEt3SnVGNnRuU3FOdDhDLVFJNmRJVkhWdEZ4aHRGSHMxRXh2WTNYT290bHowSEVwRGNkX1d1SWVzNlczVll4Znk4NWt2TEY2REtxSHNubU01NngzRlBvZjRRSEFQSlNZcENZdmZkWmdBeW9nOHFPYzVkb2VMQWRuR0pwazlya256QlRuVmpB?oc=5",
+      "id": "d1eeb7cabe09",
+      "title": "How I Travel: Terry Crews Says the World's Most Passionate Fans Are in Brazil - Condé Nast Traveler",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOakdxcjJhb2RiWlRha2tCNERiS1Y3dzVNX00wQlRNR2ZMdm1MX0V6aGdvVjctenEwM01CR1c5R3RNOHp4UDJKcGwyMTJKcm9CX2Q2bnJmYTJGX1Rya1VRejdIdnIyWkY4bkJoZnhzYTJLM29nQ0ZoUlhYN2tiWm4tZmtMcUtONE9qRWlKY1NQRUdRNnkwTEI3U1RJY0FOTGNWTnhtUzhQbU1vOV",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakdxcjJhb2RiWlRha2tCNERiS1Y3dzVNX00wQlRNR2ZMdm1MX0V6aGdvVjctenEwM01CR1c5R3RNOHp4UDJKcGwyMTJKcm9CX2Q2bnJmYTJGX1Rya1VRejdIdnIyWkY4bkJoZnhzYTJLM29nQ0ZoUlhYN2tiWm4tZmtMcUtONE9qRWlKY1NQRUdRNnkwTEI3U1RJY0FOTGNWTnhtUzhQbU1vOVMy?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -278,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 10:48:40 GMT",
-          "source": "wtm.com"
+          "published": "Mon, 22 Jun 2026 18:27:23 GMT",
+          "source": "Condé Nast Traveler"
         }
       ]
     },
     {
-      "id": "fecb193302cd",
-      "title": "Share a tip on a cooler coastal break in Europe - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUI0cDRCeFIyc09CajRGSFRpaEF3aWxoLXJfcERtSWUzNjNFLVJuS3pRVGtXMFh6WXAzVWRyTmF1Tk4zcjhWUDdpcEx5NGFZRjh5WkE5TnlqWVh5RE80cmZ1TlVqdTVmMTU3RWs5aXVmZ1I0dmlScEppdjVWUDlwZVFyQUVlVG8wSVpMbnpPMWFCNGdjaFhoR0NR?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUI0cDRCeFIyc09CajRGSFRpaEF3aWxoLXJfcERtSWUzNjNFLVJuS3pRVGtXMFh6WXAzVWRyTmF1Tk4zcjhWUDdpcEx5NGFZRjh5WkE5TnlqWVh5RE80cmZ1TlVqdTVmMTU3RWs5aXVmZ1I0dmlScEppdjVWUDlwZVFyQUVlVG8wSVpMbnpPMWFCNGdjaFhoR0NR?oc=5",
+      "id": "5bfe3e860a4c",
+      "title": "BCD Travel adds Deutsche Bahn connection and UK split ticketing - Business Travel News Europe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSFNkbmhpcDRNcVdjWUg0TTRoa0g2ZHd5NnJ0dlh0dWJ3WE0talNjbWxWaHR0Qnd6SjBkWXVlc1NLRm53eHNzSDJCSVdza19KUE05d01uZGRnRVZwSWY1bWlkV1hTVzBQNkhUR19aR1RHVEplLURyTHd2ZE1VZl9yZ041YThGWUR5SnVNVWczZmFIbWh1R2FfVl90YVJMb1VIVDQ5N1NhNnA0Qn",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSFNkbmhpcDRNcVdjWUg0TTRoa0g2ZHd5NnJ0dlh0dWJ3WE0talNjbWxWaHR0Qnd6SjBkWXVlc1NLRm53eHNzSDJCSVdza19KUE05d01uZGRnRVZwSWY1bWlkV1hTVzBQNkhUR19aR1RHVEplLURyTHd2ZE1VZl9yZ041YThGWUR5SnVNVWczZmFIbWh1R2FfVl90YVJMb1VIVDQ5N1NhNnA0QnVqUllTMXhEN1E0UjlXRkllNXVR?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -298,39 +318,91 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 14:46:00 GMT",
-          "source": "The Guardian"
+          "published": "Mon, 22 Jun 2026 22:00:52 GMT",
+          "source": "Business Travel News Europe"
         }
       ]
     },
     {
-      "id": "65773232dfb7",
-      "title": "The best hotels in Bilbao - The Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3BQaTZXckpucUZtQnQ1U2pYdzhPV2plZ2t5LTkwbVY3b21QWnZpYlhIZmdQdlVGaEtJSm1BT1BxWjVMTDVaZ1NoSnhiYU1fc3hSZkJKb0hRU3BFMzBQZk11NUJ3UXYwY2FMREZ6NnFxTVNRTmY1VU40TkVJSS1LaWlUT0hxYXFGWEN1Y0JXc3U?oc=5\" target=\"_blank\">The best hot",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3BQaTZXckpucUZtQnQ1U2pYdzhPV2plZ2t5LTkwbVY3b21QWnZpYlhIZmdQdlVGaEtJSm1BT1BxWjVMTDVaZ1NoSnhiYU1fc3hSZkJKb0hRU3BFMzBQZk11NUJ3UXYwY2FMREZ6NnFxTVNRTmY1VU40TkVJSS1LaWlUT0hxYXFGWEN1Y0JXc3U?oc=5",
-      "score": 31.0,
+      "id": "b4e6bc007b7a",
+      "title": "Supercharging travel: 10 Trends that will shape the industry over the next decade - PhocusWire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUNRZUtCa2ZRakpUWWFaUks3c2FGSTlEeHFsYlNWOEhXVG5DQ0VMXzdnS09UcHBlaHVBODdJSmt4eGNmWEFLUkp5Y2RrR1NrZUlaU0NKVExRRm9ORkxVeE4tM0tHaWlnSDYzZzVSdm5xYmFGZXV4eVM0NjFFMTVDQ1pwYzZ3d0VaekJaYTRlbDRaMTN4X0ZMa1kzVWN4T201UEZ0dzE4SmllWV",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUNRZUtCa2ZRakpUWWFaUks3c2FGSTlEeHFsYlNWOEhXVG5DQ0VMXzdnS09UcHBlaHVBODdJSmt4eGNmWEFLUkp5Y2RrR1NrZUlaU0NKVExRRm9ORkxVeE4tM0tHaWlnSDYzZzVSdm5xYmFGZXV4eVM0NjFFMTVDQ1pwYzZ3d0VaekJaYTRlbDRaMTN4X0ZMa1kzVWN4T201UEZ0dzE4SmllWVFCd3BRUQ?oc=5",
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-06-22T18:00:34+00:00",
+      "first_seen": "2026-06-22T23:07:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 14:37:00 GMT",
-          "source": "The Telegraph"
-        },
+          "published": "Mon, 22 Jun 2026 21:07:14 GMT",
+          "source": "PhocusWire"
+        }
+      ]
+    },
+    {
+      "id": "907e0a4517fd",
+      "title": "What do the new EU air travel reforms mean for flyers? - Wanderlust Travel Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTVtOU80enVWRXVBaWFkelRidFhPT2VIeDRZSG84UGlyMnR1MDFGRGlWbFc1Z2tvRTctN3Rpd0tqa3VkcmktSXRXQXZSbDVsSi1kOElRNDJPNHZOLUlFQUZUMHlaNk9DbjdKV3p3UHVoLUhGeVpIeklBSDN2ZFdrdnVVYlBZeVp1Q3JQRnpYWlltS3NFazNtMXd3?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTVtOU80enVWRXVBaWFkelRidFhPT2VIeDRZSG84UGlyMnR1MDFGRGlWbFc1Z2tvRTctN3Rpd0tqa3VkcmktSXRXQXZSbDVsSi1kOElRNDJPNHZOLUlFQUZUMHlaNk9DbjdKV3p3UHVoLUhGeVpIeklBSDN2ZFdrdnVVYlBZeVp1Q3JQRnpYWlltS3NFazNtMXd3?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-22T23:07:54+00:00",
+      "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 14:46:00 GMT",
-          "source": "The Telegraph"
-        },
+          "published": "Mon, 22 Jun 2026 17:53:51 GMT",
+          "source": "Wanderlust Travel Magazine"
+        }
+      ]
+    },
+    {
+      "id": "57b80ed49dd3",
+      "title": "Europe heatwave sparks travel chaos as temperatures near 40 degrees - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXdrVWJVSjIzNUlGMlYyUXFMZjdZWmJuSXZrT1pZdHZEOWFGcFJIR3FZTXBYcVBCRFFjemR3UE40aEpXQXdEYWc5U3hRd184djJsMnVSd0o1UnBmdFNRRi12OWQ2ZmJrNlNvS2paaTgzZERqMTUwaWhTQ0NCWHA5QzhSWXpXRE1TeTVpaEU1TThhM3VCcTJBZVZ4eXJwRi1ueUo4c0NySm9USl",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXdrVWJVSjIzNUlGMlYyUXFMZjdZWmJuSXZrT1pZdHZEOWFGcFJIR3FZTXBYcVBCRFFjemR3UE40aEpXQXdEYWc5U3hRd184djJsMnVSd0o1UnBmdFNRRi12OWQ2ZmJrNlNvS2paaTgzZERqMTUwaWhTQ0NCWHA5QzhSWXpXRE1TeTVpaEU1TThhM3VCcTJBZVZ4eXJwRi1ueUo4c0NySm9USlE?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-22T23:07:54+00:00",
+      "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 14:39:00 GMT",
-          "source": "The Telegraph"
+          "published": "Mon, 22 Jun 2026 08:43:00 GMT",
+          "source": "The Independent"
+        }
+      ]
+    },
+    {
+      "id": "f1a0a50adeb2",
+      "title": "World Cup 2026: Gates open after fans told not to travel to France-Iraq game due to bad weather - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81cHNzUWljQ3RWdWt3MmhmQVdveE0zWGRpU3R2U1FwQy0waFBDczMwS3gtbC1zeXMyLU16ZmZwTkUyRnRfWHIxQ2V2MU1OTnQ1TGd4eVdscmkyZlFnVUU0MmotOHBBWnM?oc=5\" target=\"_blank\">World Cup 2026: Gates open after fans told not to travel to France-I",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81cHNzUWljQ3RWdWt3MmhmQVdveE0zWGRpU3R2U1FwQy0waFBDczMwS3gtbC1zeXMyLU16ZmZwTkUyRnRfWHIxQ2V2MU1OTnQ1TGd4eVdscmkyZlFnVUU0MmotOHBBWnM?oc=5",
+      "score": 21.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-06-22T23:07:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 22 Jun 2026 18:21:18 GMT",
+          "source": "BBC"
         }
       ]
     }
