@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "AU",
-  "generated_at": "2026-06-23T11:55:12+00:00",
+  "generated_at": "2026-06-23T19:38:49+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "51e1df257b99",
-      "title": "These are the food trends everyone will be talking about in 2026 - delicious.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNS29wTUFVdzJaZVVrSy01N2dtNFU3Zm5GRXF1a3RFOXEtU29zVHZfV285RW05eHNFR2lOTGcwd2hRQXlMei1CWEtfVGZCZ2JYcmJfYk5SbTNpczdiQldtWjQ2OWRUYWVaRTlsUV9zcHhJeVZFam10YlAzV0NtT0hHSUFKSjdwakNjbThXQ1pmS2tqUkFpT2c?oc=5\" target=\"_blank\">Thes",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS29wTUFVdzJaZVVrSy01N2dtNFU3Zm5GRXF1a3RFOXEtU29zVHZfV285RW05eHNFR2lOTGcwd2hRQXlMei1CWEtfVGZCZ2JYcmJfYk5SbTNpczdiQldtWjQ2OWRUYWVaRTlsUV9zcHhJeVZFam10YlAzV0NtT0hHSUFKSjdwakNjbThXQ1pmS2tqUkFpT2c?oc=5",
+      "id": "576b545beaed",
+      "title": "Google's Biggest Summer Food and Drink Trends for 2026, From Spritzes to Spam - marthastewart.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVVDNXItcExlQTRLYUw0ZjhLVG1nTVp2YUZYNWlpZlBfZl9QZEpSU0tPYXRkVVBpWkpYVWNJMC0yN2dpdjJsYTFEV0dWd3p2S29YaUJpZGNGcTh0VDlqMlBrQ180aklUc1g4QWRGVFVFRDhpRmVjZmQ5NVNGNzJiRVg0V3laUQ?oc=5\" target=\"_blank\">Google's Biggest Summer F",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVVDNXItcExlQTRLYUw0ZjhLVG1nTVp2YUZYNWlpZlBfZl9QZEpSU0tPYXRkVVBpWkpYVWNJMC0yN2dpdjJsYTFEV0dWd3p2S29YaUJpZGNGcTh0VDlqMlBrQ180aklUc1g4QWRGVFVFRDhpRmVjZmQ5NVNGNzJiRVg0V3laUQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 23 Jun 2026 16:31:56 GMT",
+          "source": "marthastewart.com"
+        }
+      ]
+    },
+    {
+      "id": "96fc8aeffb02",
+      "title": "Scotland's food trends - from gut health to punchy new flavours - The Herald",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjdjQm9vcGl4RG45SFFCbDZRdzM2d2diVzNNUEt4dTNJTnJERU5CSmFFeHY4TnMxX1lpemQ3cnBkWnFOWU9HQ2NaVUdoTnBtdjlCOVFlN21VMkZIZXRLbXpla0UxRnQ4WU1MX1RhQl8teTR0YTJieEJ4eERrQXYtZGJMY3BycGh3N3VPdGpiUGV3b1RkRmc?oc=5\" target=\"_blank\">Scot",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjdjQm9vcGl4RG45SFFCbDZRdzM2d2diVzNNUEt4dTNJTnJERU5CSmFFeHY4TnMxX1lpemQ3cnBkWnFOWU9HQ2NaVUdoTnBtdjlCOVFlN21VMkZIZXRLbXpla0UxRnQ4WU1MX1RhQl8teTR0YTJieEJ4eERrQXYtZGJMY3BycGh3N3VPdGpiUGV3b1RkRmc?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "AU",
+      "first_seen": "2026-06-23T19:29:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 23 Jun 2026 17:51:45 GMT",
+          "source": "The Herald"
+        }
+      ]
+    },
+    {
+      "id": "51e1df257b99",
+      "title": "These are the food trends everyone will be talking about in 2026 - delicious.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNS29wTUFVdzJaZVVrSy01N2dtNFU3Zm5GRXF1a3RFOXEtU29zVHZfV285RW05eHNFR2lOTGcwd2hRQXlMei1CWEtfVGZCZ2JYcmJfYk5SbTNpczdiQldtWjQ2OWRUYWVaRTlsUV9zcHhJeVZFam10YlAzV0NtT0hHSUFKSjdwakNjbThXQ1pmS2tqUkFpT2c?oc=5\" target=\"_blank\">Thes",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS29wTUFVdzJaZVVrSy01N2dtNFU3Zm5GRXF1a3RFOXEtU29zVHZfV285RW05eHNFR2lOTGcwd2hRQXlMei1CWEtfVGZCZ2JYcmJfYk5SbTNpczdiQldtWjQ2OWRUYWVaRTlsUV9zcHhJeVZFam10YlAzV0NtT0hHSUFKSjdwakNjbThXQ1pmS2tqUkFpT2c?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "AU",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
           "published": "Fri, 16 Jan 2026 08:00:00 GMT",
@@ -27,18 +67,38 @@
       ]
     },
     {
-      "id": "36ce1a3ba223",
-      "title": "Top 10 Food Trends - IFT.org",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5\" target=\"_blank\">Top 10 Food Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5",
-      "score": 86.4,
+      "id": "0cc641df1cdf",
+      "title": "Accessible Specialty Cheeses - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmLTFyRDlBN3ZnU2FjZGhWX0g3SEJwc1RHTmx3SG1ZdFZUdlY2UUNKMFJqUlFGRko2bEMwZUlpaVRtZ3JFLUNFSElTbjRjWll5WllSMDJOMkVLZHVaNW1WMzV0ONIBaEFVX3lxTFAwWHFrQ285RkExU1ZrZzF1SGtWSEZlU2xfMmVqZjRCY3dYeGpTZ2NFSmVYYVBqNF9fS0Z2TnM1Uy0tQjlraE",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmLTFyRDlBN3ZnU2FjZGhWX0g3SEJwc1RHTmx3SG1ZdFZUdlY2UUNKMFJqUlFGRko2bEMwZUlpaVRtZ3JFLUNFSElTbjRjWll5WllSMDJOMkVLZHVaNW1WMzV0ONIBaEFVX3lxTFAwWHFrQ285RkExU1ZrZzF1SGtWSEZlU2xfMmVqZjRCY3dYeGpTZ2NFSmVYYVBqNF9fS0Z2TnM1Uy0tQjlraEtaX3JabTBIQWZNS21GdVBXX2JVRWpFdWI2b2tBZS1KSlVw?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 23 Jun 2026 16:38:33 GMT",
+          "source": "Trend Hunter"
+        }
+      ]
+    },
+    {
+      "id": "36ce1a3ba223",
+      "title": "Top 10 Food Trends - IFT.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5\" target=\"_blank\">Top 10 Food Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "AU",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
           "published": "Wed, 11 Mar 2026 07:00:00 GMT",
@@ -51,14 +111,14 @@
       "title": "Why Greek yoghurt went viral: How social media drives food trends - UNSW Sydney",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjR5djNHT1lVZmlGSDAxMjc5YmlleVNEUWhsd0RtTjFVamNseXR0WTY3OHR3WDNENEplVU45bFZYcFhEclRHMnAtb2dMWWFEY2pjOWZ1U3dScHhmQWhocmtVV09rM0RkXzJxNm85TnFxMTZhUDNXRktoTm1FOTNoVk42MFBWYTc5NGlxUUswZFNpSzJDbnNPVXBXN1N0WnVjaWRIeXhwa3B6VG",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjR5djNHT1lVZmlGSDAxMjc5YmlleVNEUWhsd0RtTjFVamNseXR0WTY3OHR3WDNENEplVU45bFZYcFhEclRHMnAtb2dMWWFEY2pjOWZ1U3dScHhmQWhocmtVV09rM0RkXzJxNm85TnFxMTZhUDNXRktoTm1FOTNoVk42MFBWYTc5NGlxUUswZFNpSzJDbnNPVXBXN1N0WnVjaWRIeXhwa3B6VG1MQjJaNA?oc=5",
-      "score": 82.8,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Apr 2026 07:00:00 GMT",
@@ -67,70 +127,10 @@
       ]
     },
     {
-      "id": "87c45eb6c01f",
-      "title": "TASTE BUDS: New emerging food trends - Cleveland 19 News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODZGeDI5WWNNaHVNY3BXS1NJN0xiSXZSY3lUNmlMSDd6ek94bUlFamRval9LOE5kY1J1clhIWnNyZkFSTG9pWXJYaHctZ0NnWmxNbElyVWZKaTM1ZHNNRjN6S1BiNU4xUHZBYVJkN19Dck0weUdVblF2NXJPTHBkN0hjWVVlMmhQ?oc=5\" target=\"_blank\">TASTE BUDS: New emergin",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODZGeDI5WWNNaHVNY3BXS1NJN0xiSXZSY3lUNmlMSDd6ek94bUlFamRval9LOE5kY1J1clhIWnNyZkFSTG9pWXJYaHctZ0NnWmxNbElyVWZKaTM1ZHNNRjN6S1BiNU4xUHZBYVJkN19Dck0weUdVblF2NXJPTHBkN0hjWVVlMmhQ?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 22 Jun 2026 17:27:00 GMT",
-          "source": "Cleveland 19 News"
-        }
-      ]
-    },
-    {
       "id": "812aa2967c33",
       "title": "FAO Food Outlook: Global food commodity market trends face rising geopolitical and weather risks - Food and Agriculture Organization",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxORmc0OU9UTTQ1RFJDNHE4RVFlS2JqaGM1S2JkZktJejhZYlUxSDBnTjk3TTFzQUhZM3RueVlpVHFLNmpMWWFCWEh3cmVxUTRUTk9FSTNMTWt1WFJFUTNXWUFHQjNQSGYzek40ZmtyZUx1bmpvQ2N3SjMwd0lTeFROVFRhRGRDNlNESWJVSHdRbS1GVDVJM1BWMjNkZ3VkTmRCcFcyUWtsN2s5RD",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORmc0OU9UTTQ1RFJDNHE4RVFlS2JqaGM1S2JkZktJejhZYlUxSDBnTjk3TTFzQUhZM3RueVlpVHFLNmpMWWFCWEh3cmVxUTRUTk9FSTNMTWt1WFJFUTNXWUFHQjNQSGYzek40ZmtyZUx1bmpvQ2N3SjMwd0lTeFROVFRhRGRDNlNESWJVSHdRbS1GVDVJM1BWMjNkZ3VkTmRCcFcyUWtsN2s5RDhDTllsTVFoQzBiYTdlclNtS25YVUQyN2NVaFpVbTdMVldRRm1G?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 18 Jun 2026 12:19:29 GMT",
-          "source": "Food and Agriculture Organization"
-        }
-      ]
-    },
-    {
-      "id": "4b6dea5cfbdc",
-      "title": "Social Media-Inspired Pasta Sauces - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE13RWZUVHhmUXd2WFZyUzZ1dWUzUjFWZkRseEM4WVh2XzFzdmE2a0lucHlOQmZzeGZwZjBQOTdBamJUVWdySFlNeUhRdWtuSlhlbEYwVW1GRTRwV2FlQXNTd2lXTG5HQdIBa0FVX3lxTE4wY1NUYmNVRFFhWmhwZEc0ZlpOS3dCMTdET1I0S3FVNDIyUXhlUXB0WU9hM3ZBR2ZMaFZZQVRXT0YtZG",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13RWZUVHhmUXd2WFZyUzZ1dWUzUjFWZkRseEM4WVh2XzFzdmE2a0lucHlOQmZzeGZwZjBQOTdBamJUVWdySFlNeUhRdWtuSlhlbEYwVW1GRTRwV2FlQXNTd2lXTG5HQdIBa0FVX3lxTE4wY1NUYmNVRFFhWmhwZEc0ZlpOS3dCMTdET1I0S3FVNDIyUXhlUXB0WU9hM3ZBR2ZMaFZZQVRXT0YtZGMyNjM5MW5WM0RzRlQ2RDRiQnNXYmRHVWxGNGVWc21YdFFZR1VtTlk4?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 22 Jun 2026 23:53:19 GMT",
-          "source": "Trend Hunter"
-        }
-      ]
-    },
-    {
-      "id": "eb0860b83e2b",
-      "title": "A hamburger with … peanut butter?: How an unexpected trip to the mechanic uncovered a savory trend - Greenfield Recorder",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGJ0SUV5cHVibjF0aE1RcTM0aTFMUVlYUVd6WUdkQU8tQldMUXlyWW9SQVJXQVlrWEc0UFl5RXI5TlJ2alZJdWd1UC1IUnRJdmViUm5FU3I0UVdjSlFWYkJWVFZ2NUMtMHdzU1lER0JsN2pDNUhSWHo4dXl2dDBYcTdJbS03UEN5TUlzLTBoblkwYlU2dVRsaXpwZWh3cVRmZHg1Z2FQYlpHRj",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGJ0SUV5cHVibjF0aE1RcTM0aTFMUVlYUVd6WUdkQU8tQldMUXlyWW9SQVJXQVlrWEc0UFl5RXI5TlJ2alZJdWd1UC1IUnRJdmViUm5FU3I0UVdjSlFWYkJWVFZ2NUMtMHdzU1lER0JsN2pDNUhSWHo4dXl2dDBYcTdJbS03UEN5TUlzLTBoblkwYlU2dVRsaXpwZWh3cVRmZHg1Z2FQYlpHRjhNc0swSTl4djZZRnZLdE1fVTBaTWpzWU1sRnc?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,11 +138,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 13:57:13 GMT",
-          "source": "Greenfield Recorder"
+          "published": "Thu, 18 Jun 2026 12:19:29 GMT",
+          "source": "Food and Agriculture Organization"
         }
       ]
     },
@@ -158,7 +158,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
           "published": "Sun, 23 Nov 2025 08:00:00 GMT",
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-06-23T11:48:37+00:00",
+      "first_seen": "2026-06-23T19:31:56+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
           "published": "Tue, 30 Dec 2025 08:00:00 GMT",
@@ -221,7 +221,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-06-23T11:48:37+00:00",
+      "first_seen": "2026-06-23T19:31:56+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -233,10 +233,10 @@
       "is_global": true
     },
     {
-      "id": "afeb863b3e1c",
-      "title": "California Prunes gain visibility among culinary tastemakers shaping food trends - FreshFruitPortal.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE40R1JlQm95S0dGeDJjT3FaM0hCajVsOHg0Tl96NHNsN0NjU09lRlRENzRFVllTdWd3ZzJUUU1SOWIzQ3Nzbk9xZS1fZklsQU1Jbmljd25GVlZPcUtGcTNfQXluU055OUZsWFVlUWtCMnFnVldCV2c?oc=5\" target=\"_blank\">California Prunes gain visibility among culinary",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40R1JlQm95S0dGeDJjT3FaM0hCajVsOHg0Tl96NHNsN0NjU09lRlRENzRFVllTdWd3ZzJUUU1SOWIzQ3Nzbk9xZS1fZklsQU1Jbmljd25GVlZPcUtGcTNfQXluU055OUZsWFVlUWtCMnFnVldCV2c?oc=5",
+      "id": "eb0860b83e2b",
+      "title": "A hamburger with … peanut butter?: How an unexpected trip to the mechanic uncovered a savory trend - Greenfield Recorder",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGJ0SUV5cHVibjF0aE1RcTM0aTFMUVlYUVd6WUdkQU8tQldMUXlyWW9SQVJXQVlrWEc0UFl5RXI5TlJ2alZJdWd1UC1IUnRJdmViUm5FU3I0UVdjSlFWYkJWVFZ2NUMtMHdzU1lER0JsN2pDNUhSWHo4dXl2dDBYcTdJbS03UEN5TUlzLTBoblkwYlU2dVRsaXpwZWh3cVRmZHg1Z2FQYlpHRj",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGJ0SUV5cHVibjF0aE1RcTM0aTFMUVlYUVd6WUdkQU8tQldMUXlyWW9SQVJXQVlrWEc0UFl5RXI5TlJ2alZJdWd1UC1IUnRJdmViUm5FU3I0UVdjSlFWYkJWVFZ2NUMtMHdzU1lER0JsN2pDNUhSWHo4dXl2dDBYcTdJbS03UEN5TUlzLTBoblkwYlU2dVRsaXpwZWh3cVRmZHg1Z2FQYlpHRjhNc0swSTl4djZZRnZLdE1fVTBaTWpzWU1sRnc?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -244,11 +244,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 17:23:07 GMT",
-          "source": "FreshFruitPortal.com"
+          "published": "Mon, 22 Jun 2026 13:57:13 GMT",
+          "source": "Greenfield Recorder"
         }
       ]
     },
@@ -264,7 +264,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-06-23T11:48:37+00:00",
+      "first_seen": "2026-06-23T19:31:56+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -287,7 +287,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-06-23T11:48:37+00:00",
+      "first_seen": "2026-06-23T19:31:56+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -299,10 +299,10 @@
       "is_global": true
     },
     {
-      "id": "7e99537f5626",
-      "title": "The 13 Food and Drink Trends That Defined 2025 - Broadsheet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTTZmMWQzLV8ydmJ1eUFmOU5WdkR3ekZGeVlUYnNINHdoeUg2UGs5WXNWVHNJc0RzZnZZYXBpWTYzcTJFYXJiOHZuLTZvNjQwNkFOQ3JDX2JFYVlUSTBPR1JRTE9zdXRFYnZFNmhB?oc=5\" target=\"_blank\">The 13 Food and Drink Trends That Defined 2025</a>&nbsp;&nb",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTTZmMWQzLV8ydmJ1eUFmOU5WdkR3ekZGeVlUYnNINHdoeUg2UGs5WXNWVHNJc0RzZnZZYXBpWTYzcTJFYXJiOHZuLTZvNjQwNkFOQ3JDX2JFYVlUSTBPR1JRTE9zdXRFYnZFNmhB?oc=5",
+      "id": "90b520041063",
+      "title": "Subscription-Based Food Platforms - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NX1dlajROR0NyWk9mUTBIbXVQSmZoRlVnMmE5YUZObFNnTUxpcE1BRG15VmZfVDZwdl9oeU42ZXdTTV9BOWQtUUNaOXRpMG9PNnB5UnpWWklmOHdhb0NJd19kOV_SAWpBVV95cUxQbmRHRjYtdEZUSVlvcllMZ05LbkRVSEQzbFpEZWpxTGl3VEczUUNuUlVlN2p5SDlMQ3FyMm02MEhURTczcm",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NX1dlajROR0NyWk9mUTBIbXVQSmZoRlVnMmE5YUZObFNnTUxpcE1BRG15VmZfVDZwdl9oeU42ZXdTTV9BOWQtUUNaOXRpMG9PNnB5UnpWWklmOHdhb0NJd19kOV_SAWpBVV95cUxQbmRHRjYtdEZUSVlvcllMZ05LbkRVSEQzbFpEZWpxTGl3VEczUUNuUlVlN2p5SDlMQ3FyMm02MEhURTczcm1kbmhPMXphekFhckhUWXVpSzI2RTM2QnpWNlp3WXMwZ09zUXRR?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -310,11 +310,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 03 Dec 2025 08:00:00 GMT",
-          "source": "Broadsheet"
+          "published": "Tue, 23 Jun 2026 18:28:33 GMT",
+          "source": "Trend Hunter"
         }
       ]
     },
@@ -330,7 +330,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-06-23T11:48:37+00:00",
+      "first_seen": "2026-06-23T19:31:56+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -342,10 +342,10 @@
       "is_global": true
     },
     {
-      "id": "99380f2a8118",
-      "title": "Street food trends, global flavors present fish and chip shops with growth opportunities - SeafoodSource",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQblVtNUp1RDlXQmtpQTU1ZkJBWkJnenExdThoWEtMNVpTX0k3QUxMa2M3dE5hZUtDZWo5dEpwZ0loQ1dlZ1dyb1p2dE9LWjd2SVZjWERxRVFjYVgzWFl1OHdNWU0zMkdvMUFFSnJsUW5QRHlneTVsdk5vdlhVOXZfc0hlYUxKV2JRYXVLbUtsbWRXUER5WFFQWHBsODhXTzQxZWxYY3lRbllLN0",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQblVtNUp1RDlXQmtpQTU1ZkJBWkJnenExdThoWEtMNVpTX0k3QUxMa2M3dE5hZUtDZWo5dEpwZ0loQ1dlZ1dyb1p2dE9LWjd2SVZjWERxRVFjYVgzWFl1OHdNWU0zMkdvMUFFSnJsUW5QRHlneTVsdk5vdlhVOXZfc0hlYUxKV2JRYXVLbUtsbWRXUER5WFFQWHBsODhXTzQxZWxYY3lRbllLN0c0VHhUTHlPdTdXdWNPMGljVnlaSjlQdEFaWFVzM1ZPcURKQ2pfU2Q1eEgyWnI?oc=5",
+      "id": "8d9b668cfb08",
+      "title": "The most overhyped food trends of 2025, ranked - Taste",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkh2R1h5cFl6dGxNXzIzNEFZemlnbHdEbktaOVBSa2JUZUQxeWdzWlE1OGZiYVg3aHdVUkh0TF9UaFVWUkJ1R1RNZW1tcWI4UXQ1Ry1KajY3Y0QtZzd5eFcwV2t3dXZIdjhPN1lUVTBjZDVJSTFia0dtSXBvdi1kYV85TkNQX3V6QmfSAYoBQVVfeXFMTzMtTXFYSEZnQTd5aTFHa0s0TFY4Q1",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkh2R1h5cFl6dGxNXzIzNEFZemlnbHdEbktaOVBSa2JUZUQxeWdzWlE1OGZiYVg3aHdVUkh0TF9UaFVWUkJ1R1RNZW1tcWI4UXQ1Ry1KajY3Y0QtZzd5eFcwV2t3dXZIdjhPN1lUVTBjZDVJSTFia0dtSXBvdi1kYV85TkNQX3V6QmfSAYoBQVVfeXFMTzMtTXFYSEZnQTd5aTFHa0s0TFY4Q1RyaGJOWTRBbFR3cElwVnFzbXFITGtpUjJkZVF2UXB6THBfcEMzcXYzbkY1Rm9UNU5GcXpiQU5IZW45UHFOeDdtOHE2RzhsRWNmTy0zaVd3akVGZEotc3ctdDZtdTUwdG1sUVJBVnpoaVB1cnVn?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -353,11 +353,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 09 Jun 2026 18:34:41 GMT",
-          "source": "SeafoodSource"
+          "published": "Mon, 29 Dec 2025 08:00:00 GMT",
+          "source": "Taste"
         }
       ]
     },
@@ -373,7 +373,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-06-23T11:48:37+00:00",
+      "first_seen": "2026-06-23T19:31:56+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -396,7 +396,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-06-23T11:48:37+00:00",
+      "first_seen": "2026-06-23T19:31:56+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -408,10 +408,10 @@
       "is_global": true
     },
     {
-      "id": "9f9c4c827f2f",
-      "title": "Center-Fold Shrink Wrap Market Growth to Accelerate by 2035 Amid Food Packaging Automation and Resin Optimization - News and Statistics - IndexBox",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVHNTS2NURXdRRkdZZUN2LTliU2MxdmVtcm84VVN6U3p6NmFZQlEteko2RTVBQ0JjMzJYY3FqeG1JZ1dXWjNTWEdGeXhwZ1Jla2stRTJ2cDVueHlFcWktNU1rRTdnemRqRl96Q2pHMXlORlUtTWhMTDJOQThGSVlWUzJ2TWVvTGViYW1YeklMenFwLXVKai1zTDQtaDFTZ0VIS285bXlwUnl1SU",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVHNTS2NURXdRRkdZZUN2LTliU2MxdmVtcm84VVN6U3p6NmFZQlEteko2RTVBQ0JjMzJYY3FqeG1JZ1dXWjNTWEdGeXhwZ1Jla2stRTJ2cDVueHlFcWktNU1rRTdnemRqRl96Q2pHMXlORlUtTWhMTDJOQThGSVlWUzJ2TWVvTGViYW1YeklMenFwLXVKai1zTDQtaDFTZ0VIS285bXlwUnl1SU1RbFJBSkVGSlB2b1JEbWNwRVhOQUZIczQ0V01mMEtuR2pCR1dncUI4dmluRmxQWWpMdFE?oc=5",
+      "id": "442a0b2ab7a5",
+      "title": "Snackable Functional Cookie Launches - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkTlRCblU5Q05lUHhhbG53SE9ZdHVKcEh1TGdpVEJCRjVIekxNX1FLVVc3RE0zc19tQmlVYjRYNy14WnBIRUhKalZYaHZ3ZTBwcW9ULXB1VnEwUkRmZjR1UDJlVdIBaEFVX3lxTE1LRnhhUFFoS0R3WEdDRXFoaU41MDk4Y3BUdVYzWjdHdS1xSnQyNDFBRy1jRU54dkZaSE5LNzBua0R3aUJTOF",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkTlRCblU5Q05lUHhhbG53SE9ZdHVKcEh1TGdpVEJCRjVIekxNX1FLVVc3RE0zc19tQmlVYjRYNy14WnBIRUhKalZYaHZ3ZTBwcW9ULXB1VnEwUkRmZjR1UDJlVdIBaEFVX3lxTE1LRnhhUFFoS0R3WEdDRXFoaU41MDk4Y3BUdVYzWjdHdS1xSnQyNDFBRy1jRU54dkZaSE5LNzBua0R3aUJTOFU0RGw3bTRKNkJldEVIOFZVdkJ4VjdtRVdZVGtxcWROTkhP?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -419,19 +419,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 23 Jun 2026 01:36:20 GMT",
-          "source": "IndexBox"
+          "published": "Tue, 23 Jun 2026 16:33:33 GMT",
+          "source": "Trend Hunter"
         }
       ]
     },
     {
-      "id": "b08f4942bead",
-      "title": "Tequila and dot cakes to trend on TikTok and Instagram in summer - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUcVN2NXZfbjFHT01MazNQd0cxZFlkaFNDYzJJT2J4bnNtWjRTaEFsQlRIOFNjckI4Zl92dFZGY1Y0Vjc2bEotTXZCWV9PSVB4NldJcHVEWGJLTENY?oc=5\" target=\"_blank\">Tequila and dot cakes to trend on TikTok and Instagram in summer</a>&nbsp;&nbsp;<fo",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUcVN2NXZfbjFHT01MazNQd0cxZFlkaFNDYzJJT2J4bnNtWjRTaEFsQlRIOFNjckI4Zl92dFZGY1Y0Vjc2bEotTXZCWV9PSVB4NldJcHVEWGJLTENY?oc=5",
+      "id": "0ce93e8e549e",
+      "title": "Non-GMO-Derived Natural Food Colorants - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sSVBLeENyT3NCdnRMREZyTEhqd09UMlJzSmgzVnM1NWFpay1JdlAwNERZN0dSRnVCdFE3aE1wQlRDT3FxRThMNG5fTlRlYmxORDlkTjNqdGRZekZq0gFiQVVfeXFMTlRHU0ZoRExHYXBZRDNQaThyRFJSbGwySTZTNlpKX1dPaUdadTdnZUx0VUVud3RlSE9pVHIxcHNsRXhoc0lMM2hFenZLX2",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sSVBLeENyT3NCdnRMREZyTEhqd09UMlJzSmgzVnM1NWFpay1JdlAwNERZN0dSRnVCdFE3aE1wQlRDT3FxRThMNG5fTlRlYmxORDlkTjNqdGRZekZq0gFiQVVfeXFMTlRHU0ZoRExHYXBZRDNQaThyRFJSbGwySTZTNlpKX1dPaUdadTdnZUx0VUVud3RlSE9pVHIxcHNsRXhoc0lMM2hFenZLX28wNV94ejNRcG9LRU5rcTUtQktLV1E?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -439,19 +439,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 20 Jun 2026 18:05:28 GMT",
-          "source": "BBC"
+          "published": "Tue, 23 Jun 2026 13:16:26 GMT",
+          "source": "Trend Hunter"
         }
       ]
     },
     {
-      "id": "0a32a6d23fb8",
-      "title": "Kimchi-Filled Korean Potstickers - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA0R0t5Vy1FZ3JDbHNYSmJxTmdlR2FxaWRwcXlBUkJlWDFLSHFxWHc0M192V2V5SUJaUC1nUzFxTGpRZUJ1ZjZmdnNWQjNvckVWb2dYMTNxWnhXVnF4TVpreWw2cFY4V0hFOXpkcmxHdkVqNUQx0gF6QVVfeXFMTm0xSWZSTkNjVERWRFVvY3BlUV8yajl4UURfdlFfdVRkM280MnZ1dnYwd0VnRH",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0R0t5Vy1FZ3JDbHNYSmJxTmdlR2FxaWRwcXlBUkJlWDFLSHFxWHc0M192V2V5SUJaUC1nUzFxTGpRZUJ1ZjZmdnNWQjNvckVWb2dYMTNxWnhXVnF4TVpreWw2cFY4V0hFOXpkcmxHdkVqNUQx0gF6QVVfeXFMTm0xSWZSTkNjVERWRFVvY3BlUV8yajl4UURfdlFfdVRkM280MnZ1dnYwd0VnRHFvcnBSSHdFMHRVZWFEUmVDNVlNRjZxU1N1eExDNkRtQWFfNllUQWg0RVFyZGpQS0xLOE5hNG0tQmRkMUpKX1lNeW1BM3c?oc=5",
+      "id": "5b5683ce50b1",
+      "title": "Meat-Free Barbecue Events - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtQ01fOFEteGdvQzhlOVJLWGs5QzQza1dkSE1iUlhBd0Y0VzJHU21QNVg1Vl9JZ2pUd1RfRDMxTUtYcE1hRUZybWRFcWVjMnp6XzRTY0NPZVE5MU9VeGh30gFkQVVfeXFMTjZVN29UMVdiTVRYenRWc3hhNldMLXE0M0RWRHpWZVNVUVV1ZjhFSDk5VGdSRW1Ca1NuT0JoWlBrcHM5RGVmQlY2b2",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtQ01fOFEteGdvQzhlOVJLWGs5QzQza1dkSE1iUlhBd0Y0VzJHU21QNVg1Vl9JZ2pUd1RfRDMxTUtYcE1hRUZybWRFcWVjMnp6XzRTY0NPZVE5MU9VeGh30gFkQVVfeXFMTjZVN29UMVdiTVRYenRWc3hhNldMLXE0M0RWRHpWZVNVUVV1ZjhFSDk5VGdSRW1Ca1NuT0JoWlBrcHM5RGVmQlY2b2IxTEx2U0J0aFhnQ09IQjQ3Y3ZQQUdaZzNNVw?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -459,19 +459,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 23 Jun 2026 01:33:20 GMT",
+          "published": "Tue, 23 Jun 2026 19:18:33 GMT",
           "source": "Trend Hunter"
         }
       ]
     },
     {
-      "id": "8d9b668cfb08",
-      "title": "The most overhyped food trends of 2025, ranked - Taste",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkh2R1h5cFl6dGxNXzIzNEFZemlnbHdEbktaOVBSa2JUZUQxeWdzWlE1OGZiYVg3aHdVUkh0TF9UaFVWUkJ1R1RNZW1tcWI4UXQ1Ry1KajY3Y0QtZzd5eFcwV2t3dXZIdjhPN1lUVTBjZDVJSTFia0dtSXBvdi1kYV85TkNQX3V6QmfSAYoBQVVfeXFMTzMtTXFYSEZnQTd5aTFHa0s0TFY4Q1",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkh2R1h5cFl6dGxNXzIzNEFZemlnbHdEbktaOVBSa2JUZUQxeWdzWlE1OGZiYVg3aHdVUkh0TF9UaFVWUkJ1R1RNZW1tcWI4UXQ1Ry1KajY3Y0QtZzd5eFcwV2t3dXZIdjhPN1lUVTBjZDVJSTFia0dtSXBvdi1kYV85TkNQX3V6QmfSAYoBQVVfeXFMTzMtTXFYSEZnQTd5aTFHa0s0TFY4Q1RyaGJOWTRBbFR3cElwVnFzbXFITGtpUjJkZVF2UXB6THBfcEMzcXYzbkY1Rm9UNU5GcXpiQU5IZW45UHFOeDdtOHE2RzhsRWNmTy0zaVd3akVGZEotc3ctdDZtdTUwdG1sUVJBVnpoaVB1cnVn?oc=5",
+      "id": "4f46e505587c",
+      "title": "Elevated Macaroni Meals - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tc2tIdUxPZ29LOWlqZTQ2bWo2dVY0cVk3TTAyMVROc0luazgyd1l5eVJKZUFXWWdyUndRMmNBZE01dzBRSVlxRGhnd3ZTM2wzZURaZnVn0gFbQVVfeXFMT3ZnNE5Kd1JjV3BnRVYwRHVmSUQ4TEtBQTZrdml5Ym10Rm1VTGpEY2dvN2R0OVdZWG5hWWhiS2k0aV9jNUVrWWc0OGZzamxXVi15VE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tc2tIdUxPZ29LOWlqZTQ2bWo2dVY0cVk3TTAyMVROc0luazgyd1l5eVJKZUFXWWdyUndRMmNBZE01dzBRSVlxRGhnd3ZTM2wzZURaZnVn0gFbQVVfeXFMT3ZnNE5Kd1JjV3BnRVYwRHVmSUQ4TEtBQTZrdml5Ym10Rm1VTGpEY2dvN2R0OVdZWG5hWWhiS2k0aV9jNUVrWWc0OGZzamxXVi15VEtxQzFnVFpUNA?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -479,19 +479,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 29 Dec 2025 08:00:00 GMT",
-          "source": "Taste"
+          "published": "Tue, 23 Jun 2026 17:43:33 GMT",
+          "source": "Trend Hunter"
         }
       ]
     },
     {
-      "id": "fda4eaae3f83",
-      "title": "Microbiome Support Snack Bars - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ca3NObXd3M3ZERDVzY19vVUFRWkVyd29BZ3o4SFlaT1ZvcFZNM2lRLXZ2QXUtNDhXSDdEc1BSYk1PdEVxSVVtajRDdWk3UklULTcwdmIzUDhoZU9LdzNHYmJzZ9IBaEFVX3lxTE5aQlhRNV9OY21UcUtWdHVGMGdwZTlVY3VVUUFPRXJILTNreFBwSzRFa3dGTUpUNHp0cF92ZG5KMmR5ajQ5ND",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ca3NObXd3M3ZERDVzY19vVUFRWkVyd29BZ3o4SFlaT1ZvcFZNM2lRLXZ2QXUtNDhXSDdEc1BSYk1PdEVxSVVtajRDdWk3UklULTcwdmIzUDhoZU9LdzNHYmJzZ9IBaEFVX3lxTE5aQlhRNV9OY21UcUtWdHVGMGdwZTlVY3VVUUFPRXJILTNreFBwSzRFa3dGTUpUNHp0cF92ZG5KMmR5ajQ5NDkzUGdOamZQWWZHSXRTOHJ6WWk3NUxIXzh4alF2Tng5eW5h?oc=5",
+      "id": "005908a43434",
+      "title": "Parmesan Rind Pops - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hc3hEZUlwWmZFYWRtMERTMUZ2NFl4MHN1blFwZEtqM1FVTmhSbXNPa3l4dnN3NTdUSTAzRkN1YjdNM3V6VTFrY0JpNjYxSlIydVHSAVdBVV95cUxQWmRCcFhCdVVxMG5SbzFfZ3o5a3dVbmV1ZVpPd3NtY1VfaHRIem1DWkVrSnFlRE5PTmd2al9wblZLNWpQem1ibkZZTTZpSkRCUFNkcG01am",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hc3hEZUlwWmZFYWRtMERTMUZ2NFl4MHN1blFwZEtqM1FVTmhSbXNPa3l4dnN3NTdUSTAzRkN1YjdNM3V6VTFrY0JpNjYxSlIydVHSAVdBVV95cUxQWmRCcFhCdVVxMG5SbzFfZ3o5a3dVbmV1ZVpPd3NtY1VfaHRIem1DWkVrSnFlRE5PTmd2al9wblZLNWpQem1ibkZZTTZpSkRCUFNkcG01am8?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -499,19 +499,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 19:33:17 GMT",
+          "published": "Tue, 23 Jun 2026 16:18:33 GMT",
           "source": "Trend Hunter"
         }
       ]
     },
     {
-      "id": "45c29c590217",
-      "title": "Ad-Friendly Vertical Video Feeds - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySlE5T0dGcU8wUG5NbmhQMUhJQnF0cGJJaVBGZ0gxRVpLMC0tQkdISDZvZHNablMxZ0hDZGF1cTlmak8wSEpteHZ5N3ktaGNXdl9qSmpsUmNmTUx6d3fSAWNBVV95cUxOc0ozY0hkU3kzUFBnbjBWNEJfS2NNOGlOdG1EaVpXbTh0eFJGZE9VaVpodDg5UzBkc2ZZdGFxanpKc01VSnl4R1FDUH",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySlE5T0dGcU8wUG5NbmhQMUhJQnF0cGJJaVBGZ0gxRVpLMC0tQkdISDZvZHNablMxZ0hDZGF1cTlmak8wSEpteHZ5N3ktaGNXdl9qSmpsUmNmTUx6d3fSAWNBVV95cUxOc0ozY0hkU3kzUFBnbjBWNEJfS2NNOGlOdG1EaVpXbTh0eFJGZE9VaVpodDg5UzBkc2ZZdGFxanpKc01VSnl4R1FDUHE2Ymx4aUpuSjk0TmhDM2xNb3FEVW5wNkk?oc=5",
+      "id": "a3bc8224be4a",
+      "title": "Balanced Nutritional Shakes - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9zWVh6dERGQ0lCTnRocFYwQlFMQ2hmSkRpSS0ySjBtYlNtc0liYjJ4ZVlDcGlMUi02cENmVDdQUnhsUUcydlEwZUFOZ2oyM3VOSzhPbnRBN2dRQU5VUEFhNW9pN2Y1OFVBWjBGYUpvc2M1RTFmNngtcHB30gF_QVVfeXFMTWJYM0NMeE85YlYtUFUzdFVtNmp1ZV84dWg3aEFDMmZveHhZblhHRk",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zWVh6dERGQ0lCTnRocFYwQlFMQ2hmSkRpSS0ySjBtYlNtc0liYjJ4ZVlDcGlMUi02cENmVDdQUnhsUUcydlEwZUFOZ2oyM3VOSzhPbnRBN2dRQU5VUEFhNW9pN2Y1OFVBWjBGYUpvc2M1RTFmNngtcHB30gF_QVVfeXFMTWJYM0NMeE85YlYtUFUzdFVtNmp1ZV84dWg3aEFDMmZveHhZblhHRkQ2b2VwTTFldWkxSGRHNjJRTHQzUU9BQUUxNGtTR2V4SXJEWXk3MHQwOGVURmVBb3J3bFM1QjdBenVOVzA3YU9NTURCTktDR2lzc2FWTEhuVQ?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -519,10 +519,10 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "AU",
-      "first_seen": "2026-06-23T11:46:21+00:00",
+      "first_seen": "2026-06-23T19:29:40+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 22 Jun 2026 22:43:19 GMT",
+          "published": "Tue, 23 Jun 2026 19:08:33 GMT",
           "source": "Trend Hunter"
         }
       ]
