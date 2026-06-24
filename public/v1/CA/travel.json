@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-06-24T11:31:37+00:00",
+  "generated_at": "2026-06-24T18:32:25+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 19,
   "trends": [
     {
       "id": "e4089f3d47c4",
@@ -18,11 +18,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
+      "first_seen": "2026-06-24T18:23:37+00:00",
       "raw_samples": [
         {
           "published": "Wed, 24 Jun 2026 10:00:00 GMT",
           "source": "The Globe and Mail"
+        }
+      ]
+    },
+    {
+      "id": "d29d7f3ade80",
+      "title": "Interest in travel to Vancouver peaking among tourists: survey - CityNews Vancouver",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0JudmhfZXBWRHkzRWl2dXBIWDNoSURRTkZEeHNGLV9wUWxPYTJybHB5V2RqTEkxTnNxT0pmV0tDUHpQRVlVZ3UzNnRBSVJLR2QxbkdibDBaMXl4LXY1dU53NDd0RTBITS1kYzhlbWlQNXBIMkZ3YllNUGp2S0tQbElWbU9EQTdyb0N6czhjSWh6ZzZlak1Cc01Nd0RDZGpqcURHNGx3?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0JudmhfZXBWRHkzRWl2dXBIWDNoSURRTkZEeHNGLV9wUWxPYTJybHB5V2RqTEkxTnNxT0pmV0tDUHpQRVlVZ3UzNnRBSVJLR2QxbkdibDBaMXl4LXY1dU53NDd0RTBITS1kYzhlbWlQNXBIMkZ3YllNUGp2S0tQbElWbU9EQTdyb0N6czhjSWh6ZzZlak1Cc01Nd0RDZGpqcURHNGx3?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 14:45:06 GMT",
+          "source": "CityNews Vancouver"
         }
       ]
     },
@@ -31,26 +51,6 @@
       "title": "Things to Do in Eganville, Ontario: Caves, Lakes, Food & Travel Guide - Toronto Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE03OTRzVnBrLW55YzRYOVM1bjFwSjBCSlFoQnlqMHA1bVVZSWxDOVlvMEFYQ0RNb0NhS1R0Q2o5bl9GUm54YjBPM1BGZ1dFeEwzbWVZWFNSLUkwTnJQa3FmaWQwMk5TLUNlbG9BUXJXdmdiZm9MU3RQaDllZ25UWWM?oc=5\" target=\"_blank\">Things to Do in Eganville, Ontario: ",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03OTRzVnBrLW55YzRYOVM1bjFwSjBCSlFoQnlqMHA1bVVZSWxDOVlvMEFYQ0RNb0NhS1R0Q2o5bl9GUm54YjBPM1BGZ1dFeEwzbWVZWFNSLUkwTnJQa3FmaWQwMk5TLUNlbG9BUXJXdmdiZm9MU3RQaDllZ25UWWM?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 09:00:00 GMT",
-          "source": "Toronto Guardian"
-        }
-      ]
-    },
-    {
-      "id": "4631daa9e06a",
-      "title": "Canadian travel to U.S. has increased for 1st time since January 2025 - National - Global News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9DYlU4YTFlWmRjN2tEbVBhS1QydUIwcnk0ZDlHLXM3NVRTSGRkbjlheDN2VU00c2ZIcGlJbDJPTi1fNm5QRGZpbEk4WUQwOTRNdDB5WVNhc3FyTkNYMnhDdldwSFNwdllYSVNz?oc=5\" target=\"_blank\">Canadian travel to U.S. has increased for 1st time since Januar",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DYlU4YTFlWmRjN2tEbVBhS1QydUIwcnk0ZDlHLXM3NVRTSGRkbjlheDN2VU00c2ZIcGlJbDJPTi1fNm5QRGZpbEk4WUQwOTRNdDB5WVNhc3FyTkNYMnhDdldwSFNwdllYSVNz?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,39 +58,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
+      "first_seen": "2026-06-24T18:23:37+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 23 Jun 2026 19:05:13 GMT",
-          "source": "Global News"
+          "published": "Wed, 24 Jun 2026 09:09:03 GMT",
+          "source": "Toronto Guardian"
         }
       ]
     },
     {
-      "id": "4813bd93c488",
-      "title": "Air Canada cuts travel agent commissions in bid to lower costs - Yahoo! Finance Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVRHRmpPMV9ILWl4b3NlNmttc1lCandrWTJVeFg0eVd2dUtDX3JJRGRBN21MaEtlSGRUYTFkdnRHQzVyYmJBNkRtZ2NHdk5NT2lNajItTl9HT0RUTGRpRDdjSTVqWkFmZVJkRDlZM0xxTWNDT3pvU3R6N09NbXl0NTBJZw?oc=5\" target=\"_blank\">Air Canada cuts travel agent ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVRHRmpPMV9ILWl4b3NlNmttc1lCandrWTJVeFg0eVd2dUtDX3JJRGRBN21MaEtlSGRUYTFkdnRHQzVyYmJBNkRtZ2NHdk5NT2lNajItTl9HT0RUTGRpRDdjSTVqWkFmZVJkRDlZM0xxTWNDT3pvU3R6N09NbXl0NTBJZw?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 23 Jun 2026 19:27:18 GMT",
-          "source": "Yahoo! Finance Canada"
-        }
-      ]
-    },
-    {
-      "id": "ae7ac666c04a",
-      "title": "Canada-U.S. tensions causing decline in Windsor-Essex tourism - Windsor Star",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObVNVWVRJOUY0ZzV5NHM3eVc3Q3BYNHM1NjFNNm13cTJNU1FOcWNKREppUmVuYWwzRzM5OFRaT1JhYzZxeDh3a1VnZ001LXM3QV8xUXVCV0lpbDVFb3lSVkZnN0pFX1RGekNGQVpmS0xUMFkzWGRaLXhyemZyanFETzI3ZjFEeFhCenRYeFlIeDRKR1RGSmY5a0cwZFdzNnZQa3c?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVNVWVRJOUY0ZzV5NHM3eVc3Q3BYNHM1NjFNNm13cTJNU1FOcWNKREppUmVuYWwzRzM5OFRaT1JhYzZxeDh3a1VnZ001LXM3QV8xUXVCV0lpbDVFb3lSVkZnN0pFX1RGekNGQVpmS0xUMFkzWGRaLXhyemZyanFETzI3ZjFEeFhCenRYeFlIeDRKR1RGSmY5a0cwZFdzNnZQa3c?oc=5",
+      "id": "a7b54fe395de",
+      "title": "South Shuswap chamber to provide economic, tourism services for Area G, not C - Salmon Arm Observer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVpGYVZIUmhEMGUtYjFuLW5IeDFiUXZBRTZzc1p3YXRzTkRHa0dneVRQdlpFbzNrMHlwczRpSlVURElET3RlOHRsc05PYzBrTmxXWUUyR3RCVlNaRWoteFo5OWlBMW5ieEVOZU1VMEs4SWZYTDJTenJwdUJmVDFhRUlsdjdfTDM2ZWxHWTY1SnpITXd5Y285TnJMdlpqTVBoQWlJTW8td2xPLU",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVpGYVZIUmhEMGUtYjFuLW5IeDFiUXZBRTZzc1p3YXRzTkRHa0dneVRQdlpFbzNrMHlwczRpSlVURElET3RlOHRsc05PYzBrTmxXWUUyR3RCVlNaRWoteFo5OWlBMW5ieEVOZU1VMEs4SWZYTDJTenJwdUJmVDFhRUlsdjdfTDM2ZWxHWTY1SnpITXd5Y285TnJMdlpqTVBoQWlJTW8td2xPLURZMDJz?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +78,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
+      "first_seen": "2026-06-24T18:23:37+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 24 Jun 2026 10:02:32 GMT",
-          "source": "Windsor Star"
+          "published": "Wed, 24 Jun 2026 17:02:18 GMT",
+          "source": "Salmon Arm Observer"
         }
       ]
     },
     {
-      "id": "a8f512792a85",
-      "title": "Provincial auditor makes 7 recommendations to province on travel nurse usage - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVNtdFJtS1UzNU9PbGh5NkVoWHlTM1NsVnN1Rkx4OGI0MmZGb3VQOWVPZ29ZeWIya0NrU0t4dHlRRXVqMkNSbVVRUmw5VUtnQlVjYXJBeUpVQ1dicWxmb1FCcjZUbVpteVBtRmUyWFJUV0RQQU0xUXlxOWwzNzBBalluajhQSDc2V0dzMw?oc=5\" target=\"_blank\">Provincial audito",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVNtdFJtS1UzNU9PbGh5NkVoWHlTM1NsVnN1Rkx4OGI0MmZGb3VQOWVPZ29ZeWIya0NrU0t4dHlRRXVqMkNSbVVRUmw5VUtnQlVjYXJBeUpVQ1dicWxmb1FCcjZUbVpteVBtRmUyWFJUV0RQQU0xUXlxOWwzNzBBalluajhQSDc2V0dzMw?oc=5",
+      "id": "2812cb9ec29e",
+      "title": "Travel to US Has Increased for 1st Time Since January 2025 - Open Jaw",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHNuVENrc2VoVU8xM0ZTUmxYSDRlX2RhQ3o2X00yc1FNaGdjNUZGMmc1NnZBRGphYXk3UEFWVXgwWmRsMzlzWFRndldqYm5JVVMzU2Y5Qm94cmRtUDhvMWcxaVR2MUg0Q3VzWUpnWklkakpORWkzZlVtZHc2b1haSWt4X1ZPUkROcVlwUDVEWHpYUnRvOXpUWTZWWlhxYVBFWWo4R01jZU9IRG",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHNuVENrc2VoVU8xM0ZTUmxYSDRlX2RhQ3o2X00yc1FNaGdjNUZGMmc1NnZBRGphYXk3UEFWVXgwWmRsMzlzWFRndldqYm5JVVMzU2Y5Qm94cmRtUDhvMWcxaVR2MUg0Q3VzWUpnWklkakpORWkzZlVtZHc2b1haSWt4X1ZPUkROcVlwUDVEWHpYUnRvOXpUWTZWWlhxYVBFWWo4R01jZU9IRGRySFE?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,11 +98,215 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
+      "first_seen": "2026-06-24T18:23:37+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 24 Jun 2026 11:00:00 GMT",
-          "source": "CBC"
+          "published": "Wed, 24 Jun 2026 13:02:33 GMT",
+          "source": "Open Jaw"
+        },
+        {
+          "published": "Tue, 23 Jun 2026 19:05:13 GMT",
+          "source": "Global News"
+        }
+      ]
+    },
+    {
+      "id": "f25cc64f56f7",
+      "title": "Ottawa’s high-speed rail station doesn’t have to be downtown to boost tourism: Alto official - Ottawa Business Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTlkzeWdCMGpQeWJaTGpiMk1VVUc2dDh4OUhrZkZlTmcxQ1FFQUVuSXk0dFNmV0JnamlYbWcxTEZsd19pMkNJRTdfQ2xsWm9RSnV2MHowdXJyWFdjNWtqWXBOandrM2VLSmY0LWtxUzNnS1hfOFdF?oc=5\" target=\"_blank\">Ottawa’s high-speed rail station doesn’t have t",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTlkzeWdCMGpQeWJaTGpiMk1VVUc2dDh4OUhrZkZlTmcxQ1FFQUVuSXk0dFNmV0JnamlYbWcxTEZsd19pMkNJRTdfQ2xsWm9RSnV2MHowdXJyWFdjNWtqWXBOandrM2VLSmY0LWtxUzNnS1hfOFdF?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 18:08:35 GMT",
+          "source": "Ottawa Business Journal"
+        }
+      ]
+    },
+    {
+      "id": "2f7ba549771b",
+      "title": "Vehicle fire on A11 causes travel delays - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB3MWpMaUd0Sk94UEZiYnZ1Zld2eUNXNzE3TlI3ZTFRd1FEN1RzdUI0ZEluaUlLWmRtakVwTlVBclpORGhXU0YxSXhSSlF5TUJOUDZaanowUERIQV8xRHU2NGhTWkFGaGtUeWo3d3BQTnNNd25VbzZDQXMxMA?oc=5\" target=\"_blank\">Vehicle fire on A11 causes travel delays<",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3MWpMaUd0Sk94UEZiYnZ1Zld2eUNXNzE3TlI3ZTFRd1FEN1RzdUI0ZEluaUlLWmRtakVwTlVBclpORGhXU0YxSXhSSlF5TUJOUDZaanowUERIQV8xRHU2NGhTWkFGaGtUeWo3d3BQTnNNd25VbzZDQXMxMA?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 17:52:07 GMT",
+          "source": "Yahoo News Canada"
+        }
+      ]
+    },
+    {
+      "id": "415e08bf5aea",
+      "title": "Summer tourism outlook in N.S. - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2x3VHQ4bVRRXzljZU9kdGJueE5MUzNHYTMzYVVqbnVlV003aXdpTkszTmxDMHpoZ0ppeTY4RDVSMm45eWhxUDhoZm1ZejFOMkwweGc2T3NLbzJYU2ZsR3Q1MzU5VElpNHdnV054Y2FQMzktdkVqcnFuWkc4S1psTFg1NU4?oc=5\" target=\"_blank\">Summer tourism outlook in N.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2x3VHQ4bVRRXzljZU9kdGJueE5MUzNHYTMzYVVqbnVlV003aXdpTkszTmxDMHpoZ0ppeTY4RDVSMm45eWhxUDhoZm1ZejFOMkwweGc2T3NLbzJYU2ZsR3Q1MzU5VElpNHdnV054Y2FQMzktdkVqcnFuWkc4S1psTFg1NU4?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 12:38:49 GMT",
+          "source": "CTV News"
+        }
+      ]
+    },
+    {
+      "id": "601ae6d4fc06",
+      "title": "US eases restriction on Iran's World Cup team, allowing travel 2 days before next match - NPR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDUxMXRVNmdiN3pJdUZTNExqbFpZclA1bjZxVmkyUk0wRGhmWTFxWlJHTHVPRzN3NEVaYmZLUk5YOUlJOVh1WGlOMEZTS1lZMGVQNnRPN3Zoc09RcG9jQWpYX0N2QldTVEdtQ0NtbGU4MFFoUGpmbThPQWUtUUt5R3RNNVU?oc=5\" target=\"_blank\">US eases restriction on Iran",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDUxMXRVNmdiN3pJdUZTNExqbFpZclA1bjZxVmkyUk0wRGhmWTFxWlJHTHVPRzN3NEVaYmZLUk5YOUlJOVh1WGlOMEZTS1lZMGVQNnRPN3Zoc09RcG9jQWpYX0N2QldTVEdtQ0NtbGU4MFFoUGpmbThPQWUtUUt5R3RNNVU?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 14:51:45 GMT",
+          "source": "NPR"
+        }
+      ]
+    },
+    {
+      "id": "cb12140acd6b",
+      "title": "Iran’s travel restrictions into United States eased for final World Cup group game - The Athletic - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTNhazZPX0Z0TjhWeUY4ZURVUUJudENfSVFWMDNCeVF1MEd2YTliQ0JJMmN2Vm9iME14VDh4aXBjaGtELWxuV3VLcHQyeTZUczFoR1E0TlN6akZkdzJkNzAyeHg1MDdsUDJXMzhTRmk2Wmp5clk0UDdvMTlmakhLdDRfZE5Mb2Ffd19SV3doU0xmdy1EMEduV29WU0pQajJwUVkySg?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTNhazZPX0Z0TjhWeUY4ZURVUUJudENfSVFWMDNCeVF1MEd2YTliQ0JJMmN2Vm9iME14VDh4aXBjaGtELWxuV3VLcHQyeTZUczFoR1E0TlN6akZkdzJkNzAyeHg1MDdsUDJXMzhTRmk2Wmp5clk0UDdvMTlmakhLdDRfZE5Mb2Ffd19SV3doU0xmdy1EMEduV29WU0pQajJwUVkySg?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 16:24:08 GMT",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "id": "fe24e10723fc",
+      "title": "Canada has issued travel warnings for 7 European hotspots due to 'the threat of terrorism' - MTL Blog",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBXaUdfYU1ReE5QeFZRdDkySWl3eXZyTy1iaVJhdXVvbTdYVmJpZjlLU3RpT3RoaGR4amxCNzhrS0pUOHBKUElnZUFES3pZdjVsMzJGbnNqREFtREJpc0tTWHBFYTBTZWw4S1cxYjdSSVp1SUFpWFlz?oc=5\" target=\"_blank\">Canada has issued travel warnings for 7 Europea",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXaUdfYU1ReE5QeFZRdDkySWl3eXZyTy1iaVJhdXVvbTdYVmJpZjlLU3RpT3RoaGR4amxCNzhrS0pUOHBKUElnZUFES3pZdjVsMzJGbnNqREFtREJpc0tTWHBFYTBTZWw4S1cxYjdSSVp1SUFpWFlz?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 14:29:43 GMT",
+          "source": "MTL Blog"
+        }
+      ]
+    },
+    {
+      "id": "cb4ae8013b05",
+      "title": "Trevello advisors earn three of Canada’s five Global Piton Awards - Travelweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2d4ZjEtT2lZbTMzOVI4THdvd29HYVBIa21UVDZYMzNyaWdfTnJtT2pHLUowU1J6YWM4TmFObmRaRE5jWl9uTm1VT2VSazBTTzlrSWFIamJXLXJLUzJVNnVFT0FlN3VFandTUFZZU2tYRkJ1cm5vWjh4MUFKNTYzM0pwczJBSTBpTTNpTU1ZVGFrSjdaWGcwcDZwRlRKLTJndXVtTF9Gc2JVdw",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2d4ZjEtT2lZbTMzOVI4THdvd29HYVBIa21UVDZYMzNyaWdfTnJtT2pHLUowU1J6YWM4TmFObmRaRE5jWl9uTm1VT2VSazBTTzlrSWFIamJXLXJLUzJVNnVFT0FlN3VFandTUFZZU2tYRkJ1cm5vWjh4MUFKNTYzM0pwczJBSTBpTTNpTU1ZVGFrSjdaWGcwcDZwRlRKLTJndXVtTF9Gc2JVdw?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 16:01:39 GMT",
+          "source": "Travelweek"
+        }
+      ]
+    },
+    {
+      "id": "ace5cae27c87",
+      "title": "Enbridge Selects Navan to Drive Reliable, User-Friendly Travel Booking Experience Through AI-Powered Travel and Expense Management - Business Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPTC1ienhUVTI0QWhrMWZwOE1iRmdrSVc5WjN2WF9KTFBDM1QzQjZzLTg5ZWNadWJNOFo4cHBsSXRVRDBXcHhFZnBZTzdJSTBrOUJIRUVOdEU5N0R1Szh5SmtnUDd6MEhvUzdtWV96cnc1MkZZbTR2WlVjYVdzMVpwdk9YdmR6dnNiMWdPU2JKelI1M0QxeU5jaWFNY25XSkk1dExBbHZpNW9aQ0",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTC1ienhUVTI0QWhrMWZwOE1iRmdrSVc5WjN2WF9KTFBDM1QzQjZzLTg5ZWNadWJNOFo4cHBsSXRVRDBXcHhFZnBZTzdJSTBrOUJIRUVOdEU5N0R1Szh5SmtnUDd6MEhvUzdtWV96cnc1MkZZbTR2WlVjYVdzMVpwdk9YdmR6dnNiMWdPU2JKelI1M0QxeU5jaWFNY25XSkk1dExBbHZpNW9aQ0ZpYlBnb05ONE0wMldsamFVYS1CRmgzR0pDblFqZkQtUGxCU1lSSGxrWWdDcWF6NHVwN21DSWxRaHJEQkZNMm5OVkE4eHBka0V2U25VR09NZm1WTkctUGdXRWM3WGFNbWFLOU5pODU5aTk?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 12:30:00 GMT",
+          "source": "Business Wire"
+        }
+      ]
+    },
+    {
+      "id": "f73015319657",
+      "title": "Workers in food, tourism sector demand better working conditions - eKathimerini.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVd1QndpVGRMWkd4RS1IRnNsbFVWazU4SGZ3eVU0UzcwOVV6WTc5YUxlajN2NEg1cW92RVgxaGk1Z0RBMndHajRVTU9ocXdRUzZBdnQ5ekJORGJuSzFwZTRmQXFfdGg2Z3NPaXZNYndqamdWZUhtTEtLZFBqX25SZTdWTTl5N0RtWi14ZXZITTNJRF9QMnBHUkpub3E2ZWRLdk9mdUxrZzhONj",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVd1QndpVGRMWkd4RS1IRnNsbFVWazU4SGZ3eVU0UzcwOVV6WTc5YUxlajN2NEg1cW92RVgxaGk1Z0RBMndHajRVTU9ocXdRUzZBdnQ5ekJORGJuSzFwZTRmQXFfdGg2Z3NPaXZNYndqamdWZUhtTEtLZFBqX25SZTdWTTl5N0RtWi14ZXZITTNJRF9QMnBHUkpub3E2ZWRLdk9mdUxrZzhONjd5?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 12:02:57 GMT",
+          "source": "eKathimerini.com"
+        }
+      ]
+    },
+    {
+      "id": "4e7d04ca0af7",
+      "title": "Red heat alert extended as train travel disrupted - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5RLXh5RDJabFo0NUZ3RWVaZ091dkRJWG1xRmYzYVZwaXJfYWFsYXJwT3lCLUFwR19kcjk5N1l6WVVEckhXZ05QdE9fb3dMSjZTV243cXdGSzZ2a0M5Vnd1djU1cTBFbGZOcmtpZ1pmaGlMc3JtNDhxWnRn?oc=5\" target=\"_blank\">Red heat alert extended as train travel dis",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RLXh5RDJabFo0NUZ3RWVaZ091dkRJWG1xRmYzYVZwaXJfYWFsYXJwT3lCLUFwR19kcjk5N1l6WVVEckhXZ05QdE9fb3dMSjZTV243cXdGSzZ2a0M5Vnd1djU1cTBFbGZOcmtpZ1pmaGlMc3JtNDhxWnRn?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-06-24T18:23:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 Jun 2026 17:14:44 GMT",
+          "source": "Yahoo News Canada"
         }
       ]
     },
@@ -131,14 +315,14 @@
       "title": "Elbows down? Travel to U.S. increases for first time in 15 months - CTV News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlJzNXNCT2RMbVMwQVpYM0xDSnR6eEVNN3BtQW96UFlRVG1JUTdiUUhXXzNMRnh6WUlpZEdqVUFuZURyMG5Rd3Fka0pHV2lFYW50aHRKajFzUjRmLThQUlRPVmtQNWloNWN0eGZ2SjBmX0pRaVEyMDdubUdZZWIwYjNoVGFnUzUzWlpFa1Jxck1UN0JPWV81eWF1MUdOSUtQc1lr?oc=5\" tar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlJzNXNCT2RMbVMwQVpYM0xDSnR6eEVNN3BtQW96UFlRVG1JUTdiUUhXXzNMRnh6WUlpZEdqVUFuZURyMG5Rd3Fka0pHV2lFYW50aHRKajFzUjRmLThQUlRPVmtQNWloNWN0eGZ2SjBmX0pRaVEyMDdubUdZZWIwYjNoVGFnUzUzWlpFa1Jxck1UN0JPWV81eWF1MUdOSUtQc1lr?oc=5",
-      "score": 68.4,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
+      "first_seen": "2026-06-24T18:23:37+00:00",
       "raw_samples": [
         {
           "published": "Tue, 23 Jun 2026 13:14:40 GMT",
@@ -147,210 +331,10 @@
       ]
     },
     {
-      "id": "2a8eb93167cb",
-      "title": "Travel restrictions loosened for killer paroled in Sudbury - Sudbury Star",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpQZHk3NnhVbnI0MEFGM21oOHBBallGWFVLRllGWmhYNlRidGlVVEw3MWtQS0xCNV9hRHViZUlZS3FPTjhVUVEtc1VCTlluVDNjV1gxY0RkZXVUbThqTkh5alpoNThSWklJQjlBWWdGbUJVZVdkNUFKcGpXN0lZM3AtUlVTQXhJV0g1dGhOTnYwMTFkbVpQSGJsRDB4anpFeU5FbW5pYl8?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpQZHk3NnhVbnI0MEFGM21oOHBBallGWFVLRllGWmhYNlRidGlVVEw3MWtQS0xCNV9hRHViZUlZS3FPTjhVUVEtc1VCTlluVDNjV1gxY0RkZXVUbThqTkh5alpoNThSWklJQjlBWWdGbUJVZVdkNUFKcGpXN0lZM3AtUlVTQXhJV0g1dGhOTnYwMTFkbVpQSGJsRDB4anpFeU5FbW5pYl8?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 05:12:38 GMT",
-          "source": "Sudbury Star"
-        }
-      ]
-    },
-    {
-      "id": "6a374a66a245",
-      "title": "Jessica M. Goldstein on the Inherent Optimism of Time Travel - Literary Hub",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXFtMnFydXBUbzIxVG9GcktrLVhQenJBUjlQOVhEcnBQcm9QajE4OTVMME52X2labF9pV0FtUEl1S2l4bldYU3BCdFh2aEExT0xBZ2Qxc1dyUG9pWDhLQy1pSXI3eC1GRU9ocGU3RWlIVFVrcE14cGxSaFpDY0pOTENLRWUzdw?oc=5\" target=\"_blank\">Jessica M. Goldstein on t",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXFtMnFydXBUbzIxVG9GcktrLVhQenJBUjlQOVhEcnBQcm9QajE4OTVMME52X2labF9pV0FtUEl1S2l4bldYU3BCdFh2aEExT0xBZ2Qxc1dyUG9pWDhLQy1pSXI3eC1GRU9ocGU3RWlIVFVrcE14cGxSaFpDY0pOTENLRWUzdw?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 09:20:15 GMT",
-          "source": "Literary Hub"
-        }
-      ]
-    },
-    {
-      "id": "ecee82d02826",
-      "title": "FIA World Council for Automobile Mobility and Tourism Reviews Six Months of Progress for Safe and Sustainable Mobility and Tourism in 2026 - Federation Internationale de l'Automobile",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ19QMzVISnd5NnhObDJCWndxV2loTjBpMTZNUHFUM1o3S3B1STRZckxiaWZsS0NyM0Y5Mk9vMkFmenIzTHdOWmxWcVpPRTlpb05keTdjWURacnl3X0JOSGNyU3pQYVVub3RyejYzU1Bxckg3MlA2S0NQYTJXVWk3LXhXYkZmNnV0LXB1MUtZWHl4ajBuQi1SQ25fVy1Gek9xT3dtTjZYS3BxdE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ19QMzVISnd5NnhObDJCWndxV2loTjBpMTZNUHFUM1o3S3B1STRZckxiaWZsS0NyM0Y5Mk9vMkFmenIzTHdOWmxWcVpPRTlpb05keTdjWURacnl3X0JOSGNyU3pQYVVub3RyejYzU1Bxckg3MlA2S0NQYTJXVWk3LXhXYkZmNnV0LXB1MUtZWHl4ajBuQi1SQ25fVy1Gek9xT3dtTjZYS3BxdEdSRWZYRA?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 10:17:00 GMT",
-          "source": "Federation Internationale de l'Automobile"
-        }
-      ]
-    },
-    {
-      "id": "142c7b1645f9",
-      "title": "The Mobility Playbook: 4 Travel Strategies Billionaires Use To Avoid Chaos - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjB1RkJHWXFqSHR0WVhRZFpHZTBiVU8zR1NlbnFxMUhUUkc4Wlh6UnFCd0V5VjlwSFFudHNpYTlja2VHWUM1NTRHWEdGcFdFLTNyUXdnXzdVcFZ4ZVJQUWhLR201Q2VwMGE0b2x1RXhmNEVBb3FGaGtuYzk2N0hVMkpXbGt1Ull4S2xDZHQxNHRFRUo5bFRfQ1UzOUVmeUdCd3A1cTVTenBIRD",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjB1RkJHWXFqSHR0WVhRZFpHZTBiVU8zR1NlbnFxMUhUUkc4Wlh6UnFCd0V5VjlwSFFudHNpYTlja2VHWUM1NTRHWEdGcFdFLTNyUXdnXzdVcFZ4ZVJQUWhLR201Q2VwMGE0b2x1RXhmNEVBb3FGaGtuYzk2N0hVMkpXbGt1Ull4S2xDZHQxNHRFRUo5bFRfQ1UzOUVmeUdCd3A1cTVTenBIRDNmalkycTZQREJBbGlnMkRBVnlDbzNvc1RW?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 11:00:00 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "7b7d74e7f486",
-      "title": "Vitalité's final travel nurse bill will be about $250M: CEO - Telegraph-Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOckxqRjVMTkZ5YzdFRGE4T0h4a0NJRzk5WXlubVpFOVYwS0JyMUN3M2kzbUItSGFwZk9QdjZHWjJHV2Q5eEpFUE1XbC1fUVlFT09udlo4MmlHa2JPODdVUUNYeHVWc0FQT1hlb0FYVkthLWNNZU50SU5CTzdRUE84TzJEQm5ydElsWVdtVXBCNA?oc=5\" target=\"_blank\">Vitalité's fi",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckxqRjVMTkZ5YzdFRGE4T0h4a0NJRzk5WXlubVpFOVYwS0JyMUN3M2kzbUItSGFwZk9QdjZHWjJHV2Q5eEpFUE1XbC1fUVlFT09udlo4MmlHa2JPODdVUUNYeHVWc0FQT1hlb0FYVkthLWNNZU50SU5CTzdRUE84TzJEQm5ydElsWVdtVXBCNA?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 09:48:29 GMT",
-          "source": "Telegraph-Journal"
-        }
-      ]
-    },
-    {
-      "id": "03817a28bd40",
-      "title": "Trevello Advisors Earn Three of Canada's Five Global Piton Awards - TravelPulse Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWZMVG0zci1BZUhZZ0JTVXJONHpDclVveS14ZVh3SHMtOHVMSEZ0V09RdXVjbXhZY3B6QnB0NzRLdi1RT3R4ZHRfZno3TjZCeWFYb0gyaVVlQW1iNnBFZjdqRWhJMFl0S0VkOVlCNmp3VHJiVFNad3VUY1VOZkUzUmVqTWdrcHRDZzZuRDZfd2ZxVFVFUkhuRWswdWpFbzBESDlv?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWZMVG0zci1BZUhZZ0JTVXJONHpDclVveS14ZVh3SHMtOHVMSEZ0V09RdXVjbXhZY3B6QnB0NzRLdi1RT3R4ZHRfZno3TjZCeWFYb0gyaVVlQW1iNnBFZjdqRWhJMFl0S0VkOVlCNmp3VHJiVFNad3VUY1VOZkUzUmVqTWdrcHRDZzZuRDZfd2ZxVFVFUkhuRWswdWpFbzBESDlv?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 11:00:00 GMT",
-          "source": "TravelPulse Canada"
-        }
-      ]
-    },
-    {
-      "id": "1eac08843ca2",
-      "title": "Three Trevello advisors receive Saint Lucia’s 2026 Global Piton Award - TravelPress",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVFpwb3c3QUNnOU1MQnNNc0w2SUJCLWhuZzZuRUh3VHZWSkNUWi1SeVdDWDFsc1ZtVWdaRndhQkxBOFZQUTF1ZmktVEtOSFAxOFhlbE8yTUZ5cnFDdjdidFlYVmhMSnJyQUxiZFAtNzRGU3JoQUJKUU1yZnhCSHpsMDZEdWVjNFdrSGNTSWViMUVaSzRCUjhoNWVuaE9pZw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFpwb3c3QUNnOU1MQnNNc0w2SUJCLWhuZzZuRUh3VHZWSkNUWi1SeVdDWDFsc1ZtVWdaRndhQkxBOFZQUTF1ZmktVEtOSFAxOFhlbE8yTUZ5cnFDdjdidFlYVmhMSnJyQUxiZFAtNzRGU3JoQUJKUU1yZnhCSHpsMDZEdWVjNFdrSGNTSWViMUVaSzRCUjhoNWVuaE9pZw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 10:27:55 GMT",
-          "source": "TravelPress"
-        }
-      ]
-    },
-    {
-      "id": "77bcb03e8987",
-      "title": "Trump administration loosens travel restrictions on Iranian soccer team - Politico",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNYi1sVFRtdDdnNEl1bFh0emU4Wmh3dUdGdVBtb25nSEZGSUFuUU1CWVRPYUtJMUxMdXJ0N2FTRnA2S1ZpSEkyYXJlR21tNzNyWE05UGVDZEJNcDEzZV9YaWJnVVZnWDdhaVBEalV1ZU5iWE9keGVtbVpEMkU2UnlsemhqV3lvZC00VHVIZGFSYjA0bnRGMTRiaU1qSS1kLW9aR2dFeA?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYi1sVFRtdDdnNEl1bFh0emU4Wmh3dUdGdVBtb25nSEZGSUFuUU1CWVRPYUtJMUxMdXJ0N2FTRnA2S1ZpSEkyYXJlR21tNzNyWE05UGVDZEJNcDEzZV9YaWJnVVZnWDdhaVBEalV1ZU5iWE9keGVtbVpEMkU2UnlsemhqV3lvZC00VHVIZGFSYjA0bnRGMTRiaU1qSS1kLW9aR2dFeA?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 23 Jun 2026 18:10:08 GMT",
-          "source": "Politico"
-        }
-      ]
-    },
-    {
-      "id": "15ac60eaff8f",
-      "title": "ICRT Europe Responsible Tourism Awards 2026 announce winners at Brussels ceremony - Travel Tomorrow",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnl6cmZCd1pLcC0xeHhIZS1Ha2NfUzE2RGNtVU9PRnpkSjVFLUUzVUk5cGdkZGV5ZXM4MF81YmJod18zc0syblBHTzZqSkx0THJZS2FVd2NpUVFQZHozUVZIeGNrcW5sT0EzWlVqRDJQY2YxbjlBYTc5ZjVIbmRRdXYyc2ZjOTNvWUNxaUZudDlUR0x0dUxIRl8tanhHSWJtVjdCMVlpUWd0Tl",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnl6cmZCd1pLcC0xeHhIZS1Ha2NfUzE2RGNtVU9PRnpkSjVFLUUzVUk5cGdkZGV5ZXM4MF81YmJod18zc0syblBHTzZqSkx0THJZS2FVd2NpUVFQZHozUVZIeGNrcW5sT0EzWlVqRDJQY2YxbjlBYTc5ZjVIbmRRdXYyc2ZjOTNvWUNxaUZudDlUR0x0dUxIRl8tanhHSWJtVjdCMVlpUWd0TlV1YVE?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 11:17:33 GMT",
-          "source": "Travel Tomorrow"
-        }
-      ]
-    },
-    {
-      "id": "58a06c7cfc08",
-      "title": "Travel the world with these 12 global (and local) dining guides - Los Angeles Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEFCZWJYRlpNNElPdG1wOUE2Vkh6dEVRN2FOS2FKOUg2ZWczbnVubUh0S3kxdE1QMFI2U1BuZE1ka0xEZGhTdUhMSUlmOUxZSWdPT0JaQVBLRkdQaUlYeVkyWnh4bG1tTXphakduRk1SeHZDYjRTM3NXb2xpZ3dDSHlsRVR6RUlJS1NGX0NlWWgyZW9OUGMtbXRxUTRBWXhXZFpmWmdIQkV2ak",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEFCZWJYRlpNNElPdG1wOUE2Vkh6dEVRN2FOS2FKOUg2ZWczbnVubUh0S3kxdE1QMFI2U1BuZE1ka0xEZGhTdUhMSUlmOUxZSWdPT0JaQVBLRkdQaUlYeVkyWnh4bG1tTXphakduRk1SeHZDYjRTM3NXb2xpZ3dDSHlsRVR6RUlJS1NGX0NlWWgyZW9OUGMtbXRxUTRBWXhXZFpmWmdIQkV2akZqRGNSS2l0S2stQS1FSzdYZVpGT1VEa0pSb0N0Rl9DMHZpQQ?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 10:00:00 GMT",
-          "source": "Los Angeles Times"
-        }
-      ]
-    },
-    {
-      "id": "f864f6c52ecd",
-      "title": "Air Canada cuts commissions for travel agents - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXNSN2EzVjdJX0ttTGdCcGlTUTM5ZTZoZ3BJWFQ0QXRCZFRxcXNSOC1hNGdXb2VsTC1MWmVId0JvYkZ6TFdFX1laY25PZkJJMlRSVGxSZVZwMm80dEl4RFA1aDJ4TUdVZXhuY3RDQmQtV2M5QjYzZG9mUlZlWkdVY3Q4VTNOdC1yWElrVW1B?oc=5\" target=\"_blank\">Air Canada cuts",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXNSN2EzVjdJX0ttTGdCcGlTUTM5ZTZoZ3BJWFQ0QXRCZFRxcXNSOC1hNGdXb2VsTC1MWmVId0JvYkZ6TFdFX1laY25PZkJJMlRSVGxSZVZwMm80dEl4RFA1aDJ4TUdVZXhuY3RDQmQtV2M5QjYzZG9mUlZlWkdVY3Q4VTNOdC1yWElrVW1B?oc=5",
+      "id": "2ff0a3086d5b",
+      "title": "Ontario passenger rail changes could speed up travel, link to Alto: mayors - Global News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDhWaGdxSENuTFBjU3piZ3BFNlRvS0FoTGtaRFRVaWhxemJoU0FXLW9yOWxrajN3QllCMzBKWUJKQnB4TGUtbWdDdVh2U0VrYVRYQWVEUzB1Zkt3bV9vYzNQNk1oZElqUE16eTJTanlod3R5LVIxMUl3WUEtcDRrc2FGMnZrR3E1a2Z3WUVmZTlrOW15M1lV?oc=5\" target=\"_blank\">Ont",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDhWaGdxSENuTFBjU3piZ3BFNlRvS0FoTGtaRFRVaWhxemJoU0FXLW9yOWxrajN3QllCMzBKWUJKQnB4TGUtbWdDdVh2U0VrYVRYQWVEUzB1Zkt3bV9vYzNQNk1oZElqUE16eTJTanlod3R5LVIxMUl3WUEtcDRrc2FGMnZrR3E1a2Z3WUVmZTlrOW15M1lV?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +342,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
+      "first_seen": "2026-06-24T18:23:37+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 23 Jun 2026 16:27:56 GMT",
-          "source": "The Globe and Mail"
+          "published": "Wed, 24 Jun 2026 15:44:02 GMT",
+          "source": "Global News"
         }
       ]
     },
     {
-      "id": "666458b3e49b",
-      "title": "Three new partnerships see Ensemble expanding its technology ecosystem - TravelPress",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWlBU3dtZHlSZkRTRkh1RDNaelM3SVdadVlRN1F1WFJrdnhGbkZrR1lkbGI3OHBxb1lMSkI1ZGdUYmp3YzFUY1lFc2ZPUkxqdjloakY3d3dGbk8xampRTk9XeXNPWV9BZG1NMWZtYjNBbGk0YmVtTXZLRXNtamR1emV6SXZXbnNtZ0VJZnd2b21Nc1h2VW1lUGd2bFZLQzR6?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWlBU3dtZHlSZkRTRkh1RDNaelM3SVdadVlRN1F1WFJrdnhGbkZrR1lkbGI3OHBxb1lMSkI1ZGdUYmp3YzFUY1lFc2ZPUkxqdjloakY3d3dGbk8xampRTk9XeXNPWV9BZG1NMWZtYjNBbGk0YmVtTXZLRXNtamR1emV6SXZXbnNtZ0VJZnd2b21Nc1h2VW1lUGd2bFZLQzR6?oc=5",
+      "id": "45e29263a131",
+      "title": "Active travel among schoolchildren stays 'steady' - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXpRNHJISmRtX015cG1BYk0zVVJnV3BsRG54Uks5cXN3aUpkN2tDcXVnaklHRkhBUVNXVWhVczdpajdmU0piVlExSWdYVUNJTktoQndVR3h6WEh6UDFMNC1aOG1RbUdBYlRCVjZTOXRzVW5kVnlKSEl6RFZ4N0FVRkJITk4yazJn?oc=5\" target=\"_blank\">Active travel among sch",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXpRNHJISmRtX015cG1BYk0zVVJnV3BsRG54Uks5cXN3aUpkN2tDcXVnaklHRkhBUVNXVWhVczdpajdmU0piVlExSWdYVUNJTktoQndVR3h6WEh6UDFMNC1aOG1RbUdBYlRCVjZTOXRzVW5kVnlKSEl6RFZ4N0FVRkJITk4yazJn?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +362,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
+      "first_seen": "2026-06-24T18:23:37+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 24 Jun 2026 10:17:55 GMT",
-          "source": "TravelPress"
+          "published": "Wed, 24 Jun 2026 13:18:03 GMT",
+          "source": "Yahoo News Canada"
         }
       ]
     },
     {
-      "id": "5d2560a22443",
-      "title": "Travel Smart Travel Fast Updates 2026 Guidance as Digital Travel Authorizations Become Routine Border Requirement - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPblBnTUVCbjVIcFJOSXlRNHpuUTY1UXF6LUdDSlNKZW56RUM0dHlQREF1UWM1dnBDSmdPOS1DeEVydHBsRmpHQW55Ni1aNFFEaW9hbDVZc1NKaVNydU5qbHpuM1hrTGJfMXlKVHVqSEN1QXgyNXNtaTB3NFViZWZ2WWVsYTFIc3FXUEJlOV9Lc1hQQzJNNG9qSS1jVU1iTWVrZ29kc1k4N1I5dz",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPblBnTUVCbjVIcFJOSXlRNHpuUTY1UXF6LUdDSlNKZW56RUM0dHlQREF1UWM1dnBDSmdPOS1DeEVydHBsRmpHQW55Ni1aNFFEaW9hbDVZc1NKaVNydU5qbHpuM1hrTGJfMXlKVHVqSEN1QXgyNXNtaTB3NFViZWZ2WWVsYTFIc3FXUEJlOV9Lc1hQQzJNNG9qSS1jVU1iTWVrZ29kc1k4N1I5dzdsMXJuOWxiSzNHS1lFRkpoaTUzSXI2RDgwZ3dBVnJxSXV6R2tzbGZCSnBsYTBJdXpKT1JHdWtGbU5MT2hvVWlEbjNTYlRvR2pyeHFtMGFvV2ctNG1ocWxzdTk3Y1JBS2lyczJ0NXhzblE0WVlzZVg4Wk9Sdw?oc=5",
+      "id": "4813bd93c488",
+      "title": "Air Canada cuts travel agent commissions in bid to lower costs - Yahoo! Finance Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVRHRmpPMV9ILWl4b3NlNmttc1lCandrWTJVeFg0eVd2dUtDX3JJRGRBN21MaEtlSGRUYTFkdnRHQzVyYmJBNkRtZ2NHdk5NT2lNajItTl9HT0RUTGRpRDdjSTVqWkFmZVJkRDlZM0xxTWNDT3pvU3R6N09NbXl0NTBJZw?oc=5\" target=\"_blank\">Air Canada cuts travel agent ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVRHRmpPMV9ILWl4b3NlNmttc1lCandrWTJVeFg0eVd2dUtDX3JJRGRBN21MaEtlSGRUYTFkdnRHQzVyYmJBNkRtZ2NHdk5NT2lNajItTl9HT0RUTGRpRDdjSTVqWkFmZVJkRDlZM0xxTWNDT3pvU3R6N09NbXl0NTBJZw?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +382,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-06-24T11:22:46+00:00",
+      "first_seen": "2026-06-24T18:23:37+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 24 Jun 2026 05:00:30 GMT",
-          "source": "The Globe and Mail"
+          "published": "Tue, 23 Jun 2026 19:27:18 GMT",
+          "source": "Yahoo! Finance Canada"
         }
       ]
     }
