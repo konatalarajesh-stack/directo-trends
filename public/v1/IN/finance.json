@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "IN",
-  "generated_at": "2026-07-08T14:45:00+00:00",
+  "generated_at": "2026-07-08T19:59:31+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
           "published": "Wed, 08 Jul 2026 14:30:15 GMT",
@@ -38,31 +38,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
           "published": "Wed, 08 Jul 2026 14:23:11 GMT",
           "source": "TradingView"
-        }
-      ]
-    },
-    {
-      "id": "d957bec36ccb",
-      "title": "SEBI brings back open-market share buybacks: How your capital gains will be taxed - Upstox",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS0txQVdad2U5akZkbjhKcE1fOVFid21XRkZqUnkwUXpGVjAwSmp0RlppMGthQ3lqRS1ZdXpFNXJTRlV1QnJXVG9Xazd0QUJsbDRJUXFyaUdtU1ZOUGRWYmdZcXN0SUtrMUtNdEVOSUV0RTR4R0FZUDU4LVgyRUd2QjhoV0s0U0RPUE5fNTkxaEtlVDlmRFJJOUZmYmhGR19aOUgzSlFacTAycl",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS0txQVdad2U5akZkbjhKcE1fOVFid21XRkZqUnkwUXpGVjAwSmp0RlppMGthQ3lqRS1ZdXpFNXJTRlV1QnJXVG9Xazd0QUJsbDRJUXFyaUdtU1ZOUGRWYmdZcXN0SUtrMUtNdEVOSUV0RTR4R0FZUDU4LVgyRUd2QjhoV0s0U0RPUE5fNTkxaEtlVDlmRFJJOUZmYmhGR19aOUgzSlFacTAycl9KdW9jMEg1b0tieWVpcTIxOWVHLVpwTFlVTnRMMnVHdHdSbzE1djZrRzdaZzdGd1RfaHR3MnZtRGlueU50WUtKXzUxTEI?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 08 Jul 2026 07:38:40 GMT",
-          "source": "Upstox"
         }
       ]
     },
@@ -78,11 +58,35 @@
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
           "published": "Tue, 07 Jul 2026 08:49:28 GMT",
           "source": "Morningstar"
+        }
+      ]
+    },
+    {
+      "id": "d957bec36ccb",
+      "title": "SEBI brings back open-market share buybacks: How your capital gains will be taxed - Upstox",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS0txQVdad2U5akZkbjhKcE1fOVFid21XRkZqUnkwUXpGVjAwSmp0RlppMGthQ3lqRS1ZdXpFNXJTRlV1QnJXVG9Xazd0QUJsbDRJUXFyaUdtU1ZOUGRWYmdZcXN0SUtrMUtNdEVOSUV0RTR4R0FZUDU4LVgyRUd2QjhoV0s0U0RPUE5fNTkxaEtlVDlmRFJJOUZmYmhGR19aOUgzSlFacTAycl",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS0txQVdad2U5akZkbjhKcE1fOVFid21XRkZqUnkwUXpGVjAwSmp0RlppMGthQ3lqRS1ZdXpFNXJTRlV1QnJXVG9Xazd0QUJsbDRJUXFyaUdtU1ZOUGRWYmdZcXN0SUtrMUtNdEVOSUV0RTR4R0FZUDU4LVgyRUd2QjhoV0s0U0RPUE5fNTkxaEtlVDlmRFJJOUZmYmhGR19aOUgzSlFacTAycl9KdW9jMEg1b0tieWVpcTIxOWVHLVpwTFlVTnRMMnVHdHdSbzE1djZrRzdaZzdGd1RfaHR3MnZtRGlueU50WUtKXzUxTEI?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "IN",
+      "first_seen": "2026-07-08T19:50:31+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 08 Jul 2026 07:38:40 GMT",
+          "source": "Upstox"
+        },
+        {
+          "published": "Wed, 08 Jul 2026 15:50:59 GMT",
+          "source": "livemint.com"
         }
       ]
     },
@@ -98,7 +102,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
           "published": "Fri, 03 Jul 2026 12:22:12 GMT",
@@ -118,7 +122,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
           "published": "Thu, 02 Jul 2026 14:00:01 GMT",
@@ -127,30 +131,10 @@
       ]
     },
     {
-      "id": "64d29cfc35b5",
-      "title": "Vanguard sends wake-up call to every retiree - thestreet.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNT05NLXFUanhxV1pWcEstX2VkSG9CRzE5WW1yVlJzNXF6Z2FFMEM1STBTTW05ajJqR2ZzdGtPaXFXYTRTU2poNl8wenNTa1VaQkFuN0ZwS3ViNDlnZFQ4WVRQbFMzNHEyTHZJR1dpeXROLTA0dEktWDNsLWM1bWx2S09kS2JTM1BjcXVDZUFTTkg4a1FsX2lwendWVGg?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT05NLXFUanhxV1pWcEstX2VkSG9CRzE5WW1yVlJzNXF6Z2FFMEM1STBTTW05ajJqR2ZzdGtPaXFXYTRTU2poNl8wenNTa1VaQkFuN0ZwS3ViNDlnZFQ4WVRQbFMzNHEyTHZJR1dpeXROLTA0dEktWDNsLWM1bWx2S09kS2JTM1BjcXVDZUFTTkg4a1FsX2lwendWVGg?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 08 Jul 2026 06:03:28 GMT",
-          "source": "thestreet.com"
-        }
-      ]
-    },
-    {
-      "id": "51d6111cc723",
-      "title": "Lottery Corporation Draws Attention: Is This Defensive Consumer Stock Still a Market Favourite? - Kalkine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXVlUWJPbWFsbjhGTGNBQkNycXlybzFZbTBuVWVjUi1iMUt1TXNSNmdDdHFJSi02WjVXZUVBZEVoVVcyaGVJbXMyckFtbVJpLWlvTW1vUlNGZ0VlZWpZQUhZaEtLLTRDdzRRMk53dFRGMmQ5bEVzMEpvYlJwVXJ6NlVVUTRuVFNVU180aGZzdjUtYzA2Y3RQeGU3TWJrMUt0eldZY2tqZWN0U2",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXVlUWJPbWFsbjhGTGNBQkNycXlybzFZbTBuVWVjUi1iMUt1TXNSNmdDdHFJSi02WjVXZUVBZEVoVVcyaGVJbXMyckFtbVJpLWlvTW1vUlNGZ0VlZWpZQUhZaEtLLTRDdzRRMk53dFRGMmQ5bEVzMEpvYlJwVXJ6NlVVUTRuVFNVU180aGZzdjUtYzA2Y3RQeGU3TWJrMUt0eldZY2tqZWN0U20wcnQ3bXQ4dURhREhnUVpnclJreHJBSGhtbkxReVFR?oc=5",
+      "id": "1c417e0fa6cb",
+      "title": "How to Stay Relaxed When the Market Feels Tense - Bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +142,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 04 Jul 2026 23:47:00 GMT",
-          "source": "Kalkine"
+          "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+          "source": "Bloomberg.com"
         }
       ]
     },
     {
-      "id": "336dafbe553a",
-      "title": "MrBeast Paid Him $500k To Lose 100lbs!",
+      "id": "8b127acd0e65",
+      "title": "Beast Games Winner Reveals Earnings!",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/Fa5UMsMpK4I",
+      "url": "https://www.youtube.com/shorts/YivQk8no2pQ",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -178,13 +162,13 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-08T14:38:16+00:00",
+      "first_seen": "2026-07-08T19:52:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
           "channel_title": "Graham Stephan",
-          "video_id": "Fa5UMsMpK4I",
-          "published": "2026-07-05T16:00:23+00:00"
+          "video_id": "YivQk8no2pQ",
+          "published": "2026-07-08T16:00:07+00:00"
         }
       ],
       "is_global": true
@@ -201,7 +185,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-08T14:38:17+00:00",
+      "first_seen": "2026-07-08T19:52:49+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -224,7 +208,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
           "published": "Wed, 10 Jun 2026 07:00:00 GMT",
@@ -233,10 +217,10 @@
       ]
     },
     {
-      "id": "829034ea3256",
-      "title": "Elon Musk Fired Him From Tesla!",
+      "id": "336dafbe553a",
+      "title": "MrBeast Paid Him $500k To Lose 100lbs!",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/ZtdSTDSOrrs",
+      "url": "https://www.youtube.com/shorts/Fa5UMsMpK4I",
       "score": 59.29,
       "sources": [
         "youtube"
@@ -244,7 +228,50 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-08T14:38:16+00:00",
+      "first_seen": "2026-07-08T19:52:48+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "Fa5UMsMpK4I",
+          "published": "2026-07-05T16:00:23+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "51d6111cc723",
+      "title": "Lottery Corporation Draws Attention: Is This Defensive Consumer Stock Still a Market Favourite? - Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXVlUWJPbWFsbjhGTGNBQkNycXlybzFZbTBuVWVjUi1iMUt1TXNSNmdDdHFJSi02WjVXZUVBZEVoVVcyaGVJbXMyckFtbVJpLWlvTW1vUlNGZ0VlZWpZQUhZaEtLLTRDdzRRMk53dFRGMmQ5bEVzMEpvYlJwVXJ6NlVVUTRuVFNVU180aGZzdjUtYzA2Y3RQeGU3TWJrMUt0eldZY2tqZWN0U2",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXVlUWJPbWFsbjhGTGNBQkNycXlybzFZbTBuVWVjUi1iMUt1TXNSNmdDdHFJSi02WjVXZUVBZEVoVVcyaGVJbXMyckFtbVJpLWlvTW1vUlNGZ0VlZWpZQUhZaEtLLTRDdzRRMk53dFRGMmQ5bEVzMEpvYlJwVXJ6NlVVUTRuVFNVU180aGZzdjUtYzA2Y3RQeGU3TWJrMUt0eldZY2tqZWN0U20wcnQ3bXQ4dURhREhnUVpnclJreHJBSGhtbkxReVFR?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "IN",
+      "first_seen": "2026-07-08T19:50:31+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 04 Jul 2026 23:47:00 GMT",
+          "source": "Kalkine"
+        }
+      ]
+    },
+    {
+      "id": "829034ea3256",
+      "title": "Elon Musk Fired Him From Tesla!",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/ZtdSTDSOrrs",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-08T19:52:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -256,38 +283,18 @@
       "is_global": true
     },
     {
-      "id": "679e2e606a2a",
-      "title": "The Best Mutual Funds and How to Start Investing - NerdWallet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE93SHdLQi1YQ1lRbjUwRDdNVkJQMWRKNXZnd0ZYdlF4ZnVVc1NlMlQ4bzI0Y2lOWVNKeEJzVURCTDN3VUt2LUFDaDRVVmpTam5oVXh2X3h5eDNFb21ITWI5b1JFQS01SFRvOUctQ0VtWWdSYTBGUUxET3pjUzI?oc=5\" target=\"_blank\">The Best Mutual Funds and How to Start I",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93SHdLQi1YQ1lRbjUwRDdNVkJQMWRKNXZnd0ZYdlF4ZnVVc1NlMlQ4bzI0Y2lOWVNKeEJzVURCTDN3VUt2LUFDaDRVVmpTam5oVXh2X3h5eDNFb21ITWI5b1JFQS01SFRvOUctQ0VtWWdSYTBGUUxET3pjUzI?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "source": "NerdWallet"
-        }
-      ]
-    },
-    {
       "id": "00f806327995",
       "title": "Real Estate Lawyer Exposes New Scam!",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/4odu3fyRne8",
-      "score": 56.98,
+      "score": 54.669999999999995,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-08T14:38:16+00:00",
+      "first_seen": "2026-07-08T19:52:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -299,18 +306,38 @@
       "is_global": true
     },
     {
+      "id": "22579def1a6f",
+      "title": "After 18 months of correction, how does the market look for investors - Moneycontrol.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHQ0MVdPYURpaXRxTzFzdXBlbzAyU0p1S0NHUnZITlVXd1JxSWxOLWF5cHRVcm5hTWxtaFdxVzRrOVlkelBNLXJYd0FaNnQ1YlZkYldqZEcwemF5MmNwY0hsMzVENnBhR0M2bm1xRkllc3lDSC14RE5FZ0JrbnpaVm1xV0FCeUtUMTlyUkJqYWQ1OE05X2xqTnBrd0ItN1liZHpLYUU1R0FDZ1",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHQ0MVdPYURpaXRxTzFzdXBlbzAyU0p1S0NHUnZITlVXd1JxSWxOLWF5cHRVcm5hTWxtaFdxVzRrOVlkelBNLXJYd0FaNnQ1YlZkYldqZEcwemF5MmNwY0hsMzVENnBhR0M2bm1xRkllc3lDSC14RE5FZ0JrbnpaVm1xV0FCeUtUMTlyUkJqYWQ1OE05X2xqTnBrd0ItN1liZHpLYUU1R0FDZ1liM2JYWjV2NWpzVGF2S2FIN2RNRnZ1LUM3dmpISlZsY2pJVVM2OWNmdllWRWVnZ9IB3wFBVV95cUxQaUNoZ0t1eUhUUVlZWFpXbEZQTjFHQ1JoSjk3S09oQnBSN2tMQTZUaFVGUExybW9FeklZSWtCU3haT0E3TlVSQTVZVm9mclN6ODBQTmtpd3NTZmR3VU9fQTJuSnFjeU43MFYzODg4MGdzaWpybTVOdzBlS3ZxQ011ZFdKSC1HcDJXblpxeUthWjJnN1M2VGJxU3JCbkQwT0otUV94LVFMTHlLY0Z5WHViUTJ1c1JBSThJcmtBSXBoN2dIS1c3TE1XUE5vYzkyMlg0SV9QcGFIRHlHbjBZaFBr?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "IN",
+      "first_seen": "2026-07-08T19:50:31+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+          "source": "Moneycontrol.com"
+        }
+      ]
+    },
+    {
       "id": "f90ab60813ed",
       "title": "How To Spot Fake Lamborghini Buyers 👀",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/20npD8vJqNw",
-      "score": 54.669999999999995,
+      "score": 52.35999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-08T14:38:16+00:00",
+      "first_seen": "2026-07-08T19:52:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -322,22 +349,22 @@
       "is_global": true
     },
     {
-      "id": "1c417e0fa6cb",
-      "title": "How to Stay Relaxed When the Market Feels Tense - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5",
-      "score": 54.0,
+      "id": "969af9bac2dc",
+      "title": "Contact Financial Holding extends consumer finance reach as Egypt market grows - AD HOC NEWS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUpmWDBWY0FoT2lCQmJMRnc5QUlyZGFqWEpzOTFOcE5SMU5hcTM1bVJGQmplRG9SbkU3SEp4U0Nmc2poalFQUU9VR2VKcnRmOGxHUWR5bFlKU041UG1tbDdyWVVHZkNRWmJ5Zkh5Mm5RbVFzTVVBazlpUm5PcE9kUzg0SjZZSHhHdG1RdlE1X3B5elRjOENZYUZrZjA0TllTSEJuSUlQWUlMVl",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUpmWDBWY0FoT2lCQmJMRnc5QUlyZGFqWEpzOTFOcE5SMU5hcTM1bVJGQmplRG9SbkU3SEp4U0Nmc2poalFQUU9VR2VKcnRmOGxHUWR5bFlKU041UG1tbDdyWVVHZkNRWmJ5Zkh5Mm5RbVFzTVVBazlpUm5PcE9kUzg0SjZZSHhHdG1RdlE1X3B5elRjOENZYUZrZjA0TllTSEJuSUlQWUlMVlplRU5JRVkyOU9BRnZJakV2dFh3Y2l5LUhTc3NBeUlXZw?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "source": "Bloomberg.com"
+          "published": "Wed, 08 Jul 2026 19:34:42 GMT",
+          "source": "AD HOC NEWS"
         }
       ]
     },
@@ -346,14 +373,14 @@
       "title": "How Much Money Doctors Make!",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/IQeuWj4rxSc",
-      "score": 52.35999999999999,
+      "score": 50.05,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-08T14:38:16+00:00",
+      "first_seen": "2026-07-08T19:52:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -365,38 +392,18 @@
       "is_global": true
     },
     {
-      "id": "df4143d1ecce",
-      "title": "Best Stocks To Buy Now For UK Investors In 2026 - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTURrQnR1VU5ISnREUldFcklqNDIwSXptSmRkbFhGa19vSDVzUkZTaUJQbk9mTVVXVG1qbXJSTERIeTZnZzdTcUc0NDBGdUNJVWlBSkxiOEVZZ1FOWHFNVmRWSWlGZDJaTVZaaTBHeGhXcVdmTnc?oc=5\" target=\"_blank\">Best Stocks To Buy Now For UK Investors In 2026<",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTURrQnR1VU5ISnREUldFcklqNDIwSXptSmRkbFhGa19vSDVzUkZTaUJQbk9mTVVXVG1qbXJSTERIeTZnZzdTcUc0NDBGdUNJVWlBSkxiOEVZZ1FOWHFNVmRWSWlGZDJaTVZaaTBHeGhXcVdmTnc?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 03 Jul 2026 14:54:00 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
       "id": "a774cd52a59f",
       "title": "How Ben Shapiro Raised $4.8M 🤯",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/atYuBoY-cKA",
-      "score": 50.05,
+      "score": 47.74,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-08T14:38:16+00:00",
+      "first_seen": "2026-07-08T19:52:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -408,18 +415,38 @@
       "is_global": true
     },
     {
+      "id": "1c32d6fded1c",
+      "title": "Indian stock market looks fair now-here's where the smart money is going - Business Standard",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVWhUVnJFbUlXcEdHMXNMbi1iMGVyU3ZxbUEtTU94LWNJVW1sMEpJWWpFdVdoUGZCU3ZnajFtM0tPUk5ZSnBNNUo3TW5paXpibjRIcWM4cWdYMlpScjVobldWaDFfd2QtV2xJa1FTV004NVc3ejEwcEVlMExsODlUUjhSOWJFOE9mRjBzeTZGT2hpTVBCQUQ3T3BBQ296dFZaS2Q5Y2U2aWpmMy",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVWhUVnJFbUlXcEdHMXNMbi1iMGVyU3ZxbUEtTU94LWNJVW1sMEpJWWpFdVdoUGZCU3ZnajFtM0tPUk5ZSnBNNUo3TW5paXpibjRIcWM4cWdYMlpScjVobldWaDFfd2QtV2xJa1FTV004NVc3ejEwcEVlMExsODlUUjhSOWJFOE9mRjBzeTZGT2hpTVBCQUQ3T3BBQ296dFZaS2Q5Y2U2aWpmMy1uRTd4THVTRnR1NVcwT3Q1UGg1Zmo3NjY4b2d6YXhtNGwwRktoS2RieDlmRG9GNHBpQU9BSkN5bzZuZ9IB6wFBVV95cUxNMF9naGJ6aS1jR0xRRGpodlRqWUgwV0V0cEpDU09QQm1GWWlxVUFtbXlZQXZCYkhhTHQ2T3BucERuTmh4a0FTNEs4LXgxZDRYdTE3ekE4X0tSM09NY1diSERaak9mY0pEaEhabzBlTnRaNl9CSElkcU9kTnJMS0RSUF9aWk1oeWhodWFQMnpzVTJGcjNUVFpkUy1SUDNDUXFqZmtBRXpySHFDSmNUMXFmUk51ZTEzazU0RE96bGRFbG1UV2RfQk44MmpIQVdjVzh0cEFvc3JHbklqN1FPYjROZjhDeXZGMWxOQXFB?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "IN",
+      "first_seen": "2026-07-08T19:50:31+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+          "source": "Business Standard"
+        }
+      ]
+    },
+    {
       "id": "4b47d2f12dc8",
       "title": "\"I Just Sold Everything” - WTF Happened To Bitcoin?!",
       "summary": "To get 50% off your first order of CookUnity meals, go to http://www.cookunity.com/graham/ or use code GRAHAM50 - CookUnity connects you with top chefs from across the US, delivering their signature dishes fresh to your door. With hundreds of meals to choose from, there’s somethi",
       "url": "https://www.youtube.com/watch?v=TzuvZLuXzAE",
-      "score": 47.74,
+      "score": 45.43,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-08T14:38:16+00:00",
+      "first_seen": "2026-07-08T19:52:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -431,22 +458,22 @@
       "is_global": true
     },
     {
-      "id": "22579def1a6f",
-      "title": "After 18 months of correction, how does the market look for investors - Moneycontrol.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHQ0MVdPYURpaXRxTzFzdXBlbzAyU0p1S0NHUnZITlVXd1JxSWxOLWF5cHRVcm5hTWxtaFdxVzRrOVlkelBNLXJYd0FaNnQ1YlZkYldqZEcwemF5MmNwY0hsMzVENnBhR0M2bm1xRkllc3lDSC14RE5FZ0JrbnpaVm1xV0FCeUtUMTlyUkJqYWQ1OE05X2xqTnBrd0ItN1liZHpLYUU1R0FDZ1",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHQ0MVdPYURpaXRxTzFzdXBlbzAyU0p1S0NHUnZITlVXd1JxSWxOLWF5cHRVcm5hTWxtaFdxVzRrOVlkelBNLXJYd0FaNnQ1YlZkYldqZEcwemF5MmNwY0hsMzVENnBhR0M2bm1xRkllc3lDSC14RE5FZ0JrbnpaVm1xV0FCeUtUMTlyUkJqYWQ1OE05X2xqTnBrd0ItN1liZHpLYUU1R0FDZ1liM2JYWjV2NWpzVGF2S2FIN2RNRnZ1LUM3dmpISlZsY2pJVVM2OWNmdllWRWVnZ9IB3wFBVV95cUxQaUNoZ0t1eUhUUVlZWFpXbEZQTjFHQ1JoSjk3S09oQnBSN2tMQTZUaFVGUExybW9FeklZSWtCU3haT0E3TlVSQTVZVm9mclN6ODBQTmtpd3NTZmR3VU9fQTJuSnFjeU43MFYzODg4MGdzaWpybTVOdzBlS3ZxQ011ZFdKSC1HcDJXblpxeUthWjJnN1M2VGJxU3JCbkQwT0otUV94LVFMTHlLY0Z5WHViUTJ1c1JBSThJcmtBSXBoN2dIS1c3TE1XUE5vYzkyMlg0SV9QcGFIRHlHbjBZaFBr?oc=5",
-      "score": 46.8,
+      "id": "04fafd7a89d7",
+      "title": "Consumer confidence hit a historic low — but stock markets are rallying. Here's why the data may be wrong - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm9BR09MTkdBSTRScjRLN1lGek9XWGY2a3NRRHJRU0pwemZINjJPc2JGTlYtWkxzXzFVcklKa2pWZnctdEtwM3FHaDZEY2RiZFBqaXM3TW1SOXpLZVhfUktXV1dWczd3dFlsbWlwYUJleFJXVWZtbXZjSVhKZXk0bmh6NzFyemtSQTBtTnBmazYyemViMjcySnFR?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm9BR09MTkdBSTRScjRLN1lGek9XWGY2a3NRRHJRU0pwemZINjJPc2JGTlYtWkxzXzFVcklKa2pWZnctdEtwM3FHaDZEY2RiZFBqaXM3TW1SOXpLZVhfUktXV1dWczd3dFlsbWlwYUJleFJXVWZtbXZjSVhKZXk0bmh6NzFyemtSQTBtTnBmazYyemViMjcySnFR?oc=5",
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 28 Apr 2026 07:00:00 GMT",
-          "source": "Moneycontrol.com"
+          "published": "Fri, 03 Jul 2026 13:21:49 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
@@ -455,14 +482,14 @@
       "title": "WTF Just Happened To Your Retirement Accounts?!",
       "summary": "To try out Rocket Money today and unlock more features with premium, head to: https://rocketmoney.com/graham  - Enjoy! | Let's talk about the savings and retirement crisis, how much Vanguard 401k balances have increased, and what this means for you - Add me on Instagram: GPStepha",
       "url": "https://www.youtube.com/watch?v=WPbDqGqt7L0",
-      "score": 45.43,
+      "score": 43.12,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-08T14:38:16+00:00",
+      "first_seen": "2026-07-08T19:52:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -474,53 +501,10 @@
       "is_global": true
     },
     {
-      "id": "2871b68a90ab",
-      "title": "How to protect your portfolio if you’re worried about an AI bubble - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTzFLV0JJMEpQX01Odzd3NmJtZlhuY1psZlFkd3loaF9uYkt4X0JJSHVtMl9jNk5HTllCTDVUcXA2aW94eG5WS0tPUkpRYzY0ZG5COThJcU1JbENHXzI0Y2ZLaWgtMUJsaVdFbGdKVHp1dHNfV1Rwb1pVVGdtLUNWbW9QdElKWV9XMWhKS1BwTXUydFhjTmRmR3otNVRudXpQRjkxbzB3cmVXUG",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTzFLV0JJMEpQX01Odzd3NmJtZlhuY1psZlFkd3loaF9uYkt4X0JJSHVtMl9jNk5HTllCTDVUcXA2aW94eG5WS0tPUkpRYzY0ZG5COThJcU1JbENHXzI0Y2ZLaWgtMUJsaVdFbGdKVHp1dHNfV1Rwb1pVVGdtLUNWbW9QdElKWV9XMWhKS1BwTXUydFhjTmRmR3otNVRudXpQRjkxbzB3cmVXUGVvUmFPbWdiMmN4Y3hiOUd3TjZUM2JjUkVlVi1uLWhaaUNBUFgweGZpYnVhRkM?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "3e4f20194104",
-      "title": "RJ Mitte Uses ChatGPT To Find Penny Stocks 😭",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/rNBqebW14ew",
-      "score": 43.12,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-07-08T14:38:16+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "rNBqebW14ew",
-          "published": "2026-06-24T16:00:02+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "b7622db4cf58",
-      "title": "Why SIPs should remain core to your personal finance strategy in 2026: 5 reasons investors are staying invested - livemint.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNUlJpUkozNTBRZWFjNmFleUE4Q29UUXNBQWlmb0kzNzJKSndZYjBLcWh0R0daR3VQRlpHS1hMOXJkS0k3a0JGSTljeklqd2hKdDlicTlMd0VSMVZyb0tNczlEQmYwYkl6RWZHXzJ2c1lTcUJCN2xYOU1IZzF2alFod3RMSEs1dWVqcFNhd01sNU4xNDhNamVkb1VZel9VWkh1WmYyZU9oU0RnUm",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUlJpUkozNTBRZWFjNmFleUE4Q29UUXNBQWlmb0kzNzJKSndZYjBLcWh0R0daR3VQRlpHS1hMOXJkS0k3a0JGSTljeklqd2hKdDlicTlMd0VSMVZyb0tNczlEQmYwYkl6RWZHXzJ2c1lTcUJCN2xYOU1IZzF2alFod3RMSEs1dWVqcFNhd01sNU4xNDhNamVkb1VZel9VWkh1WmYyZU9oU0RnUm1KLVgyZjh3TEtXWUZNckJUZXhUQVFPcHVHbU0tc2Z6NEx1MEJxakEzaUtNT0dzYk4wYkRJQlhDS0VZNGQ5TUV4UHBGM3pZZzJUb2ZxWGJ6dkpQRXRENGU0aFJ5Ui1Pd9IBjwJBVV95cUxNSXpKUEp0LVpPTHA2bVdRUE9FX2VSQXJsRHRFVjh6Sms3N0txUEg2b0JES1JhYVI3S2FxQjNKRVdFQjlhTS1LZG9fdG1LQlZOeGhCZGtZTUZVbFZfLVo4OFI5c1d1eV9kUVprcjhIV2VTaTlWWGpFMXJORzc0NWNaazJId1BWQ0s5SklHQUlweDN2Z2lwZUpKaXBoaVlRVXhzZDY3VVY2YmUyRE1OaUtxMXFodjY1TTljeEdwZWxHOHFVZURsTFE4Yk5YcUNBN2E4Q1dxUUp3SVlFV0QyT0xmQVpHYld1QXFNY3VmM1UyNlBvYWtqbFdycm5wMnl5bjJPYkNOTXVvQ3VINmVORG1j?oc=5",
+      "id": "9e5f116e3b68",
+      "title": "Market volatility poses a serious risk for new retirees. Here’s how to prepare - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0JsbEVWcU9uT0tsZThNQkxqWGFvU0tlNmh0NElvUWNMbXdacVBpTkMtOXNGZk5EdUoyclcwZzNFVE5fZmpvNkE2ZVhseFVZcl9yOUhqbHRHY205ZWJ0d3BISXlsV0RvVm5jcldkRmFIQ3J3aFJ4OFhXbkotSDUtd18wSnk3bXhaanFOUDlOMkFXSUt20gGaAUFVX3lxTE9JNWNMTjJQMTZ3SC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0JsbEVWcU9uT0tsZThNQkxqWGFvU0tlNmh0NElvUWNMbXdacVBpTkMtOXNGZk5EdUoyclcwZzNFVE5fZmpvNkE2ZVhseFVZcl9yOUhqbHRHY205ZWJ0d3BISXlsV0RvVm5jcldkRmFIQ3J3aFJ4OFhXbkotSDUtd18wSnk3bXhaanFOUDlOMkFXSUt20gGaAUFVX3lxTE9JNWNMTjJQMTZ3SC1FT3dYTWJUaXY3X3dSdmV3UFNfMVZhc3g0R2FwVjRnQmhhekVYTVMzNEY5UnFVSWVzUUtudE5UUDFMTkFXMUgzOGRKSTExWTcwcmFXZzNsNzB5Wk1QcUhxMWRHNl9hRUNqS3owTVA2c3JOWkVHM0MxZXBlaFZGVmxUTHE4VmlvSk1Ld29tYWc?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -528,7 +512,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "IN",
-      "first_seen": "2026-07-08T14:35:59+00:00",
+      "first_seen": "2026-07-08T19:50:31+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "id": "b7622db4cf58",
+      "title": "Why SIPs should remain core to your personal finance strategy in 2026: 5 reasons investors are staying invested - livemint.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNUlJpUkozNTBRZWFjNmFleUE4Q29UUXNBQWlmb0kzNzJKSndZYjBLcWh0R0daR3VQRlpHS1hMOXJkS0k3a0JGSTljeklqd2hKdDlicTlMd0VSMVZyb0tNczlEQmYwYkl6RWZHXzJ2c1lTcUJCN2xYOU1IZzF2alFod3RMSEs1dWVqcFNhd01sNU4xNDhNamVkb1VZel9VWkh1WmYyZU9oU0RnUm",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUlJpUkozNTBRZWFjNmFleUE4Q29UUXNBQWlmb0kzNzJKSndZYjBLcWh0R0daR3VQRlpHS1hMOXJkS0k3a0JGSTljeklqd2hKdDlicTlMd0VSMVZyb0tNczlEQmYwYkl6RWZHXzJ2c1lTcUJCN2xYOU1IZzF2alFod3RMSEs1dWVqcFNhd01sNU4xNDhNamVkb1VZel9VWkh1WmYyZU9oU0RnUm1KLVgyZjh3TEtXWUZNckJUZXhUQVFPcHVHbU0tc2Z6NEx1MEJxakEzaUtNT0dzYk4wYkRJQlhDS0VZNGQ5TUV4UHBGM3pZZzJUb2ZxWGJ6dkpQRXRENGU0aFJ5Ui1Pd9IBjwJBVV95cUxNSXpKUEp0LVpPTHA2bVdRUE9FX2VSQXJsRHRFVjh6Sms3N0txUEg2b0JES1JhYVI3S2FxQjNKRVdFQjlhTS1LZG9fdG1LQlZOeGhCZGtZTUZVbFZfLVo4OFI5c1d1eV9kUVprcjhIV2VTaTlWWGpFMXJORzc0NWNaazJId1BWQ0s5SklHQUlweDN2Z2lwZUpKaXBoaVlRVXhzZDY3VVY2YmUyRE1OaUtxMXFodjY1TTljeEdwZWxHOHFVZURsTFE4Yk5YcUNBN2E4Q1dxUUp3SVlFV0QyT0xmQVpHYld1QXFNY3VmM1UyNlBvYWtqbFdycm5wMnl5bjJPYkNOTXVvQ3VINmVORG1j?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "IN",
+      "first_seen": "2026-07-08T19:50:31+00:00",
       "raw_samples": [
         {
           "published": "Thu, 16 Apr 2026 07:00:00 GMT",
