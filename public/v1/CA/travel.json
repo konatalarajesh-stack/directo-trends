@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-07-10T19:57:23+00:00",
+  "generated_at": "2026-07-11T03:44:44+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
-      "id": "8f4d918a9f3d",
-      "title": "Montreal, Vancouver and Ottawa airports back Toronto Pearson’s concerns over fake bot-driven travel sites - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0dzY1JzQ3dTdEZhcVN2OGVoRGplUzdJODFINnJvaUY0ZUZZMnhtdjZDeW5pVHR0d2IwSF9PR3pqT2dZcWpESlktbjNLYUFMMUlzM05Ob2szcF95TU8tenAxZG9EdnEtc1MxSFFjRnNCN2tLbVhIb2dpa3duUFZ1MWJZUUNfYVE1Mm5ZMkc2UUlMNGNWSGxKSXRWbHQ3M2VSVFVIdmVxaGJEej",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0dzY1JzQ3dTdEZhcVN2OGVoRGplUzdJODFINnJvaUY0ZUZZMnhtdjZDeW5pVHR0d2IwSF9PR3pqT2dZcWpESlktbjNLYUFMMUlzM05Ob2szcF95TU8tenAxZG9EdnEtc1MxSFFjRnNCN2tLbVhIb2dpa3duUFZ1MWJZUUNfYVE1Mm5ZMkc2UUlMNGNWSGxKSXRWbHQ3M2VSVFVIdmVxaGJEejlueFQxWUZCUGNQSktVOGNBUXFDNXlJR1otZmJtcWtoa25tRmNPU2RsejZtOHNKQQ?oc=5",
+      "id": "74ae3f6156b7",
+      "title": "The Solo Honeymoon: One Woman’s Story of Love, Loss & Travel - SheDoesTheCity",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxONS1WUUpkcGllUzBKWUF3V1YxVXR5cHRSNUJXU0YzRDh0Z2ZCczNFRmt5Z3FIUktqWkExQkllYVpkMDBUdUFVNEtSaUFCV0hxdEFCejQtMERpTGx2dUk5TUxfaTFiS1RaTmJxXzBsU1p2UmlMTDhfOGluWW1jSm5iQkEzcWNWbWZ1T01DdTlTTFo?oc=5\" target=\"_blank\">The Solo Hon",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONS1WUUpkcGllUzBKWUF3V1YxVXR5cHRSNUJXU0YzRDh0Z2ZCczNFRmt5Z3FIUktqWkExQkllYVpkMDBUdUFVNEtSaUFCV0hxdEFCejQtMERpTGx2dUk5TUxfaTFiS1RaTmJxXzBsU1p2UmlMTDhfOGluWW1jSm5iQkEzcWNWbWZ1T01DdTlTTFo?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 22:18:45 GMT",
+          "source": "SheDoesTheCity"
+        }
+      ]
+    },
+    {
+      "id": "8f4d918a9f3d",
+      "title": "Montreal, Vancouver and Ottawa airports back Toronto Pearson’s concerns over fake bot-driven travel sites - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0dzY1JzQ3dTdEZhcVN2OGVoRGplUzdJODFINnJvaUY0ZUZZMnhtdjZDeW5pVHR0d2IwSF9PR3pqT2dZcWpESlktbjNLYUFMMUlzM05Ob2szcF95TU8tenAxZG9EdnEtc1MxSFFjRnNCN2tLbVhIb2dpa3duUFZ1MWJZUUNfYVE1Mm5ZMkc2UUlMNGNWSGxKSXRWbHQ3M2VSVFVIdmVxaGJEej",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0dzY1JzQ3dTdEZhcVN2OGVoRGplUzdJODFINnJvaUY0ZUZZMnhtdjZDeW5pVHR0d2IwSF9PR3pqT2dZcWpESlktbjNLYUFMMUlzM05Ob2szcF95TU8tenAxZG9EdnEtc1MxSFFjRnNCN2tLbVhIb2dpa3duUFZ1MWJZUUNfYVE1Mm5ZMkc2UUlMNGNWSGxKSXRWbHQ3M2VSVFVIdmVxaGJEejlueFQxWUZCUGNQSktVOGNBUXFDNXlJR1otZmJtcWtoa25tRmNPU2RsejZtOHNKQQ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 18:55:43 GMT",
@@ -27,10 +47,10 @@
       ]
     },
     {
-      "id": "c79969fddea7",
-      "title": "Five potential trade destinations for Kraken center Shane Wright - Daily Faceoff",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaTg3RnN6RVZXcHdrVlB2OVUwTHFiNVgzZkRGaTJGQ3YtMVZEdmQwYkJYRFBkQl9ja0k3WDI3YlUwby1VLUVjYTBuQjM3RVl2WDRva1dRR3owZjhnQXl6Q2ZSdnpRZk9MRnNQZFlFZFFTSENLeE1yS3VLMHI4eC1sMWtES3dCMVc4UWRRSXdHOFNRLXNycGxpVFJMc293aXEzcENpMW1lSlBsVk",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaTg3RnN6RVZXcHdrVlB2OVUwTHFiNVgzZkRGaTJGQ3YtMVZEdmQwYkJYRFBkQl9ja0k3WDI3YlUwby1VLUVjYTBuQjM3RVl2WDRva1dRR3owZjhnQXl6Q2ZSdnpRZk9MRnNQZFlFZFFTSENLeE1yS3VLMHI4eC1sMWtES3dCMVc4UWRRSXdHOFNRLXNycGxpVFJMc293aXEzcENpMW1lSlBsVkdBODFEWmhFRXJRcmhzWXNuNXhVcm9mVnQ0dWFxRDdxTVZCZw?oc=5",
+      "id": "ff0b0b1e12f3",
+      "title": "'Travel bubble' looms for Canadian airlines, warns expert - Financial Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWFpcXExY0JtX19QYkc2UFl6R0hHX0tlWnNNclhCd1B4VmJDMk5IYmw0TXFYMHJoQlF5azZ4cVM5SkdEd096M19ILW5fcjh2aXJKa1ZYNFhYWTVtV29OSll4U0U1aDgtQ003WG5DV3FVdGZxaFVGajZvWnRlclQzVXJnajNmYWkwQWJqN3JtTnE?oc=5\" target=\"_blank\">'Travel bubb",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWFpcXExY0JtX19QYkc2UFl6R0hHX0tlWnNNclhCd1B4VmJDMk5IYmw0TXFYMHJoQlF5azZ4cVM5SkdEd096M19ILW5fcjh2aXJKa1ZYNFhYWTVtV29OSll4U0U1aDgtQ003WG5DV3FVdGZxaFVGajZvWnRlclQzVXJnajNmYWkwQWJqN3JtTnE?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -38,27 +58,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 03:57:00 GMT",
-          "source": "Daily Faceoff"
-        }
-      ]
-    },
-    {
-      "id": "ff0b0b1e12f3",
-      "title": "'Travel bubble' looms for Canadian airlines, warns expert - Financial Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWFpcXExY0JtX19QYkc2UFl6R0hHX0tlWnNNclhCd1B4VmJDMk5IYmw0TXFYMHJoQlF5azZ4cVM5SkdEd096M19ILW5fcjh2aXJKa1ZYNFhYWTVtV29OSll4U0U1aDgtQ003WG5DV3FVdGZxaFVGajZvWnRlclQzVXJnajNmYWkwQWJqN3JtTnE?oc=5\" target=\"_blank\">'Travel bubb",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWFpcXExY0JtX19QYkc2UFl6R0hHX0tlWnNNclhCd1B4VmJDMk5IYmw0TXFYMHJoQlF5azZ4cVM5SkdEd096M19ILW5fcjh2aXJKa1ZYNFhYWTVtV29OSll4U0U1aDgtQ003WG5DV3FVdGZxaFVGajZvWnRlclQzVXJnajNmYWkwQWJqN3JtTnE?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
+      "first_seen": "2026-07-11T03:35:42+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 15:56:23 GMT",
@@ -67,10 +67,30 @@
       ]
     },
     {
-      "id": "0a20199ec01f",
-      "title": "Why Event-Led Travel Is Changing How Consumers Book Trips - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbEhkNUFzazlPdHF3RnE4VTFIX044YlZSTVA0OTh0dG03ek9OS1E4clplazg4WlRTbjI5SUw2TDVmdnRHRmVKQUpBMmxXWTNJNlY3SmdTazNDY0pnSE5Kc2dRbTlxUVJLVzBYOHN3Qnl4b0tPSHpmMjJ5Qmh6YW1lNWVfTnpaQy1FOHExUzNkd3FpMm9qbURtMWo1cGFBZmVCYkpxOGhFZFRESm",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbEhkNUFzazlPdHF3RnE4VTFIX044YlZSTVA0OTh0dG03ek9OS1E4clplazg4WlRTbjI5SUw2TDVmdnRHRmVKQUpBMmxXWTNJNlY3SmdTazNDY0pnSE5Kc2dRbTlxUVJLVzBYOHN3Qnl4b0tPSHpmMjJ5Qmh6YW1lNWVfTnpaQy1FOHExUzNkd3FpMm9qbURtMWo1cGFBZmVCYkpxOGhFZFRESmZR?oc=5",
+      "id": "09ebdef53659",
+      "title": "3 travel destinations with flights under $900 for Canadians - INsauga",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTlsYXh6TTVEcjl1M2xZWWhxQURLWHNKdUhKc2o5VExzOHdtZ2dFZl9YNzdzUTkzUHE0eXJleXptaFEtdk9MdW1nS3U5dnpJMTh1V1ZqLTFHRjlKTkNxUWxpTEl0Y2JWSW9WQmowemlVQVBmSU0zaEVzanZlTU4xZTlSZFowRmdiMFc0?oc=5\" target=\"_blank\">3 travel destinatio",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTlsYXh6TTVEcjl1M2xZWWhxQURLWHNKdUhKc2o5VExzOHdtZ2dFZl9YNzdzUTkzUHE0eXJleXptaFEtdk9MdW1nS3U5dnpJMTh1V1ZqLTFHRjlKTkNxUWxpTEl0Y2JWSW9WQmowemlVQVBmSU0zaEVzanZlTU4xZTlSZFowRmdiMFc0?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 19:14:58 GMT",
+          "source": "INsauga"
+        }
+      ]
+    },
+    {
+      "id": "46e985818e57",
+      "title": "Court strikes down confidentiality clause for air travel complaints process - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3BPX2JpdkZoQkhvSGFfMEVlU0lMeEZsWmtYWGZuV3pIY0xYaGhVQ3Jfa09TblF2VlV4dXYzWHdPR3JnVEVFdTFTZnBFTmd4NEZpRFlJN1NQdTBVVXhKX2gwQUJOZmlodHd4Z3RuaWJ2VkR6UkVxbFQ4b3g1SmdhdU0wYw?oc=5\" target=\"_blank\">Court strikes down confidenti",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3BPX2JpdkZoQkhvSGFfMEVlU0lMeEZsWmtYWGZuV3pIY0xYaGhVQ3Jfa09TblF2VlV4dXYzWHdPR3JnVEVFdTFTZnBFTmd4NEZpRFlJN1NQdTBVVXhKX2gwQUJOZmlodHd4Z3RuaWJ2VkR6UkVxbFQ4b3g1SmdhdU0wYw?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -78,19 +98,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
+      "first_seen": "2026-07-11T03:35:42+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 10 Jul 2026 14:40:16 GMT",
-          "source": "Forbes"
+          "published": "Thu, 09 Jul 2026 20:05:00 GMT",
+          "source": "CBC"
         }
       ]
     },
     {
-      "id": "09ebdef53659",
-      "title": "3 travel destinations with flights under $900 for Canadians - INsauga",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTlsYXh6TTVEcjl1M2xZWWhxQURLWHNKdUhKc2o5VExzOHdtZ2dFZl9YNzdzUTkzUHE0eXJleXptaFEtdk9MdW1nS3U5dnpJMTh1V1ZqLTFHRjlKTkNxUWxpTEl0Y2JWSW9WQmowemlVQVBmSU0zaEVzanZlTU4xZTlSZFowRmdiMFc0?oc=5\" target=\"_blank\">3 travel destinatio",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTlsYXh6TTVEcjl1M2xZWWhxQURLWHNKdUhKc2o5VExzOHdtZ2dFZl9YNzdzUTkzUHE0eXJleXptaFEtdk9MdW1nS3U5dnpJMTh1V1ZqLTFHRjlKTkNxUWxpTEl0Y2JWSW9WQmowemlVQVBmSU0zaEVzanZlTU4xZTlSZFowRmdiMFc0?oc=5",
+      "id": "1d210fd33840",
+      "title": "Travel blog: A deep dish slice of Chicago - DiscoverHumboldt",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEFqUHRCMXRreFJ6Ym9ndkxXUEhhdHB3VWQwTmx3QTZPbk9iQmFra3UyZHA4MUhobVctd0VEVHc4NU1VQ2k2XzVJR3hiZjVXMV9YcDd4Y3BDU015Q2hjLWVsaGVBaWZNVWdLMVpvMlZwNk9xdURxZlFaN1hlcmdrQzIteTI0Nm1kMFE?oc=5\" target=\"_blank\">Travel blog: A deep ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEFqUHRCMXRreFJ6Ym9ndkxXUEhhdHB3VWQwTmx3QTZPbk9iQmFra3UyZHA4MUhobVctd0VEVHc4NU1VQ2k2XzVJR3hiZjVXMV9YcDd4Y3BDU015Q2hjLWVsaGVBaWZNVWdLMVpvMlZwNk9xdURxZlFaN1hlcmdrQzIteTI0Nm1kMFE?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -98,11 +118,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
+      "first_seen": "2026-07-11T03:35:42+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 10 Jul 2026 19:14:58 GMT",
-          "source": "INsauga"
+          "published": "Wed, 08 Jul 2026 23:30:42 GMT",
+          "source": "DiscoverHumboldt"
         }
       ]
     },
@@ -118,7 +138,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
+      "first_seen": "2026-07-11T03:35:42+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 13:45:00 GMT",
@@ -127,10 +147,10 @@
       ]
     },
     {
-      "id": "a294ec06da25",
-      "title": "Barcelona’s New Message: ‘Not One Tourist More’ - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5\" target=\"_blank\">Barcelon",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5",
+      "id": "eafc7d3f3b44",
+      "title": "Brand USA Travel Week to Launch in Canada This Fall - Open Jaw",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXlJQjg1bll2LXBsM2Y4SmhoNGIwQlh2WjFjRzUwbGpnTXZhWFJCdW9WZDJZUUJ6WDVzbmNaQU0xWENabUJGY2R1WlhFX3FSaFJwdUpGdDRtMDl2V243eTZTRG9vVEdCNE1ldVZfOEVJWlJkY21wdW5BQ0ZpQW94aUVNY0hxcHhXb1BINXdTbzV6blRrSW5wOEFR?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXlJQjg1bll2LXBsM2Y4SmhoNGIwQlh2WjFjRzUwbGpnTXZhWFJCdW9WZDJZUUJ6WDVzbmNaQU0xWENabUJGY2R1WlhFX3FSaFJwdUpGdDRtMDl2V243eTZTRG9vVEdCNE1ldVZfOEVJWlJkY21wdW5BQ0ZpQW94aUVNY0hxcHhXb1BINXdTbzV6blRrSW5wOEFR?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -138,211 +158,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 13:46:24 GMT",
-          "source": "The New York Times"
-        }
-      ]
-    },
-    {
-      "id": "3cd650978f69",
-      "title": "Slow Travel Gaining Speed Among Canada's Luxury Travellers, Data Shows - TravelPulse Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0gtR2RZTDBGbUpzczBJaHVjYjFDOWhMbDFnY3Vyd0NTcFVlLVNUdjhMZldtTXdMYjg0VTExVjBkN1VJLVVIMHBUM2R5T0RNUE9rWlIwVlo3V0ltdFNfM2tfVFR4a2t0QWo4NXRjblFibHJ2c0FjbGRyZkg2ekh1eC1kTkp6STRfSDlsbzVCTTV0Yi1LOXVhbWR5S0RJM0NnTE1UY3hDTHJGZm",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0gtR2RZTDBGbUpzczBJaHVjYjFDOWhMbDFnY3Vyd0NTcFVlLVNUdjhMZldtTXdMYjg0VTExVjBkN1VJLVVIMHBUM2R5T0RNUE9rWlIwVlo3V0ltdFNfM2tfVFR4a2t0QWo4NXRjblFibHJ2c0FjbGRyZkg2ekh1eC1kTkp6STRfSDlsbzVCTTV0Yi1LOXVhbWR5S0RJM0NnTE1UY3hDTHJGZmJ0NWc?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 13:00:00 GMT",
-          "source": "TravelPulse Canada"
-        }
-      ]
-    },
-    {
-      "id": "aab588903f78",
-      "title": "Public Advisory: Expect Travel Delays during Bannerman Brook Bridge Replacement - Government of Newfoundland and Labrador",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wbjlpamdEdmwyUXFRcTRGT1Bqak1RNXJ3Z2JXWjRkcDFZRHpkU1lrNEpyUWI4TTk4WWpGcFg3MmRtX0hYSWNqb2YxNjlNdGVZNUQ4ZGdtSlpXZzA2?oc=5\" target=\"_blank\">Public Advisory: Expect Travel Delays during Bannerman Brook Bridge Replacement</a>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wbjlpamdEdmwyUXFRcTRGT1Bqak1RNXJ3Z2JXWjRkcDFZRHpkU1lrNEpyUWI4TTk4WWpGcFg3MmRtX0hYSWNqb2YxNjlNdGVZNUQ4ZGdtSlpXZzA2?oc=5",
-      "score": 59.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 16:57:10 GMT",
-          "source": "Government of Newfoundland and Labrador"
-        },
-        {
-          "published": "Fri, 10 Jul 2026 16:58:32 GMT",
-          "source": "ntv.ca"
-        }
-      ]
-    },
-    {
-      "id": "aa2db2d14813",
-      "title": "Collette spotlights guided journeys to long-haul destinations - Travelweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0NTazlwNjJDOUk1SjlYMktIcjF0QnNTc2FrZTVzSXU3a0w1NWIzRXBfQ0xGZUE3cUFLY1JSNk9BZmJpeGhRZDB2cW1iU0dzUGd3WWMtdGZBRjB4Yms1UlVfQjNUSmVTMkh1dHBudm03TGw1TEZYS2xRNGZsY1dHYnl4ZDFtMlpyZ2NETUxhbTJfT3BuRmkwcHQ5T2VyN3RZZ0JKNzRlSUZ5Vn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0NTazlwNjJDOUk1SjlYMktIcjF0QnNTc2FrZTVzSXU3a0w1NWIzRXBfQ0xGZUE3cUFLY1JSNk9BZmJpeGhRZDB2cW1iU0dzUGd3WWMtdGZBRjB4Yms1UlVfQjNUSmVTMkh1dHBudm03TGw1TEZYS2xRNGZsY1dHYnl4ZDFtMlpyZ2NETUxhbTJfT3BuRmkwcHQ5T2VyN3RZZ0JKNzRlSUZ5VnRx?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 15:31:13 GMT",
-          "source": "Travelweek"
-        }
-      ]
-    },
-    {
-      "id": "46e985818e57",
-      "title": "Court strikes down confidentiality clause for air travel complaints process - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3BPX2JpdkZoQkhvSGFfMEVlU0lMeEZsWmtYWGZuV3pIY0xYaGhVQ3Jfa09TblF2VlV4dXYzWHdPR3JnVEVFdTFTZnBFTmd4NEZpRFlJN1NQdTBVVXhKX2gwQUJOZmlodHd4Z3RuaWJ2VkR6UkVxbFQ4b3g1SmdhdU0wYw?oc=5\" target=\"_blank\">Court strikes down confidenti",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3BPX2JpdkZoQkhvSGFfMEVlU0lMeEZsWmtYWGZuV3pIY0xYaGhVQ3Jfa09TblF2VlV4dXYzWHdPR3JnVEVFdTFTZnBFTmd4NEZpRFlJN1NQdTBVVXhKX2gwQUJOZmlodHd4Z3RuaWJ2VkR6UkVxbFQ4b3g1SmdhdU0wYw?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 09 Jul 2026 20:05:00 GMT",
-          "source": "CBC"
-        }
-      ]
-    },
-    {
-      "id": "7ea9ab073bf0",
-      "title": "Intrepid Travel Offers $99 Solo Supplement on Select Morocco Trips - Open Jaw",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEJheHJDQ2JETC1jMnByci1iei1xNTNpdlM2OG5NcDlBdE5NY2ZEYTNNNGhDYWhteW5nd3M4QkxvNmtBMmtPXzNheW5SWHphSUxTZWd5NVNfek1xdmhCbG1fcnRMTzFjeWcwVi01bUhYajEwQlRBTDJHQmNuR1JORkRFYkhnanpuMnV4LTFSbkQ5dmptOVhxZmk3V2d2cTVxRG5sWEY3MFQxQQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEJheHJDQ2JETC1jMnByci1iei1xNTNpdlM2OG5NcDlBdE5NY2ZEYTNNNGhDYWhteW5nd3M4QkxvNmtBMmtPXzNheW5SWHphSUxTZWd5NVNfek1xdmhCbG1fcnRMTzFjeWcwVi01bUhYajEwQlRBTDJHQmNuR1JORkRFYkhnanpuMnV4LTFSbkQ5dmptOVhxZmk3V2d2cTVxRG5sWEY3MFQxQQ?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 12:54:33 GMT",
-          "source": "Open Jaw"
-        }
-      ]
-    },
-    {
-      "id": "f08ed9a3bf98",
-      "title": "Ontario court ends confidentiality rule for air travel complaint decisions - PAXnews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa18tM0ZNQmZKYkFSS0hpcnRxclRPQTl2c051TGNPQ1RPNDVZY2s0Ym5ZYlNWTUluaVR6bHZMR3FIQjBZdE43UUhQWTYwRF9vMzlFbDR1N3ZkeTA1cllKRTJOSEV3bVBCbG5mcUQ3bHFtRXZxNk5CNjJ5aWh0UHVnbFk2TUptOFlOZmZzc1RSMXhTbkNFRjUtS2xSY1BlMUo4VlhtOTFRZzFlcT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa18tM0ZNQmZKYkFSS0hpcnRxclRPQTl2c051TGNPQ1RPNDVZY2s0Ym5ZYlNWTUluaVR6bHZMR3FIQjBZdE43UUhQWTYwRF9vMzlFbDR1N3ZkeTA1cllKRTJOSEV3bVBCbG5mcUQ3bHFtRXZxNk5CNjJ5aWh0UHVnbFk2TUptOFlOZmZzc1RSMXhTbkNFRjUtS2xSY1BlMUo4VlhtOTFRZzFlcTg?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 15:40:49 GMT",
-          "source": "PAXnews.com"
-        }
-      ]
-    },
-    {
-      "id": "1d210fd33840",
-      "title": "Travel blog: A deep dish slice of Chicago - DiscoverHumboldt",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEFqUHRCMXRreFJ6Ym9ndkxXUEhhdHB3VWQwTmx3QTZPbk9iQmFra3UyZHA4MUhobVctd0VEVHc4NU1VQ2k2XzVJR3hiZjVXMV9YcDd4Y3BDU015Q2hjLWVsaGVBaWZNVWdLMVpvMlZwNk9xdURxZlFaN1hlcmdrQzIteTI0Nm1kMFE?oc=5\" target=\"_blank\">Travel blog: A deep ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEFqUHRCMXRreFJ6Ym9ndkxXUEhhdHB3VWQwTmx3QTZPbk9iQmFra3UyZHA4MUhobVctd0VEVHc4NU1VQ2k2XzVJR3hiZjVXMV9YcDd4Y3BDU015Q2hjLWVsaGVBaWZNVWdLMVpvMlZwNk9xdURxZlFaN1hlcmdrQzIteTI0Nm1kMFE?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 08 Jul 2026 23:30:42 GMT",
-          "source": "DiscoverHumboldt"
-        }
-      ]
-    },
-    {
-      "id": "0b2c304e59ac",
-      "title": "Travel to Europe continues to grow in 2026 with Greece, Italy and Malta leading the way - Yahoo News Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5sdEs4R3BUWk9MbGM5T3JuOUhsdmNEVmR6MEZNNE1OaFBudWlzY0J5WVpGQzlNSDFOaHIzMll0SjZFeFhNR1BwUXpURW1RQ3plT2ZjM2tycjVpYmFkYms5Q3BISHNIU1owWl9pdVl6cVlkZkFVT091Um5nd1d4RUE?oc=5\" target=\"_blank\">Travel to Europe continues to grow i",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sdEs4R3BUWk9MbGM5T3JuOUhsdmNEVmR6MEZNNE1OaFBudWlzY0J5WVpGQzlNSDFOaHIzMll0SjZFeFhNR1BwUXpURW1RQ3plT2ZjM2tycjVpYmFkYms5Q3BISHNIU1owWl9pdVl6cVlkZkFVT091Um5nd1d4RUE?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 15:13:09 GMT",
-          "source": "Yahoo News Canada"
-        }
-      ]
-    },
-    {
-      "id": "5225d763653b",
-      "title": "This B.C. island has been named the best in Canada - Vancouver Sun",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5hbTdzY1MxZE9tWGVTa2NaWHE5Y2pXYVAybGNLSE9mdWJ0ZHJFYlJCd2NGWmpNbTlISi0tVFhqcHgwRmZ4SWRyM3hCNTJza2toV0xROTdzOGc5R3NzaFpwSTRJR0psbFBFdlVBZzNSY0F3U3BwMWNrUFBtVkw?oc=5\" target=\"_blank\">This B.C. island has been named the best",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hbTdzY1MxZE9tWGVTa2NaWHE5Y2pXYVAybGNLSE9mdWJ0ZHJFYlJCd2NGWmpNbTlISi0tVFhqcHgwRmZ4SWRyM3hCNTJza2toV0xROTdzOGc5R3NzaFpwSTRJR0psbFBFdlVBZzNSY0F3U3BwMWNrUFBtVkw?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 16:57:15 GMT",
-          "source": "Vancouver Sun"
-        }
-      ]
-    },
-    {
-      "id": "eafc7d3f3b44",
-      "title": "Brand USA Travel Week to Launch in Canada This Fall - Open Jaw",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNTFqSFNMUW5PZDRfamYycXV0ZHV5b0FmT3o4VFBsejEwcGlQZkdxb3R6bVlKQi1aZFZneFRLVGVLSE1Bd0djZkVDYlIyc1VKRmt6SEt6Z0tPYkJRM1I5aW9Ednh3MFhMWHdtcWtEZmp6VUFRSEdXNi1ieENfVnQyTmZOc1lVVGFSN2pHSHV6bERmTTA4OGVVZUFR?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNTFqSFNMUW5PZDRfamYycXV0ZHV5b0FmT3o4VFBsejEwcGlQZkdxb3R6bVlKQi1aZFZneFRLVGVLSE1Bd0djZkVDYlIyc1VKRmt6SEt6Z0tPYkJRM1I5aW9Ednh3MFhMWHdtcWtEZmp6VUFRSEdXNi1ieENfVnQyTmZOc1lVVGFSN2pHSHV6bERmTTA4OGVVZUFR?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
+      "first_seen": "2026-07-11T03:35:42+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 13:32:19 GMT",
@@ -351,10 +167,210 @@
       ]
     },
     {
-      "id": "82883230f5b6",
-      "title": "Colombia Now: nature, adventure and meaningful travel - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVZHRFpkSnZpT3R0ZmVQREM4Q05VWUxMT1pSQnRKalRaMzBqY2RzWk1XMEhYUG1SRFpnYjBFa2lGSzJSOTY2WDlYS0pzYVVKaGo5WjhHc0JiMHdzbEgwVDk1SElpUW1kaldYN3dJRGZjSFVHUGFVWGVQel9xX211SEMteS1sUVVnOHlsVTZhWUx5dkZXcDFyamZXX3J4d2RBeE9hbQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVZHRFpkSnZpT3R0ZmVQREM4Q05VWUxMT1pSQnRKalRaMzBqY2RzWk1XMEhYUG1SRFpnYjBFa2lGSzJSOTY2WDlYS0pzYVVKaGo5WjhHc0JiMHdzbEgwVDk1SElpUW1kaldYN3dJRGZjSFVHUGFVWGVQel9xX211SEMteS1sUVVnOHlsVTZhWUx5dkZXcDFyamZXX3J4d2RBeE9hbQ?oc=5",
+      "id": "fcf312d40c5d",
+      "title": "Victoria named second best city in Canada by prestigious travel magazine - Victoria Buzz",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQejBPYWthRUVKMWxVU0lqaDdzNUFWNkpqcUVxUTRwMFBSSlR5M3BBWEVSTGlkSzRSOG03Z200NG9mLWNoRTdiSDhsWHhYajVqWGg4bDQ2TkdIc1QxOUxVTHE0Qmpja3dDQjNKYXJENWpLRDZQLWJ2Q2dEbGlnRFgtNFdHdWctbXBRaVZMazYtWUJpUVNIS090X2tfR2lYdnJyX1RrdGg2Nkc4OW",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejBPYWthRUVKMWxVU0lqaDdzNUFWNkpqcUVxUTRwMFBSSlR5M3BBWEVSTGlkSzRSOG03Z200NG9mLWNoRTdiSDhsWHhYajVqWGg4bDQ2TkdIc1QxOUxVTHE0Qmpja3dDQjNKYXJENWpLRDZQLWJ2Q2dEbGlnRFgtNFdHdWctbXBRaVZMazYtWUJpUVNIS090X2tfR2lYdnJyX1RrdGg2Nkc4OW44?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 19:26:18 GMT",
+          "source": "Victoria Buzz"
+        }
+      ]
+    },
+    {
+      "id": "a39d051d041a",
+      "title": "The Message From Barcelona’s New Sustainable Tourism Leader: ‘Not One Tourist More.’ - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5\" target=\"_blank\">The Mess",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 13:46:24 GMT",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "id": "e37611f3e150",
+      "title": "Kamloops Blazers discuss potential three-on-three OT rule change, schedule changes, air travel - CFJC Today Kamloops",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPVl9vS3F2akN2ZWtZQ3RkdnVqR2x5ZlpXX3RPTjhuMVY2OFBGaTBFcGF5cFRaa0J3TVFLcFN1TThBeTREcWRtUE43blprb1Nhd3huQUlpdWhEb0FMQS1uWGNCeDhRVElOY1N3SjYyT2RGM0lnLTk3c2JKTjhMblB6WXM2bXdfaHIwUU5GZldwbWlQVzJ1R3pqUlA5eFEzTWE1clc0WDFpeDZqRC",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVl9vS3F2akN2ZWtZQ3RkdnVqR2x5ZlpXX3RPTjhuMVY2OFBGaTBFcGF5cFRaa0J3TVFLcFN1TThBeTREcWRtUE43blprb1Nhd3huQUlpdWhEb0FMQS1uWGNCeDhRVElOY1N3SjYyT2RGM0lnLTk3c2JKTjhMblB6WXM2bXdfaHIwUU5GZldwbWlQVzJ1R3pqUlA5eFEzTWE1clc0WDFpeDZqRC0tSFJVNDNBTE1idVE1aldCUHNJdERRMUNn?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 01:35:04 GMT",
+          "source": "CFJC Today Kamloops"
+        }
+      ]
+    },
+    {
+      "id": "5225d763653b",
+      "title": "This B.C. island has been named the best in Canada - Vancouver Sun",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5hbTdzY1MxZE9tWGVTa2NaWHE5Y2pXYVAybGNLSE9mdWJ0ZHJFYlJCd2NGWmpNbTlISi0tVFhqcHgwRmZ4SWRyM3hCNTJza2toV0xROTdzOGc5R3NzaFpwSTRJR0psbFBFdlVBZzNSY0F3U3BwMWNrUFBtVkw?oc=5\" target=\"_blank\">This B.C. island has been named the best",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hbTdzY1MxZE9tWGVTa2NaWHE5Y2pXYVAybGNLSE9mdWJ0ZHJFYlJCd2NGWmpNbTlISi0tVFhqcHgwRmZ4SWRyM3hCNTJza2toV0xROTdzOGc5R3NzaFpwSTRJR0psbFBFdlVBZzNSY0F3U3BwMWNrUFBtVkw?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 16:57:15 GMT",
+          "source": "Vancouver Sun"
+        }
+      ]
+    },
+    {
+      "id": "c79969fddea7",
+      "title": "Five potential trade destinations for Kraken center Shane Wright - Daily Faceoff",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaTg3RnN6RVZXcHdrVlB2OVUwTHFiNVgzZkRGaTJGQ3YtMVZEdmQwYkJYRFBkQl9ja0k3WDI3YlUwby1VLUVjYTBuQjM3RVl2WDRva1dRR3owZjhnQXl6Q2ZSdnpRZk9MRnNQZFlFZFFTSENLeE1yS3VLMHI4eC1sMWtES3dCMVc4UWRRSXdHOFNRLXNycGxpVFJMc293aXEzcENpMW1lSlBsVk",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaTg3RnN6RVZXcHdrVlB2OVUwTHFiNVgzZkRGaTJGQ3YtMVZEdmQwYkJYRFBkQl9ja0k3WDI3YlUwby1VLUVjYTBuQjM3RVl2WDRva1dRR3owZjhnQXl6Q2ZSdnpRZk9MRnNQZFlFZFFTSENLeE1yS3VLMHI4eC1sMWtES3dCMVc4UWRRSXdHOFNRLXNycGxpVFJMc293aXEzcENpMW1lSlBsVkdBODFEWmhFRXJRcmhzWXNuNXhVcm9mVnQ0dWFxRDdxTVZCZw?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 03:57:00 GMT",
+          "source": "Daily Faceoff"
+        }
+      ]
+    },
+    {
+      "id": "188ba8d60397",
+      "title": "Sonny Gray gives Red Sox solid start after travel woes and Boston beats the Mets 6-2 - Castanet",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWJnQVV2MzRVUEoxVGR0dUlYVHpEZ3FPOWVHOWZ4b3lDTHdTMktVdEdNbEN1SjhOVF9HWE82N2c1WWh1OGhkOXpZVXh0dlFYMlNvTXNhUWxEdTNFVC04a3BfRFZlSjBfZld1Ql9nUDFteXFWLWg5TEYxVzNlNDgzNHJJM1pCejZfX2RoaUp3dlZEV1NDNHAtSUlseDJVUS1qaFpwbndXUlRDRF",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWJnQVV2MzRVUEoxVGR0dUlYVHpEZ3FPOWVHOWZ4b3lDTHdTMktVdEdNbEN1SjhOVF9HWE82N2c1WWh1OGhkOXpZVXh0dlFYMlNvTXNhUWxEdTNFVC04a3BfRFZlSjBfZld1Ql9nUDFteXFWLWg5TEYxVzNlNDgzNHJJM1pCejZfX2RoaUp3dlZEV1NDNHAtSUlseDJVUS1qaFpwbndXUlRDRFA2aElYUHdWUUpGUUdJNkZQbGQyN001SEU?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 03:15:00 GMT",
+          "source": "Castanet"
+        }
+      ]
+    },
+    {
+      "id": "30667b202c5b",
+      "title": "I built an agentic AI clone of my family to plan our summer travel - Fast Company",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFFqbDJkei15VVNaaE80cEpKejkwLUVQTUV1Q2p6S0I4bDN6RnVlYzNRcHB6Q1dod2hLa2xuM29pcTZsMklKUUxXYk5GRkJBeklOWW1TNkQwb0NUOTkzd1IteEluSmZqMzd2dHpad0xIQ2lCSWtXbVAzWmZzR2cxenJrcnBvcGdfQWtwTVJoc08?oc=5\" target=\"_blank\">I built an a",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFFqbDJkei15VVNaaE80cEpKejkwLUVQTUV1Q2p6S0I4bDN6RnVlYzNRcHB6Q1dod2hLa2xuM29pcTZsMklKUUxXYk5GRkJBeklOWW1TNkQwb0NUOTkzd1IteEluSmZqMzd2dHpad0xIQ2lCSWtXbVAzWmZzR2cxenJrcnBvcGdfQWtwTVJoc08?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 17:11:11 GMT",
+          "source": "Fast Company"
+        }
+      ]
+    },
+    {
+      "id": "9cc6d969d9cc",
+      "title": "US State Department reissues travel warning for popular Caribbean vacation destination - NBC 5 Chicago",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTAyZlNKaVprbjJEaF9HLVlEV3RhYnZJSFRiQlhiZVZUU1E1c3kzU2RXZ0RMbmEtdDFrSlRaaXQzN2NQZS0xXy11RXZwSFFfZTVUeUlHWjNrQllRNlJOZ0ZkSEFyMERPd0Q3WnZfTE94eUxQb25nSDhSeUxzVWxQOEZLTXowSmFRM3hvNVlnVk1uSkFoemJZcU9COXBqOVZvSTkwdjNvb0Y5ZW",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTAyZlNKaVprbjJEaF9HLVlEV3RhYnZJSFRiQlhiZVZUU1E1c3kzU2RXZ0RMbmEtdDFrSlRaaXQzN2NQZS0xXy11RXZwSFFfZTVUeUlHWjNrQllRNlJOZ0ZkSEFyMERPd0Q3WnZfTE94eUxQb25nSDhSeUxzVWxQOEZLTXowSmFRM3hvNVlnVk1uSkFoemJZcU9COXBqOVZvSTkwdjNvb0Y5ZWE2V1JlT1NJcXRSVVhsX0tCX3p6ZlE2RUlicFM5NnpZdm1vUdIB1gFBVV95cUxQVU53QmhzaFBoVUFySTdqbi1GOHZtY3R5R20xNWYtZGZYVll4R1dPcEpZYklvTjdsWWU1Nk9BTVRxcFlSY0k0M043Q3BYM0ZaNjdBSDIwbkdpajhRdXpDVTBGTXRvV1UxbHNVNDhid0pTSEJiZTdRT05SYWxMV09URVlfV01MZmV2Qnc2cl9Edy1iSFYydlE1S20wTGNrTDVBTWJMZURxV1JHNnJueFdHNXhaY3h4b2UyRkVaQnNOQ2dIc21SNU5YdTJGWjMyOUE2Rmd5NG13?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 01:41:18 GMT",
+          "source": "NBC 5 Chicago"
+        }
+      ]
+    },
+    {
+      "id": "a7cd0225d9d4",
+      "title": "This Arizona Town Will Change The Way You Travel - Cowboys and Indians Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0xtUDd1cnZITWxLYnFnWGJrWU5EbmVGaWt3c18zTXJXaldUelV0UkpqR1Y4NDY1RE5KdWtfa2VDdFp0YUNHZUhtZ3F5WXUyYlpKMFJVbEdtYUNPM3l5dlBXX2RxSUFUUnlvYU9QaTNIZUtIT0JZeWxZZTZXd1pvdnk4LWxXbTYxOW9jV0RyYWVXdw?oc=5\" target=\"_blank\">This Ariz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0xtUDd1cnZITWxLYnFnWGJrWU5EbmVGaWt3c18zTXJXaldUelV0UkpqR1Y4NDY1RE5KdWtfa2VDdFp0YUNHZUhtZ3F5WXUyYlpKMFJVbEdtYUNPM3l5dlBXX2RxSUFUUnlvYU9QaTNIZUtIT0JZeWxZZTZXd1pvdnk4LWxXbTYxOW9jV0RyYWVXdw?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 14:43:47 GMT",
+          "source": "Cowboys and Indians Magazine"
+        }
+      ]
+    },
+    {
+      "id": "36e86130e48d",
+      "title": "Southgate man seeks kidney transplant as family launches GoFundMe for travel costs - ClickOnDetroit | WDIV Local 4",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRjJCeGNlcnNtX1FsVzMweGVwbU9raTNtLXhEQmdSSWs4NU04NGdrT0xQd2RKSFlFOVNlMDVoWFp0YW1mTzU3ZWk2eEJqeUh3SzdDUjNIOG4xR29uekRWOEpqMUxZUk9pcTFUc01rYjAwa3NGNTRCclVWRDdPc25RTUxWUFRudHVoOUY3THlGa3RpWTdMVnlOZ0NvM3RoYnRqM3FuNFYzeHhhaE",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRjJCeGNlcnNtX1FsVzMweGVwbU9raTNtLXhEQmdSSWs4NU04NGdrT0xQd2RKSFlFOVNlMDVoWFp0YW1mTzU3ZWk2eEJqeUh3SzdDUjNIOG4xR29uekRWOEpqMUxZUk9pcTFUc01rYjAwa3NGNTRCclVWRDdPc25RTUxWUFRudHVoOUY3THlGa3RpWTdMVnlOZ0NvM3RoYnRqM3FuNFYzeHhhaEhhZGRHd0pRRWNSdy0zQ2NUd0Z1d1FOaGlJV3NSU2ZLY2F5ZE1UUEE?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-11T03:35:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 01:54:03 GMT",
+          "source": "ClickOnDetroit | WDIV Local 4"
+        }
+      ]
+    },
+    {
+      "id": "b7d671939718",
+      "title": "Why Niagara Falls is seeing U.S. tourism bounce back during tariff war - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDBvQi13a1ZQR2FUTXdQT0JLZUI5cWpLXzVudTVESEdaaE5SczRiNlkxd1J4Nm5yal94Y05kQ0JiYnhpY0VpQmtPR3FObGMwdnBtV1ZTVW1uc1BQZmRkb1c3Z0h2U1hVX1lnSm41dk5FSWZhaXBDWk1XTFpMTkpGTXRGaHlFUlNDanNaT3g0TXM4Z21zdDZCR0o4d3ZsRUpNS0xwLUFvSDFvX0",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDBvQi13a1ZQR2FUTXdQT0JLZUI5cWpLXzVudTVESEdaaE5SczRiNlkxd1J4Nm5yal94Y05kQ0JiYnhpY0VpQmtPR3FObGMwdnBtV1ZTVW1uc1BQZmRkb1c3Z0h2U1hVX1lnSm41dk5FSWZhaXBDWk1XTFpMTkpGTXRGaHlFUlNDanNaT3g0TXM4Z21zdDZCR0o4d3ZsRUpNS0xwLUFvSDFvX0FHZmc2cHdpTXU0bTJMTm1sZUVn?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -362,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
+      "first_seen": "2026-07-11T03:35:42+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 10 Jul 2026 15:09:12 GMT",
+          "published": "Sun, 05 Jul 2026 18:01:42 GMT",
           "source": "CTV News"
         }
       ]
     },
     {
-      "id": "c113122b6d12",
-      "title": "Court rules confidentiality clause for air travel complaints violates Charter - Travelweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQYTh0bWFFeFNIb1JvLXVLdUxfUEY4MzVXal9EbjJOa3FPendmSHMwNFVwN0VEWEZxRVozdjVEc21JTEJjNnFLY3NBZFJmd0xmSWZ3VzRrT3l5QnlFLVZNUXBsZy1aMXlZWjFBMXJoZE5FVlJNVnRPRlZjNHJ5ZHN2ZmdDeDJIaGhjLThBdnVDMTBxc0xFWHYtV1BHd0x3aXJtSWVlZ2VJdFlMei",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYTh0bWFFeFNIb1JvLXVLdUxfUEY4MzVXal9EbjJOa3FPendmSHMwNFVwN0VEWEZxRVozdjVEc21JTEJjNnFLY3NBZFJmd0xmSWZ3VzRrT3l5QnlFLVZNUXBsZy1aMXlZWjFBMXJoZE5FVlJNVnRPRlZjNHJ5ZHN2ZmdDeDJIaGhjLThBdnVDMTBxc0xFWHYtV1BHd0x3aXJtSWVlZ2VJdFlMei1ZTVpTekJncFVFcVluaVE?oc=5",
+      "id": "82883230f5b6",
+      "title": "Colombia Now: nature, adventure and meaningful travel - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVZHRFpkSnZpT3R0ZmVQREM4Q05VWUxMT1pSQnRKalRaMzBqY2RzWk1XMEhYUG1SRFpnYjBFa2lGSzJSOTY2WDlYS0pzYVVKaGo5WjhHc0JiMHdzbEgwVDk1SElpUW1kaldYN3dJRGZjSFVHUGFVWGVQel9xX211SEMteS1sUVVnOHlsVTZhWUx5dkZXcDFyamZXX3J4d2RBeE9hbQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVZHRFpkSnZpT3R0ZmVQREM4Q05VWUxMT1pSQnRKalRaMzBqY2RzWk1XMEhYUG1SRFpnYjBFa2lGSzJSOTY2WDlYS0pzYVVKaGo5WjhHc0JiMHdzbEgwVDk1SElpUW1kaldYN3dJRGZjSFVHUGFVWGVQel9xX211SEMteS1sUVVnOHlsVTZhWUx5dkZXcDFyamZXX3J4d2RBeE9hbQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-10T19:48:24+00:00",
+      "first_seen": "2026-07-11T03:35:42+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 10 Jul 2026 16:39:08 GMT",
-          "source": "Travelweek"
+          "published": "Fri, 10 Jul 2026 15:09:12 GMT",
+          "source": "CTV News"
         }
       ]
     }

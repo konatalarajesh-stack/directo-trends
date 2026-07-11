@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-07-10T19:57:23+00:00",
+  "generated_at": "2026-07-11T03:44:44+00:00",
   "cache_ttl_hours": 6,
-  "count": 18,
+  "count": 20,
   "trends": [
     {
-      "id": "72b097b5076b",
-      "title": "Barcelona’s New Message: ‘Not One Tourist More’ - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5\" target=\"_blank\">Barcelon",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5",
+      "id": "91a8a02cacec",
+      "title": "Travel issues kept Red Sox stuck in Chicago until Friday afternoon, pushed first pitch of Mets series opener - The Boston Globe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBSNFN4QzhSLXo4SWNlTjR1TXRGbk9KWW5ET3dQU0lNUHY1bXdTYWpnY2xYemZCRTVxN0RoV3MwNDNpZW1UZWJzNjNjN0I2ZGU4VUQ3dHJQNng1SkFnLTQ4b3hGb0R6Ym03ZHFqSzNHc1FLZUdsc3VIMlhHTGk1eTQ?oc=5\" target=\"_blank\">Travel issues kept Red Sox stuck in ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSNFN4QzhSLXo4SWNlTjR1TXRGbk9KWW5ET3dQU0lNUHY1bXdTYWpnY2xYemZCRTVxN0RoV3MwNDNpZW1UZWJzNjNjN0I2ZGU4VUQ3dHJQNng1SkFnLTQ4b3hGb0R6Ym03ZHFqSzNHc1FLZUdsc3VIMlhHTGk1eTQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 01:18:18 GMT",
+          "source": "The Boston Globe"
+        }
+      ]
+    },
+    {
+      "id": "ad143943251c",
+      "title": "Red Sox face lengthy travel issues ahead of series vs. Mets - Boston.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmszZ0VkS3hBckRWWE9FMm9iUktZcE5HRDRIalJQM1Bwc0VQSzhGMjB0bFNZbnVOQVdrMkNEdVo4NUFad1hWWFJ1V3VYQnhuN3lVZWowa1RpN3kwN2tCNjNRdHp6LUVjb0NsZlRsMjJUaFV6Ql90MjRWMjN0NUlDaTVUVzJVWjRoNkN4aHViWVA1QU9pOGtiOS1fbw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmszZ0VkS3hBckRWWE9FMm9iUktZcE5HRDRIalJQM1Bwc0VQSzhGMjB0bFNZbnVOQVdrMkNEdVo4NUFad1hWWFJ1V3VYQnhuN3lVZWowa1RpN3kwN2tCNjNRdHp6LUVjb0NsZlRsMjJUaFV6Ql90MjRWMjN0NUlDaTVUVzJVWjRoNkN4aHViWVA1QU9pOGtiOS1fbw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 20:20:00 GMT",
+          "source": "Boston.com"
+        }
+      ]
+    },
+    {
+      "id": "34d6e7b8963d",
+      "title": "The Message From Barcelona’s New Sustainable Tourism Leader: ‘Not One Tourist More.’ - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5\" target=\"_blank\">The Mess",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 13:46:24 GMT",
@@ -31,14 +71,14 @@
       "title": "This Arizona Town Will Change The Way You Travel - Cowboys and Indians Magazine",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0xtUDd1cnZITWxLYnFnWGJrWU5EbmVGaWt3c18zTXJXaldUelV0UkpqR1Y4NDY1RE5KdWtfa2VDdFp0YUNHZUhtZ3F5WXUyYlpKMFJVbEdtYUNPM3l5dlBXX2RxSUFUUnlvYU9QaTNIZUtIT0JZeWxZZTZXd1pvdnk4LWxXbTYxOW9jV0RyYWVXdw?oc=5\" target=\"_blank\">This Ariz",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0xtUDd1cnZITWxLYnFnWGJrWU5EbmVGaWt3c18zTXJXaldUelV0UkpqR1Y4NDY1RE5KdWtfa2VDdFp0YUNHZUhtZ3F5WXUyYlpKMFJVbEdtYUNPM3l5dlBXX2RxSUFUUnlvYU9QaTNIZUtIT0JZeWxZZTZXd1pvdnk4LWxXbTYxOW9jV0RyYWVXdw?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
+      "first_seen": "2026-07-11T03:35:40+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 14:43:47 GMT",
@@ -51,14 +91,14 @@
       "title": "I built an agentic AI clone of my family to plan our summer travel - Fast Company",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFFqbDJkei15VVNaaE80cEpKejkwLUVQTUV1Q2p6S0I4bDN6RnVlYzNRcHB6Q1dod2hLa2xuM29pcTZsMklKUUxXYk5GRkJBeklOWW1TNkQwb0NUOTkzd1IteEluSmZqMzd2dHpad0xIQ2lCSWtXbVAzWmZzR2cxenJrcnBvcGdfQWtwTVJoc08?oc=5\" target=\"_blank\">I built an a",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFFqbDJkei15VVNaaE80cEpKejkwLUVQTUV1Q2p6S0I4bDN6RnVlYzNRcHB6Q1dod2hLa2xuM29pcTZsMklKUUxXYk5GRkJBeklOWW1TNkQwb0NUOTkzd1IteEluSmZqMzd2dHpad0xIQ2lCSWtXbVAzWmZzR2cxenJrcnBvcGdfQWtwTVJoc08?oc=5",
-      "score": 82.8,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
+      "first_seen": "2026-07-11T03:35:40+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 17:11:11 GMT",
@@ -67,18 +107,138 @@
       ]
     },
     {
-      "id": "6141e1e3d505",
-      "title": "Wildfires turn Colorado destinations into cancellations - Colorado Public Radio",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5YamZsdWk1VGNWaWhwRUtQVEJIbVZ2XzJBQjBVQUFpbmM1WlBzcUxOUzBNTENOT3JtSVJJRnJoYm5XeDVvdE5vWnNoTVBFaGZWaDlnVGMwRlVybzBrU0I1SjRCN25FQjRIeVBjWlE4UnBTbXNHOC03NHEtR3k?oc=5\" target=\"_blank\">Wildfires turn Colorado destinations int",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YamZsdWk1VGNWaWhwRUtQVEJIbVZ2XzJBQjBVQUFpbmM1WlBzcUxOUzBNTENOT3JtSVJJRnJoYm5XeDVvdE5vWnNoTVBFaGZWaDlnVGMwRlVybzBrU0I1SjRCN25FQjRIeVBjWlE4UnBTbXNHOC03NHEtR3k?oc=5",
-      "score": 75.6,
+      "id": "2e03479ff4b2",
+      "title": "Donuts, card games and surprise All-Star announcement occupy Sox during travel delay - MLB.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzdYaVpKRlRqa1dlX0EtWmoxRUlLX1Z0WlJkUHI4WTJTZU0xblcxZ1RmOW5tUnNySWliMF9RMnlCUEJlWkp1eVpBS2ZEVlFkWVVFaTlvaUcxamVZTmJGZHNXNWIzVUktWWpISTJyTlZKZmNHQ182QkJHVHhoWC1TUVNzWQ?oc=5\" target=\"_blank\">Donuts, card games and surpri",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzdYaVpKRlRqa1dlX0EtWmoxRUlLX1Z0WlJkUHI4WTJTZU0xblcxZ1RmOW5tUnNySWliMF9RMnlCUEJlWkp1eVpBS2ZEVlFkWVVFaTlvaUcxamVZTmJGZHNXNWIzVUktWWpISTJyTlZKZmNHQ182QkJHVHhoWC1TUVNzWQ?oc=5",
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 01:47:18 GMT",
+          "source": "MLB.com"
+        }
+      ]
+    },
+    {
+      "id": "d366bb243dae",
+      "title": "Red Sox experience nightmare flight issues ahead of Mets series - New York Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOc21tUlJvOHFGUEV2UDh1UjBwMUNzQ2NOYURvNnZVcGdDazlGNU5VM1ZpTHNTWlQxWktlcVpoZzhvMUZ0REpKdzZNVlVJRVVSUXRHR1g4Z2JmUGNRdEg0aVZHcjVnQU14M3VhcF9VbjlfZThSUXAyMDZBb1NSdG52U1JWYnFweHNjWWZPYzRMUXZqSnByOFYyMkVxVTBWa2tt?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc21tUlJvOHFGUEV2UDh1UjBwMUNzQ2NOYURvNnZVcGdDazlGNU5VM1ZpTHNTWlQxWktlcVpoZzhvMUZ0REpKdzZNVlVJRVVSUXRHR1g4Z2JmUGNRdEg0aVZHcjVnQU14M3VhcF9VbjlfZThSUXAyMDZBb1NSdG52U1JWYnFweHNjWWZPYzRMUXZqSnByOFYyMkVxVTBWa2tt?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 01:39:07 GMT",
+          "source": "New York Post"
+        }
+      ]
+    },
+    {
+      "id": "0ca0451bdae7",
+      "title": "US State Department reissues travel warning for popular Caribbean vacation destination - NBC 5 Chicago",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTAyZlNKaVprbjJEaF9HLVlEV3RhYnZJSFRiQlhiZVZUU1E1c3kzU2RXZ0RMbmEtdDFrSlRaaXQzN2NQZS0xXy11RXZwSFFfZTVUeUlHWjNrQllRNlJOZ0ZkSEFyMERPd0Q3WnZfTE94eUxQb25nSDhSeUxzVWxQOEZLTXowSmFRM3hvNVlnVk1uSkFoemJZcU9COXBqOVZvSTkwdjNvb0Y5ZW",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTAyZlNKaVprbjJEaF9HLVlEV3RhYnZJSFRiQlhiZVZUU1E1c3kzU2RXZ0RMbmEtdDFrSlRaaXQzN2NQZS0xXy11RXZwSFFfZTVUeUlHWjNrQllRNlJOZ0ZkSEFyMERPd0Q3WnZfTE94eUxQb25nSDhSeUxzVWxQOEZLTXowSmFRM3hvNVlnVk1uSkFoemJZcU9COXBqOVZvSTkwdjNvb0Y5ZWE2V1JlT1NJcXRSVVhsX0tCX3p6ZlE2RUlicFM5NnpZdm1vUdIB1gFBVV95cUxQVU53QmhzaFBoVUFySTdqbi1GOHZtY3R5R20xNWYtZGZYVll4R1dPcEpZYklvTjdsWWU1Nk9BTVRxcFlSY0k0M043Q3BYM0ZaNjdBSDIwbkdpajhRdXpDVTBGTXRvV1UxbHNVNDhid0pTSEJiZTdRT05SYWxMV09URVlfV01MZmV2Qnc2cl9Edy1iSFYydlE1S20wTGNrTDVBTWJMZURxV1JHNnJueFdHNXhaY3h4b2UyRkVaQnNOQ2dIc21SNU5YdTJGWjMyOUE2Rmd5NG13?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 01:41:18 GMT",
+          "source": "NBC 5 Chicago"
+        }
+      ]
+    },
+    {
+      "id": "d3ea02aa772e",
+      "title": "Following Red Sox's travel issues, start of series opener with Mets delayed - SNY",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYnZkRmZoOFkxVml0ZjNFUHFVSUdwTWR0V2JydHRqT2xsV2ZHWW9qMzVrOENoekFFd0lQVy1tMWJHUlo0UXhweDVvM2o0UlJOc0xEVmtIZjJuRTZyaDVfdEFGQjFYam1nZ3VjT1lR?oc=5\" target=\"_blank\">Following Red Sox's travel issues, start of series opener w",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYnZkRmZoOFkxVml0ZjNFUHFVSUdwTWR0V2JydHRqT2xsV2ZHWW9qMzVrOENoekFFd0lQVy1tMWJHUlo0UXhweDVvM2o0UlJOc0xEVmtIZjJuRTZyaDVfdEFGQjFYam1nZ3VjT1lR?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 22:10:35 GMT",
+          "source": "SNY"
+        }
+      ]
+    },
+    {
+      "id": "e5ea2640bc2d",
+      "title": "Fredericksburg District: Weekly Travel Alert for July 12-18, 2026 - Virginia Department of Transportation (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGE1ZG5YR1o1dWM2bjRUSlUxenVpWkRpc3dNOTBrRkpXUFUtdTY0SFVNeE9hT3pLQ0VYT1dYRUtPYWh3RUFIcTdkbUM3VXdyUjg0ZDh5V1NCZHRzNzVxdUZIekRVRXJST1ZoSDlubVNjQlZ0UVBxb25mMVhldzVDeVM1RXZFRDNiT2Mtdnl4X0xUZjdHTWVtVmNDTXJXVm9MMjhOckp4ZjdGVn",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGE1ZG5YR1o1dWM2bjRUSlUxenVpWkRpc3dNOTBrRkpXUFUtdTY0SFVNeE9hT3pLQ0VYT1dYRUtPYWh3RUFIcTdkbUM3VXdyUjg0ZDh5V1NCZHRzNzVxdUZIekRVRXJST1ZoSDlubVNjQlZ0UVBxb25mMVhldzVDeVM1RXZFRDNiT2Mtdnl4X0xUZjdHTWVtVmNDTXJXVm9MMjhOckp4ZjdGVnh1Yl8yLTZRSUJwYVRtX3VDYVJLZWdOazA5Yk1jaXZ5c2RPTmF5ZTNoRQ?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 00:00:13 GMT",
+          "source": "Virginia Department of Transportation (.gov)"
+        }
+      ]
+    },
+    {
+      "id": "8f22ba9b06e3",
+      "title": "Travel is down at Oakland airport - The Oaklandside",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTM4TEFabzNVX1VPZU43d1VudVpkNk14VEFMLVFUQXd0WjFDcHFKaGVSNUdCN2tkbl84c05OV3NWYmNmRVBtUGhUZTdOVTVacWVoZ2FUeHZxY29OUTBEUVZsUzBuMk5DUkdvN0c5bE5YVFN5bm9JT21oS0d1WUR4MUZaMzROdjVrX1dwdmlWZlRoeWdnckR3aUdUZF9FejdMRkUxSmtSVzdLMU",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTM4TEFabzNVX1VPZU43d1VudVpkNk14VEFMLVFUQXd0WjFDcHFKaGVSNUdCN2tkbl84c05OV3NWYmNmRVBtUGhUZTdOVTVacWVoZ2FUeHZxY29OUTBEUVZsUzBuMk5DUkdvN0c5bE5YVFN5bm9JT21oS0d1WUR4MUZaMzROdjVrX1dwdmlWZlRoeWdnckR3aUdUZF9FejdMRkUxSmtSVzdLMUtDRG1uX3hIcmR1VE0?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 22:42:16 GMT",
+          "source": "The Oaklandside"
+        }
+      ]
+    },
+    {
+      "id": "6141e1e3d505",
+      "title": "Wildfires turn Colorado destinations into cancellations - Colorado Public Radio",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5YamZsdWk1VGNWaWhwRUtQVEJIbVZ2XzJBQjBVQUFpbmM1WlBzcUxOUzBNTENOT3JtSVJJRnJoYm5XeDVvdE5vWnNoTVBFaGZWaDlnVGMwRlVybzBrU0I1SjRCN25FQjRIeVBjWlE4UnBTbXNHOC03NHEtR3k?oc=5\" target=\"_blank\">Wildfires turn Colorado destinations int",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YamZsdWk1VGNWaWhwRUtQVEJIbVZ2XzJBQjBVQUFpbmM1WlBzcUxOUzBNTENOT3JtSVJJRnJoYm5XeDVvdE5vWnNoTVBFaGZWaDlnVGMwRlVybzBrU0I1SjRCN25FQjRIeVBjWlE4UnBTbXNHOC03NHEtR3k?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 10:02:14 GMT",
@@ -87,18 +247,98 @@
       ]
     },
     {
-      "id": "3614888b2095",
-      "title": "I went to a wellness resort. It wasn’t what I expected at all - USA Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxORWVySGlUR0RONTVvYUxwZHpzaEMzREtpaEk4aGVmM1p2SEwtX1RZVmMyX2Q4YmtMNzdPeFU2TkRNUUdsdUpjQlVkelJlRkNPYk9oTnl6bF9ib2xCOVBJYWtIejltNkkwNkJpb2E2WkEzLVJKeDdSejktU0NGSld6MW5mS25fSDVWeUlLNm5jQUZYemY0dExZTVVGaw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORWVySGlUR0RONTVvYUxwZHpzaEMzREtpaEk4aGVmM1p2SEwtX1RZVmMyX2Q4YmtMNzdPeFU2TkRNUUdsdUpjQlVkelJlRkNPYk9oTnl6bF9ib2xCOVBJYWtIejltNkkwNkJpb2E2WkEzLVJKeDdSejktU0NGSld6MW5mS25fSDVWeUlLNm5jQUZYemY0dExZTVVGaw?oc=5",
-      "score": 72.0,
+      "id": "8bb0beaa0529",
+      "title": "US travel advisory to popular Caribbean destination - FOX 8 News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5VSllqQjdTbm9nakpUVUJkemdnUDN1UkN0X1BzcTdMcFpRNTMwTGtkc2p2aWZkSWVBMS1CajFLT2p3YVc1bVJxV3lmNlc0aVY4OFR0UlE1VGd2T19LVXdZaERvSVU5bjhlckQxZlpobElpS1htSm1CbEdHLVVHS2fSAYQBQVVfeXFMTzBTc3FqRW5mTEpIcTdUNjZ4THo2LWZzT1h5cmpTMFlDSm",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VSllqQjdTbm9nakpUVUJkemdnUDN1UkN0X1BzcTdMcFpRNTMwTGtkc2p2aWZkSWVBMS1CajFLT2p3YVc1bVJxV3lmNlc0aVY4OFR0UlE1VGd2T19LVXdZaERvSVU5bjhlckQxZlpobElpS1htSm1CbEdHLVVHS2fSAYQBQVVfeXFMTzBTc3FqRW5mTEpIcTdUNjZ4THo2LWZzT1h5cmpTMFlDSmJ3TmhFemlQQzE3aHNFbElsNFpFaEV2M1pfeURXRHBlRkZuRW1UN3g5SHVYV2xoNkI1bTlRT1ljVDQtYmx4dHhuMUFJQy00VlR4aWIxWlhuQjU2b0d2aTl4T29F?oc=5",
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 09:20:30 GMT",
+          "source": "FOX 8 News"
+        }
+      ]
+    },
+    {
+      "id": "f1c43d2be7fc",
+      "title": "Travel delays in Chicago push back Red Sox game - WCVB",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkZSMzR5TE1BNGVkbmtuNjV6aDBrcnJfNVJZS0kzNlBhNDFwcTFUbHZCUzRnWWM1RXNLbG9kRlY2cHVqbWZ3dVJfek9qX2NaaEs0b1ZUVHAtTmVXSU5uZ2hza0E4blpSRk4xY2dkbW5LelN2MFZ1MWRhaEExNnZVemxUdTVDbnNBay1aZlRPVHN4Vmo2Z0pQcjd2WFpuc2x0Vlk0?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkZSMzR5TE1BNGVkbmtuNjV6aDBrcnJfNVJZS0kzNlBhNDFwcTFUbHZCUzRnWWM1RXNLbG9kRlY2cHVqbWZ3dVJfek9qX2NaaEs0b1ZUVHAtTmVXSU5uZ2hza0E4blpSRk4xY2dkbW5LelN2MFZ1MWRhaEExNnZVemxUdTVDbnNBay1aZlRPVHN4Vmo2Z0pQcjd2WFpuc2x0Vlk0?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 22:09:00 GMT",
+          "source": "WCVB"
+        }
+      ]
+    },
+    {
+      "id": "8e82ca9771ff",
+      "title": "Southgate man seeks kidney transplant as family launches GoFundMe for travel costs - ClickOnDetroit | WDIV Local 4",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRjJCeGNlcnNtX1FsVzMweGVwbU9raTNtLXhEQmdSSWs4NU04NGdrT0xQd2RKSFlFOVNlMDVoWFp0YW1mTzU3ZWk2eEJqeUh3SzdDUjNIOG4xR29uekRWOEpqMUxZUk9pcTFUc01rYjAwa3NGNTRCclVWRDdPc25RTUxWUFRudHVoOUY3THlGa3RpWTdMVnlOZ0NvM3RoYnRqM3FuNFYzeHhhaE",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRjJCeGNlcnNtX1FsVzMweGVwbU9raTNtLXhEQmdSSWs4NU04NGdrT0xQd2RKSFlFOVNlMDVoWFp0YW1mTzU3ZWk2eEJqeUh3SzdDUjNIOG4xR29uekRWOEpqMUxZUk9pcTFUc01rYjAwa3NGNTRCclVWRDdPc25RTUxWUFRudHVoOUY3THlGa3RpWTdMVnlOZ0NvM3RoYnRqM3FuNFYzeHhhaEhhZGRHd0pRRWNSdy0zQ2NUd0Z1d1FOaGlJV3NSU2ZLY2F5ZE1UUEE?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 01:54:03 GMT",
+          "source": "ClickOnDetroit | WDIV Local 4"
+        }
+      ]
+    },
+    {
+      "id": "5a76e54ed128",
+      "title": "Sexual assaults and scams plague top vacation hot spot, prompting urgent advisory - Fox News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUVTdGRyT3BoMlZ4bW9yZ0V4SzMzOTI3aU4xUGdMRFZmdUJlc3VNbmNZQjdOS3NkVVpTZ3ZZYkNhaHRNUzl1ZUZxSXcyYzhMa1E0ZkMtV3VpUmxkU0hRbVFod1cxUUdiRm1sVjhNSHR6QXVIcUhPNm5RcHN2VWV2Z19FakR4MkV1QnJnY0ljNVdEQ0ZrR19LTlpvbk03TlltWFVEZk00LUJFaW",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUVTdGRyT3BoMlZ4bW9yZ0V4SzMzOTI3aU4xUGdMRFZmdUJlc3VNbmNZQjdOS3NkVVpTZ3ZZYkNhaHRNUzl1ZUZxSXcyYzhMa1E0ZkMtV3VpUmxkU0hRbVFod1cxUUdiRm1sVjhNSHR6QXVIcUhPNm5RcHN2VWV2Z19FakR4MkV1QnJnY0ljNVdEQ0ZrR19LTlpvbk03TlltWFVEZk00LUJFaWPSAbABQVVfeXFMT2NqbnhTQXRCWi1jSVdIYnJLR0dvLVI2eTh1ZkdXOXN1dGZNQ2p1cm80TmlWMXNuRFM5VGE1SVJzcE9WNHRWMFllTHJlVEFwY2NnQWNJNE1pa0RPNG9BN1ZaclZpekliREdmQ0tMMXhqd21HUnZqdmNuZkhXUXFHT0Z3dTV3ekpSNFpjZ2FKeUhvcGplell0WDdVMnRKTGVpdW0tdnpBUm1LVWt6OGUzY2g?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 19:14:18 GMT",
+          "source": "Fox News"
+        }
+      ]
+    },
+    {
+      "id": "3614888b2095",
+      "title": "I went to a wellness resort. It wasn’t what I expected at all - USA Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxORWVySGlUR0RONTVvYUxwZHpzaEMzREtpaEk4aGVmM1p2SEwtX1RZVmMyX2Q4YmtMNzdPeFU2TkRNUUdsdUpjQlVkelJlRkNPYk9oTnl6bF9ib2xCOVBJYWtIejltNkkwNkJpb2E2WkEzLVJKeDdSejktU0NGSld6MW5mS25fSDVWeUlLNm5jQUZYemY0dExZTVVGaw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORWVySGlUR0RONTVvYUxwZHpzaEMzREtpaEk4aGVmM1p2SEwtX1RZVmMyX2Q4YmtMNzdPeFU2TkRNUUdsdUpjQlVkelJlRkNPYk9oTnl6bF9ib2xCOVBJYWtIejltNkkwNkJpb2E2WkEzLVJKeDdSejktU0NGSld6MW5mS25fSDVWeUlLNm5jQUZYemY0dExZTVVGaw?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 19:04:00 GMT",
@@ -107,42 +347,18 @@
       ]
     },
     {
-      "id": "8bb0beaa0529",
-      "title": "US travel advisory to popular Caribbean destination - FOX 8 News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5VSllqQjdTbm9nakpUVUJkemdnUDN1UkN0X1BzcTdMcFpRNTMwTGtkc2p2aWZkSWVBMS1CajFLT2p3YVc1bVJxV3lmNlc0aVY4OFR0UlE1VGd2T19LVXdZaERvSVU5bjhlckQxZlpobElpS1htSm1CbEdHLVVHS2fSAYQBQVVfeXFMTzBTc3FqRW5mTEpIcTdUNjZ4THo2LWZzT1h5cmpTMFlDSm",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VSllqQjdTbm9nakpUVUJkemdnUDN1UkN0X1BzcTdMcFpRNTMwTGtkc2p2aWZkSWVBMS1CajFLT2p3YVc1bVJxV3lmNlc0aVY4OFR0UlE1VGd2T19LVXdZaERvSVU5bjhlckQxZlpobElpS1htSm1CbEdHLVVHS2fSAYQBQVVfeXFMTzBTc3FqRW5mTEpIcTdUNjZ4THo2LWZzT1h5cmpTMFlDSmJ3TmhFemlQQzE3aHNFbElsNFpFaEV2M1pfeURXRHBlRkZuRW1UN3g5SHVYV2xoNkI1bTlRT1ljVDQtYmx4dHhuMUFJQy00VlR4aWIxWlhuQjU2b0d2aTl4T29F?oc=5",
-      "score": 70.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 09:20:30 GMT",
-          "source": "FOX 8 News"
-        },
-        {
-          "published": "Fri, 10 Jul 2026 00:07:29 GMT",
-          "source": "WZTV"
-        }
-      ]
-    },
-    {
       "id": "a4cdab860a2a",
       "title": "Weekly Travel Advisory: Week of July 13, 2026 - Andover, MA (.gov)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCVWJRYWh3ZjlxOXhCbFVJakZMM0VpZFV1bi1aenVlYVhIV2VoY0dlQzJUZEk4UjdLcVpKWEJYV0tlUGdzbHJYM1BMRWRnb29FR2ZVSzZnODBkMEtJMnBv?oc=5\" target=\"_blank\">Weekly Travel Advisory: Week of July 13, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCVWJRYWh3ZjlxOXhCbFVJakZMM0VpZFV1bi1aenVlYVhIV2VoY0dlQzJUZEk4UjdLcVpKWEJYV0tlUGdzbHJYM1BMRWRnb29FR2ZVSzZnODBkMEtJMnBv?oc=5",
-      "score": 68.4,
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
+      "first_seen": "2026-07-11T03:35:40+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 17:47:32 GMT",
@@ -151,214 +367,10 @@
       ]
     },
     {
-      "id": "86b153ad93ba",
-      "title": "How to make credit card rewards work for summer travel - WVIR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3BSSTFvSjVjV0VTM2p6bFJKb3hhZmV1SEx5aUpnb0JjWTg3SU9qUUVjc2puSTlhSm91Q3hPRC1oLXl0cjhZcUZJbVN0TElobEo3SFdyLUdWQm5jY0VpUEJrajhZTW12UkVrUnZMVi1KT2pDd0JlWEdEdEl3VWs1MUFlQ2pHQVFVcktzUmNXSGtpYTBPbm1QWXRyZUlBaG4wcmFpdA?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3BSSTFvSjVjV0VTM2p6bFJKb3hhZmV1SEx5aUpnb0JjWTg3SU9qUUVjc2puSTlhSm91Q3hPRC1oLXl0cjhZcUZJbVN0TElobEo3SFdyLUdWQm5jY0VpUEJrajhZTW12UkVrUnZMVi1KT2pDd0JlWEdEdEl3VWs1MUFlQ2pHQVFVcktzUmNXSGtpYTBPbm1QWXRyZUlBaG4wcmFpdA?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 17:30:00 GMT",
-          "source": "WVIR"
-        }
-      ]
-    },
-    {
-      "id": "461d07efe8bf",
-      "title": "Why Event-Led Travel Is Changing How Consumers Book Trips - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbEhkNUFzazlPdHF3RnE4VTFIX044YlZSTVA0OTh0dG03ek9OS1E4clplazg4WlRTbjI5SUw2TDVmdnRHRmVKQUpBMmxXWTNJNlY3SmdTazNDY0pnSE5Kc2dRbTlxUVJLVzBYOHN3Qnl4b0tPSHpmMjJ5Qmh6YW1lNWVfTnpaQy1FOHExUzNkd3FpMm9qbURtMWo1cGFBZmVCYkpxOGhFZFRESm",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbEhkNUFzazlPdHF3RnE4VTFIX044YlZSTVA0OTh0dG03ek9OS1E4clplazg4WlRTbjI5SUw2TDVmdnRHRmVKQUpBMmxXWTNJNlY3SmdTazNDY0pnSE5Kc2dRbTlxUVJLVzBYOHN3Qnl4b0tPSHpmMjJ5Qmh6YW1lNWVfTnpaQy1FOHExUzNkd3FpMm9qbURtMWo1cGFBZmVCYkpxOGhFZFRESmZR?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 14:40:16 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "7afd845c791c",
-      "title": "Red Sox experiencing major travel issues ahead of Mets series - New York Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOc21tUlJvOHFGUEV2UDh1UjBwMUNzQ2NOYURvNnZVcGdDazlGNU5VM1ZpTHNTWlQxWktlcVpoZzhvMUZ0REpKdzZNVlVJRVVSUXRHR1g4Z2JmUGNRdEg0aVZHcjVnQU14M3VhcF9VbjlfZThSUXAyMDZBb1NSdG52U1JWYnFweHNjWWZPYzRMUXZqSnByOFYyMkVxVTBWa2tt?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc21tUlJvOHFGUEV2UDh1UjBwMUNzQ2NOYURvNnZVcGdDazlGNU5VM1ZpTHNTWlQxWktlcVpoZzhvMUZ0REpKdzZNVlVJRVVSUXRHR1g4Z2JmUGNRdEg0aVZHcjVnQU14M3VhcF9VbjlfZThSUXAyMDZBb1NSdG52U1JWYnFweHNjWWZPYzRMUXZqSnByOFYyMkVxVTBWa2tt?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 18:56:00 GMT",
-          "source": "New York Post"
-        }
-      ]
-    },
-    {
-      "id": "6cf45c2ad99f",
-      "title": "Darley Newman talks summer travel tips - NEWS10 ABC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDFiNEI0dG1MM0NjTFprSGk0bnBDX2NJVURTMnR0Y3FadmtJVGN3cEhFRGp0Tm5GaHJ1ZWNQaEJwck5pWnVGRWJ5d0NzRGhVcmFFNVpzSktTOTktcWZPdDFZc0tQNF9hazdHTG5KWXlheURDSWV6TFJiOWI3c1hGVDNvUdIBiAFBVV95cUxNVDFGeDRDQzNWSU1YYVZhLTgyOTc4SUJ2T0xUZU",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDFiNEI0dG1MM0NjTFprSGk0bnBDX2NJVURTMnR0Y3FadmtJVGN3cEhFRGp0Tm5GaHJ1ZWNQaEJwck5pWnVGRWJ5d0NzRGhVcmFFNVpzSktTOTktcWZPdDFZc0tQNF9hazdHTG5KWXlheURDSWV6TFJiOWI3c1hGVDNvUdIBiAFBVV95cUxNVDFGeDRDQzNWSU1YYVZhLTgyOTc4SUJ2T0xUZUdCYmYwM051X0tFSEpGSHJSRFZhbkVvVmhGdU5ZX002Z2dJSHpDaVdTaC1MWU1IZHM1ZTlpMFFLeXNQQXcwai1pY0xpdG92TzV1QTJzVWFVNWxjSFRQcGVRTU1UQldOUnRJVjZw?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 18:35:34 GMT",
-          "source": "NEWS10 ABC"
-        }
-      ]
-    },
-    {
-      "id": "0fc694981821",
-      "title": "How Downtown Re­vi­tal­ization Ini­tiative grants have helped summer tourism in N.Y. cities - Spectrum News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjdwNl90VzlqaElXOEcwejZBcWZwaDV1X1JZbjBMWExyZlJLLW40Sk0tdUExMTUwVnBTUm9NYV83UVFWaVlBTWt6cUhWT0dFTnpXYnR2VDdrRXFqV0NPUFB5VUFoT1h4OU1SNS1iZ2hsU25tZjJPcVpYZV8tZU12Q2NSbTFPSlZQRTRZUDJnWlhvQUxu?oc=5\" target=\"_blank\">How Dow",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjdwNl90VzlqaElXOEcwejZBcWZwaDV1X1JZbjBMWExyZlJLLW40Sk0tdUExMTUwVnBTUm9NYV83UVFWaVlBTWt6cUhWT0dFTnpXYnR2VDdrRXFqV0NPUFB5VUFoT1h4OU1SNS1iZ2hsU25tZjJPcVpYZV8tZU12Q2NSbTFPSlZQRTRZUDJnWlhvQUxu?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 19:12:00 GMT",
-          "source": "Spectrum News"
-        }
-      ]
-    },
-    {
-      "id": "bc81e041085f",
-      "title": "Discover 3 hidden California travel gems this summer - The Desert Sun",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUppNkNNMk5PMzBBUlNmLVZOQmZhUjF6ZVcybWg5TlY1R21sV2RSUXlxZGdha1VPdFhZU3NKTmoxeDFrY2UxMVlUdEJLUlNIQmtfbDJHRUxrT2hLbWk5cWw1MGQ3bjZSZ0NxeWdseW9RVDBtdl81ck9saW1DRG5Lck9vX0daSnlWbmNGWkJKa0ZxS1J3TnJfbXBXRG9vWVd6RFM5eFZ1UVRwOX",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUppNkNNMk5PMzBBUlNmLVZOQmZhUjF6ZVcybWg5TlY1R21sV2RSUXlxZGdha1VPdFhZU3NKTmoxeDFrY2UxMVlUdEJLUlNIQmtfbDJHRUxrT2hLbWk5cWw1MGQ3bjZSZ0NxeWdseW9RVDBtdl81ck9saW1DRG5Lck9vX0daSnlWbmNGWkJKa0ZxS1J3TnJfbXBXRG9vWVd6RFM5eFZ1UVRwOXAxaFlabG05a2FoLWdrTE4tc29xUzQ3MUpMLWZvZXE2NzVGUVpp?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 18:56:00 GMT",
-          "source": "The Desert Sun"
-        }
-      ]
-    },
-    {
-      "id": "fdd28ecc6f08",
-      "title": "Fourth of July crowds fuel Virginia tourism boom - WAVY.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1Rsckwyc1o5ZWFzTmRVQ1o0U0NsZ3FXNUdYUUNVbFF5VGFiN0tCd0xwS1ZKODE4QVhiTHpSZmo4MWZuWFNSc1h4U3BITGNqT2xmTjl0X25HbDg5a05UQy1KdkZkQTZOOWVMeDRmLXBrbUpjNTBDamh5LWJSeFlsbNIBhgFBVV95cUxPV21QNEtYSHp3amlBQV9PNmpIUlNJZ09jcy0xcVhnWm",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1Rsckwyc1o5ZWFzTmRVQ1o0U0NsZ3FXNUdYUUNVbFF5VGFiN0tCd0xwS1ZKODE4QVhiTHpSZmo4MWZuWFNSc1h4U3BITGNqT2xmTjl0X25HbDg5a05UQy1KdkZkQTZOOWVMeDRmLXBrbUpjNTBDamh5LWJSeFlsbNIBhgFBVV95cUxPV21QNEtYSHp3amlBQV9PNmpIUlNJZ09jcy0xcVhnWmhVdm9ud0NmSk1pWTZleGxjRHdOLU9HUUdsaTd2bEhmODJXc0E4eXZveWc2VTJZaE1OTUhFMUdJQXRDVVNNdVQ5OG94VkdPVGVTODNJa3JIbHE2ZzlveXNOaHoxVmlNUQ?oc=5",
-      "score": 37.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 18:36:57 GMT",
-          "source": "WAVY.com"
-        },
-        {
-          "published": "Fri, 10 Jul 2026 18:15:33 GMT",
-          "source": "WAVY.com"
-        }
-      ]
-    },
-    {
-      "id": "50f4af129575",
-      "title": "‘Come fund our government’ isn’t likely to succeed as a tourism slogan - The Washington Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3R1TS1zYzRrYU5yNi11RlJpeEF2VENSdG95c2hrNGFYbXhRb1pwWGR0b0N2VTVLbzM2REl6THFzdkdxbXIybFRBTE9Fekw3V2dnNXF0NHRZVkZzT1JCVGhvczZsT3RQYjJYMUpucS1TT1BYMDVLdGRFVFdYWDhja2VIdjM2OHd0aW9tWDc4a19rMFlkb1dVU1BXQ3J5SzZfX1JSaDNrZEJ5Tl",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3R1TS1zYzRrYU5yNi11RlJpeEF2VENSdG95c2hrNGFYbXhRb1pwWGR0b0N2VTVLbzM2REl6THFzdkdxbXIybFRBTE9Fekw3V2dnNXF0NHRZVkZzT1JCVGhvczZsT3RQYjJYMUpucS1TT1BYMDVLdGRFVFdYWDhja2VIdjM2OHd0aW9tWDc4a19rMFlkb1dVU1BXQ3J5SzZfX1JSaDNrZEJ5TlV0MFE?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 14:43:03 GMT",
-          "source": "The Washington Post"
-        }
-      ]
-    },
-    {
-      "id": "e9c839d047bc",
-      "title": "State Department travel warnings for popular Caribbean vacation spot - azcentral.com and The Arizona Republic",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUW1Dek5nUjZ3OGlVNkZJRno1TkVwSDlENEZ3azU5TW5pZnRkbFcwWUJyNmxnV3hUd2ZPbGJSMzRDMTF6T1ljUnNpWENENGtVNUIzRm0wWXJZVGFLRWtqS29PTjBoYlBLYmJSaGJTOVZGWmtpQUFWNkY1bTFPc2JNaWthbFlFZE1NbTRIcVFGTy00RWVwLUtiOGdPem04cXFydlhGb1hmNXpldX",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUW1Dek5nUjZ3OGlVNkZJRno1TkVwSDlENEZ3azU5TW5pZnRkbFcwWUJyNmxnV3hUd2ZPbGJSMzRDMTF6T1ljUnNpWENENGtVNUIzRm0wWXJZVGFLRWtqS29PTjBoYlBLYmJSaGJTOVZGWmtpQUFWNkY1bTFPc2JNaWthbFlFZE1NbTRIcVFGTy00RWVwLUtiOGdPem04cXFydlhGb1hmNXpldXdC?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 16:38:00 GMT",
-          "source": "azcentral.com and The Arizona Republic"
-        }
-      ]
-    },
-    {
-      "id": "8448da9d4945",
-      "title": "Travel Advisor Success Stories: Anna Psarros, Carlisle Travel Management - TravelPulse",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPalFnSTJFcDNYd1VEamRwQWxrMlZ2c3A3TzBZb1phMWN0WE5SSHgwb2NPMWdTejBEZjF3cGJudnVjRlotdkwxZDBWQmxfalAzUWJGQnMtRDZwTVdXTFZxalVJSXpCNWhOU2VPdFVsT01LN3BxQzA4U29PWW1iZFlvTGYwczllaUtWUTRrY3hmNEJ6M1hrX1hWY2o5RVh1akdvaUI5TmxiUks1b2",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalFnSTJFcDNYd1VEamRwQWxrMlZ2c3A3TzBZb1phMWN0WE5SSHgwb2NPMWdTejBEZjF3cGJudnVjRlotdkwxZDBWQmxfalAzUWJGQnMtRDZwTVdXTFZxalVJSXpCNWhOU2VPdFVsT01LN3BxQzA4U29PWW1iZFlvTGYwczllaUtWUTRrY3hmNEJ6M1hrX1hWY2o5RVh1akdvaUI5TmxiUks1b25BYk40?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 18:50:00 GMT",
-          "source": "TravelPulse"
-        }
-      ]
-    },
-    {
-      "id": "0cd29a3a796b",
-      "title": "Italy Issues Travel Ban On Italian Americans - The Onion",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA4OUNTdFpRek9lREh1eUYtLW5sUlNqWmFGQU9LRS1RVkVNNi1zTHVqUWg4dUhjX1lmTFk1bTB2dlBjMEdKOE8yZC1MYzVyWlF1aEhfVTlUbm4tN3o2N1dIaXBGeGlFbHRhbWM2R0RzaXY2bDd6?oc=5\" target=\"_blank\">Italy Issues Travel Ban On Italian Americans</a>&nb",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4OUNTdFpRek9lREh1eUYtLW5sUlNqWmFGQU9LRS1RVkVNNi1zTHVqUWg4dUhjX1lmTFk1bTB2dlBjMEdKOE8yZC1MYzVyWlF1aEhfVTlUbm4tN3o2N1dIaXBGeGlFbHRhbWM2R0RzaXY2bDd6?oc=5",
+      "id": "d937390f356a",
+      "title": "Gilbert mayor talks tourism boost - WSAZ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0yUlJHR3NTS3hnTTlsdlZhSDFGUWNRWHNuOEl1alNHaTlhd050bjJOSjZ3aXpLdEs3ZHRGYW5nc3JSSUNtZTJEb3ZlYXBjbUlQMC0zUWpWWFZzeGNYeDRyZGhzNXY0bUxrcms0REd4LXppdnZH0gGIAUFVX3lxTE9PUE1BOEJKMl80YkNBY3A0VkVMT1ZNbVNhejA3YnJmMGVTXzJWN2RGakhHSj",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yUlJHR3NTS3hnTTlsdlZhSDFGUWNRWHNuOEl1alNHaTlhd050bjJOSjZ3aXpLdEs3ZHRGYW5nc3JSSUNtZTJEb3ZlYXBjbUlQMC0zUWpWWFZzeGNYeDRyZGhzNXY0bUxrcms0REd4LXppdnZH0gGIAUFVX3lxTE9PUE1BOEJKMl80YkNBY3A0VkVMT1ZNbVNhejA3YnJmMGVTXzJWN2RGakhHSjlmT0E1Vno4NW5KUkM4dmpHUkRZdVNXZU9nSmlrSlQzcjZXR3JRMjgwTTJOeS0yZERvbnNnWUd4Rk14RWVjdHNFd0h0M09BZm84YW9uMkxvYlZzNXc?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -366,11 +378,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-10T19:48:22+00:00",
+      "first_seen": "2026-07-11T03:35:40+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 10 Jul 2026 13:00:00 GMT",
-          "source": "The Onion"
+          "published": "Fri, 10 Jul 2026 22:01:00 GMT",
+          "source": "WSAZ"
+        }
+      ]
+    },
+    {
+      "id": "001b00d4f4e6",
+      "title": "Inside the Red Sox’s terrible travel day that forced a late first pitch at Citi Field - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWU3NUhUNjZfNExBSWlxeExLbHhlQ1J1QWtMUVhMQk5MWUZteHRTZ1hzaTQ2bVRLdGwzelBNTjlUSFlibEFVOEJVYUdoX0hZcVhvMVJzXzk3b1pBdklvakYxMlJQLXZydFppSnd3MmtUMUpVVzlhUDZQUTRyLXQ3cVY2NEV4YzFEMWZTZzJSYk1CN0lUb25lSjhDWmYxd0hqQ08zcFRILWJjNU",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWU3NUhUNjZfNExBSWlxeExLbHhlQ1J1QWtMUVhMQk5MWUZteHRTZ1hzaTQ2bVRLdGwzelBNTjlUSFlibEFVOEJVYUdoX0hZcVhvMVJzXzk3b1pBdklvakYxMlJQLXZydFppSnd3MmtUMUpVVzlhUDZQUTRyLXQ3cVY2NEV4YzFEMWZTZzJSYk1CN0lUb25lSjhDWmYxd0hqQ08zcFRILWJjNUxocHpz?oc=5",
+      "score": 21.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-11T03:35:40+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 11 Jul 2026 00:54:00 GMT",
+          "source": "The New York Times"
         }
       ]
     }
