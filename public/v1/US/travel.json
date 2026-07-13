@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-07-13T15:04:50+00:00",
+  "generated_at": "2026-07-13T19:52:21+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "4e39b9fbbe08",
-      "title": "I took a trip with my parents and left my son at home. Time with them reminded me I'm someone's child, too. - Business Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1N4aXdUV2s1YklWcTVqSzYzOHhlWWJGbDBGX3IwZ2xodWlqVmpOZzlMcFlsOC1sSDlOdWJqR3V1cWhsTjBnUFJlNVVZUjF3TF9VWXNDZDFhclZOcUFjUko2ejlvSmY3XzZ5WDJ1S0xMQzJHRGtzYWVVNFlIcmRvbFY5aE5IZw?oc=5\" target=\"_blank\">I took a trip with my par",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1N4aXdUV2s1YklWcTVqSzYzOHhlWWJGbDBGX3IwZ2xodWlqVmpOZzlMcFlsOC1sSDlOdWJqR3V1cWhsTjBnUFJlNVVZUjF3TF9VWXNDZDFhclZOcUFjUko2ejlvSmY3XzZ5WDJ1S0xMQzJHRGtzYWVVNFlIcmRvbFY5aE5IZw?oc=5",
+      "id": "8e252aebee92",
+      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 16:40:15 GMT",
+          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+        }
+      ]
+    },
+    {
+      "id": "3151bb9a1df5",
+      "title": "A Millennial’s Anthem on Travel and Multiplicity: A Conversation with Cinelle Barnes - The Rumpus",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWZhNlVTeldlUVJzc185ZVR0M083d0pMRVk0SExTQlJhNmYxSXF2MU5GbjlfODUzTHdJTHdranFkWm1XQ0F1eE5Scy1CVlRfTGJGZEtuTGlsdHo2b3I1VVRZQlhTVzllaXl6WXVVc2xrcHV4cmRRV01XNFB2S2ZPT09mcXJzQzU0bGM2OU9YNkpvc0otUV94b2lHNC1vTlFiMlZCYWpfdVJ0bj",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWZhNlVTeldlUVJzc185ZVR0M083d0pMRVk0SExTQlJhNmYxSXF2MU5GbjlfODUzTHdJTHdranFkWm1XQ0F1eE5Scy1CVlRfTGJGZEtuTGlsdHo2b3I1VVRZQlhTVzllaXl6WXVVc2xrcHV4cmRRV01XNFB2S2ZPT09mcXJzQzU0bGM2OU9YNkpvc0otUV94b2lHNC1vTlFiMlZCYWpfdVJ0bjZVTWRXZ2pWWjM4NXc?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-13T19:43:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 15:27:55 GMT",
+          "source": "The Rumpus"
+        }
+      ]
+    },
+    {
+      "id": "4e39b9fbbe08",
+      "title": "I took a trip with my parents and left my son at home. Time with them reminded me I'm someone's child, too. - Business Insider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1N4aXdUV2s1YklWcTVqSzYzOHhlWWJGbDBGX3IwZ2xodWlqVmpOZzlMcFlsOC1sSDlOdWJqR3V1cWhsTjBnUFJlNVVZUjF3TF9VWXNDZDFhclZOcUFjUko2ejlvSmY3XzZ5WDJ1S0xMQzJHRGtzYWVVNFlIcmRvbFY5aE5IZw?oc=5\" target=\"_blank\">I took a trip with my par",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1N4aXdUV2s1YklWcTVqSzYzOHhlWWJGbDBGX3IwZ2xodWlqVmpOZzlMcFlsOC1sSDlOdWJqR3V1cWhsTjBnUFJlNVVZUjF3TF9VWXNDZDFhclZOcUFjUko2ejlvSmY3XzZ5WDJ1S0xMQzJHRGtzYWVVNFlIcmRvbFY5aE5IZw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 10:34:08 GMT",
@@ -27,42 +67,42 @@
       ]
     },
     {
-      "id": "000307949f63",
-      "title": "EU approves new passenger rights for air travel - dw.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9kVVEtb3l2QWpOcDhkMHRhLTRBNVJrVGdUSFdJYTNWbVZNREJQcEVOUHBSQjV2aW1qNG0xV2Qzd0Y1SUVvNHgzNERzUW9uRV9QWVJSeTNLdEh1cFFfVFJWU3gzY1JZZk9XMkxaZmhkdkxPZXNfWU9xWXNn0gF6QVVfeXFMTlJXY3RERmlDcjdESncwRlJpNmItOVYyc21tVm1NTGg1WTFGRzE1dG",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kVVEtb3l2QWpOcDhkMHRhLTRBNVJrVGdUSFdJYTNWbVZNREJQcEVOUHBSQjV2aW1qNG0xV2Qzd0Y1SUVvNHgzNERzUW9uRV9QWVJSeTNLdEh1cFFfVFJWU3gzY1JZZk9XMkxaZmhkdkxPZXNfWU9xWXNn0gF6QVVfeXFMTlJXY3RERmlDcjdESncwRlJpNmItOVYyc21tVm1NTGg1WTFGRzE1dGtJZmtEVFQ5Vl93UlBnai01ZnBaV0FSajNvSl9zS0VhMmc4SVQ5VVNsSGRiWXFZZlVnbEdKYWVYZDNMQUhEcWcwUmJYWF9rbGszMGc?oc=5",
-      "score": 86.4,
+      "id": "f157c8474201",
+      "title": "This Swaddling Arm-Supporting Sling Gives Me T-Rex Arms. It’s My Most Comfortable Travel Accessory. - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seDFXcTFDakN5c01hOVB4ckV1cFlrTDNHaUJ5SzlFc1NuWE5raHBEc0d3SHdnTEZHOEpxQngzMHdDQmlvMUFEWkozNHRFTG9Mb2Y0SG9yaWhhUlA1TS05bnNvRDhLT0o0?oc=5\" target=\"_blank\">This Swaddling Arm-Supporting Sling Gives Me T-Rex Arms. It’s My Mo",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seDFXcTFDakN5c01hOVB4ckV1cFlrTDNHaUJ5SzlFc1NuWE5raHBEc0d3SHdnTEZHOEpxQngzMHdDQmlvMUFEWkozNHRFTG9Mb2Y0SG9yaWhhUlA1TS05bnNvRDhLT0o0?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 09:46:28 GMT",
-          "source": "dw.com"
+          "published": "Mon, 13 Jul 2026 16:11:49 GMT",
+          "source": "The New York Times"
         }
       ]
     },
     {
-      "id": "fca7733c0333",
-      "title": "Hawaii’s Top Resorts Form Golf Tourism Alliance After PGA Tour Exits - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb3NnS1N0VTFpbzRHWGFFQUJ0Sm42cmZBdVlRVkZmTkRQajRZODE2UUdiWXkyVnlyZHdkV0tuX2t6bTdwTWgxOVVqSWpoOVpoZWNXT2VMTDRxN2JEM0luVm80cW5WRzhYbWpBenBWM2p3LV9xcG44bng1MHJoM2Y0QXVWLV9MNVNsOGZNN0lBWWwxTGQ2THc2LXpLSEdELWVXRnZtc2NmdGM1X2",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb3NnS1N0VTFpbzRHWGFFQUJ0Sm42cmZBdVlRVkZmTkRQajRZODE2UUdiWXkyVnlyZHdkV0tuX2t6bTdwTWgxOVVqSWpoOVpoZWNXT2VMTDRxN2JEM0luVm80cW5WRzhYbWpBenBWM2p3LV9xcG44bng1MHJoM2Y0QXVWLV9MNVNsOGZNN0lBWWwxTGQ2THc2LXpLSEdELWVXRnZtc2NmdGM1X2R6SWdhbDJtcndfckY5NEM5WE9xcVp3UQ?oc=5",
-      "score": 82.8,
+      "id": "d9580dd1fe17",
+      "title": "Travel Tested: The Yeti Panga - Field Ethos",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGZlV1UDdHVkpGd0VyT1U4Y2p2djJ0Tk1lU1BLcmN3dXh3X2V1bHZqUzZkUjNJZmowVk1iVmJBVjBhWEluV2lTaV93?oc=5\" target=\"_blank\">Travel Tested: The Yeti Panga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Field Ethos</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGZlV1UDdHVkpGd0VyT1U4Y2p2djJ0Tk1lU1BLcmN3dXh3X2V1bHZqUzZkUjNJZmowVk1iVmJBVjBhWEluV2lTaV93?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 10:00:00 GMT",
-          "source": "Forbes"
+          "published": "Mon, 13 Jul 2026 16:51:11 GMT",
+          "source": "Field Ethos"
         }
       ]
     },
@@ -71,18 +111,138 @@
       "title": "2 new hotels may help boost Salem tourism, expert says - Statesman Journal",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDZfVC1rX1RPbHN6aW5vVlRmd3MyaGc1SHBsM20tZEVEQUFPcnRPUFFiV2lWeVRvQmpJcV8zUTFZb3ZGeXZlVEMyclRzNFJiRklHOHY2OHVDLVVva1RWOXZwZDZydW1ncXFEOFl6Q1NKNDZrcWJPYVRYMVNBNFhoY0xtbTJOcXdOYXZ3dHYzSVhiS0ljNlVBY2FUYnlWOHExR1d4U0oyTkFqM0",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDZfVC1rX1RPbHN6aW5vVlRmd3MyaGc1SHBsM20tZEVEQUFPcnRPUFFiV2lWeVRvQmpJcV8zUTFZb3ZGeXZlVEMyclRzNFJiRklHOHY2OHVDLVVva1RWOXZwZDZydW1ncXFEOFl6Q1NKNDZrcWJPYVRYMVNBNFhoY0xtbTJOcXdOYXZ3dHYzSVhiS0ljNlVBY2FUYnlWOHExR1d4U0oyTkFqM0p2ZnI2OXhWNjhpVXp6N2tGSEE4OA?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 12:01:00 GMT",
+          "published": "Mon, 13 Jul 2026 17:35:00 GMT",
           "source": "Statesman Journal"
+        }
+      ]
+    },
+    {
+      "id": "3cf99c059d10",
+      "title": "US imposes new sanctions on Cuba tourism ministry, state-owned companies - Al Jazeera",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxON19vWU1id2hTVHBZMV9vbk1xa1FhNkxORHRmS0lkbjlXVlNaRXZnbEJIM2pKSF9tanNaMWVOMnpDdE5QUmUtTnBNSTZSaUZIZHA5QnUzOEd2ZTdBRXg0UWlfYTVRQXBZVWhUMVlPRjBiZHhzaXpMelp1TXJYSHhNTUlpMTFabk9FODN0S0Z3eHc2Q2ZfeUw4SElLNHFJYlppU0swbG0wN1JYQk",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON19vWU1id2hTVHBZMV9vbk1xa1FhNkxORHRmS0lkbjlXVlNaRXZnbEJIM2pKSF9tanNaMWVOMnpDdE5QUmUtTnBNSTZSaUZIZHA5QnUzOEd2ZTdBRXg0UWlfYTVRQXBZVWhUMVlPRjBiZHhzaXpMelp1TXJYSHhNTUlpMTFabk9FODN0S0Z3eHc2Q2ZfeUw4SElLNHFJYlppU0swbG0wN1JYQkM5dUlQNF9wVXFKZ9IBuwFBVV95cUxNWHBEUDlZeEdkRnNGaElNVFZRendSNDJNMmI4V1ZMcjNDWnY5XzNWdV9EbmF1ckpBLWFzMkszT0NET1dsaU5jZEdTWUpBVUE5dE9vZlNCWEtYU1lKWjBsRkR5bmZhRzZyeTdyNGVIeFZHeUJOU21KLXhmT1hLZnBvQldIem1MNHpkcVdVTnFHdkVZbW45VS1QY3U3UkVNdFVGNDhjajZ5cVZvMng1Y1EyZGJRS3FkdlJpVE80?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-13T19:43:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 16:18:45 GMT",
+          "source": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "id": "1f2f7fc34681",
+      "title": "Virginia Beach pays these content creators to boost tourism - The Virginian-Pilot",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNNy1XbXMtRTJycnZ3bzM5Mnl5QU9Za1l3OEFwUUwzazd3bnNXYkpvY3ZlTEgyUFJzZHc5VHM4eEh2ckdIX200bkNuUTRXcWZBVlBzMWJ6N0VNQi1ES2w5eTc2OFFuZnduYXE1aWpOeGN1Vjh6UUVVN25YbWRXT19xd0lXVEZlSTdjejZORQ?oc=5\" target=\"_blank\">Virginia Beach pa",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNy1XbXMtRTJycnZ3bzM5Mnl5QU9Za1l3OEFwUUwzazd3bnNXYkpvY3ZlTEgyUFJzZHc5VHM4eEh2ckdIX200bkNuUTRXcWZBVlBzMWJ6N0VNQi1ES2w5eTc2OFFuZnduYXE1aWpOeGN1Vjh6UUVVN25YbWRXT19xd0lXVEZlSTdjejZORQ?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-13T19:43:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 18:47:54 GMT",
+          "source": "The Virginian-Pilot"
+        }
+      ]
+    },
+    {
+      "id": "71bfe4447794",
+      "title": "SPONSORED SEGMENT: Travel Rights - ABC7 WWSB",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9BSVgxLXJBUE9BMXpkOXN0Q3JWTFd2TGZIMEwxb0lWUFZvd1lqOEgtRnYwOXNsS1BfQzZlYXh5dTlKNjhsS3NXd0VUOHVIS0pxbjJrcS1aNGZqcV9MRGxrcUk2OTRKam1FZkRnNnl2b0lQZzVEWTFpUWhR0gGOAUFVX3lxTE90ZFJnMGZic3U0UlFkNXdyUGExUnhpaEU1R1cyeVR0U0tQZENFN3",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BSVgxLXJBUE9BMXpkOXN0Q3JWTFd2TGZIMEwxb0lWUFZvd1lqOEgtRnYwOXNsS1BfQzZlYXh5dTlKNjhsS3NXd0VUOHVIS0pxbjJrcS1aNGZqcV9MRGxrcUk2OTRKam1FZkRnNnl2b0lQZzVEWTFpUWhR0gGOAUFVX3lxTE90ZFJnMGZic3U0UlFkNXdyUGExUnhpaEU1R1cyeVR0U0tQZENFN3NUdWlRMVR3c21adVZEaGFFZkFBWHdSU3JiRWQwYXM2aFl2dWdtVGdmamRmSlRFaWxORWx5bUc1S3lDZlRFdmxfSVoxVGF0ci0tdTl5VEcxUVA2ZGVhTzRmOVNpQ2NHdVE?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-13T19:43:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 14:15:00 GMT",
+          "source": "ABC7 WWSB"
+        }
+      ]
+    },
+    {
+      "id": "f251c4c5dadd",
+      "title": "Tourism, entertainment give towns along Mississippi River a reboot - MinnPost",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObTJQZVdYLUd4MmVkeGhKR19KcDZ2eUJaVjNySGZ5c040NGZ4ekRmSGhBSVFnUkxvTTJzSG1VWE9xRzBjT0lCbUxFeUxvczlVa3lTN0lGM3NrdGdhNjR5VUxCYnM3bTFUREF0MVVmMllCZENkSnJ5WkVnc3dxX1N0eUcyNWtwVWxUREVJN1lPTGxraGNXSDRMcGlNSzZrbmdXVFhjUmNnbHFiSD",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObTJQZVdYLUd4MmVkeGhKR19KcDZ2eUJaVjNySGZ5c040NGZ4ekRmSGhBSVFnUkxvTTJzSG1VWE9xRzBjT0lCbUxFeUxvczlVa3lTN0lGM3NrdGdhNjR5VUxCYnM3bTFUREF0MVVmMllCZENkSnJ5WkVnc3dxX1N0eUcyNWtwVWxUREVJN1lPTGxraGNXSDRMcGlNSzZrbmdXVFhjUmNnbHFiSDVaY294UFVfR3N2bENtR2VnMzZPWTlMbUdHNndkd09Xa3gyRlE?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-13T19:43:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 17:51:40 GMT",
+          "source": "MinnPost"
+        }
+      ]
+    },
+    {
+      "id": "e6e056e6cecc",
+      "title": "US Expands Cuba Sanctions With Targeting of Tourism Industry - Bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1pKWjZfWkhVMmpoQml6UUt5NkhEeDJkVmRyWXdaa3dSNHRMSGhORXA3dzgtVkRWOTI0NmFyQWNBZzktMFMzNFN6UDVaQVVDT2FwUl9OajlHNmJ0LUc3aDBrS2pGc2Rndkt5a3VoMV9SamRxOTQteXJfRkRnT2VRRkRfQkdrV1ZkTDZETVQzZFN1Y0tubTFRR3VUZUhTMGRLWWZBT05TMWV0Yl",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1pKWjZfWkhVMmpoQml6UUt5NkhEeDJkVmRyWXdaa3dSNHRMSGhORXA3dzgtVkRWOTI0NmFyQWNBZzktMFMzNFN6UDVaQVVDT2FwUl9OajlHNmJ0LUc3aDBrS2pGc2Rndkt5a3VoMV9SamRxOTQteXJfRkRnT2VRRkRfQkdrV1ZkTDZETVQzZFN1Y0tubTFRR3VUZUhTMGRLWWZBT05TMWV0YlNLZE1tdg?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-13T19:43:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 18:15:07 GMT",
+          "source": "Bloomberg.com"
+        }
+      ]
+    },
+    {
+      "id": "af57849ebdd2",
+      "title": "Love’s Travel Stops celebrates donation to Oklahoma Children’s Health Foundation - The Journal Record",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXhLekhmenJZNEY5bTFvb1lEelFqMlVDMVlCbjFERkt2aVJmbDNic2JiY3E1cnpFRHQ5d0NIck0yUEtiS0lTbk5ibVF6TzRyRUtFMUhNSWpYRE5Bd0laeS1Xa1JkWU1WUHFXb1YzclRVRjdnTlJMbUF6NTh6NHdXS0piSGhUd1V0ZHo2U3Mwc0llYnBKdWtLYjYwc05FVlJVaWow?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXhLekhmenJZNEY5bTFvb1lEelFqMlVDMVlCbjFERkt2aVJmbDNic2JiY3E1cnpFRHQ5d0NIck0yUEtiS0lTbk5ibVF6TzRyRUtFMUhNSWpYRE5Bd0laeS1Xa1JkWU1WUHFXb1YzclRVRjdnTlJMbUF6NTh6NHdXS0piSGhUd1V0ZHo2U3Mwc0llYnBKdWtLYjYwc05FVlJVaWow?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-13T19:43:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 17:59:59 GMT",
+          "source": "The Journal Record"
         }
       ]
     },
@@ -91,14 +251,14 @@
       "title": "Ferris president of the Mississippi Tourism Association - The Oxford Eagle",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQaDZ6YXpSQmNUZGRMNXBBU1B6WU44UXF2X1NFTldJeHY1SUdGdTUtRXU5TWRVZ3ZQZGI2YzhIc1haNjRQQ2RqbFhCZ2UzT1lPLTdqTDVqNmhZYUFVMEFUSEYyWGtCMGVYYnM2M2pkNEc4V2Rwdk5YTExIOTJlMGpuZksyZ1ZlZEdRU3FqcldfdDlTU0lac0E?oc=5\" target=\"_blank\">Ferr",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaDZ6YXpSQmNUZGRMNXBBU1B6WU44UXF2X1NFTldJeHY1SUdGdTUtRXU5TWRVZ3ZQZGI2YzhIc1haNjRQQ2RqbFhCZ2UzT1lPLTdqTDVqNmhZYUFVMEFUSEYyWGtCMGVYYnM2M2pkNEc4V2Rwdk5YTExIOTJlMGpuZksyZ1ZlZEdRU3FqcldfdDlTU0lac0E?oc=5",
-      "score": 75.6,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 14:00:36 GMT",
@@ -107,170 +267,10 @@
       ]
     },
     {
-      "id": "30e7d8b68717",
-      "title": "Colorado's Rocky Mountains are a hotspot for travel. But they used to be the state's biggest barrier - KUNC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQWxyZU01MzRDSEZCU0QtUC1hdWIwclpvN08zdFFFUjVNUnFhZEJFNXlRbmh5RUJ5N0RLbl9DMXpCMUVpSG1rV09QN0JZVlhMcEhGS0ZuSHk2Zl9RYWpVZEw0aDNwUnRCcFlLeF9DWkd6Sm1hT0prQVlPX0w3a2dvMHU0NFBqaVYwSmtUM2tEVDZkX2Q3NmU3OUJkRW9PNUZsTENxTVZjMWw5Zj",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQWxyZU01MzRDSEZCU0QtUC1hdWIwclpvN08zdFFFUjVNUnFhZEJFNXlRbmh5RUJ5N0RLbl9DMXpCMUVpSG1rV09QN0JZVlhMcEhGS0ZuSHk2Zl9RYWpVZEw0aDNwUnRCcFlLeF9DWkd6Sm1hT0prQVlPX0w3a2dvMHU0NFBqaVYwSmtUM2tEVDZkX2Q3NmU3OUJkRW9PNUZsTENxTVZjMWw5ZjV1VldjZmNLNTR4SzlRem8xSkFwWEk3LWI1MEFPTFlVVkVFZ1NRSWV1MkVPQzR4OEhOQmlRMTdB?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 11:52:00 GMT",
-          "source": "KUNC"
-        }
-      ]
-    },
-    {
-      "id": "bc594c712c6a",
-      "title": "Philadelphia’s Germantown bets on local tourism with a new visitor center - WHYY",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNak1xeF9TZjAwVVE1bmNyTVgxVlhYVHRUY04xLXAyWTBERUZjQnIzazNrcDFxUDFCeVZyZWw3bW8tWHI1UXpYRTVMWUFHZzF1X1p0amZrcm51VGZZbW1wUjdOTmNrd3RuS25TZk9BVkZxaHZVaUM5dFNHbDR4aV9tR1JJZVZUdHVjb1JmRQ?oc=5\" target=\"_blank\">Philadelphia’s Ge",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNak1xeF9TZjAwVVE1bmNyTVgxVlhYVHRUY04xLXAyWTBERUZjQnIzazNrcDFxUDFCeVZyZWw3bW8tWHI1UXpYRTVMWUFHZzF1X1p0amZrcm51VGZZbW1wUjdOTmNrd3RuS25TZk9BVkZxaHZVaUM5dFNHbDR4aV9tR1JJZVZUdHVjb1JmRQ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 10:07:13 GMT",
-          "source": "WHYY"
-        }
-      ]
-    },
-    {
-      "id": "4c3117e7b6a3",
-      "title": "Michael Izhakov of the Israel Ministry of Tourism on enticing back visitors - Travel Weekly",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0lOUTROTXVUNjNPRXlhbllJdk1Wa0I1RDRtdk9fbjhfZ0EzUHNJSGRETVhqVENKQngwb1BIUFh6ZkxyWkFadFc2N3N6MjVYTHI0SEFSQWkxckIyVGp4aFB0S1hTTVpYS2hvQUZhQ0R1dXhfSDFxWlB0S1ZfSy01MWxRS0tVd1ZwS2dVcGJB?oc=5\" target=\"_blank\">Michael Izhakov",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0lOUTROTXVUNjNPRXlhbllJdk1Wa0I1RDRtdk9fbjhfZ0EzUHNJSGRETVhqVENKQngwb1BIUFh6ZkxyWkFadFc2N3N6MjVYTHI0SEFSQWkxckIyVGp4aFB0S1hTTVpYS2hvQUZhQ0R1dXhfSDFxWlB0S1ZfSy01MWxRS0tVd1ZwS2dVcGJB?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 11:21:43 GMT",
-          "source": "Travel Weekly"
-        }
-      ]
-    },
-    {
-      "id": "50771b22ee98",
-      "title": "Share a tip on a book that inspired you to travel - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTW81anc1X1RfMUhJWnJzT2FQYllnazlxSmgzTzRsVWM2bFR4SUVWT2lFb3NBU0lvNklQZWZ3NExTdFZ6dV9zV1hfNEtWOEwxVnBwUUV4b0tIeVp0WS1KWk84RzhEWlpYQS1IcnlIRnpseGl0YXJBUnl2YTBUcThyV3B3cEViWEN2cE96Q2FCSmFod2tpZ3ZXWWdvLWU?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTW81anc1X1RfMUhJWnJzT2FQYllnazlxSmgzTzRsVWM2bFR4SUVWT2lFb3NBU0lvNklQZWZ3NExTdFZ6dV9zV1hfNEtWOEwxVnBwUUV4b0tIeVp0WS1KWk84RzhEWlpYQS1IcnlIRnpseGl0YXJBUnl2YTBUcThyV3B3cEViWEN2cE96Q2FCSmFod2tpZ3ZXWWdvLWU?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 14:06:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "id": "2f09df519ee9",
-      "title": "Q&A with Luxury Travel Advisor Ann Harrison - Naples Illustrated",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPSVNHWFlPeGFYYmtIbHRUel9jQ3pGaGJWU0pUbmJ5SlpFNHpsejdNV0c5V2ZnUXctY0U4YlNsVkF1VHpZMklDY3k2QjNteWlrOUlORzZjaHFmMHI2ZEcxamxqdjlTV29weHM0SWgxLVVUWTcyQXV5QUd4eGZxYTZlWmN2cw?oc=5\" target=\"_blank\">Q&amp;A with Luxury Travel Ad",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSVNHWFlPeGFYYmtIbHRUel9jQ3pGaGJWU0pUbmJ5SlpFNHpsejdNV0c5V2ZnUXctY0U4YlNsVkF1VHpZMklDY3k2QjNteWlrOUlORzZjaHFmMHI2ZEcxamxqdjlTV29weHM0SWgxLVVUWTcyQXV5QUd4eGZxYTZlWmN2cw?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 12:30:36 GMT",
-          "source": "Naples Illustrated"
-        }
-      ]
-    },
-    {
-      "id": "cd104c96cf31",
-      "title": "Expensify stock rises on new consolidated travel billing - Investing.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3FFcFQtQXBBNlpRbWFDc3Q5dEZWN1NwUjBoNkExWWdCTmduZEtVYzlUcFN3ZDNhN1ZFSzFLVkpBbjQwSnhqa19rd3Utb3JreUJxNDF3eWxMNktMR2VFcXFNNEZodGNNOEczWWRlQ1RYcmFoODZwdFFpWmZETjd5V2RnWXFzRy16Sm93bnlfOXZjbkN2b3FuQlUxcDAwelU1SVV4NE9ZV0F2bU",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3FFcFQtQXBBNlpRbWFDc3Q5dEZWN1NwUjBoNkExWWdCTmduZEtVYzlUcFN3ZDNhN1ZFSzFLVkpBbjQwSnhqa19rd3Utb3JreUJxNDF3eWxMNktMR2VFcXFNNEZodGNNOEczWWRlQ1RYcmFoODZwdFFpWmZETjd5V2RnWXFzRy16Sm93bnlfOXZjbkN2b3FuQlUxcDAwelU1SVV4NE9ZV0F2bUVCOGR4cUpraGtQbFRlRHc?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 13:32:09 GMT",
-          "source": "Investing.com"
-        }
-      ]
-    },
-    {
-      "id": "0f36a94032b1",
-      "title": "I Don’t Have Time to Go to the Tailor—so I’m Grabbing These Petite-friendly Quince Pants for All My Summer Trips - Travel + Leisure",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDZRZlRnZzhFdjNrZldpTnZTMmpvUmtrbDZpaGZweWU0b0g5S2czX2Q4Z1NOOTg0MDVCN3dVTHFleVJkdEExazZLaGF3SHprMlpwLWRUNXdfNXV3d1hVQTBrWGJMV002SVNUTC0xUDhhNTRQN25obU9vSVdqOHBRUXBkbDJiVEVQMERuMm1ONTlEa0Z6N0E?oc=5\" target=\"_blank\">I Do",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDZRZlRnZzhFdjNrZldpTnZTMmpvUmtrbDZpaGZweWU0b0g5S2czX2Q4Z1NOOTg0MDVCN3dVTHFleVJkdEExazZLaGF3SHprMlpwLWRUNXdfNXV3d1hVQTBrWGJMV002SVNUTC0xUDhhNTRQN25obU9vSVdqOHBRUXBkbDJiVEVQMERuMm1ONTlEa0Z6N0E?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 08:00:00 GMT",
-          "source": "Travel + Leisure"
-        }
-      ]
-    },
-    {
-      "id": "ed7ab72584ef",
-      "title": "Tourism task force contemplates life beyond its charter - Mount Desert Islander",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM0pNUjlQM0VScXR5R3NKNTViQkY2NjBrMW9tV1lnX3VFVUtFYWhzd1RTbVBNb1A4Y3BVMGM2NXFWNHF3R0RPeUtLMXI3UUpJM200ZGI0azVNdzBCaDdaLUpoYUM2QzZIbDZKUjItVGM5SEdBNlFhYVF2dVlGMkRYTE1STGY4RmFFV3FWVFR1QUpIbmZsWU94RGd5V1ltTjZscVpSOTVGNFd3Zj",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM0pNUjlQM0VScXR5R3NKNTViQkY2NjBrMW9tV1lnX3VFVUtFYWhzd1RTbVBNb1A4Y3BVMGM2NXFWNHF3R0RPeUtLMXI3UUpJM200ZGI0azVNdzBCaDdaLUpoYUM2QzZIbDZKUjItVGM5SEdBNlFhYVF2dVlGMkRYTE1STGY4RmFFV3FWVFR1QUpIbmZsWU94RGd5V1ltTjZscVpSOTVGNFd3ZjNkZWtVUzhlaGJ4X1RMdVpPX0tyRkhxbmpuRHd6YXluYnV0VEtwc2NqMnZJdVJJYzd1dHc?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 12:44:00 GMT",
-          "source": "Mount Desert Islander"
-        }
-      ]
-    },
-    {
-      "id": "009a2ffea6f5",
-      "title": "Don’t Let Fraud and Scams Ground Your Summer Vacation - The Atlanta Voice",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE90QkM2R0dvUUlsbFJueWpTU1lhUWJlMWhPVHVSOGh0d1RxSE1LQkpCcGZJWWNaN2NxUUtfTjJfUlZKUFdFRDNhWXFxaUQxVm5PVkwxYlpnYjlmcHVQWHdGSWF3?oc=5\" target=\"_blank\">Don’t Let Fraud and Scams Ground Your Summer Vacation</a>&nbsp;&nbsp;<font ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90QkM2R0dvUUlsbFJueWpTU1lhUWJlMWhPVHVSOGh0d1RxSE1LQkpCcGZJWWNaN2NxUUtfTjJfUlZKUFdFRDNhWXFxaUQxVm5PVkwxYlpnYjlmcHVQWHdGSWF3?oc=5",
+      "id": "3087ffad51dc",
+      "title": "Kansas City International Airport breaks outbound traveler record after final World Cup match in KC - KMBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHRGWGtDRXlqV1dNNWxOQTRQdEtraVczdzJ4QW5uZ2dVdVRYZDgzdUVhWTQ4cUdMcE96eGRWc19Ocm9pR1Z5NkxIbWdEVzhwcVhxcHlPMkYzd0lKVE0zSWNpRWFHbUotdjNhQUlIcFRYRVc2a0c0WGF0amRUSjdLN3hITDF4TUFPN1F4a3Q1LTZkaHVHaUpSN0VFSQ?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHRGWGtDRXlqV1dNNWxOQTRQdEtraVczdzJ4QW5uZ2dVdVRYZDgzdUVhWTQ4cUdMcE96eGRWc19Ocm9pR1Z5NkxIbWdEVzhwcVhxcHlPMkYzd0lKVE0zSWNpRWFHbUotdjNhQUlIcFRYRVc2a0c0WGF0amRUSjdLN3hITDF4TUFPN1F4a3Q1LTZkaHVHaUpSN0VFSQ?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 14:43:11 GMT",
-          "source": "The Atlanta Voice"
+          "published": "Mon, 13 Jul 2026 19:21:00 GMT",
+          "source": "KMBC"
         }
       ]
     },
     {
-      "id": "42e9757e529a",
-      "title": "What is the travel trend \"set-jetting?\" - CBS News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4ydnpwM0xaRFFVTjU3NlpXdDNUa0NOQlBNMnJST2E1Zk9YRmRNNTJUbFVCZ09UNXFiRjJMTjRySk1yR2JrUEI2RVRNc1FqaEtlNXFhM3NmZmhQeE56cXZlUVJZUkdVNTR2QkJxbTdXbWFjSFUxaVE?oc=5\" target=\"_blank\">What is the travel trend \"set-jetting?\"</a>&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4ydnpwM0xaRFFVTjU3NlpXdDNUa0NOQlBNMnJST2E1Zk9YRmRNNTJUbFVCZ09UNXFiRjJMTjRySk1yR2JrUEI2RVRNc1FqaEtlNXFhM3NmZmhQeE56cXZlUVJZUkdVNTR2QkJxbTdXbWFjSFUxaVE?oc=5",
+      "id": "1888153695cc",
+      "title": "Travel to Europe without actually leaving with this new Cincinnati restaurant - FOX19 | Cincinnati",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONUlQdTljbE9tQVR4X1Z6NzVvYUhyeE82TF9lRWthVTJzMjRGb1QxbGdRWE96REVIR191OHJ4cDBSX3hYMW1qaWowT2pMQkRLTk5kSmROazNscTV5ZEMwWGliSjAtM3hBdmRySF9GaHJzMDR6ZkdhTlJGRHZaSmpZQkh5NkdINUFfTEtMcmxYS25Lck1May1ELURnRlpOM3MtNW96dHNWWFpNQl",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONUlQdTljbE9tQVR4X1Z6NzVvYUhyeE82TF9lRWthVTJzMjRGb1QxbGdRWE96REVIR191OHJ4cDBSX3hYMW1qaWowT2pMQkRLTk5kSmROazNscTV5ZEMwWGliSjAtM3hBdmRySF9GaHJzMDR6ZkdhTlJGRHZaSmpZQkh5NkdINUFfTEtMcmxYS25Lck1May1ELURnRlpOM3MtNW96dHNWWFpNQll20gHAAUFVX3lxTE1BWVdRc2tkR2w3aHhESEFQQW9fSDVydjNoZWthYmp2ZUV1cW1RYnp5OXpTcVFIQ1JfZWphYnVPSmZwcFViVDNUc3lmWmZyalZKRnM5RWJqdWFneS1iZWF2QUlaT0ZrYVJxRWJ0UHBRRm50dnpCeGhrNlpLNzdzLVhzUHZBWTlvU1dtRWNOMFV4WkRiSEZHQVpRT2k1X1RqYkZBa2FVd294RTF0YTBXZHNoaWRBQ3U4Rlp0T3Z3Z0hjVA?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 14:27:00 GMT",
-          "source": "CBS News"
+          "published": "Mon, 13 Jul 2026 16:41:00 GMT",
+          "source": "FOX19 | Cincinnati"
         }
       ]
     },
     {
-      "id": "54eb485c6a51",
-      "title": "China Consumer Sentiment StudyWill Dining Benefit from Summer Family Travel? - Circana",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMTA1Q3JMTXJudGxrSmFXbHJlaHA5bFJ2cUo2ZFViZGxMTzVuOXpnbG9aYm8xWFg1WFFIXzRNOEFOREg1RVB2UE5EM0ZBcW5zWU9QWTZ0Y2tsVGY2a2RNbmdsNFJkOWlBUzZ4VklockNxVmR2VXNUTHlvVTJzMFZzX0ZqaXNZM2x6Q1lxZDR1OEtEdVY0MXRlVUNmcXpMQk04V0o5aUtJQQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMTA1Q3JMTXJudGxrSmFXbHJlaHA5bFJ2cUo2ZFViZGxMTzVuOXpnbG9aYm8xWFg1WFFIXzRNOEFOREg1RVB2UE5EM0ZBcW5zWU9QWTZ0Y2tsVGY2a2RNbmdsNFJkOWlBUzZ4VklockNxVmR2VXNUTHlvVTJzMFZzX0ZqaXNZM2x6Q1lxZDR1OEtEdVY0MXRlVUNmcXpMQk04V0o5aUtJQQ?oc=5",
+      "id": "f9d16a98d184",
+      "title": "Travel + Leisure readers recognise IHG’s Luxury & Lifestyle portfolio - WebWire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uYm5ROXpoMENCdVJxNkVNSWpEdlBucTNiV1V0N1NOX25KeHc3eF9EMExJVUV2d0pRdFRmNXRjRDQwLUFFRGxjYURvZGoyN2xJSzZ5c3U2X2JvbUZ6Sk1BaQ?oc=5\" target=\"_blank\">Travel + Leisure readers recognise IHG’s Luxury & Lifestyle portfolio</a>&nbs",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uYm5ROXpoMENCdVJxNkVNSWpEdlBucTNiV1V0N1NOX25KeHc3eF9EMExJVUV2d0pRdFRmNXRjRDQwLUFFRGxjYURvZGoyN2xJSzZ5c3U2X2JvbUZ6Sk1BaQ?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 14:46:19 GMT",
-          "source": "Circana"
+          "published": "Mon, 13 Jul 2026 17:00:58 GMT",
+          "source": "WebWire"
         }
       ]
     },
     {
-      "id": "2306c322a2c8",
-      "title": "The half of corporate travel that's growing skips the RFP - Hospitality Net",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0hfallCTExZWFVVZ3JERXZ4MW1maDhHYktYUFotaTg2WmlFNWF0V1k1eFRKQ0V6bmJ3TmVtUEZURlNqQlJBZEpTUURSMkdfblpLUXVkRmh5Sm1hWDhpUWFOR2RQelhPTkR0VjNEaXZfSE1vcURmRXI2NDJuNmtJUlA0QmJLdTk1TDlSdThXZk5OUkgycmtGQzFXaGtZbmVfX290cjhR?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0hfallCTExZWFVVZ3JERXZ4MW1maDhHYktYUFotaTg2WmlFNWF0V1k1eFRKQ0V6bmJ3TmVtUEZURlNqQlJBZEpTUURSMkdfblpLUXVkRmh5Sm1hWDhpUWFOR2RQelhPTkR0VjNEaXZfSE1vcURmRXI2NDJuNmtJUlA0QmJLdTk1TDlSdThXZk5OUkgycmtGQzFXaGtZbmVfX290cjhR?oc=5",
+      "id": "0cec80a64adb",
+      "title": "How hyper-hot weather is changing Asia’s travel map - CNN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1GMzJwblNSUDlPOGRtbzB5XzBXVWszU190VVVVZHZNa3BuRHRKdy1YUWtvXzJoT1FlYUEyTzR4SVdpZG9JazlfU0diUm9sTVczaUNvQ0JHU2FZSU1mNGxWdjhoQ2ZIZDRqanF6REhBUUVfWDVrekNDRDJR?oc=5\" target=\"_blank\">How hyper-hot weather is changing Asia’s tr",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GMzJwblNSUDlPOGRtbzB5XzBXVWszU190VVVVZHZNa3BuRHRKdy1YUWtvXzJoT1FlYUEyTzR4SVdpZG9JazlfU0diUm9sTVczaUNvQ0JHU2FZSU1mNGxWdjhoQ2ZIZDRqanF6REhBUUVfWDVrekNDRDJR?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 08:34:24 GMT",
-          "source": "Hospitality Net"
+          "published": "Sat, 11 Jul 2026 11:04:58 GMT",
+          "source": "CNN"
         }
       ]
     },
     {
-      "id": "cda91c0a04a8",
-      "title": "Vacation winners and losers: How the powerful Super El Niño pattern may reshape your travel plans with delays - FOX Weather",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGFXdlh5bkttbnFia212T3RmTUcxQUdFaEoxcFNLR0Yyc0FBVnpLcm1QMzhJeWxZX0k4bi1HclNNekc1MHFSWEltYVJhQkFWOGl4RmoxQktrMU84QnNmU3lsNUlQSS1iYWx2Zk53R25XdW91UFA1WXNIWEJOcUgzMEpMTDRvb2kyU191T1MtYnJFRU5yY253bzZUQTRnSC1aYjNYa3VlWdIBrA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGFXdlh5bkttbnFia212T3RmTUcxQUdFaEoxcFNLR0Yyc0FBVnpLcm1QMzhJeWxZX0k4bi1HclNNekc1MHFSWEltYVJhQkFWOGl4RmoxQktrMU84QnNmU3lsNUlQSS1iYWx2Zk53R25XdW91UFA1WXNIWEJOcUgzMEpMTDRvb2kyU191T1MtYnJFRU5yY253bzZUQTRnSC1aYjNYa3VlWdIBrAFBVV95cUxNRjgtaWNfX2dHcm9aLWEtUVJKejVVb1BkWU1vaW03LUFkeV8zRWR3akxuajJzcnQ1b2tQa2xyRVdqNl9hSzF0V0RCNkJfMGZyZjBOYkhfTzdUSXhLT2NFRWdwM0lnUmhwOUlTVHk3Y2ZGdmJ5SVNWYXg5SXA4VXUtWUJfMXBxdVdlQmxVbE84LTJTRFJYRU9NS1Z2RW42cGFzRkN0UkROMmJBQU9z?oc=5",
+      "id": "9a1a7858a516",
+      "title": "How a blister-covered vacation led me to finding the best travel shoes under $100 - USA TODAY 10BEST",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNUklZRjg2ejAyQXpqTGh5d0Z3UXJ2QWRlMnFPakhILWQzRXNRLThHeklBTVgxSTVYUy04RnpxdkNkT2F5M0xva1QxU3pTeGxlTHdyTkNROWlqTnBVRndWRWtyNm43M1poa0lqYUtzLUVnZVJ0U3N4ZDN4cldqcG95ZnFwZTg1Zw?oc=5\" target=\"_blank\">How a blister-covered vac",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUklZRjg2ejAyQXpqTGh5d0Z3UXJ2QWRlMnFPakhILWQzRXNRLThHeklBTVgxSTVYUy04RnpxdkNkT2F5M0xva1QxU3pTeGxlTHdyTkNROWlqTnBVRndWRWtyNm43M1poa0lqYUtzLUVnZVJ0U3N4ZDN4cldqcG95ZnFwZTg1Zw?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 00:42:00 GMT",
-          "source": "FOX Weather"
+          "published": "Mon, 13 Jul 2026 19:00:00 GMT",
+          "source": "USA TODAY 10BEST"
         }
       ]
     },
     {
-      "id": "635738c9b105",
-      "title": "Boosting insurance sales: The Oasis Travel Network strategy - Travel Weekly",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejRHay1HNTBLUE5BR2xtZkk0YUNIR0JLeENDOUVENHlwVllZSlVJUW8xM2l3VEItTlkzWU4xc2Z6Qjc4cVE5UUtIbWRoRU1kTTh0UHc5bjRxRUd6MzB4NnlRY1F0aW9fMWVwTEpPY3BEbnBiaHlLS2pUOUhhbkdEeF81cllVYlhyMHNkT3dnZXZpeDRmSk5mWU9haE1EWU5Gdmdpb0pNNng5dn",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejRHay1HNTBLUE5BR2xtZkk0YUNIR0JLeENDOUVENHlwVllZSlVJUW8xM2l3VEItTlkzWU4xc2Z6Qjc4cVE5UUtIbWRoRU1kTTh0UHc5bjRxRUd6MzB4NnlRY1F0aW9fMWVwTEpPY3BEbnBiaHlLS2pUOUhhbkdEeF81cllVYlhyMHNkT3dnZXZpeDRmSk5mWU9haE1EWU5Gdmdpb0pNNng5dnk1bHNyc3VkUXJMY1EzZkRQT1dpdDRuZw?oc=5",
+      "id": "064f03133308",
+      "title": "VACATIONS BY RAIL® REBRANDS TO GREAT RAIL JOURNEYS, BRINGING ICONIC RAIL TRAVEL EXPERIENCE TO THE US MARKET AS DEMAND FOR RAIL TRAVEL SURGES - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOc1F6YXFNZVdNS21XcUZDWFgwdHRVSm0zaVY2WU5yTmgyTUxycmpUTmRhR0Z0cjNnaWFpdjJmUWFiWHBpbDhXTGlXUHhZeGNCMXpHS3dLQklDVXNKeUpDa2k2SU0wUm1JOHdtR0Rqem53MHcxZlN2MUNlZENUZ25kZkdzckFrOFZ1M1U2QjlTUDM1M0t3UGVOdUUtVlJJRS1SY2c0QUxhZ1lIVG",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOc1F6YXFNZVdNS21XcUZDWFgwdHRVSm0zaVY2WU5yTmgyTUxycmpUTmRhR0Z0cjNnaWFpdjJmUWFiWHBpbDhXTGlXUHhZeGNCMXpHS3dLQklDVXNKeUpDa2k2SU0wUm1JOHdtR0Rqem53MHcxZlN2MUNlZENUZ25kZkdzckFrOFZ1M1U2QjlTUDM1M0t3UGVOdUUtVlJJRS1SY2c0QUxhZ1lIVG1TcHZvM3V5Wm5iY0tobGNCa2JpaXRLSjJMVWFNMHRSNGhmM2hXX084MmdSRnhwb0VIX3Zoa3h6SlVWSF9xMFJHRHk1M3F1QmY1b2Q4cXVzLS1HWnFhX1E0eVJwTkNLekhjQ3pIYlJ0LVZWTDR2ZGR0V2VXWkRKUzY4NkE?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 13:32:25 GMT",
-          "source": "Travel Weekly"
+          "published": "Mon, 13 Jul 2026 16:08:00 GMT",
+          "source": "Morningstar"
         }
       ]
     },
     {
-      "id": "d0da741d538c",
-      "title": "We’ve Tested 6,500 Travel Products—These Are the 10 Essentials We Never Fly Without - Travel + Leisure",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdGt2ZE9sTEhsSmNmRl9pdi1reHctTUZJQmFJTXR6RnFfX19nVnJfR2g2VUoxU05wNF9Ua3RPMEZpa3QzU2pLRlJUT3psd2xIZmVyTV9YbC1fZGFLUmZIVDdWUjBWMWlZb2pxU3FzSzM3SHdTbFE?oc=5\" target=\"_blank\">We’ve Tested 6,500 Travel Products—These Are the",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdGt2ZE9sTEhsSmNmRl9pdi1reHctTUZJQmFJTXR6RnFfX19nVnJfR2g2VUoxU05wNF9Ua3RPMEZpa3QzU2pLRlJUT3psd2xIZmVyTV9YbC1fZGFLUmZIVDdWUjBWMWlZb2pxU3FzSzM3SHdTbFE?oc=5",
+      "id": "e266df764c41",
+      "title": "Chicago named a top U.S. destination amid record-breaking tourism year - The Business Journals",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlo0SDRweDhJaGEwdkcwd2RaWjVWRDlnZG8wMGYwVTUyTkZDalh1Q29sb1dQeXdMNHh2VjlFX0dEQmFET2NSRG9zOHJnWlA0M25OQng4dlZTSFNEb1BoNTFmZ3p4SzBZU0hRQ2NkN2pDd3o4OVJzZ1hVYXNxM3dXckoxM2JoeGRGcFM1Zld1aw?oc=5\" target=\"_blank\">Chicago named",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlo0SDRweDhJaGEwdkcwd2RaWjVWRDlnZG8wMGYwVTUyTkZDalh1Q29sb1dQeXdMNHh2VjlFX0dEQmFET2NSRG9zOHJnWlA0M25OQng4dlZTSFNEb1BoNTFmZ3p4SzBZU0hRQ2NkN2pDd3o4OVJzZ1hVYXNxM3dXckoxM2JoeGRGcFM1Zld1aw?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-13T14:55:49+00:00",
+      "first_seen": "2026-07-13T19:43:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 12:36:26 GMT",
-          "source": "Travel + Leisure"
+          "published": "Mon, 13 Jul 2026 17:07:00 GMT",
+          "source": "The Business Journals"
         }
       ]
     }
