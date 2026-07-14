@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-07-13T19:52:21+00:00",
+  "generated_at": "2026-07-14T03:35:53+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
-      "id": "b507bc0c4545",
-      "title": "Hot weather travel advice - Northern Rail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcXB0ZjdSbV9rTkF5bThaMG9ibzBHOGR5VDQ0N1cwTktlUWV1THhabjhRWlJ2dDN0aE5YRGVTWkNPS3YwQlRkU0RocjVKdG82LTRUZm94dS1ZQzFXT2hScFQyTjdNY01xazNnczFEVlFEem1rZVlzWTV3eUI5ZzA?oc=5\" target=\"_blank\">Hot weather travel advice</a>&nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcXB0ZjdSbV9rTkF5bThaMG9ibzBHOGR5VDQ0N1cwTktlUWV1THhabjhRWlJ2dDN0aE5YRGVTWkNPS3YwQlRkU0RocjVKdG82LTRUZm94dS1ZQzFXT2hScFQyTjdNY01xazNnczFEVlFEem1rZVlzWTV3eUI5ZzA?oc=5",
+      "id": "af20ca384915",
+      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 22:42:33 GMT",
+          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+        }
+      ]
+    },
+    {
+      "id": "b507bc0c4545",
+      "title": "Hot weather travel advice - Northern Rail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcXB0ZjdSbV9rTkF5bThaMG9ibzBHOGR5VDQ0N1cwTktlUWV1THhabjhRWlJ2dDN0aE5YRGVTWkNPS3YwQlRkU0RocjVKdG82LTRUZm94dS1ZQzFXT2hScFQyTjdNY01xazNnczFEVlFEem1rZVlzWTV3eUI5ZzA?oc=5\" target=\"_blank\">Hot weather travel advice</a>&nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcXB0ZjdSbV9rTkF5bThaMG9ibzBHOGR5VDQ0N1cwTktlUWV1THhabjhRWlJ2dDN0aE5YRGVTWkNPS3YwQlRkU0RocjVKdG82LTRUZm94dS1ZQzFXT2hScFQyTjdNY01xazNnczFEVlFEem1rZVlzWTV3eUI5ZzA?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 06:28:00 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "af20ca384915",
-      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 16:40:15 GMT",
-          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
-        }
-      ]
-    },
-    {
-      "id": "02ca2e3df740",
-      "title": "Music Tourism Hit Record £11.2bn in 2025 Says UK Music - The Musicians' Union",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYU5TTnF6czRoM2xsZGhlOTAybU02Ni1IeDlpd0JlMjhJYlRxRzFvWWN4SzZTSzNGMGFyZDR3WGMxdG1sQzdXdzRfMHNpNWJhT3N1a01sVzJ2WW5KVjd0Yk8tX1BEclVtWFdIUFgtYUxoOGRwbDJPcllqTTVnQXktZmxXck1saTVZZVpBV1BlNERnVnRsNzFDcHR3?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYU5TTnF6czRoM2xsZGhlOTAybU02Ni1IeDlpd0JlMjhJYlRxRzFvWWN4SzZTSzNGMGFyZDR3WGMxdG1sQzdXdzRfMHNpNWJhT3N1a01sVzJ2WW5KVjd0Yk8tX1BEclVtWFdIUFgtYUxoOGRwbDJPcllqTTVnQXktZmxXck1saTVZZVpBV1BlNERnVnRsNzFDcHR3?oc=5",
+      "id": "547320419c46",
+      "title": "Travel agents see spending rebound after three months of decline - Travel Weekly - Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEdndUtrM2QtbzI2TjUweV9MaUs4eU1Kc2RpWmZGTzRtTU4ydk9oc2IwT19aMVI2NkhqNUstNzcxRXBzTkhDWnhaZ2ctVFRjZ0hJbjRXaVFoNFYxLXExWFZiQUdqZndRUlJtcTUxU2ljNGVmeUxnYUpWQ2lSYlZHb3JyeFZfS2tsa3lhNnctcVlFZnkzMHpCSDNMSi1obmdad0JVLXdR?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEdndUtrM2QtbzI2TjUweV9MaUs4eU1Kc2RpWmZGTzRtTU4ydk9oc2IwT19aMVI2NkhqNUstNzcxRXBzTkhDWnhaZ2ctVFRjZ0hJbjRXaVFoNFYxLXExWFZiQUdqZndRUlJtcTUxU2ljNGVmeUxnYUpWQ2lSYlZHb3JyeFZfS2tsa3lhNnctcVlFZnkzMHpCSDNMSi1obmdad0JVLXdR?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,19 +58,39 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
+      "first_seen": "2026-07-14T03:26:57+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 14:39:00 GMT",
-          "source": "The Musicians' Union"
+          "published": "Mon, 13 Jul 2026 23:25:02 GMT",
+          "source": "Travel Weekly - Home"
         }
       ]
     },
     {
-      "id": "d04b5ca49c75",
-      "title": "Travel by Hannah – National award as best travel agency at recent industry celebration - Marlborough News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmoxcFJCdlllc0YybkJxejhaSTI0MVBCTlNBLXRzcEJZNTBINlZ1VElEV2xhOEJ6WjZFSHg0UWZXOHBQS0VucFVoUkdXRXNDQ0d0SGdqekdVUG5HSGkySUQ2UUFOLVNrN25MSUtPTzZhbHlYVVl0Z3UtRVlBMGZoSGo4S2haRVQ4SW54MHltMkdNU09mTUFuZWN6M2wyRXVlSjhjb1dCN0FUNl",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmoxcFJCdlllc0YybkJxejhaSTI0MVBCTlNBLXRzcEJZNTBINlZ1VElEV2xhOEJ6WjZFSHg0UWZXOHBQS0VucFVoUkdXRXNDQ0d0SGdqekdVUG5HSGkySUQ2UUFOLVNrN25MSUtPTzZhbHlYVVl0Z3UtRVlBMGZoSGo4S2haRVQ4SW54MHltMkdNU09mTUFuZWN6M2wyRXVlSjhjb1dCN0FUNlJJRzVocm1Xa3hQQQ?oc=5",
+      "id": "a5e43ec641f6",
+      "title": "Ireland Immigration Update: Summer 2026 Travel Facilitation Measures Announced for IRP Card Holders - Newland Chase",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUG5adnZQRlBqWVpUVGR0dU5VSElFbnpRQVZ4Qzk4azZLZExxVnNpdmowT1plaFVxTEFYcXBjY08zMFRqSFY4N3ZEOGQxUnZSWGRDLXYweUcyUnppSzh6NFBaU0ZWUnZhc2NDVUtDRnVhVEFmdjFyRUhoSE0xUUVKTUd5Q1R3TFJUaDh5VnVLcUF0cjVkVm52NDJ3VnVJdWEwOUVCVFgxdDFqd2",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUG5adnZQRlBqWVpUVGR0dU5VSElFbnpRQVZ4Qzk4azZLZExxVnNpdmowT1plaFVxTEFYcXBjY08zMFRqSFY4N3ZEOGQxUnZSWGRDLXYweUcyUnppSzh6NFBaU0ZWUnZhc2NDVUtDRnVhVEFmdjFyRUhoSE0xUUVKTUd5Q1R3TFJUaDh5VnVLcUF0cjVkVm52NDJ3VnVJdWEwOUVCVFgxdDFqd2pLRW52cXg5RTRVUlZxUzZ4NmtHUTJNUQ?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 02:42:10 GMT",
+          "source": "Newland Chase"
+        }
+      ]
+    },
+    {
+      "id": "1a7da73956d8",
+      "title": "Solo female travel: how to handle harassment and travel on your own terms - TNT Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVBMSmhESlRRZEJwVDFNWWg3eTcxOVhGTXo1VXFxeEg3LVZMUk83VTluYkE5TE9YcDdOdDJZN053a1Bkd1ZlNjktYTl0WkRiVmxmazQyaXlXcDFBaUZWcDRsUHY0dWtRVWVESVo0aFg1QXppb25TNHRQMm5CcTZzX2NUaWY1a1JDRUstVkN5cUI4QQ?oc=5\" target=\"_blank\">Solo fema",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVBMSmhESlRRZEJwVDFNWWg3eTcxOVhGTXo1VXFxeEg3LVZMUk83VTluYkE5TE9YcDdOdDJZN053a1Bkd1ZlNjktYTl0WkRiVmxmazQyaXlXcDFBaUZWcDRsUHY0dWtRVWVESVo0aFg1QXppb25TNHRQMm5CcTZzX2NUaWY1a1JDRUstVkN5cUI4QQ?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -78,19 +98,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
+      "first_seen": "2026-07-14T03:26:57+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 12:54:28 GMT",
-          "source": "Marlborough News"
+          "published": "Mon, 13 Jul 2026 23:19:23 GMT",
+          "source": "TNT Magazine"
         }
       ]
     },
     {
-      "id": "33be0433e3be",
-      "title": "New active travel corridor set to connect Princes Park and Sefton Park - liverpoolexpress.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjlVVnExNFFoREZkVE5sb09RMmY3T1NpQTVkZE9CSXF2dWJPNm9idlBTeGEtWlRtMk56elIyQXYzWEZpcEE4TkFyb3NxUHVmaDJLZF9tQnBESjJod29ZQTF0bkFKTFV4LVA5bndSX0FoM0ZFU1dyeGxTc0NGTS1qNzJ0UVR4VHk5ak9oWjh6Ykw2VlV1THV6S0RTZEZraEFFRmxFcw?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjlVVnExNFFoREZkVE5sb09RMmY3T1NpQTVkZE9CSXF2dWJPNm9idlBTeGEtWlRtMk56elIyQXYzWEZpcEE4TkFyb3NxUHVmaDJLZF9tQnBESjJod29ZQTF0bkFKTFV4LVA5bndSX0FoM0ZFU1dyeGxTc0NGTS1qNzJ0UVR4VHk5ak9oWjh6Ykw2VlV1THV6S0RTZEZraEFFRmxFcw?oc=5",
+      "id": "5ef7841182ee",
+      "title": "I spent 72 hours in London with only a carry-on. Here’s how I did it in style - The Manual",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE05NFJKV2ZMTVZtTXhPMC1yaXU4RUZMZmxEWFFTTjFVakxIck9vaXVHZ05MVW40cTh5WlNyNUFEc2YyWDU3S3lhOXluLWdZMlBCdXV1eEdMNFZCdWw3Rm5BRklXWGY5UGR6ZDZvbXBn?oc=5\" target=\"_blank\">I spent 72 hours in London with only a carry-on. Here’s how",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05NFJKV2ZMTVZtTXhPMC1yaXU4RUZMZmxEWFFTTjFVakxIck9vaXVHZ05MVW40cTh5WlNyNUFEc2YyWDU3S3lhOXluLWdZMlBCdXV1eEdMNFZCdWw3Rm5BRklXWGY5UGR6ZDZvbXBn?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -98,19 +118,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
+      "first_seen": "2026-07-14T03:26:57+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 14:58:52 GMT",
-          "source": "liverpoolexpress.co.uk"
+          "published": "Mon, 13 Jul 2026 22:00:00 GMT",
+          "source": "The Manual"
         }
       ]
     },
     {
-      "id": "628987e6bf9e",
-      "title": "Conference news: Live Nation announce new music tourism summit - IQ Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdHJ6X1YtVVdkS3VaSFMtTGcyOEF2TzJ3bjdCMUktUUFlZXRNYVJHZV9TbXBzZDJNbFN1bHh5OG01NkRvbDgwZ25Vcll1Yk9HZzY3bWdDYzNObW1sZTJFbUEtb0ZqdEdya1BSVkJTTUlxMWVDdWtkbWR2SUw0bjl0SWVpdDgzckFBUlJCbElQZUszWFVmT0RxdHAyYldwZw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHJ6X1YtVVdkS3VaSFMtTGcyOEF2TzJ3bjdCMUktUUFlZXRNYVJHZV9TbXBzZDJNbFN1bHh5OG01NkRvbDgwZ25Vcll1Yk9HZzY3bWdDYzNObW1sZTJFbUEtb0ZqdEdya1BSVkJTTUlxMWVDdWtkbWR2SUw0bjl0SWVpdDgzckFBUlJCbElQZUszWFVmT0RxdHAyYldwZw?oc=5",
+      "id": "8a851c9c93a9",
+      "title": "Saudi Arabia introduces Electronic Travel Authorization for UK nationals - EY",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGZjRFQ3S2dfcG5RVEwzQ0NWd2JrYTBTWDVpWWxvSDlmYTl0eHFkX0ZHc2s1Z1B5YXg4eHNoM1U5VTVYVmU2Tk5Fa1pKQWVlZ1prc09JTUVINXZTcnY4a1h0djVpVWxkNmJHX3J4TkZhSjk2TkFZZldGcW1TVDhFRm13MEIyTFlwSWRfbW1ZSWFPNnRzNmwyaVhJUmQtZW9IaV9EQ3F5eGZrd2",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGZjRFQ3S2dfcG5RVEwzQ0NWd2JrYTBTWDVpWWxvSDlmYTl0eHFkX0ZHc2s1Z1B5YXg4eHNoM1U5VTVYVmU2Tk5Fa1pKQWVlZ1prc09JTUVINXZTcnY4a1h0djVpVWxkNmJHX3J4TkZhSjk2TkFZZldGcW1TVDhFRm13MEIyTFlwSWRfbW1ZSWFPNnRzNmwyaVhJUmQtZW9IaV9EQ3F5eGZrd2V6Rlln?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -118,255 +138,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
+      "first_seen": "2026-07-14T03:26:57+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 14:10:13 GMT",
-          "source": "IQ Magazine"
-        }
-      ]
-    },
-    {
-      "id": "f31ad3ecb7ca",
-      "title": "I’ve travelled alone for two decades – these are my favourite cities for solo breaks over 40 - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3A3eWxZMk1rY0wtbjc4VU1aSmppeWdxZHlIVVFaS3lHS3Q1NGg4MllxbXhrelhRVGJISnhGQzQzU2xheG9XWUExcDhXLXdwa2hkb3hkbTdWYnctd0lMb0Z4T0NvNS1XekgtbXZJTXN6ckZuUnB1ejBpbDdhMlBsV0pOMGFJVEdCcmZjTmtCZm9qclhoSW4tYlNzZlBlRkJF?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3A3eWxZMk1rY0wtbjc4VU1aSmppeWdxZHlIVVFaS3lHS3Q1NGg4MllxbXhrelhRVGJISnhGQzQzU2xheG9XWUExcDhXLXdwa2hkb3hkbTdWYnctd0lMb0Z4T0NvNS1XekgtbXZJTXN6ckZuUnB1ejBpbDdhMlBsV0pOMGFJVEdCcmZjTmtCZm9qclhoSW4tYlNzZlBlRkJF?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 09 Jul 2026 05:00:00 GMT",
-          "source": "The Independent"
-        }
-      ]
-    },
-    {
-      "id": "61ac3130b81b",
-      "title": "Nyetimber targets global travel retail in UK - Global Drinks Intel",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2gyVEpxaGdwYlRHMmJZNm1LUHdPbDd1TUFVZlp1SzRDQlZ1alIxY2doN0hjaklZRjZYcFJTRDRsSTN2WXEycjFWNndXcmtyUk5QUHFTTkQ3TWh6NjJDZzZ4amg1aTlka1ZZalJXMGh0RUtCaUJfNEJYcmZGZjJHeg?oc=5\" target=\"_blank\">Nyetimber targets global travel r",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2gyVEpxaGdwYlRHMmJZNm1LUHdPbDd1TUFVZlp1SzRDQlZ1alIxY2doN0hjaklZRjZYcFJTRDRsSTN2WXEycjFWNndXcmtyUk5QUHFTTkQ3TWh6NjJDZzZ4amg1aTlka1ZZalJXMGh0RUtCaUJfNEJYcmZGZjJHeg?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 18:23:57 GMT",
-          "source": "Global Drinks Intel"
-        }
-      ]
-    },
-    {
-      "id": "e974410052a7",
-      "title": "Share a tip on a book that inspired you to travel - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTW81anc1X1RfMUhJWnJzT2FQYllnazlxSmgzTzRsVWM2bFR4SUVWT2lFb3NBU0lvNklQZWZ3NExTdFZ6dV9zV1hfNEtWOEwxVnBwUUV4b0tIeVp0WS1KWk84RzhEWlpYQS1IcnlIRnpseGl0YXJBUnl2YTBUcThyV3B3cEViWEN2cE96Q2FCSmFod2tpZ3ZXWWdvLWU?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTW81anc1X1RfMUhJWnJzT2FQYllnazlxSmgzTzRsVWM2bFR4SUVWT2lFb3NBU0lvNklQZWZ3NExTdFZ6dV9zV1hfNEtWOEwxVnBwUUV4b0tIeVp0WS1KWk84RzhEWlpYQS1IcnlIRnpseGl0YXJBUnl2YTBUcThyV3B3cEViWEN2cE96Q2FCSmFod2tpZ3ZXWWdvLWU?oc=5",
-      "score": 59.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 14:06:00 GMT",
-          "source": "The Guardian"
-        },
-        {
-          "published": "Mon, 13 Jul 2026 14:14:53 GMT",
-          "source": "AOL.com"
-        }
-      ]
-    },
-    {
-      "id": "a69729c5d3a9",
-      "title": "Free travel offer for those with same name as World Cup star - RailAdvent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXRjbDhVcWNWaGtEcHhmUTM4R3RGWXVfSHhrd0ZUSEppMXN6T0hEZVFRX1NJa3dHbzhzTTI5UjRsQ19DcUZtZHU3Xy1kNDU0OTFYdGtRRnJnSFNIcUt4RUxUNUVrNUkzQUh1UWIwMlBncHpmMlNvYWNqbjlFVDFsVGlFRmNVMFFJZEQ0U0J6Mm9PN2d2emM5RU5XaXFSRHJnalNN?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXRjbDhVcWNWaGtEcHhmUTM4R3RGWXVfSHhrd0ZUSEppMXN6T0hEZVFRX1NJa3dHbzhzTTI5UjRsQ19DcUZtZHU3Xy1kNDU0OTFYdGtRRnJnSFNIcUt4RUxUNUVrNUkzQUh1UWIwMlBncHpmMlNvYWNqbjlFVDFsVGlFRmNVMFFJZEQ0U0J6Mm9PN2d2emM5RU5XaXFSRHJnalNN?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 12:00:00 GMT",
-          "source": "RailAdvent"
-        }
-      ]
-    },
-    {
-      "id": "a6dd3fd6fa3b",
-      "title": "The EU Just Approved New Rules For Air Travel: 13 Changes To Expect - HuffPost UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXhHMGNVUlB6dkFKMFhYdTdEQjdvSUZmdzVxUmhCN0s5bHd0WGNLR0FMbUpYaFlpbHlXWnBlMGxVMnVjeU10U1pSTk9oSFlHUTcxdGxfNjZINFppSWRGMjdNRFdPYjd3Vm5qZHc0TGJUOXpodUZTUmJ3LTNTeFR1TzFWTDNtUFp2QmZVOHpqUGRfUzliTlllMjYxdVBsUmtJTEp4OU5MUzdxeC",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXhHMGNVUlB6dkFKMFhYdTdEQjdvSUZmdzVxUmhCN0s5bHd0WGNLR0FMbUpYaFlpbHlXWnBlMGxVMnVjeU10U1pSTk9oSFlHUTcxdGxfNjZINFppSWRGMjdNRFdPYjd3Vm5qZHc0TGJUOXpodUZTUmJ3LTNTeFR1TzFWTDNtUFp2QmZVOHpqUGRfUzliTlllMjYxdVBsUmtJTEp4OU5MUzdxeC1BWWc?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 15:50:53 GMT",
-          "source": "HuffPost UK"
-        }
-      ]
-    },
-    {
-      "id": "3cab37446bfe",
-      "title": "New travel rules to affect Glasgow Airport passengers this summer - The National Scot",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQazlhOXprSExrR1BuVkFpckFVaklGRWRLMHk0d0ZsbGhVWV9SMWZobVZFQXpXT2x3bXB5eDFCVEJxTG9LdTN2MmwydHBxc1RVblhSdU5DS2RoRkYyZkEzZ0hSaVdEMjRoSnhxbWRVTGxMQkRBeWZBYS0tX1FqcDgwOU8zQ3MzSzQyMUg3UXAwdVZqY0E?oc=5\" target=\"_blank\">New trav",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQazlhOXprSExrR1BuVkFpckFVaklGRWRLMHk0d0ZsbGhVWV9SMWZobVZFQXpXT2x3bXB5eDFCVEJxTG9LdTN2MmwydHBxc1RVblhSdU5DS2RoRkYyZkEzZ0hSaVdEMjRoSnhxbWRVTGxMQkRBeWZBYS0tX1FqcDgwOU8zQ3MzSzQyMUg3UXAwdVZqY0E?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 17:05:14 GMT",
-          "source": "The National Scot"
-        }
-      ]
-    },
-    {
-      "id": "44aa394a12a4",
-      "title": "Free UK bus travel in major summer holiday boost - Oxford Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzNPT3FFYzZjbDZMeVdWeEsxOW95bkVDUXV6UWVlRTBQX0ptQzBNR2d4UVRKV0QtN0hncl9mNWlGUFpKTVM2NkdrbndHOGRJSUpJS0pPWmFQQ3gwa1UwUXV1N01BWXl4UHRZQXROUmdsTTUyeFZBZEFzbFM5OWhGcVhjOXlCOWxCTGtN?oc=5\" target=\"_blank\">Free UK bus travel ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzNPT3FFYzZjbDZMeVdWeEsxOW95bkVDUXV6UWVlRTBQX0ptQzBNR2d4UVRKV0QtN0hncl9mNWlGUFpKTVM2NkdrbndHOGRJSUpJS0pPWmFQQ3gwa1UwUXV1N01BWXl4UHRZQXROUmdsTTUyeFZBZEFzbFM5OWhGcVhjOXlCOWxCTGtN?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 14:45:00 GMT",
-          "source": "Oxford Mail"
-        }
-      ]
-    },
-    {
-      "id": "58b34480fce6",
-      "title": "UN Tourism ranks Angola one of Africa's best-performing destinations with 28% growth - Atta Travel.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZF95azV2clNiN3N2TzB1NktkRVBqY3ZCbkZRNUxmNWt0M1phR1hySlE5WFJEaUVoN1NyNkdKUXJiaHNoVGtnTVBIVldMeVFzSkhVTTVzWEpoanMzUTlSYVIwS2dna2hweEllcDlpWldlOTdQRDNLTTJLbGROVWhLYms1MkptSEd6UzBlZXNYX2VXZGY1QW05RFgwblc4bHdwSGoyYk1WTlhWb1",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZF95azV2clNiN3N2TzB1NktkRVBqY3ZCbkZRNUxmNWt0M1phR1hySlE5WFJEaUVoN1NyNkdKUXJiaHNoVGtnTVBIVldMeVFzSkhVTTVzWEpoanMzUTlSYVIwS2dna2hweEllcDlpWldlOTdQRDNLTTJLbGROVWhLYms1MkptSEd6UzBlZXNYX2VXZGY1QW05RFgwblc4bHdwSGoyYk1WTlhWb1ZZU1lSYnVscmdEOUhoM2c?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 16:57:35 GMT",
-          "source": "Atta Travel."
-        }
-      ]
-    },
-    {
-      "id": "ee2ee90c2d64",
-      "title": "'A genuine break from the heat': travel experts share their favourite cooler European destinations - Metro.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTVYbEJuVnd6NXBNcTR0SGxfVm9nd0F6LUxCSi1tYXVYbjhicWduQlZGQXRvamtmbHJNVXIwR0N1c2F6dmp1TUwzTG15TG12ckt5MEVRem16TFg1VXVNYWx3WENRcWgyd3otclpEUFVrcTVHVmRwR3ppdWR2cmhFbWM5dk9MTy00aGFJS3VDSExkWW42Rm90ZFZhblViMEdBSzk5ZGhmSWtZT1",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTVYbEJuVnd6NXBNcTR0SGxfVm9nd0F6LUxCSi1tYXVYbjhicWduQlZGQXRvamtmbHJNVXIwR0N1c2F6dmp1TUwzTG15TG12ckt5MEVRem16TFg1VXVNYWx3WENRcWgyd3otclpEUFVrcTVHVmRwR3ppdWR2cmhFbWM5dk9MTy00aGFJS3VDSExkWW42Rm90ZFZhblViMEdBSzk5ZGhmSWtZT182Z3FnQjFEdThzcU9QSkdkNkNn0gHDAUFVX3lxTFBEVXM0YlpHdXJDMHdWWGc2QktTY1Rld05YTWo2VFZkMXhyX21VOUVYZ0pkMGtPRVUyRVlnLWpyTElRT2E3MmNNejJnNlp1QzNfTEp0VDdPYm8zMW5uSkVkX0tIa3NCZ0laOUFsUkdLRE9GSHVVU1ZPRktsZVJBbGZVS0xjMElTNi1kR1FpMkdxQzI4SVh2NThCWk1lTXpabGNyeEdLY29hNUNqblZYWGp5dE1uZEVtUlRqQldYU1htRlRrRQ?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 13:44:00 GMT",
-          "source": "Metro.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "862dfacf716e",
-      "title": "Travel insurers introduce in-app emergency calling as roaming habits evolve - itij.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2dJODhZal9sN2JjcXUzUGhPcTR0NV9tSGpWSWJBNFhKNUNtbFhsU1pOckhGcGliVzN5T0REQzZYT0otRTdQUUZmanotZFJwRzhxbktScHN1bm9aY1huRkNRM0V3UWlwVnlnYk9nUXdDVWFBREw3dm83TGx6YUFJX1VQQkRoXzVSVGxXUVVBNDE4dlQ5eV9PR0NrVjRaLUZCcTlPQQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2dJODhZal9sN2JjcXUzUGhPcTR0NV9tSGpWSWJBNFhKNUNtbFhsU1pOckhGcGliVzN5T0REQzZYT0otRTdQUUZmanotZFJwRzhxbktScHN1bm9aY1huRkNRM0V3UWlwVnlnYk9nUXdDVWFBREw3dm83TGx6YUFJX1VQQkRoXzVSVGxXUVVBNDE4dlQ5eV9PR0NrVjRaLUZCcTlPQQ?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 14:06:37 GMT",
-          "source": "itij.com"
-        }
-      ]
-    },
-    {
-      "id": "f53fe537554d",
-      "title": "Contactless 'Tap On, Tap Off' Travel Rolls Out Across East Yorkshire Bus Network - Safer Highways",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlp4STJMQUVZNkZQd3d3VW50anlsRGREYlV3UGhNcnNLdTFZNVhIZWhmYlJmV01UeC1BZ25GdElIb05wY0M4clgwZnh5eDdOWjVOTjZOWUppZXVaZkJFOWVqcDFnbXV5ZTRSTGVVLUtXQ1kxYWtGdkZObWJmYjE5Rmx0Z05SbVUwb3JsRDdPaUl1ZlA5Ml8xTlk2UlNNQnplYTFWaTdaZjZhQU",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlp4STJMQUVZNkZQd3d3VW50anlsRGREYlV3UGhNcnNLdTFZNVhIZWhmYlJmV01UeC1BZ25GdElIb05wY0M4clgwZnh5eDdOWjVOTjZOWUppZXVaZkJFOWVqcDFnbXV5ZTRSTGVVLUtXQ1kxYWtGdkZObWJmYjE5Rmx0Z05SbVUwb3JsRDdPaUl1ZlA5Ml8xTlk2UlNNQnplYTFWaTdaZjZhQU1aTEFhcFl1emM?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 16:45:18 GMT",
-          "source": "Safer Highways"
-        }
-      ]
-    },
-    {
-      "id": "ccd1fa1744b9",
-      "title": "This Swaddling Arm-Supporting Sling Gives Me T-Rex Arms. It’s My Most Comfortable Travel Accessory. - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seDFXcTFDakN5c01hOVB4ckV1cFlrTDNHaUJ5SzlFc1NuWE5raHBEc0d3SHdnTEZHOEpxQngzMHdDQmlvMUFEWkozNHRFTG9Mb2Y0SG9yaWhhUlA1TS05bnNvRDhLT0o0?oc=5\" target=\"_blank\">This Swaddling Arm-Supporting Sling Gives Me T-Rex Arms. It’s My Mo",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seDFXcTFDakN5c01hOVB4ckV1cFlrTDNHaUJ5SzlFc1NuWE5raHBEc0d3SHdnTEZHOEpxQngzMHdDQmlvMUFEWkozNHRFTG9Mb2Y0SG9yaWhhUlA1TS05bnNvRDhLT0o0?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 16:11:49 GMT",
-          "source": "The New York Times"
+          "published": "Tue, 14 Jul 2026 02:08:12 GMT",
+          "source": "EY"
         }
       ]
     },
@@ -375,6 +151,246 @@
       "title": "Foreign Office issues 'high risk' travel update for Turkey, Spain and Cyprus - Wales Online",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkNpbXF1aC1Sb3FIa3VhcU1yNGpfWFhZdFVuaDdUVEtuR01td2U3UWYtcTlGS2JjYV9VOEg4a1lBSVhEWnYyZnFubkJ5UXM1elhDQ2MxUUg5a0F1eWQ0UXI2R1ZNWlAwaEVjcWFLZExpcE10WEdJNHR3aDhuOF8xUnA5OVlRTUtjTE5MYkNkVdIBlAFBVV95cUxQNkdKcVYwQjVJX1dySGJyRD",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkNpbXF1aC1Sb3FIa3VhcU1yNGpfWFhZdFVuaDdUVEtuR01td2U3UWYtcTlGS2JjYV9VOEg4a1lBSVhEWnYyZnFubkJ5UXM1elhDQ2MxUUg5a0F1eWQ0UXI2R1ZNWlAwaEVjcWFLZExpcE10WEdJNHR3aDhuOF8xUnA5OVlRTUtjTE5MYkNkVdIBlAFBVV95cUxQNkdKcVYwQjVJX1dySGJyRDhVUGdVX2NRNERtTVF4RzlhcnR5eDN0dlVzRU9uQUo4OEJ3T2dIRzBoNVZSTDZKQkJlNzlYNncxUVdMUk93UVRrWXBsdzFYZGdnazQwaU8wajNyQmxiWWlERUdFTUZmcEdIaGhDTVQ5SWowYlBXdzVwaVhjcm9XbXA5SHNw?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 15:34:00 GMT",
+          "source": "Wales Online"
+        }
+      ]
+    },
+    {
+      "id": "ef4a1d88b282",
+      "title": "Brown-Forman VP unveils strategy for travel retail alcohol growth - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3pkWDduRS16WHBac2llRnk1V3lpNTdCTDRSZ1VubGZqQ3BhMEtIZTJiNU5ZWVlGeTBQMnB5djRPT2VHNnVWMzZfR3FRbFRRanMwNVZpR2MteVBYZXlJV3NYMVBBWmxRWU4tUkM3V3ViRU9pTDAtYW5MX25DdWJiOUw5NVUwTV9KN1luMVNSYzFjek42dy1DMXdOQjZZTktGSHlJN0t4WjlnRF",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3pkWDduRS16WHBac2llRnk1V3lpNTdCTDRSZ1VubGZqQ3BhMEtIZTJiNU5ZWVlGeTBQMnB5djRPT2VHNnVWMzZfR3FRbFRRanMwNVZpR2MteVBYZXlJV3NYMVBBWmxRWU4tUkM3V3ViRU9pTDAtYW5MX25DdWJiOUw5NVUwTV9KN1luMVNSYzFjek42dy1DMXdOQjZZTktGSHlJN0t4WjlnRFkzeE9wUDVSbmRNQQ?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 01:59:50 GMT",
+          "source": "FoodNavigator.com"
+        }
+      ]
+    },
+    {
+      "id": "535a8f1f8d32",
+      "title": "Sancerre travel review: How to spend 48 hours in France's Sauvignon Blanc capital - cosmopolitan.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORXI1clkxbS00azdOajJ2V21tN0R6MVdaUDA2UnVRV0w2Z2xWdWZ4UkpxVlJtdzRLeXV4SzliUGNyTXBNY1JMN1hVZXdMVFctVzJWc0lzU09FbDE4c3k0d09ReEdNekxWcjAzZURpeFg1WlB5YldrVGF2UUdrbUFsUUxhalItend5Y3c?oc=5\" target=\"_blank\">Sancerre travel revi",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORXI1clkxbS00azdOajJ2V21tN0R6MVdaUDA2UnVRV0w2Z2xWdWZ4UkpxVlJtdzRLeXV4SzliUGNyTXBNY1JMN1hVZXdMVFctVzJWc0lzU09FbDE4c3k0d09ReEdNekxWcjAzZURpeFg1WlB5YldrVGF2UUdrbUFsUUxhalItend5Y3c?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 19:43:59 GMT",
+          "source": "cosmopolitan.com"
+        }
+      ]
+    },
+    {
+      "id": "ec4073de8ec6",
+      "title": "I’ve travelled alone for 20 years – these are my favourite solo breaks for over 40s - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3A3eWxZMk1rY0wtbjc4VU1aSmppeWdxZHlIVVFaS3lHS3Q1NGg4MllxbXhrelhRVGJISnhGQzQzU2xheG9XWUExcDhXLXdwa2hkb3hkbTdWYnctd0lMb0Z4T0NvNS1XekgtbXZJTXN6ckZuUnB1ejBpbDdhMlBsV0pOMGFJVEdCcmZjTmtCZm9qclhoSW4tYlNzZlBlRkJF?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3A3eWxZMk1rY0wtbjc4VU1aSmppeWdxZHlIVVFaS3lHS3Q1NGg4MllxbXhrelhRVGJISnhGQzQzU2xheG9XWUExcDhXLXdwa2hkb3hkbTdWYnctd0lMb0Z4T0NvNS1XekgtbXZJTXN6ckZuUnB1ejBpbDdhMlBsV0pOMGFJVEdCcmZjTmtCZm9qclhoSW4tYlNzZlBlRkJF?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 09 Jul 2026 05:00:00 GMT",
+          "source": "The Independent"
+        }
+      ]
+    },
+    {
+      "id": "ba23b64102a5",
+      "title": "EES delays risk 41 million arrivals, tourism council warns - ETIAS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTUwZU9wd0Zfb1VNdXpUNjFEN3dLVVhBenZqOXZWN3FOOGtwTk84OFhpRnRibEIxdXRrXzlwa2R6V3FITC1UT1FzeTdHdE9VbGJNRV80VGtUMWdCaDlVLWxIWjIxZ1MyeG1FYzhmSXhkTTVIRENtUUhWeHJyNWhBQkFFOEE2NVV0MWxpR0lR?oc=5\" target=\"_blank\">EES delays risk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTUwZU9wd0Zfb1VNdXpUNjFEN3dLVVhBenZqOXZWN3FOOGtwTk84OFhpRnRibEIxdXRrXzlwa2R6V3FITC1UT1FzeTdHdE9VbGJNRV80VGtUMWdCaDlVLWxIWjIxZ1MyeG1FYzhmSXhkTTVIRENtUUhWeHJyNWhBQkFFOEE2NVV0MWxpR0lR?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 00:02:18 GMT",
+          "source": "ETIAS.com"
+        }
+      ]
+    },
+    {
+      "id": "bda10b1c860b",
+      "title": "Travelers Get a Reprieve as Europe Pushes Back Its ETIAS Entry Requirement Again - AFAR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUF94Qm5tQmxpdUVrOVhVQVlzTXhKdUgxdGNYNm5qMm5BUEw3aXpmVFU5SVRDZFNpZC1FQjhBSEE2Wi1mTzltSFZPMVgyN2daWk9vQVpQUDY0VnB3U3lFYnBBdDJKRG9JenNSYnpWRU5zSVI0OGRkYldRTk5rNGJvaElZZnZ2YndM?oc=5\" target=\"_blank\">Travelers Get a Repriev",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUF94Qm5tQmxpdUVrOVhVQVlzTXhKdUgxdGNYNm5qMm5BUEw3aXpmVFU5SVRDZFNpZC1FQjhBSEE2Wi1mTzltSFZPMVgyN2daWk9vQVpQUDY0VnB3U3lFYnBBdDJKRG9JenNSYnpWRU5zSVI0OGRkYldRTk5rNGJvaElZZnZ2YndM?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 21:15:52 GMT",
+          "source": "AFAR"
+        }
+      ]
+    },
+    {
+      "id": "37cdc54343db",
+      "title": "US imposes new sanctions on Cuba tourism ministry, state-owned companies - Al Jazeera",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxON19vWU1id2hTVHBZMV9vbk1xa1FhNkxORHRmS0lkbjlXVlNaRXZnbEJIM2pKSF9tanNaMWVOMnpDdE5QUmUtTnBNSTZSaUZIZHA5QnUzOEd2ZTdBRXg0UWlfYTVRQXBZVWhUMVlPRjBiZHhzaXpMelp1TXJYSHhNTUlpMTFabk9FODN0S0Z3eHc2Q2ZfeUw4SElLNHFJYlppU0swbG0wN1JYQk",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON19vWU1id2hTVHBZMV9vbk1xa1FhNkxORHRmS0lkbjlXVlNaRXZnbEJIM2pKSF9tanNaMWVOMnpDdE5QUmUtTnBNSTZSaUZIZHA5QnUzOEd2ZTdBRXg0UWlfYTVRQXBZVWhUMVlPRjBiZHhzaXpMelp1TXJYSHhNTUlpMTFabk9FODN0S0Z3eHc2Q2ZfeUw4SElLNHFJYlppU0swbG0wN1JYQkM5dUlQNF9wVXFKZ9IBuwFBVV95cUxNWHBEUDlZeEdkRnNGaElNVFZRendSNDJNMmI4V1ZMcjNDWnY5XzNWdV9EbmF1ckpBLWFzMkszT0NET1dsaU5jZEdTWUpBVUE5dE9vZlNCWEtYU1lKWjBsRkR5bmZhRzZyeTdyNGVIeFZHeUJOU21KLXhmT1hLZnBvQldIem1MNHpkcVdVTnFHdkVZbW45VS1QY3U3UkVNdFVGNDhjajZ5cVZvMng1Y1EyZGJRS3FkdlJpVE80?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 16:19:14 GMT",
+          "source": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "id": "61ac3130b81b",
+      "title": "Nyetimber targets global travel retail in UK - Global Drinks Intel",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2gyVEpxaGdwYlRHMmJZNm1LUHdPbDd1TUFVZlp1SzRDQlZ1alIxY2doN0hjaklZRjZYcFJTRDRsSTN2WXEycjFWNndXcmtyUk5QUHFTTkQ3TWh6NjJDZzZ4amg1aTlka1ZZalJXMGh0RUtCaUJfNEJYcmZGZjJHeg?oc=5\" target=\"_blank\">Nyetimber targets global travel r",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2gyVEpxaGdwYlRHMmJZNm1LUHdPbDd1TUFVZlp1SzRDQlZ1alIxY2doN0hjaklZRjZYcFJTRDRsSTN2WXEycjFWNndXcmtyUk5QUHFTTkQ3TWh6NjJDZzZ4amg1aTlka1ZZalJXMGh0RUtCaUJfNEJYcmZGZjJHeg?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 18:23:57 GMT",
+          "source": "Global Drinks Intel"
+        }
+      ]
+    },
+    {
+      "id": "cb2b76699982",
+      "title": "Spending with travel agents grows in June after three months of decline - Cruise Trade News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVnhqUDZXZjJmUWZXZWpUR1VLTG52Rk1DOVdEU05EdGZYT19hNDFOOFh4SFVZMkN1U1BNb2x1VkJfbEVRcU9rMHMySEgxRmc4aDc3UVEtVDJPaTdpWWNUaGVlX21WSFUwQUxSYUF6N0R3eDNINzJ0Wm9TMERBQnluVG5SY0xBZ3NhQ0haOXVzWUhWWUNJVy1xcnl0cm9RWURQRldlMFlJQQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVnhqUDZXZjJmUWZXZWpUR1VLTG52Rk1DOVdEU05EdGZYT19hNDFOOFh4SFVZMkN1U1BNb2x1VkJfbEVRcU9rMHMySEgxRmc4aDc3UVEtVDJPaTdpWWNUaGVlX21WSFUwQUxSYUF6N0R3eDNINzJ0Wm9TMERBQnluVG5SY0xBZ3NhQ0haOXVzWUhWWUNJVy1xcnl0cm9RWURQRldlMFlJQQ?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 01:31:01 GMT",
+          "source": "Cruise Trade News"
+        }
+      ]
+    },
+    {
+      "id": "5ceda9784c58",
+      "title": "EU approves new passenger rights for air travel - dw.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9kVVEtb3l2QWpOcDhkMHRhLTRBNVJrVGdUSFdJYTNWbVZNREJQcEVOUHBSQjV2aW1qNG0xV2Qzd0Y1SUVvNHgzNERzUW9uRV9QWVJSeTNLdEh1cFFfVFJWU3gzY1JZZk9XMkxaZmhkdkxPZXNfWU9xWXNn0gF6QVVfeXFMTlJXY3RERmlDcjdESncwRlJpNmItOVYyc21tVm1NTGg1WTFGRzE1dG",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kVVEtb3l2QWpOcDhkMHRhLTRBNVJrVGdUSFdJYTNWbVZNREJQcEVOUHBSQjV2aW1qNG0xV2Qzd0Y1SUVvNHgzNERzUW9uRV9QWVJSeTNLdEh1cFFfVFJWU3gzY1JZZk9XMkxaZmhkdkxPZXNfWU9xWXNn0gF6QVVfeXFMTlJXY3RERmlDcjdESncwRlJpNmItOVYyc21tVm1NTGg1WTFGRzE1dGtJZmtEVFQ5Vl93UlBnai01ZnBaV0FSajNvSl9zS0VhMmc4SVQ5VVNsSGRiWXFZZlVnbEdKYWVYZDNMQUhEcWcwUmJYWF9rbGszMGc?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 07:01:27 GMT",
+          "source": "dw.com"
+        }
+      ]
+    },
+    {
+      "id": "83ed36758a68",
+      "title": "TAT sets out 2027 tourism strategy with THB2.9 trillion revenue goal - Nation Thailand",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jZzJtU0RCa2wxN0RuYXFUY25HWEVGclJoN2dIb0x4NlFoWC12N0tlM0dHRUYwYkNvc21TbHhVdzBXczc3SXRBV05rdVZMQlJUX0VWRXV6UDYzV0pBWEtpYk5WZTlHeDQ?oc=5\" target=\"_blank\">TAT sets out 2027 tourism strategy with THB2.9 trillion revenue goal",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jZzJtU0RCa2wxN0RuYXFUY25HWEVGclJoN2dIb0x4NlFoWC12N0tlM0dHRUYwYkNvc21TbHhVdzBXczc3SXRBV05rdVZMQlJUX0VWRXV6UDYzV0pBWEtpYk5WZTlHeDQ?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 01:19:00 GMT",
+          "source": "Nation Thailand"
+        }
+      ]
+    },
+    {
+      "id": "58754383177c",
+      "title": "Best Ski Resort 2026: Which top ski destinations in the Alps have the most satisfied guests? - Snow Industry News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTHlrRy1vMXRoR1YxYjNjTHh5X3Rpc0Z3LWlzampkcFlOYndGUXFQaU1aSnZIeTBRQldMdnB3X0JBZFo1NnNDMWE1M0ZucXUtN3JMU0M1clJhU3lEeG1nWk12ajQyemlyeE95Tm1OeDI0NWRJRzdwODh3OEFHUjlfejN5Z1BMcVZNNmd5S2FfTlN1TjNBVWZWLVp6Z2NMcG1uUVRDZFllOUtQRW",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTHlrRy1vMXRoR1YxYjNjTHh5X3Rpc0Z3LWlzampkcFlOYndGUXFQaU1aSnZIeTBRQldMdnB3X0JBZFo1NnNDMWE1M0ZucXUtN3JMU0M1clJhU3lEeG1nWk12ajQyemlyeE95Tm1OeDI0NWRJRzdwODh3OEFHUjlfejN5Z1BMcVZNNmd5S2FfTlN1TjNBVWZWLVp6Z2NMcG1uUVRDZFllOUtQRWNvNG1NY1JsR21XSUphMi1SMXJibkxXRXdldmdDejlEUks5bnN6X21QTi1DeU1vN3pqZ1dZMzd2SQ?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-14T03:26:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 01:01:17 GMT",
+          "source": "Snow Industry News"
+        }
+      ]
+    },
+    {
+      "id": "f5bc37b3df20",
+      "title": "Ipswich Buses invests in new technology to make travel easier and more accessible - ipswich.gov.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOekxsSDFidThlaVQ0dEkxVHlrS3U5TVdvb3o2R2s2ak93MmxYQTB3azhUakpFOWJkUXdiNlNmQkhpZDY4Z0pwRUR6Y3pGdHgyLS1YNndyNHVjY0J2aHMySWJ4ZnRHbFdILTc4Z1d2ellNc1c3V0x1c2JRM3NjZ0pmNmZYRXBkUjYxazB1cFQwZjRJd0RWZWx1RktEb1dUM1JCWUVQZ0ZBQzJXTm",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOekxsSDFidThlaVQ0dEkxVHlrS3U5TVdvb3o2R2s2ak93MmxYQTB3azhUakpFOWJkUXdiNlNmQkhpZDY4Z0pwRUR6Y3pGdHgyLS1YNndyNHVjY0J2aHMySWJ4ZnRHbFdILTc4Z1d2ellNc1c3V0x1c2JRM3NjZ0pmNmZYRXBkUjYxazB1cFQwZjRJd0RWZWx1RktEb1dUM1JCWUVQZ0ZBQzJXTmY1RmkzVUF0eklkRDRHQXBLS3UxZFpHQQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-13T19:43:30+00:00",
+      "first_seen": "2026-07-14T03:26:57+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 15:34:00 GMT",
-          "source": "Wales Online"
+          "published": "Fri, 10 Jul 2026 10:43:04 GMT",
+          "source": "ipswich.gov.uk"
         }
       ]
     }
