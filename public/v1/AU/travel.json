@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "AU",
-  "generated_at": "2026-07-14T14:17:57+00:00",
+  "generated_at": "2026-07-14T19:49:51+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "a7e51f58ac1e",
-      "title": "Corporate Travel in last-ditch UK talks to stave off insolvency - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY21NdUhzUW0zN0Q0U2NOZW53UW9ibUFxUFlmeWVMMERyMHJ3QmxJZk9vVnZfZDViT3RBOTFPNWlNeG95a0ZoT01FajBrMmJzU2tmNEZ1MGVDbVpCVVhYRU50NTkteVZmTWRzQXo3ekNJUUh3Q3Vlam9wZ2V5NkdPZ25WS3BhdHRCamNKajdiRWNFWkxSQl9ITk0tbjRwS2syV1VPVXE0UmFfUD",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY21NdUhzUW0zN0Q0U2NOZW53UW9ibUFxUFlmeWVMMERyMHJ3QmxJZk9vVnZfZDViT3RBOTFPNWlNeG95a0ZoT01FajBrMmJzU2tmNEZ1MGVDbVpCVVhYRU50NTkteVZmTWRzQXo3ekNJUUh3Q3Vlam9wZ2V5NkdPZ25WS3BhdHRCamNKajdiRWNFWkxSQl9ITk0tbjRwS2syV1VPVXE0UmFfUDRxS1BNYVJqTGlBenptRmxV?oc=5",
+      "id": "51c2eb6c727a",
+      "title": "The real World Cup winners: Nine countries I’m now keen to visit - SMH.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXBoR2NhbFdTOU8xeGdIZTN1eV9PT01BanhuOG5aUzNZNnQzSERwcnNvdk9PLS1YdDlfY1VZdUtzOVNRX19yWkZGV2JENG1hNGVQTTVrazVGWWN5R0UwSHJFdlhjaHVPd3VhdTFYeGt1TVQwV3dDNWtFbzVLUjdWNjkxLXZncFQxZEZtcmUtSUFwendvdXB0UVBzcnJEbHFUQ2hVa0hGaWJ1VW",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXBoR2NhbFdTOU8xeGdIZTN1eV9PT01BanhuOG5aUzNZNnQzSERwcnNvdk9PLS1YdDlfY1VZdUtzOVNRX19yWkZGV2JENG1hNGVQTTVrazVGWWN5R0UwSHJFdlhjaHVPd3VhdTFYeGt1TVQwV3dDNWtFbzVLUjdWNjkxLXZncFQxZEZtcmUtSUFwendvdXB0UVBzcnJEbHFUQ2hVa0hGaWJ1VWFWaUhxcHNrTFh0Rm5lUEh5QTFkZFFtWjlrLXVpVg?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 19:00:00 GMT",
+          "source": "SMH.com.au"
+        }
+      ]
+    },
+    {
+      "id": "a7e51f58ac1e",
+      "title": "Corporate Travel in last-ditch UK talks to stave off insolvency - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY21NdUhzUW0zN0Q0U2NOZW53UW9ibUFxUFlmeWVMMERyMHJ3QmxJZk9vVnZfZDViT3RBOTFPNWlNeG95a0ZoT01FajBrMmJzU2tmNEZ1MGVDbVpCVVhYRU50NTkteVZmTWRzQXo3ekNJUUh3Q3Vlam9wZ2V5NkdPZ25WS3BhdHRCamNKajdiRWNFWkxSQl9ITk0tbjRwS2syV1VPVXE0UmFfUD",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY21NdUhzUW0zN0Q0U2NOZW53UW9ibUFxUFlmeWVMMERyMHJ3QmxJZk9vVnZfZDViT3RBOTFPNWlNeG95a0ZoT01FajBrMmJzU2tmNEZ1MGVDbVpCVVhYRU50NTkteVZmTWRzQXo3ekNJUUh3Q3Vlam9wZ2V5NkdPZ25WS3BhdHRCamNKajdiRWNFWkxSQl9ITk0tbjRwS2syV1VPVXE0UmFfUDRxS1BNYVJqTGlBenptRmxV?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 02:24:00 GMT",
@@ -27,18 +47,38 @@
       ]
     },
     {
-      "id": "a63ba675d6ef",
-      "title": "Parents report widespread family travel stress, AA research finds - Insurance Business",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUp1WkprZzdkcWlVdWt6eFgzSzkzOUNrVk56TE5GOHg1YUdIRDVQS2M0RFd6Zm4xRnJsUGM5dmhTOWM3YmUxN3lrZUYtazVWWFZZejZrUkIteTU0RFlNRDUtZFh4U28xN3BmY19HbjRWb3czLUgtVFAxX2ZDd3pCQWgwRTdSYTRSSG50VjdGVGdkeFUwN1lWTVkxd1lDRWFqUG9qa2ZHY2owd0",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUp1WkprZzdkcWlVdWt6eFgzSzkzOUNrVk56TE5GOHg1YUdIRDVQS2M0RFd6Zm4xRnJsUGM5dmhTOWM3YmUxN3lrZUYtazVWWFZZejZrUkIteTU0RFlNRDUtZFh4U28xN3BmY19HbjRWb3czLUgtVFAxX2ZDd3pCQWgwRTdSYTRSSG50VjdGVGdkeFUwN1lWTVkxd1lDRWFqUG9qa2ZHY2owd0ZITU5vVXJOeU1RajEtR0tDazBGdDBvNVk5aWFN?oc=5",
-      "score": 86.4,
+      "id": "e8c0cc403a70",
+      "title": "Quiz: Dust off your passport and join us on a trip - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE53ZmtSZ2xUaWNLYUljd05SZXQwVGRISjA3RkdBdk5iaHBkYkpNc1RrVUN4QlNIWGdnTVk0QndXNEdGbXlwRlBNbk5WQWc3cF9DcHRfa3hWOTVnYU5LN01nTXBQeHdlRWZCblBkR3pqYkNsalNtaTBz?oc=5\" target=\"_blank\">Quiz: Dust off your passport and join us on a t",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53ZmtSZ2xUaWNLYUljd05SZXQwVGRISjA3RkdBdk5iaHBkYkpNc1RrVUN4QlNIWGdnTVk0QndXNEdGbXlwRlBNbk5WQWc3cF9DcHRfa3hWOTVnYU5LN01nTXBQeHdlRWZCblBkR3pqYkNsalNtaTBz?oc=5",
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 18:30:00 GMT",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ]
+    },
+    {
+      "id": "a63ba675d6ef",
+      "title": "Parents report widespread family travel stress, AA research finds - Insurance Business",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUp1WkprZzdkcWlVdWt6eFgzSzkzOUNrVk56TE5GOHg1YUdIRDVQS2M0RFd6Zm4xRnJsUGM5dmhTOWM3YmUxN3lrZUYtazVWWFZZejZrUkIteTU0RFlNRDUtZFh4U28xN3BmY19HbjRWb3czLUgtVFAxX2ZDd3pCQWgwRTdSYTRSSG50VjdGVGdkeFUwN1lWTVkxd1lDRWFqUG9qa2ZHY2owd0",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUp1WkprZzdkcWlVdWt6eFgzSzkzOUNrVk56TE5GOHg1YUdIRDVQS2M0RFd6Zm4xRnJsUGM5dmhTOWM3YmUxN3lrZUYtazVWWFZZejZrUkIteTU0RFlNRDUtZFh4U28xN3BmY19HbjRWb3czLUgtVFAxX2ZDd3pCQWgwRTdSYTRSSG50VjdGVGdkeFUwN1lWTVkxd1lDRWFqUG9qa2ZHY2owd0ZITU5vVXJOeU1RajEtR0tDazBGdDBvNVk5aWFN?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 13:41:46 GMT",
@@ -47,18 +87,58 @@
       ]
     },
     {
-      "id": "38d54b37a1c0",
-      "title": "Could the UAE and Qatar return to a 'do not travel' warning? What Aussies need to know - The Canberra Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXRtZmd6NHp3RlVncERkNlhaVDFfNWh3NGRVVlo5ZWRJY3ZmdGZ0ZEZvUDhIbXdGcVNSczJkTVh4d3U4UXNaTmtzWUp5aTZfaWpEMks1cXNuZDdfRWNwVmVfZnkycDQ5bzBORGx5bElLN29DSTVrNmw2S2NFa0JRVmtwNWIzTEVCWl9qVi1hYm5ucURzVTBtOXRNc01PbWxwSjhXQVBsdnFFdH",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXRtZmd6NHp3RlVncERkNlhaVDFfNWh3NGRVVlo5ZWRJY3ZmdGZ0ZEZvUDhIbXdGcVNSczJkTVh4d3U4UXNaTmtzWUp5aTZfaWpEMks1cXNuZDdfRWNwVmVfZnkycDQ5bzBORGx5bElLN29DSTVrNmw2S2NFa0JRVmtwNWIzTEVCWl9qVi1hYm5ucURzVTBtOXRNc01PbWxwSjhXQVBsdnFFdHU4c1d6QXBB?oc=5",
-      "score": 82.8,
+      "id": "41abaa5b5f08",
+      "title": "Who is ‘stealing’ Bali’s water? How tourism siphoned off a prized resource - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNm5KdWw1WXcxSEFWaHFocTNLTXhvTGRpTGpWTEZjQ2dFRUQ0a3lrajBxc3hYUTg5WFRMWG9Zek1tMUZydHR4UmwtcFprS0J2TUs1OUcwZkZCQXVhUjNXUEJWb2V6Rjd5YXZIQjVBQUZlRzVOUEt0UXJWT29wVVNBenA1MDMwSTBJN2NITlBaNlV6U25vYXc?oc=5\" target=\"_blank\">Who ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNm5KdWw1WXcxSEFWaHFocTNLTXhvTGRpTGpWTEZjQ2dFRUQ0a3lrajBxc3hYUTg5WFRMWG9Zek1tMUZydHR4UmwtcFprS0J2TUs1OUcwZkZCQXVhUjNXUEJWb2V6Rjd5YXZIQjVBQUZlRzVOUEt0UXJWT29wVVNBenA1MDMwSTBJN2NITlBaNlV6U25vYXc?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 04:02:00 GMT",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "id": "85c0716cb157",
+      "title": "International travel falls 5 per cent, led by big UK and US declines - Karryon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3hVMTRHUHlqSkp4V1VvYnFneXJuMnRMTHczd2l3QTdaTUtibGg1R0R0MUVadWN4QV91cVNPTy1BeENXcm9sWi1IWm1KUVpXSlNFZDdhcE16dEYxdl9qTHJzcE5qZXBPeDJyeHNaRDlQek1XUEVheTg4UjM1VlA0bQ?oc=5\" target=\"_blank\">International travel falls 5 per ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3hVMTRHUHlqSkp4V1VvYnFneXJuMnRMTHczd2l3QTdaTUtibGg1R0R0MUVadWN4QV91cVNPTy1BeENXcm9sWi1IWm1KUVpXSlNFZDdhcE16dEYxdl9qTHJzcE5qZXBPeDJyeHNaRDlQek1XUEVheTg4UjM1VlA0bQ?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-07-14T19:40:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 09:02:53 GMT",
+          "source": "Karryon"
+        }
+      ]
+    },
+    {
+      "id": "38d54b37a1c0",
+      "title": "Could the UAE and Qatar return to a 'do not travel' warning? What Aussies need to know - The Canberra Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXRtZmd6NHp3RlVncERkNlhaVDFfNWh3NGRVVlo5ZWRJY3ZmdGZ0ZEZvUDhIbXdGcVNSczJkTVh4d3U4UXNaTmtzWUp5aTZfaWpEMks1cXNuZDdfRWNwVmVfZnkycDQ5bzBORGx5bElLN29DSTVrNmw2S2NFa0JRVmtwNWIzTEVCWl9qVi1hYm5ucURzVTBtOXRNc01PbWxwSjhXQVBsdnFFdH",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXRtZmd6NHp3RlVncERkNlhaVDFfNWh3NGRVVlo5ZWRJY3ZmdGZ0ZEZvUDhIbXdGcVNSczJkTVh4d3U4UXNaTmtzWUp5aTZfaWpEMks1cXNuZDdfRWNwVmVfZnkycDQ5bzBORGx5bElLN29DSTVrNmw2S2NFa0JRVmtwNWIzTEVCWl9qVi1hYm5ucURzVTBtOXRNc01PbWxwSjhXQVBsdnFFdHU4c1d6QXBB?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 02:23:14 GMT",
@@ -71,14 +151,14 @@
       "title": "Tourism: The Invisible Engine - Renew Europe",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFBDNEQzT21oeTFUb3JEbTNOazNMMXM4U2lwN1hWSU5rZ3FpekFZUzRiZ1ZtY3ZkT25BUmN1WU55TDFJbEFrSDJ4V1lTUDNmekg5RE5pTlBvSVlzRFRvY1R1ZldyalRoYWJNSG9veVN3V0ZaVWdkdmZmaTVUXzExS3BBSzE5a0E?oc=5\" target=\"_blank\">Tourism: The Invisible E",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFBDNEQzT21oeTFUb3JEbTNOazNMMXM4U2lwN1hWSU5rZ3FpekFZUzRiZ1ZtY3ZkT25BUmN1WU55TDFJbEFrSDJ4V1lTUDNmekg5RE5pTlBvSVlzRFRvY1R1ZldyalRoYWJNSG9veVN3V0ZaVWdkdmZmaTVUXzExS3BBSzE5a0E?oc=5",
-      "score": 79.2,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 09:36:00 GMT",
@@ -87,22 +167,22 @@
       ]
     },
     {
-      "id": "85c0716cb157",
-      "title": "International travel falls 5 per cent, led by big UK and US declines - Karryon",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3hVMTRHUHlqSkp4V1VvYnFneXJuMnRMTHczd2l3QTdaTUtibGg1R0R0MUVadWN4QV91cVNPTy1BeENXcm9sWi1IWm1KUVpXSlNFZDdhcE16dEYxdl9qTHJzcE5qZXBPeDJyeHNaRDlQek1XUEVheTg4UjM1VlA0bQ?oc=5\" target=\"_blank\">International travel falls 5 per ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3hVMTRHUHlqSkp4V1VvYnFneXJuMnRMTHczd2l3QTdaTUtibGg1R0R0MUVadWN4QV91cVNPTy1BeENXcm9sWi1IWm1KUVpXSlNFZDdhcE16dEYxdl9qTHJzcE5qZXBPeDJyeHNaRDlQek1XUEVheTg4UjM1VlA0bQ?oc=5",
-      "score": 75.6,
+      "id": "0e15a55e4ac6",
+      "title": "‘So much easier’: How Australia’s new digital passenger declaration card works - Nine.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXN6YlNWdzU5NDBMTm40VklMS1YzTWhMZml5U0lQM0gxNlktVk1mai0zdW9QOTRybE5NWXFXaG1CRHd2SDZFOWNDQ00yR0NnQ3NqWTQ1TjBQV2ZNME56RXFQcEpZWkFMNWZtaTdUd1hHeWNwZFFvaGg0d3JRcnNGLWcyZ3BTUzVLYjFXZDQwX3dOTXVwWWN0MDMzSVJXQ3ItYjNPSkdxd0Y3U0",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXN6YlNWdzU5NDBMTm40VklMS1YzTWhMZml5U0lQM0gxNlktVk1mai0zdW9QOTRybE5NWXFXaG1CRHd2SDZFOWNDQ00yR0NnQ3NqWTQ1TjBQV2ZNME56RXFQcEpZWkFMNWZtaTdUd1hHeWNwZFFvaGg0d3JRcnNGLWcyZ3BTUzVLYjFXZDQwX3dOTXVwWWN0MDMzSVJXQ3ItYjNPSkdxd0Y3U003VVhxZGlvSU4zbm5Da1JONnhWRHUxdw?oc=5",
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 14 Jul 2026 09:02:53 GMT",
-          "source": "Karryon"
+          "published": "Mon, 13 Jul 2026 07:53:16 GMT",
+          "source": "Nine.com.au"
         }
       ]
     },
@@ -111,86 +191,6 @@
       "title": "What does luxury travel look like in 2026? - Signature Luxury Travel & Style",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HUWlJR3RERjdpc25vellWVUU4Njl3OTktYTk1dGtLZmpNYk9TVGtQQjRRbEZTRWRmbFJjSU5WWmhVSFJzTjktMFlHNW9qR1l0eFFJNE0tSlBWSjBnTXZiUlI2NDFlQQ?oc=5\" target=\"_blank\">What does luxury travel look like in 2026?</a>&nbsp;&nbsp;<font color",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HUWlJR3RERjdpc25vellWVUU4Njl3OTktYTk1dGtLZmpNYk9TVGtQQjRRbEZTRWRmbFJjSU5WWmhVSFJzTjktMFlHNW9qR1l0eFFJNE0tSlBWSjBnTXZiUlI2NDFlQQ?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 14 Jul 2026 03:31:56 GMT",
-          "source": "Signature Luxury Travel & Style"
-        }
-      ]
-    },
-    {
-      "id": "e05a0d41e271",
-      "title": "Undercover in Laos: how Chinese tourism fuels animal trafficking – video - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRENmX1hiMUVBUnBDeWpLcjZTbjhlVjZ6RGl0WWJhc1NYR1p6cGpMT1ZManQ5b1A5dkxoLWM1c0JyTXRNMVFxVWJSXzI4UDVqN3YtQ3JfTVVfRnJKcTBQN2lGVFFmbHFSRkFzTm5fTC1xTTF1Tm9ZMVVidjBUMUlqSm1vUmkzRjFoZW9YcG4wbk9HbkI5YmFCZXNIZ21Rcnl6U3JwcU03WkZqOU",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRENmX1hiMUVBUnBDeWpLcjZTbjhlVjZ6RGl0WWJhc1NYR1p6cGpMT1ZManQ5b1A5dkxoLWM1c0JyTXRNMVFxVWJSXzI4UDVqN3YtQ3JfTVVfRnJKcTBQN2lGVFFmbHFSRkFzTm5fTC1xTTF1Tm9ZMVVidjBUMUlqSm1vUmkzRjFoZW9YcG4wbk9HbkI5YmFCZXNIZ21Rcnl6U3JwcU03WkZqOUwwbnJsUndTZ2R0NHFUaUlQejZn?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 14 Jul 2026 11:53:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "id": "a87c0b860ee5",
-      "title": "Tell Us Your Personality and We’ll Tell You Where to Holiday Next - Broadsheet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYlBjNHVNajFxdl80VlQzVUpEYTd3QjdNaGwwRXkxNHBwcjhHdEtaNkZ2RGpZcUFKTjhxRnpqUmVsWHA4YTQ2eWR4UktOQ3d2dk95NTRjckdNMlBGYzhJQUhSaVRkOUtNcGZ0MC1kYUZSZnhMS3BQY2JzOHhjNEZvMkpINUJtaGhBWTY2R19ONnNoUmJZdURoZWJTZlRZWVAwMTJCeHRHTVNKcT",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYlBjNHVNajFxdl80VlQzVUpEYTd3QjdNaGwwRXkxNHBwcjhHdEtaNkZ2RGpZcUFKTjhxRnpqUmVsWHA4YTQ2eWR4UktOQ3d2dk95NTRjckdNMlBGYzhJQUhSaVRkOUtNcGZ0MC1kYUZSZnhMS3BQY2JzOHhjNEZvMkpINUJtaGhBWTY2R19ONnNoUmJZdURoZWJTZlRZWVAwMTJCeHRHTVNKcTJfZWs0?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 14 Jul 2026 00:14:23 GMT",
-          "source": "Broadsheet"
-        }
-      ]
-    },
-    {
-      "id": "6a483487fbb5",
-      "title": "New AI tool lets travel brands pre-test campaigns before spending the budget - travelweekly.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWpCU3paLTFoYWxzb1VEc2lmSzVhQ0hudmE1TmVYcXBTREV5TzczVFNmUUxFT0otT2NJandLTVlETE0ycDhoSkVTdUJ4ZDlEbVJOS0xiYkltMVdfS2VpX3VZOFgzQ3NseW15d2tGeTF3T0o0TDhqbm0talV6ZzhjWGdQM05LOE83Nm1mUGsyYzBEUllVbjJLWHNzblN2Q1BWOWx1R3lWM0E?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWpCU3paLTFoYWxzb1VEc2lmSzVhQ0hudmE1TmVYcXBTREV5TzczVFNmUUxFT0otT2NJandLTVlETE0ycDhoSkVTdUJ4ZDlEbVJOS0xiYkltMVdfS2VpX3VZOFgzQ3NseW15d2tGeTF3T0o0TDhqbm0talV6ZzhjWGdQM05LOE83Nm1mUGsyYzBEUllVbjJLWHNzblN2Q1BWOWx1R3lWM0E?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 14 Jul 2026 01:26:18 GMT",
-          "source": "travelweekly.com.au"
-        }
-      ]
-    },
-    {
-      "id": "fe18debb3fcc",
-      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,11 +198,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 14 Jul 2026 10:47:47 GMT",
-          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+          "published": "Tue, 14 Jul 2026 03:31:56 GMT",
+          "source": "Signature Luxury Travel & Style"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 04:27:05 GMT",
@@ -227,10 +227,10 @@
       ]
     },
     {
-      "id": "813b9aaf85d7",
-      "title": "Federal Court lifts Ferras Merhi’s travel ban - ifa.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5LRVF6RnZkZW0xcGc2SjI1V1F4dW5EaVZ3YjcxZnFjakEwQjdfTUNsVnFHdUxoZlU0eUpnVXFOcFN6SkF2b3VSdEZoNFN2Z1FZZnhZeno2UzIzRlM1RjJxVXZwaFRGTlk3MVNUSGQxSE85WUZqZGJB?oc=5\" target=\"_blank\">Federal Court lifts Ferras Merhi’s travel ban</",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LRVF6RnZkZW0xcGc2SjI1V1F4dW5EaVZ3YjcxZnFjakEwQjdfTUNsVnFHdUxoZlU0eUpnVXFOcFN6SkF2b3VSdEZoNFN2Z1FZZnhZeno2UzIzRlM1RjJxVXZwaFRGTlk3MVNUSGQxSE85WUZqZGJB?oc=5",
+      "id": "6a483487fbb5",
+      "title": "New AI tool lets travel brands pre-test campaigns before spending the budget - travelweekly.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWpCU3paLTFoYWxzb1VEc2lmSzVhQ0hudmE1TmVYcXBTREV5TzczVFNmUUxFT0otT2NJandLTVlETE0ycDhoSkVTdUJ4ZDlEbVJOS0xiYkltMVdfS2VpX3VZOFgzQ3NseW15d2tGeTF3T0o0TDhqbm0talV6ZzhjWGdQM05LOE83Nm1mUGsyYzBEUllVbjJLWHNzblN2Q1BWOWx1R3lWM0E?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWpCU3paLTFoYWxzb1VEc2lmSzVhQ0hudmE1TmVYcXBTREV5TzczVFNmUUxFT0otT2NJandLTVlETE0ycDhoSkVTdUJ4ZDlEbVJOS0xiYkltMVdfS2VpX3VZOFgzQ3NseW15d2tGeTF3T0o0TDhqbm0talV6ZzhjWGdQM05LOE83Nm1mUGsyYzBEUllVbjJLWHNzblN2Q1BWOWx1R3lWM0E?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,11 +238,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 14 Jul 2026 00:52:43 GMT",
-          "source": "ifa.com.au"
+          "published": "Tue, 14 Jul 2026 01:26:18 GMT",
+          "source": "travelweekly.com.au"
+        }
+      ]
+    },
+    {
+      "id": "3b4a59bba246",
+      "title": "Lismore Boulevard Project to Boost Active Travel and Connectivity - Lismore City Council",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRXZhM3NrcU80THE0TlR2clVycHc2M0xIM3JxS0ZMT3NrSEw4OWlWbEFfdnhncU9tNHJIaVBRNWxGS2ZnLWhEME8yaFdDMFM2ZVBLV1F3aHRMenphYjlXMHhiU2JTNXp4a3JScXlSTnlOOXpFM1h3LWY1ZVYySkczbThSOXRhaTY2YmJRX05oTmp1NU52aFNWX3V4VlU3RjhndUo1X3B6MFAzLW",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRXZhM3NrcU80THE0TlR2clVycHc2M0xIM3JxS0ZMT3NrSEw4OWlWbEFfdnhncU9tNHJIaVBRNWxGS2ZnLWhEME8yaFdDMFM2ZVBLV1F3aHRMenphYjlXMHhiU2JTNXp4a3JScXlSTnlOOXpFM1h3LWY1ZVYySkczbThSOXRhaTY2YmJRX05oTmp1NU52aFNWX3V4VlU3RjhndUo1X3B6MFAzLWFGbnprQXR1S05vT0ZCVXUxaUNYdDFvd3EzN1E2VE1JcWxxVFlPR05VSjRoT3NadzhBQUQ0Y1I1b2M?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-07-14T19:40:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 06:07:39 GMT",
+          "source": "Lismore City Council"
         }
       ]
     },
@@ -251,14 +271,14 @@
       "title": "Japan, the land of my imagination - The Australian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVR2Y05aTzFIU1VOSmNGQ3hHSndZZEZKVTRVZ0prYmFKams0c1hhZnBwMjVKRTVBVHJTa3czQkZJb2JJOEtXamZpemlOMk84RXctcmQ4TFdLV2VPVV9NdHo1T05tWEpFcEN4eW10ZE16WDlQdWM1WE9PQ3JqNEs1a3c4ZGJnZVJ4QUhFZE0wbC1Xb1pmaVhJWXpFeV8yRE51am56b19wVVY0Tj",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVR2Y05aTzFIU1VOSmNGQ3hHSndZZEZKVTRVZ0prYmFKams0c1hhZnBwMjVKRTVBVHJTa3czQkZJb2JJOEtXamZpemlOMk84RXctcmQ4TFdLV2VPVV9NdHo1T05tWEpFcEN4eW10ZE16WDlQdWM1WE9PQ3JqNEs1a3c4ZGJnZVJ4QUhFZE0wbC1Xb1pmaVhJWXpFeV8yRE51am56b19wVVY0TjhzcXVSWTBNNXFtM0HSAbwBQVVfeXFMTU4xQUxuQ0xGQ0VDWklDOE1IWkNNVDY0VE5sdXdEQUN1Vk5ac0pRQk5jYWU1eUtra0lTT1d0ZjBENEpiRHRNYlRZZDVycGNubFEwLXlsaWFLM0VSZlFUZXdaVVM3S1JyZUJrNy15dmIzLVpuYzVFMlRFd1BDRlhOYVBiSF9uN2J1bk5hY2xDVXZ0U3A3ZjhHMVdpN2JQZXlGNkhPYllGbGFEVVF0ejdTT19rN0VzQnNIMjI2V2I?oc=5",
-      "score": 46.8,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 05:42:17 GMT",
@@ -267,30 +287,10 @@
       ]
     },
     {
-      "id": "0552515b77c2",
-      "title": "Travel Guides Take On the Tipping Point Machine - Nine for Brands",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPcl9paUJxU3RKdlFzUzRUYUM3UmNYa3pKNW1fWXNmXzJ4dl82NG9zSjZCc29odmhfNVhyd2NZRWdDYWZ3WTU2YTRNSG5TNWhvUWxlM1lfb2dPb1ZZak9vVE5GY2hnNml1UW16ZUs3U1pEaEcwU0tYZ2F2T2Q0VEdXN3o1cHRPbHdrS1ZCX3ljZGFic2V2V2hHUHpTdw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcl9paUJxU3RKdlFzUzRUYUM3UmNYa3pKNW1fWXNmXzJ4dl82NG9zSjZCc29odmhfNVhyd2NZRWdDYWZ3WTU2YTRNSG5TNWhvUWxlM1lfb2dPb1ZZak9vVE5GY2hnNml1UW16ZUs3U1pEaEcwU0tYZ2F2T2Q0VEdXN3o1cHRPbHdrS1ZCX3ljZGFic2V2V2hHUHpTdw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 14 Jul 2026 01:13:04 GMT",
-          "source": "Nine for Brands"
-        }
-      ]
-    },
-    {
-      "id": "07493cde3571",
-      "title": "Airport sets international travel record - Infrastructure Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlFVdWhRaERrLWZBZ2lFcjV3aVdpTWppZ3UtX1YzMU9Sc1hDbUVrZHlHUXJjZExTRkhhTjhldFdJRDJaWFN1REN2ZGNVUjF4dzlGbzBYcC1fRG1JWHp1eFIzcnI2QkQ0NmFxakhfZXBqMEtMYTl3MzI2amNlR0xuTm9qaVJaZw?oc=5\" target=\"_blank\">Airport sets internationa",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlFVdWhRaERrLWZBZ2lFcjV3aVdpTWppZ3UtX1YzMU9Sc1hDbUVrZHlHUXJjZExTRkhhTjhldFdJRDJaWFN1REN2ZGNVUjF4dzlGbzBYcC1fRG1JWHp1eFIzcnI2QkQ0NmFxakhfZXBqMEtMYTl3MzI2amNlR0xuTm9qaVJaZw?oc=5",
+      "id": "10befe5d0e29",
+      "title": "Family travel stress data reveals a claims exposure pattern NZ insurers should be pricing for - Insurance Business",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc2hSUGRPbmVlUExfamRTejdHT1hXbHI4N1p4NG5qYXRUYXktQlItZTZPTGRIUGNvcDFvdUluMlpHcEdSeHB3ZmI5OGdjY0xYZld1aFBFbUMyX1JxWFlkWHUwRVozM2lSNDNaVFRqUVNxYkdPU2VUT2x5RXF1eHE4Z0Q5bTdVRUJnSklWX2VkS3V4clZ6VnZ6VW03YlVhZWJXTzdBLVlCZUR5T1",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc2hSUGRPbmVlUExfamRTejdHT1hXbHI4N1p4NG5qYXRUYXktQlItZTZPTGRIUGNvcDFvdUluMlpHcEdSeHB3ZmI5OGdjY0xYZld1aFBFbUMyX1JxWFlkWHUwRVozM2lSNDNaVFRqUVNxYkdPU2VUT2x5RXF1eHE4Z0Q5bTdVRUJnSklWX2VkS3V4clZ6VnZ6VW03YlVhZWJXTzdBLVlCZUR5T1k0U3ZyajYtR25xNUJYbG1GZVZkdjExRUhJQ3FBbV90RUlkQU5JRUdFOVFnUmUyRi1KVlFpczUyd0NlX051MFY2V0J3?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,11 +298,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 14 Jul 2026 00:24:27 GMT",
-          "source": "Infrastructure Magazine"
+          "published": "Tue, 14 Jul 2026 14:31:46 GMT",
+          "source": "Insurance Business"
+        }
+      ]
+    },
+    {
+      "id": "e05a0d41e271",
+      "title": "Undercover in Laos: how Chinese tourism fuels animal trafficking – video - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRENmX1hiMUVBUnBDeWpLcjZTbjhlVjZ6RGl0WWJhc1NYR1p6cGpMT1ZManQ5b1A5dkxoLWM1c0JyTXRNMVFxVWJSXzI4UDVqN3YtQ3JfTVVfRnJKcTBQN2lGVFFmbHFSRkFzTm5fTC1xTTF1Tm9ZMVVidjBUMUlqSm1vUmkzRjFoZW9YcG4wbk9HbkI5YmFCZXNIZ21Rcnl6U3JwcU03WkZqOU",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRENmX1hiMUVBUnBDeWpLcjZTbjhlVjZ6RGl0WWJhc1NYR1p6cGpMT1ZManQ5b1A5dkxoLWM1c0JyTXRNMVFxVWJSXzI4UDVqN3YtQ3JfTVVfRnJKcTBQN2lGVFFmbHFSRkFzTm5fTC1xTTF1Tm9ZMVVidjBUMUlqSm1vUmkzRjFoZW9YcG4wbk9HbkI5YmFCZXNIZ21Rcnl6U3JwcU03WkZqOUwwbnJsUndTZ2R0NHFUaUlQejZn?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-07-14T19:40:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 14 Jul 2026 11:53:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
@@ -311,14 +331,14 @@
       "title": "‘Transit is travel’: Smartraveller toughens language on UAE, Qatar visits - SMH.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ1RHZ1JIUkprN0Zoa1hBQkZXYi1vRE5pM3Ywa2R6UENmN01FZnc0MkJ0bkhoREwyb3VvLWhJTGEtMmFTWlBJZ0JCNy14cjZ5TllSaUo0cVhTRU84WlBhVzdCNktyQVZ0eFhHZ0puWk5QcTV4Rzl6d1RseWhkc0Z5VWdFOUxOSlRqc0JTRWJ5TjFjOXZBUDRkcTY0M2FVUXE1eTJhcF96Q3A1NF",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ1RHZ1JIUkprN0Zoa1hBQkZXYi1vRE5pM3Ywa2R6UENmN01FZnc0MkJ0bkhoREwyb3VvLWhJTGEtMmFTWlBJZ0JCNy14cjZ5TllSaUo0cVhTRU84WlBhVzdCNktyQVZ0eFhHZ0puWk5QcTV4Rzl6d1RseWhkc0Z5VWdFOUxOSlRqc0JTRWJ5TjFjOXZBUDRkcTY0M2FVUXE1eTJhcF96Q3A1NFFlcmhKMGl0Q1dLcEs4VndfSHduMFdQUUFmNFB5TWVOMDE?oc=5",
-      "score": 36.0,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 02:01:44 GMT",
@@ -327,18 +347,38 @@
       ]
     },
     {
-      "id": "db45c7238040",
-      "title": "Middle East tensions refocus travel insurance coverage threshold - Insurance Business",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2cyNG9BeE5MLUZyQ1FYZk5JVXhaMU1zR1J1UGwtRXdvVFlUS3Q5U0swZkFZYS1EUndUYWM2YzE4UTFabGJKcUVJblJpWUw5Vy16cDVuYTB6OU43QkNGYjNBMDBhbzlpby1RVWpaNWUwMGZHNDhzalp4YlR2dWpmM0ozVHVHQmFIUENWUERGMFlFSlVyZ2xKWXlRdHE4MVpZS245eDlCeFNqeT",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2cyNG9BeE5MLUZyQ1FYZk5JVXhaMU1zR1J1UGwtRXdvVFlUS3Q5U0swZkFZYS1EUndUYWM2YzE4UTFabGJKcUVJblJpWUw5Vy16cDVuYTB6OU43QkNGYjNBMDBhbzlpby1RVWpaNWUwMGZHNDhzalp4YlR2dWpmM0ozVHVHQmFIUENWUERGMFlFSlVyZ2xKWXlRdHE4MVpZS245eDlCeFNqeTBqeXhURjhwOUV1aFBjd095VGotNUdnZGxJN240?oc=5",
-      "score": 32.4,
+      "id": "8484054b4c71",
+      "title": "Outback towns welcome grey nomads after slow start to tourism season - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdUNlekh2RzJBY1hxZDFSRDMtcW92UTRGX1phZXFHOG1FOTEzdzB0eEtITW5MaDI4MjlPTm5PVFB3NDRDM0hBUDY3VUx4cWZuWGVjY2dtQmhtVGNPLU1ZUmNqM00yLXNvaEVDYjV6WC03Q25nRGtLMW1LWWR5SVFLTGFOai01WkJFTWhKRmo1b2R1WF9fTl9FUHRjdjdJUWo2dHVJdEJqc0VJVl",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdUNlekh2RzJBY1hxZDFSRDMtcW92UTRGX1phZXFHOG1FOTEzdzB0eEtITW5MaDI4MjlPTm5PVFB3NDRDM0hBUDY3VUx4cWZuWGVjY2dtQmhtVGNPLU1ZUmNqM00yLXNvaEVDYjV6WC03Q25nRGtLMW1LWWR5SVFLTGFOai01WkJFTWhKRmo1b2R1WF9fTl9FUHRjdjdJUWo2dHVJdEJqc0VJVlU?oc=5",
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 10 Jul 2026 21:31:14 GMT",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ]
+    },
+    {
+      "id": "db45c7238040",
+      "title": "Middle East tensions refocus travel insurance coverage threshold - Insurance Business",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2cyNG9BeE5MLUZyQ1FYZk5JVXhaMU1zR1J1UGwtRXdvVFlUS3Q5U0swZkFZYS1EUndUYWM2YzE4UTFabGJKcUVJblJpWUw5Vy16cDVuYTB6OU43QkNGYjNBMDBhbzlpby1RVWpaNWUwMGZHNDhzalp4YlR2dWpmM0ozVHVHQmFIUENWUERGMFlFSlVyZ2xKWXlRdHE4MVpZS245eDlCeFNqeT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2cyNG9BeE5MLUZyQ1FYZk5JVXhaMU1zR1J1UGwtRXdvVFlUS3Q5U0swZkFZYS1EUndUYWM2YzE4UTFabGJKcUVJblJpWUw5Vy16cDVuYTB6OU43QkNGYjNBMDBhbzlpby1RVWpaNWUwMGZHNDhzalp4YlR2dWpmM0ozVHVHQmFIUENWUERGMFlFSlVyZ2xKWXlRdHE4MVpZS245eDlCeFNqeTBqeXhURjhwOUV1aFBjd095VGotNUdnZGxJN240?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 07:54:55 GMT",
@@ -347,50 +387,10 @@
       ]
     },
     {
-      "id": "41abaa5b5f08",
-      "title": "Who is ‘stealing’ Bali’s water? How tourism siphoned off a prized resource - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNm5KdWw1WXcxSEFWaHFocTNLTXhvTGRpTGpWTEZjQ2dFRUQ0a3lrajBxc3hYUTg5WFRMWG9Zek1tMUZydHR4UmwtcFprS0J2TUs1OUcwZkZCQXVhUjNXUEJWb2V6Rjd5YXZIQjVBQUZlRzVOUEt0UXJWT29wVVNBenA1MDMwSTBJN2NITlBaNlV6U25vYXc?oc=5\" target=\"_blank\">Who ",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNm5KdWw1WXcxSEFWaHFocTNLTXhvTGRpTGpWTEZjQ2dFRUQ0a3lrajBxc3hYUTg5WFRMWG9Zek1tMUZydHR4UmwtcFprS0J2TUs1OUcwZkZCQXVhUjNXUEJWb2V6Rjd5YXZIQjVBQUZlRzVOUEt0UXJWT29wVVNBenA1MDMwSTBJN2NITlBaNlV6U25vYXc?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 14 Jul 2026 04:02:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "id": "8a6b8f0d9014",
-      "title": "Smartraveller: ‘reconsider travel’ also covers ‘reconsider transit’ for Middle East - travelweekly.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUJhQnhkcEM4R2lkR3hzRnhDLVlQLUt5MjI4ZTV4THhnOGNiRy1ocVZsczc0ZXQtemtrcW1qWGNQT0Fhb0VHRTJpaVlqdTF5QkliQXNOVVZfM0VHeVRDOU5NSkVybUFBc3hZVG5qbXJUZ0J0Z0xNNGlaU3I5TWFncFFqcHFZZ3c3SEJHa0lycFJlVUsxMEQ2a2ZNTW04bWt0aUQ4a1g4SjdpZF",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUJhQnhkcEM4R2lkR3hzRnhDLVlQLUt5MjI4ZTV4THhnOGNiRy1ocVZsczc0ZXQtemtrcW1qWGNQT0Fhb0VHRTJpaVlqdTF5QkliQXNOVVZfM0VHeVRDOU5NSkVybUFBc3hZVG5qbXJUZ0J0Z0xNNGlaU3I5TWFncFFqcHFZZ3c3SEJHa0lycFJlVUsxMEQ2a2ZNTW04bWt0aUQ4a1g4SjdpZFk?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 23:55:25 GMT",
-          "source": "travelweekly.com.au"
-        }
-      ]
-    },
-    {
-      "id": "664f4557f3c1",
-      "title": "Helloworld Travel Mackay, Mt. Pleasant and Townsville takes out top honours - travelweekly.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFdkMnpUNTBqaWN2VWR5S24tc0lBS3ZoY0RjbUQzbTQ3ZW1MR1l0amZvdU9aOVVwVTJWNnNzalRVdG0zOGZXejhoNDhmVjd6d1RyTVFFUW5Qdlc4dzdSeXRSZ2Q4UWRkR3pJcDViS3JUNHV0RVB6UEhsNHNBVHRzdUtrS0kwZE45cklhSUxoc0Nhb0ozZ2l4bmt3Z1pRSjh3em1pcw?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFdkMnpUNTBqaWN2VWR5S24tc0lBS3ZoY0RjbUQzbTQ3ZW1MR1l0amZvdU9aOVVwVTJWNnNzalRVdG0zOGZXejhoNDhmVjd6d1RyTVFFUW5Qdlc4dzdSeXRSZ2Q4UWRkR3pJcDViS3JUNHV0RVB6UEhsNHNBVHRzdUtrS0kwZE45cklhSUxoc0Nhb0ozZ2l4bmt3Z1pRSjh3em1pcw?oc=5",
+      "id": "a87c0b860ee5",
+      "title": "Tell Us Your Personality and We’ll Tell You Where to Holiday Next - Broadsheet",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYlBjNHVNajFxdl80VlQzVUpEYTd3QjdNaGwwRXkxNHBwcjhHdEtaNkZ2RGpZcUFKTjhxRnpqUmVsWHA4YTQ2eWR4UktOQ3d2dk95NTRjckdNMlBGYzhJQUhSaVRkOUtNcGZ0MC1kYUZSZnhMS3BQY2JzOHhjNEZvMkpINUJtaGhBWTY2R19ONnNoUmJZdURoZWJTZlRZWVAwMTJCeHRHTVNKcT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYlBjNHVNajFxdl80VlQzVUpEYTd3QjdNaGwwRXkxNHBwcjhHdEtaNkZ2RGpZcUFKTjhxRnpqUmVsWHA4YTQ2eWR4UktOQ3d2dk95NTRjckdNMlBGYzhJQUhSaVRkOUtNcGZ0MC1kYUZSZnhMS3BQY2JzOHhjNEZvMkpINUJtaGhBWTY2R19ONnNoUmJZdURoZWJTZlRZWVAwMTJCeHRHTVNKcTJfZWs0?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-07-14T14:08:52+00:00",
+      "first_seen": "2026-07-14T19:40:47+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 14 Jul 2026 05:20:26 GMT",
-          "source": "travelweekly.com.au"
+          "published": "Tue, 14 Jul 2026 00:14:23 GMT",
+          "source": "Broadsheet"
         }
       ]
     }
