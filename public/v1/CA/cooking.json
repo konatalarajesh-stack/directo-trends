@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "CA",
-  "generated_at": "2026-07-14T08:34:22+00:00",
+  "generated_at": "2026-07-14T14:17:57+00:00",
   "cache_ttl_hours": 6,
-  "count": 23,
+  "count": 18,
   "trends": [
     {
       "id": "e123ca163303",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Mon, 23 Mar 2026 07:00:00 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "9262ced70bde",
-      "title": "Food, beverage sales to return to pre-pandemic levels - Supermarket News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORExFbF80NHdKTGdyUUZySWlHd2g0c0FMeEdBaU5nMUk4QlU2RFJNXzZCUk5IM2ZTMkxfQURleHRyb1VGWGstY0NJQlcxR3lTUDRFMVhjNXZTejdZX0RYelJsLWZTQWY2dVZjVVQwZHk5RVlpVkNCeENtdUxnTnNrb282RThIZjBSSTRhTDBLTng2RkdlUWUyX2QtNFREUEdZSElTcVVYYw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORExFbF80NHdKTGdyUUZySWlHd2g0c0FMeEdBaU5nMUk4QlU2RFJNXzZCUk5IM2ZTMkxfQURleHRyb1VGWGstY0NJQlcxR3lTUDRFMVhjNXZTejdZX0RYelJsLWZTQWY2dVZjVVQwZHk5RVlpVkNCeENtdUxnTnNrb282RThIZjBSSTRhTDBLTng2RkdlUWUyX2QtNFREUEdZSElTcVVYYw?oc=5",
+      "id": "869751e6bd74",
+      "title": "The Biggest Food And Drink Trends We Saw At The Summer Fancy Food Show - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDVwNXctdERwaXpDYlNLRXlmU2VxWFZwdE9vMzVHSTdEbzk1NFVqdzhzdGJFVzYtNEQwbG1vaURjUkpVXzd3QTNNODdIUFZ3bWI4dWtrVWh6RFJJbnNmR05PYnlzaGtEV1F0a01BcGs5QjhGbjY4NGFZc284RDBEVkNBdzBadV94M2lCTGg0V3ZuczA?oc=5\" target=\"_blank\">The Bigg",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDVwNXctdERwaXpDYlNLRXlmU2VxWFZwdE9vMzVHSTdEbzk1NFVqdzhzdGJFVzYtNEQwbG1vaURjUkpVXzd3QTNNODdIUFZ3bWI4dWtrVWh6RFJJbnNmR05PYnlzaGtEV1F0a01BcGs5QjhGbjY4NGFZc284RDBEVkNBdzBadV94M2lCTGg0V3ZuczA?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,47 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "id": "16f7f79f27b1",
+      "title": "8 Hottest Food Trends Of 2026 (So Far) - Tasting Table",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1LV3E1LWVGaldkcnM4MFRNb3BxRTNidXF0X0NTdVBOQldrT3ZuQUlyYU9yTjlrU1FKRWw1WGZWYVNKSU4zcmlEcGZsRTJ1SndBbFNfOGNiMlVzWUx3YUViZl92eXV1QmR0aHczQ2t1Q0VzMWhzRnR0Ng?oc=5\" target=\"_blank\">8 Hottest Food Trends Of 2026 (So Far)</a>&nb",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LV3E1LWVGaldkcnM4MFRNb3BxRTNidXF0X0NTdVBOQldrT3ZuQUlyYU9yTjlrU1FKRWw1WGZWYVNKSU4zcmlEcGZsRTJ1SndBbFNfOGNiMlVzWUx3YUViZl92eXV1QmR0aHczQ2t1Q0VzMWhzRnR0Ng?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-07-14T14:08:46+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 12 Jul 2026 16:20:00 GMT",
+          "source": "Tasting Table"
+        }
+      ]
+    },
+    {
+      "id": "9262ced70bde",
+      "title": "Food, beverage sales to return to pre-pandemic levels - Supermarket News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORExFbF80NHdKTGdyUUZySWlHd2g0c0FMeEdBaU5nMUk4QlU2RFJNXzZCUk5IM2ZTMkxfQURleHRyb1VGWGstY0NJQlcxR3lTUDRFMVhjNXZTejdZX0RYelJsLWZTQWY2dVZjVVQwZHk5RVlpVkNCeENtdUxnTnNrb282RThIZjBSSTRhTDBLTng2RkdlUWUyX2QtNFREUEdZSElTcVVYYw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORExFbF80NHdKTGdyUUZySWlHd2g0c0FMeEdBaU5nMUk4QlU2RFJNXzZCUk5IM2ZTMkxfQURleHRyb1VGWGstY0NJQlcxR3lTUDRFMVhjNXZTejdZX0RYelJsLWZTQWY2dVZjVVQwZHk5RVlpVkNCeENtdUxnTnNrb282RThIZjBSSTRhTDBLTng2RkdlUWUyX2QtNFREUEdZSElTcVVYYw?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 17:09:26 GMT",
@@ -51,14 +91,14 @@
       "title": "Real-Food Protein Bars - Trend Hunter",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01ejE3WVhEMklGUE8tQ0JlYVVSVUxHN2RYeHFna3dMNEVWellXQmVJeTRKUjdNb1ZJTG9MM3BSakliZG16ZXFOak1WYS1Hb1JiZmIwMkI4TnpLbWs4UXVLQkRTemZ1Rm_SAWxBVV95cUxOdVg0RktVY19RSEtzNURCaFFnN3d6TlhnVzdYR1h5NHJzaFRyZEc4bkNVSnVuS1JkeUlLVUdMaF9KaU",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01ejE3WVhEMklGUE8tQ0JlYVVSVUxHN2RYeHFna3dMNEVWellXQmVJeTRKUjdNb1ZJTG9MM3BSakliZG16ZXFOak1WYS1Hb1JiZmIwMkI4TnpLbWs4UXVLQkRTemZ1Rm_SAWxBVV95cUxOdVg0RktVY19RSEtzNURCaFFnN3d6TlhnVzdYR1h5NHJzaFRyZEc4bkNVSnVuS1JkeUlLVUdMaF9KaU9KQk9JSXB5NHlYUjhIa0FESUlOUmc0MkdtZkJELUFjWVA5Mkw1WXBkSkE?oc=5",
-      "score": 82.8,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 00:47:22 GMT",
@@ -67,38 +107,18 @@
       ]
     },
     {
-      "id": "869751e6bd74",
-      "title": "The Biggest Food And Drink Trends We Saw At The Summer Fancy Food Show - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDVwNXctdERwaXpDYlNLRXlmU2VxWFZwdE9vMzVHSTdEbzk1NFVqdzhzdGJFVzYtNEQwbG1vaURjUkpVXzd3QTNNODdIUFZ3bWI4dWtrVWh6RFJJbnNmR05PYnlzaGtEV1F0a01BcGs5QjhGbjY4NGFZc284RDBEVkNBdzBadV94M2lCTGg0V3ZuczA?oc=5\" target=\"_blank\">The Bigg",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDVwNXctdERwaXpDYlNLRXlmU2VxWFZwdE9vMzVHSTdEbzk1NFVqdzhzdGJFVzYtNEQwbG1vaURjUkpVXzd3QTNNODdIUFZ3bWI4dWtrVWh6RFJJbnNmR05PYnlzaGtEV1F0a01BcGs5QjhGbjY4NGFZc284RDBEVkNBdzBadV94M2lCTGg0V3ZuczA?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
       "id": "77c25f37e0cb",
       "title": "McKinney's 2026 Food & Beverage Trends Report Sees Consumers Reclaiming Control - PR Newswire",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQaXg3SzFtYUN6YjllNkZ4RzYtN0FiRUZtRDNOOHRGZ0RpR1AtY0czNk1hWngxQmt1clcyMF8tVlREc0lBVGY1cjFXeUE0dW4wZzhXZ0cyODhCekxJZ1FhNVVMQ1ZmUkRKREdqMkNiUlM0Tk9Wd3IyR2ZwbWhtZEVhQ1FkUjdFMC1pdzUycnU5UHlDamUxakFvanRHeF8tdG1ndEZ4cGlVU2NSYU",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaXg3SzFtYUN6YjllNkZ4RzYtN0FiRUZtRDNOOHRGZ0RpR1AtY0czNk1hWngxQmt1clcyMF8tVlREc0lBVGY1cjFXeUE0dW4wZzhXZ0cyODhCekxJZ1FhNVVMQ1ZmUkRKREdqMkNiUlM0Tk9Wd3IyR2ZwbWhtZEVhQ1FkUjdFMC1pdzUycnU5UHlDamUxakFvanRHeF8tdG1ndEZ4cGlVU2NSYUR1UXFTWlgzdUFPci1Wek05dV9QamQ3TU1LbDBRUUVGUk1oZw?oc=5",
-      "score": 75.6,
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 18:46:00 GMT",
@@ -107,30 +127,10 @@
       ]
     },
     {
-      "id": "16f7f79f27b1",
-      "title": "8 Hottest Food Trends Of 2026 (So Far) - Tasting Table",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1LV3E1LWVGaldkcnM4MFRNb3BxRTNidXF0X0NTdVBOQldrT3ZuQUlyYU9yTjlrU1FKRWw1WGZWYVNKSU4zcmlEcGZsRTJ1SndBbFNfOGNiMlVzWUx3YUViZl92eXV1QmR0aHczQ2t1Q0VzMWhzRnR0Ng?oc=5\" target=\"_blank\">8 Hottest Food Trends Of 2026 (So Far)</a>&nb",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LV3E1LWVGaldkcnM4MFRNb3BxRTNidXF0X0NTdVBOQldrT3ZuQUlyYU9yTjlrU1FKRWw1WGZWYVNKSU4zcmlEcGZsRTJ1SndBbFNfOGNiMlVzWUx3YUViZl92eXV1QmR0aHczQ2t1Q0VzMWhzRnR0Ng?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 12 Jul 2026 16:20:00 GMT",
-          "source": "Tasting Table"
-        }
-      ]
-    },
-    {
-      "id": "e23f11ce4507",
-      "title": "Courtney Storer on Restaurant Trends, the Joy of Dining, and the New Season of FX’s The Bear - Resy | Right This Way",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZDM1Tl9iYmNxUDFfMm1EOTUtaUtkNmpPc1J1aGNjbnRZUDI0b1BEZ3dOWHMxeHZZTlpOa0s3SzFkdGpSSTFoeGEzY0ZCWEdxZUhnTzc5NEZzcllVWDdWd1RHM1RXQQ?oc=5\" target=\"_blank\">Courtney Storer on Restaurant Trends, the Joy of Dining, and the New ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZDM1Tl9iYmNxUDFfMm1EOTUtaUtkNmpPc1J1aGNjbnRZUDI0b1BEZ3dOWHMxeHZZTlpOa0s3SzFkdGpSSTFoeGEzY0ZCWEdxZUhnTzc5NEZzcllVWDdWd1RHM1RXQQ?oc=5",
+      "id": "1fe7fb642342",
+      "title": "Top 10 Food Trends - IFT.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5\" target=\"_blank\">Top 10 Food Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -138,36 +138,13 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 15:00:09 GMT",
-          "source": "Resy | Right This Way"
+          "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+          "source": "IFT.org"
         }
       ]
-    },
-    {
-      "id": "a73fcb118047",
-      "title": "Regular Show's eggscellent challenge in real life!",
-      "summary": null,
-      "url": "https://www.youtube.com/shorts/F6Fr5KyVBBk",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-07-14T08:27:45+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "F6Fr5KyVBBk",
-          "published": "2026-07-10T19:00:18+00:00"
-        }
-      ],
-      "is_global": true
     },
     {
       "id": "9f5141b8308d",
@@ -181,36 +158,13 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Tue, 30 Jun 2026 07:00:00 GMT",
           "source": "The Guardian"
         }
       ]
-    },
-    {
-      "id": "36aaa581a6a6",
-      "title": "Crème brûlée to impress!",
-      "summary": null,
-      "url": "https://www.youtube.com/shorts/7B132m9g5FY",
-      "score": 59.29,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-07-14T08:27:45+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "7B132m9g5FY",
-          "published": "2026-07-09T19:30:11+00:00"
-        }
-      ],
-      "is_global": true
     },
     {
       "id": "d0042196c878",
@@ -224,7 +178,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Wed, 08 Jul 2026 21:00:00 GMT",
@@ -233,56 +187,10 @@
       ]
     },
     {
-      "id": "3c25fcd7871b",
-      "title": "The ultimate guide to freezer meal prep!",
-      "summary": null,
-      "url": "https://www.youtube.com/shorts/dGSl12zPPc0",
-      "score": 56.98,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-07-14T08:27:45+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "dGSl12zPPc0",
-          "published": "2026-07-07T19:00:15+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "1cb2e5fcf176",
-      "title": "How to make the chicken fingers from Community",
-      "summary": null,
-      "url": "https://www.youtube.com/shorts/pja_69-3ty8",
-      "score": 54.669999999999995,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-07-14T08:27:45+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "pja_69-3ty8",
-          "published": "2026-07-03T19:00:23+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "1fe7fb642342",
-      "title": "Top 10 Food Trends - IFT.org",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5\" target=\"_blank\">Top 10 Food Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5",
+      "id": "d9c623901118",
+      "title": "Europe Olive Market Size, Share, Growth & Trends Report 2034 - Market Data Forecast",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbEowYlAxYmpULU0tN0lVYWJMT3FYdWREWmtWal9GcHNuWXo0dWpYN0pKdFJBVjZOWHBpWXQzbThDU3ByWDgxNkxPVWpqNTJhbG0zTFotRVlibzhyOWlZdmlHWEk3a3VvUUtDVDVjVzdBSFQ0X2FnSA?oc=5\" target=\"_blank\">Europe Olive Market Size, Share, Growth & Tre",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbEowYlAxYmpULU0tN0lVYWJMT3FYdWREWmtWal9GcHNuWXo0dWpYN0pKdFJBVjZOWHBpWXQzbThDU3ByWDgxNkxPVWpqNTJhbG0zTFotRVlibzhyOWlZdmlHWEk3a3VvUUtDVDVjVzdBSFQ0X2FnSA?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -290,54 +198,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-          "source": "IFT.org"
-        }
-      ]
-    },
-    {
-      "id": "6bdfcbc77bb0",
-      "title": "Deadpool-style chimichangas!",
-      "summary": null,
-      "url": "https://www.youtube.com/shorts/IYFrak_g_V4",
-      "score": 52.35999999999999,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-07-14T08:27:45+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "IYFrak_g_V4",
-          "published": "2026-07-02T19:00:28+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "7c35df2e854f",
-      "title": "Five ingredient trends to watch at IFT FIRST 2026 - Nutraceutical Business Review",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPal9ua0JlTHBxbkNITExsY2lnbXZqelRndXd3XzdhZWl1TXczRV9BUDVUY2JBcklxZTZhOHpPSU5WOGRVWjNDcDNPN0NvS3VyU3djWFVleWFIckVHVHgxRXBfbDU0RE9GalZoZzBQZVc1RjgtUERPMU82LVZ4bnk1NFdDZmM?oc=5\" target=\"_blank\">Five ingredient trends to wa",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPal9ua0JlTHBxbkNITExsY2lnbXZqelRndXd3XzdhZWl1TXczRV9BUDVUY2JBcklxZTZhOHpPSU5WOGRVWjNDcDNPN0NvS3VyU3djWFVleWFIckVHVHgxRXBfbDU0RE9GalZoZzBQZVc1RjgtUERPMU82LVZ4bnk1NFdDZmM?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 11:40:40 GMT",
-          "source": "Nutraceutical Business Review"
+          "published": "Tue, 14 Jul 2026 09:44:53 GMT",
+          "source": "Market Data Forecast"
         }
       ]
     },
@@ -346,14 +211,14 @@
       "title": "Food Venture Financing News – Weekly Issue No. 287 - Davis Wright Tremaine",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1Ewekx1Tlptbk1yLTVlamQxbWRoaVFDY2lfZldYTE9IelpycGN3UzdxV1hPbDN1WldxdG1qQzZfVVowZ0c2WW9aWkRvYjJEdS1RYmxMNmFHaTNmdWdGcWNlVU1EOHNuNmVhWFNwenotRlZPRkJLWDdTcVBSWEJqWmlsWHVCVFVDdzJITQ?oc=5\" target=\"_blank\">Food Venture Fina",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1Ewekx1Tlptbk1yLTVlamQxbWRoaVFDY2lfZldYTE9IelpycGN3UzdxV1hPbDN1WldxdG1qQzZfVVowZ0c2WW9aWkRvYjJEdS1RYmxMNmFHaTNmdWdGcWNlVU1EOHNuNmVhWFNwenotRlZPRkJLWDdTcVBSWEJqWmlsWHVCVFVDdzJITQ?oc=5",
-      "score": 46.8,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 05:41:38 GMT",
@@ -366,14 +231,14 @@
       "title": "5 food trends driven by lifestyle shifts around the world - FoodNavigator.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1plWTJNQ3J4cl9WMjBHYjJDRXphQWo0aTRjaFpKVXZueVk5Wjk4OTRwT1NLcE1LRXVUSGZPR00yZDRYMzdQcTFld3JVQWFoR2RmRWdzWWhIWlg3Z0VNN0lmS19GZFRiN0I3cHkzQVhHRXpWMWI1UzVvOU02ajNSTXlfNmVfRFF1cVo2RGJIYnRkcUlaOERUUDV1UFI0b240Rmw2MmhUaVVZRn",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1plWTJNQ3J4cl9WMjBHYjJDRXphQWo0aTRjaFpKVXZueVk5Wjk4OTRwT1NLcE1LRXVUSGZPR00yZDRYMzdQcTFld3JVQWFoR2RmRWdzWWhIWlg3Z0VNN0lmS19GZFRiN0I3cHkzQVhHRXpWMWI1UzVvOU02ajNSTXlfNmVfRFF1cVo2RGJIYnRkcUlaOERUUDV1UFI0b240Rmw2MmhUaVVZRnc?oc=5",
-      "score": 43.2,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Wed, 01 Jul 2026 07:00:00 GMT",
@@ -386,14 +251,14 @@
       "title": "Sector Trend Analysis – Pet food trends in Malaysia - agriculture canada",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzVMNFVjRjAyMi1CckFCeXhmcjdDUEpjOF9sTEVGajhocHFleHF1aDlkQ2V2M2lNaUtxaGU4Q0RTVng0ZGJFSGxOcG5TQ204MXRQbG5LZjI0ZjRfV3JxWVNmWVVOUlVHbGZUd3hLY2dPUldOVkNHZ25rb1hMZ3dGMm0wSHRYU1E2bGhhRllVWTVVWEdOMU15UVF2Q1Y3LXR2Ni13QXFVMjdiWU",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzVMNFVjRjAyMi1CckFCeXhmcjdDUEpjOF9sTEVGajhocHFleHF1aDlkQ2V2M2lNaUtxaGU4Q0RTVng0ZGJFSGxOcG5TQ204MXRQbG5LZjI0ZjRfV3JxWVNmWVVOUlVHbGZUd3hLY2dPUldOVkNHZ25rb1hMZ3dGMm0wSHRYU1E2bGhhRllVWTVVWEdOMU15UVF2Q1Y3LXR2Ni13QXFVMjdiWUVIOGRtSUc0NU9ZeFhRNVE?oc=5",
-      "score": 42.0,
+      "score": 45.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Wed, 24 Jun 2026 07:00:00 GMT",
@@ -410,10 +275,30 @@
       ]
     },
     {
-      "id": "6c39b0d54c63",
-      "title": "Soda-Celebrating Ice Cream Parlors - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN05jRTlwRnBESEFoOUV0Um1CaFA5TXI5WTM2bWpWbXAzcDJGWk1JOV9peldOTV9JdmxDOV9OdFJIVHVYVVdwUkJHdnJRbVYwTDlrU0pXZ3VDcXlH0gFiQVVfeXFMTU9fckR6U2ZsbDlBSXVqdEd2Zmx2LXpPYUo1ZTROOHEzY24zeFRTTWJhUjI5eUFkZWFqSTJwMlpiWWE5ZVpORzFZMi1Gbn",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN05jRTlwRnBESEFoOUV0Um1CaFA5TXI5WTM2bWpWbXAzcDJGWk1JOV9peldOTV9JdmxDOV9OdFJIVHVYVVdwUkJHdnJRbVYwTDlrU0pXZ3VDcXlH0gFiQVVfeXFMTU9fckR6U2ZsbDlBSXVqdEd2Zmx2LXpPYUo1ZTROOHEzY24zeFRTTWJhUjI5eUFkZWFqSTJwMlpiWWE5ZVpORzFZMi1Gbnk4Q2RkMnBhSjVlUVpNOWdxVHhMQWc?oc=5",
+      "id": "e23f11ce4507",
+      "title": "Courtney Storer on Restaurant Trends, the Joy of Dining, and the New Season of FX’s The Bear - Resy | Right This Way",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZDM1Tl9iYmNxUDFfMm1EOTUtaUtkNmpPc1J1aGNjbnRZUDI0b1BEZ3dOWHMxeHZZTlpOa0s3SzFkdGpSSTFoeGEzY0ZCWEdxZUhnTzc5NEZzcllVWDdWd1RHM1RXQQ?oc=5\" target=\"_blank\">Courtney Storer on Restaurant Trends, the Joy of Dining, and the New ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZDM1Tl9iYmNxUDFfMm1EOTUtaUtkNmpPc1J1aGNjbnRZUDI0b1BEZ3dOWHMxeHZZTlpOa0s3SzFkdGpSSTFoeGEzY0ZCWEdxZUhnTzc5NEZzcllVWDdWd1RHM1RXQQ?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-07-14T14:08:46+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Jul 2026 15:00:09 GMT",
+          "source": "Resy | Right This Way"
+        }
+      ]
+    },
+    {
+      "id": "bcae330791d0",
+      "title": "J-Pop Donut Collaborations - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1vZmx2YXJKa25BRE5kUDN4ZzVzdE1FTUxRakNxTWxYU0kzbmtGdmdETVRpYzZqazVLUHZCMVd5QmgyRXJTZG55VmJVV2p1cVcxcXN2elgxazJmNGdGdTBzRkliMzQyNTlxTnBFNFlCZXZjeVXSAXhBVV95cUxQOHRkQVl6cktmREo5cW05VGE5Wkh5MHVaN2Y0YWNKWDNkYkhraWZZQVY1QWg1cV",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vZmx2YXJKa25BRE5kUDN4ZzVzdE1FTUxRakNxTWxYU0kzbmtGdmdETVRpYzZqazVLUHZCMVd5QmgyRXJTZG55VmJVV2p1cVcxcXN2elgxazJmNGdGdTBzRkliMzQyNTlxTnBFNFlCZXZjeVXSAXhBVV95cUxQOHRkQVl6cktmREo5cW05VGE5Wkh5MHVaN2Y0YWNKWDNkYkhraWZZQVY1QWg1cVVKZ2tPcXlCc0EyNEc0alBLWUN1QUJzUzB2OV9YbXZ4XzZpYjRQYWxtbjF2VU9pOVVhS0xJVVJnZlZKR2dSLUJjZlc?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -421,10 +306,10 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 14 Jul 2026 07:11:13 GMT",
+          "published": "Tue, 14 Jul 2026 09:08:04 GMT",
           "source": "Trend Hunter"
         }
       ]
@@ -441,7 +326,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
           "published": "Wed, 29 Apr 2026 07:00:00 GMT",
@@ -450,10 +335,10 @@
       ]
     },
     {
-      "id": "cc3b09857914",
-      "title": "Protein-Rich Chickpea Ingredients - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE15eTdNblhUdEt5cHJNd0xmenJiNHcxM0FsLWQ5Q19XeEx2VWpxVnRUVzltQWVTWHFoT1ZMS3N5Y01Od2M4LVV1c3JOYjRfWUdTVUtZNnJnc0hKRXFQ0gFiQVVfeXFMTk1CcFJza1lNeG44OXZZRVdxTEgwclprRmtrTHNjOGZ0QTFxMU51WWhJQ2R6RVBzRUdNRXZmZGVnNXJJTC10NGtzSkVqWV",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15eTdNblhUdEt5cHJNd0xmenJiNHcxM0FsLWQ5Q19XeEx2VWpxVnRUVzltQWVTWHFoT1ZMS3N5Y01Od2M4LVV1c3JOYjRfWUdTVUtZNnJnc0hKRXFQ0gFiQVVfeXFMTk1CcFJza1lNeG44OXZZRVdxTEgwclprRmtrTHNjOGZ0QTFxMU51WWhJQ2R6RVBzRUdNRXZmZGVnNXJJTC10NGtzSkVqWVRrY3p5Zlk3MDRzbzFvV2JDUlhBTFE?oc=5",
+      "id": "6c39b0d54c63",
+      "title": "Soda-Celebrating Ice Cream Parlors - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN05jRTlwRnBESEFoOUV0Um1CaFA5TXI5WTM2bWpWbXAzcDJGWk1JOV9peldOTV9JdmxDOV9OdFJIVHVYVVdwUkJHdnJRbVYwTDlrU0pXZ3VDcXlH0gFiQVVfeXFMTU9fckR6U2ZsbDlBSXVqdEd2Zmx2LXpPYUo1ZTROOHEzY24zeFRTTWJhUjI5eUFkZWFqSTJwMlpiWWE5ZVpORzFZMi1Gbn",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN05jRTlwRnBESEFoOUV0Um1CaFA5TXI5WTM2bWpWbXAzcDJGWk1JOV9peldOTV9JdmxDOV9OdFJIVHVYVVdwUkJHdnJRbVYwTDlrU0pXZ3VDcXlH0gFiQVVfeXFMTU9fckR6U2ZsbDlBSXVqdEd2Zmx2LXpPYUo1ZTROOHEzY24zeFRTTWJhUjI5eUFkZWFqSTJwMlpiWWE5ZVpORzFZMi1Gbnk4Q2RkMnBhSjVlUVpNOWdxVHhMQWc?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -461,19 +346,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 19:17:22 GMT",
+          "published": "Tue, 14 Jul 2026 07:11:13 GMT",
           "source": "Trend Hunter"
         }
       ]
     },
     {
-      "id": "530fe368f1eb",
-      "title": "Fermented Finishing Sauces - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9mZXZQMEk2T0J2amI4MGR1YW9GM05sdXd4bktDRW1oQUdOdDJMR1d2UDZXQzBWY0JoMjJxSERBbjFVSGpFY1AxVFN3bk0xMnBRZnN4d1Q3aHZYMVJqeXVsQU91dkpaWlNDRXZaUtIBckFVX3lxTE8tTWRBOHhDeV80Z2RtdnVQTVBCQi1TV1N3S19PMDcwQ1poMGY5M1pYVkpTbDU5eHcyY1YyN3",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mZXZQMEk2T0J2amI4MGR1YW9GM05sdXd4bktDRW1oQUdOdDJMR1d2UDZXQzBWY0JoMjJxSERBbjFVSGpFY1AxVFN3bk0xMnBRZnN4d1Q3aHZYMVJqeXVsQU91dkpaWlNDRXZaUtIBckFVX3lxTE8tTWRBOHhDeV80Z2RtdnVQTVBCQi1TV1N3S19PMDcwQ1poMGY5M1pYVkpTbDU5eHcyY1YyN3FzVi0tSk9fQXhPRHNKVkZvblhkNW1RbFFjbDhiY1VvZzlxN0M5c0pDVDUwMW1MS3ZFRGZGUQ?oc=5",
+      "id": "ba2923303dd7",
+      "title": "Customized Report Service – Animal protein food and drink trends in North America - agriculture canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzRNNXRUZllQS3JlaVNMTEtGeWJEMGQyclRJWE1XdXVaQkgyV0pVLVh2X29ZUjRoRElINjQxQV83SWlMR2k0R2dURk52dWhmeklpdE02UzhfLTNpQVJhOEx2ei1uYlF6aEhSa1lIbmg2N3EzVmtwNmswUEhkT3ZKNmpfQ0tpVVhiYU1ZU1Q0aVBidWJGQnFVWWd1M2QyTGF0eEhHTFFPazVvcn",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzRNNXRUZllQS3JlaVNMTEtGeWJEMGQyclRJWE1XdXVaQkgyV0pVLVh2X29ZUjRoRElINjQxQV83SWlMR2k0R2dURk52dWhmeklpdE02UzhfLTNpQVJhOEx2ei1uYlF6aEhSa1lIbmg2N3EzVmtwNmswUEhkT3ZKNmpfQ0tpVVhiYU1ZU1Q0aVBidWJGQnFVWWd1M2QyTGF0eEhHTFFPazVvcnl2MU9rRmdNSFQwZE5iMmdCajdFa1NiZ2E4R3hqWXFjaTA4aG1idG4xUDZrLXNTV21OVkZQVnFn?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -481,11 +366,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-07-14T08:25:28+00:00",
+      "first_seen": "2026-07-14T14:08:46+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 17:27:22 GMT",
-          "source": "Trend Hunter"
+          "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+          "source": "agriculture canada"
         }
       ]
     }
