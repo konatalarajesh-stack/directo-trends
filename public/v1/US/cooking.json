@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "US",
-  "generated_at": "2026-07-16T03:40:31+00:00",
+  "generated_at": "2026-07-16T08:38:27+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 24,
   "trends": [
     {
       "id": "93b611bfccad",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Wed, 15 Jul 2026 13:24:12 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Thu, 16 Jul 2026 00:49:33 GMT",
@@ -58,7 +58,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Sun, 12 Jul 2026 16:20:00 GMT",
@@ -78,7 +78,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Wed, 15 Jul 2026 16:46:01 GMT",
@@ -98,7 +98,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Wed, 15 Jul 2026 15:05:33 GMT",
@@ -118,7 +118,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Wed, 15 Jul 2026 11:22:32 GMT",
@@ -138,13 +138,36 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Wed, 01 Jul 2026 07:00:00 GMT",
           "source": "Forbes"
         }
       ]
+    },
+    {
+      "id": "a73fcb118047",
+      "title": "Regular Show's eggscellent challenge in real life!",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/F6Fr5KyVBBk",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-07-16T08:31:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "F6Fr5KyVBBk",
+          "published": "2026-07-10T19:00:18+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "d1bd236da6de",
@@ -158,13 +181,36 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 15:00:09 GMT",
           "source": "Resy | Right This Way"
         }
       ]
+    },
+    {
+      "id": "36aaa581a6a6",
+      "title": "Crème brûlée to impress!",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/7B132m9g5FY",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-07-16T08:31:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "7B132m9g5FY",
+          "published": "2026-07-09T19:30:11+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "932b601249f8",
@@ -178,7 +224,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Wed, 15 Jul 2026 13:30:00 GMT",
@@ -191,10 +237,10 @@
       ]
     },
     {
-      "id": "a77f5540ab7a",
-      "title": "Clarified Butter Popcorn Snacks - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhNE5fWFdyU3dGZ01Eb1FUVGctV0VjRUVqZnYxZ3ZSQXpMVHJyaFZBWTZLN1FQX2tYTkN1TzI5eUR5VUt0OERwUW5DNnd1aXBGdjNaTWxR0gFbQVVfeXFMT1NRSW5TYThUWFN5NGtrTXdONmlEODlZZDJOVHg3UlZ5dE9BQTI0bVU4V1Y5ZmlaNUFRZkhWSjhxZC1jSTVUb3F1NjFFc01JRjUtX2",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhNE5fWFdyU3dGZ01Eb1FUVGctV0VjRUVqZnYxZ3ZSQXpMVHJyaFZBWTZLN1FQX2tYTkN1TzI5eUR5VUt0OERwUW5DNnd1aXBGdjNaTWxR0gFbQVVfeXFMT1NRSW5TYThUWFN5NGtrTXdONmlEODlZZDJOVHg3UlZ5dE9BQTI0bVU4V1Y5ZmlaNUFRZkhWSjhxZC1jSTVUb3F1NjFFc01JRjUtX2ZzajR3UzVJaw?oc=5",
+      "id": "e2107345b95e",
+      "title": "McKinney's 2026 Food & Beverage Trends Report Sees Consumers Reclaiming Control - PR Newswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQaXg3SzFtYUN6YjllNkZ4RzYtN0FiRUZtRDNOOHRGZ0RpR1AtY0czNk1hWngxQmt1clcyMF8tVlREc0lBVGY1cjFXeUE0dW4wZzhXZ0cyODhCekxJZ1FhNVVMQ1ZmUkRKREdqMkNiUlM0Tk9Wd3IyR2ZwbWhtZEVhQ1FkUjdFMC1pdzUycnU5UHlDamUxakFvanRHeF8tdG1ndEZ4cGlVU2NSYU",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaXg3SzFtYUN6YjllNkZ4RzYtN0FiRUZtRDNOOHRGZ0RpR1AtY0czNk1hWngxQmt1clcyMF8tVlREc0lBVGY1cjFXeUE0dW4wZzhXZ0cyODhCekxJZ1FhNVVMQ1ZmUkRKREdqMkNiUlM0Tk9Wd3IyR2ZwbWhtZEVhQ1FkUjdFMC1pdzUycnU5UHlDamUxakFvanRHeF8tdG1ndEZ4cGlVU2NSYUR1UXFTWlgzdUFPci1Wek05dV9QamQ3TU1LbDBRUUVGUk1oZw?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -202,19 +248,65 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 15 Jul 2026 23:01:59 GMT",
-          "source": "Trend Hunter"
+          "published": "Mon, 13 Jul 2026 18:46:00 GMT",
+          "source": "PR Newswire"
         }
       ]
     },
     {
-      "id": "e2107345b95e",
-      "title": "McKinney's 2026 Food & Beverage Trends Report Sees Consumers Reclaiming Control - PR Newswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQaXg3SzFtYUN6YjllNkZ4RzYtN0FiRUZtRDNOOHRGZ0RpR1AtY0czNk1hWngxQmt1clcyMF8tVlREc0lBVGY1cjFXeUE0dW4wZzhXZ0cyODhCekxJZ1FhNVVMQ1ZmUkRKREdqMkNiUlM0Tk9Wd3IyR2ZwbWhtZEVhQ1FkUjdFMC1pdzUycnU5UHlDamUxakFvanRHeF8tdG1ndEZ4cGlVU2NSYU",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaXg3SzFtYUN6YjllNkZ4RzYtN0FiRUZtRDNOOHRGZ0RpR1AtY0czNk1hWngxQmt1clcyMF8tVlREc0lBVGY1cjFXeUE0dW4wZzhXZ0cyODhCekxJZ1FhNVVMQ1ZmUkRKREdqMkNiUlM0Tk9Wd3IyR2ZwbWhtZEVhQ1FkUjdFMC1pdzUycnU5UHlDamUxakFvanRHeF8tdG1ndEZ4cGlVU2NSYUR1UXFTWlgzdUFPci1Wek05dV9QamQ3TU1LbDBRUUVGUk1oZw?oc=5",
+      "id": "3c25fcd7871b",
+      "title": "The ultimate guide to freezer meal prep!",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/dGSl12zPPc0",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-07-16T08:31:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "dGSl12zPPc0",
+          "published": "2026-07-07T19:00:15+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "1cb2e5fcf176",
+      "title": "How to make the chicken fingers from Community",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/pja_69-3ty8",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-07-16T08:31:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "pja_69-3ty8",
+          "published": "2026-07-03T19:00:23+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "fd4ef8e42be3",
+      "title": "Probiotic Snack Bites - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzTzVrTTJqZE9EaDZoTXFNWFdaeS1waHBNdy1ldDVoUTdlRGZSWHVFNXFhVHFkZGtQZzlGVDJkVHR3ZW5mNVZHX3dnZnZrY3hmeDNjeDhKONIBXEFVX3lxTE5fT3NwZG45X0t4cWFValQ4VVoyd0w3NVJsYmVsSzJjaHRaelNITkJPZnh3Ml9TZS1OeW9aTmtUQm50b3RCN3ZEQWs1QlgyenVGLV",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzTzVrTTJqZE9EaDZoTXFNWFdaeS1waHBNdy1ldDVoUTdlRGZSWHVFNXFhVHFkZGtQZzlGVDJkVHR3ZW5mNVZHX3dnZnZrY3hmeDNjeDhKONIBXEFVX3lxTE5fT3NwZG45X0t4cWFValQ4VVoyd0w3NVJsYmVsSzJjaHRaelNITkJPZnh3Ml9TZS1OeW9aTmtUQm50b3RCN3ZEQWs1QlgyenVGLVZESE5zMjQtUktS?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -222,13 +314,36 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 18:46:00 GMT",
-          "source": "PR Newswire"
+          "published": "Thu, 16 Jul 2026 04:19:54 GMT",
+          "source": "Trend Hunter"
         }
       ]
+    },
+    {
+      "id": "6bdfcbc77bb0",
+      "title": "Deadpool-style chimichangas!",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/IYFrak_g_V4",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-07-16T08:31:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "IYFrak_g_V4",
+          "published": "2026-07-02T19:00:28+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "2a08ee1a913b",
@@ -242,7 +357,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Wed, 08 Jul 2026 21:00:00 GMT",
@@ -262,7 +377,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 17:09:26 GMT",
@@ -282,7 +397,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Mon, 13 Jul 2026 11:40:40 GMT",
@@ -302,7 +417,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Mon, 06 Jul 2026 15:56:33 GMT",
@@ -311,10 +426,10 @@
       ]
     },
     {
-      "id": "8e6d50f5e826",
-      "title": "Junk food giant sugar-crashes in part due to MAHA trends - WDBO",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzdmOThUckV0OTZRN3k0X3B3SVN6LXc2TFFzTVM0NEREYkJBRWM0Qm84a29oSE5VLUNrWUZRV21EREh5UTNhUFJRNVh6X19zNmJCV0ZtVWc0eTF5Vlo0OFlzdVc1b3UyYmdmWDI0WWwzYmFsdV8zV291cnNfMVhNbDdvY1FpZ1pMMEV6TjVHT21RVGtMNVRuVDJocl84NGNpenFTeWpMemlOZU",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzdmOThUckV0OTZRN3k0X3B3SVN6LXc2TFFzTVM0NEREYkJBRWM0Qm84a29oSE5VLUNrWUZRV21EREh5UTNhUFJRNVh6X19zNmJCV0ZtVWc0eTF5Vlo0OFlzdVc1b3UyYmdmWDI0WWwzYmFsdV8zV291cnNfMVhNbDdvY1FpZ1pMMEV6TjVHT21RVGtMNVRuVDJocl84NGNpenFTeWpMemlOZU9QdXFJ0gHDAUFVX3lxTE9UWGNlXzBNTjkwOHNReDZwRzBieE1GWC1SLXdYbEZuZ3dFSm1UVjhnLTNhWnVfMi0xSmY0MEdGTW9vcXEwTWJIRVdYNXc2WmcxODlaMkxLQVRsenpyYzN5OWVDM0VueXZoSTlXMzRTX3c2Sm14M3RJQ3U2OWQwek84Y0hUYWMyODZVUjYtWWtLWHY5WUF3Q090aUdvUVZmdlVnMzNkS3NyQ2NNWHg5Vk9ua2FPYnNJdVZ2cktVaGhPQ2JLWQ?oc=5",
+      "id": "bc67b26ff503",
+      "title": "The Biggest Snack Trends You’ll See on Grocery Store Shelves in 2026 - Food & Wine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9idDEzbkMtUUcxVXNJQzd4R3pScUpNazdYZEl6c1NROFdpWkM0dUVVZmhtYnE4MzBGaThrS0VCRnNUTTZzQ202dG1SMnVlLWl6T3M4YVpjOTY5S1ZSekVXdVlOcTNYMWEtcWlHemN2TUxJTmI2Umt0cFBtZw?oc=5\" target=\"_blank\">The Biggest Snack Trends You’ll See on Gr",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9idDEzbkMtUUcxVXNJQzd4R3pScUpNazdYZEl6c1NROFdpWkM0dUVVZmhtYnE4MzBGaThrS0VCRnNUTTZzQ202dG1SMnVlLWl6T3M4YVpjOTY5S1ZSekVXdVlOcTNYMWEtcWlHemN2TUxJTmI2Umt0cFBtZw?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -322,11 +437,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 15 Jul 2026 19:20:02 GMT",
-          "source": "WDBO"
+          "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+          "source": "Food & Wine"
         }
       ]
     },
@@ -342,7 +457,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 15:42:32 GMT",
@@ -351,10 +466,10 @@
       ]
     },
     {
-      "id": "1b9e6446f75f",
-      "title": "We’re Predicting 2027’s Biggest Food Trends - Sporked",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hMTdGWUVyZWZ1dUNiZHk4QTZLcWVRQ050SlROeEtPTkJZb2RHTXpmYS1JeDFwRTNKbmYzaXF1ZDdzUGhDYnFHSmgxZlh3NTE3T1Y1c3luU0ljV1RsdHE2NTNWUEJjN0k?oc=5\" target=\"_blank\">We’re Predicting 2027’s Biggest Food Trends</a>&nbsp;&nbsp;<font col",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hMTdGWUVyZWZ1dUNiZHk4QTZLcWVRQ050SlROeEtPTkJZb2RHTXpmYS1JeDFwRTNKbmYzaXF1ZDdzUGhDYnFHSmgxZlh3NTE3T1Y1c3luU0ljV1RsdHE2NTNWUEJjN0k?oc=5",
+      "id": "a77f5540ab7a",
+      "title": "Clarified Butter Popcorn Snacks - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhNE5fWFdyU3dGZ01Eb1FUVGctV0VjRUVqZnYxZ3ZSQXpMVHJyaFZBWTZLN1FQX2tYTkN1TzI5eUR5VUt0OERwUW5DNnd1aXBGdjNaTWxR0gFbQVVfeXFMT1NRSW5TYThUWFN5NGtrTXdONmlEODlZZDJOVHg3UlZ5dE9BQTI0bVU4V1Y5ZmlaNUFRZkhWSjhxZC1jSTVUb3F1NjFFc01JRjUtX2",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhNE5fWFdyU3dGZ01Eb1FUVGctV0VjRUVqZnYxZ3ZSQXpMVHJyaFZBWTZLN1FQX2tYTkN1TzI5eUR5VUt0OERwUW5DNnd1aXBGdjNaTWxR0gFbQVVfeXFMT1NRSW5TYThUWFN5NGtrTXdONmlEODlZZDJOVHg3UlZ5dE9BQTI0bVU4V1Y5ZmlaNUFRZkhWSjhxZC1jSTVUb3F1NjFFc01JRjUtX2ZzajR3UzVJaw?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -362,19 +477,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 02 Jul 2026 13:25:18 GMT",
-          "source": "Sporked"
+          "published": "Wed, 15 Jul 2026 23:01:59 GMT",
+          "source": "Trend Hunter"
         }
       ]
     },
     {
-      "id": "ea0e236a4db9",
-      "title": "Triple-Strawberry Drinks - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9ocWRhMUJFMHhZVUtQODNsams3cGpqUHZxTzZ2eUFLTFRRdzBtQlgzUkhJWDFQOG9vVHhSc2poMzJqU0M1MS1rZHJXbER5Wm12OWZXTnFYOExRNkJ1eEFMRm5KVGFGVld0am9j0gFwQVVfeXFMT1BDWGVyNENMOHJhTWxiTmRwYk9pb1ZZdkVDbGlCSHhmLS1XTDBJaG9QRkJKdDZyUGstcFZfWV",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ocWRhMUJFMHhZVUtQODNsams3cGpqUHZxTzZ2eUFLTFRRdzBtQlgzUkhJWDFQOG9vVHhSc2poMzJqU0M1MS1rZHJXbER5Wm12OWZXTnFYOExRNkJ1eEFMRm5KVGFGVld0am9j0gFwQVVfeXFMT1BDWGVyNENMOHJhTWxiTmRwYk9pb1ZZdkVDbGlCSHhmLS1XTDBJaG9QRkJKdDZyUGstcFZfWVd0OFJrOE1RdWg0X0EzbUotN01GSmNmVVhhejY0cWFZVmlMbUxKM1RBRk96X1VOdnBLcQ?oc=5",
+      "id": "1b9e6446f75f",
+      "title": "We’re Predicting 2027’s Biggest Food Trends - Sporked",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hMTdGWUVyZWZ1dUNiZHk4QTZLcWVRQ050SlROeEtPTkJZb2RHTXpmYS1JeDFwRTNKbmYzaXF1ZDdzUGhDYnFHSmgxZlh3NTE3T1Y1c3luU0ljV1RsdHE2NTNWUEJjN0k?oc=5\" target=\"_blank\">We’re Predicting 2027’s Biggest Food Trends</a>&nbsp;&nbsp;<font col",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hMTdGWUVyZWZ1dUNiZHk4QTZLcWVRQ050SlROeEtPTkJZb2RHTXpmYS1JeDFwRTNKbmYzaXF1ZDdzUGhDYnFHSmgxZlh3NTE3T1Y1c3luU0ljV1RsdHE2NTNWUEJjN0k?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +497,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-07-16T03:31:24+00:00",
+      "first_seen": "2026-07-16T08:29:23+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 15 Jul 2026 19:36:59 GMT",
-          "source": "Trend Hunter"
+          "published": "Thu, 02 Jul 2026 13:25:18 GMT",
+          "source": "Sporked"
         }
       ]
     }

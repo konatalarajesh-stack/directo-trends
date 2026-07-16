@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-07-16T03:40:31+00:00",
+  "generated_at": "2026-07-16T08:38:27+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "c0d56665bd43",
-      "title": "Promoting sustainable tourism in Albania - EBRD",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGVrNjVucURzQi1QbTB1VEVHNVVTUzNUb3U2MU1peE5KaTA3Vk5lRkhwZlVyQ3dYU3JhMzBnaEt0bzNlc19kbDZmeUZTYk84UlZpbEFuODRRMlZwRURHcUxoc3pVQjdHZ1dJb3ZadkRRbjg3TnZuVDZVSDZiZWt4MklrN1BZWnB1NndtWEhJbHFzT0hubkFGV0V1N3ZSWGZ4TU10VE5JMA?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGVrNjVucURzQi1QbTB1VEVHNVVTUzNUb3U2MU1peE5KaTA3Vk5lRkhwZlVyQ3dYU3JhMzBnaEt0bzNlc19kbDZmeUZTYk84UlZpbEFuODRRMlZwRURHcUxoc3pVQjdHZ1dJb3ZadkRRbjg3TnZuVDZVSDZiZWt4MklrN1BZWnB1NndtWEhJbHFzT0hubkFGV0V1N3ZSWGZ4TU10VE5JMA?oc=5",
+      "id": "b507bc0c4545",
+      "title": "Hot weather travel advice - Northern Rail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcXB0ZjdSbV9rTkF5bThaMG9ibzBHOGR5VDQ0N1cwTktlUWV1THhabjhRWlJ2dDN0aE5YRGVTWkNPS3YwQlRkU0RocjVKdG82LTRUZm94dS1ZQzFXT2hScFQyTjdNY01xazNnczFEVlFEem1rZVlzWTV3eUI5ZzA?oc=5\" target=\"_blank\">Hot weather travel advice</a>&nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcXB0ZjdSbV9rTkF5bThaMG9ibzBHOGR5VDQ0N1cwTktlUWV1THhabjhRWlJ2dDN0aE5YRGVTWkNPS3YwQlRkU0RocjVKdG82LTRUZm94dS1ZQzFXT2hScFQyTjdNY01xazNnczFEVlFEem1rZVlzWTV3eUI5ZzA?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 16 Jul 2026 04:08:37 GMT",
+          "source": "Northern Rail"
+        }
+      ]
+    },
+    {
+      "id": "ea22479da785",
+      "title": "Travel: Living La Dolce Vita on tour of Italy’s Amalfi Coast - The Sunday Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUo4Slp1T1JmZGh3RnYzTno3aGRmTm9wZ0R2VkRQNjdxVDJMNms5bW9BSGpSSlRXeEpZaW1PUjVneTYybUt0Sk1WdEtsZjVMci1YX1REOFB1bU4zc3BPV1RBaW16dTY5OVZ5REM3bmxhR1ZPbDlqSHVTT2J4NkVBWW1KcVdNWko2UWRrWTJGU0dUZEk?oc=5\" target=\"_blank\">Travel: ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUo4Slp1T1JmZGh3RnYzTno3aGRmTm9wZ0R2VkRQNjdxVDJMNms5bW9BSGpSSlRXeEpZaW1PUjVneTYybUt0Sk1WdEtsZjVMci1YX1REOFB1bU4zc3BPV1RBaW16dTY5OVZ5REM3bmxhR1ZPbDlqSHVTT2J4NkVBWW1KcVdNWko2UWRrWTJGU0dUZEk?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-16T08:29:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 16 Jul 2026 05:03:02 GMT",
+          "source": "The Sunday Post"
+        }
+      ]
+    },
+    {
+      "id": "c0d56665bd43",
+      "title": "Promoting sustainable tourism in Albania - EBRD",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGVrNjVucURzQi1QbTB1VEVHNVVTUzNUb3U2MU1peE5KaTA3Vk5lRkhwZlVyQ3dYU3JhMzBnaEt0bzNlc19kbDZmeUZTYk84UlZpbEFuODRRMlZwRURHcUxoc3pVQjdHZ1dJb3ZadkRRbjg3TnZuVDZVSDZiZWt4MklrN1BZWnB1NndtWEhJbHFzT0hubkFGV0V1N3ZSWGZ4TU10VE5JMA?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGVrNjVucURzQi1QbTB1VEVHNVVTUzNUb3U2MU1peE5KaTA3Vk5lRkhwZlVyQ3dYU3JhMzBnaEt0bzNlc19kbDZmeUZTYk84UlZpbEFuODRRMlZwRURHcUxoc3pVQjdHZ1dJb3ZadkRRbjg3TnZuVDZVSDZiZWt4MklrN1BZWnB1NndtWEhJbHFzT0hubkFGV0V1N3ZSWGZ4TU10VE5JMA?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 15 Jul 2026 16:40:18 GMT",
@@ -31,38 +71,38 @@
       "title": "This Swaddling Arm-Supporting Sling Gives Me T-Rex Arms. It’s My Most Comfortable Travel Accessory. - The New York Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seDFXcTFDakN5c01hOVB4ckV1cFlrTDNHaUJ5SzlFc1NuWE5raHBEc0d3SHdnTEZHOEpxQngzMHdDQmlvMUFEWkozNHRFTG9Mb2Y0SG9yaWhhUlA1TS05bnNvRDhLT0o0?oc=5\" target=\"_blank\">This Swaddling Arm-Supporting Sling Gives Me T-Rex Arms. It’s My Mo",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seDFXcTFDakN5c01hOVB4ckV1cFlrTDNHaUJ5SzlFc1NuWE5raHBEc0d3SHdnTEZHOEpxQngzMHdDQmlvMUFEWkozNHRFTG9Mb2Y0SG9yaWhhUlA1TS05bnNvRDhLT0o0?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 16 Jul 2026 02:06:30 GMT",
+          "published": "Thu, 16 Jul 2026 08:11:27 GMT",
           "source": "The New York Times"
         }
       ]
     },
     {
-      "id": "b507bc0c4545",
-      "title": "Hot weather travel advice - Northern Rail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcXB0ZjdSbV9rTkF5bThaMG9ibzBHOGR5VDQ0N1cwTktlUWV1THhabjhRWlJ2dDN0aE5YRGVTWkNPS3YwQlRkU0RocjVKdG82LTRUZm94dS1ZQzFXT2hScFQyTjdNY01xazNnczFEVlFEem1rZVlzWTV3eUI5ZzA?oc=5\" target=\"_blank\">Hot weather travel advice</a>&nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcXB0ZjdSbV9rTkF5bThaMG9ibzBHOGR5VDQ0N1cwTktlUWV1THhabjhRWlJ2dDN0aE5YRGVTWkNPS3YwQlRkU0RocjVKdG82LTRUZm94dS1ZQzFXT2hScFQyTjdNY01xazNnczFEVlFEem1rZVlzWTV3eUI5ZzA?oc=5",
-      "score": 82.8,
+      "id": "87df711a8228",
+      "title": "5 new travel-themed podcasts to listen to this week - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGVKZXZES3JMakQ4Y0JBUExybWFFc284eEtmRlZEY3RESmhRTzlwbERQZ1BSM1BIRDY3MkVmQTZTNWxFRDhyTUt5d2FDa0FSTW5DelMxWWF4ZjBZcjl2MHB2S21QZ0ZvZlh6UkJjX2tkdFZod1pZU0t0WGVqckJpSEFlV29jUkhHZFlyZHBiSjZvV29HQ3dBN2NfTDhZM2tsamotamY2LW5fMU",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGVKZXZES3JMakQ4Y0JBUExybWFFc284eEtmRlZEY3RESmhRTzlwbERQZ1BSM1BIRDY3MkVmQTZTNWxFRDhyTUt5d2FDa0FSTW5DelMxWWF4ZjBZcjl2MHB2S21QZ0ZvZlh6UkJjX2tkdFZod1pZU0t0WGVqckJpSEFlV29jUkhHZFlyZHBiSjZvV29HQ3dBN2NfTDhZM2tsamotamY2LW5fMUxGdkJsa29B?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Jul 2026 06:28:00 GMT",
-          "source": "Northern Rail"
+          "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+          "source": "The Independent"
         }
       ]
     },
@@ -71,14 +111,14 @@
       "title": "Who is ‘stealing’ Bali’s water? How tourism siphoned off a prized resource - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNm5KdWw1WXcxSEFWaHFocTNLTXhvTGRpTGpWTEZjQ2dFRUQ0a3lrajBxc3hYUTg5WFRMWG9Zek1tMUZydHR4UmwtcFprS0J2TUs1OUcwZkZCQXVhUjNXUEJWb2V6Rjd5YXZIQjVBQUZlRzVOUEt0UXJWT29wVVNBenA1MDMwSTBJN2NITlBaNlV6U25vYXc?oc=5\" target=\"_blank\">Who ",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNm5KdWw1WXcxSEFWaHFocTNLTXhvTGRpTGpWTEZjQ2dFRUQ0a3lrajBxc3hYUTg5WFRMWG9Zek1tMUZydHR4UmwtcFprS0J2TUs1OUcwZkZCQXVhUjNXUEJWb2V6Rjd5YXZIQjVBQUZlRzVOUEt0UXJWT29wVVNBenA1MDMwSTBJN2NITlBaNlV6U25vYXc?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 04:02:00 GMT",
@@ -87,50 +127,10 @@
       ]
     },
     {
-      "id": "14b13946d363",
-      "title": "2026/27 travel wear available now - Leyton Orient FC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3lzQkkwLUVWREkwcGtWUDRlYkllaF85Y0FJY1ZWVmRuZkFwNEhPYW1SdTlYeDJPbm5URk1RbENGaXYwSWlrSGQzUDk2UkdUYlIzVWN2dXI0MDBZQTh2OG8tVVFjRWxoS2lsS3I2X1BZRFJPWU1kMWRtazNqSUhzLTUzdlp2X3FJ?oc=5\" target=\"_blank\">2026/27 travel wear ava",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3lzQkkwLUVWREkwcGtWUDRlYkllaF85Y0FJY1ZWVmRuZkFwNEhPYW1SdTlYeDJPbm5URk1RbENGaXYwSWlrSGQzUDk2UkdUYlIzVWN2dXI0MDBZQTh2OG8tVVFjRWxoS2lsS3I2X1BZRFJPWU1kMWRtazNqSUhzLTUzdlp2X3FJ?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 15 Jul 2026 10:12:19 GMT",
-          "source": "Leyton Orient FC"
-        }
-      ]
-    },
-    {
-      "id": "207d10461ad4",
-      "title": "‘Feeling frazzled?’ Why picking up a pitchfork and collecting eggs is the surprising new travel trend to try - Good Housekeeping",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVVoN3A2QnhfZFVfODBwZmFFS0dJUkxkMm5GYjU5dk10ckhiTlpoRHNRdGRQYk1scjF2ek81QjJtLWk0UE9odVBrUkh4UW50LUVmWGhiMGtVeElhVUtVUVdwWmFYbDNaZ2laLU9yNXdxRTNWcW1sTXBlNHpNZTl4YmhYWnMwWG5XSGV5dW5ydEhPVDhBc21KSg?oc=5\" target=\"_blank\">‘",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVVoN3A2QnhfZFVfODBwZmFFS0dJUkxkMm5GYjU5dk10ckhiTlpoRHNRdGRQYk1scjF2ek81QjJtLWk0UE9odVBrUkh4UW50LUVmWGhiMGtVeElhVUtVUVdwWmFYbDNaZ2laLU9yNXdxRTNWcW1sTXBlNHpNZTl4YmhYWnMwWG5XSGV5dW5ydEhPVDhBc21KSg?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 15 Jul 2026 13:57:21 GMT",
-          "source": "Good Housekeeping"
-        }
-      ]
-    },
-    {
-      "id": "d70234544134",
-      "title": "Gen Z reshapes travel loyalty with new expectations - Travel Daily Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONGFwdjhVckxLaWFYVmxXSFpfU0dubWhrUGVMVnlmR3pTSk4tN1pXcU5mUjFPZEx4RmNVT2J2U1Bud3RscFU0N0ZuUVl0VEFxVGxZbl9hTjFXOUluU25lOTFfbURXcXBLRi1oUVMtQzQ4TGNoRXRaa2lLLVlITlBTRkxGUG9vVnNIcEc0WU5n?oc=5\" target=\"_blank\">Gen Z reshapes ",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGFwdjhVckxLaWFYVmxXSFpfU0dubWhrUGVMVnlmR3pTSk4tN1pXcU5mUjFPZEx4RmNVT2J2U1Bud3RscFU0N0ZuUVl0VEFxVGxZbl9hTjFXOUluU25lOTFfbURXcXBLRi1oUVMtQzQ4TGNoRXRaa2lLLVlITlBTRkxGUG9vVnNIcEc0WU5n?oc=5",
+      "id": "b4f9306fbdf0",
+      "title": "BIBA Travel Medical Directory passes 400,000 enquiries milestone - itij.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdm0wc0RnajF6bU1kZ0JHOG83UzM4emVKeFZGWndWMmVBaVpaZTNyR2p1ejBJYUpsUWVqQmVIdDlyUUtkWUVMWXVocVFkcVpnaGlQSUJUdFliNTJkTkpqYTNTc0NyazQ0WFVPYVpoeFpqR2VjUkhFWnNSb0hoWHY1VEhvOFpaLW4xRnpQMlVKbmk2ekFudkpJd3V6QUg?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdm0wc0RnajF6bU1kZ0JHOG83UzM4emVKeFZGWndWMmVBaVpaZTNyR2p1ejBJYUpsUWVqQmVIdDlyUUtkWUVMWXVocVFkcVpnaGlQSUJUdFliNTJkTkpqYTNTc0NyazQ0WFVPYVpoeFpqR2VjUkhFWnNSb0hoWHY1VEhvOFpaLW4xRnpQMlVKbmk2ekFudkpJd3V6QUg?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,11 +138,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 16 Jul 2026 02:20:33 GMT",
-          "source": "Travel Daily Media"
+          "published": "Thu, 16 Jul 2026 07:05:18 GMT",
+          "source": "itij.com"
         }
       ]
     },
@@ -158,7 +158,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 11:46:58 GMT",
@@ -167,10 +167,10 @@
       ]
     },
     {
-      "id": "7d541b0339dd",
-      "title": "AETHORIA: “It Still Blows My Mind That You Can Travel Hundreds of Miles and Meet People Who Know Your Songs” - myglobalmind.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE85dTRWbWc2ZzRpamcyenVoTktabTNYa3FTdGdqSklIZDdiUUU0Wjd2bjhvRTFseW9pWVFSMzQtejFuRFVQRjJxaWR0ZDh5M0dHUEp0ckdkSUNCVExmVGhfTTFJM1dRbWItM0h3dFc5ZUpEVW5tbmF5SUxUNC0?oc=5\" target=\"_blank\">AETHORIA: “It Still Blows My Mind That Y",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85dTRWbWc2ZzRpamcyenVoTktabTNYa3FTdGdqSklIZDdiUUU0Wjd2bjhvRTFseW9pWVFSMzQtejFuRFVQRjJxaWR0ZDh5M0dHUEp0ckdkSUNCVExmVGhfTTFJM1dRbWItM0h3dFc5ZUpEVW5tbmF5SUxUNC0?oc=5",
+      "id": "44e9c70ccf19",
+      "title": "Watch out, Londoners: half of the Piccadilly line will be closed this weekend - Time Out Worldwide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWxQU3laMm5hSEpqTWRkLW5WSm4tZFppNmQzRmVnTUEzdlFITWxVdVBuSlByaDZoZThsWVdFbk1nbW5uYldJTnpDN2dKd3JDWDRBNnhxYVV3MmQ4R3V5TjFHRGwyY2ExZE9hNVFDRk9DSlZONEhROUo0SElMOEtQdm5rb0x1dXkwYm1ZZ3RYNXoxSkZTM1EzUFdVUnhYOUlnZ0E?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWxQU3laMm5hSEpqTWRkLW5WSm4tZFppNmQzRmVnTUEzdlFITWxVdVBuSlByaDZoZThsWVdFbk1nbW5uYldJTnpDN2dKd3JDWDRBNnhxYVV3MmQ4R3V5TjFHRGwyY2ExZE9hNVFDRk9DSlZONEhROUo0SElMOEtQdm5rb0x1dXkwYm1ZZ3RYNXoxSkZTM1EzUFdVUnhYOUlnZ0E?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,7 +178,127 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 16 Jul 2026 04:56:30 GMT",
+          "source": "Time Out Worldwide"
+        }
+      ]
+    },
+    {
+      "id": "2c2fb193d6ab",
+      "title": "Edinburgh Airport Partners With Airportr To Bring Baggage-As-A-Service To One Of The UK's Fastest-Growing Travel Hubs - PR Newswire UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOTFpKQ3g1RnlYbHRJY3drOFlGaVVBRTVUS3lBV2FzTzB2STljUUhGZGZUb2N6cTlacllxdW55NXk1M0g1NE9Kd3hQcHNSb0dwOGRQNE5mdlljcDVNOERoVmJ0aktUM2pyNG5QZzNfa3ZLbzNIN2xOdEwtVVZ4VXltejU4My0yVmYyM0ktNk52RFd2aHVkVHNGNDRYYnFYclppMFNvS0tuWVpkUG",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTFpKQ3g1RnlYbHRJY3drOFlGaVVBRTVUS3lBV2FzTzB2STljUUhGZGZUb2N6cTlacllxdW55NXk1M0g1NE9Kd3hQcHNSb0dwOGRQNE5mdlljcDVNOERoVmJ0aktUM2pyNG5QZzNfa3ZLbzNIN2xOdEwtVVZ4VXltejU4My0yVmYyM0ktNk52RFd2aHVkVHNGNDRYYnFYclppMFNvS0tuWVpkUGl4S1VLYlJIOGRuR3NXeWVxajZJZ0JIdVpWS2huRzh1Wnp2aGJyTnRUMU1GbG42WlZZdGMtWVh6U0tRVUpmUFRvY0JpLS1FdmFReGFBZ0h4a25fX0RpNml4NQ?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-16T08:29:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 16 Jul 2026 06:00:00 GMT",
+          "source": "PR Newswire UK"
+        }
+      ]
+    },
+    {
+      "id": "1e5fcbd393b3",
+      "title": "‘How I turned stress-free rail travel into a regular revenue driver’ - TTG Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXFlZmxhbHQwZDVZU1lhaGFoTGx1aUZxbmZ6ZG91Qy1nMWRMbTZfMFh5aE81UmlvVmMwY1lsRHZkWUlyRFl1c00wX1djenJvLUdwZEVvVVpvdmprS0V4UkM0Vnh2aXUxQjVSNGFPNmEwV3FmaFAtQTc2bm1iY1BycEhHQU1sNlozbVN3UGpxTnlweU9kaDM4bFRqQU9jaXc3by1TV1B3?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXFlZmxhbHQwZDVZU1lhaGFoTGx1aUZxbmZ6ZG91Qy1nMWRMbTZfMFh5aE81UmlvVmMwY1lsRHZkWUlyRFl1c00wX1djenJvLUdwZEVvVVpvdmprS0V4UkM0Vnh2aXUxQjVSNGFPNmEwV3FmaFAtQTc2bm1iY1BycEhHQU1sNlozbVN3UGpxTnlweU9kaDM4bFRqQU9jaXc3by1TV1B3?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-16T08:29:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+          "source": "TTG Media"
+        }
+      ]
+    },
+    {
+      "id": "0969845222a8",
+      "title": "Festive Road hires Clagg as industry reaches for AI expertise - Business Travel News Europe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNN29Md2NTaHlhQ2dPTTFJMlJDb2EtV2M5d1QtcW0xSEdiQXAtRjJVYnhxUk9TVnR6NDZIX181UVlXaV9ud0MyYU5PbS1xWENHQ3paNUE2OXVyVTBLUjVZT1h3dlVRaXB5UzI5V0stS19JMGNqdjBjUy0xRWppdmI4RkJZR2xXV1RXM0tHUk9CRlhJUDNnN2dTaENRVEZkc3dIQUQzQWszY1Jadn",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN29Md2NTaHlhQ2dPTTFJMlJDb2EtV2M5d1QtcW0xSEdiQXAtRjJVYnhxUk9TVnR6NDZIX181UVlXaV9ud0MyYU5PbS1xWENHQ3paNUE2OXVyVTBLUjVZT1h3dlVRaXB5UzI5V0stS19JMGNqdjBjUy0xRWppdmI4RkJZR2xXV1RXM0tHUk9CRlhJUDNnN2dTaENRVEZkc3dIQUQzQWszY1JadnFsZE14bmdKYno?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-16T08:29:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 16 Jul 2026 07:24:40 GMT",
+          "source": "Business Travel News Europe"
+        }
+      ]
+    },
+    {
+      "id": "b80dff660232",
+      "title": "TransNusa Connects Two World Class Holiday Destinations with the Launch of New Bali-Phuket Scheduled - Breaking Travel News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFhiMUc4dFljSnpjTjRlR2JFT0lvZjdfNUJ1aHR6VFNuNjR0cENMbTlKTWtqb3R3OEtSVU02QTB2NUJwT1lOd25SLWM0V1ppWUJwNF9UaHFhWkZaTUh2d0p4ZWUtaDVrYTBwMU5DV05kc2djdWpwdVVvSHNjLWRKNFM4MkFNVlR4UmRJa0Ixakt3VjFCc2QzUGlleXNFcUpaZE1pVlJuS0NSWG",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFhiMUc4dFljSnpjTjRlR2JFT0lvZjdfNUJ1aHR6VFNuNjR0cENMbTlKTWtqb3R3OEtSVU02QTB2NUJwT1lOd25SLWM0V1ppWUJwNF9UaHFhWkZaTUh2d0p4ZWUtaDVrYTBwMU5DV05kc2djdWpwdVVvSHNjLWRKNFM4MkFNVlR4UmRJa0Ixakt3VjFCc2QzUGlleXNFcUpaZE1pVlJuS0NSWGFmZ3ZkeVJnZkhVekhmQjhnZndKVU4?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-16T08:29:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 16 Jul 2026 05:50:54 GMT",
+          "source": "Breaking Travel News"
+        }
+      ]
+    },
+    {
+      "id": "c0fa0e9800d3",
+      "title": "Do you need to declare weight-loss jabs on travel insurance? - which.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVFuR0xuX1ZFZy0wWmlkay04SUdlZkVIdV9tRzktSHNncGNSUmgtSUZELU1Bbkc0YkRXMkVNb01OT2NLU0VCb192QnU2SFZJR21UZVdFNlczbE9ZcmpYWjVmaU00dDc0b094WTdHUEZmUmI1ZlF5aXNRSmMwRUFBRFQtc1lSdzR4QU1FR0FoYTRrRjdNQkxCaWQ3cHl6Qm9telBLb2tLS3doaU",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVFuR0xuX1ZFZy0wWmlkay04SUdlZkVIdV9tRzktSHNncGNSUmgtSUZELU1Bbkc0YkRXMkVNb01OT2NLU0VCb192QnU2SFZJR21UZVdFNlczbE9ZcmpYWjVmaU00dDc0b094WTdHUEZmUmI1ZlF5aXNRSmMwRUFBRFQtc1lSdzR4QU1FR0FoYTRrRjdNQkxCaWQ3cHl6Qm9telBLb2tLS3doaU00Tk4wQw?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-16T08:29:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 16 Jul 2026 06:04:51 GMT",
+          "source": "which.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "7d541b0339dd",
+      "title": "AETHORIA: “It Still Blows My Mind That You Can Travel Hundreds of Miles and Meet People Who Know Your Songs” - myglobalmind.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE85dTRWbWc2ZzRpamcyenVoTktabTNYa3FTdGdqSklIZDdiUUU0Wjd2bjhvRTFseW9pWVFSMzQtejFuRFVQRjJxaWR0ZDh5M0dHUEp0ckdkSUNCVExmVGhfTTFJM1dRbWItM0h3dFc5ZUpEVW5tbmF5SUxUNC0?oc=5\" target=\"_blank\">AETHORIA: “It Still Blows My Mind That Y",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85dTRWbWc2ZzRpamcyenVoTktabTNYa3FTdGdqSklIZDdiUUU0Wjd2bjhvRTFseW9pWVFSMzQtejFuRFVQRjJxaWR0ZDh5M0dHUEp0ckdkSUNCVExmVGhfTTFJM1dRbWItM0h3dFc5ZUpEVW5tbmF5SUxUNC0?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
           "published": "Thu, 16 Jul 2026 00:03:39 GMT",
@@ -187,62 +307,42 @@
       ]
     },
     {
-      "id": "a989bcb96481",
-      "title": "Travel Counsellors agents visit Antigua as reward for World Cup incentive - Travel Weekly - Home",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU5QWmxiZ3VvY0FFeXBQOS1qZ0ZkeENGWkgwcEhVVkw4cjU2NWNwTm14ckVBRWt3RUM3OGJCZUY3SmlPWlNJbnQyWVJNaTJILTE4TDNXWkdkbVd0TXFVV1NiUGFlaHY5MVJKWEp1ckUxeUZmeF9HZG5odkljcEZJZThzY1pqeGVScTV6am5LVENWZy1iekxsZFBOZ1NJV1NxTTg5b0JYdFdocm",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU5QWmxiZ3VvY0FFeXBQOS1qZ0ZkeENGWkgwcEhVVkw4cjU2NWNwTm14ckVBRWt3RUM3OGJCZUY3SmlPWlNJbnQyWVJNaTJILTE4TDNXWkdkbVd0TXFVV1NiUGFlaHY5MVJKWEp1ckUxeUZmeF9HZG5odkljcEZJZThzY1pqeGVScTV6am5LVENWZy1iekxsZFBOZ1NJV1NxTTg5b0JYdFdocmZLVEpTMWxn?oc=5",
-      "score": 57.6,
+      "id": "19cfd02fc20e",
+      "title": "Fairytale destinations across Europe that look too magical to be real - Euronews",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVZXSTBMRVVDcXIza1JKOElxM1F5dldMMUlsSlVFRkdtVmkwbWlUMFZMdjVEMXZoTWF2azFqc0g3RHVxcTBndjhRX2tKdGlKQW1qY01MSTlrODBndmFQSmVDeWJ3QnYyakVJRUJiRThrUG9FVFp5RFJoMzc2ZlNOMjFfLWVaOWdFWjYzTnV6WkZ4REJ6dUt6S194WTFyZGhXUjEwOVRINFZINH",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVZXSTBMRVVDcXIza1JKOElxM1F5dldMMUlsSlVFRkdtVmkwbWlUMFZMdjVEMXZoTWF2azFqc0g3RHVxcTBndjhRX2tKdGlKQW1qY01MSTlrODBndmFQSmVDeWJ3QnYyakVJRUJiRThrUG9FVFp5RFJoMzc2ZlNOMjFfLWVaOWdFWjYzTnV6WkZ4REJ6dUt6S194WTFyZGhXUjEwOVRINFZINHBLWFkxMi13?oc=5",
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 15 Jul 2026 16:58:00 GMT",
-          "source": "Travel Weekly - Home"
+          "published": "Thu, 16 Jul 2026 07:16:55 GMT",
+          "source": "Euronews"
         }
       ]
     },
     {
-      "id": "6ebdcb249bf6",
-      "title": "Portugal could benefit from calls to put tourism at heart of EU policy - Portugal Resident",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHMzSUw5N0FaYkEzTGJ3eHhSRXZmekR5WGxBNTMxR3JudDRJUnFuNXd5RFZwZEdrSllheUFuWl9hbFJoN180R0VKaFgxZ0lDYzB2eUFDU2p6S3JKMWVFVFItNm5wd1hNRzZ1d2VSejNFT181WjhFMXZSWmdWXzluZ2p4bWU3NlpkQmVsS2JBYlI1LU9LN29Ga1FDVjNiSzBIa0hkYzVjdw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHMzSUw5N0FaYkEzTGJ3eHhSRXZmekR5WGxBNTMxR3JudDRJUnFuNXd5RFZwZEdrSllheUFuWl9hbFJoN180R0VKaFgxZ0lDYzB2eUFDU2p6S3JKMWVFVFItNm5wd1hNRzZ1d2VSejNFT181WjhFMXZSWmdWXzluZ2p4bWU3NlpkQmVsS2JBYlI1LU9LN29Ga1FDVjNiSzBIa0hkYzVjdw?oc=5",
-      "score": 54.0,
+      "id": "d70234544134",
+      "title": "Gen Z reshapes travel loyalty with new expectations - Travel Daily Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONGFwdjhVckxLaWFYVmxXSFpfU0dubWhrUGVMVnlmR3pTSk4tN1pXcU5mUjFPZEx4RmNVT2J2U1Bud3RscFU0N0ZuUVl0VEFxVGxZbl9hTjFXOUluU25lOTFfbURXcXBLRi1oUVMtQzQ4TGNoRXRaa2lLLVlITlBTRkxGUG9vVnNIcEc0WU5n?oc=5\" target=\"_blank\">Gen Z reshapes ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGFwdjhVckxLaWFYVmxXSFpfU0dubWhrUGVMVnlmR3pTSk4tN1pXcU5mUjFPZEx4RmNVT2J2U1Bud3RscFU0N0ZuUVl0VEFxVGxZbl9hTjFXOUluU25lOTFfbURXcXBLRi1oUVMtQzQ4TGNoRXRaa2lLLVlITlBTRkxGUG9vVnNIcEc0WU5n?oc=5",
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 15 Jul 2026 18:34:59 GMT",
-          "source": "Portugal Resident"
-        }
-      ]
-    },
-    {
-      "id": "1d093b7be341",
-      "title": "Gear Libraries Are Rewriting The Rules Of Outdoor Travel In Europe - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW1SNU91VzBaTnpoVGZsZmxpN3J0cS0zQ2NBcDBHdE9kZG9scjRVa01FTWpTSFRsNEVWMFdxY2FzWDkwOC15MFRmZU1TbjlLdXNYa1Vab0tTVkNqcVo2UGRScE13Z0pYRUptMXhVekwzVkxsTmtJelNHV0FaMl9GZzUwVEx4bVl3RTBCV3JLVFluRVlVYWM4VjVEWjdJaE8xVGxMaG1rQ1VuQz",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW1SNU91VzBaTnpoVGZsZmxpN3J0cS0zQ2NBcDBHdE9kZG9scjRVa01FTWpTSFRsNEVWMFdxY2FzWDkwOC15MFRmZU1TbjlLdXNYa1Vab0tTVkNqcVo2UGRScE13Z0pYRUptMXhVekwzVkxsTmtJelNHV0FaMl9GZzUwVEx4bVl3RTBCV3JLVFluRVlVYWM4VjVEWjdJaE8xVGxMaG1rQ1VuQzA0QzQ1MTdJcnNjWjNiVkE?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 15 Jul 2026 19:40:45 GMT",
-          "source": "Forbes"
+          "published": "Thu, 16 Jul 2026 02:20:33 GMT",
+          "source": "Travel Daily Media"
         }
       ]
     },
@@ -251,14 +351,14 @@
       "title": "Natura 2000 Network offers opportunities for sustainable tourism across Europe - environment.ec.europa.eu",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNblVPY1JMd3RvNjFWNHctNTNEU19WbkVwc1pDOWlRZzI1aThnOUhKWHFOY0JsYkxwYUc4SDJzRHhYcXJBMUlVUU13M2hWM0o3NGNqelZyNlRGT3JrOGhKTExHREJRVG9rcUNienlKVVZQVDNkSHVnUnRuR19WU1FLN0hUOUJKS2h3X2ZNTVVLaXdOTENkUzk4U05BVDVKSi1zZUY5SlpjS1NxMU",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblVPY1JMd3RvNjFWNHctNTNEU19WbkVwc1pDOWlRZzI1aThnOUhKWHFOY0JsYkxwYUc4SDJzRHhYcXJBMUlVUU13M2hWM0o3NGNqelZyNlRGT3JrOGhKTExHREJRVG9rcUNienlKVVZQVDNkSHVnUnRuR19WU1FLN0hUOUJKS2h3X2ZNTVVLaXdOTENkUzk4U05BVDVKSi1zZUY5SlpjS1NxMUdFY05CQ3Zn?oc=5",
-      "score": 46.8,
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 09:08:56 GMT",
@@ -267,110 +367,10 @@
       ]
     },
     {
-      "id": "c6123c83a73a",
-      "title": "Travel, photography and music didn’t stop for these creative writers - Northeastern Global News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE81QlIyb1VXUEY3TGVhTGYxeHZNMWgzQU9hajJEbjhGR3JtRno5VjE0cmxLZTg1cVNCNDNab0N0X3RLbEl2d3BISE4wQ25LbGZpc1I4Y0Njc0gweVRYOHhlS1ItTTh2cE0zNXlpYm1RSGk2R01xaEozVmV2RUFEdw?oc=5\" target=\"_blank\">Travel, photography and music didn’t ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81QlIyb1VXUEY3TGVhTGYxeHZNMWgzQU9hajJEbjhGR3JtRno5VjE0cmxLZTg1cVNCNDNab0N0X3RLbEl2d3BISE4wQ25LbGZpc1I4Y0Njc0gweVRYOHhlS1ItTTh2cE0zNXlpYm1RSGk2R01xaEozVmV2RUFEdw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 15 Jul 2026 18:14:26 GMT",
-          "source": "Northeastern Global News"
-        }
-      ]
-    },
-    {
-      "id": "023aa75ddc70",
-      "title": "US says it is blocking Americans in DR Congo from immediate travel home, citing Ebola - Reuters",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxObTgxRmVubEIzRTBWVnBTTFlHN1M2N1plZURRRFVWYnpVOXdtMDRxTmxaWEVmTGFlbDVNaDBCSG96UnFVaWNlVGt0dnI1am1KdHR2b0RRbWlQaWN5MXFQMmM3YmpDRU1mX3FXSXZJLVlpUi0tMnF4SlNySnJObmRDNXJldDJrS1NKbklWWUE2M2tMZFlfcE9QV19FZncwWkUweTRvWGNyZjM0TF",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObTgxRmVubEIzRTBWVnBTTFlHN1M2N1plZURRRFVWYnpVOXdtMDRxTmxaWEVmTGFlbDVNaDBCSG96UnFVaWNlVGt0dnI1am1KdHR2b0RRbWlQaWN5MXFQMmM3YmpDRU1mX3FXSXZJLVlpUi0tMnF4SlNySnJObmRDNXJldDJrS1NKbklWWUE2M2tMZFlfcE9QV19FZncwWkUweTRvWGNyZjM0TFh0TGpaZElIZllRbXlLeXJ0TmVhUDZfemxsOUd4VWVGSlhEM2t6d2ZtcEl2bnBsQUoxbVZOR3pn?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 16 Jul 2026 01:00:00 GMT",
-          "source": "Reuters"
-        }
-      ]
-    },
-    {
-      "id": "f6fc961015a8",
-      "title": "School’s out: Free bus travel for kids set to launch in summer holiday cost of living boost - GOV.UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaURVZEtzaUxsMjg3U3E4MXlIYW9lRFFaa3hLZ05IMllQdXNKQmZqb3VhajVUalJjd2N0WlMtNjFTVjVQMFl1TU9jNk41ekg0M1JHNEJZRFBJZkpCYjN2RDd1YTFONzBMOU5PYUV6UDhFcDFDck9DYTFBSUZwbTJUWTgycTBxSm80WUNZdmVOWmZYVU9WbENSQWxXUkpyMkhMV3p4b2RLUklFbX",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaURVZEtzaUxsMjg3U3E4MXlIYW9lRFFaa3hLZ05IMllQdXNKQmZqb3VhajVUalJjd2N0WlMtNjFTVjVQMFl1TU9jNk41ekg0M1JHNEJZRFBJZkpCYjN2RDd1YTFONzBMOU5PYUV6UDhFcDFDck9DYTFBSUZwbTJUWTgycTBxSm80WUNZdmVOWmZYVU9WbENSQWxXUkpyMkhMV3p4b2RLUklFbXhmMkFPREpoX2NKeE5Nc0dqclExR001Zw?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 09 Jul 2026 23:01:05 GMT",
-          "source": "GOV.UK"
-        }
-      ]
-    },
-    {
-      "id": "b6298001bf6c",
-      "title": "Kids Go Free returns for another summer of free bus travel across the West - West of England Combined Authority",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNYU9zc1AwQVhLMm9rUXRXTUZKdnVhNm1FR2NadE1wNE5mRmVFTVJ4VnJVYklCOUg3M19WY3Nmd0sxeTQtVWozVG8weUlCbXV4MUJpQi1CTzdpTTl4QmlvRG0zSTVrQlhHZmFaLU1OLVJESmM1SkdaaTRoMkUtZ2g3Qy1zbVNKNmdGellGeVRGM2kyalZDN083Q0RTNWJuR0FydmVhR0pFWl9wdW",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYU9zc1AwQVhLMm9rUXRXTUZKdnVhNm1FR2NadE1wNE5mRmVFTVJ4VnJVYklCOUg3M19WY3Nmd0sxeTQtVWozVG8weUlCbXV4MUJpQi1CTzdpTTl4QmlvRG0zSTVrQlhHZmFaLU1OLVJESmM1SkdaaTRoMkUtZ2g3Qy1zbVNKNmdGellGeVRGM2kyalZDN083Q0RTNWJuR0FydmVhR0pFWl9wdW50VUw5dmJkZ2RBTUk?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 09 Jul 2026 14:51:27 GMT",
-          "source": "West of England Combined Authority"
-        }
-      ]
-    },
-    {
-      "id": "1390dd9423dc",
-      "title": "17 European Destinations That Look Straight Out Of A Fairytale - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjZMUWkwTWNMWTJnYmZMNUQwcnk0VGJlTnFnUXFwUThiM19sRk5CWVd3YVBqY0JaUDRyaXVneXZpRHZXNVFsUXNpWEVQa2txdEZsUHFKYjlEMFdiTHFmdkxfZjRjZlA0V1QyRkpMd2NRRTU2anFNenNXcmt3bTZ5cnJESUE0MnZNRUtuWXpSNkhGSnlUVVBvM1NIdXFoeEtVNllVbDhqaV9ENk",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjZMUWkwTWNMWTJnYmZMNUQwcnk0VGJlTnFnUXFwUThiM19sRk5CWVd3YVBqY0JaUDRyaXVneXZpRHZXNVFsUXNpWEVQa2txdEZsUHFKYjlEMFdiTHFmdkxfZjRjZlA0V1QyRkpMd2NRRTU2anFNenNXcmt3bTZ5cnJESUE0MnZNRUtuWXpSNkhGSnlUVVBvM1NIdXFoeEtVNllVbDhqaV9ENkJ3QmU3VUhsMA?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 14 Jul 2026 12:21:41 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "9300107611dc",
-      "title": "UK holidaymakers delay travel plans amid rising cost-of-living and geopolitical uncertainty - Travel Daily Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaWZHQjF2SHpXcWxtQmNNNC1mTFpEYlpxNDR2Y3FUZGJ4VnY1ekxtajV5dk8xeUVxLVR1TWNRQ01XdGo4d1ZWUkkxZVFfai16ZnRKVUlMcDFBdEwtaUZBQVk2SUpmdHQ2cFc1VVUwN2VKdjQzQlhWa1FRRjkwYnBGd0pNV1FqY25YMTcwcG9zNFJ5QkVseEt3SFFCWnE5VUY2SllZYXJVYnFCbG",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaWZHQjF2SHpXcWxtQmNNNC1mTFpEYlpxNDR2Y3FUZGJ4VnY1ekxtajV5dk8xeUVxLVR1TWNRQ01XdGo4d1ZWUkkxZVFfai16ZnRKVUlMcDFBdEwtaUZBQVk2SUpmdHQ2cFc1VVUwN2VKdjQzQlhWa1FRRjkwYnBGd0pNV1FqY25YMTcwcG9zNFJ5QkVseEt3SFFCWnE5VUY2SllZYXJVYnFCbGtxVDk5RE5pR1FiU2tOUk1EeGljVVQwM0U?oc=5",
+      "id": "923d508b3a8a",
+      "title": "Travel: Music tour has me feeling like the Belle of Belfast City - The Sunday Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTZ0eER5SHhDWkN0bVRJUFVhSnVDMTh3ZGdkREplczlGSVpNNFEzWXRlSF9rNjlIR25MbnM0OWxUejhaZ29nQ3BPMXdQZ1NhbjBqdzJuRjl4cVd0U05EZVYzWm9BUldvaEpSd181ckVUdld4Z1hyUDdUbU5KaHBBOVZfWGh3SHZVSlRjRW56VQ?oc=5\" target=\"_blank\">Travel: Music",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTZ0eER5SHhDWkN0bVRJUFVhSnVDMTh3ZGdkREplczlGSVpNNFEzWXRlSF9rNjlIR25MbnM0OWxUejhaZ29nQ3BPMXdQZ1NhbjBqdzJuRjl4cVd0U05EZVYzWm9BUldvaEpSd181ckVUdld4Z1hyUDdUbU5KaHBBOVZfWGh3SHZVSlRjRW56VQ?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 15 Jul 2026 22:58:26 GMT",
-          "source": "Travel Daily Media"
+          "published": "Thu, 16 Jul 2026 05:08:02 GMT",
+          "source": "The Sunday Post"
         }
       ]
     },
     {
-      "id": "64e2afebcbb4",
-      "title": "I Travel 50 Weeks A Year. These Are The Three Pieces Of Luggage I Wouldn’t Leave Home Without. - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNsYnRPUVN5T0tfQkNrTWZtMGMxVXY0YjNzbG10UzU4anQ0TnMyZGl3WU5lR2VZbml6Q2VBdHl6bExfNzRrSlFXNzA0T2x6dGhVZ19vQ2dOMzdhM1pVck1MaDNibWZlSVVYcTcxbUNVVHBoYkpMbEFWWXYxcFJTcFo0NHdNbVdlWERIdjNYTWotaGpHbVlITWVoOWN6TmNUWFZzaUNtU2o5SW",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNsYnRPUVN5T0tfQkNrTWZtMGMxVXY0YjNzbG10UzU4anQ0TnMyZGl3WU5lR2VZbml6Q2VBdHl6bExfNzRrSlFXNzA0T2x6dGhVZ19vQ2dOMzdhM1pVck1MaDNibWZlSVVYcTcxbUNVVHBoYkpMbEFWWXYxcFJTcFo0NHdNbVdlWERIdjNYTWotaGpHbVlITWVoOWN6TmNUWFZzaUNtU2o5SW1zV1VaWWpMSUc2UnRCTUhETEcteW5yQzV5SU1keElueUtqTDh5UHhxekZfM0l3c2wtVDNCQQ?oc=5",
+      "id": "d24af6807b19",
+      "title": "Port of Dover works to avoid summer travel chaos - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE41TE9JQ0lzejR6RVZOOUZqeG1iQkhtc3BscGNudTRJRmFGTWRGRllNMHFZaWJ6cmgyNGRLTU1NUmRmU0lMbW1sNWtDY3YySmVYWGdUNkpoUzVvamNK?oc=5\" target=\"_blank\">Port of Dover works to avoid summer travel chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41TE9JQ0lzejR6RVZOOUZqeG1iQkhtc3BscGNudTRJRmFGTWRGRllNMHFZaWJ6cmgyNGRLTU1NUmRmU0lMbW1sNWtDY3YySmVYWGdUNkpoUzVvamNK?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-07-16T03:31:30+00:00",
+      "first_seen": "2026-07-16T08:29:29+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 15 Jul 2026 18:05:16 GMT",
-          "source": "Forbes"
+          "published": "Tue, 14 Jul 2026 16:42:13 GMT",
+          "source": "BBC"
         }
       ]
     }
