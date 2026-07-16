@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "global",
-  "generated_at": "2026-07-16T14:26:08+00:00",
+  "generated_at": "2026-07-16T19:41:42+00:00",
   "cache_ttl_hours": 6,
   "count": 5,
   "trends": [
     {
-      "id": "a73fcb118047",
-      "title": "Regular Show's eggscellent challenge in real life!",
+      "id": "3cc7475413b2",
+      "title": "The ultimate taco night recipe!",
       "summary": null,
-      "url": "https://www.youtube.com/shorts/F6Fr5KyVBBk",
+      "url": "https://www.youtube.com/shorts/CX_8AuAY_Vo",
       "score": 88.0,
       "sources": [
         "youtube"
@@ -18,7 +18,29 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-16T14:18:53+00:00",
+      "first_seen": "2026-07-16T19:34:57+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "CX_8AuAY_Vo",
+          "published": "2026-07-16T15:00:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "a73fcb118047",
+      "title": "Regular Show's eggscellent challenge in real life!",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/F6Fr5KyVBBk",
+      "score": 84.7,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-07-16T19:34:57+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -33,14 +55,14 @@
       "title": "Crème brûlée to impress!",
       "summary": null,
       "url": "https://www.youtube.com/shorts/7B132m9g5FY",
-      "score": 84.7,
+      "score": 81.4,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-16T14:18:53+00:00",
+      "first_seen": "2026-07-16T19:34:57+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -55,14 +77,14 @@
       "title": "The ultimate guide to freezer meal prep!",
       "summary": null,
       "url": "https://www.youtube.com/shorts/dGSl12zPPc0",
-      "score": 81.4,
+      "score": 78.1,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-16T14:18:53+00:00",
+      "first_seen": "2026-07-16T19:34:57+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -77,28 +99,6 @@
       "title": "How to make the chicken fingers from Community",
       "summary": null,
       "url": "https://www.youtube.com/shorts/pja_69-3ty8",
-      "score": 78.1,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-07-16T14:18:53+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "pja_69-3ty8",
-          "published": "2026-07-03T19:00:23+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6bdfcbc77bb0",
-      "title": "Deadpool-style chimichangas!",
-      "summary": null,
-      "url": "https://www.youtube.com/shorts/IYFrak_g_V4",
       "score": 74.8,
       "sources": [
         "youtube"
@@ -106,13 +106,13 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-16T14:18:53+00:00",
+      "first_seen": "2026-07-16T19:34:57+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
           "channel_title": "Binging with Babish",
-          "video_id": "IYFrak_g_V4",
-          "published": "2026-07-02T19:00:28+00:00"
+          "video_id": "pja_69-3ty8",
+          "published": "2026-07-03T19:00:23+00:00"
         }
       ]
     }
