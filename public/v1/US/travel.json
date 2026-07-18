@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-07-17T19:33:07+00:00",
+  "generated_at": "2026-07-18T03:33:25+00:00",
   "cache_ttl_hours": 6,
-  "count": 18,
+  "count": 20,
   "trends": [
     {
-      "id": "edaae0fce286",
-      "title": "'NonnaMaxxing': Tourists are paying to travel like grandmothers - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkJpRlBLSVMzYWFDMUloWGZQNnJBOGRFOG9hUkppS0hZWERZclJNb2FsbHd0YUdJZlpBQVhtbEFKYl9MOU5aTXR1WjF1dFJ5RFlqVl9xeFdZcXRZUUp3VXhFVXo3ZkI2Q2V1UDE0bWFnbnBvMVBlR2UwcTJBZU5qeWplSWRhWnhwLVkwME10VGpmTGUzM1RDUDhyTk5CdFFhcFVsODRwcw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkJpRlBLSVMzYWFDMUloWGZQNnJBOGRFOG9hUkppS0hZWERZclJNb2FsbHd0YUdJZlpBQVhtbEFKYl9MOU5aTXR1WjF1dFJ5RFlqVl9xeFdZcXRZUUp3VXhFVXo3ZkI2Q2V1UDE0bWFnbnBvMVBlR2UwcTJBZU5qeWplSWRhWnhwLVkwME10VGpmTGUzM1RDUDhyTk5CdFFhcFVsODRwcw?oc=5",
+      "id": "8e252aebee92",
+      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 18 Jul 2026 01:17:27 GMT",
+          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+        }
+      ]
+    },
+    {
+      "id": "edaae0fce286",
+      "title": "'NonnaMaxxing': Tourists are paying to travel like grandmothers - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkJpRlBLSVMzYWFDMUloWGZQNnJBOGRFOG9hUkppS0hZWERZclJNb2FsbHd0YUdJZlpBQVhtbEFKYl9MOU5aTXR1WjF1dFJ5RFlqVl9xeFdZcXRZUUp3VXhFVXo3ZkI2Q2V1UDE0bWFnbnBvMVBlR2UwcTJBZU5qeWplSWRhWnhwLVkwME10VGpmTGUzM1RDUDhyTk5CdFFhcFVsODRwcw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkJpRlBLSVMzYWFDMUloWGZQNnJBOGRFOG9hUkppS0hZWERZclJNb2FsbHd0YUdJZlpBQVhtbEFKYl9MOU5aTXR1WjF1dFJ5RFlqVl9xeFdZcXRZUUp3VXhFVXo3ZkI2Q2V1UDE0bWFnbnBvMVBlR2UwcTJBZU5qeWplSWRhWnhwLVkwME10VGpmTGUzM1RDUDhyTk5CdFFhcFVsODRwcw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
           "published": "Fri, 17 Jul 2026 13:00:00 GMT",
@@ -31,14 +51,14 @@
       "title": "Greek travel tips: Do use GPS. Don’t anger Gods. - thereader.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4cUVFUUZqNmVMNVhtdkpzaXlwZTlPd3kyQnZxYnhMNHZ3Q0d2QjZfMzJJNGFUcXZrQzdPelcyMUhsTUZyT1BhXzV3bGFrZm83MVU4eExDdUFvREN3QXJKQXhR?oc=5\" target=\"_blank\">Greek travel tips: Do use GPS. Don’t anger Gods.</a>&nbsp;&nbsp;<font color",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4cUVFUUZqNmVMNVhtdkpzaXlwZTlPd3kyQnZxYnhMNHZ3Q0d2QjZfMzJJNGFUcXZrQzdPelcyMUhsTUZyT1BhXzV3bGFrZm83MVU4eExDdUFvREN3QXJKQXhR?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
           "published": "Fri, 17 Jul 2026 18:20:02 GMT",
@@ -51,26 +71,6 @@
       "title": "New travel deals and launches: Away x 'Toy Story', CALPAK, BÉIS and more - Good Morning America",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXzNNTTlFelNoS21CQzh0LVpLUFFHa082Q3JCRjdrMDFtdzE5M29wejJJUkpFbEpWLWZsaUVVMmQwekRDeEczRDlZQ1NzODQ0NVVnWkI3djZiUXlDRlFvaWRGSnZVM3czZ2R0UDdmbXptY2Y3bG41dDRiZWs3UmpodmRGaWxnR3NJajVv0gGQAUFVX3lxTE5TQVo0SXo4N1FWeWV4d1lTYmtxTT",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXzNNTTlFelNoS21CQzh0LVpLUFFHa082Q3JCRjdrMDFtdzE5M29wejJJUkpFbEpWLWZsaUVVMmQwekRDeEczRDlZQ1NzODQ0NVVnWkI3djZiUXlDRlFvaWRGSnZVM3czZ2R0UDdmbXptY2Y3bG41dDRiZWs3UmpodmRGaWxnR3NJajVv0gGQAUFVX3lxTE5TQVo0SXo4N1FWeWV4d1lTYmtxTTFOaEo5c2tKZ1htZ1ZoLTZQR0lVNDZDOVhrMmpnT0ZhcjJUWjItZHBRb3dLc2hSZlFyMDZ4eVFCOW9Wc0dyMm9RVVBoZ1RBcXlPcXZPRkxYU2dzY2NIM0hoc3pEU2tBUllDQllHT2pjTHNUa3BNLUJ5NWsxVw?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 17 Jul 2026 16:29:46 GMT",
-          "source": "Good Morning America"
-        }
-      ]
-    },
-    {
-      "id": "782b6fe7c364",
-      "title": "Fredericksburg District: Weekly Travel Alert for July 19-25, 2026 - Virginia Department of Transportation (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY2d3S2V6M3ROdVU3clVmSUdVLVd5UTFjSl9YU3Z0ZUl1V2tiR2ZWcE41MjJETUthZWI3WjhuZ1EwMFBMb2NfNWtkM0RLeTc1NWlVczBnZDNEUmlLNXVaUEYtWW9GQ2Y4d3lpZlRxdVJQX3ZMTHJxalJ6T1VBcTc4YlpTOTU1ZmIwUTlsS3Z3eHZHSFJrc2VfSDlYQlhqOURadXJXQnhPY3VKWF",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY2d3S2V6M3ROdVU3clVmSUdVLVd5UTFjSl9YU3Z0ZUl1V2tiR2ZWcE41MjJETUthZWI3WjhuZ1EwMFBMb2NfNWtkM0RLeTc1NWlVczBnZDNEUmlLNXVaUEYtWW9GQ2Y4d3lpZlRxdVJQX3ZMTHJxalJ6T1VBcTc4YlpTOTU1ZmIwUTlsS3Z3eHZHSFJrc2VfSDlYQlhqOURadXJXQnhPY3VKWFd3cWRJUjljQnlzcDhvdkN6bG9HWmxtRzUxLXNoT3BvME9QUkxTY192WQ?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,19 +78,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 19:19:26 GMT",
-          "source": "Virginia Department of Transportation (.gov)"
+          "published": "Fri, 17 Jul 2026 21:43:57 GMT",
+          "source": "Good Morning America"
         }
       ]
     },
     {
-      "id": "15651cba2de4",
-      "title": "MATCH PREVIEW: NC COURAGE TRAVEL TO CALIFORNIA FOR MATCH AGAINST BAY FC - NC Courage",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUNrZEZXYm5ULXlEbTdZODIzZkMzRkw5T3hrMy1QTDZCVFZwRGVoQjhmMHJpYzBsalBjdDlySHl0aV9aY2hZUGk1b3FwbTdBZTVNMEFYb3NNVUtqWklTWFFFYXpjQlkxcVNWMUJSR3RfWmNFS081blppajBldGQyRG1YNm1CTmUwR2RYWjI5RW03OVpsYmdyU2FzRjEwRlpEQll3?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUNrZEZXYm5ULXlEbTdZODIzZkMzRkw5T3hrMy1QTDZCVFZwRGVoQjhmMHJpYzBsalBjdDlySHl0aV9aY2hZUGk1b3FwbTdBZTVNMEFYb3NNVUtqWklTWFFFYXpjQlkxcVNWMUJSR3RfWmNFS081blppajBldGQyRG1YNm1CTmUwR2RYWjI5RW03OVpsYmdyU2FzRjEwRlpEQll3?oc=5",
+      "id": "be6ee5d47424",
+      "title": "From fiction to the real world - The Boston Globe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ1c3Z2U0dEVKMDFrSkcxMDJDMTNPaXg5d2V6VEI2cDVaeHhRdEJyYUN0V1hmdVNFSGZpRFVWTUZKV1VfN0x3ZXhzaU9vcExGXzRNUnByMjZwT3hpRWFGMHJGM0QxMnZPN05FUXo3SWNTZnQ3NGNRUlRzeUZORXFMcDFrQ0R1Y1VURXc?oc=5\" target=\"_blank\">From fiction to the ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ1c3Z2U0dEVKMDFrSkcxMDJDMTNPaXg5d2V6VEI2cDVaeHhRdEJyYUN0V1hmdVNFSGZpRFVWTUZKV1VfN0x3ZXhzaU9vcExGXzRNUnByMjZwT3hpRWFGMHJGM0QxMnZPN05FUXo3SWNTZnQ3NGNRUlRzeUZORXFMcDFrQ0R1Y1VURXc?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +98,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 17:26:25 GMT",
-          "source": "NC Courage"
+          "published": "Fri, 17 Jul 2026 11:55:00 GMT",
+          "source": "The Boston Globe"
         }
       ]
     },
     {
-      "id": "9b35b148eb19",
-      "title": "Destination of Sustainable Cultural Tourism Awards 2026: Finalists announced - Europa Nostra",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVdMZzR6S2IyYV9JTFFhQlo0QmRKT0lTVkNUbHF5ZjNNSGpBLWNLTFFIbjJJTmdPMnlUb1pZem1BY0lFQlA2b2VVUWRwd2RUcnJlZUFqYWY5Z09kZWFCNlJ0S2I1OEdLYlE4dlFvTkF0M2Zma1hFOG1WdWdMc1ZoQ2JReDluRXIzYndPaXZzM1JFX0ItUHotRi15U3ZDa0IxcHRLcG5sSUo?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVdMZzR6S2IyYV9JTFFhQlo0QmRKT0lTVkNUbHF5ZjNNSGpBLWNLTFFIbjJJTmdPMnlUb1pZem1BY0lFQlA2b2VVUWRwd2RUcnJlZUFqYWY5Z09kZWFCNlJ0S2I1OEdLYlE4dlFvTkF0M2Zma1hFOG1WdWdMc1ZoQ2JReDluRXIzYndPaXZzM1JFX0ItUHotRi15U3ZDa0IxcHRLcG5sSUo?oc=5",
+      "id": "d41a7cf6347f",
+      "title": "MATCH PREVIEW : Red Bull New York II Travel to Reese Stadium to Face Connecticut United FC on Sunday, July 19 - Red Bull New York",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcUNEampzVzB4V2tub1BxNTBGclFSSnpLU254R29CcjR6TndoRDZDamRYRWE5M2VETWdNZ0M3bWh2eWRHMGZWRVNhSDlwYkFyekFHcUlVTGo1NGZfWU1Mc0RNdXNiZXdmMDhEZUMyWlMzNUlxMWhZUEhMb3pEOEJUZUV1d2s3SUZpSlJLRzM1U05kbkdGYkE4S3FPNUVzYTROcVZ3NTlDRmEwbF",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcUNEampzVzB4V2tub1BxNTBGclFSSnpLU254R29CcjR6TndoRDZDamRYRWE5M2VETWdNZ0M3bWh2eWRHMGZWRVNhSDlwYkFyekFHcUlVTGo1NGZfWU1Mc0RNdXNiZXdmMDhEZUMyWlMzNUlxMWhZUEhMb3pEOEJUZUV1d2s3SUZpSlJLRzM1U05kbkdGYkE4S3FPNUVzYTROcVZ3NTlDRmEwbFRQNWdPemxIbmF4Tk9SeWFLZTh0MHNvdGpCZDNUREpsaVNnQXppM0hsN3pUMzU4Zlg2eEE?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,19 +118,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 13:20:38 GMT",
-          "source": "Europa Nostra"
+          "published": "Fri, 17 Jul 2026 19:35:34 GMT",
+          "source": "Red Bull New York"
         }
       ]
     },
     {
-      "id": "8525f23a4243",
-      "title": "Travel Advisory: Bennetts Corners Road Bridge Over I-90 In Onondaga County to Close Monday, July 20 for Several Weeks for Bridge Work | Thruway Authority - Thruway Authority (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSEtROG9wRFRFUDN2UkZhUU1NWk55U0RLaWZMOVVjdkZreWhlZlZCME9qbzBQUEZNYlU4RG1NZlVHaDR2UDZGQ2RkbFJjTjFkTnpCQ3Z5QXNjcmFtdm5VbXNFLUg5a015ZUJSZFFDbWstc0FkcnJpZkhaSlQ0dUh3emxUTlVqYi1fMFI2cW9mTktDZmRvM1JnNDhyUlY4dDlKbjQybjU5SGh0Tz",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSEtROG9wRFRFUDN2UkZhUU1NWk55U0RLaWZMOVVjdkZreWhlZlZCME9qbzBQUEZNYlU4RG1NZlVHaDR2UDZGQ2RkbFJjTjFkTnpCQ3Z5QXNjcmFtdm5VbXNFLUg5a015ZUJSZFFDbWstc0FkcnJpZkhaSlQ0dUh3emxUTlVqYi1fMFI2cW9mTktDZmRvM1JnNDhyUlY4dDlKbjQybjU5SGh0TzBWaWxiWGFxbEdUcy1qUE9JbUx0U3NmdFZI?oc=5",
+      "id": "4e43b36323d9",
+      "title": "Librarians travel to Utah Asia Campus to teach and connect - The University of Utah",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3FfWjdrZWpRdi1NZl9QTGc0RjVmODlHWkoxRmFTLUtyZHhORGp0WmFXZzZMOHgyVFQwVElhcVFzN2o5NzJIcWJFZmZ1NGtmWVI0X0wtQVlXUXdMWnZYc0hZckRzMGtfUXNpU0hENFZBV3pJaE9JTEhUWUFkWEgxUzFMMFEybGJjWVVPTmtMOTVZRnNKNGp5T1FydE4?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3FfWjdrZWpRdi1NZl9QTGc0RjVmODlHWkoxRmFTLUtyZHhORGp0WmFXZzZMOHgyVFQwVElhcVFzN2o5NzJIcWJFZmZ1NGtmWVI0X0wtQVlXUXdMWnZYc0hZckRzMGtfUXNpU0hENFZBV3pJaE9JTEhUWUFkWEgxUzFMMFEybGJjWVVPTmtMOTVZRnNKNGp5T1FydE4?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 14:33:48 GMT",
-          "source": "Thruway Authority (.gov)"
+          "published": "Fri, 17 Jul 2026 19:41:32 GMT",
+          "source": "The University of Utah"
         }
       ]
     },
     {
-      "id": "56850289767f",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9xdkJhVGE2Qkl4NnEyNVU5RlRweHc1WWtCQTZHYVdDSG1jVUlzXzlSNGtXRHVmREpOVmxlZXYySVZiczdORXRSakozbi1LLUlMREZhSVRfdl9QeFBOcWYzLTVoa1Y4UHlIclp0WHRmcDF5alExVl9KLTk3SFlMSm8?oc=5\" target=\"_blank\">Seven Americans quarantining at Keny",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xdkJhVGE2Qkl4NnEyNVU5RlRweHc1WWtCQTZHYVdDSG1jVUlzXzlSNGtXRHVmREpOVmxlZXYySVZiczdORXRSakozbi1LLUlMREZhSVRfdl9QeFBOcWYzLTVoa1Y4UHlIclp0WHRmcDF5alExVl9KLTk3SFlMSm8?oc=5",
+      "id": "571b2daecd23",
+      "title": "US aid workers quarantined in Kenya as CDC expands Ebola travel restrictions - CIDRAP",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWhRRU9CU3pRb1N1cFpsc0FUa1dac0xDc1JVS0VZQ1RqdnFXZmtfOVQwMWtWOU1FUXV6T1RMN2I2X2NoX1cwellzbWI0NThrMTlxa3h4LWZkN1FhQjhXaktfaGhhQVNCY0tVckFidzdNeExFSlM2ZzM1Rm5ES1pzY0dYblJmZUdzdUpVUW1TV3N1VGlWTlVOSFBCR29fZmt4RUNTLWdn?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWhRRU9CU3pRb1N1cFpsc0FUa1dac0xDc1JVS0VZQ1RqdnFXZmtfOVQwMWtWOU1FUXV6T1RMN2I2X2NoX1cwellzbWI0NThrMTlxa3h4LWZkN1FhQjhXaktfaGhhQVNCY0tVckFidzdNeExFSlM2ZzM1Rm5ES1pzY0dYblJmZUdzdUpVUW1TV3N1VGlWTlVOSFBCR29fZmt4RUNTLWdn?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 16:08:00 GMT",
-          "source": "The Guardian"
+          "published": "Fri, 17 Jul 2026 19:25:00 GMT",
+          "source": "CIDRAP"
         }
       ]
     },
     {
-      "id": "8099b4270320",
-      "title": "INTERVIEW: ‘The Travel Companion’ lands in Wilmington for one-night screening - WECT | TV6",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVBRZG5zOFFWWjA1MkVvMnpsRWF1YThhUC1iTDNDVUhpaHNMSC1yN0JnZ2NSSENTUDlTdDh3cDNMdFRrcTdqNnFwZk9TdFJqOENCUGtFZHM0SmJ2WFJkMWFRY1ZMYlVWUDlsSU0wRjhRU21Sd3AyNUdrTkFHdHcwbjk0cVI3UTlja2JUOFB1RlZRaWZDVnZBand6LWXSAbABQVVfeXFMTmtvOW",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVBRZG5zOFFWWjA1MkVvMnpsRWF1YThhUC1iTDNDVUhpaHNMSC1yN0JnZ2NSSENTUDlTdDh3cDNMdFRrcTdqNnFwZk9TdFJqOENCUGtFZHM0SmJ2WFJkMWFRY1ZMYlVWUDlsSU0wRjhRU21Sd3AyNUdrTkFHdHcwbjk0cVI3UTlja2JUOFB1RlZRaWZDVnZBand6LWXSAbABQVVfeXFMTmtvOWkyVnVrZzAxREVwbFFKMVdteU9XWnRSTWpJazdEUkluX2twRXF2VFYyMGl6WFdaU3NwaS1qRVBmYzY1Yjd0U21ScG05T2Z3ZlZ0eVNZdERDamdnbG1wTWxXMU5lbXpjcFVpWThuNTNTdnpUMDhqd2d1M2M5TnZ6cjBZVGFtTm52OTZWUjBlRFhORFhacWgzVTI5dGFmVGxKNHkzRE1pMk90bEI2el8?oc=5",
+      "id": "e4fca69419fe",
+      "title": "UNK students travel to Peru to provide care—and gain a new perspective - KSNB",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjhrTEluZEZyS1FtRFVLcmJsODFIbHNBNU5SdGx2aG1Jc1lrN3dVeHdMdVZqai11YXpZQUNMOTZ2OE9PX1dCU1J6YkNkTjFZTFJCZ1NlSGVYX1E0ekZqSFNPQ0haem8yOHNQMjQ2VmFYdjhGemd3MGw1dXhNNGoyYThTTnFxdkh3bmJiSmtmRVVlTjV0R2Frc2pxQTl2VzM5UWfSAbYBQVVfeX",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjhrTEluZEZyS1FtRFVLcmJsODFIbHNBNU5SdGx2aG1Jc1lrN3dVeHdMdVZqai11YXpZQUNMOTZ2OE9PX1dCU1J6YkNkTjFZTFJCZ1NlSGVYX1E0ekZqSFNPQ0haem8yOHNQMjQ2VmFYdjhGemd3MGw1dXhNNGoyYThTTnFxdkh3bmJiSmtmRVVlTjV0R2Frc2pxQTl2VzM5UWfSAbYBQVVfeXFMT0N4NVhZczlDZURDT2hxN0s4Nnd0NURqdGpkT1RFRmIzZ21RQUtSdkxvbjJsUUFBZWhLc05KX1Y2dmpXaU5QZnpuS0NzVmVNdjREZFFxUDJYalhWcUhRYjh0TUxzT0dMLWlQX0M1NzBvMXQwWURld2ZwLTNyUnY2dnVlSXRlanFOSldGcEhLMTJDejNVZWZGaEFQQVRxSlRMWnNRTEJwTWpsc3hFeTdRb1laNXhvZ3c?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,19 +178,39 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 16:19:00 GMT",
-          "source": "WECT | TV6"
+          "published": "Fri, 17 Jul 2026 23:41:00 GMT",
+          "source": "KSNB"
         }
       ]
     },
     {
-      "id": "18a7d00d55ea",
-      "title": "This WA gem named a top U.S. destination by Travel + Leisure - The Seattle Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMG16WXFBNVl1NmtnVU1oRzZoVmo2bzRpbW5jdTYwVXBpMmMxX2NMZ0pUTW5zSEhmYUR1R1NPNmJqSEtZWTRxOXE0RE9feXRRZmRsaU5tMnNpN2NJNmJjZWNKUkRzSGRZek9sRFFOdlp3Q1Rjb0E4Q2hnOVM0VmpaaWRDX1dEdVA5a3pPdEthdEphVTVVYW1xYnhlY1VGTXc5RlNiZHl2eWdraT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMG16WXFBNVl1NmtnVU1oRzZoVmo2bzRpbW5jdTYwVXBpMmMxX2NMZ0pUTW5zSEhmYUR1R1NPNmJqSEtZWTRxOXE0RE9feXRRZmRsaU5tMnNpN2NJNmJjZWNKUkRzSGRZek9sRFFOdlp3Q1Rjb0E4Q2hnOVM0VmpaaWRDX1dEdVA5a3pPdEthdEphVTVVYW1xYnhlY1VGTXc5RlNiZHl2eWdraTQ?oc=5",
+      "id": "7d7bd71e61e3",
+      "title": "Travel Tips: FIFA finale watch parties, Bite of Seattle, Seafair Torchlight Parade, more (July 16-30) - Seattle.gov",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1NUGtZRUxxcDVpRGlLTTY1dXBLdEdfaloycVBBa004RTA1R2lfQV9BVllTa0R4MEtLeTRVdG9FUVAxNnRYajJ0ZFlTYlprNlduWTJZQ3hlcFQ5Q3VkSEU0RW9GVG4tZW1BRXNWaTlMOA?oc=5\" target=\"_blank\">Travel Tips: FIFA finale watch parties, Bite of Seattle, ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NUGtZRUxxcDVpRGlLTTY1dXBLdEdfaloycVBBa004RTA1R2lfQV9BVllTa0R4MEtLeTRVdG9FUVAxNnRYajJ0ZFlTYlprNlduWTJZQ3hlcFQ5Q3VkSEU0RW9GVG4tZW1BRXNWaTlMOA?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-18T03:24:30+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 18 Jul 2026 02:14:58 GMT",
+          "source": "Seattle.gov"
+        }
+      ]
+    },
+    {
+      "id": "e17f65fbf200",
+      "title": "Arkansas tourism tops $10 billion as more visitors come to the state - K8 News | Jonesboro, Arkansas",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNbXNJYmIydUR0bWk5NTRqYkJvWXdwQ0NZdzZUSm9VMUM0MzI5ZkphVUJFd21TVXNzaWtnTllWZUh1eEVDdTdqeEZxNTlvZFMyb3FhTEVqTEdPN1hkOGppV0VVVzFDTnJLeERHYlNDTzZTTXN0RnBScjdGTU83V3NMcFZxVE9hNGJpeUF4aUZ2eGtqN2JGVVHSAaoBQVVfeXFMT2JjNnpJbFZCQX",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbXNJYmIydUR0bWk5NTRqYkJvWXdwQ0NZdzZUSm9VMUM0MzI5ZkphVUJFd21TVXNzaWtnTllWZUh1eEVDdTdqeEZxNTlvZFMyb3FhTEVqTEdPN1hkOGppV0VVVzFDTnJLeERHYlNDTzZTTXN0RnBScjdGTU83V3NMcFZxVE9hNGJpeUF4aUZ2eGtqN2JGVVHSAaoBQVVfeXFMT2JjNnpJbFZCQXQ5SW96d0J6UTJkNS12Z2lIcmJ0eTNxZHc1bFdrV2MzZHFnM3RpRHlDcVViWV8yaE1vdHdNVnpzczJrTWdobWktNXZmaTNoYVFxMkk5YWd1bjVVTEtOVUIyYzlNLTlBNkpITENFemZvakN4ckZkbWRwVXFrTGdNS09zY2hkUENScWlZMG9OdTNMdG9oa0lud3NGaWRreWx1bFE?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -198,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 17:59:25 GMT",
-          "source": "The Seattle Times"
+          "published": "Fri, 17 Jul 2026 23:32:00 GMT",
+          "source": "K8 News | Jonesboro, Arkansas"
         }
       ]
     },
     {
-      "id": "56a103cd66ff",
-      "title": "This laptop accessory comes with me every time I travel - PCWorld",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOYUlpQlRzVHE3T1ZOUEpjWVVsWTN1M3hnSXRHck8yeERpek83WGc4VVZud3MtV0tvQWVRbXI0TVdrRU9rbmRuc0VHa1BuZmVQUzluOFhsVDhzS21ibzR3TzgzUFRPc0dzZGFOZ21zWW14TlJ5bTlBbng4dEx0ekNnVDl6SDJpaS1DQ1dLemlLbDhTaVRQQzdGbjJWYm9xVTVTUUxYa2tZbw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYUlpQlRzVHE3T1ZOUEpjWVVsWTN1M3hnSXRHck8yeERpek83WGc4VVZud3MtV0tvQWVRbXI0TVdrRU9rbmRuc0VHa1BuZmVQUzluOFhsVDhzS21ibzR3TzgzUFRPc0dzZGFOZ21zWW14TlJ5bTlBbng4dEx0ekNnVDl6SDJpaS1DQ1dLemlLbDhTaVRQQzdGbjJWYm9xVTVTUUxYa2tZbw?oc=5",
+      "id": "acdb433d6643",
+      "title": "CDC issues travel notice for Costa Rica due to chikungunya outbreak - Outbreak News Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ2VrclJKeHVaSmNVTzJoaTlkQkdXa2ZDUFhnd21LblRzc2FSMGF0MVhmNnBIS1ZMZjlTbXlmdkpiN2R5Nm9oNGxHUkR2em83QXI5bGhVYkZYLWt2MlVZb0hkRkM3a0NETTNhajJWOUc5NjhkamRwR2dHTU9TdnlIbQ?oc=5\" target=\"_blank\">CDC issues travel notice for Cost",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ2VrclJKeHVaSmNVTzJoaTlkQkdXa2ZDUFhnd21LblRzc2FSMGF0MVhmNnBIS1ZMZjlTbXlmdkpiN2R5Nm9oNGxHUkR2em83QXI5bGhVYkZYLWt2MlVZb0hkRkM3a0NETTNhajJWOUc5NjhkamRwR2dHTU9TdnlIbQ?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -218,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 12:00:00 GMT",
-          "source": "PCWorld"
+          "published": "Fri, 17 Jul 2026 21:22:48 GMT",
+          "source": "Outbreak News Today"
         }
       ]
     },
     {
-      "id": "af3ef49483fe",
-      "title": "Can $1 Billion Fora Travel Challenge Expedia And Booking.com? - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNQjk1RDFoMURIVnFnS2JrdTJmdHZoZi1wUjEtdGFEZHpoem1TSjZXOU9wUlBvUTlrQkU4RWhOM0RqbzZmeWgxVHFyZkZ2eG9UZEJKaE40T1dDR1AtRFFaMG5jNXBFalhJcEJPX3BhSW82cFo1c1h3dlJVVjJsTW5LSXUtQXJiY3lIN0FDNlV3N3BsZ3oxamdoSlJhQ25tNGEzMlZKdW92SDJkY0",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQjk1RDFoMURIVnFnS2JrdTJmdHZoZi1wUjEtdGFEZHpoem1TSjZXOU9wUlBvUTlrQkU4RWhOM0RqbzZmeWgxVHFyZkZ2eG9UZEJKaE40T1dDR1AtRFFaMG5jNXBFalhJcEJPX3BhSW82cFo1c1h3dlJVVjJsTW5LSXUtQXJiY3lIN0FDNlV3N3BsZ3oxamdoSlJhQ25tNGEzMlZKdW92SDJkY0l5OHhJaHVjNG9fS00?oc=5",
+      "id": "1477779a8576",
+      "title": "'Made me feel great' | How Central Georgia capitalized on World Cup tourism at Atlanta events - WMAZ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVF9namRENmpPV2gxYk9uZTZHdlY5WVRCdEZIX0hqWkRlV1RyYnZMaVo3SGVIeVN4cFVtMjY3TUUwMUtsNy15eVdTeWhENFlhUEVrWEFxMG10elBBcmR3NUdVSXdickJDd0gtdGJRdkxsLTRlU2JNeFo4NGtVamo2eTAwdHBPNlVkTFNBZXNrSHZMOUZnTHNUY3QyN1F6cDVZckVR?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVF9namRENmpPV2gxYk9uZTZHdlY5WVRCdEZIX0hqWkRlV1RyYnZMaVo3SGVIeVN4cFVtMjY3TUUwMUtsNy15eVdTeWhENFlhUEVrWEFxMG10elBBcmR3NUdVSXdickJDd0gtdGJRdkxsLTRlU2JNeFo4NGtVamo2eTAwdHBPNlVkTFNBZXNrSHZMOUZnTHNUY3QyN1F6cDVZckVR?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -238,19 +258,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 15:07:40 GMT",
-          "source": "Forbes"
+          "published": "Fri, 17 Jul 2026 23:12:00 GMT",
+          "source": "WMAZ"
         }
       ]
     },
     {
-      "id": "48a8da298a6d",
-      "title": "The Grandmother-Approved Travel Essential I Always Pack In My Carry-On - Southern Living",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQdnE2TVBpZndYYS1ZSlhkVW8zWGRnMlh6VFQ1cHFzbm90Q2FJVlAtV2I2QTdVMGw3Y3hnanRBc292LVk3d3Q3RWVYVC1LVzZ0VTB6b28zUUJTb2FFRzN3MmxYMUFwcXNsY045Wlh4TFVpaXVnTnVxaEpuRkJrZEVlWkpNQ3lCQ3VJdzdoQlIza1dFSG8?oc=5\" target=\"_blank\">The Gran",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdnE2TVBpZndYYS1ZSlhkVW8zWGRnMlh6VFQ1cHFzbm90Q2FJVlAtV2I2QTdVMGw3Y3hnanRBc292LVk3d3Q3RWVYVC1LVzZ0VTB6b28zUUJTb2FFRzN3MmxYMUFwcXNsY045Wlh4TFVpaXVnTnVxaEpuRkJrZEVlWkpNQ3lCQ3VJdzdoQlIza1dFSG8?oc=5",
+      "id": "7ffcfa459be6",
+      "title": "Weekly Travel Advisory: Week of July 20 - Andover, MA (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZHVzZ2sySzZRZlhJbXZ5QzNLTGJETUo2TVRocUVQdm05ZmMza25HNW9LTm5EbkxvQnZGRHgzN3RWbHdtdG03UzdSQjBlbTlYUFhWbDFCejdMV2VFb3Z3?oc=5\" target=\"_blank\">Weekly Travel Advisory: Week of July 20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">An",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZHVzZ2sySzZRZlhJbXZ5QzNLTGJETUo2TVRocUVQdm05ZmMza25HNW9LTm5EbkxvQnZGRHgzN3RWbHdtdG03UzdSQjBlbTlYUFhWbDFCejdMV2VFb3Z3?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -258,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 16 Jul 2026 22:55:00 GMT",
-          "source": "Southern Living"
+          "published": "Fri, 17 Jul 2026 19:39:35 GMT",
+          "source": "Andover, MA (.gov)"
         }
       ]
     },
     {
-      "id": "1823ac4ca63b",
-      "title": "High gas prices and airfare are changing summer travel plans for millions of Americans - KBTX News 3",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1ZPV0UxZEhfeE1vR3lfUVRYc2dhVzV2c29FUm55S1RxR185ZXVET1R6d3FuakN2Vk1KaTBOaUVtdXVWN2VRNEdCOTNJVzZOYmF0a0RDd2kwNFB6LXFraHF4aGw2TkJsMXBvTW16dFlYMFVZRktGOWZWWjhQZHBra2RYU0dyS19kWG8wcG0zLVFPc1QtbkN2bDJBdHdjRVpZMk4zc2dFU0wzQz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1ZPV0UxZEhfeE1vR3lfUVRYc2dhVzV2c29FUm55S1RxR185ZXVET1R6d3FuakN2Vk1KaTBOaUVtdXVWN2VRNEdCOTNJVzZOYmF0a0RDd2kwNFB6LXFraHF4aGw2TkJsMXBvTW16dFlYMFVZRktGOWZWWjhQZHBra2RYU0dyS19kWG8wcG0zLVFPc1QtbkN2bDJBdHdjRVpZMk4zc2dFU0wzQzRw?oc=5",
+      "id": "782b6fe7c364",
+      "title": "Fredericksburg District: Weekly Travel Alert for July 19-25, 2026 - Virginia Department of Transportation (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORFAyNlo1S0RRZktaQjNCTFY1OWE1M0ZTWlFTOGJCaWtHZjBoRUdsSWlocTh4NEUxdUdpNkRwak5tSklBaTQ2OFdXLTRxRnY0RVp2TkZPSFZnUGcteEdMRF9zbW13YlJUM1JRVzludWYtdXdOTmVXYllrZ09DWFJxdUxUSkZERjRfd2ZrZnVFWDQzVXNhUThhLWp3R2hVb196WmhKZ0hjdkdYTW",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORFAyNlo1S0RRZktaQjNCTFY1OWE1M0ZTWlFTOGJCaWtHZjBoRUdsSWlocTh4NEUxdUdpNkRwak5tSklBaTQ2OFdXLTRxRnY0RVp2TkZPSFZnUGcteEdMRF9zbW13YlJUM1JRVzludWYtdXdOTmVXYllrZ09DWFJxdUxUSkZERjRfd2ZrZnVFWDQzVXNhUThhLWp3R2hVb196WmhKZ0hjdkdYTWRKUEV0S2hhRHR3VmVUYTlwdEZiVzJIZDRNMzhHZS1Oa0lCVjA?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -278,47 +298,39 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 18:53:00 GMT",
-          "source": "KBTX News 3"
-        },
-        {
-          "published": "Fri, 17 Jul 2026 18:53:00 GMT",
-          "source": "WCAX"
-        },
-        {
-          "published": "Fri, 17 Jul 2026 18:53:00 GMT",
-          "source": "WLOX"
+          "published": "Fri, 17 Jul 2026 19:19:11 GMT",
+          "source": "Virginia Department of Transportation (.gov)"
         }
       ]
     },
     {
-      "id": "fb60c8d33ffa",
-      "title": "Michael Kors’ $250 Jet Set Travel crossbody is on sale for $55 - AL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2ExRDEwNmxBREQxRDdldkk2N1FRYUJCbDBzX19OeXp5NThrcVF6WjlGNWhMM1lOTlIxRElRTkphWDlvSjU2MzZPRDhJaVNMOGdnYkNMamtXVlUzemJCWmVyeFJSOE8talZ6QUs0b0F1UGRBTEJyVEI5QTVFZnJXN2RYd01lX0pzSHA5NFppblZMeWtUNGp0YUU4VUJxTXd4UlHSAbYBQVVfeX",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2ExRDEwNmxBREQxRDdldkk2N1FRYUJCbDBzX19OeXp5NThrcVF6WjlGNWhMM1lOTlIxRElRTkphWDlvSjU2MzZPRDhJaVNMOGdnYkNMamtXVlUzemJCWmVyeFJSOE8talZ6QUs0b0F1UGRBTEJyVEI5QTVFZnJXN2RYd01lX0pzSHA5NFppblZMeWtUNGp0YUU4VUJxTXd4UlHSAbYBQVVfeXFMTzhGX1hiamEzWEM0ajI1UE85M0xhY1hQNkRWSC1td19oQ29TbTdlUlYtd3AxeVE3cjZZNzk0TF9wRG50Z0t1X1hRaUlrLVoyYVY2WmMtcW1GTVgyd3dfTzZ3ODN3dFhxd1lOZHNhODlmcUtvNm9EZ1ctS2pOZFdyYzZEUnQ4VDJVby1BcWVPbkR4Q2E4YlJnZUJRcEdsMnA2dmM4SGF1NzhSd2FXYUNVaXMtUnNxbXc?oc=5",
-      "score": 39.6,
+      "id": "72b097b5076b",
+      "title": "Barcelona’s New Message: ‘Not One Tourist More’ - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5\" target=\"_blank\">Barcelon",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0dMclN0em1KUndWT1BtRWlDTTltREFIbkYzQ3RWV1gzWWl6U0tQbzA4eEFSdTlGSmM1V0JKeDZUS2tfYzlpei1jWEhHUXBlbE1MZkpNX1dON3BaZ295cHdKR2FfUHBJTkxkdmZCaFVRMU5WYU9nTndWTTlpVWNmVFJ1clBZNzJJT01XUVJYdl94bEU?oc=5",
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 13:15:00 GMT",
-          "source": "AL.com"
+          "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "source": "The New York Times"
         }
       ]
     },
     {
-      "id": "e0894c55ed42",
-      "title": "Global Air Travel Metrics: Popular Routes, Top Destinations and More - TravelPulse",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTNvQmFNRFFnUGFhUG1WckNxdkw3YjctVWpUR050Y1hiSU9IR1Zqem84blFuLTRTSHp1b3poWW1mMW5UamE3X1VFeWJLdTJpcWJoczRLMTB6Q3J4cVRuSm1hYWJsdE9acF9icGZwYWE0SjU2MnUxbzJpTDFveVc2RXh3cDBTTmMybHZBOWprTFJrWlJSZzVZZEpqNVZxTERWWmc1b1FUZHlnZi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTNvQmFNRFFnUGFhUG1WckNxdkw3YjctVWpUR050Y1hiSU9IR1Zqem84blFuLTRTSHp1b3poWW1mMW5UamE3X1VFeWJLdTJpcWJoczRLMTB6Q3J4cVRuSm1hYWJsdE9acF9icGZwYWE0SjU2MnUxbzJpTDFveVc2RXh3cDBTTmMybHZBOWprTFJrWlJSZzVZZEpqNVZxTERWWmc1b1FUZHlnZi1uNnp6SlE4M0lTUDU3WWhfRElZMXQ4WFRZc2c?oc=5",
+      "id": "b7899657d311",
+      "title": "The study of art as travel continues at Fredonia - State University of New York at Fredonia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAybHgwZUM2ZXJtczlzNGdhNmVFUnJockdiTTVnMDFPbGlHWW56clNoSVdjY3UtVDFUOE91RDNYSHNIRlVwN1lmTVJwY0hpa3g0VlVLTDUybXB4M3hkUkRpMkpQR2pPa0lQcV9RVHpSVFZEM2FRRlI0dElBLTNVOXc?oc=5\" target=\"_blank\">The study of art as travel continues",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybHgwZUM2ZXJtczlzNGdhNmVFUnJockdiTTVnMDFPbGlHWW56clNoSVdjY3UtVDFUOE91RDNYSHNIRlVwN1lmTVJwY0hpa3g0VlVLTDUybXB4M3hkUkRpMkpQR2pPa0lQcV9RVHpSVFZEM2FRRlI0dElBLTNVOXc?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -326,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 13:00:00 GMT",
-          "source": "TravelPulse"
+          "published": "Fri, 17 Jul 2026 19:18:55 GMT",
+          "source": "State University of New York at Fredonia"
         }
       ]
     },
     {
-      "id": "67f1f711edaa",
-      "title": "Arkansas Sets Tourism Record with 54.3 Million Visitors in 2025 - KVOM 101.7",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXpuZ0tRTXY4WDF5aE9fdFZMcjJTYzFGX0pReE1GR0FGS1FZTGFQRDh5YW5IamJYWHBZSDRFbFV2eE82QWI1QWNnNDVxcEJVZTZlTlhXdmY2Z3RUTGxjUDZWY1JZTXd4LUowQjRBdGlPaGpseWY4YWNhUmdTNXdsUW9BTE0wT3Y2MlRIaF9B?oc=5\" target=\"_blank\">Arkansas Sets T",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXpuZ0tRTXY4WDF5aE9fdFZMcjJTYzFGX0pReE1GR0FGS1FZTGFQRDh5YW5IamJYWHBZSDRFbFV2eE82QWI1QWNnNDVxcEJVZTZlTlhXdmY2Z3RUTGxjUDZWY1JZTXd4LUowQjRBdGlPaGpseWY4YWNhUmdTNXdsUW9BTE0wT3Y2MlRIaF9B?oc=5",
+      "id": "588e9d3a32ee",
+      "title": "Anker’s mini 67W Max 6-in-1 Travel Power Strip now at $32 Amazon low - 9to5Toys",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZkN1cU1tamp2NURzVi01OXRDRVdWbFRwSGUxcnJ3bngwcWxHYTAyajJ2VGFyUFJ1dFRzenBneVVITmdKM1dEc2NHRV9tcFFaWVF6bmxTTDRQblVGUDYxYTdQdS1UeHhPTktPVVVJMWZYR19GZXFXLVRtSkoxb3QwaWtpSQ?oc=5\" target=\"_blank\">Anker’s mini 67W Max 6-in-1 T",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZkN1cU1tamp2NURzVi01OXRDRVdWbFRwSGUxcnJ3bngwcWxHYTAyajJ2VGFyUFJ1dFRzenBneVVITmdKM1dEc2NHRV9tcFFaWVF6bmxTTDRQblVGUDYxYTdQdS1UeHhPTktPVVVJMWZYR19GZXFXLVRtSkoxb3QwaWtpSQ?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -346,19 +358,39 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 16:07:02 GMT",
-          "source": "KVOM 101.7"
+          "published": "Fri, 17 Jul 2026 20:22:00 GMT",
+          "source": "9to5Toys"
         }
       ]
     },
     {
-      "id": "0b64c9e6f766",
-      "title": "How Janie And Jack And Limelight Hotels Are Turning Family Travel Into A Lifestyle Brand Strategy - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaFppNkZsTnV4b0Z1MDlJbVZ6Qzlzek1fTU16ckd4azNjVjEtMnVxdkpVelB6aGlIeWFCbnJ1NUhOaFRHLTRfNWxfRmRUZ2JZbGx3VDBnXzdkdFgwZmlFRnFQNFhNYjFkbTM4bzNQQjRDUmd0V2NxZVEzTTlIU0J4SU9lQ2tndUxFbW1qQ2Z3TW40NG9uaTNfdlM0UEpTc1VXT1lsZVJsOS1VTX",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaFppNkZsTnV4b0Z1MDlJbVZ6Qzlzek1fTU16ckd4azNjVjEtMnVxdkpVelB6aGlIeWFCbnJ1NUhOaFRHLTRfNWxfRmRUZ2JZbGx3VDBnXzdkdFgwZmlFRnFQNFhNYjFkbTM4bzNQQjRDUmd0V2NxZVEzTTlIU0J4SU9lQ2tndUxFbW1qQ2Z3TW40NG9uaTNfdlM0UEpTc1VXT1lsZVJsOS1VTXlqQ2UtRS1zZGYwZnFjdGtJOUw3LUtGbV9GUFc4ekVvZHZpSGY5ZWNCc3AwSFNvSlNLakltMFZMUGkyQQ?oc=5",
+      "id": "66279b567493",
+      "title": "Tokyo Wants Your Tax Money For Sustainable Tourism. Will It Work? - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGZaMkN5YVJVdGtLemZFWW91TlAtQ0JHc1pyY2FkOGJPOThiRlZyWXBDNE84ZDFUZHZGdmVRblJLaHVCRFQwQVI2bXhuS3pRcUtmcGw4UEdfTWJjWm1pRHNENFF4MjEyZm4yZ3BpZEV6cC1NVll5VUQ3RW9DMmxyODZlRENSb3laOW92TVk5R040bjhSMUk3aWxqMksyX184Y0lDOHpONy1naF",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGZaMkN5YVJVdGtLemZFWW91TlAtQ0JHc1pyY2FkOGJPOThiRlZyWXBDNE84ZDFUZHZGdmVRblJLaHVCRFQwQVI2bXhuS3pRcUtmcGw4UEdfTWJjWm1pRHNENFF4MjEyZm4yZ3BpZEV6cC1NVll5VUQ3RW9DMmxyODZlRENSb3laOW92TVk5R040bjhSMUk3aWxqMksyX184Y0lDOHpONy1naFNrU0MzLXJZX1dlQ2RTRWdpdWFYajc?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-18T03:24:30+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 17 Jul 2026 23:57:13 GMT",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "id": "3138bd88f8f3",
+      "title": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXR3MnFNZ0ZOWjJ6anJGUTZJNEZBSFVUUjA0RjN1czhKMnRZTDJqVzhwZGhYc1RvcWlWY3dyOG1QSk5Qd3VqRll0T01EQmQ3MlNVd3FZak5RNUFqV3J1NUd6dmFTMnZsTWpFcERoZjFNR09GTGNTTktMYkhrT3p4bGhsRnpCd3Z1QWlTbzF3?oc=5\" target=\"_blank\">7 Americans Sen",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXR3MnFNZ0ZOWjJ6anJGUTZJNEZBSFVUUjA0RjN1czhKMnRZTDJqVzhwZGhYc1RvcWlWY3dyOG1QSk5Qd3VqRll0T01EQmQ3MlNVd3FZak5RNUFqV3J1NUd6dmFTMnZsTWpFcERoZjFNR09GTGNTTktMYkhrT3p4bGhsRnpCd3Z1QWlTbzF3?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -366,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-17T19:24:07+00:00",
+      "first_seen": "2026-07-18T03:24:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 17:45:31 GMT",
-          "source": "Forbes"
+          "published": "Sat, 18 Jul 2026 00:22:05 GMT",
+          "source": "The New York Times"
         }
       ]
     }
