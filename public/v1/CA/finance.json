@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "CA",
-  "generated_at": "2026-07-19T19:30:42+00:00",
+  "generated_at": "2026-07-20T04:06:46+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "8feca3149b6e",
-      "title": "Egypt’s Consumer Finance Market Surges 69.3% to USD 586M in Q1 - waya.media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RvRWkxbGsyOXI0SGk3Y1ZNLVZELXhveHBpbDNEdWpxNmxDZUVySEZ5aV9aT0hXWEwyRnlfM1BTQmVFY29Wc1NwMGRzLVRJNmEzc0g5U1owUS16andNV080RTlNenhiaVEwbnRMSnVkYW9DMDMtNjdGX214akF5UTJqblNaNjg?oc=5\" target=\"_blank\">Egypt’s Consumer Finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RvRWkxbGsyOXI0SGk3Y1ZNLVZELXhveHBpbDNEdWpxNmxDZUVySEZ5aV9aT0hXWEwyRnlfM1BTQmVFY29Wc1NwMGRzLVRJNmEzc0g5U1owUS16andNV080RTlNenhiaVEwbnRMSnVkYW9DMDMtNjdGX214akF5UTJqblNaNjg?oc=5",
+      "id": "20741d60a064",
+      "title": "Money Talk - BNN Bloomberg",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE80ZGtYeGNsT3ZzX3BJQXBFeVFZMUhUWUJVd1g1RVJxTXJIcVg0MFdYWi0zUnlIWHV4STlweGk2bWFJTXhiQTNMVU5FY214a2tCRDlnUnBDMWpoT0szS3c5OQ?oc=5\" target=\"_blank\">Money Talk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNN Bloomberg</font>",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80ZGtYeGNsT3ZzX3BJQXBFeVFZMUhUWUJVd1g1RVJxTXJIcVg0MFdYWi0zUnlIWHV4STlweGk2bWFJTXhiQTNMVU5FY214a2tCRDlnUnBDMWpoT0szS3c5OQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 15 Jul 2026 19:55:38 GMT",
+          "source": "BNN Bloomberg"
+        }
+      ]
+    },
+    {
+      "id": "cacb8f032fb8",
+      "title": "Blunt superannuation warning as billionaire investor fears stock market crash: ‘Rubbish’ - Yahoo Finance Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1Mta3NQYkNjY0lPTUdfbVFVMTU5bUNZclVMRE1BZXMxN1JnXzd1WC1oTHBobnRRZzVIRkJ4dF8yb1lzUThvMDdNSTR4NGRaVHFWMHJIYnhJeUJPYjJweHhwX3hDU3JrZ01TWWQ1Zjd6UkNzRHBYUDJxNEEyOUZ5cnluVWE1amlSeWZENk00aGk0cTJOT2dOcWNkMmlvdFI4cUNRYnZZbWNlME",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1Mta3NQYkNjY0lPTUdfbVFVMTU5bUNZclVMRE1BZXMxN1JnXzd1WC1oTHBobnRRZzVIRkJ4dF8yb1lzUThvMDdNSTR4NGRaVHFWMHJIYnhJeUJPYjJweHhwX3hDU3JrZ01TWWQ1Zjd6UkNzRHBYUDJxNEEyOUZ5cnluVWE1amlSeWZENk00aGk0cTJOT2dOcWNkMmlvdFI4cUNRYnZZbWNlMExoZkdYZ0lIWTU5cmRlcE5vcWNrYTd2OF9aTWZoemhXLVI5YWc?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-07-20T03:57:42+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 19 Jul 2026 22:59:18 GMT",
+          "source": "Yahoo Finance Australia"
+        }
+      ]
+    },
+    {
+      "id": "8feca3149b6e",
+      "title": "Egypt’s Consumer Finance Market Surges 69.3% to USD 586M in Q1 - waya.media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RvRWkxbGsyOXI0SGk3Y1ZNLVZELXhveHBpbDNEdWpxNmxDZUVySEZ5aV9aT0hXWEwyRnlfM1BTQmVFY29Wc1NwMGRzLVRJNmEzc0g5U1owUS16andNV080RTlNenhiaVEwbnRMSnVkYW9DMDMtNjdGX214akF5UTJqblNaNjg?oc=5\" target=\"_blank\">Egypt’s Consumer Finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RvRWkxbGsyOXI0SGk3Y1ZNLVZELXhveHBpbDNEdWpxNmxDZUVySEZ5aV9aT0hXWEwyRnlfM1BTQmVFY29Wc1NwMGRzLVRJNmEzc0g5U1owUS16andNV080RTlNenhiaVEwbnRMSnVkYW9DMDMtNjdGX214akF5UTJqblNaNjg?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
           "published": "Sun, 19 Jul 2026 09:53:17 GMT",
@@ -31,14 +71,14 @@
       "title": "Looking for a financial adviser? Here's what to seek out, and red flags to avoid - Financial Post",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTJXdDJTbzFXUVNEQ1ZiTkMxcTFJWEkwQ3NBWEdwT0hCd0h4TzJRTWhYSEZ2SWlTYVl3VUV5Q2czVzZSaWNteDFoaElyZHhrckdpTnBRR3ZnYlNvNk9KVHF4ajhoSHNGR1ZPUWl5ZENfeG9SWENJUVAteGRtMFBYMFVsSXhSQURnSTVRQldnSQ?oc=5\" target=\"_blank\">Looking for a",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTJXdDJTbzFXUVNEQ1ZiTkMxcTFJWEkwQ3NBWEdwT0hCd0h4TzJRTWhYSEZ2SWlTYVl3VUV5Q2czVzZSaWNteDFoaElyZHhrckdpTnBRR3ZnYlNvNk9KVHF4ajhoSHNGR1ZPUWl5ZENfeG9SWENJUVAteGRtMFBYMFVsSXhSQURnSTVRQldnSQ?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
           "published": "Thu, 11 Jun 2026 07:00:00 GMT",
@@ -51,14 +91,14 @@
       "title": "Valle: Why pulling out of the stock market right now would be a really bad idea - Montreal Gazette",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGd3c2hzaHhNRnAyb2JyeGk5eVVIb3FIaDl1UXRjZXRLUlh1dHNBdlpMQWwtS1hUSFY1REhldWxROGNxX2lkWTNLUGFMb25WVGNtdl94V3I0OVlEZGRMTkxMbUZyX0h3SHF1SjhMaTJqZlA1SzBxNUtJV1BZSWh4WTR6bk12M1hZQ2lyRUF1aFMwLU12OGpvRGE3SHJuSFpfbElWWjNkYlBVej",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGd3c2hzaHhNRnAyb2JyeGk5eVVIb3FIaDl1UXRjZXRLUlh1dHNBdlpMQWwtS1hUSFY1REhldWxROGNxX2lkWTNLUGFMb25WVGNtdl94V3I0OVlEZGRMTkxMbUZyX0h3SHF1SjhMaTJqZlA1SzBxNUtJV1BZSWh4WTR6bk12M1hZQ2lyRUF1aFMwLU12OGpvRGE3SHJuSFpfbElWWjNkYlBVejdfTWJqaW1DNkhFZ3lBOVNEZ3NxVnJFREpOcV82bkRka2pOZw?oc=5",
-      "score": 82.8,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
           "published": "Mon, 09 Mar 2026 07:00:00 GMT",
@@ -67,38 +107,18 @@
       ]
     },
     {
-      "id": "3d77cc8db87e",
-      "title": "Is the stock market open on July 3? Here's the holiday trading schedule for Fourth of July. - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeGFQNW1JNVNqc2FGTnljRmhkSzllLTl1b2VqdlN5OXZ4VmRUZEdVdzdYc2lVa3RfUDZDVS1HWEk3TWVWZmh3UnZDRHRXclZnSGY1ODlnaF90cEUyVDFaS295UnEzblNZWjA2dmMtU0NzS0lNUUFXeFo3TFFKVGc5MU5iTktlcnJDUENwN3VTRXdyR203SE9TR2U2b2tvXzBXUy1yMXllRDQ0NH",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeGFQNW1JNVNqc2FGTnljRmhkSzllLTl1b2VqdlN5OXZ4VmRUZEdVdzdYc2lVa3RfUDZDVS1HWEk3TWVWZmh3UnZDRHRXclZnSGY1ODlnaF90cEUyVDFaS295UnEzblNZWjA2dmMtU0NzS0lNUUFXeFo3TFFKVGc5MU5iTktlcnJDUENwN3VTRXdyR203SE9TR2U2b2tvXzBXUy1yMXllRDQ0NHJaZjM0ZGU2akJOS051YWZUbDBYeGw1aFpyUFBwbU9lMW16RmYtUFVTdFN1WFQ2eGo1V25NeUZJeXNvZ1ZoYVFMdFZVUng4ckswM2tR?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
       "id": "dd72aa72f74e",
       "title": "Why some young people are investing based on vibes, not research - CBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnRHQTY1cEl5WWRHdTQzZVRadUZBSTNwaDhGbmt1RXdzNTJ6Z0pGb1JNaWczWFdLdFdfd1l3UTZrVlAyTmxQZHhfY1FWZ0NtOXp0OEdLQnNpQjc0bktQNmdkdWVpS2ZzTFctUGhnT2pmcEJxWk93TWVWY0JCSzRIQXBLZEdiZ0ZUeU1IakdjNzg1VGtTVzBXd0F4Yw?oc=5\" target=\"_blan",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnRHQTY1cEl5WWRHdTQzZVRadUZBSTNwaDhGbmt1RXdzNTJ6Z0pGb1JNaWczWFdLdFdfd1l3UTZrVlAyTmxQZHhfY1FWZ0NtOXp0OEdLQnNpQjc0bktQNmdkdWVpS2ZzTFctUGhnT2pmcEJxWk93TWVWY0JCSzRIQXBLZEdiZ0ZUeU1IakdjNzg1VGtTVzBXd0F4Yw?oc=5",
-      "score": 75.6,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
           "published": "Mon, 24 Nov 2025 08:00:00 GMT",
@@ -107,30 +127,10 @@
       ]
     },
     {
-      "id": "2191fe8bf90e",
-      "title": "Despite the global turmoil, you need stock market exposure for your retirement - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NPb1I1czNBRlFMTS1fYTlMTXVvamdvREY0bVNBdlNBY2JDZmpiM2gzTXhXSUJQb2M4OXdCdzY2b2dwWm5vMlZvYXpIV3Y4VGhZcno1Q2hHRVFleTRwZG9PeXZKV1NmSU9PWGhmNVRJMkY4algyMmtYYzlNMUtSdjBGX00tcV9MRjBiUnhVUDY0ZGNKUUt5Um5HZkZqX0o5WVN2RUxhNmhuZV",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NPb1I1czNBRlFMTS1fYTlMTXVvamdvREY0bVNBdlNBY2JDZmpiM2gzTXhXSUJQb2M4OXdCdzY2b2dwWm5vMlZvYXpIV3Y4VGhZcno1Q2hHRVFleTRwZG9PeXZKV1NmSU9PWGhmNVRJMkY4algyMmtYYzlNMUtSdjBGX00tcV9MRjBiUnhVUDY0ZGNKUUt5Um5HZkZqX0o5WVN2RUxhNmhuZVBQLUVVZkR3aU9EbkkwQmo1WTdfVXdjbkszeFVqdmNzX3pxdmc?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 08 Mar 2026 08:00:00 GMT",
-          "source": "The Globe and Mail"
-        }
-      ]
-    },
-    {
-      "id": "17febd9dae44",
-      "title": "How to Stay Relaxed When the Market Feels Tense - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5",
+      "id": "b3d00cfcd3a1",
+      "title": "2026 Canada Stock Market Outlook: Rally to Continue, but Gains May Be Tamer - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ01lSFZxRmIwQktydXVFOTdwX1hGUkpDSjVFaW02WnRaUFZFbjUyeWtvbkZjWGVDVURyNmtpay1UeHRaNkZvUW1wcU9GNUFXcF9EdGtMQzdzTl9IVFF4NUdlT2JhTVEyaHlzVlFEX1JMQm4tcHY3NVdoc2FIU3N1aFk2TVByRDJpd2d0cXU3elZabWR6MG5RV1BVTlRjYTJ5RWFTM1VxZnllbW",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ01lSFZxRmIwQktydXVFOTdwX1hGUkpDSjVFaW02WnRaUFZFbjUyeWtvbkZjWGVDVURyNmtpay1UeHRaNkZvUW1wcU9GNUFXcF9EdGtMQzdzTl9IVFF4NUdlT2JhTVEyaHlzVlFEX1JMQm4tcHY3NVdoc2FIU3N1aFk2TVByRDJpd2d0cXU3elZabWR6MG5RV1BVTlRjYTJ5RWFTM1VxZnllbWJkRFE?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "source": "Bloomberg.com"
+          "published": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "source": "Morningstar"
         }
       ]
     },
     {
-      "id": "3f466f3ca1f2",
-      "title": "Stocks Rise on Hot Earnings, Cool Inflation: Stock Market Today - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOY1NGZmMzcVhaZmVINVBuSVozNkY5WFozSmlXdVpaU1VFRklCQlpzVHVVSUt6Z2drU0NsbGdaTU00cXpmeE1FMzA5T2VFVGJUbV91QzA0NV90UVZ3dS1iMEpuZTZfSVFrcmZldUw3VW1vcUZtOUZZLTVaalZXb1dzYURRY2ZaajZSS2dudkN1dDdLVmxQU2Y1a3hGYUZUY0RqVlhkUGhQaw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY1NGZmMzcVhaZmVINVBuSVozNkY5WFozSmlXdVpaU1VFRklCQlpzVHVVSUt6Z2drU0NsbGdaTU00cXpmeE1FMzA5T2VFVGJUbV91QzA0NV90UVZ3dS1iMEpuZTZfSVFrcmZldUw3VW1vcUZtOUZZLTVaalZXb1dzYURRY2ZaajZSS2dudkN1dDdLVmxQU2Y1a3hGYUZUY0RqVlhkUGhQaw?oc=5",
+      "id": "2191fe8bf90e",
+      "title": "Despite the global turmoil, you need stock market exposure for your retirement - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NPb1I1czNBRlFMTS1fYTlMTXVvamdvREY0bVNBdlNBY2JDZmpiM2gzTXhXSUJQb2M4OXdCdzY2b2dwWm5vMlZvYXpIV3Y4VGhZcno1Q2hHRVFleTRwZG9PeXZKV1NmSU9PWGhmNVRJMkY4algyMmtYYzlNMUtSdjBGX00tcV9MRjBiUnhVUDY0ZGNKUUt5Um5HZkZqX0o5WVN2RUxhNmhuZV",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NPb1I1czNBRlFMTS1fYTlMTXVvamdvREY0bVNBdlNBY2JDZmpiM2gzTXhXSUJQb2M4OXdCdzY2b2dwWm5vMlZvYXpIV3Y4VGhZcno1Q2hHRVFleTRwZG9PeXZKV1NmSU9PWGhmNVRJMkY4algyMmtYYzlNMUtSdjBGX00tcV9MRjBiUnhVUDY0ZGNKUUt5Um5HZkZqX0o5WVN2RUxhNmhuZVBQLUVVZkR3aU9EbkkwQmo1WTdfVXdjbkszeFVqdmNzX3pxdmc?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 14 Jul 2026 20:10:27 GMT",
-          "source": "Kiplinger"
+          "published": "Sun, 08 Mar 2026 08:00:00 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:24:00+00:00",
+      "first_seen": "2026-07-20T04:00:02+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -213,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "3101a3559ac2",
-      "title": "Trump says 'everybody's profiting' from recent market rallies — but it’s mostly the 1% - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGNUcG1QcW43dEdMLWh5ZlpWNXUtTGhkeThmV3lEQy1XQmd1bXRYa3haWGtCWjkzamd2aUFVelJIWHlnNlM3Q1duTE1WMDFYNU1KdXlaNEdwM1hnUlVlNmhCRXJmdkZOSmprVXFYalJYWG1GYm0zRHF1Tm9Db1NVZ0U5WGtyT2Q2aDF5X01Eb0pxbU5KLW11SG5OTkw3dTRSdkRQTk42bkJoZH",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGNUcG1QcW43dEdMLWh5ZlpWNXUtTGhkeThmV3lEQy1XQmd1bXRYa3haWGtCWjkzamd2aUFVelJIWHlnNlM3Q1duTE1WMDFYNU1KdXlaNEdwM1hnUlVlNmhCRXJmdkZOSmprVXFYalJYWG1GYm0zRHF1Tm9Db1NVZ0U5WGtyT2Q2aDF5X01Eb0pxbU5KLW11SG5OTkw3dTRSdkRQTk42bkJoZHJSX3ZF0gG0AUFVX3lxTE5HV0F0Q0FSNk5QWXk4aS11YU51OTJ6TjZ1bDdDbV9CNlBlUVV4eGJBZ3BmaXhxVjktUFFwcUc5U1BRX0h3UGFiUFU5LW5sMmpYb2ItYXJaZmtkX2phd2cxaW8wUFB0U1ZxSmhWelRlVmJ4UUxVLW1vS1RpdWpmV2VpdHM3VUs5OHpYMTFic2w1dWVjRFh0Z0VFNnM0Ymk1RHJqTGlfX3dUak5CM2g1bUdEQzdJNA?oc=5",
+      "id": "17febd9dae44",
+      "title": "How to Stay Relaxed When the Market Feels Tense - Bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -224,11 +224,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "source": "CNBC"
+          "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+          "source": "Bloomberg.com"
         }
       ]
     },
@@ -244,7 +244,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -256,10 +256,10 @@
       "is_global": true
     },
     {
-      "id": "03c247db225c",
-      "title": "5 Costly Mistakes to Avoid in Today’s Unpredictable Market - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3QxYlUtb0VVZTZaWVVoZE5UaWhMVUNlVVkzV3UtdG85UVpWRHJiNTJ4aWpTVExMeW9LTWhaUm5QUDdRdFlYNEhEX0RrdGxXcUNDeURPWm1KSTh3UkplT05zX0RxbGVmWVd6WlpjTE9icXFBakREUy1VY1Jyb1FUMndoMERmUk9naGFTaFpiMEFrUTFLUDFVbGw3TFA0OC1XdUZiR0g3ZHI?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3QxYlUtb0VVZTZaWVVoZE5UaWhMVUNlVVkzV3UtdG85UVpWRHJiNTJ4aWpTVExMeW9LTWhaUm5QUDdRdFlYNEhEX0RrdGxXcUNDeURPWm1KSTh3UkplT05zX0RxbGVmWVd6WlpjTE9icXFBakREUy1VY1Jyb1FUMndoMERmUk9naGFTaFpiMEFrUTFLUDFVbGw3TFA0OC1XdUZiR0g3ZHI?oc=5",
+      "id": "02b40f373fc9",
+      "title": "Momentum funds can see sharp reversals; limit satellite portfolio exposure - Business Standard",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVWczYUg4WXJ6aWNvZGNnYURPZURoUFFvdnBFajFWQVdzRTNMTlI0OTh0ek1sRFk3VmVDTmRLQk9yQXo5STNiS1Zzc2VFaXBwU1F5YlZXOXdGUzRxVW44WVJNSTZKM0hUcXBlanplTk9CUHoybUFSUU9SLTVzSTVTOFlkdHFXT3ZiQ1B1a2wzMzBiVGN3aEwtVTZlM3kyYzliaXB3ZXlIUmJRa2",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVWczYUg4WXJ6aWNvZGNnYURPZURoUFFvdnBFajFWQVdzRTNMTlI0OTh0ek1sRFk3VmVDTmRLQk9yQXo5STNiS1Zzc2VFaXBwU1F5YlZXOXdGUzRxVW44WVJNSTZKM0hUcXBlanplTk9CUHoybUFSUU9SLTVzSTVTOFlkdHFXT3ZiQ1B1a2wzMzBiVGN3aEwtVTZlM3kyYzliaXB3ZXlIUmJRa25KUW5VdE5tQXJWQkx1NDh3THpveDdMMm52bEpJQzByczhQQk12bTA2RU5jVzdYbi1lQXJXSzkxYmpNaW_SAewBQVVfeXFMTUt5dmd3UmtOYzZqTEF6RWF1OUM0QVRxcUQzUkV5VV9Zd3kzTGRqd052Nm9razFjWDlPSVJXZVFfbnlqOTVxZkt4VnV4QUd5eE5YdUpRYUg1VkVOY0k4U29GWkZlTExkT1lIYThFdWI1YzNyMDBqYVNpQ0RoYXNEMThnRmk0SXZkTzFXVzhiZHpXcVYybWcxMVhBazUtTmdSQ0VsTVB6UXh0UTZac1h5SUMyd2U2SFRVS0NlSVdNUjZqcmpzRzdsS3pLY2JlcGNBVUluaTIxQXVkVjRjbm1nZlJFM3BOMUp2VURiblM?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -267,11 +267,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 13 Apr 2026 07:00:00 GMT",
-          "source": "Morningstar"
+          "published": "Mon, 20 Jul 2026 03:03:06 GMT",
+          "source": "Business Standard"
         }
       ]
     },
@@ -287,7 +287,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -310,7 +310,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -322,10 +322,10 @@
       "is_global": true
     },
     {
-      "id": "40f605d27f9c",
-      "title": "\"I'd Rather Earn Daily Interest Than Face a Crash\"... Investors Fleeing the Stock Market Seek Refuge in Parking-Type ETFs [Personal Finance Trends] - 아시아경제",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PdS04X3pfYzkzSlNPY3N3NW9FS2NSY1dwMDQ4el9WZHBCQTFzTTQ5UXVHbmdmVGJWUmkyYzIxVmdUMnFMeUFoWFZ1WVZFNFA2Vk9YdGNINjhsUjF2VGxRVTBWTm0?oc=5\" target=\"_blank\">\"I'd Rather Earn Daily Interest Than Face a Crash\"... Investors Fleeing ",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PdS04X3pfYzkzSlNPY3N3NW9FS2NSY1dwMDQ4el9WZHBCQTFzTTQ5UXVHbmdmVGJWUmkyYzIxVmdUMnFMeUFoWFZ1WVZFNFA2Vk9YdGNINjhsUjF2VGxRVTBWTm0?oc=5",
+      "id": "3f466f3ca1f2",
+      "title": "Stocks Rise on Hot Earnings, Cool Inflation: Stock Market Today - Kiplinger",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOY1NGZmMzcVhaZmVINVBuSVozNkY5WFozSmlXdVpaU1VFRklCQlpzVHVVSUt6Z2drU0NsbGdaTU00cXpmeE1FMzA5T2VFVGJUbV91QzA0NV90UVZ3dS1iMEpuZTZfSVFrcmZldUw3VW1vcUZtOUZZLTVaalZXb1dzYURRY2ZaajZSS2dudkN1dDdLVmxQU2Y1a3hGYUZUY0RqVlhkUGhQaw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY1NGZmMzcVhaZmVINVBuSVozNkY5WFozSmlXdVpaU1VFRklCQlpzVHVVSUt6Z2drU0NsbGdaTU00cXpmeE1FMzA5T2VFVGJUbV91QzA0NV90UVZ3dS1iMEpuZTZfSVFrcmZldUw3VW1vcUZtOUZZLTVaalZXb1dzYURRY2ZaajZSS2dudkN1dDdLVmxQU2Y1a3hGYUZUY0RqVlhkUGhQaw?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -333,11 +333,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 15 Jul 2026 22:50:00 GMT",
-          "source": "아시아경제"
+          "published": "Tue, 14 Jul 2026 20:10:27 GMT",
+          "source": "Kiplinger"
         }
       ]
     },
@@ -353,7 +353,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -365,10 +365,10 @@
       "is_global": true
     },
     {
-      "id": "004df4989d09",
-      "title": "The Rotation Trade Is Back on Wall Street - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzNyM0NWSzRsdlNQMFpaYk9pYXNkekozdERVNXBmdkJHZ21MR1lMSXBVWnZ0TnJwTmV4WjJnbVMtbnhYaWgxVE1uM3BZMFJOdTZyMFpxcGVEOU16R3BaYUpRSWxJSFVRZkNzaWxaZl9GRldwMUFfa1FDMU90UWxuMm5LMmF2dUt5R29wVnpn?oc=5\" target=\"_blank\">The Rotation Tr",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzNyM0NWSzRsdlNQMFpaYk9pYXNkekozdERVNXBmdkJHZ21MR1lMSXBVWnZ0TnJwTmV4WjJnbVMtbnhYaWgxVE1uM3BZMFJOdTZyMFpxcGVEOU16R3BaYUpRSWxJSFVRZkNzaWxaZl9GRldwMUFfa1FDMU90UWxuMm5LMmF2dUt5R29wVnpn?oc=5",
+      "id": "3101a3559ac2",
+      "title": "Trump says 'everybody's profiting' from recent market rallies — but it’s mostly the 1% - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGNUcG1QcW43dEdMLWh5ZlpWNXUtTGhkeThmV3lEQy1XQmd1bXRYa3haWGtCWjkzamd2aUFVelJIWHlnNlM3Q1duTE1WMDFYNU1KdXlaNEdwM1hnUlVlNmhCRXJmdkZOSmprVXFYalJYWG1GYm0zRHF1Tm9Db1NVZ0U5WGtyT2Q2aDF5X01Eb0pxbU5KLW11SG5OTkw3dTRSdkRQTk42bkJoZH",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGNUcG1QcW43dEdMLWh5ZlpWNXUtTGhkeThmV3lEQy1XQmd1bXRYa3haWGtCWjkzamd2aUFVelJIWHlnNlM3Q1duTE1WMDFYNU1KdXlaNEdwM1hnUlVlNmhCRXJmdkZOSmprVXFYalJYWG1GYm0zRHF1Tm9Db1NVZ0U5WGtyT2Q2aDF5X01Eb0pxbU5KLW11SG5OTkw3dTRSdkRQTk42bkJoZHJSX3ZF0gG0AUFVX3lxTE5HV0F0Q0FSNk5QWXk4aS11YU51OTJ6TjZ1bDdDbV9CNlBlUVV4eGJBZ3BmaXhxVjktUFFwcUc5U1BRX0h3UGFiUFU5LW5sMmpYb2ItYXJaZmtkX2phd2cxaW8wUFB0U1ZxSmhWelRlVmJ4UUxVLW1vS1RpdWpmV2VpdHM3VUs5OHpYMTFic2w1dWVjRFh0Z0VFNnM0Ymk1RHJqTGlfX3dUak5CM2g1bUdEQzdJNA?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -376,11 +376,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
           "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "source": "WSJ"
+          "source": "CNBC"
         }
       ]
     },
@@ -396,7 +396,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -419,7 +419,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -442,7 +442,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
           "published": "Mon, 29 Jun 2026 07:00:00 GMT",
@@ -462,7 +462,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -474,10 +474,10 @@
       "is_global": true
     },
     {
-      "id": "f9f01edef16b",
-      "title": "How to Invest in Stocks as a Beginner - NerdWallet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBrem94S0pNM0Q0OUZxbG9VQUhiSDNjdERCdzA4SlJpZDFUS2NibWNmSTFOYW54dk1CelVGaTk2WlcyX0ZLQTNtbkVnOExsblZKdUV3YUlFSFRwczNwTm81Qm1NMkptRXlsVnhmUWxQWkVaYXRs?oc=5\" target=\"_blank\">How to Invest in Stocks as a Beginner</a>&nbsp;&nbs",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrem94S0pNM0Q0OUZxbG9VQUhiSDNjdERCdzA4SlJpZDFUS2NibWNmSTFOYW54dk1CelVGaTk2WlcyX0ZLQTNtbkVnOExsblZKdUV3YUlFSFRwczNwTm81Qm1NMkptRXlsVnhmUWxQWkVaYXRs?oc=5",
+      "id": "40f605d27f9c",
+      "title": "\"I'd Rather Earn Daily Interest Than Face a Crash\"... Investors Fleeing the Stock Market Seek Refuge in Parking-Type ETFs [Personal Finance Trends] - 아시아경제",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PdS04X3pfYzkzSlNPY3N3NW9FS2NSY1dwMDQ4el9WZHBCQTFzTTQ5UXVHbmdmVGJWUmkyYzIxVmdUMnFMeUFoWFZ1WVZFNFA2Vk9YdGNINjhsUjF2VGxRVTBWTm0?oc=5\" target=\"_blank\">\"I'd Rather Earn Daily Interest Than Face a Crash\"... Investors Fleeing ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PdS04X3pfYzkzSlNPY3N3NW9FS2NSY1dwMDQ4el9WZHBCQTFzTTQ5UXVHbmdmVGJWUmkyYzIxVmdUMnFMeUFoWFZ1WVZFNFA2Vk9YdGNINjhsUjF2VGxRVTBWTm0?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -485,11 +485,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-07-19T19:21:41+00:00",
+      "first_seen": "2026-07-20T03:57:42+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 14 Jul 2026 07:00:00 GMT",
-          "source": "NerdWallet"
+          "published": "Wed, 15 Jul 2026 22:50:00 GMT",
+          "source": "아시아경제"
         }
       ]
     },
@@ -505,7 +505,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -528,7 +528,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-07-19T19:23:59+00:00",
+      "first_seen": "2026-07-20T04:00:01+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
