@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "CA",
-  "generated_at": "2026-07-20T14:38:54+00:00",
+  "generated_at": "2026-07-20T20:03:30+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "f531b67f5e5f",
-      "title": "Pete Hegseth, You Call That a Pull-Up? - The Atlantic",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVZiSHgxQkJPZ3RudjJjRGt5d0p6QjJJTU5KMmhKdVF6eGQ5NEFHb01VLTJzMzdoclhTSXZrcWNCX0JUZVFOc0pVZFFkck9NU1FvN3dJN3JsZEhCQ21WRXVQZ0F1SkRaZWc5Mkt1LXVzbUM1Qm1fbFFWU0ZEazhic25qaldCa2pCQ3JNcTVXZXdVQQ?oc=5\" target=\"_blank\">Pete Hegs",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVZiSHgxQkJPZ3RudjJjRGt5d0p6QjJJTU5KMmhKdVF6eGQ5NEFHb01VLTJzMzdoclhTSXZrcWNCX0JUZVFOc0pVZFFkck9NU1FvN3dJN3JsZEhCQ21WRXVQZ0F1SkRaZWc5Mkt1LXVzbUM1Qm1fbFFWU0ZEazhic25qaldCa2pCQ3JNcTVXZXdVQQ?oc=5",
+      "id": "028d6e6aae7b",
+      "title": "GoodLife Fitness investigating after Sikh man was allegedly forced to leave gym over kirpan - NOW Toronto",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMnVkaTVOWnZwZTFmNVRSV1c3R0pudUctNmtYM3l6SlRjcDhpQTNKaDI5MEVvNHZ5MHM1cE9GV3RkY0FVMFZHbHU3dG1GYnUwUzBiY0xscDVTV21oOUdENEYyNE8zY3ZudGJFQUl0MGx4OFN4aTJEVW5ma3JlN0RMZGxyTjExbXJaMDM4QQ?oc=5\" target=\"_blank\">GoodLife Fitness ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMnVkaTVOWnZwZTFmNVRSV1c3R0pudUctNmtYM3l6SlRjcDhpQTNKaDI5MEVvNHZ5MHM1cE9GV3RkY0FVMFZHbHU3dG1GYnUwUzBiY0xscDVTV21oOUdENEYyNE8zY3ZudGJFQUl0MGx4OFN4aTJEVW5ma3JlN0RMZGxyTjExbXJaMDM4QQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
+      "first_seen": "2026-07-20T19:54:26+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 14:28:09 GMT",
+          "source": "NOW Toronto"
+        }
+      ]
+    },
+    {
+      "id": "29460a988758",
+      "title": "Ontario gym stands by staffer after Sikh man ordered to leave for wearing kirpan - Toronto Sun",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFI1b29zRTA5b05EX2Rsdk1zV0FnQ2VBTkNWbW8td2JBYzZORDdLM0xrOW5lSWphY2FQTERTYng5QkFkWWgzajFsSXZiTGRsYVItXzNEMjJiTU43RjhDSkVsLXFYd2xSUVFLZ0dzWkpqYXVaNXVQV2JTWm82YmtBdHR3MTR5c1lXdHlWRUxEWXhHd0VDYWFVblpRNA?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFI1b29zRTA5b05EX2Rsdk1zV0FnQ2VBTkNWbW8td2JBYzZORDdLM0xrOW5lSWphY2FQTERTYng5QkFkWWgzajFsSXZiTGRsYVItXzNEMjJiTU43RjhDSkVsLXFYd2xSUVFLZ0dzWkpqYXVaNXVQV2JTWm82YmtBdHR3MTR5c1lXdHlWRUxEWXhHd0VDYWFVblpRNA?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-07-20T19:54:26+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 17:57:32 GMT",
+          "source": "Toronto Sun"
+        }
+      ]
+    },
+    {
+      "id": "f531b67f5e5f",
+      "title": "Pete Hegseth, You Call That a Pull-Up? - The Atlantic",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVZiSHgxQkJPZ3RudjJjRGt5d0p6QjJJTU5KMmhKdVF6eGQ5NEFHb01VLTJzMzdoclhTSXZrcWNCX0JUZVFOc0pVZFFkck9NU1FvN3dJN3JsZEhCQ21WRXVQZ0F1SkRaZWc5Mkt1LXVzbUM1Qm1fbFFWU0ZEazhic25qaldCa2pCQ3JNcTVXZXdVQQ?oc=5\" target=\"_blank\">Pete Hegs",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVZiSHgxQkJPZ3RudjJjRGt5d0p6QjJJTU5KMmhKdVF6eGQ5NEFHb01VLTJzMzdoclhTSXZrcWNCX0JUZVFOc0pVZFFkck9NU1FvN3dJN3JsZEhCQ21WRXVQZ0F1SkRaZWc5Mkt1LXVzbUM1Qm1fbFFWU0ZEazhic25qaldCa2pCQ3JNcTVXZXdVQQ?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-07-20T19:54:26+00:00",
       "raw_samples": [
         {
           "published": "Mon, 20 Jul 2026 11:00:00 GMT",
@@ -31,14 +71,14 @@
       "title": "Willow Gym - Electronic Arts Home Page",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlFZMXFkckpaSDFkSlc2QUcyQzBnQlg3Mk92NmZBbEpQYjczbTJubHdsd2x5cnlSSzVyS1VTSF9vdjBuNlp3MDFPd2JNT1l4eU14Z3pybEZpMEI4UnQ1R0JGYkxaTU1kUzlqU3E1RVNGbXQ1cnVvaF9yZVU5bXBmM2FpTmZFVTFWN2RDbFdqUFdVcTQ?oc=5\" target=\"_blank\">Willow G",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlFZMXFkckpaSDFkSlc2QUcyQzBnQlg3Mk92NmZBbEpQYjczbTJubHdsd2x5cnlSSzVyS1VTSF9vdjBuNlp3MDFPd2JNT1l4eU14Z3pybEZpMEI4UnQ1R0JGYkxaTU1kUzlqU3E1RVNGbXQ1cnVvaF9yZVU5bXBmM2FpTmZFVTFWN2RDbFdqUFdVcTQ?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
+      "first_seen": "2026-07-20T19:54:26+00:00",
       "raw_samples": [
         {
           "published": "Mon, 20 Jul 2026 07:56:18 GMT",
@@ -47,50 +87,10 @@
       ]
     },
     {
-      "id": "1d87ba6e3fe9",
-      "title": "NHL Summer Sizzle Workout Edition: Kyle Palmieri - NHL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEluM2gtUHpVWkdQdlMxaWYtMUh5OWQ0SkhoMDlhX05QQ1RndWwxamZ0SjQzUTd1dTJLN0d4RS1maDAzYjQtSXFiTUtNQ3RzOF9pZnprWlYtS2Nnc1pPSjZLblZCU2F3NFRESFFnNFBhM1c1NXNMRV9BbTBVdkFUM3Q5NERKLTFwYWR2Y2NoWTE4M1V6OUE?oc=5\" target=\"_blank\">NHL ",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEluM2gtUHpVWkdQdlMxaWYtMUh5OWQ0SkhoMDlhX05QQ1RndWwxamZ0SjQzUTd1dTJLN0d4RS1maDAzYjQtSXFiTUtNQ3RzOF9pZnprWlYtS2Nnc1pPSjZLblZCU2F3NFRESFFnNFBhM1c1NXNMRV9BbTBVdkFUM3Q5NERKLTFwYWR2Y2NoWTE4M1V6OUE?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 16 Jul 2026 20:19:29 GMT",
-          "source": "NHL.com"
-        }
-      ]
-    },
-    {
-      "id": "7324cb070b27",
-      "title": "Build Cardio Fitness After 40 with This Simple 20-Second Rowing Method - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1kRURmTDZWWWdFTEJEdldId2pmb28zM2R2bGx1WFlwdjZPZDA4eEY1U1lIaDBRZDVVVko0cThrYXV3RzRjTEdSTzVVTHV0Q1V2TlRaZlBSdHJJcUlCTFJ4Y0JBOVhaTDBYSWMzSWxpcURydUNCeENxMmJR?oc=5\" target=\"_blank\">Build Cardio Fitness After 40 with This Sim",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kRURmTDZWWWdFTEJEdldId2pmb28zM2R2bGx1WFlwdjZPZDA4eEY1U1lIaDBRZDVVVko0cThrYXV3RzRjTEdSTzVVTHV0Q1V2TlRaZlBSdHJJcUlCTFJ4Y0JBOVhaTDBYSWMzSWxpcURydUNCeENxMmJR?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 20 Jul 2026 12:10:27 GMT",
-          "source": "Men's Health"
-        }
-      ]
-    },
-    {
-      "id": "2bad57385eca",
-      "title": "Do this before stepping inside the gym - GMA Network",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHZUTlBTOUhIV2FRTlVKSUdpdkt2NzNXR1RFUWpHdEJfTzdjcldjWkt1Y2JCNTZyQWYtOVZsUjhFc2ttXzlxNENRN3lXY1lmVFJNTzhQSkpDeTVPT3ZHNWNsRkVrYUpabzhwX1dCYUUwaTBsSGdfckItSGFZSm9hRmR4RVNrRy1ZNjdCdm1CcXMyYk03Yl92eUlJUU1JRzhSZ3RaQVd3?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHZUTlBTOUhIV2FRTlVKSUdpdkt2NzNXR1RFUWpHdEJfTzdjcldjWkt1Y2JCNTZyQWYtOVZsUjhFc2ttXzlxNENRN3lXY1lmVFJNTzhQSkpDeTVPT3ZHNWNsRkVrYUpabzhwX1dCYUUwaTBsSGdfckItSGFZSm9hRmR4RVNrRy1ZNjdCdm1CcXMyYk03Yl92eUlJUU1JRzhSZ3RaQVd3?oc=5",
+      "id": "fca2b1940a02",
+      "title": "The Stinky Gym Clothes Solution Shared From Gym Rat to Gym Rat - New York Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9ESEhWNTROb2dhX3lna1EtOGQxTEtWV2llRks3LWxyYVFYVjhtTWQ4WFdOdzlGT1hsWm9MMFhzMl9TSG5QcFYwNjlkb2xEdnJGMzNSdFBxdDBycUpndVlFNHhQZUlQa3N1cEJ1UHJTNUJXTnJ6?oc=5\" target=\"_blank\">The Stinky Gym Clothes Solution Shared From Gym Rat",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ESEhWNTROb2dhX3lna1EtOGQxTEtWV2llRks3LWxyYVFYVjhtTWQ4WFdOdzlGT1hsWm9MMFhzMl9TSG5QcFYwNjlkb2xEdnJGMzNSdFBxdDBycUpndVlFNHhQZUlQa3N1cEJ1UHJTNUJXTnJ6?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +98,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
+      "first_seen": "2026-07-20T19:54:26+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 20 Jul 2026 10:54:27 GMT",
-          "source": "GMA Network"
+          "published": "Mon, 20 Jul 2026 15:36:03 GMT",
+          "source": "New York Magazine"
         }
       ]
     },
     {
-      "id": "5405b2767df2",
-      "title": "Fitness: Can you sweat off the consequences of too much sitting? - Montreal Gazette",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUdXanUwbGVfcGozLTRoWDZyZGs0QWVPbGNxdjZkR015aktobGtoU2tFR0VuYWlGX3A0dndoTktGVy1qTVZxTHhNRHRpNDRwSEItSUpvSTJVTGJLVmdtOXVqdWN5Y21TcFYtQUpETEIwUjg1UUpRLVBxbFlxYkJzMnI0RUFjb1gwaEpxNXcyMGN4NElhcmRjcVNvRUNWR29nRjNDb2FSVkQ4dU",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUdXanUwbGVfcGozLTRoWDZyZGs0QWVPbGNxdjZkR015aktobGtoU2tFR0VuYWlGX3A0dndoTktGVy1qTVZxTHhNRHRpNDRwSEItSUpvSTJVTGJLVmdtOXVqdWN5Y21TcFYtQUpETEIwUjg1UUpRLVBxbFlxYkJzMnI0RUFjb1gwaEpxNXcyMGN4NElhcmRjcVNvRUNWR29nRjNDb2FSVkQ4dUlkMEVV?oc=5",
+      "id": "c6cafe6dcb23",
+      "title": "Sikh man ordered to leave Windsor gym for wearing kirpan - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5BMUlMZlNfQ0ZQbGlfRFRZdkdBQTlKaHdPUmFpZWdtSWl0OG1qaWNOVXVvQVlwRXlnTzJ6NUZabkJzTGJlS0lhSGJvdzdBVXdQdEFnbkNpTDNMZ0pUeHdsc2VVR0NpeVcyaU0zTlhtanNfSDItaThvREx1bw?oc=5\" target=\"_blank\">Sikh man ordered to leave Windsor gym for",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BMUlMZlNfQ0ZQbGlfRFRZdkdBQTlKaHdPUmFpZWdtSWl0OG1qaWNOVXVvQVlwRXlnTzJ6NUZabkJzTGJlS0lhSGJvdzdBVXdQdEFnbkNpTDNMZ0pUeHdsc2VVR0NpeVcyaU0zTlhtanNfSDItaThvREx1bw?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,19 +118,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
+      "first_seen": "2026-07-20T19:54:26+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 19 Jul 2026 10:00:00 GMT",
-          "source": "Montreal Gazette"
+          "published": "Mon, 20 Jul 2026 15:08:16 GMT",
+          "source": "Yahoo News Canada"
         }
       ]
     },
     {
-      "id": "e71f70b4175d",
-      "title": "’26 Summer League | Open Gym presented by Bell - NBA.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmp0UjMxelhPNXJ5SVZpcVVnMmFadV9TQmZZN3ZOZUZwMUNYWFR5QjJCRmhOdm9oTFJfb2hEWHAzSng3TnRlMUR2dzVwSk9HMzlQbTVPV3kwMERNVEE0bXVUM1Nvb2tLOE0wX3pieUItaENDTV93M1Y3dUs3UVdvM0kwOW4?oc=5\" target=\"_blank\">’26 Summer League | Open Gym",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmp0UjMxelhPNXJ5SVZpcVVnMmFadV9TQmZZN3ZOZUZwMUNYWFR5QjJCRmhOdm9oTFJfb2hEWHAzSng3TnRlMUR2dzVwSk9HMzlQbTVPV3kwMERNVEE0bXVUM1Nvb2tLOE0wX3pieUItaENDTV93M1Y3dUs3UVdvM0kwOW4?oc=5",
+      "id": "0c3402259fd5",
+      "title": "Zelus Revolutionizes Fitness with the Launch of the Z-Fit(TM) X-Shaped Cooling Weighted Vest - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUnJQUXdScVJ5MEZySVlQeFE5Rmg0SlFjOVlKNXpCd21QUVlSbnVwb0VndFZLMEM1TjRuR0t3ckc1ZHRsYm9oRTQ4WlczcmpiUGNpZ0N2ZmI2XzFsOVRYMzhRYnJkTVRFRm9MQmFoeGVuc2NPZWN3VUkwdHVFZ0tCNXVvSU5FZ1ZDcDJzdWZuNDVjQ09fdERnbVBlWjA1YVZqRG9FaFJGRmF3YU",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUnJQUXdScVJ5MEZySVlQeFE5Rmg0SlFjOVlKNXpCd21QUVlSbnVwb0VndFZLMEM1TjRuR0t3ckc1ZHRsYm9oRTQ4WlczcmpiUGNpZ0N2ZmI2XzFsOVRYMzhRYnJkTVRFRm9MQmFoeGVuc2NPZWN3VUkwdHVFZ0tCNXVvSU5FZ1ZDcDJzdWZuNDVjQ09fdERnbVBlWjA1YVZqRG9FaFJGRmF3YUFTczczNHlMemRQSHpfbW1teEZ5bTByWTB5ZjFLS2Q4VmVXbnpUN251R0xQS2s4VHZPQV9QeHdGOElmZDdiUkR4cjR5SmRBc05vY3dZNlpR?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
+      "first_seen": "2026-07-20T19:54:26+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 18 Jul 2026 16:19:03 GMT",
-          "source": "NBA.com"
+          "published": "Mon, 20 Jul 2026 14:36:10 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
-      "id": "e001661dbe2e",
-      "title": "Rainier Backing Doubles Omega’s Anytime Fitness Portfolio - franchisetimes.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcndMNzVCTXNQYlJOUmZTSVAtMXFpbDdFNjhYYzYyWUxsRGZFWHBST0RoeXlyN1Bvb0paakg4WnRyWV91X09hVTBxS2tGRXJKa3F1bmpOM3dNRDZfR0FJdTZXbW1GT3JHT2xxdzFiblNZdi12T0NGM2kzbkZyakl5QnRRS0hNUTRGN0IzSlNKVEZzc0pwdjFHVk5GRmoxTjVWZ3hrSzlteHJJaT",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcndMNzVCTXNQYlJOUmZTSVAtMXFpbDdFNjhYYzYyWUxsRGZFWHBST0RoeXlyN1Bvb0paakg4WnRyWV91X09hVTBxS2tGRXJKa3F1bmpOM3dNRDZfR0FJdTZXbW1GT3JHT2xxdzFiblNZdi12T0NGM2kzbkZyakl5QnRRS0hNUTRGN0IzSlNKVEZzc0pwdjFHVk5GRmoxTjVWZ3hrSzlteHJJaTdralJ2a19ISjg3ZHkzZk1nTDJ5T282TXpNb1V5VHBYQmUyZTVUbWtHU3U2N19BNWNSa1dnSmRCN2ZXSGot?oc=5",
+      "id": "1d87ba6e3fe9",
+      "title": "NHL Summer Sizzle Workout Edition: Kyle Palmieri - NHL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEluM2gtUHpVWkdQdlMxaWYtMUh5OWQ0SkhoMDlhX05QQ1RndWwxamZ0SjQzUTd1dTJLN0d4RS1maDAzYjQtSXFiTUtNQ3RzOF9pZnprWlYtS2Nnc1pPSjZLblZCU2F3NFRESFFnNFBhM1c1NXNMRV9BbTBVdkFUM3Q5NERKLTFwYWR2Y2NoWTE4M1V6OUE?oc=5\" target=\"_blank\">NHL ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEluM2gtUHpVWkdQdlMxaWYtMUh5OWQ0SkhoMDlhX05QQ1RndWwxamZ0SjQzUTd1dTJLN0d4RS1maDAzYjQtSXFiTUtNQ3RzOF9pZnprWlYtS2Nnc1pPSjZLblZCU2F3NFRESFFnNFBhM1c1NXNMRV9BbTBVdkFUM3Q5NERKLTFwYWR2Y2NoWTE4M1V6OUE?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
+      "first_seen": "2026-07-20T19:54:26+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 20 Jul 2026 12:30:00 GMT",
-          "source": "franchisetimes.com"
+          "published": "Thu, 16 Jul 2026 20:19:29 GMT",
+          "source": "NHL.com"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:04+00:00",
+      "first_seen": "2026-07-20T19:56:47+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:05+00:00",
+      "first_seen": "2026-07-20T19:56:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -213,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "b73f74f032ae",
-      "title": "Consistency Beats Your Perfect Split",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/BckWwsJuSXQ",
+      "id": "71a88c071adf",
+      "title": "The Technology That Could Replace Weights Forever",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\n0:00 Traditional Weights\n3:37 Electric Machines\n7:05 Assembling New Machines\n8:25 Dr Mike’s Review - The Bad\n10:54 The Good\n13:30 Who Is It For?\n\nBecome an RP channel member and get instant access to over 200 videos ",
+      "url": "https://www.youtube.com/watch?v=2JqVU9Cf8a0",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -224,22 +224,22 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:06+00:00",
+      "first_seen": "2026-07-20T19:56:49+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
           "channel_title": "Renaissance Periodization",
-          "video_id": "BckWwsJuSXQ",
-          "published": "2026-07-18T21:27:37+00:00"
+          "video_id": "2JqVU9Cf8a0",
+          "published": "2026-07-20T16:00:13+00:00"
         }
       ],
       "is_global": true
     },
     {
-      "id": "f19023ad3aa6",
-      "title": "GoodLife Fitness Member Says He Was Asked to Leave Gym Over Kirpan: “You’re Kicking Me Out Right Now?” - Yahoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHJWYTlMY19ST0tHT2RubWVGd1E4UGdSay1NLWY2M25FSFMxZWhmSjNBa2lldUtUZmFEVkk2LUJTN3VOblViS0wxRjh3bUthZ1J6SUk1NkljUlZjaE1yUjNvaFF4cWoyV05TWkhBVVZOUHdYLUxNaFFvX0dKMkdNUWxPell5eHZRNGJZVm15d0liNTY1Q0E?oc=5\" target=\"_blank\">Good",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHJWYTlMY19ST0tHT2RubWVGd1E4UGdSay1NLWY2M25FSFMxZWhmSjNBa2lldUtUZmFEVkk2LUJTN3VOblViS0wxRjh3bUthZ1J6SUk1NkljUlZjaE1yUjNvaFF4cWoyV05TWkhBVVZOUHdYLUxNaFFvX0dKMkdNUWxPell5eHZRNGJZVm15d0liNTY1Q0E?oc=5",
+      "id": "9ce110b09692",
+      "title": "Muscle mass alone does not explain fitness drops in Parkinson’s - Parkinson's News Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQQndqLTB6V24zNV9sTkxybjUtRzdBdWwxMmtaNWl3Mi0yZ3dHRjVCVWF1NWNHaHp1U2hoX25ZWXU1Ul85YlB0NU5kN1g3OUktWk9xVGhpelpTT1Z0ejRMY0NvS3ozN2UwT252cWxRVzNRTHdTNl9wUjh6Zlh4TWcyMXVwalczdmNkc19mZXBPV1NDdw?oc=5\" target=\"_blank\">Muscle ma",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQndqLTB6V24zNV9sTkxybjUtRzdBdWwxMmtaNWl3Mi0yZ3dHRjVCVWF1NWNHaHp1U2hoX25ZWXU1Ul85YlB0NU5kN1g3OUktWk9xVGhpelpTT1Z0ejRMY0NvS3ozN2UwT252cWxRVzNRTHdTNl9wUjh6Zlh4TWcyMXVwalczdmNkc19mZXBPV1NDdw?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -247,11 +247,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
+      "first_seen": "2026-07-20T19:54:26+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Jul 2026 22:45:00 GMT",
-          "source": "Yahoo"
+          "published": "Mon, 20 Jul 2026 15:51:50 GMT",
+          "source": "Parkinson's News Today"
         }
       ]
     },
@@ -267,7 +267,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:04+00:00",
+      "first_seen": "2026-07-20T19:56:47+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -279,10 +279,10 @@
       "is_global": true
     },
     {
-      "id": "1b0680d3b2a0",
-      "title": "Bigger Muscles = Stronger Muscles",
+      "id": "b73f74f032ae",
+      "title": "Consistency Beats Your Perfect Split",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/HOQUA33rLW4",
+      "url": "https://www.youtube.com/shorts/BckWwsJuSXQ",
       "score": 59.29,
       "sources": [
         "youtube"
@@ -290,22 +290,22 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:06+00:00",
+      "first_seen": "2026-07-20T19:56:49+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
           "channel_title": "Renaissance Periodization",
-          "video_id": "HOQUA33rLW4",
-          "published": "2026-07-18T13:53:53+00:00"
+          "video_id": "BckWwsJuSXQ",
+          "published": "2026-07-18T21:27:37+00:00"
         }
       ],
       "is_global": true
     },
     {
-      "id": "ada847a20a11",
-      "title": "Build stronger arms and abs by kneeling during workouts – why this simple tweak makes a big difference - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNb3R0cUhTM1A5cWhYMTFDVEc1MEtfVjRFaHJRQWdOMXlnZm05X1NuOGtvN1M4TWRmZzJNd1JsaXE0SFFqRjk5QnlwZWpUWGhrLU1OR2NFUE01bmlNUnRLSFlQWU5zMnRGakU0aGFGQWdkQmZQaWYyVHE2MkQzNk5fQngwUXNjRkt2Vjk2eGI2ZWhsOVVCSkFqMmxjRWU0QQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3R0cUhTM1A5cWhYMTFDVEc1MEtfVjRFaHJRQWdOMXlnZm05X1NuOGtvN1M4TWRmZzJNd1JsaXE0SFFqRjk5QnlwZWpUWGhrLU1OR2NFUE01bmlNUnRLSFlQWU5zMnRGakU0aGFGQWdkQmZQaWYyVHE2MkQzNk5fQngwUXNjRkt2Vjk2eGI2ZWhsOVVCSkFqMmxjRWU0QQ?oc=5",
+      "id": "2d4950fb008f",
+      "title": "EXCLUSIVE: Goodlife Fitness vows not to fire staff for kicking out TikToker with religious dagger - Juno News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB6eVZ1R0laakRrX1NOMFBuSERwV0t1THBqS1NJMlNwVUpOazVHcFozUUgtd3JKQ0Q5ei1JTlQ4M3drdmtsUzEzaXRmb2tRdHlTN0laUGl2aEI0enhaMXFOeGZRTXFXVFM4YkljNUlNRQ?oc=5\" target=\"_blank\">EXCLUSIVE: Goodlife Fitness vows not to fire staff for ki",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6eVZ1R0laakRrX1NOMFBuSERwV0t1THBqS1NJMlNwVUpOazVHcFozUUgtd3JKQ0Q5ei1JTlQ4M3drdmtsUzEzaXRmb2tRdHlTN0laUGl2aEI0enhaMXFOeGZRTXFXVFM4YkljNUlNRQ?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -313,11 +313,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
+      "first_seen": "2026-07-20T19:54:26+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 20 Jul 2026 09:32:42 GMT",
-          "source": "Women's Health"
+          "published": "Mon, 20 Jul 2026 18:20:35 GMT",
+          "source": "Juno News"
         }
       ]
     },
@@ -333,13 +333,36 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:04+00:00",
+      "first_seen": "2026-07-20T19:56:47+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
           "channel_title": "ATHLEAN-X™",
           "video_id": "A970tiZ2Yx0",
           "published": "2026-07-12T05:44:46+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "1b0680d3b2a0",
+      "title": "Bigger Muscles = Stronger Muscles",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/HOQUA33rLW4",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-07-20T19:56:49+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "HOQUA33rLW4",
+          "published": "2026-07-18T13:53:53+00:00"
         }
       ],
       "is_global": true
@@ -356,7 +379,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:04+00:00",
+      "first_seen": "2026-07-20T19:56:47+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -368,18 +391,38 @@
       "is_global": true
     },
     {
+      "id": "452a111ad163",
+      "title": "Soccer god Sergio Ramos gets his fitness on in Miami. See him in action - Miami Herald",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBwMGsyZkZMSkV5MktWTU5NT0xzT1RScWVpNllZc1JXOHdIWTI3X2ZDZl80UTN1SFpyajUwYjJ6M1R4VlhQYU9ZdmZlSVVMTExMYXdEaGJhX3pPdnQ0TTk4T09ERms5QXpOTGxLT25PUHpoNlNMcW1PeFFxZXhJajDSAX9BVV95cUxQSDl4YmdIbThzUG82RWR5MUJnWFpIUGZRaGpNbFBpV2pfVi",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwMGsyZkZMSkV5MktWTU5NT0xzT1RScWVpNllZc1JXOHdIWTI3X2ZDZl80UTN1SFpyajUwYjJ6M1R4VlhQYU9ZdmZlSVVMTExMYXdEaGJhX3pPdnQ0TTk4T09ERms5QXpOTGxLT25PUHpoNlNMcW1PeFFxZXhJajDSAX9BVV95cUxQSDl4YmdIbThzUG82RWR5MUJnWFpIUGZRaGpNbFBpV2pfVi1pZHhOMjZsWUZjRGxvVUhfQjFCZ0tURHhveTRZelZQUkxEVFg2dV85Zk5WRkFhWm5jLUo2WmRaTGd6VWljYVpHU0hraGJUWUo0S25yQl95UEw0d1Zv?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-07-20T19:54:26+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 16:32:04 GMT",
+          "source": "Miami Herald"
+        }
+      ]
+    },
+    {
       "id": "9af26baf1fa4",
       "title": "Why Pressing Isn’t Enough for Big Shoulders",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/80YS21KJmGA",
-      "score": 54.669999999999995,
+      "score": 52.35999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:06+00:00",
+      "first_seen": "2026-07-20T19:56:49+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -391,61 +434,38 @@
       "is_global": true
     },
     {
-      "id": "745de2e3c7c6",
-      "title": "Providence unveils new home court as $1-million gym transformation nears completion - SteinbachOnline",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODVqa1RUa1JiWGJGNkRhM1pnSWoyVnB6T1laMDNWNGFPamlXNldjNzdfa1BhWmN2V3lzLU9sTGRYY0VtX0c1ejJWcTFnYnNralZmNXJzb1RPSTJ2TklNbGE4blQwNnhKV0gybGltWGhDQjhpMkJNbjYyUExVaTMwLW5WbDFpY0o5RGExQklJQXBCdnJubFExXzRKX1RVODF0bElBdDBWSVJmWn",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODVqa1RUa1JiWGJGNkRhM1pnSWoyVnB6T1laMDNWNGFPamlXNldjNzdfa1BhWmN2V3lzLU9sTGRYY0VtX0c1ejJWcTFnYnNralZmNXJzb1RPSTJ2TklNbGE4blQwNnhKV0gybGltWGhDQjhpMkJNbjYyUExVaTMwLW5WbDFpY0o5RGExQklJQXBCdnJubFExXzRKX1RVODF0bElBdDBWSVJmWnFUYkpQQzNaa0c4NFdkZ3BKSVUtTTU?oc=5",
-      "score": 54.0,
+      "id": "7324cb070b27",
+      "title": "Build Cardio Fitness After 40 with This Simple 20-Second Rowing Method - Men's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1kRURmTDZWWWdFTEJEdldId2pmb28zM2R2bGx1WFlwdjZPZDA4eEY1U1lIaDBRZDVVVko0cThrYXV3RzRjTEdSTzVVTHV0Q1V2TlRaZlBSdHJJcUlCTFJ4Y0JBOVhaTDBYSWMzSWxpcURydUNCeENxMmJR?oc=5\" target=\"_blank\">Build Cardio Fitness After 40 with This Sim",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kRURmTDZWWWdFTEJEdldId2pmb28zM2R2bGx1WFlwdjZPZDA4eEY1U1lIaDBRZDVVVko0cThrYXV3RzRjTEdSTzVVTHV0Q1V2TlRaZlBSdHJJcUlCTFJ4Y0JBOVhaTDBYSWMzSWxpcURydUNCeENxMmJR?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
+      "first_seen": "2026-07-20T19:54:26+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 19 Jul 2026 09:01:42 GMT",
-          "source": "SteinbachOnline"
+          "published": "Mon, 20 Jul 2026 12:10:27 GMT",
+          "source": "Men's Health"
         }
       ]
-    },
-    {
-      "id": "8e6dbe2c16da",
-      "title": "12 Exercises That Completely Change The Human Body",
-      "summary": "22 Days To Double Your Pullups - http://athleanx.com/morepullups\nSubscribe to this channel here - http://bit.ly/2b0coMW\n\nIn this video, I’m breaking down the 12 exercises that completely change the human body and are great at helping people who do them build muscle, increase stre",
-      "url": "https://www.youtube.com/watch?v=kwG8eYWmrmg",
-      "score": 52.35999999999999,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-07-20T14:32:04+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
-          "channel_title": "ATHLEAN-X™",
-          "video_id": "kwG8eYWmrmg",
-          "published": "2026-07-06T16:46:29+00:00"
-        }
-      ],
-      "is_global": true
     },
     {
       "id": "020dac833903",
       "title": "People Think Dr. Mike Is Weak. We Tested Him",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\n0:00 Introduction\n0:",
       "url": "https://www.youtube.com/watch?v=UouY10BIETc",
-      "score": 52.35999999999999,
+      "score": 50.05,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:06+00:00",
+      "first_seen": "2026-07-20T19:56:49+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -457,38 +477,18 @@
       "is_global": true
     },
     {
-      "id": "78e17584788e",
-      "title": "GoodLife Fitness responds after an Ontario man goes viral after being asked to leave the gym for having a kirpan - The Brandon Gonez Show",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQkFaNEt1RWx5eVVBTnpxV0YxYVItbDJpUEJTbDVGaVl1ek9WNUxJT041WHJ6aTBmMDJTTlUyeEFkb3k3cHd6Zk9xWkY1a1U3N3dsTGthMEdvdmRxNW0xLXZIVHhoUWN1WFV0cXN3ckNXLU54ZkxKeDVZUjVnRjlWZ3V1eDQ5Umx6MnpwTnVNT0xNcEpSM0dWTzVRTkdfUFRCOTZxQ2JxTlJ2RH",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQkFaNEt1RWx5eVVBTnpxV0YxYVItbDJpUEJTbDVGaVl1ek9WNUxJT041WHJ6aTBmMDJTTlUyeEFkb3k3cHd6Zk9xWkY1a1U3N3dsTGthMEdvdmRxNW0xLXZIVHhoUWN1WFV0cXN3ckNXLU54ZkxKeDVZUjVnRjlWZ3V1eDQ5Umx6MnpwTnVNT0xNcEpSM0dWTzVRTkdfUFRCOTZxQ2JxTlJ2RHFVUndBRzZ5ZGJMWkhQRlUzanUwZDl3a3FHZHYtbmFFamxGQndCQnh3RnEzby1BaTFUUWVtaDM4R3k?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-07-20T14:29:42+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 17 Jul 2026 21:19:43 GMT",
-          "source": "The Brandon Gonez Show"
-        }
-      ]
-    },
-    {
       "id": "69fb74ea4e21",
       "title": "Body Positivity Got Exposed",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/eTzByfpx0e4",
-      "score": 50.05,
+      "score": 47.74,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:06+00:00",
+      "first_seen": "2026-07-20T19:56:49+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -500,18 +500,38 @@
       "is_global": true
     },
     {
+      "id": "dc902fb25498",
+      "title": "Alison Hammond says her 20-minute workout is a 'non-negotiable' every day - here's how to do it - Woman & Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjFOcDExODZZajN4alVHSElJLUFUSnY0eGZNV00tLTNxbnVoRnBmQW93SUFBQ1hSTktZWHpCVldwSEpDUXU3bHR4Yk40Y3NEV3A2TmtoUTRIZ0UyM3NyYzJDeDJZWGtLd29PNlBiODFvTk9VME9odjBSWUU5XzI0TGJObWYwZGU4SlZRQUNhWHQ?oc=5\" target=\"_blank\">Alison Hammo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjFOcDExODZZajN4alVHSElJLUFUSnY0eGZNV00tLTNxbnVoRnBmQW93SUFBQ1hSTktZWHpCVldwSEpDUXU3bHR4Yk40Y3NEV3A2TmtoUTRIZ0UyM3NyYzJDeDJZWGtLd29PNlBiODFvTk9VME9odjBSWUU5XzI0TGJObWYwZGU4SlZRQUNhWHQ?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-07-20T19:54:26+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 17:30:00 GMT",
+          "source": "Woman & Home"
+        }
+      ]
+    },
+    {
       "id": "6efffd86f37f",
       "title": "Exercise Scientist Critiques Dragon Ball Z Training",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hype\n\n0:00 Dr Mike critiques Dragon Ball Z\n1:21 Weighted Clothing\n4:26 Handstand Pushups\n5:43 Gravity Training\n8:55 Elite Mentality\n10:57 Training Progression\n14:04 Training Too Hard\n16:25 Flexing \n17:47 Dr Mike's Rating\n\nFea",
       "url": "https://www.youtube.com/watch?v=b93nZ9I7iXc",
-      "score": 48.93,
+      "score": 46.61999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T14:32:06+00:00",
+      "first_seen": "2026-07-20T19:56:49+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -524,29 +544,6 @@
           "channel_title": "Renaissance Periodization",
           "video_id": "nhSGmVt9Ebs",
           "published": "2026-07-10T16:00:03+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "a0354ed13b47",
-      "title": "Why Young Guys Should Be Terrified of Steroids",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\n0:00 Teens and Stero",
-      "url": "https://www.youtube.com/watch?v=BDr3Qcn-2V4",
-      "score": 47.74,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-07-20T14:32:06+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
-          "channel_title": "Renaissance Periodization",
-          "video_id": "BDr3Qcn-2V4",
-          "published": "2026-07-13T16:00:16+00:00"
         }
       ],
       "is_global": true
