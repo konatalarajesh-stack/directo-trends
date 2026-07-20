@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-07-20T04:06:46+00:00",
+  "generated_at": "2026-07-20T09:40:52+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "b440eca055d0",
-      "title": "State Department issues warning to Americans living and traveling abroad - The Hill",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSnpLZ21mNTJ0QV9DWmZrRlhZTVVFX2xkQllXTTA3ZzByM3VZZVhUVVY1SGdGSGJManNRcTIyaUJiWXBZOXpiVl9nNVlNeDdJMWx3cmNkOWFiUlZCZUNENm9yOG1naC1TRHJZd29KRG1iMFRkN005NEdJeWtzUzhvMUswT2c2a3Nw0gGOAUFVX3lxTE11MC1pWmYwbk0yekc5VlcwdmJscEJYOD",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSnpLZ21mNTJ0QV9DWmZrRlhZTVVFX2xkQllXTTA3ZzByM3VZZVhUVVY1SGdGSGJManNRcTIyaUJiWXBZOXpiVl9nNVlNeDdJMWx3cmNkOWFiUlZCZUNENm9yOG1naC1TRHJZd29KRG1iMFRkN005NEdJeWtzUzhvMUswT2c2a3Nw0gGOAUFVX3lxTE11MC1pWmYwbk0yekc5VlcwdmJscEJYODhMeWtnZjNkMW5yaTdQWXp1TDhDRDdKaWdEUGZ5VERyeXZxcW5SN3ZFcTdnM2FRdlJVV19fckQza0s1clFLTEpHRXhaSmFaQldUSWF6TU0xMGUwRV9oWXdzNDFuekF5R3pSdW1mZzd6OVFtMGYzQnc?oc=5",
+      "id": "165af722c1d7",
+      "title": "I retired early and have been slow traveling for 2 years. I realized I'd been doing it wrong. - Business Insider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOENkY1lnbkVKVHpXUWhoT3ZUTF93dHVZWGxNS2t1UHZqcDlrWHJKbVJpbi01cGJub1J2ZzYtNW43NkN4Ym81Uk8zVjhrVHhXMW1ob0sya05ZaHZKX2daMTFSaUFRQURGLUtHdThYWHdxeVRkSjZVT2Z5UGVhcVM3anZLbmVjVGtGRDg0Q3h2T2k4MWktRG5SMWdNOVFxSzZ5elhNQ2VyY1pReF",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOENkY1lnbkVKVHpXUWhoT3ZUTF93dHVZWGxNS2t1UHZqcDlrWHJKbVJpbi01cGJub1J2ZzYtNW43NkN4Ym81Uk8zVjhrVHhXMW1ob0sya05ZaHZKX2daMTFSaUFRQURGLUtHdThYWHdxeVRkSjZVT2Z5UGVhcVM3anZLbmVjVGtGRDg0Q3h2T2k4MWktRG5SMWdNOVFxSzZ5elhNQ2VyY1pReFk?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 00:15:25 GMT",
+          "source": "Business Insider"
+        }
+      ]
+    },
+    {
+      "id": "b440eca055d0",
+      "title": "State Department issues warning to Americans living and traveling abroad - The Hill",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSnpLZ21mNTJ0QV9DWmZrRlhZTVVFX2xkQllXTTA3ZzByM3VZZVhUVVY1SGdGSGJManNRcTIyaUJiWXBZOXpiVl9nNVlNeDdJMWx3cmNkOWFiUlZCZUNENm9yOG1naC1TRHJZd29KRG1iMFRkN005NEdJeWtzUzhvMUswT2c2a3Nw0gGOAUFVX3lxTE11MC1pWmYwbk0yekc5VlcwdmJscEJYOD",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSnpLZ21mNTJ0QV9DWmZrRlhZTVVFX2xkQllXTTA3ZzByM3VZZVhUVVY1SGdGSGJManNRcTIyaUJiWXBZOXpiVl9nNVlNeDdJMWx3cmNkOWFiUlZCZUNENm9yOG1naC1TRHJZd29KRG1iMFRkN005NEdJeWtzUzhvMUswT2c2a3Nw0gGOAUFVX3lxTE11MC1pWmYwbk0yekc5VlcwdmJscEJYODhMeWtnZjNkMW5yaTdQWXp1TDhDRDdKaWdEUGZ5VERyeXZxcW5SN3ZFcTdnM2FRdlJVV19fckQza0s1clFLTEpHRXhaSmFaQldUSWF6TU0xMGUwRV9oWXdzNDFuekF5R3pSdW1mZzd6OVFtMGYzQnc?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
           "published": "Sun, 19 Jul 2026 21:29:00 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "165af722c1d7",
-      "title": "I retired early and have been slow traveling for 2 years. I realized I'd been doing it wrong. - Business Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOENkY1lnbkVKVHpXUWhoT3ZUTF93dHVZWGxNS2t1UHZqcDlrWHJKbVJpbi01cGJub1J2ZzYtNW43NkN4Ym81Uk8zVjhrVHhXMW1ob0sya05ZaHZKX2daMTFSaUFRQURGLUtHdThYWHdxeVRkSjZVT2Z5UGVhcVM3anZLbmVjVGtGRDg0Q3h2T2k4MWktRG5SMWdNOVFxSzZ5elhNQ2VyY1pReF",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOENkY1lnbkVKVHpXUWhoT3ZUTF93dHVZWGxNS2t1UHZqcDlrWHJKbVJpbi01cGJub1J2ZzYtNW43NkN4Ym81Uk8zVjhrVHhXMW1ob0sya05ZaHZKX2daMTFSaUFRQURGLUtHdThYWHdxeVRkSjZVT2Z5UGVhcVM3anZLbmVjVGtGRDg0Q3h2T2k4MWktRG5SMWdNOVFxSzZ5elhNQ2VyY1pReFk?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 20 Jul 2026 00:14:17 GMT",
-          "source": "Business Insider"
-        }
-      ]
-    },
-    {
-      "id": "526090fa3729",
-      "title": "Tourism Director Lee Sentell retires, Ivey taps Glenda Allred as replacement - Alabama Daily News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTlKUG5ZS2ZLZ0VDSnAtRlphWWJFTTdqYXpXUlRvS2t0MTktTnJncFhOd3F6RDJOQ0RCNVpmOXNEbmJRZzFfV0Mzb0RBRml5QXVVWXd2MlNkRUNxMFNOb2Y0MDBkWno1VzBkWFkyTm1Td1dSR2t4dEJBcU5fMzBjMXE4MFJJdEhjWjcyN0lEams4R2IxcnFsUnVGMHA3RDFobGc?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTlKUG5ZS2ZLZ0VDSnAtRlphWWJFTTdqYXpXUlRvS2t0MTktTnJncFhOd3F6RDJOQ0RCNVpmOXNEbmJRZzFfV0Mzb0RBRml5QXVVWXd2MlNkRUNxMFNOb2Y0MDBkWno1VzBkWFkyTm1Td1dSR2t4dEJBcU5fMzBjMXE4MFJJdEhjWjcyN0lEams4R2IxcnFsUnVGMHA3RDFobGc?oc=5",
+      "id": "e97618eb6d65",
+      "title": "What DC’s Top Travel Booster Wants Locals to Know - Washingtonian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOaE5ZM3M2MHJCTENLQ3R6MGhCRjdWY2tMbGpzZlotbWdNcGNZNlB1cWVha2pCSEFQTFdsSWNkMUZvMzBGZEFBTHRIdnBONHBibDF2c1RfUGlzNXFKdC1Kc0R5UUpKWkgzRUdxUE1mWmt6SlBnMWc5QTVZUlF4dEh6TmN0RGt2ZkRZNmpmcWh5SQ?oc=5\" target=\"_blank\">What DC’s Top",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaE5ZM3M2MHJCTENLQ3R6MGhCRjdWY2tMbGpzZlotbWdNcGNZNlB1cWVha2pCSEFQTFdsSWNkMUZvMzBGZEFBTHRIdnBONHBibDF2c1RfUGlzNXFKdC1Kc0R5UUpKWkgzRUdxUE1mWmt6SlBnMWc5QTVZUlF4dEh6TmN0RGt2ZkRZNmpmcWh5SQ?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,19 +58,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 19 Jul 2026 17:15:15 GMT",
-          "source": "Alabama Daily News"
+          "published": "Mon, 20 Jul 2026 09:00:49 GMT",
+          "source": "Washingtonian"
         }
       ]
     },
     {
-      "id": "3889ebac8e1a",
-      "title": "Why Go Now? How Travel in 2026 is Defying the Odds - Smithsonian Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbU1CZWJxVUxsMkhGdm9EYmp0eHBkRVctZDgxVzJ4RUVmZXdhOWpIQzdDVS1JX2otZjBVeW5MUE84RHFTZHdIVzExVGRyRnBXT193c0xxWmlWYzUwWDRPOWZGMHJSbktqVk95TVIyX2dLckJOcEVzLWNnSUhFOVVmal9USHpXNjdaNlR6dTUtYUZlRjZnNFpZOUJPc19TbzltV3o4ZFhoZEJVcG",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbU1CZWJxVUxsMkhGdm9EYmp0eHBkRVctZDgxVzJ4RUVmZXdhOWpIQzdDVS1JX2otZjBVeW5MUE84RHFTZHdIVzExVGRyRnBXT193c0xxWmlWYzUwWDRPOWZGMHJSbktqVk95TVIyX2dLckJOcEVzLWNnSUhFOVVmal9USHpXNjdaNlR6dTUtYUZlRjZnNFpZOUJPc19TbzltV3o4ZFhoZEJVcGFkTGNiRmNfdlR3TXRwSFJz?oc=5",
+      "id": "3507a515bcb6",
+      "title": "In Grand Marais, summer tourism takes a plunge as BWCA fires burn - MPR News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1BRVndMZXRlZ3RaS1BMYzQ1T1dlTUdOUVptYldQUHNFS0NQd1I1Zi1ya05sRU9FcU5EVlczREZaa0N2dm16X2U0VmlhRlFNNWVLZGFvZElEQTRYZnRIOGhqQ25lYlNZclFINXFMMG1LZTlDYTRMOFcwWFdoV20xRzVhRkFhWU95UHFpVHBUMEh4SUk?oc=5\" target=\"_blank\">In Grand",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1BRVndMZXRlZ3RaS1BMYzQ1T1dlTUdOUVptYldQUHNFS0NQd1I1Zi1ya05sRU9FcU5EVlczREZaa0N2dm16X2U0VmlhRlFNNWVLZGFvZElEQTRYZnRIOGhqQ25lYlNZclFINXFMMG1LZTlDYTRMOFcwWFdoV20xRzVhRkFhWU95UHFpVHBUMEh4SUk?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,11 +78,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 19 Jul 2026 22:41:47 GMT",
-          "source": "Smithsonian Magazine"
+          "published": "Mon, 20 Jul 2026 09:00:00 GMT",
+          "source": "MPR News"
+        }
+      ]
+    },
+    {
+      "id": "e89dd6df5d99",
+      "title": "Miss Manners: Is dressing ‘like a tourist’ a travel faux pas? - Anchorage Daily News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzZBd2JObmE4V1hiRGVWakRPazlwVU9HWGdQaE9LVXphcmFveS1xaGpUZkNJR3drelc4VFNES2dabDBDNnUtLWZWemc0OG5rbDFEVnFNMnBWYUxSMjhBX3BUU1U2UXRrSENyaXRPa05jNnByRkNFWWVVVmx3NWpOc2dNd0xnbDRFQk5QWHIyQThhbUZJeG5hbmlwYi1kdnFqd2FEemlIZ2hYQU",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzZBd2JObmE4V1hiRGVWakRPazlwVU9HWGdQaE9LVXphcmFveS1xaGpUZkNJR3drelc4VFNES2dabDBDNnUtLWZWemc0OG5rbDFEVnFNMnBWYUxSMjhBX3BUU1U2UXRrSENyaXRPa05jNnByRkNFWWVVVmx3NWpOc2dNd0xnbDRFQk5QWHIyQThhbUZJeG5hbmlwYi1kdnFqd2FEemlIZ2hYQUV1?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-20T09:32:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 08:21:09 GMT",
+          "source": "Anchorage Daily News"
         }
       ]
     },
@@ -91,14 +111,14 @@
       "title": "These College Football Teams Have Light Travel Schedules Early In 2026 - Forbes",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEFhSFZtaXoxY0xtTUFycVFmVEZUX2tKRnVhLUVHd1QybmJlNklUMHZlNTRKbUpreVh4NEJSbmJ0Y0doUGNmUlYtd3B5Sms0SDZLLVlweV96dURvdFVyZ1k0UDlPeEdCbmoxQkQ5U05jYmgzMkpYemp1bndaTHFQUHJ2RnlJLTZmYzVCZGw5WmxRYjRhTDNoS295eHdwbEtybjF3ZDVuOEx2cm",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEFhSFZtaXoxY0xtTUFycVFmVEZUX2tKRnVhLUVHd1QybmJlNklUMHZlNTRKbUpreVh4NEJSbmJ0Y0doUGNmUlYtd3B5Sms0SDZLLVlweV96dURvdFVyZ1k0UDlPeEdCbmoxQkQ5U05jYmgzMkpYemp1bndaTHFQUHJ2RnlJLTZmYzVCZGw5WmxRYjRhTDNoS295eHdwbEtybjF3ZDVuOEx2cmp4cWpBME5xMHdrWm9vY3ZDeE8xUi15Zw?oc=5",
-      "score": 75.6,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
           "published": "Mon, 20 Jul 2026 03:00:16 GMT",
@@ -107,30 +127,10 @@
       ]
     },
     {
-      "id": "9bd96928c135",
-      "title": "Traveling with friends? Scenic SLO County city ranked among top trip destinations - San Luis Obispo Tribune",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVzBTRHM0bFFpdWxWc3k4b2dWTF9vTTFaZUlxX253TFliYmpqUGRfY2t0U2UwZ0sxcE5uSDFVWS00a0lBV1diZlNsMkY1RmZHeGhxUGJiYk54NHNVbmp3eWNWTm90RVdnOVp3Ull2Y9IBb0FVX3lxTE5GZUtGVVppb3RONUhlZC0tU2kxM0JIeHF2NkV2X0V6bUUxUTNZZDRNcnBiUGRkaVp0Wn",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVzBTRHM0bFFpdWxWc3k4b2dWTF9vTTFaZUlxX253TFliYmpqUGRfY2t0U2UwZ0sxcE5uSDFVWS00a0lBV1diZlNsMkY1RmZHeGhxUGJiYk54NHNVbmp3eWNWTm90RVdnOVp3Ull2Y9IBb0FVX3lxTE5GZUtGVVppb3RONUhlZC0tU2kxM0JIeHF2NkV2X0V6bUUxUTNZZDRNcnBiUGRkaVp0Wnp1cV9CeEMzeWdRRTg0UjlCUkR1NXdfOUVXSGhtb1Jzc1I5dmttWk82QWhNbFJZNWFpaFpuYw?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 19 Jul 2026 12:00:00 GMT",
-          "source": "San Luis Obispo Tribune"
-        }
-      ]
-    },
-    {
-      "id": "575b5083e641",
-      "title": "'Keep a low profile': State Department warns Americans overseas they could be targeted - Fox News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1lrSGpUTDhXMlA2cV81eHdZNDhzVk5rVmY5RVl4emJRNFB3UlJKSkg5c3RnYllPNXliOFhmNGRWQUN3NlQ3UGd2R194eHdEcTB6bi1vdURKZ1dYODhlMm9kV3gyb21zNkFCRVE3LW5vcEI0UE1VbUdKS1pjUl9oVDZoS2M3dmVteWJYQVNCLWFtSG5PMG94bUtlRElreElLTmfSAacBQVVfeX",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1lrSGpUTDhXMlA2cV81eHdZNDhzVk5rVmY5RVl4emJRNFB3UlJKSkg5c3RnYllPNXliOFhmNGRWQUN3NlQ3UGd2R194eHdEcTB6bi1vdURKZ1dYODhlMm9kV3gyb21zNkFCRVE3LW5vcEI0UE1VbUdKS1pjUl9oVDZoS2M3dmVteWJYQVNCLWFtSG5PMG94bUtlRElreElLTmfSAacBQVVfeXFMTTRjdzlxVTBJQ3ZpWVpqT005ZzFxMGhxbEZwWDR6UDk3ZUZwWVI5Zld6REd5LTRJcThTMFYwbklBY1ZlRnhyWXZwekdTWFpiYVZzMEU2THlVNHhhaUZfM1BYOTgxVFdZaUswZENEUkNJVFBMOW92ZTlxUVcxc2tVSGM4dkdXWFI4Y29MX0ZwV3BXbnBCWDZGSlJxM21NWWQ0SnRCUE8wenM?oc=5",
+      "id": "f598a81072e0",
+      "title": "Experience this Virginia island before nature reclaims it - Bay Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSFJzbXI2bzR4c1JOR3lMRDFrSzFPQ2ZyVFgtbjZpX0NLMHppbEVUdTQzNWdHWUMwd2NVTURab3UwWHZDM2ctT1M3RUlkVloweDRlYUEzeE9RdXM2aUtlMzExN25QQmF0OS14LW5haG9uZ092TWxldFE5dVg1V0FUVjNodkVDTHhjUWtjZ0VFa1JXSlhKSXBQNTRrRmlxdTJ3UEJxdWhJR3ZUOG",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSFJzbXI2bzR4c1JOR3lMRDFrSzFPQ2ZyVFgtbjZpX0NLMHppbEVUdTQzNWdHWUMwd2NVTURab3UwWHZDM2ctT1M3RUlkVloweDRlYUEzeE9RdXM2aUtlMzExN25QQmF0OS14LW5haG9uZ092TWxldFE5dVg1V0FUVjNodkVDTHhjUWtjZ0VFa1JXSlhKSXBQNTRrRmlxdTJ3UEJxdWhJR3ZUOGN5VHdCM1VqS05UUDVKU0hZamFuWlV4TkY1OXhudTdzV3RWcW5SVDFtRE82M3A?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 19 Jul 2026 15:21:05 GMT",
-          "source": "Fox News"
+          "published": "Mon, 20 Jul 2026 09:00:00 GMT",
+          "source": "Bay Journal"
         }
       ]
     },
     {
-      "id": "3ff1f4c923c6",
-      "title": "Can you afford to travel to the world's most expensive destinations? - Yahoo Creators",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZUZQNUlxOFpBbURvRDZCSmNXSUc1d3h6WGtUR1plOXZVeG0zbnJXbE5kLVRtTnM0N2FjdmExSERiWmNLUC1Hd0RENUZwMi0ySWtqQzh1UVhES3FxYklYcW1yLXVTcFRabjJEcDQxNFF4ZVQ1RXFaLVJqNUo1Rk40aWNPSXkzWVh6LU9XcFMyZTAzZ1QwNEtxNWM0N1BsUnp3bHMwbTNmVXZ1T3",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZUZQNUlxOFpBbURvRDZCSmNXSUc1d3h6WGtUR1plOXZVeG0zbnJXbE5kLVRtTnM0N2FjdmExSERiWmNLUC1Hd0RENUZwMi0ySWtqQzh1UVhES3FxYklYcW1yLXVTcFRabjJEcDQxNFF4ZVQ1RXFaLVJqNUo1Rk40aWNPSXkzWVh6LU9XcFMyZTAzZ1QwNEtxNWM0N1BsUnp3bHMwbTNmVXZ1T3hzTDBHbGEtVU9MSEs1UkJUcGlhVnpuZw?oc=5",
+      "id": "cf59694093f8",
+      "title": "This NC travel destination ranks as a fan favorite to visit — again - Charlotte Observer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaW1mWjduZjMzSzM5LVh3UGdBbGF0ZWhRdTVDaE5SQjFjaWdRM3dsa2cwbXRKYzRCdFVRN01XTzJvMjlpbVVUNEsyMFFEdVhHdWRBUTJUcEpsTzNRR2E0d0ZBY29kMUhhalFlQmhuR2FlREVqTDIxUGppY2E5cEdlTkZuOW96QQ?oc=5\" target=\"_blank\">This NC travel destinatio",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaW1mWjduZjMzSzM5LVh3UGdBbGF0ZWhRdTVDaE5SQjFjaWdRM3dsa2cwbXRKYzRCdFVRN01XTzJvMjlpbVVUNEsyMFFEdVhHdWRBUTJUcEpsTzNRR2E0d0ZBY29kMUhhalFlQmhuR2FlREVqTDIxUGppY2E5cEdlTkZuOW96QQ?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,31 +158,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 19 Jul 2026 15:46:47 GMT",
-          "source": "Yahoo Creators"
-        }
-      ]
-    },
-    {
-      "id": "d9a8d6853b68",
-      "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjNVdkZiTVJ3bTlXQ19OcXFPQ3FjLXVEODJrMjFqdDBDam9SVjdlNGtCNlhFQXpLdUpqTVJXM0tKbXlWR0hsQ056SnNQUFhldlF6aWdCZFBGZl91anhkdkp3RTZYdzJGVlJuMDBRbXpLUWtUTFpVN3l5NEtZeTJNT3dEMEo?oc=5\" target=\"_blank\">The Evolution of Presidentia",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjNVdkZiTVJ3bTlXQ19OcXFPQ3FjLXVEODJrMjFqdDBDam9SVjdlNGtCNlhFQXpLdUpqTVJXM0tKbXlWR0hsQ056SnNQUFhldlF6aWdCZFBGZl91anhkdkp3RTZYdzJGVlJuMDBRbXpLUWtUTFpVN3l5NEtZeTJNT3dEMEo?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 19 Jul 2026 15:55:00 GMT",
-          "source": "The New York Times"
+          "published": "Mon, 20 Jul 2026 09:00:00 GMT",
+          "source": "Charlotte Observer"
         }
       ]
     },
@@ -191,14 +171,14 @@
       "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
-      "score": 57.6,
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
           "published": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -207,10 +187,30 @@
       ]
     },
     {
-      "id": "e4cbae5f4c51",
-      "title": "What's in a Vogue Editor's Travel Bag? We Asked the Team to Find Out - Vogue",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB1M2dQbDROQWtHMW1iRmZJczV6TncyWjVZeWRjLVZoRm9lT28yMTFEVVVhaWdya2VvV2ZpdkxVQktyLU1oVGFJalNadmhvZ05YYnNrVVFkd3NXTllpUWlwWFBjY0RGTnNtWUp1clh3?oc=5\" target=\"_blank\">What's in a Vogue Editor's Travel Bag? We Asked the Team to",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1M2dQbDROQWtHMW1iRmZJczV6TncyWjVZeWRjLVZoRm9lT28yMTFEVVVhaWdya2VvV2ZpdkxVQktyLU1oVGFJalNadmhvZ05YYnNrVVFkd3NXTllpUWlwWFBjY0RGTnNtWUp1clh3?oc=5",
+      "id": "8f70a52e7db5",
+      "title": "How Cabo Verde’s World Cup Run Is Fueling a Tourism Boom - Shoppe Black",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyS1FhVWxYTDBMRGNDZ1liOURpa1VkX1Budm1reV9nMzA1LXlxZ2NSSEZTTEc5bDRSSUlwWlJsOVFfdlBMaXFqaGE0ZTN5ZmswX1ptWDhucHkxNmw0TmxBRkhVZDdHQ24z?oc=5\" target=\"_blank\">How Cabo Verde’s World Cup Run Is Fueling a Tourism Boom</a>&nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyS1FhVWxYTDBMRGNDZ1liOURpa1VkX1Budm1reV9nMzA1LXlxZ2NSSEZTTEc5bDRSSUlwWlJsOVFfdlBMaXFqaGE0ZTN5ZmswX1ptWDhucHkxNmw0TmxBRkhVZDdHQ24z?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-20T09:32:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 05:24:31 GMT",
+          "source": "Shoppe Black"
+        }
+      ]
+    },
+    {
+      "id": "8088055c0e16",
+      "title": "Gas prices rise again amid summer travel - CBS News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZy00cHRBZ0NOeHBmb3VlcUh5RmcwMkN3ZHdvOGltTk5LdVh6VXJHOHVGdTEwZXNmcUM0VlBxcXpBSFpSRWxNUGlXOWN1Z2ZQVHVIcm1waV9tQlk1VDVoX3RLTmlGcDA5TjdBV3dyX3RTNzg1TWZvYWk2VzJaSXNqcldRWjl6UQ?oc=5\" target=\"_blank\">Gas prices rise again ami",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZy00cHRBZ0NOeHBmb3VlcUh5RmcwMkN3ZHdvOGltTk5LdVh6VXJHOHVGdTEwZXNmcUM0VlBxcXpBSFpSRWxNUGlXOWN1Z2ZQVHVIcm1waV9tQlk1VDVoX3RLTmlGcDA5TjdBV3dyX3RTNzg1TWZvYWk2VzJaSXNqcldRWjl6UQ?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,11 +218,51 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 19 Jul 2026 10:00:00 GMT",
-          "source": "Vogue"
+          "published": "Mon, 20 Jul 2026 03:46:00 GMT",
+          "source": "CBS News"
+        }
+      ]
+    },
+    {
+      "id": "94a66dc715f8",
+      "title": "Vertical Aerospace CEO on the future of air travel - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPejY3bXVuVXhVLXZxRWZxOHN2cHNsclQxczNpRGpQcFNrZEM0Vy1KMnNrblVmeS10V2w3RkY4X01aQXlLbGNySThHcXA3TnFGLW1iMERHM2xKWGZRbXZzVG56OFNDMk1ldS1SUlI2bEJaOWFObjlaWEZZRUpDZGJDSzVRU0tlQm45eDdnamFYdVNjY0FRV2tvQg?oc=5\" target=\"_blank\">V",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPejY3bXVuVXhVLXZxRWZxOHN2cHNsclQxczNpRGpQcFNrZEM0Vy1KMnNrblVmeS10V2w3RkY4X01aQXlLbGNySThHcXA3TnFGLW1iMERHM2xKWGZRbXZzVG56OFNDMk1ldS1SUlI2bEJaOWFObjlaWEZZRUpDZGJDSzVRU0tlQm45eDdnamFYdVNjY0FRV2tvQg?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-20T09:32:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 08:08:06 GMT",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "id": "ce5408051e00",
+      "title": "Visit Bentonville moving to implement ‘long-term road map’ to grow tourism - The Arkansas Democrat-Gazette",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnNWdDIzNk1GMnJzcXRzVUsxTy0yU0pjY3hKVHJobGtqa2J0SG1kazJaYUc0RnJOcnNrcTYxVXR5TDhZSWd1ZGJOZXE1OEhzd0VCYkV2YWZuY1NlX2lSRVhHU3h5UWJXWmpMaC1UdERnNks1ZDN4WHUxZUg2N2loN19uMVdSNnJnbnFqb2VDeldTNUhUelg0SWpXLWM?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnNWdDIzNk1GMnJzcXRzVUsxTy0yU0pjY3hKVHJobGtqa2J0SG1kazJaYUc0RnJOcnNrcTYxVXR5TDhZSWd1ZGJOZXE1OEhzd0VCYkV2YWZuY1NlX2lSRVhHU3h5UWJXWmpMaC1UdERnNks1ZDN4WHUxZUg2N2loN19uMVdSNnJnbnFqb2VDeldTNUhUelg0SWpXLWM?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-20T09:32:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 06:00:00 GMT",
+          "source": "The Arkansas Democrat-Gazette"
         }
       ]
     },
@@ -231,14 +271,14 @@
       "title": "Salt Lake City is 'America's Mountain City' in new tourism campaign - KSL.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1JYUkVlWjhkc3g1VDNqVWRxM1FJOUR4ZFBEOXE1X2Q0ZHdsSjZzNkZfN3NPcDhVYV9UTC0xUVU0SWJTTXJLOE1kUm1qbkJ0MkVQdlJCblhRSVRMXzJIVzBTeXE4WngyeWlDRlJ3NjBzSDlmNjR1aEJWN1ZKMHphUlhVT3UxR3FfQlluOFlOdHBZU280YUFiVlRkTUVicnVqMk9j?oc=5\" tar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1JYUkVlWjhkc3g1VDNqVWRxM1FJOUR4ZFBEOXE1X2Q0ZHdsSjZzNkZfN3NPcDhVYV9UTC0xUVU0SWJTTXJLOE1kUm1qbkJ0MkVQdlJCblhRSVRMXzJIVzBTeXE4WngyeWlDRlJ3NjBzSDlmNjR1aEJWN1ZKMHphUlhVT3UxR3FfQlluOFlOdHBZU280YUFiVlRkTUVicnVqMk9j?oc=5",
-      "score": 50.4,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
           "published": "Mon, 20 Jul 2026 03:02:27 GMT",
@@ -247,50 +287,10 @@
       ]
     },
     {
-      "id": "854928fbe0e7",
-      "title": "Poll: Would you travel to the moon if you had the chance? - WPBN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDl1QmF2bGJpa0NnNjhwQm5OTzRzbmpOWFVocTRTbEkxc0hfQ0c5QjhCVU5WNG14TWhGWW91Y3huZmdzN2NUXzh6c0FoS0VhRThYN25RWDJvMXlRcXlzX1V6eG9kVkJwdXB2R1ZlOWdJSmYzX3NoVW92eDdMdVhxbzhxeEZlY3Z0LVdRcEpVUmJ4Y0lx?oc=5\" target=\"_blank\">Poll: W",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDl1QmF2bGJpa0NnNjhwQm5OTzRzbmpOWFVocTRTbEkxc0hfQ0c5QjhCVU5WNG14TWhGWW91Y3huZmdzN2NUXzh6c0FoS0VhRThYN25RWDJvMXlRcXlzX1V6eG9kVkJwdXB2R1ZlOWdJSmYzX3NoVW92eDdMdVhxbzhxeEZlY3Z0LVdRcEpVUmJ4Y0lx?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 19 Jul 2026 22:31:03 GMT",
-          "source": "WPBN"
-        }
-      ]
-    },
-    {
-      "id": "abd4f9760e30",
-      "title": "How presidential travel is the ultimate expression of political power - Inquirer.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmpFcGk2cG1fYkRqT25KU3ltSXJwcDdJOUNsQ25wT3B4TGtXUG41NEIybXhSLUxDbFVYUzhzNGVPY3dYVEU1d0xOMlVlcy1jQUM0OVB6NnFMX1NmSGdRemk4R1ZMbTVBd3puenZKUkZ0bUlsWjllQVBzSE13dnptZmFTM3VQdjJfM2tkRUxhZ1Z2RzZEX1I2UWhJRU8zTXNRdXJHQllIeUxyUm",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmpFcGk2cG1fYkRqT25KU3ltSXJwcDdJOUNsQ25wT3B4TGtXUG41NEIybXhSLUxDbFVYUzhzNGVPY3dYVEU1d0xOMlVlcy1jQUM0OVB6NnFMX1NmSGdRemk4R1ZMbTVBd3puenZKUkZ0bUlsWjllQVBzSE13dnptZmFTM3VQdjJfM2tkRUxhZ1Z2RzZEX1I2UWhJRU8zTXNRdXJHQllIeUxyUmZsRHU3Mk1QYkljM29f?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 19 Jul 2026 20:25:35 GMT",
-          "source": "Inquirer.com"
-        }
-      ]
-    },
-    {
-      "id": "fd2992e2b8da",
-      "title": "10 Underrated Destinations To Visit Less Than An Hour Outside New York City - islands.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzFFR054LXo4dERMTGJPYko2U3NZTE83X3FTLTZPdDhvdmEzWDhJM0tldUIySmVib3NINDRKRjFoVXBReUVaaTBjWGVMWFZHMU5LNThvX0RmclFHcXQwLVVrbnhOQ2VsV3dDbDJhSDBUYzRVMy02X200ZXA3VFM3MVdvbmlzVHBmN29qQWFZMXhXNDVwWTBoSGdBTFg1cjFW?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzFFR054LXo4dERMTGJPYko2U3NZTE83X3FTLTZPdDhvdmEzWDhJM0tldUIySmVib3NINDRKRjFoVXBReUVaaTBjWGVMWFZHMU5LNThvX0RmclFHcXQwLVVrbnhOQ2VsV3dDbDJhSDBUYzRVMy02X200ZXA3VFM3MVdvbmlzVHBmN29qQWFZMXhXNDVwWTBoSGdBTFg1cjFW?oc=5",
+      "id": "1525bc7d4ed2",
+      "title": "Here are the Top 10 places people fly to from T.F. Green Airport - The Providence Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU21Mb0RGV3dMbGFZMGN3UTdPTTdoWHJXLWN3em5hWkZHMzlTME4wREdKRWloOGlfb05tWGhQMDB5X0hFcExXMUZZaS14M0YxQTVXZUx3N0JWenpjR2I1dWp0aDVydTRRM2dfQnBNTVBzR1BFOG9WUmUwOXZzdVplVl80Mmd2VE1SX0UtOVFGczNWNmNQT1dqTEludG9UTkJqMmlIX2ZNSlZ5N0",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU21Mb0RGV3dMbGFZMGN3UTdPTTdoWHJXLWN3em5hWkZHMzlTME4wREdKRWloOGlfb05tWGhQMDB5X0hFcExXMUZZaS14M0YxQTVXZUx3N0JWenpjR2I1dWp0aDVydTRRM2dfQnBNTVBzR1BFOG9WUmUwOXZzdVplVl80Mmd2VE1SX0UtOVFGczNWNmNQT1dqTEludG9UTkJqMmlIX2ZNSlZ5N0lHZGJMNHJPaGVmWWQt?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,31 +298,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 19 Jul 2026 22:30:00 GMT",
-          "source": "islands.com"
-        }
-      ]
-    },
-    {
-      "id": "9d239ca42144",
-      "title": "Birth Tourism Fuels Citizenship Debate - Clarksville Online",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fUjFEX2JBcUlaUkhmem9ZZ2RNOWJFZkN2S3RBU3hjV0tna0NGYVBrRC1vSDQ4YlB3N19FYWdsc0NJWHZmYXFZNnBfQTBoUEttdHhTa2d3?oc=5\" target=\"_blank\">Birth Tourism Fuels Citizenship Debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Clarksville Onl",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fUjFEX2JBcUlaUkhmem9ZZ2RNOWJFZkN2S3RBU3hjV0tna0NGYVBrRC1vSDQ4YlB3N19FYWdsc0NJWHZmYXFZNnBfQTBoUEttdHhTa2d3?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 20 Jul 2026 01:00:07 GMT",
-          "source": "Clarksville Online"
+          "published": "Mon, 20 Jul 2026 09:07:00 GMT",
+          "source": "The Providence Journal"
         }
       ]
     },
@@ -331,6 +311,26 @@
       "title": "10 ultra-luxury billionaire vacation destinations — where the world's richest people go to disappear - Yahoo Creators",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxONWl2akZXTjhGQWZwY0lvZ3VzbFJTQ25mckd3UjNDUnpvWllfNzJXWUtFbVZRMHlRMnNZdjlXdlJ1RW1WVDlTM1VaTFhTWDVnN191Unpxa2hhUUtpRzJ5R2NoeHNiVG0zQnZHRl92NTZ2OHpiQUZ2SlBuQUZiS01XQkwycG9ZMFdhZlU3MHFhcDNKNmVfQmpjRWRTRlpLWGZ4QVZtWXlnTWFTR3",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONWl2akZXTjhGQWZwY0lvZ3VzbFJTQ25mckd3UjNDUnpvWllfNzJXWUtFbVZRMHlRMnNZdjlXdlJ1RW1WVDlTM1VaTFhTWDVnN191Unpxa2hhUUtpRzJ5R2NoeHNiVG0zQnZHRl92NTZ2OHpiQUZ2SlBuQUZiS01XQkwycG9ZMFdhZlU3MHFhcDNKNmVfQmpjRWRTRlpLWGZ4QVZtWXlnTWFTR3NtYXlfNXdKOFpVUE9MQjk4dk9FclJUVzFySVI2WGFQZzNwSk43U1Frck5zTjVOTk1jQkYwREdHTC1MMkt3MU1lXw?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-20T09:32:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 18 Jul 2026 15:59:50 GMT",
+          "source": "Yahoo Creators"
+        }
+      ]
+    },
+    {
+      "id": "ae3219de9f5e",
+      "title": "U.S., Congo Ebola travel restrictions may hamper humanitarian aid response - The Japan Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTBhV1EwVlJhZFJKSWU0NUhUSjVjQnFBSjFmMFZWenVKaUxldU0yb19fUG9KdDhoRkdvYXNTUUV4R0VjSTVNZ1FkUkRWbGx2d2NROFVTd3RGRkt4bFNJUHo3UWM3RTBNTERMNVl0b1NWOU5yNDJxRG5MME5abHdZMVBvV0M5SnhqRVhEaWc2cHFCaGVXb0ZF?oc=5\" target=\"_blank\">U.S",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTBhV1EwVlJhZFJKSWU0NUhUSjVjQnFBSjFmMFZWenVKaUxldU0yb19fUG9KdDhoRkdvYXNTUUV4R0VjSTVNZ1FkUkRWbGx2d2NROFVTd3RGRkt4bFNJUHo3UWM3RTBNTERMNVl0b1NWOU5yNDJxRG5MME5abHdZMVBvV0M5SnhqRVhEaWc2cHFCaGVXb0ZF?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,11 +338,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 18 Jul 2026 15:59:50 GMT",
-          "source": "Yahoo Creators"
+          "published": "Mon, 20 Jul 2026 03:40:00 GMT",
+          "source": "The Japan Times"
         }
       ]
     },
@@ -358,7 +358,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
           "published": "Tue, 14 Jul 2026 07:00:00 GMT",
@@ -367,10 +367,10 @@
       ]
     },
     {
-      "id": "e15aaa1e2e39",
-      "title": "Stomach bugs surging as doctors say certain travel essentials could save your trip - Fox News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVNnOW1UcjdDOWRudUtWVUhfWmdPbGRKYVVEV2tJanlfWjRaSG9uVm1KM1lhRlBQU3ZCbVFFaEM2OTF0c0FxZ0JYNVlKd3JXOGFKTHhXaGNsLV9SNFIxZnZUc1EwazJvMFNzNVdRSENjV2d1Mkp2Z05SQjhWdVVnYXBvWXJyaEsxaEV1cW5oX0EzNVZuOThJa3dVQ1hkUFhJWW9zctIBqgFBVV",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVNnOW1UcjdDOWRudUtWVUhfWmdPbGRKYVVEV2tJanlfWjRaSG9uVm1KM1lhRlBQU3ZCbVFFaEM2OTF0c0FxZ0JYNVlKd3JXOGFKTHhXaGNsLV9SNFIxZnZUc1EwazJvMFNzNVdRSENjV2d1Mkp2Z05SQjhWdVVnYXBvWXJyaEsxaEV1cW5oX0EzNVZuOThJa3dVQ1hkUFhJWW9zctIBqgFBVV95cUxQZ1lZNmtJSUxHUmN1b2FTeTRPS1lXTXU3aEhOWFREMHVvVEFMdHI0TDFOVDVIU21DWGRGQjI2VDVPRTNUMmxpeUdxdEV3cHUzTm9veWRQcmUwMnQ1dVpmU2t3anRTZ3BJOUpUV0taYXJSb1Q5M0Rjb2x6OHFxSEFOSjVoNEtoSXRFN1lubFoxNW53U1FydzhEcE55dEhUWjFweEtIZjU1b2loQQ?oc=5",
+      "id": "d9a8d6853b68",
+      "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjNVdkZiTVJ3bTlXQ19OcXFPQ3FjLXVEODJrMjFqdDBDam9SVjdlNGtCNlhFQXpLdUpqTVJXM0tKbXlWR0hsQ056SnNQUFhldlF6aWdCZFBGZl91anhkdkp3RTZYdzJGVlJuMDBRbXpLUWtUTFpVN3l5NEtZeTJNT3dEMEo?oc=5\" target=\"_blank\">The Evolution of Presidentia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjNVdkZiTVJ3bTlXQ19OcXFPQ3FjLXVEODJrMjFqdDBDam9SVjdlNGtCNlhFQXpLdUpqTVJXM0tKbXlWR0hsQ056SnNQUFhldlF6aWdCZFBGZl91anhkdkp3RTZYdzJGVlJuMDBRbXpLUWtUTFpVN3l5NEtZeTJNT3dEMEo?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 19 Jul 2026 17:45:18 GMT",
-          "source": "Fox News"
+          "published": "Sun, 19 Jul 2026 15:55:00 GMT",
+          "source": "The New York Times"
         }
       ]
     },
     {
-      "id": "ae3219de9f5e",
-      "title": "U.S., Congo Ebola travel restrictions may hamper humanitarian aid response - The Japan Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTBhV1EwVlJhZFJKSWU0NUhUSjVjQnFBSjFmMFZWenVKaUxldU0yb19fUG9KdDhoRkdvYXNTUUV4R0VjSTVNZ1FkUkRWbGx2d2NROFVTd3RGRkt4bFNJUHo3UWM3RTBNTERMNVl0b1NWOU5yNDJxRG5MME5abHdZMVBvV0M5SnhqRVhEaWc2cHFCaGVXb0ZF?oc=5\" target=\"_blank\">U.S",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTBhV1EwVlJhZFJKSWU0NUhUSjVjQnFBSjFmMFZWenVKaUxldU0yb19fUG9KdDhoRkdvYXNTUUV4R0VjSTVNZ1FkUkRWbGx2d2NROFVTd3RGRkt4bFNJUHo3UWM3RTBNTERMNVl0b1NWOU5yNDJxRG5MME5abHdZMVBvV0M5SnhqRVhEaWc2cHFCaGVXb0ZF?oc=5",
+      "id": "f3c5cf21532e",
+      "title": "Changing face of the Peloponnese: backdrop to The Odyssey braces for tourism surge - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1BFb1BhTTAzSWZoQkFhMV8wZ1dzbUp3RXJSSVcyeDVLNE1VcXV0WUdQTjJadFhidWtZNzFzR3Bfbi04SWlxOWt2bWx1VEw4UjhzUGQxNlNrR0lIQkNENVROVDU3MGNXdmpEUGtFa0R1UkpPN2I0eWc5bnFFZGstbmxUZ0xrSktsbS1EZ1E1VjQ2bnFRVDdmWVlkUlNoODU3S2lteXFqMnpSc2",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1BFb1BhTTAzSWZoQkFhMV8wZ1dzbUp3RXJSSVcyeDVLNE1VcXV0WUdQTjJadFhidWtZNzFzR3Bfbi04SWlxOWt2bWx1VEw4UjhzUGQxNlNrR0lIQkNENVROVDU3MGNXdmpEUGtFa0R1UkpPN2I0eWc5bnFFZGstbmxUZ0xrSktsbS1EZ1E1VjQ2bnFRVDdmWVlkUlNoODU3S2lteXFqMnpSc2FkdVJzTTZPRWNYQQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-20T03:57:50+00:00",
+      "first_seen": "2026-07-20T09:32:01+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 20 Jul 2026 03:40:00 GMT",
-          "source": "The Japan Times"
+          "published": "Mon, 20 Jul 2026 06:00:00 GMT",
+          "source": "The Guardian"
         }
       ]
     }
