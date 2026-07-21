@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "US",
-  "generated_at": "2026-07-20T20:03:30+00:00",
+  "generated_at": "2026-07-21T03:46:21+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "b7bd4b1f6903",
-      "title": "Pete Hegseth, You Call That a Pull-Up? - The Atlantic",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVZiSHgxQkJPZ3RudjJjRGt5d0p6QjJJTU5KMmhKdVF6eGQ5NEFHb01VLTJzMzdoclhTSXZrcWNCX0JUZVFOc0pVZFFkck9NU1FvN3dJN3JsZEhCQ21WRXVQZ0F1SkRaZWc5Mkt1LXVzbUM1Qm1fbFFWU0ZEazhic25qaldCa2pCQ3JNcTVXZXdVQQ?oc=5\" target=\"_blank\">Pete Hegs",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVZiSHgxQkJPZ3RudjJjRGt5d0p6QjJJTU5KMmhKdVF6eGQ5NEFHb01VLTJzMzdoclhTSXZrcWNCX0JUZVFOc0pVZFFkck9NU1FvN3dJN3JsZEhCQ21WRXVQZ0F1SkRaZWc5Mkt1LXVzbUM1Qm1fbFFWU0ZEazhic25qaldCa2pCQ3JNcTVXZXdVQQ?oc=5",
+      "id": "892cf340481c",
+      "title": "NHL Summer Sizzle Workout Edition: Kiefer Sherwood - NHL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQclQwamZGZ2g0M282eHZaUE5MejhBdmh1SEdNLWtMdTMyNFo2ZEY4RzRqRkplT096WkZQNy1qY0Q2ZXlkNkN4RGJ4ckZma3lVN0VwWXd5M3RqQkRNODFPUmliVTBLamlxSjIwdG5rQ0ZtU1pIQjU0cWhfVUVxSTB3bHJELUU3MGNMNngtSGhDdVFVdmtpeU9oVQ?oc=5\" target=\"_blank\">N",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclQwamZGZ2g0M282eHZaUE5MejhBdmh1SEdNLWtMdTMyNFo2ZEY4RzRqRkplT096WkZQNy1qY0Q2ZXlkNkN4RGJ4ckZma3lVN0VwWXd5M3RqQkRNODFPUmliVTBLamlxSjIwdG5rQ0ZtU1pIQjU0cWhfVUVxSTB3bHJELUU3MGNMNngtSGhDdVFVdmtpeU9oVQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
+      "first_seen": "2026-07-21T03:37:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 21 Jul 2026 01:52:16 GMT",
+          "source": "NHL.com"
+        }
+      ]
+    },
+    {
+      "id": "3fef0aabd3ba",
+      "title": "Man faces nearly 200 charges in thefts near Northern Virginia fitness centers - WTOP",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTllLUVo0eHFOQ2RhMS11TlQwdGJSUFFRaHpZaHZwaXdvdHMtcEt4QUNtWllCdTJsa05ha2FET0xFY3l6WmFld2lueTh4ZHh2VTV2dHBKVXl3VmI0MXZmc0dxekpEVmRjYWE2Q3N6ZkxiRFhSZV9YblVEcUVQRWd4OFkxeDFvc0ZXendualVSSUtOT3NDeHBxclVvaGJUXzhtRzBOYTdsMzQxTE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTllLUVo0eHFOQ2RhMS11TlQwdGJSUFFRaHpZaHZwaXdvdHMtcEt4QUNtWllCdTJsa05ha2FET0xFY3l6WmFld2lueTh4ZHh2VTV2dHBKVXl3VmI0MXZmc0dxekpEVmRjYWE2Q3N6ZkxiRFhSZV9YblVEcUVQRWd4OFkxeDFvc0ZXendualVSSUtOT3NDeHBxclVvaGJUXzhtRzBOYTdsMzQxTElmLWh3UlRYWThESW1CUWc?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-07-21T03:37:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 19:20:09 GMT",
+          "source": "WTOP"
+        }
+      ]
+    },
+    {
+      "id": "b7bd4b1f6903",
+      "title": "Pete Hegseth, You Call That a Pull-Up? - The Atlantic",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVZiSHgxQkJPZ3RudjJjRGt5d0p6QjJJTU5KMmhKdVF6eGQ5NEFHb01VLTJzMzdoclhTSXZrcWNCX0JUZVFOc0pVZFFkck9NU1FvN3dJN3JsZEhCQ21WRXVQZ0F1SkRaZWc5Mkt1LXVzbUM1Qm1fbFFWU0ZEazhic25qaldCa2pCQ3JNcTVXZXdVQQ?oc=5\" target=\"_blank\">Pete Hegs",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVZiSHgxQkJPZ3RudjJjRGt5d0p6QjJJTU5KMmhKdVF6eGQ5NEFHb01VLTJzMzdoclhTSXZrcWNCX0JUZVFOc0pVZFFkck9NU1FvN3dJN3JsZEhCQ21WRXVQZ0F1SkRaZWc5Mkt1LXVzbUM1Qm1fbFFWU0ZEazhic25qaldCa2pCQ3JNcTVXZXdVQQ?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-07-21T03:37:13+00:00",
       "raw_samples": [
         {
           "published": "Mon, 20 Jul 2026 11:00:00 GMT",
@@ -27,18 +67,98 @@
       ]
     },
     {
-      "id": "09f3ff06749d",
-      "title": "Village of Glenwood, Blue Cross and Blue Shield of Illinois, and National Fitness Campaign Provide Free Fitness for Everyone in Glenwood | Blue Cross and Blue Shield of Illinois - Blue Cross and Blue Shield of Illinois",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHFDcFF4WEtPQUM2NzB3OHZTaTZxbk5zS1p5LTVtMEgtREZPdEZpZG5FdWNmUWNUc0duaGNwalg3M3ZqaWxkX181QS14VXduaHdDRjhZaGl1Y0VwcDlWOE4yYVJKWkJKeFozY0xuYWxrckU1djM1WHM4dzhzQWZxbXZfaDE3TTNkS1E?oc=5\" target=\"_blank\">Village of Glenwood,",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHFDcFF4WEtPQUM2NzB3OHZTaTZxbk5zS1p5LTVtMEgtREZPdEZpZG5FdWNmUWNUc0duaGNwalg3M3ZqaWxkX181QS14VXduaHdDRjhZaGl1Y0VwcDlWOE4yYVJKWkJKeFozY0xuYWxrckU1djM1WHM4dzhzQWZxbXZfaDE3TTNkS1E?oc=5",
-      "score": 86.4,
+      "id": "55fb7787dc57",
+      "title": "Man faces nearly 200 charges for car break-ins at Fairfax County gyms - FOX 5 DC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdDRLNXFhTUw4Sy1QNVBGWEQ3QnN0VHR1V2JUOHN4bU5PbEVpclpKUmo2QjRoNkh5ZXZuWkc0NGFsZFlOSFlaQ2pDQjVlT09UU05wbFF2NDUyempaZGwzVm5XRDktRHNSSnZFeERWelB2Vl9LcEJmSWtYdmVOOFJFQnNPbWdhSnlJVjRPUDJYVkgtTDRxWWFqa1BpcXJvX0VVOUHSAacBQVVfeX",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdDRLNXFhTUw4Sy1QNVBGWEQ3QnN0VHR1V2JUOHN4bU5PbEVpclpKUmo2QjRoNkh5ZXZuWkc0NGFsZFlOSFlaQ2pDQjVlT09UU05wbFF2NDUyempaZGwzVm5XRDktRHNSSnZFeERWelB2Vl9LcEJmSWtYdmVOOFJFQnNPbWdhSnlJVjRPUDJYVkgtTDRxWWFqa1BpcXJvX0VVOUHSAacBQVVfeXFMTmZQbGVpd3FDNlVwRXc3M0JXaU5pM3E1RDZURnB5bnd3XzBDY0IzemFGejctX294MW13cG1fM2lfTWxCZ0Y2UjZHVkVuUWR6TDRsYkl6bXN0bHNiaV9YTGZMQldkbDVad3E4SnJJUlNGUGRoQzNHOElKRlB0NmUxRnEtNHZIR092WHBkUTFqVTBLSHlNSjZFUkw5NWlaU1hNakFiVFBNQ3c?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
+      "first_seen": "2026-07-21T03:37:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 18:43:02 GMT",
+          "source": "FOX 5 DC"
+        }
+      ]
+    },
+    {
+      "id": "f4c368e70dff",
+      "title": "Alexandria man faces nearly 200 charges in gym parking lot theft spree - WJLA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxNQ051ci1RN3M5c3ZkRXM5V3NSbUM3ZzRVOHpfUGI2bTVjcVFRek8tOUE3U2FtOEFKZ204eFFGTG5UZFlWZ21Mb183eGVxNzk3SF9aSnpEM0pZMHBNUlNZZjlON0d1Zy1jQVVZYjh2WXdxM0pGWklZNWVNZHBYUXhYMDRFLXYtNzhPY1B3V3dKTi01YWxQSjlfRUdjTGVjR2J3c2l2eTBlU01sMU",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNQ051ci1RN3M5c3ZkRXM5V3NSbUM3ZzRVOHpfUGI2bTVjcVFRek8tOUE3U2FtOEFKZ204eFFGTG5UZFlWZ21Mb183eGVxNzk3SF9aSnpEM0pZMHBNUlNZZjlON0d1Zy1jQVVZYjh2WXdxM0pGWklZNWVNZHBYUXhYMDRFLXYtNzhPY1B3V3dKTi01YWxQSjlfRUdjTGVjR2J3c2l2eTBlU01sMUdPSlhfRi1mbXg3QUVqMWc5MmhyVGhzSEtJek1uRzBUY2lVd0g3S0V2Wm9hMmxWZzhPTFgtV01PZXJnMnQ5ZU9SY2U5RV9IMHVzQ1NvX3RSMUFITG0tQ2RXZGhybGdNcGFwbDFybmRnUVRVSlgzZjJiNktnZkNxNlZEa1hF?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-07-21T03:37:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 16:21:26 GMT",
+          "source": "WJLA"
+        }
+      ]
+    },
+    {
+      "id": "dbb52afa192f",
+      "title": "From hoops to hope: St. Cecilia’s Gym to be transformed into youth hub in Detroit - ClickOnDetroit | WDIV Local 4",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXNrT2p2QTRZdzRXV3lEenJYRm45S3hsaHUxU3BGdUQtYXI5ZkZBY3E4WV91dHZfczV5eV9tU0NqbkljQktUbWlYUWdkNmctYVRCUFhDSHc4bWJpcmR0TFRvR0NxWGh1aF9hemJUX1QxR1VSYkFlSTB2VGpsc0VfOTBPZzNaR1ZDSU9YdVhYeEVWbHYwc3ZZS1A5djIwUzlNSjVjajc3YW1pRE",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXNrT2p2QTRZdzRXV3lEenJYRm45S3hsaHUxU3BGdUQtYXI5ZkZBY3E4WV91dHZfczV5eV9tU0NqbkljQktUbWlYUWdkNmctYVRCUFhDSHc4bWJpcmR0TFRvR0NxWGh1aF9hemJUX1QxR1VSYkFlSTB2VGpsc0VfOTBPZzNaR1ZDSU9YdVhYeEVWbHYwc3ZZS1A5djIwUzlNSjVjajc3YW1pRExIeXFIUGYzaFV3aWlzWGxfWGFjSWhkM2Rxak5zWi1VNkM?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-07-21T03:37:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 21 Jul 2026 02:16:52 GMT",
+          "source": "ClickOnDetroit | WDIV Local 4"
+        }
+      ]
+    },
+    {
+      "id": "6fbdc2bc58ab",
+      "title": "The Bodyssey: Can a Mere Mortal Get in Greek God Shape by Following Matt Damon’s Workout Plan? - Vogue",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB3a0VKb3RLTDlaeTkzdUs5QkRPZGdlWmpLZVhySkI4aWc3czlJaDhzQ3F1WGt5QW91VUtqRXRYSnFlQ0JjMXZZRjV3VUZFWUZrdFVCd2tNSWZZczFOb3FHN1JCQWFNSnlnSHRWMGhxMEVsWkk?oc=5\" target=\"_blank\">The Bodyssey: Can a Mere Mortal Get in Greek God Sha",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3a0VKb3RLTDlaeTkzdUs5QkRPZGdlWmpLZVhySkI4aWc3czlJaDhzQ3F1WGt5QW91VUtqRXRYSnFlQ0JjMXZZRjV3VUZFWUZrdFVCd2tNSWZZczFOb3FHN1JCQWFNSnlnSHRWMGhxMEVsWkk?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-07-21T03:37:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 20 Jul 2026 19:30:00 GMT",
+          "source": "Vogue"
+        }
+      ]
+    },
+    {
+      "id": "09f3ff06749d",
+      "title": "Village of Glenwood, Blue Cross and Blue Shield of Illinois, and National Fitness Campaign Provide Free Fitness for Everyone in Glenwood | Blue Cross and Blue Shield of Illinois - Blue Cross and Blue Shield of Illinois",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHFDcFF4WEtPQUM2NzB3OHZTaTZxbk5zS1p5LTVtMEgtREZPdEZpZG5FdWNmUWNUc0duaGNwalg3M3ZqaWxkX181QS14VXduaHdDRjhZaGl1Y0VwcDlWOE4yYVJKWkJKeFozY0xuYWxrckU1djM1WHM4dzhzQWZxbXZfaDE3TTNkS1E?oc=5\" target=\"_blank\">Village of Glenwood,",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHFDcFF4WEtPQUM2NzB3OHZTaTZxbk5zS1p5LTVtMEgtREZPdEZpZG5FdWNmUWNUc0duaGNwalg3M3ZqaWxkX181QS14VXduaHdDRjhZaGl1Y0VwcDlWOE4yYVJKWkJKeFozY0xuYWxrckU1djM1WHM4dzhzQWZxbXZfaDE3TTNkS1E?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-07-21T03:37:13+00:00",
       "raw_samples": [
         {
           "published": "Mon, 20 Jul 2026 16:12:13 GMT",
@@ -47,128 +167,8 @@
       ]
     },
     {
-      "id": "33e0ea72fae5",
-      "title": "Willow Gym - Electronic Arts Home Page",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlFZMXFkckpaSDFkSlc2QUcyQzBnQlg3Mk92NmZBbEpQYjczbTJubHdsd2x5cnlSSzVyS1VTSF9vdjBuNlp3MDFPd2JNT1l4eU14Z3pybEZpMEI4UnQ1R0JGYkxaTU1kUzlqU3E1RVNGbXQ1cnVvaF9yZVU5bXBmM2FpTmZFVTFWN2RDbFdqUFdVcTQ?oc=5\" target=\"_blank\">Willow G",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlFZMXFkckpaSDFkSlc2QUcyQzBnQlg3Mk92NmZBbEpQYjczbTJubHdsd2x5cnlSSzVyS1VTSF9vdjBuNlp3MDFPd2JNT1l4eU14Z3pybEZpMEI4UnQ1R0JGYkxaTU1kUzlqU3E1RVNGbXQ1cnVvaF9yZVU5bXBmM2FpTmZFVTFWN2RDbFdqUFdVcTQ?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 20 Jul 2026 07:56:18 GMT",
-          "source": "Electronic Arts Home Page"
-        }
-      ]
-    },
-    {
-      "id": "e4a08d579ae8",
-      "title": "Workout motivation disappears fast — this simple fitness reset helped me want to hit the gym again - Yahoo Creators",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ViWHZXd2dhZUE0cFdQa1BwVzRNdktKZllqdW96TFliRHhydjBqWGpWOFBFdGdWNnNRREROTWJENVNuV29wYWJSSmpXQmN2ZEN3djR0LWFlVXM0ZTZEUzl4THJ3X1dBV09EVnFGWGVYNlZFTURNQnUxeEJWODU4dklKVkdXWXNfNjRUUDFfN2lvek5LeGIzMFhwR0tDM2thMGdaV3hCQmF2bk",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ViWHZXd2dhZUE0cFdQa1BwVzRNdktKZllqdW96TFliRHhydjBqWGpWOFBFdGdWNnNRREROTWJENVNuV29wYWJSSmpXQmN2ZEN3djR0LWFlVXM0ZTZEUzl4THJ3X1dBV09EVnFGWGVYNlZFTURNQnUxeEJWODU4dklKVkdXWXNfNjRUUDFfN2lvek5LeGIzMFhwR0tDM2thMGdaV3hCQmF2bkNRRzBLZ3l1dlY3Sm9oN0ZQTHFIcTYtVWI2d0VQSXlmMDlsVGx3ZW95Y1otY0JPbjlwZlhhVm9OSkF3Q1l4eTZJ?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 20 Jul 2026 16:19:19 GMT",
-          "source": "Yahoo Creators"
-        }
-      ]
-    },
-    {
-      "id": "581ed1e91ab8",
-      "title": "The Stinky Gym Clothes Solution Shared From Gym Rat to Gym Rat - New York Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9ESEhWNTROb2dhX3lna1EtOGQxTEtWV2llRks3LWxyYVFYVjhtTWQ4WFdOdzlGT1hsWm9MMFhzMl9TSG5QcFYwNjlkb2xEdnJGMzNSdFBxdDBycUpndVlFNHhQZUlQa3N1cEJ1UHJTNUJXTnJ6?oc=5\" target=\"_blank\">The Stinky Gym Clothes Solution Shared From Gym Rat",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ESEhWNTROb2dhX3lna1EtOGQxTEtWV2llRks3LWxyYVFYVjhtTWQ4WFdOdzlGT1hsWm9MMFhzMl9TSG5QcFYwNjlkb2xEdnJGMzNSdFBxdDBycUpndVlFNHhQZUlQa3N1cEJ1UHJTNUJXTnJ6?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 20 Jul 2026 15:36:03 GMT",
-          "source": "New York Magazine"
-        }
-      ]
-    },
-    {
-      "id": "c0d608e4dc46",
-      "title": "Consumer Reports: Home gym for cheap - WISN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1MV0gxZkFMVUNtSm1OdWZ3RW9RZ29uWXc3NXFVNDBlRWNzYjd3aFdtem5TNmxmTldzNS02N2Q4c2tFbExjUDBHYllNSjdkcUFHQ25GbWdYMEQ5YVFUNGxWb3JLSjFTQ3ZiQ2lySm0xUzdmbEFLRzAwU3N1VHpZZw?oc=5\" target=\"_blank\">Consumer Reports: Home gym for cheap<",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MV0gxZkFMVUNtSm1OdWZ3RW9RZ29uWXc3NXFVNDBlRWNzYjd3aFdtem5TNmxmTldzNS02N2Q4c2tFbExjUDBHYllNSjdkcUFHQ25GbWdYMEQ5YVFUNGxWb3JLSjFTQ3ZiQ2lySm0xUzdmbEFLRzAwU3N1VHpZZw?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 20 Jul 2026 13:42:00 GMT",
-          "source": "WISN"
-        }
-      ]
-    },
-    {
-      "id": "c6db387f443a",
-      "title": "Muscle mass alone does not explain fitness drops in Parkinson’s - Parkinson's News Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQQndqLTB6V24zNV9sTkxybjUtRzdBdWwxMmtaNWl3Mi0yZ3dHRjVCVWF1NWNHaHp1U2hoX25ZWXU1Ul85YlB0NU5kN1g3OUktWk9xVGhpelpTT1Z0ejRMY0NvS3ozN2UwT252cWxRVzNRTHdTNl9wUjh6Zlh4TWcyMXVwalczdmNkc19mZXBPV1NDdw?oc=5\" target=\"_blank\">Muscle ma",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQndqLTB6V24zNV9sTkxybjUtRzdBdWwxMmtaNWl3Mi0yZ3dHRjVCVWF1NWNHaHp1U2hoX25ZWXU1Ul85YlB0NU5kN1g3OUktWk9xVGhpelpTT1Z0ejRMY0NvS3ozN2UwT252cWxRVzNRTHdTNl9wUjh6Zlh4TWcyMXVwalczdmNkc19mZXBPV1NDdw?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 20 Jul 2026 15:51:50 GMT",
-          "source": "Parkinson's News Today"
-        }
-      ]
-    },
-    {
-      "id": "2e5ec3cffe4c",
-      "title": "Man arrested for kidnapping outside VASA gym in Lehi - ABC4 Utah",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUlEcWo4c1lsUHhjTVY5LUV4SEQzNmJuWGUyY2VEYkQ2d2syRV9qN3ctQnR5RnM0WUx1cEY1d2ctbk1iMWoyZmdGbG1EeGQxb09OclAyVVRVenhBYXpFZ3MxZHprdWRlcVhxVkhfQUpWcjlCaTVhOWRqRUs3emdUXzExYW9lRjNTdEo5TzN30gGTAUFVX3lxTFA2U3QtajNtRENlSzNoVUZWQz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUlEcWo4c1lsUHhjTVY5LUV4SEQzNmJuWGUyY2VEYkQ2d2syRV9qN3ctQnR5RnM0WUx1cEY1d2ctbk1iMWoyZmdGbG1EeGQxb09OclAyVVRVenhBYXpFZ3MxZHprdWRlcVhxVkhfQUpWcjlCaTVhOWRqRUs3emdUXzExYW9lRjNTdEo5TzN30gGTAUFVX3lxTFA2U3QtajNtRENlSzNoVUZWQzczUEprTHpzc1BBNmdEZmRoZVBFdEUzNEFHS0hXbHNWU1BVTGhkczNZWkFzU0g2R0VFRllPaE5RbWxINm9ZaWNUZG95SVZDNlotaHIyT1VId3d1QTlaYTBXYk9UZjZHZFFMOExpcWlEN0l5QzNsNkJ4Z1lpTkxRWlVCSQ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 20 Jul 2026 15:12:02 GMT",
-          "source": "ABC4 Utah"
-        }
-      ]
-    },
-    {
-      "id": "ad30af50a963",
-      "title": "Get Bigger Arms in 22 Days (GUARANTEED)",
+      "id": "b00d7b42d095",
+      "title": "Get Bigger Arms in 22 Days (FULL PLAN)",
       "summary": "Build Bigger Arms Here - https://athleanx.com\nSubscribe to this channel here - http://bit.ly/2b0coMW\n\nWant to know how to get bigger arms in just 22 days? In this ATHLEAN-X arm workout, Jeff Cavaliere lays out a step-by-step plan to help you build bigger biceps, bigger triceps, a",
       "url": "https://www.youtube.com/watch?v=CTblai7olJo",
       "score": 61.599999999999994,
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:47+00:00",
+      "first_seen": "2026-07-21T03:39:36+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:48+00:00",
+      "first_seen": "2026-07-21T03:39:37+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -224,7 +224,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:49+00:00",
+      "first_seen": "2026-07-21T03:39:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -236,10 +236,10 @@
       "is_global": true
     },
     {
-      "id": "61907be95dc9",
-      "title": "The Undefeated Tribe Opens 50th Crunch Fitness Location With New Austin Club - KXAN Austin",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQV25Mb1dzbExmMnpQdDk1Y29ZVW9tbTFOSlNseko3bl9sUkNhQ3B2NjB2aVcxVzFRUjJvcG96YWxaUEZqSjZGZWZtZDhNZ3FNMGRUc2Z2Ql9hemFjUFpfMnB6enBfaGprazF2cGllbEVVWG0weGpwMGExaWJpWm43WEx1bGlidkxMT1dDZzB2MHZQb3lmUnZDTTNWM01teHJiWlhXYkR2ajRBVV",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV25Mb1dzbExmMnpQdDk1Y29ZVW9tbTFOSlNseko3bl9sUkNhQ3B2NjB2aVcxVzFRUjJvcG96YWxaUEZqSjZGZWZtZDhNZ3FNMGRUc2Z2Ql9hemFjUFpfMnB6enBfaGprazF2cGllbEVVWG0weGpwMGExaWJpWm43WEx1bGlidkxMT1dDZzB2MHZQb3lmUnZDTTNWM01teHJiWlhXYkR2ajRBVVE0RzVNMFNfZF9CXzTSAbwBQVVfeXFMUFl4NUJ3NUFGS2tabUI2WDJ4Z01EZUNYaks0OTNmVnVoN1N4R2YyNGF0NGlPOVJGZ2djX2hVWnZHNDVUN3RkQmphWG8xN1BPdTVLNEMybWZXZGhtb2VNYzhsWTR3cVBiWEdPRlhmU0hiTmZGanNoZVBaRWlJZThydUtzc2c3MFljUEZhSHNTX1h5a3hBZ1dvTmltTE1MX2dIU0JkRjJVQlVfc3NoX1JiMXJ1bk5KbzhzcVQzVEc?oc=5",
+      "id": "51998d47cfc6",
+      "title": "New outdoor gym comes to two Las Vegas parks, including one in the northwest valley - ktnv.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGJXNjJOLXNfMVQ0SzdMU05OMlFCVjc0NzNKQmhqZGtNczhyUGdJVnJQNWtqXzBIWFF2eVlrUFVXNzQwV3ZmSzZLaXNFZVBoLVI0Ti03ZkdtQUVVLTkybm13WDhBeThTNURQSUNsbHBLRFNPUm85cVAtTEFCaU9CVFlfVUZ3cHdERmJLN1pVbm5kNnR5TlM4azhDbTR6QjZwdnktWVZoWkFMTX",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGJXNjJOLXNfMVQ0SzdMU05OMlFCVjc0NzNKQmhqZGtNczhyUGdJVnJQNWtqXzBIWFF2eVlrUFVXNzQwV3ZmSzZLaXNFZVBoLVI0Ti03ZkdtQUVVLTkybm13WDhBeThTNURQSUNsbHBLRFNPUm85cVAtTEFCaU9CVFlfVUZ3cHdERmJLN1pVbm5kNnR5TlM4azhDbTR6QjZwdnktWVZoWkFMTXZpUGxnNVR0Nm9MUFBBbUx3dkxxV0V2bUozV0R4ZHoyc2lrUFIzOVRv?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -247,11 +247,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
+      "first_seen": "2026-07-21T03:37:13+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 20 Jul 2026 15:18:23 GMT",
-          "source": "KXAN Austin"
+          "published": "Tue, 21 Jul 2026 02:04:56 GMT",
+          "source": "ktnv.com"
         }
       ]
     },
@@ -267,7 +267,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:47+00:00",
+      "first_seen": "2026-07-21T03:39:36+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -290,7 +290,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:49+00:00",
+      "first_seen": "2026-07-21T03:39:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -302,10 +302,10 @@
       "is_global": true
     },
     {
-      "id": "3fef0aabd3ba",
-      "title": "Man faces nearly 200 charges in thefts near Northern Virginia fitness centers - WTOP",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTllLUVo0eHFOQ2RhMS11TlQwdGJSUFFRaHpZaHZwaXdvdHMtcEt4QUNtWllCdTJsa05ha2FET0xFY3l6WmFld2lueTh4ZHh2VTV2dHBKVXl3VmI0MXZmc0dxekpEVmRjYWE2Q3N6ZkxiRFhSZV9YblVEcUVQRWd4OFkxeDFvc0ZXendualVSSUtOT3NDeHBxclVvaGJUXzhtRzBOYTdsMzQxTE",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTllLUVo0eHFOQ2RhMS11TlQwdGJSUFFRaHpZaHZwaXdvdHMtcEt4QUNtWllCdTJsa05ha2FET0xFY3l6WmFld2lueTh4ZHh2VTV2dHBKVXl3VmI0MXZmc0dxekpEVmRjYWE2Q3N6ZkxiRFhSZV9YblVEcUVQRWd4OFkxeDFvc0ZXendualVSSUtOT3NDeHBxclVvaGJUXzhtRzBOYTdsMzQxTElmLWh3UlRYWThESW1CUWc?oc=5",
+      "id": "2e5ec3cffe4c",
+      "title": "Man arrested for kidnapping outside VASA gym in Lehi - ABC4 Utah",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUlEcWo4c1lsUHhjTVY5LUV4SEQzNmJuWGUyY2VEYkQ2d2syRV9qN3ctQnR5RnM0WUx1cEY1d2ctbk1iMWoyZmdGbG1EeGQxb09OclAyVVRVenhBYXpFZ3MxZHprdWRlcVhxVkhfQUpWcjlCaTVhOWRqRUs3emdUXzExYW9lRjNTdEo5TzN30gGTAUFVX3lxTFA2U3QtajNtRENlSzNoVUZWQz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUlEcWo4c1lsUHhjTVY5LUV4SEQzNmJuWGUyY2VEYkQ2d2syRV9qN3ctQnR5RnM0WUx1cEY1d2ctbk1iMWoyZmdGbG1EeGQxb09OclAyVVRVenhBYXpFZ3MxZHprdWRlcVhxVkhfQUpWcjlCaTVhOWRqRUs3emdUXzExYW9lRjNTdEo5TzN30gGTAUFVX3lxTFA2U3QtajNtRENlSzNoVUZWQzczUEprTHpzc1BBNmdEZmRoZVBFdEUzNEFHS0hXbHNWU1BVTGhkczNZWkFzU0g2R0VFRllPaE5RbWxINm9ZaWNUZG95SVZDNlotaHIyT1VId3d1QTlaYTBXYk9UZjZHZFFMOExpcWlEN0l5QzNsNkJ4Z1lpTkxRWlVCSQ?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -313,11 +313,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
+      "first_seen": "2026-07-21T03:37:13+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 20 Jul 2026 19:20:09 GMT",
-          "source": "WTOP"
+          "published": "Mon, 20 Jul 2026 15:12:02 GMT",
+          "source": "ABC4 Utah"
         }
       ]
     },
@@ -333,7 +333,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:47+00:00",
+      "first_seen": "2026-07-21T03:39:36+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -356,7 +356,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:49+00:00",
+      "first_seen": "2026-07-21T03:39:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -379,7 +379,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:47+00:00",
+      "first_seen": "2026-07-21T03:39:36+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -391,10 +391,10 @@
       "is_global": true
     },
     {
-      "id": "bc08c49c4885",
-      "title": "Mike Company Combat Fitness Test [Image 7 of 7] - DVIDS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE93c1Q5Ny1mQjV0cEo5bV8ySmE1NlkzM2JXekRzeTl6R1BzOUZUMFBuZ1hiakJIQ2JWcmFXMWVoamFvV3dYUjMyUTlQQWVaWFI4MURMY2NmOXBDMG9UaGVuSHZ4ZnJrb0NMWHFNaTRFUFhFUDBodDFUbGJfRQ?oc=5\" target=\"_blank\">Mike Company Combat Fitness Test [Image 7",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93c1Q5Ny1mQjV0cEo5bV8ySmE1NlkzM2JXekRzeTl6R1BzOUZUMFBuZ1hiakJIQ2JWcmFXMWVoamFvV3dYUjMyUTlQQWVaWFI4MURMY2NmOXBDMG9UaGVuSHZ4ZnJrb0NMWHFNaTRFUFhFUDBodDFUbGJfRQ?oc=5",
+      "id": "f49c4e5bf8e3",
+      "title": "How Sam Reid Transformed Into a Vampire Rock Star - Men's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2VXdHREYXgzT1pnMXlDT2YyaDZ3UVBjb3ZBSF9vWEJJWV84UFM5RXAyVWVnc0Fpc1AzR016aEZadm9UcUkydHAyNWQ3clFtenFHVHp5TEdjVXc5ZXQ3MDBiOU1QbjhKS2QtSFFVNW5EdFMyV3FXbzNfZ3Z1LU03LXJ0aw?oc=5\" target=\"_blank\">How Sam Reid Transformed Into",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2VXdHREYXgzT1pnMXlDT2YyaDZ3UVBjb3ZBSF9vWEJJWV84UFM5RXAyVWVnc0Fpc1AzR016aEZadm9UcUkydHAyNWQ3clFtenFHVHp5TEdjVXc5ZXQ3MDBiOU1QbjhKS2QtSFFVNW5EdFMyV3FXbzNfZ3Z1LU03LXJ0aw?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -402,11 +402,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
+      "first_seen": "2026-07-21T03:37:13+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 20 Jul 2026 16:22:00 GMT",
-          "source": "DVIDS"
+          "published": "Mon, 20 Jul 2026 16:46:00 GMT",
+          "source": "Men's Health"
         }
       ]
     },
@@ -422,7 +422,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:49+00:00",
+      "first_seen": "2026-07-21T03:39:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -434,10 +434,10 @@
       "is_global": true
     },
     {
-      "id": "65abae6ca7cf",
-      "title": "Fitness & Wellness with Reforming Pilates! - NBC 6 South Florida",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGZiY2NvRlh3U05QMjRoRFAwamlEUWN3OGNGd2R0eERMUGN5STEybUpLemhxOFJoemdoNkczdEl0WHR0SExNMl9SVmpkMGRtejhWeGZLNnhvcDNTcTZzUEFGMU1JNWNiS29TWm1VakJ2WUY2aEIwVFJ2emVMeDBfZlVCVFhlOGRsZjZPbTQtbHRlU1NHS3dKMXByNEZEeVFuNXhLVV9fNXpzdm",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGZiY2NvRlh3U05QMjRoRFAwamlEUWN3OGNGd2R0eERMUGN5STEybUpLemhxOFJoemdoNkczdEl0WHR0SExNMl9SVmpkMGRtejhWeGZLNnhvcDNTcTZzUEFGMU1JNWNiS29TWm1VakJ2WUY2aEIwVFJ2emVMeDBfZlVCVFhlOGRsZjZPbTQtbHRlU1NHS3dKMXByNEZEeVFuNXhLVV9fNXpzdmhQeHltbHNn0gG6AUFVX3lxTFAyeGc3ZUdtc1ZuT0tKOE0ySFpmQjBnek9zTERXMTdlMEZpQWRnWlhSU0dQdFNHUzlubGpGbGRfcF9EUWJDaUhVanprdDJwS3U4TnN6Q0RoT25wWC11aVBVUTNnRGVybURiLUZLX0xhSVAzRlBHM2lNTEFFdXBORERCdUVNWkh4UVBMQ1lad3VmYm8wNmsxTm9Lc0VMMk9yQzZ1bVNQWDdrSUhucERrSFhxb3pJOWk0MTBnZw?oc=5",
+      "id": "33e0ea72fae5",
+      "title": "Willow Gym - Electronic Arts Home Page",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlFZMXFkckpaSDFkSlc2QUcyQzBnQlg3Mk92NmZBbEpQYjczbTJubHdsd2x5cnlSSzVyS1VTSF9vdjBuNlp3MDFPd2JNT1l4eU14Z3pybEZpMEI4UnQ1R0JGYkxaTU1kUzlqU3E1RVNGbXQ1cnVvaF9yZVU5bXBmM2FpTmZFVTFWN2RDbFdqUFdVcTQ?oc=5\" target=\"_blank\">Willow G",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlFZMXFkckpaSDFkSlc2QUcyQzBnQlg3Mk92NmZBbEpQYjczbTJubHdsd2x5cnlSSzVyS1VTSF9vdjBuNlp3MDFPd2JNT1l4eU14Z3pybEZpMEI4UnQ1R0JGYkxaTU1kUzlqU3E1RVNGbXQ1cnVvaF9yZVU5bXBmM2FpTmZFVTFWN2RDbFdqUFdVcTQ?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -445,11 +445,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
+      "first_seen": "2026-07-21T03:37:13+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 20 Jul 2026 16:47:50 GMT",
-          "source": "NBC 6 South Florida"
+          "published": "Mon, 20 Jul 2026 07:56:18 GMT",
+          "source": "Electronic Arts Home Page"
         }
       ]
     },
@@ -465,7 +465,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:49+00:00",
+      "first_seen": "2026-07-21T03:39:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -488,7 +488,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:49+00:00",
+      "first_seen": "2026-07-21T03:39:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -500,10 +500,10 @@
       "is_global": true
     },
     {
-      "id": "e16a97935a01",
-      "title": "AMP UP YOUR WORKOUT PLAYLIST: JOIN PLANET FITNESS AND GET UP TO THREE FREE MONTHS OF APPLE MUSIC - PR Newswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWFhhMEhwOEZIaXp4ZGlaSTZpaWxaRHMyczFfZ3RuX2FwRXRQakptZFRJQy15NkNvLUpxYTFaMFVkWlc0dTVYV1VrdzVFRndTYVktU1dLZlYzYm9UMG1qVUgzMVRuTFV0TnVHZXZfdWZBX2pkci1xblNhNHFBWTJEZHpFaGhFbFhVcXlrbFZncW82MjJWUmE4cUowVVB6WEVONUZNU2gyZ0pFWU",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWFhhMEhwOEZIaXp4ZGlaSTZpaWxaRHMyczFfZ3RuX2FwRXRQakptZFRJQy15NkNvLUpxYTFaMFVkWlc0dTVYV1VrdzVFRndTYVktU1dLZlYzYm9UMG1qVUgzMVRuTFV0TnVHZXZfdWZBX2pkci1xblNhNHFBWTJEZHpFaGhFbFhVcXlrbFZncW82MjJWUmE4cUowVVB6WEVONUZNU2gyZ0pFWUdVWHhkcWFPNmtURXFoYnFFekRUVnI4ZjFaZFNOSVVBS0FVbDhmR1U1ek9IdjBFUnZWSVR6UF9iUjlsZw?oc=5",
+      "id": "6311a5f53d93",
+      "title": "Is Planet Fitness (PLNT) Using Apple Music Perks to Deepen Its Lifestyle‑Brand Moat? - Yahoo Finance Singapore",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxONjRORUtHUGlGdzZhc1o2SXI3OG9XRzVzRUlkTVNZVzJNR2JlZktGTG5KZXFLcTVlMmRDMDBGZEV0dzdzME5RX2w2ckN6UUtCc0tOd0plTkM4X1paUVFmUTN1QXd5dDJYZldtazFUbDdqaTFERXBMRHpBWXZVcElYZTRuakdvMnc?oc=5\" target=\"_blank\">Is Planet Fitness (PLNT)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjRORUtHUGlGdzZhc1o2SXI3OG9XRzVzRUlkTVNZVzJNR2JlZktGTG5KZXFLcTVlMmRDMDBGZEV0dzdzME5RX2w2ckN6UUtCc0tOd0plTkM4X1paUVFmUTN1QXd5dDJYZldtazFUbDdqaTFERXBMRHpBWXZVcElYZTRuakdvMnc?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -511,11 +511,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-07-20T19:54:23+00:00",
+      "first_seen": "2026-07-21T03:37:13+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 20 Jul 2026 12:30:00 GMT",
-          "source": "PR Newswire"
+          "published": "Tue, 21 Jul 2026 02:11:00 GMT",
+          "source": "Yahoo Finance Singapore"
         }
       ]
     },
@@ -531,7 +531,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-20T19:56:49+00:00",
+      "first_seen": "2026-07-21T03:39:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
