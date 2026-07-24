@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-07-24T08:48:49+00:00",
+  "generated_at": "2026-07-24T14:15:50+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
-      "id": "47eff49825f0",
-      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
+      "id": "5b3479df5848",
+      "title": "Did the World Cup Live Up to ‘104 Super Bowls’? The Winners and Losers. - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5\" target=\"_blank\">Did the World Cup Live ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,11 +18,51 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 24 Jul 2026 04:34:38 GMT",
+          "published": "Fri, 24 Jul 2026 13:33:00 GMT",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "id": "47eff49825f0",
+      "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-24T14:07:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 24 Jul 2026 07:34:18 GMT",
           "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+        }
+      ]
+    },
+    {
+      "id": "d71af72b941c",
+      "title": "Travel Alberta CEO wants to draw more focus on Medicine Hat - Medicine Hat News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXpyZ1A3VkFEVzlieTJ1Vkw5Vkg3OHJVdEhIX2pCVkR4NnJacWN6amdRNHhiRXFkSEktSnl1LW9pOGMwVFhFOVRyTlowaS1fYldkaEVBVTh6UnVnVjN5dG9vTnFiSXpFUzdSSzJmY0xIbkI3MnNtUUc4MFFtbzZOdmM2YnVPdmxFcWpwWktjUUtjOEVCZnJic05oRmI0Z0dVd01YNi1USTFRY2",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXpyZ1A3VkFEVzlieTJ1Vkw5Vkg3OHJVdEhIX2pCVkR4NnJacWN6amdRNHhiRXFkSEktSnl1LW9pOGMwVFhFOVRyTlowaS1fYldkaEVBVTh6UnVnVjN5dG9vTnFiSXpFUzdSSzJmY0xIbkI3MnNtUUc4MFFtbzZOdmM2YnVPdmxFcWpwWktjUUtjOEVCZnJic05oRmI0Z0dVd01YNi1USTFRY2ZiMzBjMGdUYTJYdw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-24T14:07:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 24 Jul 2026 10:27:03 GMT",
+          "source": "Medicine Hat News"
         }
       ]
     },
@@ -31,14 +71,14 @@
       "title": "Travel spending to U.S. fell by $3.3B in 2025 amid ‘Buy Canadian’ push - Global News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZM0YtOERiWEViVjFuZkQ0V3VKOUNZSGJ3MWFCSFM5RVYzY3YydlpndFY1NzZ5bDF3d01kLXNzR1l2SUJtazFhSmVwcXlMYXFtNm5QRG56VklSZnFNSVNQd3lubGxCQjhVS29pTEN3?oc=5\" target=\"_blank\">Travel spending to U.S. fell by $3.3B in 2025 amid ‘Buy Can",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZM0YtOERiWEViVjFuZkQ0V3VKOUNZSGJ3MWFCSFM5RVYzY3YydlpndFY1NzZ5bDF3d01kLXNzR1l2SUJtazFhSmVwcXlMYXFtNm5QRG56VklSZnFNSVNQd3lubGxCQjhVS29pTEN3?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
           "published": "Wed, 22 Jul 2026 19:52:29 GMT",
@@ -47,18 +87,118 @@
       ]
     },
     {
-      "id": "1f5a38422381",
-      "title": "Highway 3 closure adds to limited Interior travel options - BC Gov News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vUVFnZzZ3cWFJY0pIY080Tjc5SDBESjhrdkdvaDh1ZnppWmFCeVNtQnFlY2ZTT1doc3F0Ny1mOWYxTHBITFlDNmU5eXczem0xdjByUUJHbTNmV3RjU3c?oc=5\" target=\"_blank\">Highway 3 closure adds to limited Interior travel options</a>&nbsp;&nbsp;<font c",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vUVFnZzZ3cWFJY0pIY080Tjc5SDBESjhrdkdvaDh1ZnppWmFCeVNtQnFlY2ZTT1doc3F0Ny1mOWYxTHBITFlDNmU5eXczem0xdjByUUJHbTNmV3RjU3c?oc=5",
-      "score": 82.8,
+      "id": "f571378b1076",
+      "title": "Tourism Operators in Gros Morne Get Funding Boost from Ottawa - VOCM",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNYzlJa095ZzNxeFBNbWhCc0QyVlNWbVNjNU5IZ2hmXzZMelhQQUhIUlpPaHZQRXIxTUZianpZU3ltUXVxcUFmVkxYY181VlRsb2g0czRPV2RIMENObXUxVHZqZGJOcEc2NGMtUm81bnN6bm5HaXBOU3doLWl6SUoyRVVqMjhraldWakhRbTltWVJkcDdt?oc=5\" target=\"_blank\">Tourism",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYzlJa095ZzNxeFBNbWhCc0QyVlNWbVNjNU5IZ2hmXzZMelhQQUhIUlpPaHZQRXIxTUZianpZU3ltUXVxcUFmVkxYY181VlRsb2g0czRPV2RIMENObXUxVHZqZGJOcEc2NGMtUm81bnN6bm5HaXBOU3doLWl6SUoyRVVqMjhraldWakhRbTltWVJkcDdt?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 24 Jul 2026 11:24:00 GMT",
+          "source": "VOCM"
+        }
+      ]
+    },
+    {
+      "id": "06795615d2b0",
+      "title": "How Concert Tourism Inspired This New Family Travel Trend - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGc0ZTVlN2ZJTnFGUkQzRklDaEtSbTVxMEV1TXM0ejdGWW1nbkhJR3BoX21RTXc5WTJIengtUXA0TXZTVFRqdVhjdllpTjI1WWpKQllLQjBoakZYamJKeHJnR1lDU05HRlJNUjM4TGZkRmFPdkQ5OFJnTHMyaldXTVJKRXJmN3pjU1hDRkJmOTI3RVBoYUJ4WHo5WGJtUkNfWnZTV3FJMDF3bG",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGc0ZTVlN2ZJTnFGUkQzRklDaEtSbTVxMEV1TXM0ejdGWW1nbkhJR3BoX21RTXc5WTJIengtUXA0TXZTVFRqdVhjdllpTjI1WWpKQllLQjBoakZYamJKeHJnR1lDU05HRlJNUjM4TGZkRmFPdkQ5OFJnTHMyaldXTVJKRXJmN3pjU1hDRkJmOTI3RVBoYUJ4WHo5WGJtUkNfWnZTV3FJMDF3bGVudk9Z?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-24T14:07:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 24 Jul 2026 13:00:19 GMT",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "id": "9e787d4c2711",
+      "title": "WestJet Strike Risk: Travel Insurance Won’t Cover a “Known Event” - Open Jaw",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1BqNFo1ZU1HNDQ0NE5ocnZHc3lGSWI2UTRiRGwyMGo0UXVLUk55TGtWVGtjZF9SNF9lQXZvalFkQ2FQNGJTM3Y1TXNzZ0JvUEVsMWdlRzhjWWdWaGZwLXN0Q2dleVBVSDJKbVRiTkdkaGdGR180NnhyTmtLdlFEWEExX29FaUxuazFqQzJuQXFVOUhfN0dYLUdPcXJvOXFXSzdORWRKQmtBek",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1BqNFo1ZU1HNDQ0NE5ocnZHc3lGSWI2UTRiRGwyMGo0UXVLUk55TGtWVGtjZF9SNF9lQXZvalFkQ2FQNGJTM3Y1TXNzZ0JvUEVsMWdlRzhjWWdWaGZwLXN0Q2dleVBVSDJKbVRiTkdkaGdGR180NnhyTmtLdlFEWEExX29FaUxuazFqQzJuQXFVOUhfN0dYLUdPcXJvOXFXSzdORWRKQmtBekNnZGNz?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-24T14:07:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 24 Jul 2026 11:07:16 GMT",
+          "source": "Open Jaw"
+        }
+      ]
+    },
+    {
+      "id": "1b8a5e2abe62",
+      "title": "Make Vacation Magic Happen at Oasis Hotels and Resorts - TravelPulse Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNEdITUUwUjNDaVRYYU1QRXJkRTQ1QUNXVkt0VDVQZ3dJNmlPMGhITTdmS2JNVmdxU2gyZmVhdGdqQjB0MTdRRmJ4MkNITjB4dVhsUE16clFRY3plbjk4c1loLWtyU3VUWWF6a3Vfc3Q1QnNQSk1oMmdRTkJCZXRrUE1rTnBYZ1JhaW5HNXhyTl90Z0hLS0llNWdWc24?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNEdITUUwUjNDaVRYYU1QRXJkRTQ1QUNXVkt0VDVQZ3dJNmlPMGhITTdmS2JNVmdxU2gyZmVhdGdqQjB0MTdRRmJ4MkNITjB4dVhsUE16clFRY3plbjk4c1loLWtyU3VUWWF6a3Vfc3Q1QnNQSk1oMmdRTkJCZXRrUE1rTnBYZ1JhaW5HNXhyTl90Z0hLS0llNWdWc24?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-24T14:07:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 24 Jul 2026 12:25:00 GMT",
+          "source": "TravelPulse Canada"
+        }
+      ]
+    },
+    {
+      "id": "9279bdc1381c",
+      "title": "'Respect the City': How Dubrovnik is managing overtourism without losing its charm - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOc19vOHc4SXZjRXdwTXhNWGpKUm1tMlM4Tl80WHNBNHRSbTMtVFNaZExNbkoxYm1nYXhjU2VsZlUtaDZNdzdvdl8zYVpsX1dVNWdiTjdodnNIZ0k0WDhhY2FfOEFMSzcxRG5RRnhoa2J2c2xzZ2I1STdXRGl2dmFTa3VtSXF3RG5xdTRCbUEwc0F0YlpEZlh0Q2dtOThJM3hBTHJ6WDYxNURkTz",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc19vOHc4SXZjRXdwTXhNWGpKUm1tMlM4Tl80WHNBNHRSbTMtVFNaZExNbkoxYm1nYXhjU2VsZlUtaDZNdzdvdl8zYVpsX1dVNWdiTjdodnNIZ0k0WDhhY2FfOEFMSzcxRG5RRnhoa2J2c2xzZ2I1STdXRGl2dmFTa3VtSXF3RG5xdTRCbUEwc0F0YlpEZlh0Q2dtOThJM3hBTHJ6WDYxNURkTzltSWhPSXpoclFIYjlIRklmLXdacw?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-24T14:07:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 24 Jul 2026 05:00:53 GMT",
+          "source": "Euronews.com"
+        }
+      ]
+    },
+    {
+      "id": "1f5a38422381",
+      "title": "Highway 3 closure adds to limited Interior travel options - BC Gov News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vUVFnZzZ3cWFJY0pIY080Tjc5SDBESjhrdkdvaDh1ZnppWmFCeVNtQnFlY2ZTT1doc3F0Ny1mOWYxTHBITFlDNmU5eXczem0xdjByUUJHbTNmV3RjU3c?oc=5\" target=\"_blank\">Highway 3 closure adds to limited Interior travel options</a>&nbsp;&nbsp;<font c",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vUVFnZzZ3cWFJY0pIY080Tjc5SDBESjhrdkdvaDh1ZnppWmFCeVNtQnFlY2ZTT1doc3F0Ny1mOWYxTHBITFlDNmU5eXczem0xdjByUUJHbTNmV3RjU3c?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
           "published": "Thu, 23 Jul 2026 23:28:28 GMT",
@@ -67,150 +207,30 @@
       ]
     },
     {
-      "id": "5b3479df5848",
-      "title": "Did the World Cup Live Up to ‘104 Super Bowls’? The Winners and Losers. - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5\" target=\"_blank\">Did the World Cup Live ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5",
-      "score": 79.2,
+      "id": "62041e77411d",
+      "title": "Canada Updates Travel Advisories for Five European Countries Amid Ukraine Conflict - TravelPulse Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOWmFCWEdlUDNjLVZ6Q2RucHI3MUhmeEplTjdQdkJ5VVZrRXgyVXhJcEpFeW55NDVJU3o3alVBVk5ia214dDNoX01RclVWaWxvQlVVeTVkdlQtV3NqTFlBc25uR0s3XzdiaFpmXzZQcEhaZDNoY2Nzbmo2UllOQ3NXRlhBSG9TajNPVEttWU5Ta2pXQ0ExZGxBTDhBYnQ0OU4yMWJvVUFUakFFVz",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWmFCWEdlUDNjLVZ6Q2RucHI3MUhmeEplTjdQdkJ5VVZrRXgyVXhJcEpFeW55NDVJU3o3alVBVk5ia214dDNoX01RclVWaWxvQlVVeTVkdlQtV3NqTFlBc25uR0s3XzdiaFpmXzZQcEhaZDNoY2Nzbmo2UllOQ3NXRlhBSG9TajNPVEttWU5Ta2pXQ0ExZGxBTDhBYnQ0OU4yMWJvVUFUakFFVzQyWGQ0SkI3SGFTdV9tdVFkT2NGdEdxSW9XSjEwNUVJZw?oc=5",
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 23 Jul 2026 22:05:14 GMT",
-          "source": "The New York Times"
+          "published": "Fri, 24 Jul 2026 11:30:00 GMT",
+          "source": "TravelPulse Canada"
         }
       ]
     },
     {
-      "id": "db4fd22b60b7",
-      "title": "New tourism attraction in North Bay lets visitors operate heavy equipment - BayToday.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjJ3cUF1MEN5a2poN2drYWRYUlF1MnRrbGJRNTRHUWtLS0dRQjN3djMzRHp2Vk1jbEIwbjE5T3dfSzNkNEpNdjl5dEJzeHRwZ2Y3S3pJdTVMVUZJZ2Q4SWlUbnZGVzZXSVRzQXZwdm1BNUpmRHV5anBqaUdscFoxMVkta0lVRDVRUFVWMVZuMkZrS2E3ZWp4SE8zTEhadDgyY2FsNm1MeGo2NE",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjJ3cUF1MEN5a2poN2drYWRYUlF1MnRrbGJRNTRHUWtLS0dRQjN3djMzRHp2Vk1jbEIwbjE5T3dfSzNkNEpNdjl5dEJzeHRwZ2Y3S3pJdTVMVUZJZ2Q4SWlUbnZGVzZXSVRzQXZwdm1BNUpmRHV5anBqaUdscFoxMVkta0lVRDVRUFVWMVZuMkZrS2E3ZWp4SE8zTEhadDgyY2FsNm1MeGo2NEVjQ3FubGpoR2d1OEIt?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 23 Jul 2026 20:50:31 GMT",
-          "source": "BayToday.ca"
-        }
-      ]
-    },
-    {
-      "id": "5c7de683adfd",
-      "title": "UK travel creators remind Vancouver Islanders not to take home for granted - CHEK News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3htYXptV2NLcEljV1FEUWNkZWwzc1F6c1BYa3NLUW5lQi14WGptcm5KUi1IVVZMdy1IekhMdTgzSl9oMV9kVVFpVlVkcl9YZEVBbWE0YWotakx6elZEdkpwR0E0X2JrUDNpR1NjZkY3SGZEd19XSXpLeXZZRDk1MXJhTlNlVllHYzRKRFJDUDZlbWg1aFVWRzNKVnFvV3pId3g2QTNn?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3htYXptV2NLcEljV1FEUWNkZWwzc1F6c1BYa3NLUW5lQi14WGptcm5KUi1IVVZMdy1IekhMdTgzSl9oMV9kVVFpVlVkcl9YZEVBbWE0YWotakx6elZEdkpwR0E0X2JrUDNpR1NjZkY3SGZEd19XSXpLeXZZRDk1MXJhTlNlVllHYzRKRFJDUDZlbWg1aFVWRzNKVnFvV3pId3g2QTNn?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 23 Jul 2026 21:49:49 GMT",
-          "source": "CHEK News"
-        }
-      ]
-    },
-    {
-      "id": "7eea4471b704",
-      "title": "Renewable microgrid to support clean energy, tourism and cultural revitalization - Campbell River Mirror",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2w2UWNjT1ZEUFlLOEU5T0pXNmFWa045LUNNNDRnQnVQTWtjdkc1NGNEZUhyOF9GOWRYMmFEa096QTA1STJBR2I0eng3TDM0T0VLdFdjaTNQRnB4dVZhOU10TEZNZzE0aFRUajA5UklPdUE5cDNzU0JtTGxzWWh5ZmhPRFZCeTlyRHpjWWFvQkl0Y1czT0lrUXZIektKR2xLWk9PcHpwQVdxNU",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2w2UWNjT1ZEUFlLOEU5T0pXNmFWa045LUNNNDRnQnVQTWtjdkc1NGNEZUhyOF9GOWRYMmFEa096QTA1STJBR2I0eng3TDM0T0VLdFdjaTNQRnB4dVZhOU10TEZNZzE0aFRUajA5UklPdUE5cDNzU0JtTGxzWWh5ZmhPRFZCeTlyRHpjWWFvQkl0Y1czT0lrUXZIektKR2xLWk9PcHpwQVdxNUNuUFVwRy1FVXdKSGtLVzBSNkxnN0c?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 23 Jul 2026 17:30:28 GMT",
-          "source": "Campbell River Mirror"
-        }
-      ]
-    },
-    {
-      "id": "d3de7e7b6413",
-      "title": "The most ‘last-minute’ tourism season ever - eKathimerini.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1g4enB0dlBsTzc2ekJQeEpOZUNzSWZBMld0X3NXVzN3VTFOc0ZrLVFDSFdiMkJXUGVwMVdONkl4aDN3Tk5mSTlSUTZOVFNSZUg0Zm9PcWMwWmE0dUZfV0QxZUs1YUlhd2lSckQtVHU3UTlFTW9vQVd5R0hERHRYNnYyU2xMT2RvSGhsc21WZw?oc=5\" target=\"_blank\">The most ‘las",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1g4enB0dlBsTzc2ekJQeEpOZUNzSWZBMld0X3NXVzN3VTFOc0ZrLVFDSFdiMkJXUGVwMVdONkl4aDN3Tk5mSTlSUTZOVFNSZUg0Zm9PcWMwWmE0dUZfV0QxZUs1YUlhd2lSckQtVHU3UTlFTW9vQVd5R0hERHRYNnYyU2xMT2RvSGhsc21WZw?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 24 Jul 2026 05:05:11 GMT",
-          "source": "eKathimerini.com"
-        }
-      ]
-    },
-    {
-      "id": "5ff08d221e51",
-      "title": "Travel Tech Play Soars on a Bet on China's Inbound Tourism Reopening - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMl9xOUk4eVJpQ1NfazlhSmZ0U1o1UktJZ1lTeWdyZXhEU0lUMjhVdXRhRncwSEl6TS1zRUFpZE9lNDVxRTFlQ3M0ejYzOC0xVzJQZ0hXWGpGMFFRR0d4b2lTSjlfWWhrSXdyU1NRZ1JTb3l3UFBlbmsxNVhDbUNXVmFPdVhhSDVFYlhTR1JPNEFpSmU5YXIzS3diMjdrSDhwOTEwUm1lbnF6MF",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMl9xOUk4eVJpQ1NfazlhSmZ0U1o1UktJZ1lTeWdyZXhEU0lUMjhVdXRhRncwSEl6TS1zRUFpZE9lNDVxRTFlQ3M0ejYzOC0xVzJQZ0hXWGpGMFFRR0d4b2lTSjlfWWhrSXdyU1NRZ1JTb3l3UFBlbmsxNVhDbUNXVmFPdVhhSDVFYlhTR1JPNEFpSmU5YXIzS3diMjdrSDhwOTEwUm1lbnF6MFRDS1pOeTltV04zNThXYjFKYW1uYzZVOFdYZUF5NWJSbmRJZXVUUzBBd1p4ZW9JQzFhbUFmZjhrVUZjNlEw?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 23 Jul 2026 20:30:00 GMT",
-          "source": "The Globe and Mail"
-        }
-      ]
-    },
-    {
-      "id": "ed212c7794f1",
-      "title": "Federal government invests millions in two Gros Morne tourism operators - ntv.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdktHYURuU3BsMGRTMHlRMFU2dFFYVm1sazFLckFfTGxuSjRIYmFyQS04a3lFUW5DT01xTm9GcHRGdW11Y3pPRWstek1kRDExclF1RzJCTlZiODlGdmZMejA1Sk5hYnBsRWwwY1NvRTF1M0NVcV9IYjJfdE12TlNYUW9TdllqaFZ5WHlJYWRocnRrbHp1ZUg0?oc=5\" target=\"_blank\">Fed",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdktHYURuU3BsMGRTMHlRMFU2dFFYVm1sazFLckFfTGxuSjRIYmFyQS04a3lFUW5DT01xTm9GcHRGdW11Y3pPRWstek1kRDExclF1RzJCTlZiODlGdmZMejA1Sk5hYnBsRWwwY1NvRTF1M0NVcV9IYjJfdE12TlNYUW9TdllqaFZ5WHlJYWRocnRrbHp1ZUg0?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 23 Jul 2026 22:04:31 GMT",
-          "source": "ntv.ca"
-        }
-      ]
-    },
-    {
-      "id": "33296ea40d9f",
-      "title": "Dubai Is Offering $800 In Travel Costs To Visitors As Iran War Hits Tourism - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVp6Znc5NnVrOUJoeWxXU2ZVSHJnZVd4UmNmZE16QnFUNktGWWcxSHZqRjhjd0gxclNFVVdmN2NCbVJKYmtrd25lZ215WWFzcThSUXVhd1BESU9lTUFqNnNZRHJ1X2dtUHdKUDJQb1FIUlh3djc1M2h3UUhHNnE1TGFqQnNqVm9EMHBSdGpQdmQyQmw0NXNvbUkxX0ZPRUdidW5LcXl0R2pial",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVp6Znc5NnVrOUJoeWxXU2ZVSHJnZVd4UmNmZE16QnFUNktGWWcxSHZqRjhjd0gxclNFVVdmN2NCbVJKYmtrd25lZ215WWFzcThSUXVhd1BESU9lTUFqNnNZRHJ1X2dtUHdKUDJQb1FIUlh3djc1M2h3UUhHNnE1TGFqQnNqVm9EMHBSdGpQdmQyQmw0NXNvbUkxX0ZPRUdidW5LcXl0R2piallpaWtfWXUxYnVhdjlpVUxFWE1SX1hJTTM0SUpVYmVjZGY1em1C?oc=5",
+      "id": "4e4326319201",
+      "title": "Dan’s Daily: Canucks Dumping $20 Mil; Agent Torches Leafs; Penguins Travel - Pittsburgh Hockey Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUoyOXJPUEQtSkVvY2FhdTdJOWhyRUhKYUhhM29yRXB4cHRnVkd4dVhQdzhEbXl0Ynl5MFV2RlNfQXBZQlBoNml6ODN1cmdCMzdxODBSZnlIdUVaZzBnRFFMV0tmcWFtV0ljbU4tV002VkpONWV5U3RRYkh5VnlUSXRyMUUxQWxVQWp1NXF6MXhSVlhQMC03TXRjeXdrbVVNd2tjN1pkTVZDY0",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUoyOXJPUEQtSkVvY2FhdTdJOWhyRUhKYUhhM29yRXB4cHRnVkd4dVhQdzhEbXl0Ynl5MFV2RlNfQXBZQlBoNml6ODN1cmdCMzdxODBSZnlIdUVaZzBnRFFMV0tmcWFtV0ljbU4tV002VkpONWV5U3RRYkh5VnlUSXRyMUUxQWxVQWp1NXF6MXhSVlhQMC03TXRjeXdrbVVNd2tjN1pkTVZDY01QWGZQcVRKSjYtbHc?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -218,11 +238,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 23 Jul 2026 13:40:44 GMT",
-          "source": "Forbes"
+          "published": "Fri, 24 Jul 2026 12:38:51 GMT",
+          "source": "Pittsburgh Hockey Now"
         }
       ]
     },
@@ -238,7 +258,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
           "published": "Thu, 23 Jul 2026 16:58:00 GMT",
@@ -247,10 +267,10 @@
       ]
     },
     {
-      "id": "bd122b089c20",
-      "title": "‘Be aware, but not alarmed’: Doctor on U.S. travel amid cyclosporiasis outbreak - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWpxVmdpd1daSGQ0VC13ZTVyYVhrdGctdFBuNGpXMjJTV2s5UmVKdXk0Uk56bUdpU01EYmxxa0ZRNklXRDdLWFJfazhGajM0YXRzNVZnMVM5ZTNNbkp6bldHQmlMeGVlekxuZ3BlZEh6RUx2aDVDWnRDaDllNGVFamdwYUUtc3BPY2EzQ2NueTlPOUlaaXlXZUNLMlV4VDl5elJ4SWdMdWc4cE",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWpxVmdpd1daSGQ0VC13ZTVyYVhrdGctdFBuNGpXMjJTV2s5UmVKdXk0Uk56bUdpU01EYmxxa0ZRNklXRDdLWFJfazhGajM0YXRzNVZnMVM5ZTNNbkp6bldHQmlMeGVlekxuZ3BlZEh6RUx2aDVDWnRDaDllNGVFamdwYUUtc3BPY2EzQ2NueTlPOUlaaXlXZUNLMlV4VDl5elJ4SWdMdWc4cE12NFRjd0lNRWpqZGJmZlFRZDZkWGMwd1BiUmc?oc=5",
+      "id": "e8806bc70664",
+      "title": "Travel Expert Sets August AGM to Approve Dividend, Board Mandates and Share Capital Flexibility - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNWUdINHlPNkhfTzJtc2hxbEdybkMxQ1o5dGVRRkRiQlRaR25udEZVRGVEcDlTUnFyNjZ5UGVtODZrS19fY0Qzc0J4S3lwQzVPWjZXOFhoX1VrWmlLTTREbkZqQVU4MTdtbDRSNjJKclM0V3NjYnB6UGxxTWxueW5UTGd5czRVV3BBcDdHeFcxeE85T01SYVUzMmtOMVdsenEtTEFGU1hjMG16eE",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWUdINHlPNkhfTzJtc2hxbEdybkMxQ1o5dGVRRkRiQlRaR25udEZVRGVEcDlTUnFyNjZ5UGVtODZrS19fY0Qzc0J4S3lwQzVPWjZXOFhoX1VrWmlLTTREbkZqQVU4MTdtbDRSNjJKclM0V3NjYnB6UGxxTWxueW5UTGd5czRVV3BBcDdHeFcxeE85T01SYVUzMmtOMVdsenEtTEFGU1hjMG16eEtVX0dwR2FlejBjVkRRTEZQbDZRT2NqMldYWkxUUDA0bHkybUJ2WlA5YW1lVF81c3l1V0JGX3RsNTJxdHVjdnFaOGwtVHFYaVMyc21jT1djYUVocTluUVBTdUtn?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -258,43 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 24 Jul 2026 00:44:00 GMT",
-          "source": "CTV News"
-        },
-        {
-          "published": "Thu, 23 Jul 2026 16:46:18 GMT",
-          "source": "CP24"
+          "published": "Fri, 24 Jul 2026 09:54:37 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
-      "id": "2145eb72a671",
-      "title": "Travelling to Europe? Russia's war in Ukraine just triggered new Canadian travel warnings for these countries - Inside Halton",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMG9tRjIzZTdrSGZiLVc1czhDX3pUa3BzRWh4bHpnQjBIQ2thc3owZHZtWDdVV3h1d0c5UmZ0VTcyQ3ByZ2lmMDJRa05vaEo5cXNPMS1HRG5kWml4c2plT1dpTTBBd2ctYTZjVkVvaVpJVmh3Z1RUTFZOT1B2c1VqbS12RjNkYmlVblJpNUttUG5kRVRwTkczMHp6UkFuLVhNeThHdG8wZ3dFM2",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMG9tRjIzZTdrSGZiLVc1czhDX3pUa3BzRWh4bHpnQjBIQ2thc3owZHZtWDdVV3h1d0c5UmZ0VTcyQ3ByZ2lmMDJRa05vaEo5cXNPMS1HRG5kWml4c2plT1dpTTBBd2ctYTZjVkVvaVpJVmh3Z1RUTFZOT1B2c1VqbS12RjNkYmlVblJpNUttUG5kRVRwTkczMHp6UkFuLVhNeThHdG8wZ3dFM2xVX2dyd1hFV1dnZlNPazZGT2N0OWpzVWE5MUlNcA?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 23 Jul 2026 17:15:00 GMT",
-          "source": "Inside Halton"
-        }
-      ]
-    },
-    {
-      "id": "288493966fa7",
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZk",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "id": "db4fd22b60b7",
+      "title": "New tourism attraction in North Bay lets visitors operate heavy equipment - BayToday.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjJ3cUF1MEN5a2poN2drYWRYUlF1MnRrbGJRNTRHUWtLS0dRQjN3djMzRHp2Vk1jbEIwbjE5T3dfSzNkNEpNdjl5dEJzeHRwZ2Y3S3pJdTVMVUZJZ2Q4SWlUbnZGVzZXSVRzQXZwdm1BNUpmRHV5anBqaUdscFoxMVkta0lVRDVRUFVWMVZuMkZrS2E3ZWp4SE8zTEhadDgyY2FsNm1MeGo2NE",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjJ3cUF1MEN5a2poN2drYWRYUlF1MnRrbGJRNTRHUWtLS0dRQjN3djMzRHp2Vk1jbEIwbjE5T3dfSzNkNEpNdjl5dEJzeHRwZ2Y3S3pJdTVMVUZJZ2Q4SWlUbnZGVzZXSVRzQXZwdm1BNUpmRHV5anBqaUdscFoxMVkta0lVRDVRUFVWMVZuMkZrS2E3ZWp4SE8zTEhadDgyY2FsNm1MeGo2NEVjQ3FubGpoR2d1OEIt?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -302,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 23 Jul 2026 15:09:46 GMT",
-          "source": "Fodors Travel Guide"
+          "published": "Thu, 23 Jul 2026 20:50:31 GMT",
+          "source": "BayToday.ca"
         }
       ]
     },
     {
-      "id": "a9a6194aadbb",
-      "title": "Summer Travel Spending Gives Rewards a Starring Role - PYMNTS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1pESV9Vd1BEZHI4Y1ZwSUhkSW9WYlZxMWNxVVJLZVhBX2Ftdmx4cEE4UUhPamhmZDB5UDhWbWZZRElsczhROWxVY2dJZXB0Vl8zR09UazBPc0U3Y0RyMkVzOW9Fd3NacHRPOFZVek9iZTR4V0hlMGU2QlpPSDFjemlMWVR5eUZKMTVYSVdIeHFxVDhRYlVuV0xock94TmYwUFk0Y3p5MS1Zdm",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1pESV9Vd1BEZHI4Y1ZwSUhkSW9WYlZxMWNxVVJLZVhBX2Ftdmx4cEE4UUhPamhmZDB5UDhWbWZZRElsczhROWxVY2dJZXB0Vl8zR09UazBPc0U3Y0RyMkVzOW9Fd3NacHRPOFZVek9iZTR4V0hlMGU2QlpPSDFjemlMWVR5eUZKMTVYSVdIeHFxVDhRYlVuV0xock94TmYwUFk0Y3p5MS1ZdmRkNXRKeA?oc=5",
+      "id": "3e4affef7974",
+      "title": "WestJet introduces flexible change policy as cabin crew negotiations continue - Travelweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXhmek1aZ3F2WGVVTHVyZXlmaU5laHhMZl9YLW1tN0NnWFd1eTVnRkY2cGViX0U5RE9icVNUZFMxMDFBVDBmVVRMX0V0aUowNWJTNmNNNnJ2YnlqdFpVMzU2SVVNX0dmaEtrMmFZSnctdUZOaHhyNXVlT2czYkZ0akJjMlg1Q0V3V3JuSjVmM3dwOHZxTklUeVFpc1F3dTF1cHlHQUtNN3VvWF",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXhmek1aZ3F2WGVVTHVyZXlmaU5laHhMZl9YLW1tN0NnWFd1eTVnRkY2cGViX0U5RE9icVNUZFMxMDFBVDBmVVRMX0V0aUowNWJTNmNNNnJ2YnlqdFpVMzU2SVVNX0dmaEtrMmFZSnctdUZOaHhyNXVlT2czYkZ0akJjMlg1Q0V3V3JuSjVmM3dwOHZxTklUeVFpc1F3dTF1cHlHQUtNN3VvWFVhQWt0cS1fcU9IeENOeVlyMg?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -322,19 +318,39 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 24 Jul 2026 02:19:34 GMT",
-          "source": "PYMNTS.com"
+          "published": "Fri, 24 Jul 2026 13:14:31 GMT",
+          "source": "Travelweek"
         }
       ]
     },
     {
-      "id": "38f5647a5cb3",
-      "title": "Roots Expands Travel Retail Presence with New Store at Vancouver International Airport (YVR) - Business Wire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWo1T21KTkc3R3BjbDI0MW80N3NQQmZtUVpHZm9mRkU4WnFGZ2ZqT3Z2OHB2YXpNQnZfTUZvbkFPWFhXaHMzRjZJWDlGaWtCRE5KSGVOLThoRE1UWE9GWFQybzBKcHdaU1pEX0VtWmdXMnM0ZjdyMUNQdGlhVGxnQ3FxNUxJaTRSaXNMRWdNTThwOUNkRHBNOEszOEtESzdjRFBMZm1Vcy1Ba2",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWo1T21KTkc3R3BjbDI0MW80N3NQQmZtUVpHZm9mRkU4WnFGZ2ZqT3Z2OHB2YXpNQnZfTUZvbkFPWFhXaHMzRjZJWDlGaWtCRE5KSGVOLThoRE1UWE9GWFQybzBKcHdaU1pEX0VtWmdXMnM0ZjdyMUNQdGlhVGxnQ3FxNUxJaTRSaXNMRWdNTThwOUNkRHBNOEszOEtESzdjRFBMZm1Vcy1Ba25fY0lmS1V3czhGRUdoZFUzcHNnTXl1bEZnN0JuMk9IMmNveEQxZU5KekYzaVhqdGFrQ2ZoNw?oc=5",
+      "id": "d3de7e7b6413",
+      "title": "The most ‘last-minute’ tourism season ever - eKathimerini.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1g4enB0dlBsTzc2ekJQeEpOZUNzSWZBMld0X3NXVzN3VTFOc0ZrLVFDSFdiMkJXUGVwMVdONkl4aDN3Tk5mSTlSUTZOVFNSZUg0Zm9PcWMwWmE0dUZfV0QxZUs1YUlhd2lSckQtVHU3UTlFTW9vQVd5R0hERHRYNnYyU2xMT2RvSGhsc21WZw?oc=5\" target=\"_blank\">The most ‘las",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1g4enB0dlBsTzc2ekJQeEpOZUNzSWZBMld0X3NXVzN3VTFOc0ZrLVFDSFdiMkJXUGVwMVdONkl4aDN3Tk5mSTlSUTZOVFNSZUg0Zm9PcWMwWmE0dUZfV0QxZUs1YUlhd2lSckQtVHU3UTlFTW9vQVd5R0hERHRYNnYyU2xMT2RvSGhsc21WZw?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-24T14:07:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 24 Jul 2026 05:05:11 GMT",
+          "source": "eKathimerini.com"
+        }
+      ]
+    },
+    {
+      "id": "e6eeff2a7a2d",
+      "title": "'Have Lube Will Travel': Serena Haines Returns To Surge 105 After Appearing On What TV Show? - Your Halifax Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVQ1c1QtWFItS1o0TE1QWTFia29wakZDdDBDWEltRlBuSldyWGFWUUZBN0dYdkNGUWJhQ0dwYjQwdlJ4TC1NbEZkcTVoS190dHFRWUlBUUJWQlhvYmxxQ0FUU0NUREdzNkJHNVVFS3F2NVZ6OGRUUnl3cDBzaFZoS0JneHJCb0RQc0ctLUR3NGhfZGU1RDRyaDhyak43RnpGYkNiemN0Z3NPY1",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVQ1c1QtWFItS1o0TE1QWTFia29wakZDdDBDWEltRlBuSldyWGFWUUZBN0dYdkNGUWJhQ0dwYjQwdlJ4TC1NbEZkcTVoS190dHFRWUlBUUJWQlhvYmxxQ0FUU0NUREdzNkJHNVVFS3F2NVZ6OGRUUnl3cDBzaFZoS0JneHJCb0RQc0ctLUR3NGhfZGU1RDRyaDhyak43RnpGYkNiemN0Z3NPY1Z4YWxxWGx5WGVXUQ?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -342,31 +358,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 23 Jul 2026 21:00:00 GMT",
-          "source": "Business Wire"
-        }
-      ]
-    },
-    {
-      "id": "1430063cadfd",
-      "title": "“It’s Totally Fabricated To Make Travelers Feel Like That”: People Are Sharing Their Most Underwhelming Travel Experience From Around The World - BuzzFeed",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmRWRl9qcVZac0hlS1lRVzBKY1RNdHpmSHM3b1ZzVGd1a0hJWFZKZGhsVWF4b3ZSTXV4OFZqUF9QcTdfTFdsRlljbjFRb2JXSmxkUzVxemFfTkFxY056S2VhXzJraXhYYmVobm9jWjBGZDVpa0tGN050OUxZT014Wk5NbWdDZw?oc=5\" target=\"_blank\">“It’s Totally Fabricated ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmRWRl9qcVZac0hlS1lRVzBKY1RNdHpmSHM3b1ZzVGd1a0hJWFZKZGhsVWF4b3ZSTXV4OFZqUF9QcTdfTFdsRlljbjFRb2JXSmxkUzVxemFfTkFxY056S2VhXzJraXhYYmVobm9jWjBGZDVpa0tGN050OUxZT014Wk5NbWdDZw?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 21 Jul 2026 23:31:02 GMT",
-          "source": "BuzzFeed"
+          "published": "Fri, 24 Jul 2026 12:05:29 GMT",
+          "source": "Your Halifax Now"
         }
       ]
     },
@@ -375,6 +371,26 @@
       "title": "Canadian travel to U.S. increases for second straight month: StatCan - Global News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1XUUlCNnNKREJqMnV4cnFCakhCUGtNQlgxTGJteUxJZmJiMVNkSVZLSkYySlRtZFBZZ3piNFNpZU5WTnNjaHJXc1NZTUgydTJ6YjEzX1BMR09tMkxBOEdGb3lmYk5SUkxXVEhSNA?oc=5\" target=\"_blank\">Canadian travel to U.S. increases for second straight month: ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XUUlCNnNKREJqMnV4cnFCakhCUGtNQlgxTGJteUxJZmJiMVNkSVZLSkYySlRtZFBZZ3piNFNpZU5WTnNjaHJXc1NZTUgydTJ6YjEzX1BMR09tMkxBOEdGb3lmYk5SUkxXVEhSNA?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-24T14:07:00+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 23 Jul 2026 17:47:22 GMT",
+          "source": "Global News"
+        }
+      ]
+    },
+    {
+      "id": "0283bc79c345",
+      "title": "Best Destinations For Expats In 2026, According To InterNations Survey - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemROSGpnM19Rb1p5YWUtOHZibGJUZ21qVEZfeVVDN296VUpDckVsQXFMNjViMkFvS0RXWGtId0p6NmNBYXByc1QyT2xRQnZ6RnJTQWVEaEdub1lYeHh6VmhDZWI5bGJNNC0xNEFXV3poMnZGTVYydkVHbWRsMlhEYU5adVJZcDV4ek1WR05UQUxqV3Vrc1Z1Vi1teEVQOEU5OGhReDZTbkQyZW",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemROSGpnM19Rb1p5YWUtOHZibGJUZ21qVEZfeVVDN296VUpDckVsQXFMNjViMkFvS0RXWGtId0p6NmNBYXByc1QyT2xRQnZ6RnJTQWVEaEdub1lYeHh6VmhDZWI5bGJNNC0xNEFXV3poMnZGTVYydkVHbWRsMlhEYU5adVJZcDV4ek1WR05UQUxqV3Vrc1Z1Vi1teEVQOEU5OGhReDZTbkQyZWRVVzM3UzBzVzFFTkVVNDFxWXRvcWkzUQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-24T08:39:53+00:00",
+      "first_seen": "2026-07-24T14:07:00+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 23 Jul 2026 17:47:22 GMT",
-          "source": "Global News"
+          "published": "Fri, 24 Jul 2026 09:01:44 GMT",
+          "source": "Forbes"
         }
       ]
     }
