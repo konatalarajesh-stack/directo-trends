@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "UK",
-  "generated_at": "2026-07-24T03:45:47+00:00",
+  "generated_at": "2026-07-24T08:48:49+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 25,
   "trends": [
     {
       "id": "0435d681ab13",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Thu, 16 Jul 2026 07:00:00 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 22 Jul 2026 17:42:00 GMT",
@@ -58,7 +58,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Mon, 18 May 2026 07:00:00 GMT",
@@ -78,7 +78,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Fri, 17 Apr 2026 07:00:00 GMT",
@@ -98,7 +98,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Mon, 03 Nov 2025 08:00:00 GMT",
@@ -118,11 +118,35 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 24 Dec 2025 19:04:21 GMT",
           "source": "Addleshaw Goddard LLP"
+        }
+      ]
+    },
+    {
+      "id": "345a4e29633b",
+      "title": "Market news - investments.halifax.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOd015NG9XcU5TcWMteHVwbGlVejM0WjhZbWJMV3Q0V0VydGlLa0tQQzNiTlh1a0wxSEpLOVNwS2lTb1RwMHFNbnNEMGxOUjR1dlFxNHNULU1BbGxQODJRYWRVeG9FSmZsM3Z1NUJSbWlMRlloRXNqMlA5NW51TXFmVTlzZjRXRk5uT2xGSmZKX0lsREZ2ZVpGeVBlSQ?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd015NG9XcU5TcWMteHVwbGlVejM0WjhZbWJMV3Q0V0VydGlLa0tQQzNiTlh1a0wxSEpLOVNwS2lTb1RwMHFNbnNEMGxOUjR1dlFxNHNULU1BbGxQODJRYWRVeG9FSmZsM3Z1NUJSbWlMRlloRXNqMlA5NW51TXFmVTlzZjRXRk5uT2xGSmZKX0lsREZ2ZVpGeVBlSQ?oc=5",
+      "score": 66.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-07-24T08:39:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 30 Apr 2026 07:51:03 GMT",
+          "source": "investments.halifax.co.uk"
+        },
+        {
+          "published": "Wed, 17 Dec 2025 08:42:24 GMT",
+          "source": "investments.halifax.co.uk"
         }
       ]
     },
@@ -138,13 +162,59 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Fri, 06 Mar 2026 08:00:00 GMT",
           "source": "Financial Times"
         }
       ]
+    },
+    {
+      "id": "1d27d6af3211",
+      "title": "WTF Is Happening To The Housing Market?!",
+      "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Checking and Savings: https://sofi.com/grahambanking | Let's talk about The Morgan Stanley 2026 Housing Report And What This Means For The Market - Enjoy! Add me on Instagram: GPStephan\n\nSTART BUILDING WEALTH",
+      "url": "https://www.youtube.com/watch?v=LCbVikmmBls",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "LCbVikmmBls",
+          "published": "2026-07-22T20:06:45+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "9674cff46af3",
+      "title": "Finfluencer Promotions Are Getting Worse",
+      "summary": "00:00 - Intro\n04:38 - Polymarket Scandal\n07:58 - Sketchy Stock Promotions\n12:31 - AI Promotions\n14:13 - Research Paper\n14:40 - How is this Legal?\n17:10 - Penalties\n19:54 - What Can Be Done\n\nToday, we’re revisiting an issue of finfluencers promoting sketchy companies, and adding i",
+      "url": "https://www.youtube.com/watch?v=co681TqHDzQ",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+          "channel_title": "The Plain Bagel",
+          "video_id": "co681TqHDzQ",
+          "published": "2026-07-10T17:30:13+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "d24edc79c990",
@@ -158,13 +228,36 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Tue, 19 May 2026 07:00:00 GMT",
           "source": "fidelity.co.uk"
         }
       ]
+    },
+    {
+      "id": "2becee49cdbe",
+      "title": "31 Year Old Living With Mom Making $25k/Year...",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/weRI6fYyPEs",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "weRI6fYyPEs",
+          "published": "2026-07-21T17:00:16+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "67d02c1d991c",
@@ -178,7 +271,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Sat, 11 Jul 2026 07:00:00 GMT",
@@ -187,18 +280,87 @@
       ]
     },
     {
+      "id": "9566bfbea4cf",
+      "title": "The WORST Part About Being Rich",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/-zuxkqDGLkA",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "-zuxkqDGLkA",
+          "published": "2026-07-20T17:30:16+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "dfb3be409e7e",
+      "title": "Chase Credit Card \"Hack\" 🤫",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/gcAS1Tay94M",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "gcAS1Tay94M",
+          "published": "2026-07-19T17:00:24+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "d41ae747f6c5",
+      "title": "#1 Reason Lottery Winners Go Broke...",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/n_hW9brwsYI",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "n_hW9brwsYI",
+          "published": "2026-07-18T16:30:19+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
       "id": "fd0e75db130c",
       "title": "Why de-risking your pension is riskier than you think - fidelity.co.uk",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2lQV0o1cUhOUUhJUjZOZnhqTThXTjRhaTRVLUZ2dVRRS21lQ2IwUk1nRE5TTWFtS2J1dmFjaWhiWDZ4a2x1ZFFra19Yb2RYbGFGX1BoR2ktSTdNSkZELU9oU2Q2WE5haXRrWGJQQTlvYVAwbW1mTThJSnlaUWFkODlhQnhUaHBsQXowTUtqeVhzMllFSDNZYTQyWWlaczhNSmNNcF90d1lvX3",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2lQV0o1cUhOUUhJUjZOZnhqTThXTjRhaTRVLUZ2dVRRS21lQ2IwUk1nRE5TTWFtS2J1dmFjaWhiWDZ4a2x1ZFFra19Yb2RYbGFGX1BoR2ktSTdNSkZELU9oU2Q2WE5haXRrWGJQQTlvYVAwbW1mTThJSnlaUWFkODlhQnhUaHBsQXowTUtqeVhzMllFSDNZYTQyWWlaczhNSmNNcF90d1lvX3hSckpEUUZtUDhla2JCLXBPU2hDbUJMbWExZmZZcVFheTJMd0wzYWg4?oc=5",
-      "score": 54.0,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Tue, 26 May 2026 07:00:00 GMT",
@@ -207,42 +369,64 @@
       ]
     },
     {
-      "id": "345a4e29633b",
-      "title": "Market news - investments.halifax.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOd015NG9XcU5TcWMteHVwbGlVejM0WjhZbWJMV3Q0V0VydGlLa0tQQzNiTlh1a0wxSEpLOVNwS2lTb1RwMHFNbnNEMGxOUjR1dlFxNHNULU1BbGxQODJRYWRVeG9FSmZsM3Z1NUJSbWlMRlloRXNqMlA5NW51TXFmVTlzZjRXRk5uT2xGSmZKX0lsREZ2ZVpGeVBlSQ?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd015NG9XcU5TcWMteHVwbGlVejM0WjhZbWJMV3Q0V0VydGlLa0tQQzNiTlh1a0wxSEpLOVNwS2lTb1RwMHFNbnNEMGxOUjR1dlFxNHNULU1BbGxQODJRYWRVeG9FSmZsM3Z1NUJSbWlMRlloRXNqMlA5NW51TXFmVTlzZjRXRk5uT2xGSmZKX0lsREZ2ZVpGeVBlSQ?oc=5",
-      "score": 50.4,
+      "id": "5d9fd5cad226",
+      "title": "Togi's $1.4M Parlay 🤦‍♂️",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/YIR00kheqBk",
+      "score": 50.05,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Apr 2026 07:51:03 GMT",
-          "source": "investments.halifax.co.uk"
-        },
-        {
-          "published": "Wed, 17 Dec 2025 08:42:24 GMT",
-          "source": "investments.halifax.co.uk"
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "YIR00kheqBk",
+          "published": "2026-07-16T16:00:02+00:00"
         }
-      ]
+      ],
+      "is_global": true
+    },
+    {
+      "id": "7c9fd82107dd",
+      "title": "BREAKING: China’s ENTIRE Housing Market Just Collapsed",
+      "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: https://sofi.com/graham | Let's talk about China's Housing Market In 2026 and why they've lost 20 years of gains - Add me on Instagram: GPStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https:",
+      "url": "https://www.youtube.com/watch?v=e_Pfx7oFZyo",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "e_Pfx7oFZyo",
+          "published": "2026-07-15T20:00:39+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "bfc0232669fa",
       "title": "The biggest reason to invest will become clear in 2027 - fidelity.co.uk",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFQ0N0lKbjc2OGtWdHllT2ZZUllqNDU3TDRIU1d4UC1kUFFHQy0zM0lrRVVNNTVneFBuLWYzaTdXXzlVWTl5VlZPbTBtUnhSeWNGbnVXcExubU5VXzZleEs5MEZ4U0ZxYVR6c1A4bWtjeFR6QnRMUGs0WjBUS0hVWFhIQ3gwUmJWNmJGYlVLS1c1a05sLVlGQklJS0xCWlRHNGh6cGo0Tk82cE",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFQ0N0lKbjc2OGtWdHllT2ZZUllqNDU3TDRIU1d4UC1kUFFHQy0zM0lrRVVNNTVneFBuLWYzaTdXXzlVWTl5VlZPbTBtUnhSeWNGbnVXcExubU5VXzZleEs5MEZ4U0ZxYVR6c1A4bWtjeFR6QnRMUGs0WjBUS0hVWFhIQ3gwUmJWNmJGYlVLS1c1a05sLVlGQklJS0xCWlRHNGh6cGo0Tk82cEJMUERqSThwRWZuU3ZFZFRUc1VRV0ZveGRYVGZTbEJpLU43V1NOYk8wVA?oc=5",
-      "score": 50.4,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 13 May 2026 07:00:00 GMT",
@@ -251,18 +435,41 @@
       ]
     },
     {
+      "id": "531b77897b73",
+      "title": "How Ben Mallah Avoids Taxes! 👀",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/-Co7Pbn6_B8",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "-Co7Pbn6_B8",
+          "published": "2026-07-15T16:00:36+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
       "id": "222d46ee8df6",
       "title": "What is a realistic return to expect from your investments? - fidelity.co.uk",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM09TOGNsbThSdGZ5SmFXT0ZkMXh2WXdrak5IUnA3cXRwWUxheGJiSnhpazVlS19mdmEtbjBtQTdTRVpHdmtBbzlEd19GelpkcWptYUZKQnN4ZmhRaHRkVE12U2M0U2V4RjVfNkR0VGloekJxaGw4R0s3SGhmSjlUaEM3Zm50WGhMQ0N4WTUyYm1fTEE1Z1pISXNJdk1tVXpQVXVlS0RoMFdlQz",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM09TOGNsbThSdGZ5SmFXT0ZkMXh2WXdrak5IUnA3cXRwWUxheGJiSnhpazVlS19mdmEtbjBtQTdTRVpHdmtBbzlEd19GelpkcWptYUZKQnN4ZmhRaHRkVE12U2M0U2V4RjVfNkR0VGloekJxaGw4R0s3SGhmSjlUaEM3Zm50WGhMQ0N4WTUyYm1fTEE1Z1pISXNJdk1tVXpQVXVlS0RoMFdlQzIzSzNwN1Zxdy1TNHlHcXFrZVJDT3B1UUUtaS1xV0V2M1Z5Z1B1c0ow?oc=5",
-      "score": 46.8,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 20 May 2026 07:00:00 GMT",
@@ -271,30 +478,56 @@
       ]
     },
     {
+      "id": "730ae81cb31b",
+      "title": "Why Minx Pays 60% In Taxes! 🤯",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/MohIY56BQBE",
+      "score": 43.12,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "MohIY56BQBE",
+          "published": "2026-07-11T16:00:35+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "1b2e7d05f522",
+      "title": "Why Bobby Left Our Podcast...",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/MljRkSGBhqY",
+      "score": 40.809999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-07-24T08:42:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "MljRkSGBhqY",
+          "published": "2026-07-10T16:00:05+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
       "id": "d2f3c2049a48",
       "title": "Rebuilding after the bubble - fidelity.co.uk",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUhWbnJEbThmNTNkUkFIUDNfN3MxRXhMVHZFV1lJTEhFODlJSGs1aVFRYVVrVE8tSE9OSjkwb3JjRTM3TjVpVldRMEpCMWFxTWlXUkt3LThTR3A3SEpmc2Z0NVRoOFpWbkREejNybkVTM2I2SGlRc3l0OHFpMlY1MUNqaHBibTJlc3VuX2cxdmdJUG02VEpGYUVvWHQxNEFmb3JmSEJkUktLZw",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUhWbnJEbThmNTNkUkFIUDNfN3MxRXhMVHZFV1lJTEhFODlJSGs1aVFRYVVrVE8tSE9OSjkwb3JjRTM3TjVpVldRMEpCMWFxTWlXUkt3LThTR3A3SEpmc2Z0NVRoOFpWbkREejNybkVTM2I2SGlRc3l0OHFpMlY1MUNqaHBibTJlc3VuX2cxdmdJUG02VEpGYUVvWHQxNEFmb3JmSEJkUktLZw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-          "source": "fidelity.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "215a57688fb4",
-      "title": "5 truths of investing from an FT expert - fidelity.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2pmUmh3RWczRjhsRXhrbjhpTm52NWxsR21tclU1bWtKYlpWYXJwQUlqbGhFZXlQc200anp6T0Q4M2NDOVFJNXdsaFY1Z0p3YkpJTm52bDctRkwxaEF3bTVjWGpsNlpETEtjOHlRaXpFazZpWXNWTFI2ZlFQUlZ2dTRpbzJhYTc4WGJBWWJKNkFwMHRXd1BjNjd2NTBZVV9wTkEzNlg2UXUtNm",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2pmUmh3RWczRjhsRXhrbjhpTm52NWxsR21tclU1bWtKYlpWYXJwQUlqbGhFZXlQc200anp6T0Q4M2NDOVFJNXdsaFY1Z0p3YkpJTm52bDctRkwxaEF3bTVjWGpsNlpETEtjOHlRaXpFazZpWXNWTFI2ZlFQUlZ2dTRpbzJhYTc4WGJBWWJKNkFwMHRXd1BjNjd2NTBZVV9wTkEzNlg2UXUtNmpnb0ZzTFI1anRySlBKQUE?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -302,90 +535,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
+      "first_seen": "2026-07-24T08:39:41+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 13 Jan 2026 08:00:00 GMT",
-          "source": "fidelity.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "f9029c85cf6f",
-      "title": "The winners and losers of 2025 - in charts - fidelity.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0g1NzVwSDVBZldfVUVnSmw0VEdYczE3OFNNN05NZnVYRkFVS2FUUXZHYVdJWTVaOFo1U01iUU5HRHNCbHNWa3Rya3Qydl9HTmV3Tk02LW82XzFQTlVUay1BSk1fZmFkWlNZRUgydkFuMUplUTRvNkhFczQ2dDJTUnZISi1wZlJmcUg3dVNPOVNrQ3hSd2dxNVBOemYzeG45a3B3Nml6aFFqXy",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0g1NzVwSDVBZldfVUVnSmw0VEdYczE3OFNNN05NZnVYRkFVS2FUUXZHYVdJWTVaOFo1U01iUU5HRHNCbHNWa3Rya3Qydl9HTmV3Tk02LW82XzFQTlVUay1BSk1fZmFkWlNZRUgydkFuMUplUTRvNkhFczQ2dDJTUnZISi1wZlJmcUg3dVNPOVNrQ3hSd2dxNVBOemYzeG45a3B3Nml6aFFqXy1MOWFGeFBwbkZLMmtsY2RJ?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-          "source": "fidelity.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "f7b1acb92724",
-      "title": "Savers lose £17.6bn to inflation - how to beat price rises - fidelity.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQl9XVEktMUszazRuQjh3MXE5MHJ6cWl1Zk5mQXU1b080QlFXWVc0cGoybDlFZnlqRFM5ODQ5VnpqemRFSjU3S3BDUHFUMk5iWEdadzQtLU5zQVFiSFM5YnZsWmNkcmJLQVhvVENNUTU1aHBpa0xXelRUdGg4aHBYN1ItMFRDcXV2ZDFBOEpRb0o5OVRqeENwNXhrY1dmNTdQS1d4b1ZRZGM0aX",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQl9XVEktMUszazRuQjh3MXE5MHJ6cWl1Zk5mQXU1b080QlFXWVc0cGoybDlFZnlqRFM5ODQ5VnpqemRFSjU3S3BDUHFUMk5iWEdadzQtLU5zQVFiSFM5YnZsWmNkcmJLQVhvVENNUTU1aHBpa0xXelRUdGg4aHBYN1ItMFRDcXV2ZDFBOEpRb0o5OVRqeENwNXhrY1dmNTdQS1d4b1ZRZGM0aXhjMm1ybzR4UHIwdmJKYnJOcUIyZ2ItOG9wV2pRVzJSRWRRQQ?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-          "source": "fidelity.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "b98d6fd16f24",
-      "title": "What Warren Buffett said – and did – during market turmoil - fidelity.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlU5RmNPamR2cFVac0Q5ajNFbW5ocTU5TkRJbEJQVWtBQWl5bVUwWWlDaDY0Uk1teVkyMG5xeFFucWV2T2xtcjlhTHBmRU9SVzBCSzFZZ2RNLWR0bHVtMFJxS05VR05lVGRhcmpzMkRnS0t3SFVpakJQel9jbUFWTHQ1bm53RmJ0UFBRRmhCUVdpVWVaTV9pdHVxSjV1eTl6Q2J3a2F6ME5aUD",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlU5RmNPamR2cFVac0Q5ajNFbW5ocTU5TkRJbEJQVWtBQWl5bVUwWWlDaDY0Uk1teVkyMG5xeFFucWV2T2xtcjlhTHBmRU9SVzBCSzFZZ2RNLWR0bHVtMFJxS05VR05lVGRhcmpzMkRnS0t3SFVpakJQel9jbUFWTHQ1bm53RmJ0UFBRRmhCUVdpVWVaTV9pdHVxSjV1eTl6Q2J3a2F6ME5aUDBtcmJHUQ?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-          "source": "fidelity.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "a3569d2039ba",
-      "title": "Is 2026 a good year to retire? - fidelity.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjRZbGJnYUdLeWhMLU9WMzczbmJKVjVaNmlleXZrbG01Zi1ENE5ONzBjcHpRbHFqeTVDbzBleFIxQkg5UnhvLXMxSkR4Zk0tTjZnbF9CWWI3RDNjLW5sQURGelRSeG8wd2RGbFpBZFFkMUo0MTJlbkZMelB4bmRYd3lUYlB6MmZvUVNGQnQyWjNHY0R1MkNnTGNtelRpN0R2STE0SmJWUXBZeE",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjRZbGJnYUdLeWhMLU9WMzczbmJKVjVaNmlleXZrbG01Zi1ENE5ONzBjcHpRbHFqeTVDbzBleFIxQkg5UnhvLXMxSkR4Zk0tTjZnbF9CWWI3RDNjLW5sQURGelRSeG8wd2RGbFpBZFFkMUo0MTJlbkZMelB4bmRYd3lUYlB6MmZvUVNGQnQyWjNHY0R1MkNnTGNtelRpN0R2STE0SmJWUXBZeEN1V3YwTTVfZw?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-07-24T03:36:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+          "published": "Mon, 27 Apr 2026 07:00:00 GMT",
           "source": "fidelity.co.uk"
         }
       ]
