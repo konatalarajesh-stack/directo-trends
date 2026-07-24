@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "global",
-  "generated_at": "2026-07-24T14:15:50+00:00",
+  "generated_at": "2026-07-24T19:52:05+00:00",
   "cache_ttl_hours": 6,
   "count": 6,
   "trends": [
     {
-      "id": "4490d38b7266",
-      "title": "The ultimate summer fruit salad!",
+      "id": "af1b7915c3fb",
+      "title": "Popcorn: reimagined",
       "summary": null,
-      "url": "https://www.youtube.com/shorts/QAQA08ll34Q",
+      "url": "https://www.youtube.com/shorts/zVorYnJjmrQ",
       "score": 88.0,
       "sources": [
         "youtube"
@@ -18,7 +18,29 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-24T14:09:12+00:00",
+      "first_seen": "2026-07-24T19:45:22+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "zVorYnJjmrQ",
+          "published": "2026-07-24T19:00:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "4490d38b7266",
+      "title": "The ultimate summer fruit salad!",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/QAQA08ll34Q",
+      "score": 84.7,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-07-24T19:45:22+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -33,14 +55,14 @@
       "title": "How to make potato pierogis at home!",
       "summary": null,
       "url": "https://www.youtube.com/shorts/tG47av4O3nI",
-      "score": 84.7,
+      "score": 81.4,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-24T14:09:12+00:00",
+      "first_seen": "2026-07-24T19:45:22+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -55,14 +77,14 @@
       "title": "Recreating Bobby Hill’s Restaurant Menu | Binging with Babish",
       "summary": "This episode is sponsored by Squarespace. Head to https://squarespace.syuh.net/babish to save 10% off your first purchase of a website or domain using code BABISH.\n\nOn this episode of Binging with Babish, we're making all of Bobby's infamous dishes from King of the Hill!\n\nRecipe:",
       "url": "https://www.youtube.com/watch?v=eDKuE-LNddY",
-      "score": 81.4,
+      "score": 78.1,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-24T14:09:12+00:00",
+      "first_seen": "2026-07-24T19:45:22+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -77,14 +99,14 @@
       "title": "Real authentic British fish and chips 🇬🇧",
       "summary": null,
       "url": "https://www.youtube.com/shorts/y28G9MWc-IQ",
-      "score": 78.1,
+      "score": 74.8,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-24T14:09:12+00:00",
+      "first_seen": "2026-07-24T19:45:22+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -99,28 +121,6 @@
       "title": "The ultimate taco night recipe!",
       "summary": null,
       "url": "https://www.youtube.com/shorts/CX_8AuAY_Vo",
-      "score": 74.8,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-07-24T14:09:12+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "CX_8AuAY_Vo",
-          "published": "2026-07-16T15:00:30+00:00"
-        }
-      ]
-    },
-    {
-      "id": "a73fcb118047",
-      "title": "Regular Show's eggscellent challenge in real life!",
-      "summary": null,
-      "url": "https://www.youtube.com/shorts/F6Fr5KyVBBk",
       "score": 71.5,
       "sources": [
         "youtube"
@@ -128,13 +128,13 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-24T14:09:12+00:00",
+      "first_seen": "2026-07-24T19:45:22+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
           "channel_title": "Binging with Babish",
-          "video_id": "F6Fr5KyVBBk",
-          "published": "2026-07-10T19:00:18+00:00"
+          "video_id": "CX_8AuAY_Vo",
+          "published": "2026-07-16T15:00:30+00:00"
         }
       ]
     }
