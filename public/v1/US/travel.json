@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-07-25T19:32:46+00:00",
+  "generated_at": "2026-07-26T03:58:56+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "df0129e263c5",
-      "title": "Major city launches harsh tourist crackdown as locals revolt over massive crowds - Fox News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXo4WnI5OHNOR01YWG1YWnQtZDhaNFVMX1IwUjJlalNKYk1qU3MtcGdmQjdTRXZxUm5reXI0RjB3YlRVS0hyWktDMUQwMXdfeTg5TTgtQVdEekxYWE84em9WRDVvbGhwSlU0bWNHUFhYbTN6VGN0NUx0bjZSX3ZuUXhLODJEdXhQUm9YaTdnTk5UZXN6Ym1vTEJTNU5oLW1RVUJ1ddIBqgFBVV",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXo4WnI5OHNOR01YWG1YWnQtZDhaNFVMX1IwUjJlalNKYk1qU3MtcGdmQjdTRXZxUm5reXI0RjB3YlRVS0hyWktDMUQwMXdfeTg5TTgtQVdEekxYWE84em9WRDVvbGhwSlU0bWNHUFhYbTN6VGN0NUx0bjZSX3ZuUXhLODJEdXhQUm9YaTdnTk5UZXN6Ym1vTEJTNU5oLW1RVUJ1ddIBqgFBVV95cUxNMm5LMGZIT2xjM2kzcFExaTNYenhIZXpmclZQUlRlMEJPajNqVUx6bnBWVmxVaEx3VE9iUWRfUDY4RVVpWExqaGFJUlUyZ09rdGp5RUxmTzFlZGxpMXFyNHQwZHNRQldNakpSdENhc29DeV9mclY2SWNTMTZnVHFfRl84OGRpZGZMbHl2cDZiQ1FNZ2JGWVRaYnBjT1lQMDNfOVhRcnBiS3V5Zw?oc=5",
+      "id": "39ec87619bd2",
+      "title": "Judge restricts travel of ICE protester charged with disrupting Minnesota church service - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlVDU3IwOXlYMFhIQVFtNUQ4TVJmZ1ZWeFlqdkNzdktNZHJta081Y0g0dWxjcDJHVG11aV9wS2puNXpiTDlDOUkwYzBwWU1Hdlp6djluUHRFU0FwVHcyaWszdUdCRE9DV05oN253czFONWRUbFVqRWJsamF0aFJ3RUxmMW9iNExqR3RSM2ZUZE9KckJJa3ZINUVNczVILTM0eHRxNE53TWdJV0",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlVDU3IwOXlYMFhIQVFtNUQ4TVJmZ1ZWeFlqdkNzdktNZHJta081Y0g0dWxjcDJHVG11aV9wS2puNXpiTDlDOUkwYzBwWU1Hdlp6djluUHRFU0FwVHcyaWszdUdCRE9DV05oN253czFONWRUbFVqRWJsamF0aFJ3RUxmMW9iNExqR3RSM2ZUZE9KckJJa3ZINUVNczVILTM0eHRxNE53TWdJV0UyeHc?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 25 Jul 2026 23:49:00 GMT",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "id": "df0129e263c5",
+      "title": "Major city launches harsh tourist crackdown as locals revolt over massive crowds - Fox News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXo4WnI5OHNOR01YWG1YWnQtZDhaNFVMX1IwUjJlalNKYk1qU3MtcGdmQjdTRXZxUm5reXI0RjB3YlRVS0hyWktDMUQwMXdfeTg5TTgtQVdEekxYWE84em9WRDVvbGhwSlU0bWNHUFhYbTN6VGN0NUx0bjZSX3ZuUXhLODJEdXhQUm9YaTdnTk5UZXN6Ym1vTEJTNU5oLW1RVUJ1ddIBqgFBVV",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXo4WnI5OHNOR01YWG1YWnQtZDhaNFVMX1IwUjJlalNKYk1qU3MtcGdmQjdTRXZxUm5reXI0RjB3YlRVS0hyWktDMUQwMXdfeTg5TTgtQVdEekxYWE84em9WRDVvbGhwSlU0bWNHUFhYbTN6VGN0NUx0bjZSX3ZuUXhLODJEdXhQUm9YaTdnTk5UZXN6Ym1vTEJTNU5oLW1RVUJ1ddIBqgFBVV95cUxNMm5LMGZIT2xjM2kzcFExaTNYenhIZXpmclZQUlRlMEJPajNqVUx6bnBWVmxVaEx3VE9iUWRfUDY4RVVpWExqaGFJUlUyZ09rdGp5RUxmTzFlZGxpMXFyNHQwZHNRQldNakpSdENhc29DeV9mclY2SWNTMTZnVHFfRl84OGRpZGZMbHl2cDZiQ1FNZ2JGWVRaYnBjT1lQMDNfOVhRcnBiS3V5Zw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
           "published": "Sat, 25 Jul 2026 14:00:05 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "48743f8c706a",
-      "title": "The Black Girl's Guide To Travel: Inside The Rosewood Washington, D.C. Townhouses, Where Luxury Meets Colonial Cool - essence.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDAwQlJ2TEZMclNnbmt5eEt2UkFyQkdyVXRFcnZneFV0ZUtrU2pnRVhQRmgxdHVpQ1pUSVlIdTlMNUR6by1Fem9RdnB1LVQ3S1FSeEFSSlhLNS1rN3k3eDgyVzlxMFRMeGJGbktkTWxNY0xsOTVMOHc1ZnFYaUxWWg?oc=5\" target=\"_blank\">The Black Girl's Guide To Travel:",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDAwQlJ2TEZMclNnbmt5eEt2UkFyQkdyVXRFcnZneFV0ZUtrU2pnRVhQRmgxdHVpQ1pUSVlIdTlMNUR6by1Fem9RdnB1LVQ3S1FSeEFSSlhLNS1rN3k3eDgyVzlxMFRMeGJGbktkTWxNY0xsOTVMOHc1ZnFYaUxWWg?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 25 Jul 2026 13:00:00 GMT",
-          "source": "essence.com"
-        }
-      ]
-    },
-    {
-      "id": "36c425c859f9",
-      "title": "Travel with Treble: Membership has its privileges, palace edition - Substack",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1sLW5XZ2hvX015N2o5Um1kbHZWZlp3UHBxV29tM3ZfcmJ2eXVuRG5TVHlqaHB3aXhkR2NzZGY3azZhaHR6VXFVWTF4ellBREkwcHNRVUt1SmVieE5BOEE4RldDUGNqM3NGT2dicGk3RVdZQmhVQmpaWg?oc=5\" target=\"_blank\">Travel with Treble: Membership has its privil",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sLW5XZ2hvX015N2o5Um1kbHZWZlp3UHBxV29tM3ZfcmJ2eXVuRG5TVHlqaHB3aXhkR2NzZGY3azZhaHR6VXFVWTF4ellBREkwcHNRVUt1SmVieE5BOEE4RldDUGNqM3NGT2dicGk3RVdZQmhVQmpaWg?oc=5",
+      "id": "59928541f801",
+      "title": "Hawai‘i Tourism Authority opens registration for 2026 Hawai‘i Tourism Conference, Sept. 24-25 - Maui Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWVmQUg2ZUZTaEMyTWVOaGlQemxpbW1TNGFYY3RhT0pkQ2xUblI2ZkhCUjcxY2NETWhWUUpOUUJNNkFEajJnckdJVTQ2ajJseXJsTm1lTUZjczhqM0FHLXBKMnlZSzk5MDJFSDUyd0ZXX3hJYTZ5MjNKS3BYQjl4MlVJX1ktWHJrMnluY19ESTY4cUc5OXVBcTBaQWRwc2FvQUNsc3JUQlQ0UE",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWVmQUg2ZUZTaEMyTWVOaGlQemxpbW1TNGFYY3RhT0pkQ2xUblI2ZkhCUjcxY2NETWhWUUpOUUJNNkFEajJnckdJVTQ2ajJseXJsTm1lTUZjczhqM0FHLXBKMnlZSzk5MDJFSDUyd0ZXX3hJYTZ5MjNKS3BYQjl4MlVJX1ktWHJrMnluY19ESTY4cUc5OXVBcTBaQWRwc2FvQUNsc3JUQlQ0UExGNC1mdXZjbjQ2Y0x1WWVORmt3?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,19 +58,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 00:53:38 GMT",
-          "source": "Substack"
+          "published": "Sat, 25 Jul 2026 23:00:00 GMT",
+          "source": "Maui Now"
         }
       ]
     },
     {
-      "id": "3b29e918034b",
-      "title": "A 70-Year-Old Travel Idea Is Suddenly Booming—and Investors Are Pouring In - inc.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVllWMjdwSlc5OWZ2eDNJSHZhaDh5alllel9vaTgwQkdXMWZRWC1jTEQ1Q2FlZHY3YjhYbGQ3bHJMSlNYX2M5UmoxUU4xd2Q4UzdVdkZCdVNucFpMU0s4bGVEU2hMbW8wUFZWZkZuRUlfUGx0cDJuYmVobXZRNXM2cmJQcWlBQ1h0VUFrQUp3ZWtJT2NuOGpOV0h3M2ZfY0R5Qk10d1BsbEtCSG",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVllWMjdwSlc5OWZ2eDNJSHZhaDh5alllel9vaTgwQkdXMWZRWC1jTEQ1Q2FlZHY3YjhYbGQ3bHJMSlNYX2M5UmoxUU4xd2Q4UzdVdkZCdVNucFpMU0s4bGVEU2hMbW8wUFZWZkZuRUlfUGx0cDJuYmVobXZRNXM2cmJQcWlBQ1h0VUFrQUp3ZWtJT2NuOGpOV0h3M2ZfY0R5Qk10d1BsbEtCSGJjLWJyVmVFV2x3NEZ2Z0E?oc=5",
+      "id": "7acb19a698f6",
+      "title": "A Wedding In Lake Garda And A Luxury Travel Hack You Need To Know - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamZNNEkwSFpHTjJUc1A5WVBSX05kMTdnb2FPdkRlN1prNVBlZWlfZHpEWDFFY1ZuV2c2RmhHbURETzNFdldKYWIya1cxWm04Z2p3M1hOUk5QdTVwREN1U0dHOUVJUUFHeXAxOWtldXoyUWYyQWVhbFEyY0wzY0JydUtMa2l3VmJfbmVwVzkzSGRJWXFUTjYtUGVnbThuTmtscTdaeFZVQ0ZwdV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamZNNEkwSFpHTjJUc1A5WVBSX05kMTdnb2FPdkRlN1prNVBlZWlfZHpEWDFFY1ZuV2c2RmhHbURETzNFdldKYWIya1cxWm04Z2p3M1hOUk5QdTVwREN1U0dHOUVJUUFHeXAxOWtldXoyUWYyQWVhbFEyY0wzY0JydUtMa2l3VmJfbmVwVzkzSGRJWXFUTjYtUGVnbThuTmtscTdaeFZVQ0ZwdVV1aDdUekcwbGNxLVcx?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,19 +78,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 16:31:59 GMT",
-          "source": "inc.com"
+          "published": "Sun, 26 Jul 2026 01:07:41 GMT",
+          "source": "Forbes"
         }
       ]
     },
     {
-      "id": "a57be931f9ee",
-      "title": "10 Alabama destinations named among America’s favorite towns - Montgomery Advertiser",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnkxS0FYR0kxcGNNeXk0akZEQTdmZTYtVjJ5OFlRbjJqOWxuOGJBVng2RlZVWkotZWpCTDFUcXE4VTB5WGhna2VDb3N5aEZhTmRnU0MyYW1wdGl3UWJ6Q0FzalRBcmQtZEh0TWhROUZpbm83V1FlOGE3dUFPVTNORTVGQmZ5OEJLOF8yeHBveXZuVEp5M2Zhem1DMlFLQ1VUaXpyWllITXBhTU",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnkxS0FYR0kxcGNNeXk0akZEQTdmZTYtVjJ5OFlRbjJqOWxuOGJBVng2RlZVWkotZWpCTDFUcXE4VTB5WGhna2VDb3N5aEZhTmRnU0MyYW1wdGl3UWJ6Q0FzalRBcmQtZEh0TWhROUZpbm83V1FlOGE3dUFPVTNORTVGQmZ5OEJLOF8yeHBveXZuVEp5M2Zhem1DMlFLQ1VUaXpyWllITXBhTUFMWUdlSU9NNA?oc=5",
+      "id": "17197ea38a97",
+      "title": "'I can't work in the farce of climate change cruise tourism anymore': Why Antarctic guides quit their dream jobs - Phys.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5rRExjTDgxbzJZYzE3aHV1MXdYQzNlZnlnRzdqcnV2aTlSZzN2NEJodHFtRTk1NWlDVnZfVzJVRzd1ZDJZVVlOeWdiYzdCXzFGeFIzVk9idlVhN2FTRjJ3VFFBcGZLLWR5TmdoalQ4ODNESm5jSG9QU3lKNA?oc=5\" target=\"_blank\">'I can't work in the farce of climate cha",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rRExjTDgxbzJZYzE3aHV1MXdYQzNlZnlnRzdqcnV2aTlSZzN2NEJodHFtRTk1NWlDVnZfVzJVRzd1ZDJZVVlOeWdiYzdCXzFGeFIzVk9idlVhN2FTRjJ3VFFBcGZLLWR5TmdoalQ4ODNESm5jSG9QU3lKNA?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,11 +98,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 10:02:00 GMT",
-          "source": "Montgomery Advertiser"
+          "published": "Sun, 26 Jul 2026 00:30:04 GMT",
+          "source": "Phys.org"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
           "published": "Fri, 24 Jul 2026 18:50:00 GMT",
@@ -127,10 +127,10 @@
       ]
     },
     {
-      "id": "39ec87619bd2",
-      "title": "Judge restricts travel of ICE protester charged with disrupting Minnesota church service - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlVDU3IwOXlYMFhIQVFtNUQ4TVJmZ1ZWeFlqdkNzdktNZHJta081Y0g0dWxjcDJHVG11aV9wS2puNXpiTDlDOUkwYzBwWU1Hdlp6djluUHRFU0FwVHcyaWszdUdCRE9DV05oN253czFONWRUbFVqRWJsamF0aFJ3RUxmMW9iNExqR3RSM2ZUZE9KckJJa3ZINUVNczVILTM0eHRxNE53TWdJV0",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlVDU3IwOXlYMFhIQVFtNUQ4TVJmZ1ZWeFlqdkNzdktNZHJta081Y0g0dWxjcDJHVG11aV9wS2puNXpiTDlDOUkwYzBwWU1Hdlp6djluUHRFU0FwVHcyaWszdUdCRE9DV05oN253czFONWRUbFVqRWJsamF0aFJ3RUxmMW9iNExqR3RSM2ZUZE9KckJJa3ZINUVNczVILTM0eHRxNE53TWdJV0UyeHc?oc=5",
+      "id": "32fa628f57a1",
+      "title": "10 affordable late-summer vacation destinations that still feel luxe - Yahoo Creators",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOT01zejJWYlVrMjh1OElGWXFRbndpTkY2R1BKTHlqTFBVcEU5VmVWdS1laDByRnhxZXhyYWVJWTUzTGlVQlRwa0x2anh1SzJ3d1I0RmdlOVFKMDgyRDkwMjlBWjNvVzdMUUVvQXp1Zm4yUVEydGI4OFBBYWxNU1hVb0Vhd1JDc3ZnR0NaTkozbDdtdkZVVml3RllOdU9QN0NIWF9qSlYwcUc3am",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT01zejJWYlVrMjh1OElGWXFRbndpTkY2R1BKTHlqTFBVcEU5VmVWdS1laDByRnhxZXhyYWVJWTUzTGlVQlRwa0x2anh1SzJ3d1I0RmdlOVFKMDgyRDkwMjlBWjNvVzdMUUVvQXp1Zm4yUVEydGI4OFBBYWxNU1hVb0Vhd1JDc3ZnR0NaTkozbDdtdkZVVml3RllOdU9QN0NIWF9qSlYwcUc3amhKamhKM3hoQ0thTEFjV1lkVmVtNnNBdHlJ?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 14:55:00 GMT",
-          "source": "The Guardian"
+          "published": "Sat, 25 Jul 2026 17:56:02 GMT",
+          "source": "Yahoo Creators"
         }
       ]
     },
     {
-      "id": "44b2fa9c9933",
-      "title": "Did the World Cup Live Up to Tourism Expectations? Here Are the Winners and Losers. - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5\" target=\"_blank\">Did the World Cup Live ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5",
+      "id": "48743f8c706a",
+      "title": "The Black Girl's Guide To Travel: Inside The Rosewood Washington, D.C. Townhouses, Where Luxury Meets Colonial Cool - essence.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDAwQlJ2TEZMclNnbmt5eEt2UkFyQkdyVXRFcnZneFV0ZUtrU2pnRVhQRmgxdHVpQ1pUSVlIdTlMNUR6by1Fem9RdnB1LVQ3S1FSeEFSSlhLNS1rN3k3eDgyVzlxMFRMeGJGbktkTWxNY0xsOTVMOHc1ZnFYaUxWWg?oc=5\" target=\"_blank\">The Black Girl's Guide To Travel:",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDAwQlJ2TEZMclNnbmt5eEt2UkFyQkdyVXRFcnZneFV0ZUtrU2pnRVhQRmgxdHVpQ1pUSVlIdTlMNUR6by1Fem9RdnB1LVQ3S1FSeEFSSlhLNS1rN3k3eDgyVzlxMFRMeGJGbktkTWxNY0xsOTVMOHc1ZnFYaUxWWg?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 24 Jul 2026 13:33:00 GMT",
-          "source": "The New York Times"
+          "published": "Sat, 25 Jul 2026 13:00:00 GMT",
+          "source": "essence.com"
         }
       ]
     },
     {
-      "id": "bb08c9c93826",
-      "title": "ADOT’s Weekend Freeway Travel Advisory (July 24-27) - Arizona Department of Transportation (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE94dnUwT09LcGxETDB0S1BSZnAyWjcxbmVicGFKYVV2RUVBRERCaWl6MGtLLUZ1MDFodVVEQUQwcE5LcktmX1FYY2FrNk5oemFIVnFOcDZyVmlUdGMteVdDNFZqRldjNG40VEZGbFhwR2U2bVROUXBWV1BhMA?oc=5\" target=\"_blank\">ADOT’s Weekend Freeway Travel Advisory (J",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94dnUwT09LcGxETDB0S1BSZnAyWjcxbmVicGFKYVV2RUVBRERCaWl6MGtLLUZ1MDFodVVEQUQwcE5LcktmX1FYY2FrNk5oemFIVnFOcDZyVmlUdGMteVdDNFZqRldjNG40VEZGbFhwR2U2bVROUXBWV1BhMA?oc=5",
+      "id": "62dd390f4e26",
+      "title": "Did the World Cup Live Up to ‘104 Super Bowls’? The Winners and Losers. - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5\" target=\"_blank\">Did the World Cup Live ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,11 +178,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 23 Jul 2026 21:11:23 GMT",
-          "source": "Arizona Department of Transportation (.gov)"
+          "published": "Thu, 23 Jul 2026 22:05:14 GMT",
+          "source": "The New York Times"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
           "published": "Thu, 23 Jul 2026 07:00:00 GMT",
@@ -207,10 +207,10 @@
       ]
     },
     {
-      "id": "22f7fe62a729",
-      "title": "China hits travel platform Trip.com with $765M in penalties over monopoly abuses - AP News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdU9YLVMyRzBhREpNQU9sNW81T3M3aVg1VmJJUkNuZl9OQmdodFA1anktdm5OVnR6Sm9UYzBRYmZkUzlYUDZSekVrYTk4NDdkQ0RJbXQtRkN2SG45WmxfdzMwbm9qSEdGRGRGaV9jelN4OU5EYkxlNVczRVpWc2tET0FzeUFSMjlBSGc3X3gtT3c1YnFUVzR6SEl6N0NJcDNYOFE?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdU9YLVMyRzBhREpNQU9sNW81T3M3aVg1VmJJUkNuZl9OQmdodFA1anktdm5OVnR6Sm9UYzBRYmZkUzlYUDZSekVrYTk4NDdkQ0RJbXQtRkN2SG45WmxfdzMwbm9qSEdGRGRGaV9jelN4OU5EYkxlNVczRVpWc2tET0FzeUFSMjlBSGc3X3gtT3c1YnFUVzR6SEl6N0NJcDNYOFE?oc=5",
+      "id": "bb08c9c93826",
+      "title": "ADOT’s Weekend Freeway Travel Advisory (July 24-27) - Arizona Department of Transportation (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE94dnUwT09LcGxETDB0S1BSZnAyWjcxbmVicGFKYVV2RUVBRERCaWl6MGtLLUZ1MDFodVVEQUQwcE5LcktmX1FYY2FrNk5oemFIVnFOcDZyVmlUdGMteVdDNFZqRldjNG40VEZGbFhwR2U2bVROUXBWV1BhMA?oc=5\" target=\"_blank\">ADOT’s Weekend Freeway Travel Advisory (J",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94dnUwT09LcGxETDB0S1BSZnAyWjcxbmVicGFKYVV2RUVBRERCaWl6MGtLLUZ1MDFodVVEQUQwcE5LcktmX1FYY2FrNk5oemFIVnFOcDZyVmlUdGMteVdDNFZqRldjNG40VEZGbFhwR2U2bVROUXBWV1BhMA?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 04:56:00 GMT",
-          "source": "AP News"
+          "published": "Thu, 23 Jul 2026 21:11:23 GMT",
+          "source": "Arizona Department of Transportation (.gov)"
         }
       ]
     },
     {
-      "id": "8685c28911a7",
-      "title": "Love’s travel stop opens in Rock Falls - OurQuadCities",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUI3bXdxQmliWF9FdjJxTVVUYmN6U1JlRlJCTDZkakc5U29kWkUwY2RDQ25LNzUwQ0x0b3JmTEtqR1o5bUxyeWhQbU16Zlhic3hfYzlaaUdBS3BUUTFNa2Vnczd5SGlPa21hZlgwT3VQMWhUSndPM21GZ212Tm5lMkYzdzJ2WTBWWl9BNtIBkgFBVV95cUxORmU2VWcwazF4aWF1OHd1RVFFRF",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUI3bXdxQmliWF9FdjJxTVVUYmN6U1JlRlJCTDZkakc5U29kWkUwY2RDQ25LNzUwQ0x0b3JmTEtqR1o5bUxyeWhQbU16Zlhic3hfYzlaaUdBS3BUUTFNa2Vnczd5SGlPa21hZlgwT3VQMWhUSndPM21GZ212Tm5lMkYzdzJ2WTBWWl9BNtIBkgFBVV95cUxORmU2VWcwazF4aWF1OHd1RVFFRFl3ZEhUdVNjejVvZlJhSWRpSVljTWxEdVU3OXBWcnBwZk5SelJzYktKb0d5RUxaN2JjZVpzejRGS0NudVU5NnI0S3Q1amtXOTlXbkRhNi1Ua3ZOUEt5ZGZIVFFjandqU1FmNHN0ZENwVDZObTNDODZwRWdBX3FVUQ?oc=5",
+      "id": "3b29e918034b",
+      "title": "A 70-Year-Old Travel Idea Is Suddenly Booming—and Investors Are Pouring In - inc.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVllWMjdwSlc5OWZ2eDNJSHZhaDh5alllel9vaTgwQkdXMWZRWC1jTEQ1Q2FlZHY3YjhYbGQ3bHJMSlNYX2M5UmoxUU4xd2Q4UzdVdkZCdVNucFpMU0s4bGVEU2hMbW8wUFZWZkZuRUlfUGx0cDJuYmVobXZRNXM2cmJQcWlBQ1h0VUFrQUp3ZWtJT2NuOGpOV0h3M2ZfY0R5Qk10d1BsbEtCSG",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVllWMjdwSlc5OWZ2eDNJSHZhaDh5alllel9vaTgwQkdXMWZRWC1jTEQ1Q2FlZHY3YjhYbGQ3bHJMSlNYX2M5UmoxUU4xd2Q4UzdVdkZCdVNucFpMU0s4bGVEU2hMbW8wUFZWZkZuRUlfUGx0cDJuYmVobXZRNXM2cmJQcWlBQ1h0VUFrQUp3ZWtJT2NuOGpOV0h3M2ZfY0R5Qk10d1BsbEtCSGJjLWJyVmVFV2x3NEZ2Z0E?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,51 +238,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 11:00:00 GMT",
-          "source": "OurQuadCities"
-        }
-      ]
-    },
-    {
-      "id": "32fa628f57a1",
-      "title": "10 affordable late-summer vacation destinations that still feel luxe - Yahoo Creators",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOT01zejJWYlVrMjh1OElGWXFRbndpTkY2R1BKTHlqTFBVcEU5VmVWdS1laDByRnhxZXhyYWVJWTUzTGlVQlRwa0x2anh1SzJ3d1I0RmdlOVFKMDgyRDkwMjlBWjNvVzdMUUVvQXp1Zm4yUVEydGI4OFBBYWxNU1hVb0Vhd1JDc3ZnR0NaTkozbDdtdkZVVml3RllOdU9QN0NIWF9qSlYwcUc3am",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT01zejJWYlVrMjh1OElGWXFRbndpTkY2R1BKTHlqTFBVcEU5VmVWdS1laDByRnhxZXhyYWVJWTUzTGlVQlRwa0x2anh1SzJ3d1I0RmdlOVFKMDgyRDkwMjlBWjNvVzdMUUVvQXp1Zm4yUVEydGI4OFBBYWxNU1hVb0Vhd1JDc3ZnR0NaTkozbDdtdkZVVml3RllOdU9QN0NIWF9qSlYwcUc3amhKamhKM3hoQ0thTEFjV1lkVmVtNnNBdHlJ?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 25 Jul 2026 17:56:02 GMT",
-          "source": "Yahoo Creators"
-        }
-      ]
-    },
-    {
-      "id": "b21ef7799e33",
-      "title": "Why every Israeli traveling abroad is a global ambassador - The Jerusalem Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zd0hmQ1o4Z1ZlNVJjbGZWV1RLSE5DQXJmY0VtS0l4eWFKaWhoX1N2ajNoMUhOM2pBT216R21WUEhRZG5SdER1czdXY1VVSkd2YWxsMnVCVQ?oc=5\" target=\"_blank\">Why every Israeli traveling abroad is a global ambassador</a>&nbsp;&nbsp;<font color=\"#6f",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zd0hmQ1o4Z1ZlNVJjbGZWV1RLSE5DQXJmY0VtS0l4eWFKaWhoX1N2ajNoMUhOM2pBT216R21WUEhRZG5SdER1czdXY1VVSkd2YWxsMnVCVQ?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 25 Jul 2026 16:53:25 GMT",
-          "source": "The Jerusalem Post"
+          "published": "Sat, 25 Jul 2026 20:57:35 GMT",
+          "source": "inc.com"
         }
       ]
     },
@@ -291,14 +251,14 @@
       "title": "Schuck on a Truck: Joey Chestnut discusses his travel, love of food and championship competitive eating career - Muddy River Sports",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQV84SXljOGdCN1RrLVhvcE5vNDJDYzN2cFZiR2Jyd0hDcDBRZVVfOTVSUzhUdU5sYU80Q2xRUHh6aFROS3dLZHBSalZ6dUQxekhkX09TSk9VZFQ5cDBUOUh0MVhsdk9sS2RFazZJUWk2LVVLcHZINXlHZkR2S0ZpRGVzUnhNVEw5MWkxb0VQNkpUNXFCNWVEZ2NYZkZHMjRKd3pIc3QyXzhEWk",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQV84SXljOGdCN1RrLVhvcE5vNDJDYzN2cFZiR2Jyd0hDcDBRZVVfOTVSUzhUdU5sYU80Q2xRUHh6aFROS3dLZHBSalZ6dUQxekhkX09TSk9VZFQ5cDBUOUh0MVhsdk9sS2RFazZJUWk2LVVLcHZINXlHZkR2S0ZpRGVzUnhNVEw5MWkxb0VQNkpUNXFCNWVEZ2NYZkZHMjRKd3pIc3QyXzhEWkhEal9XdnIxaWxnVEx3VDU5bEVXOWZCSVo2RWk0RTFRVEl4cHVtMk15M3hzMklaMmxTZkFFd2ZBaGdJcWN2RFROLWY4c0I?oc=5",
-      "score": 39.6,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
           "published": "Sat, 25 Jul 2026 18:16:22 GMT",
@@ -307,10 +267,50 @@
       ]
     },
     {
-      "id": "d1d44f48d632",
-      "title": "Get More From Your Credit-Card Points -- Without Trying Too Hard - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNclduTU16WGowS003MjhlZGdqS01pTHYzUDAzN3NPSmtXUlFYa2c5TGlXWDBDdjg3MHJrVU9WN3ZONGM5MTRXelo2MTlibGlicVJsakMtNEUta3pvRlNkWGdCN0U3djZYaUc4SllQekZVZ3Q4cFI0eW00NUNXNWxWTDBwVWxjc0J0ZzlybDFBbWNSOFZSTXF3Sy1SZEczMU9lejVWTWNsWUxXTU",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclduTU16WGowS003MjhlZGdqS01pTHYzUDAzN3NPSmtXUlFYa2c5TGlXWDBDdjg3MHJrVU9WN3ZONGM5MTRXelo2MTlibGlicVJsakMtNEUta3pvRlNkWGdCN0U3djZYaUc4SllQekZVZ3Q4cFI0eW00NUNXNWxWTDBwVWxjc0J0ZzlybDFBbWNSOFZSTXF3Sy1SZEczMU9lejVWTWNsWUxXTU95bnRFWkxITWJiXzBZV3R3a3hpQXpHTk9kZnFtYW1Ycw?oc=5",
+      "id": "a57be931f9ee",
+      "title": "10 Alabama destinations named among America’s favorite towns - Montgomery Advertiser",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnkxS0FYR0kxcGNNeXk0akZEQTdmZTYtVjJ5OFlRbjJqOWxuOGJBVng2RlZVWkotZWpCTDFUcXE4VTB5WGhna2VDb3N5aEZhTmRnU0MyYW1wdGl3UWJ6Q0FzalRBcmQtZEh0TWhROUZpbm83V1FlOGE3dUFPVTNORTVGQmZ5OEJLOF8yeHBveXZuVEp5M2Zhem1DMlFLQ1VUaXpyWllITXBhTU",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnkxS0FYR0kxcGNNeXk0akZEQTdmZTYtVjJ5OFlRbjJqOWxuOGJBVng2RlZVWkotZWpCTDFUcXE4VTB5WGhna2VDb3N5aEZhTmRnU0MyYW1wdGl3UWJ6Q0FzalRBcmQtZEh0TWhROUZpbm83V1FlOGE3dUFPVTNORTVGQmZ5OEJLOF8yeHBveXZuVEp5M2Zhem1DMlFLQ1VUaXpyWllITXBhTUFMWUdlSU9NNA?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-26T03:49:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 25 Jul 2026 10:02:00 GMT",
+          "source": "Montgomery Advertiser"
+        }
+      ]
+    },
+    {
+      "id": "477a73dd8680",
+      "title": "Amazon vs. Booking: Comparing Revenue Trends Between a Retail Giant and a Travel Titan - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNM2JTNmxaSmI2bnYzVHRpanlMT1FVcXd5aEpQc3h3OWVWMzM3V29oa00wbEFsRVpWbEhuWE5NaGZ1UG1PZ2tUZFFldXR5eTVXeDdLbDhfTHBNd013akdlV3J5TWJhZy1xeHBRUVFpd3BiMkZPSHVGN2hZQTFqbzB5YUxUZlBHRFZoNnItRS1WeDJlbXljcjNQeFhVckhrVkpmdHdGMnJvN3NGSG",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM2JTNmxaSmI2bnYzVHRpanlMT1FVcXd5aEpQc3h3OWVWMzM3V29oa00wbEFsRVpWbEhuWE5NaGZ1UG1PZ2tUZFFldXR5eTVXeDdLbDhfTHBNd013akdlV3J5TWJhZy1xeHBRUVFpd3BiMkZPSHVGN2hZQTFqbzB5YUxUZlBHRFZoNnItRS1WeDJlbXljcjNQeFhVckhrVkpmdHdGMnJvN3NGSG43Q2hhUnQtNWFiMmo0dzlPZFhwcWVQN1VUbmFrUGFLTVVyUQ?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-07-26T03:49:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 26 Jul 2026 02:07:39 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "7c0e5af2ba60",
+      "title": "“It’s Totally Fabricated To Make Travelers Feel Like That”: People Are Sharing Their Most Underwhelming Travel Experience From Around The World - BuzzFeed",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmRWRl9qcVZac0hlS1lRVzBKY1RNdHpmSHM3b1ZzVGd1a0hJWFZKZGhsVWF4b3ZSTXV4OFZqUF9QcTdfTFdsRlljbjFRb2JXSmxkUzVxemFfTkFxY056S2VhXzJraXhYYmVobm9jWjBGZDVpa0tGN050OUxZT014Wk5NbWdDZw?oc=5\" target=\"_blank\">“It’s Totally Fabricated ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmRWRl9qcVZac0hlS1lRVzBKY1RNdHpmSHM3b1ZzVGd1a0hJWFZKZGhsVWF4b3ZSTXV4OFZqUF9QcTdfTFdsRlljbjFRb2JXSmxkUzVxemFfTkFxY056S2VhXzJraXhYYmVobm9jWjBGZDVpa0tGN050OUxZT014Wk5NbWdDZw?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 12:00:01 GMT",
-          "source": "Bloomberg.com"
+          "published": "Tue, 21 Jul 2026 23:31:02 GMT",
+          "source": "BuzzFeed"
         }
       ]
     },
     {
-      "id": "b2839394d1ca",
-      "title": "Saudi reserves chart path for future of eco-tourism - arabnews.jp",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TY0lxaE1UZ1VIVmRQdjRNRFJrUk9vMmc2Q3BRSURuSHFKc1hGT0xHeVhUVWNfRlhjR2RraFVvM1hRWmhyLTVTbGlzR3lySGZaRUcxVHVEd0ZMb2RqZkdvdUh3d3o2UQ?oc=5\" target=\"_blank\">Saudi reserves chart path for future of eco-tourism</a>&nbsp;&nbsp;<f",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TY0lxaE1UZ1VIVmRQdjRNRFJrUk9vMmc2Q3BRSURuSHFKc1hGT0xHeVhUVWNfRlhjR2RraFVvM1hRWmhyLTVTbGlzR3lySGZaRUcxVHVEd0ZMb2RqZkdvdUh3d3o2UQ?oc=5",
+      "id": "8685c28911a7",
+      "title": "Love’s travel stop opens in Rock Falls - OurQuadCities",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUI3bXdxQmliWF9FdjJxTVVUYmN6U1JlRlJCTDZkakc5U29kWkUwY2RDQ25LNzUwQ0x0b3JmTEtqR1o5bUxyeWhQbU16Zlhic3hfYzlaaUdBS3BUUTFNa2Vnczd5SGlPa21hZlgwT3VQMWhUSndPM21GZ212Tm5lMkYzdzJ2WTBWWl9BNtIBkgFBVV95cUxORmU2VWcwazF4aWF1OHd1RVFFRF",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUI3bXdxQmliWF9FdjJxTVVUYmN6U1JlRlJCTDZkakc5U29kWkUwY2RDQ25LNzUwQ0x0b3JmTEtqR1o5bUxyeWhQbU16Zlhic3hfYzlaaUdBS3BUUTFNa2Vnczd5SGlPa21hZlgwT3VQMWhUSndPM21GZ212Tm5lMkYzdzJ2WTBWWl9BNtIBkgFBVV95cUxORmU2VWcwazF4aWF1OHd1RVFFRFl3ZEhUdVNjejVvZlJhSWRpSVljTWxEdVU3OXBWcnBwZk5SelJzYktKb0d5RUxaN2JjZVpzejRGS0NudVU5NnI0S3Q1amtXOTlXbkRhNi1Ua3ZOUEt5ZGZIVFFjandqU1FmNHN0ZENwVDZObTNDODZwRWdBX3FVUQ?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 19:16:08 GMT",
-          "source": "arabnews.jp"
+          "published": "Sat, 25 Jul 2026 11:00:00 GMT",
+          "source": "OurQuadCities"
         }
       ]
     },
     {
-      "id": "1608ad80b0b0",
-      "title": "Three Kauaʻi programs to receive grant funding for promoting, preserving Native Hawaiian culture - Kauai Now",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdGVCanNyNmctRi1IazNDZHBMZHJxQldQdnQwdDg4MmN0cDNyUTN0QTl3THdYOGtTOWpDbHFmMmp6QzVucU5HbVJydEQ0eFlEa0ZSVkN2WXRScnlsT25udlJuLVhtS1RUSVZYS0ZvTUxMZ09mU3dFV1ZGTDY4bHRGdDQyQ3Y2dHVXUVpVNG9EaEdYTmlCc0VwNW1JLWtSLWE2OGZodVBDR1FiWm",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdGVCanNyNmctRi1IazNDZHBMZHJxQldQdnQwdDg4MmN0cDNyUTN0QTl3THdYOGtTOWpDbHFmMmp6QzVucU5HbVJydEQ0eFlEa0ZSVkN2WXRScnlsT25udlJuLVhtS1RUSVZYS0ZvTUxMZ09mU3dFV1ZGTDY4bHRGdDQyQ3Y2dHVXUVpVNG9EaEdYTmlCc0VwNW1JLWtSLWE2OGZodVBDR1FiWmdHdWtfMTA1cHI1Rmh1TXJObUkwVFVPSGJJVHM0aE1YTGVlZmVocEZ3?oc=5",
+      "id": "36c425c859f9",
+      "title": "Travel with Treble: Membership has its privileges, palace edition - Substack",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1sLW5XZ2hvX015N2o5Um1kbHZWZlp3UHBxV29tM3ZfcmJ2eXVuRG5TVHlqaHB3aXhkR2NzZGY3azZhaHR6VXFVWTF4ellBREkwcHNRVUt1SmVieE5BOEE4RldDUGNqM3NGT2dicGk3RVdZQmhVQmpaWg?oc=5\" target=\"_blank\">Travel with Treble: Membership has its privil",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sLW5XZ2hvX015N2o5Um1kbHZWZlp3UHBxV29tM3ZfcmJ2eXVuRG5TVHlqaHB3aXhkR2NzZGY3azZhaHR6VXFVWTF4ellBREkwcHNRVUt1SmVieE5BOEE4RldDUGNqM3NGT2dicGk3RVdZQmhVQmpaWg?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 18:00:00 GMT",
-          "source": "Kauai Now"
+          "published": "Sat, 25 Jul 2026 00:53:38 GMT",
+          "source": "Substack"
         }
       ]
     },
     {
-      "id": "d8bc43839017",
-      "title": "Rick Steves reflects on travel, home in America - KING5.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOclY4TUtpNEgxRXZVcGVKdlF4anFpZTcwdThOMzZXaDhxRjdVQ2Nvd0M2QkN4MThxTk5uM0JON21SbXRzdFhHdHJadnAxZ0RNdTVPTTJaMmhhVzc3SGNBei1NV3NvbUpmSE5jWjlnSEY0d3lzamRRQUJRNXNya1JoM3N6ajJ1UFJDaW5CbEczTng4Y0ZUbDU2ZnpQSU90UmkxZW9XVGpmV3FxLT",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclY4TUtpNEgxRXZVcGVKdlF4anFpZTcwdThOMzZXaDhxRjdVQ2Nvd0M2QkN4MThxTk5uM0JON21SbXRzdFhHdHJadnAxZ0RNdTVPTTJaMmhhVzc3SGNBei1NV3NvbUpmSE5jWjlnSEY0d3lzamRRQUJRNXNya1JoM3N6ajJ1UFJDaW5CbEczTng4Y0ZUbDU2ZnpQSU90UmkxZW9XVGpmV3FxLTZlNWMzYW94VGhvcGM?oc=5",
+      "id": "394177c17b8f",
+      "title": "TTW Releases the Top 50 Beach Travel Destinations in the World for 2026 - PR Newswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOUE5uX25LQUo1M0N3U2tUN3IxNkFqUHJ2cVJTY09vZUR3SVJCUzk2dEwwX2MwMkl5VVMzT2xkQWhEQUNic3VXTElsRk56ZDgxYXJDS29Sb2NZdGNReVUySTZibDhINEd0YXRkUjIxT05rVnJ3Si1aaGJQRW10dWJBZlk5UlYwNFB6bXpvMXV5eVlSWlRmemJFMUZ1QzNiaDlualc3b2R6OGhTeD",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUE5uX25LQUo1M0N3U2tUN3IxNkFqUHJ2cVJTY09vZUR3SVJCUzk2dEwwX2MwMkl5VVMzT2xkQWhEQUNic3VXTElsRk56ZDgxYXJDS29Sb2NZdGNReVUySTZibDhINEd0YXRkUjIxT05rVnJ3Si1aaGJQRW10dWJBZlk5UlYwNFB6bXpvMXV5eVlSWlRmemJFMUZ1QzNiaDlualc3b2R6OGhTeDV2cVZ3X01IRVI2Q25NVHZFMTJGRVpVXzhMUGc?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 14:55:00 GMT",
-          "source": "KING5.com"
+          "published": "Sat, 25 Jul 2026 19:36:00 GMT",
+          "source": "PR Newswire"
         }
       ]
     },
     {
-      "id": "33930866a89b",
-      "title": "You Need a Lightweight Travel Bag for Your Next Trip—These 6 Are Spacious With ‘Lots of Compartments’ - Travel + Leisure",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcFJRYU9uN2gwdEZlTDNGY3NOUVZ3Y1F2MVhXRWZ0NkZPUUIwVU04RVdkZHVhT21kcVBFdEpGdXlrVzFrMUJ3bC1WRk5HbnRORmtzWHc0S2YtVzAzMTNPTnBWODlJUXhQR0M5SUIwUEpEeDRzdjVtbDFvNnlsZTdLT2dR?oc=5\" target=\"_blank\">You Need a Lightweight Travel B",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcFJRYU9uN2gwdEZlTDNGY3NOUVZ3Y1F2MVhXRWZ0NkZPUUIwVU04RVdkZHVhT21kcVBFdEpGdXlrVzFrMUJ3bC1WRk5HbnRORmtzWHc0S2YtVzAzMTNPTnBWODlJUXhQR0M5SUIwUEpEeDRzdjVtbDFvNnlsZTdLT2dR?oc=5",
+      "id": "e1adc1dce2a2",
+      "title": "Dubai Is Offering $800 In Travel Costs To Visitors As Iran War Hits Tourism - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVp6Znc5NnVrOUJoeWxXU2ZVSHJnZVd4UmNmZE16QnFUNktGWWcxSHZqRjhjd0gxclNFVVdmN2NCbVJKYmtrd25lZ215WWFzcThSUXVhd1BESU9lTUFqNnNZRHJ1X2dtUHdKUDJQb1FIUlh3djc1M2h3UUhHNnE1TGFqQnNqVm9EMHBSdGpQdmQyQmw0NXNvbUkxX0ZPRUdidW5LcXl0R2pial",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVp6Znc5NnVrOUJoeWxXU2ZVSHJnZVd4UmNmZE16QnFUNktGWWcxSHZqRjhjd0gxclNFVVdmN2NCbVJKYmtrd25lZ215WWFzcThSUXVhd1BESU9lTUFqNnNZRHJ1X2dtUHdKUDJQb1FIUlh3djc1M2h3UUhHNnE1TGFqQnNqVm9EMHBSdGpQdmQyQmw0NXNvbUkxX0ZPRUdidW5LcXl0R2piallpaWtfWXUxYnVhdjlpVUxFWE1SX1hJTTM0SUpVYmVjZGY1em1C?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-07-25T19:23:42+00:00",
+      "first_seen": "2026-07-26T03:49:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 12:00:00 GMT",
-          "source": "Travel + Leisure"
+          "published": "Thu, 23 Jul 2026 13:40:44 GMT",
+          "source": "Forbes"
         }
       ]
     }

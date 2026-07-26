@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "AU",
-  "generated_at": "2026-07-25T19:32:46+00:00",
+  "generated_at": "2026-07-26T03:58:56+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "674b4be3b7a8",
-      "title": "Repossessed, banned and still billing: Inside the bizarre collapse of a Perth hills gym - WAtoday",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTW8wTGpBQm93a0NaTml2YzZFV25JQXMwWHVRYTBFZDVFZ1BTaW1hQ3ozbTExSmpDRVREdTYyMGVSZVdvb0IxWWVjOHAyNlRfTFprX3ozR0lmZE82WV8waHNJZHVsMHRqaXpkYW5mNEdvazRJUkI5V2FSaFJ0cXVweE9reUZiMFpUUkhyYTlXVWdNbGFjdm9VQXBGUExZN2RHVjlOZlE2VkdibF",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTW8wTGpBQm93a0NaTml2YzZFV25JQXMwWHVRYTBFZDVFZ1BTaW1hQ3ozbTExSmpDRVREdTYyMGVSZVdvb0IxWWVjOHAyNlRfTFprX3ozR0lmZE82WV8waHNJZHVsMHRqaXpkYW5mNEdvazRJUkI5V2FSaFJ0cXVweE9reUZiMFpUUkhyYTlXVWdNbGFjdm9VQXBGUExZN2RHVjlOZlE2VkdibFFyOUFUZG10VjVUel9lcTNzOFJuX2xDWFhtLVA5WG5RU0xMdVhhV2JvSUl5WFc4dzZxckJ3a0hPYlJMREF6WVgxZQ?oc=5",
+      "id": "f1155b8de2d3",
+      "title": "The Canberra gym owner who will give half her profits to charity - The Canberra Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVg5d3FYVzlieVdzNS0yM0JyVnlyWmFWRTV6NExGNU9yRWQ0SjA0S0NwRjRNWGFtRER4aDc0WnhsZE9ZSldYd09ialprUTJDSkluUVpQLWFVRkwwRlBXbEVjTVNnNTdrSGpMMmZoZmxnYUNmQUczWWY2aGlfYWZ0aFVwTHdEczJsN3dJMVJLdDJTTnh4V1BIcVlvLVdLYkRDeWJLTnIzVGdnVl",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVg5d3FYVzlieVdzNS0yM0JyVnlyWmFWRTV6NExGNU9yRWQ0SjA0S0NwRjRNWGFtRER4aDc0WnhsZE9ZSldYd09ialprUTJDSkluUVpQLWFVRkwwRlBXbEVjTVNnNTdrSGpMMmZoZmxnYUNmQUczWWY2aGlfYWZ0aFVwTHdEczJsN3dJMVJLdDJTTnh4V1BIcVlvLVdLYkRDeWJLTnIzVGdnVlU?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 25 Jul 2026 19:32:10 GMT",
+          "source": "The Canberra Times"
+        }
+      ]
+    },
+    {
+      "id": "674b4be3b7a8",
+      "title": "Repossessed, banned and still billing: Inside the bizarre collapse of a Perth hills gym - WAtoday",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTW8wTGpBQm93a0NaTml2YzZFV25JQXMwWHVRYTBFZDVFZ1BTaW1hQ3ozbTExSmpDRVREdTYyMGVSZVdvb0IxWWVjOHAyNlRfTFprX3ozR0lmZE82WV8waHNJZHVsMHRqaXpkYW5mNEdvazRJUkI5V2FSaFJ0cXVweE9reUZiMFpUUkhyYTlXVWdNbGFjdm9VQXBGUExZN2RHVjlOZlE2VkdibF",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTW8wTGpBQm93a0NaTml2YzZFV25JQXMwWHVRYTBFZDVFZ1BTaW1hQ3ozbTExSmpDRVREdTYyMGVSZVdvb0IxWWVjOHAyNlRfTFprX3ozR0lmZE82WV8waHNJZHVsMHRqaXpkYW5mNEdvazRJUkI5V2FSaFJ0cXVweE9reUZiMFpUUkhyYTlXVWdNbGFjdm9VQXBGUExZN2RHVjlOZlE2VkdibFFyOUFUZG10VjVUel9lcTNzOFJuX2xDWFhtLVA5WG5RU0xMdVhhV2JvSUl5WFc4dzZxckJ3a0hPYlJMREF6WVgxZQ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
           "published": "Tue, 21 Jul 2026 19:00:00 GMT",
@@ -31,14 +51,14 @@
       "title": "Planet Fitness operator valued at $170m as PE swoops - AFR",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2Q3UzBMaFRiOTJOY0F5UXNFRDc2eXhfQWtZV2d1R0VaRmd5MjlzVmpBdE1PMFlCM0g4Q0gtN3RjU2I2LUpxZnVRaUhYN3JMWU9hLUQyMzBvZFQ2b3pVME5IYzdhT1gxaGh1RE81Z1ZvWTJqbFg0QXE5OFprSzN3amNCcm8wb3cyQXFsSnBjS041Y054UV9lRmFVbXZVNEFBSExySXQyYw?oc=",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2Q3UzBMaFRiOTJOY0F5UXNFRDc2eXhfQWtZV2d1R0VaRmd5MjlzVmpBdE1PMFlCM0g4Q0gtN3RjU2I2LUpxZnVRaUhYN3JMWU9hLUQyMzBvZFQ2b3pVME5IYzdhT1gxaGh1RE81Z1ZvWTJqbFg0QXE5OFprSzN3amNCcm8wb3cyQXFsSnBjS041Y054UV9lRmFVbXZVNEFBSExySXQyYw?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
           "published": "Mon, 20 Jul 2026 23:17:00 GMT",
@@ -51,14 +71,14 @@
       "title": "Top picks for subscription-free fitness trackers - Nine.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0RMY3NNQlB5VjB4VGJEX2kwT2lkOTlTMWxMc3ptMFFscTBlZ0luc3BuUm12d0l1Yi1lVUhjVlRQZF9PNzdUX2tKLURBajdYaWlMMWN0S2pvTHJSNkxNZ015TXZ6MXA3YndqVkQ4UE9PNmQwR3haYllJb195VlBiVXpIMW84Mzl4MnJPNFFkbngxU25pU2xzUVdKZ1ozLWxQMlVQMlJtYXNBdV",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0RMY3NNQlB5VjB4VGJEX2kwT2lkOTlTMWxMc3ptMFFscTBlZ0luc3BuUm12d0l1Yi1lVUhjVlRQZF9PNzdUX2tKLURBajdYaWlMMWN0S2pvTHJSNkxNZ015TXZ6MXA3YndqVkQ4UE9PNmQwR3haYllJb195VlBiVXpIMW84Mzl4MnJPNFFkbngxU25pU2xzUVdKZ1ozLWxQMlVQMlJtYXNBdVJKTFJEYU9VenBaNzRCNzNn?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
           "published": "Thu, 23 Jul 2026 07:32:16 GMT",
@@ -67,22 +87,22 @@
       ]
     },
     {
-      "id": "3b85cb7e4448",
-      "title": "Move like Jagger at 80: the fitness secrets behind his stamina - Ynetnews",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA2d2Q1cmVPTFpFc3JLMnh1b2NZTG1LM1FZeWQ4d21iMzZ2eFB3dzBxckw1aG1jN3JkU0Q1YlFremZweGlkZ0taeGxERW5aTzc1SjVvaWxnSWU3dkFrYU13MlFxYlJZQlBuNUE?oc=5\" target=\"_blank\">Move like Jagger at 80: the fitness secrets behind his stamina</",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2d2Q1cmVPTFpFc3JLMnh1b2NZTG1LM1FZeWQ4d21iMzZ2eFB3dzBxckw1aG1jN3JkU0Q1YlFremZweGlkZ0taeGxERW5aTzc1SjVvaWxnSWU3dkFrYU13MlFxYlJZQlBuNUE?oc=5",
-      "score": 79.2,
+      "id": "1dc66ab2a3f3",
+      "title": "Matt Damon's Odyssey workout is ‘very doable’, according to his trainer - British GQ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1yU1YxcHZMVXJCZ1BCcERvT2w1VlhMemdWdjNaYTdSbjZQNXFoWWdwYTZ5bVlCcXJLdFJxel9YU3VjS1ZYSkl3czRYSzh5anhuZ01sc2JhbDVZLWQ3V2c2T0lnalR3Q3JKS2NZaURvOVRDUQ?oc=5\" target=\"_blank\">Matt Damon's Odyssey workout is ‘very doable’, accord",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yU1YxcHZMVXJCZ1BCcERvT2w1VlhMemdWdjNaYTdSbjZQNXFoWWdwYTZ5bVlCcXJLdFJxel9YU3VjS1ZYSkl3czRYSzh5anhuZ01sc2JhbDVZLWQ3V2c2T0lnalR3Q3JKS2NZaURvOVRDUQ?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 18:10:38 GMT",
-          "source": "Ynetnews"
+          "published": "Sat, 25 Jul 2026 21:50:19 GMT",
+          "source": "British GQ"
         }
       ]
     },
@@ -91,14 +111,14 @@
       "title": "Do infrared saunas improve workout recovery? The evidence is still lukewarm - The Conversation",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONG9uX0pkTGxPWXhjdHcwakJoVWNGUmhNcjZNUGdPbXZnSjUxbjNPYjBiM0RiYTVEVjVzTlJMNm8wTzMxZFF3bGowRTBRMzA4ZnRUX0NobWJHMEpvZTNYaHNjY29LWHVXR0kxSEg2SlZ5ei14TWpXQ2xLZUxWMVlwOVdfWmQ2RDE2ai1nSW55VmF6OGc3VGlYUlo1VVJaY2wycWhoYWU2RTBGSk",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONG9uX0pkTGxPWXhjdHcwakJoVWNGUmhNcjZNUGdPbXZnSjUxbjNPYjBiM0RiYTVEVjVzTlJMNm8wTzMxZFF3bGowRTBRMzA4ZnRUX0NobWJHMEpvZTNYaHNjY29LWHVXR0kxSEg2SlZ5ei14TWpXQ2xLZUxWMVlwOVdfWmQ2RDE2ai1nSW55VmF6OGc3VGlYUlo1VVJaY2wycWhoYWU2RTBGSkwwTUE?oc=5",
-      "score": 75.6,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
           "published": "Wed, 22 Jul 2026 12:27:17 GMT",
@@ -107,22 +127,22 @@
       ]
     },
     {
-      "id": "53c1b3d2a042",
-      "title": "A 51-year-old personal trainer shares his 20-minute workout to build and maintain muscle - Business Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzd3RllrdzQ3Q1IyYUQ1UHJfYk5zazlQeUZqU3dTTkFFWWlwZ3pMM0poUVA2bXBxZkpDUGpPYmY1ZXkwcVI3bEkwSmU0N2lwcV9vZ01sNHZUTmpJWXd6NW44RGp5R1JIVWpWT1RRVDhxQ1I1UjlDd0pidW44WUtqN1hkTHVOekF4U0ktekhQYWZpOUpoZm5mcUlCMHFNN2o0Y3c?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzd3RllrdzQ3Q1IyYUQ1UHJfYk5zazlQeUZqU3dTTkFFWWlwZ3pMM0poUVA2bXBxZkpDUGpPYmY1ZXkwcVI3bEkwSmU0N2lwcV9vZ01sNHZUTmpJWXd6NW44RGp5R1JIVWpWT1RRVDhxQ1I1UjlDd0pidW44WUtqN1hkTHVOekF4U0ktekhQYWZpOUpoZm5mcUlCMHFNN2o0Y3c?oc=5",
-      "score": 72.0,
+      "id": "73fd95d17c28",
+      "title": "Galaxy Watch 9 vs. Apple Watch Series 11: Fitness Flagships Compared - CNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXJkbDY2bmNPdjBzcmZwWXlPOFgyWVpvVHNhTW9tQTBObFBEbnozNzdvNmZEa0xxdVg3NjIwVHZVUjkzcHEzQkhHcno5R3JBNnRRNF9tXy1DR0pCajB6a3ctOXQ3VWsxazRST1V5V3huWmFlU3phcU01VkNBOGRiMFlQWHB1THZzTktiU0FyaWZWSWxHRE90a0xZLVBOWDhZVlE?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXJkbDY2bmNPdjBzcmZwWXlPOFgyWVpvVHNhTW9tQTBObFBEbnozNzdvNmZEa0xxdVg3NjIwVHZVUjkzcHEzQkhHcno5R3JBNnRRNF9tXy1DR0pCajB6a3ctOXQ3VWsxazRST1V5V3huWmFlU3phcU01VkNBOGRiMFlQWHB1THZzTktiU0FyaWZWSWxHRE90a0xZLVBOWDhZVlE?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 13:06:04 GMT",
-          "source": "Business Insider"
+          "published": "Sat, 25 Jul 2026 21:19:19 GMT",
+          "source": "CNET"
         }
       ]
     },
@@ -131,26 +151,6 @@
       "title": "newsGP - National review reignites fitness-to-drive assessment debate - Royal Australian College of General Practitioners (RACGP)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWU1uNEh6c1hTWi0xZ2lSTmNLdG1JX0JzNlRaNGxlS1pySGQ0LWoxTzVNYVEzaVNVZDkwN2kyWUlpbWJUNEpmT1BuUmxhUEtyTDNKMHcxcmlDbUF5UnpSYXpmUUl6R1JJYjdmZDBETmYza2J4eGdMYjBJcXloRmh3N3hzcldhVTVCaFI3Wi1Rby1CUklUcHMw?oc=5\" target=\"_blank\">new",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWU1uNEh6c1hTWi0xZ2lSTmNLdG1JX0JzNlRaNGxlS1pySGQ0LWoxTzVNYVEzaVNVZDkwN2kyWUlpbWJUNEpmT1BuUmxhUEtyTDNKMHcxcmlDbUF5UnpSYXpmUUl6R1JJYjdmZDBETmYza2J4eGdMYjBJcXloRmh3N3hzcldhVTVCaFI3Wi1Rby1CUklUcHMw?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 21 Jul 2026 14:44:30 GMT",
-          "source": "Royal Australian College of General Practitioners (RACGP)"
-        }
-      ]
-    },
-    {
-      "id": "ae7dd9b30b34",
-      "title": "Chris Hemsworth, 42, Shares His 'Extraction 3' Workout for Full-Body Muscle – 17 Exercises, 2 Bits of Kit - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZqLVNFUWZ4MDRRZF9Xel9Gc2U2WW5NZnA0dXR3TEtoMUR4eXRSaTFfb0VTTFkzODdtakpJZy1uSEhYQTZHWWdoLUhSRDB2WFZlajI3WXVCS2hLTy11eWtNWFVQT1l6NHF4dWh4aG9kd1VjVEZTb2N6UzVHOC1wUlp1bTdFVC1UWXE5UFRraw?oc=5\" target=\"_blank\">Chris Hemswor",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZqLVNFUWZ4MDRRZF9Xel9Gc2U2WW5NZnA0dXR3TEtoMUR4eXRSaTFfb0VTTFkzODdtakpJZy1uSEhYQTZHWWdoLUhSRDB2WFZlajI3WXVCS2hLTy11eWtNWFVQT1l6NHF4dWh4aG9kd1VjVEZTb2N6UzVHOC1wUlp1bTdFVC1UWXE5UFRraw?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 22 Jul 2026 16:37:41 GMT",
-          "source": "Men's Health"
+          "published": "Tue, 21 Jul 2026 14:44:30 GMT",
+          "source": "Royal Australian College of General Practitioners (RACGP)"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:50+00:00",
+      "first_seen": "2026-07-26T03:51:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:53+00:00",
+      "first_seen": "2026-07-26T03:51:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -213,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "4aa9db63f087",
-      "title": "Train like Iva Jovic: the workout behind her tennis success - Red Bull",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQeDFseGxKUWNXWmQzX1QyZGVmcEVjcWJZaGVYNWc4d1lLY3VWNWhLSldCaVpqSWtDMXlwaXp4cDRSZV9WSlJHcnNHUENTNERvbUVEbmhFWjF4LWZfQlRMcGxtMVEyOE1sNDdsaVRUZ0JVZWc3cGhLOWhVYWpQaHctN2dHenkxbVJEQmZNYlVCNG8?oc=5\" target=\"_blank\">Train like I",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeDFseGxKUWNXWmQzX1QyZGVmcEVjcWJZaGVYNWc4d1lLY3VWNWhLSldCaVpqSWtDMXlwaXp4cDRSZV9WSlJHcnNHUENTNERvbUVEbmhFWjF4LWZfQlRMcGxtMVEyOE1sNDdsaVRUZ0JVZWc3cGhLOWhVYWpQaHctN2dHenkxbVJEQmZNYlVCNG8?oc=5",
+      "id": "3d67e08a5ea8",
+      "title": "You Need More Protein If You’re Working Hard in the Gym—Here’s How Much - GQ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9aNVZIQUJsTy1fY21oMnRlc1h3U0VlMTZVcnFLQlN3c2RZRklZUEctcS1Wam1mNEc4WHRGUzhxNU0xazFBVnZ4YlMtOG1OTTlHZXNrQ0lWaTRoT2pkbUhZYmlfVFhrRkZVZUdzclpaT1ZPUQ?oc=5\" target=\"_blank\">You Need More Protein If You’re Working Hard in the G",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aNVZIQUJsTy1fY21oMnRlc1h3U0VlMTZVcnFLQlN3c2RZRklZUEctcS1Wam1mNEc4WHRGUzhxNU0xazFBVnZ4YlMtOG1OTTlHZXNrQ0lWaTRoT2pkbUhZYmlfVFhrRkZVZUdzclpaT1ZPUQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -224,11 +224,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 23 Jul 2026 12:12:32 GMT",
-          "source": "Red Bull"
+          "published": "Wed, 22 Jul 2026 13:45:29 GMT",
+          "source": "GQ"
         }
       ]
     },
@@ -244,7 +244,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:50+00:00",
+      "first_seen": "2026-07-26T03:51:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -267,7 +267,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:53+00:00",
+      "first_seen": "2026-07-26T03:51:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -279,10 +279,10 @@
       "is_global": true
     },
     {
-      "id": "1b791e9e2dac",
-      "title": "Garmin Joins Fitbit, Whoop With Its First Screenless Fitness Tracker - PCMag Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzRMdnJMME93MUoybGFaQmVyQS1GX0hfd1hNVnhmQno3blZXRXlMYnBwbXVXREF0cEdlX1BjUGdGa1BsdnBTUXhKSVBaNkxuQ2VES3V0UDFYUXJrSUFSQmdQZW4tZzhXZXl4R0xwdWRzOUxhTEZyXzRsRG1rZ3NQMFVNUTBXQm15SHR4enVXUm5rOHNvLTN4Q1FpdndGQzA1alA5MjNVWHQ?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzRMdnJMME93MUoybGFaQmVyQS1GX0hfd1hNVnhmQno3blZXRXlMYnBwbXVXREF0cEdlX1BjUGdGa1BsdnBTUXhKSVBaNkxuQ2VES3V0UDFYUXJrSUFSQmdQZW4tZzhXZXl4R0xwdWRzOUxhTEZyXzRsRG1rZ3NQMFVNUTBXQm15SHR4enVXUm5rOHNvLTN4Q1FpdndGQzA1alA5MjNVWHQ?oc=5",
+      "id": "ae7dd9b30b34",
+      "title": "Chris Hemsworth, 42, Shares His 'Extraction 3' Workout for Full-Body Muscle – 17 Exercises, 2 Bits of Kit - Men's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZqLVNFUWZ4MDRRZF9Xel9Gc2U2WW5NZnA0dXR3TEtoMUR4eXRSaTFfb0VTTFkzODdtakpJZy1uSEhYQTZHWWdoLUhSRDB2WFZlajI3WXVCS2hLTy11eWtNWFVQT1l6NHF4dWh4aG9kd1VjVEZTb2N6UzVHOC1wUlp1bTdFVC1UWXE5UFRraw?oc=5\" target=\"_blank\">Chris Hemswor",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZqLVNFUWZ4MDRRZF9Xel9Gc2U2WW5NZnA0dXR3TEtoMUR4eXRSaTFfb0VTTFkzODdtakpJZy1uSEhYQTZHWWdoLUhSRDB2WFZlajI3WXVCS2hLTy11eWtNWFVQT1l6NHF4dWh4aG9kd1VjVEZTb2N6UzVHOC1wUlp1bTdFVC1UWXE5UFRraw?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -290,11 +290,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 21 Jul 2026 15:10:54 GMT",
-          "source": "PCMag Australia"
+          "published": "Wed, 22 Jul 2026 16:37:41 GMT",
+          "source": "Men's Health"
         }
       ]
     },
@@ -310,7 +310,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:50+00:00",
+      "first_seen": "2026-07-26T03:51:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -333,7 +333,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:53+00:00",
+      "first_seen": "2026-07-26T03:51:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -356,7 +356,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:50+00:00",
+      "first_seen": "2026-07-26T03:51:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -379,7 +379,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:53+00:00",
+      "first_seen": "2026-07-26T03:51:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -391,10 +391,10 @@
       "is_global": true
     },
     {
-      "id": "72201b3f925b",
-      "title": "We tried the workout that got Matt Damon into Greek god shape for The Odyssey - Vogue Adria",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kMEc4WjJ6czRKcU1raXFpOUJxWVNrZEdnckJrd3B5dHVVZmktT3ZIT2h2OHpjNlB4aC1qUlBaQzByMDFLSG5lM1BGQ1NuR3pGeWNvdQ?oc=5\" target=\"_blank\">We tried the workout that got Matt Damon into Greek god shape for The Odyssey</a>&nbsp;&nbsp;",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kMEc4WjJ6czRKcU1raXFpOUJxWVNrZEdnckJrd3B5dHVVZmktT3ZIT2h2OHpjNlB4aC1qUlBaQzByMDFLSG5lM1BGQ1NuR3pGeWNvdQ?oc=5",
+      "id": "4aa9db63f087",
+      "title": "Train like Iva Jovic: the workout behind her tennis success - Red Bull",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQeDFseGxKUWNXWmQzX1QyZGVmcEVjcWJZaGVYNWc4d1lLY3VWNWhLSldCaVpqSWtDMXlwaXp4cDRSZV9WSlJHcnNHUENTNERvbUVEbmhFWjF4LWZfQlRMcGxtMVEyOE1sNDdsaVRUZ0JVZWc3cGhLOWhVYWpQaHctN2dHenkxbVJEQmZNYlVCNG8?oc=5\" target=\"_blank\">Train like I",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeDFseGxKUWNXWmQzX1QyZGVmcEVjcWJZaGVYNWc4d1lLY3VWNWhLSldCaVpqSWtDMXlwaXp4cDRSZV9WSlJHcnNHUENTNERvbUVEbmhFWjF4LWZfQlRMcGxtMVEyOE1sNDdsaVRUZ0JVZWc3cGhLOWhVYWpQaHctN2dHenkxbVJEQmZNYlVCNG8?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -402,11 +402,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 07:00:35 GMT",
-          "source": "Vogue Adria"
+          "published": "Thu, 23 Jul 2026 12:12:32 GMT",
+          "source": "Red Bull"
         }
       ]
     },
@@ -422,7 +422,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:53+00:00",
+      "first_seen": "2026-07-26T03:51:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -434,10 +434,10 @@
       "is_global": true
     },
     {
-      "id": "3d67e08a5ea8",
-      "title": "You Need More Protein If You’re Working Hard in the Gym—Here’s How Much - GQ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9aNVZIQUJsTy1fY21oMnRlc1h3U0VlMTZVcnFLQlN3c2RZRklZUEctcS1Wam1mNEc4WHRGUzhxNU0xazFBVnZ4YlMtOG1OTTlHZXNrQ0lWaTRoT2pkbUhZYmlfVFhrRkZVZUdzclpaT1ZPUQ?oc=5\" target=\"_blank\">You Need More Protein If You’re Working Hard in the G",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aNVZIQUJsTy1fY21oMnRlc1h3U0VlMTZVcnFLQlN3c2RZRklZUEctcS1Wam1mNEc4WHRGUzhxNU0xazFBVnZ4YlMtOG1OTTlHZXNrQ0lWaTRoT2pkbUhZYmlfVFhrRkZVZUdzclpaT1ZPUQ?oc=5",
+      "id": "72201b3f925b",
+      "title": "We tried the workout that got Matt Damon into Greek god shape for The Odyssey - Vogue Adria",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kMEc4WjJ6czRKcU1raXFpOUJxWVNrZEdnckJrd3B5dHVVZmktT3ZIT2h2OHpjNlB4aC1qUlBaQzByMDFLSG5lM1BGQ1NuR3pGeWNvdQ?oc=5\" target=\"_blank\">We tried the workout that got Matt Damon into Greek god shape for The Odyssey</a>&nbsp;&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kMEc4WjJ6czRKcU1raXFpOUJxWVNrZEdnckJrd3B5dHVVZmktT3ZIT2h2OHpjNlB4aC1qUlBaQzByMDFLSG5lM1BGQ1NuR3pGeWNvdQ?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -445,11 +445,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 22 Jul 2026 13:45:29 GMT",
-          "source": "GQ"
+          "published": "Sat, 25 Jul 2026 07:00:35 GMT",
+          "source": "Vogue Adria"
         }
       ]
     },
@@ -465,7 +465,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:53+00:00",
+      "first_seen": "2026-07-26T03:51:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -488,7 +488,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:53+00:00",
+      "first_seen": "2026-07-26T03:51:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -500,10 +500,10 @@
       "is_global": true
     },
     {
-      "id": "e3bfbd26498d",
-      "title": "Denise Austin Shares 8-Minute Treadmill Workout for a ‘Leaner Waistline’ - Prevention",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbS1jQVcwOUFNUmJMTDd2cGk2LXJNWWhfTEowNnB0akhJVXpKMkN1d1R6S3NxOVpOeGZOcDFCWW9TMXQ2QUNmT0FOU19qOWx0Nm5tYzRVLXZ2dGhiR1R0TnF1QTZfUWVtaHEydDdJUW9uZGJYZl91NGZDRlFMZjU0Z1FTVVNEdktfalllcXdtdkpCVC0tY2tPS2N1Qkx0a2F3Y1V5bzRramloQk",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbS1jQVcwOUFNUmJMTDd2cGk2LXJNWWhfTEowNnB0akhJVXpKMkN1d1R6S3NxOVpOeGZOcDFCWW9TMXQ2QUNmT0FOU19qOWx0Nm5tYzRVLXZ2dGhiR1R0TnF1QTZfUWVtaHEydDdJUW9uZGJYZl91NGZDRlFMZjU0Z1FTVVNEdktfalllcXdtdkpCVC0tY2tPS2N1Qkx0a2F3Y1V5bzRramloQkU?oc=5",
+      "id": "1b791e9e2dac",
+      "title": "Garmin Joins Fitbit, Whoop With Its First Screenless Fitness Tracker - PCMag Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzRMdnJMME93MUoybGFaQmVyQS1GX0hfd1hNVnhmQno3blZXRXlMYnBwbXVXREF0cEdlX1BjUGdGa1BsdnBTUXhKSVBaNkxuQ2VES3V0UDFYUXJrSUFSQmdQZW4tZzhXZXl4R0xwdWRzOUxhTEZyXzRsRG1rZ3NQMFVNUTBXQm15SHR4enVXUm5rOHNvLTN4Q1FpdndGQzA1alA5MjNVWHQ?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzRMdnJMME93MUoybGFaQmVyQS1GX0hfd1hNVnhmQno3blZXRXlMYnBwbXVXREF0cEdlX1BjUGdGa1BsdnBTUXhKSVBaNkxuQ2VES3V0UDFYUXJrSUFSQmdQZW4tZzhXZXl4R0xwdWRzOUxhTEZyXzRsRG1rZ3NQMFVNUTBXQm15SHR4enVXUm5rOHNvLTN4Q1FpdndGQzA1alA5MjNVWHQ?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -511,11 +511,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-07-25T19:23:28+00:00",
+      "first_seen": "2026-07-26T03:49:24+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 25 Jul 2026 10:26:00 GMT",
-          "source": "Prevention"
+          "published": "Tue, 21 Jul 2026 15:10:54 GMT",
+          "source": "PCMag Australia"
         }
       ]
     },
@@ -531,7 +531,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-25T19:25:53+00:00",
+      "first_seen": "2026-07-26T03:51:48+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
