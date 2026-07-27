@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-07-27T04:07:00+00:00",
+  "generated_at": "2026-07-27T10:15:50+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "e17525dcecda",
-      "title": "Travel golf at Bethpage Black offers lessons beyond sport - Winnipeg Sun",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSWNBWHZ6TnNydHFnWmFoLWhTTDNNOV81dnZjVmc5T0cxMVpDQ1otczlJYmxtVV9CWVJwNGkxaU9CTUtKNWlMMXN1aE5IYlZvUTNMdGZuWlRRMmNIOGd4RlpnZ1RGeHRoYTYtc2I2NS1SN0lTS1ZFZVdiV29MY3A5SXRoalE4RXktRUl0cEQ1U2NHaVVuMmNSczZOVUVTNUZ1OTFTdHpJakl4TV",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSWNBWHZ6TnNydHFnWmFoLWhTTDNNOV81dnZjVmc5T0cxMVpDQ1otczlJYmxtVV9CWVJwNGkxaU9CTUtKNWlMMXN1aE5IYlZvUTNMdGZuWlRRMmNIOGd4RlpnZ1RGeHRoYTYtc2I2NS1SN0lTS1ZFZVdiV29MY3A5SXRoalE4RXktRUl0cEQ1U2NHaVVuMmNSczZOVUVTNUZ1OTFTdHpJakl4TVJ1T3dKNmJ3Y19VY3lVdVR3WGMzYkRxQnJCaEJPX2VkTTdLRHNWcmYwQ0NNR2FXLVRaQVNsRGhKd3BTZw?oc=5",
+      "id": "173c4edf5e9f",
+      "title": "France wildfires: is it safe to travel right now? Latest advice - The Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2YzMDNiUmlxVGZhTmFTMFpLVzNJVUlocG5vTDdKTzhVZmc4TW5qQ1N6UHR3elNNNElqSVhtOXhNdElPVUpSd3JKdFEwTFYwdlE2enhhN01xU2haeE1ibnV0c1E4Rjl5cmdJV1VvTHRJTXlzODBDMDcyX25hMEU2emFHOExaSGJoTmFLSXVOY25CdGplZjZ1eUxrWQ?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2YzMDNiUmlxVGZhTmFTMFpLVzNJVUlocG5vTDdKTzhVZmc4TW5qQ1N6UHR3elNNNElqSVhtOXhNdElPVUpSd3JKdFEwTFYwdlE2enhhN01xU2haeE1ibnV0c1E4Rjl5cmdJV1VvTHRJTXlzODBDMDcyX25hMEU2emFHOExaSGJoTmFLSXVOY25CdGplZjZ1eUxrWQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,11 +18,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 26 Jul 2026 10:05:00 GMT",
-          "source": "Winnipeg Sun"
+          "published": "Mon, 27 Jul 2026 08:30:00 GMT",
+          "source": "The Times"
+        }
+      ]
+    },
+    {
+      "id": "ea0fecf6d47d",
+      "title": "New symposium highlights Canadian-Caribbean tourism challenges - CP24",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdC1COHZndjNIWmpYcWRrUlJGUG9WelVaYlc3M3ZneWk5NHNFNllzYkJGT21nODYybXczZGw4SUFNejhyOHpWd2FTSXJGRXlYWFN6WmZIdWhSVVRJTzN1cXJEWFVOa28yV0xXVGFoMkJLVkRZeXRTUktOUm50bzY5Rnc2UjUzSm4zcGI3b2NuN25CX0kycmNjT2UyODRoRVNjMWRJ?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdC1COHZndjNIWmpYcWRrUlJGUG9WelVaYlc3M3ZneWk5NHNFNllzYkJGT21nODYybXczZGw4SUFNejhyOHpWd2FTSXJGRXlYWFN6WmZIdWhSVVRJTzN1cXJEWFVOa28yV0xXVGFoMkJLVkRZeXRTUktOUm50bzY5Rnc2UjUzSm4zcGI3b2NuN25CX0kycmNjT2UyODRoRVNjMWRJ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-27T10:07:03+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 27 Jul 2026 00:13:00 GMT",
+          "source": "CP24"
         }
       ]
     },
@@ -31,14 +51,14 @@
       "title": "Canadians spent $3.3 billion less on travel to the U.S. last year: StatCan - National Post",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGlIUmlqWnctTzlSU19WNWtQOUhVTFJwNERQTTA4UW1FaWJZUGxEOWQ4cEhLN1ZiMlpCWHBVRGEzVHJlRVFFR3FSbXZLVUllckJGM2g4TFhwMWNLbzlMUE93QkZXaEdoMWY1RHZNVzhfcmZMTm9maWNPYTNUeFhzaFRMSmpJNnJWU2RDTURIOTVLeG9tWHZrRk5BSzhVTk1ncnpud3FTLXNVWE",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGlIUmlqWnctTzlSU19WNWtQOUhVTFJwNERQTTA4UW1FaWJZUGxEOWQ4cEhLN1ZiMlpCWHBVRGEzVHJlRVFFR3FSbXZLVUllckJGM2g4TFhwMWNLbzlMUE93QkZXaEdoMWY1RHZNVzhfcmZMTm9maWNPYTNUeFhzaFRMSmpJNnJWU2RDTURIOTVLeG9tWHZrRk5BSzhVTk1ncnpud3FTLXNVWE5L?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
           "published": "Sun, 26 Jul 2026 13:15:58 GMT",
@@ -47,22 +67,42 @@
       ]
     },
     {
-      "id": "65979764c674",
-      "title": "New symposium highlights Canadian-Caribbean tourism challenges - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlNtWDBYMlBGY1gzcW14NzRFeE84OV9VVFRZNjNTMTByLWpKSWg4dFM4ZTJYWlJDSnhYMEJFcFVQZHczSlBzdFl3bVZucVpBMHZpaHRFMnVSNW9ycmtoZWgzM1hQTS1ZQmQ4MzV2OVcya3lYdjBmZVFEbjFETnlFMFFlX0ZVZ0thd1JnT3hXQlIwVHhNTFlKNU95dThMcGdwY0QzRWtsTzBqb2",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlNtWDBYMlBGY1gzcW14NzRFeE84OV9VVFRZNjNTMTByLWpKSWg4dFM4ZTJYWlJDSnhYMEJFcFVQZHczSlBzdFl3bVZucVpBMHZpaHRFMnVSNW9ycmtoZWgzM1hQTS1ZQmQ4MzV2OVcya3lYdjBmZVFEbjFETnlFMFFlX0ZVZ0thd1JnT3hXQlIwVHhNTFlKNU95dThMcGdwY0QzRWtsTzBqb2NYM0wyNw?oc=5",
-      "score": 82.8,
+      "id": "e17525dcecda",
+      "title": "Travel golf at Bethpage Black offers lessons beyond sport - Winnipeg Sun",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSWNBWHZ6TnNydHFnWmFoLWhTTDNNOV81dnZjVmc5T0cxMVpDQ1otczlJYmxtVV9CWVJwNGkxaU9CTUtKNWlMMXN1aE5IYlZvUTNMdGZuWlRRMmNIOGd4RlpnZ1RGeHRoYTYtc2I2NS1SN0lTS1ZFZVdiV29MY3A5SXRoalE4RXktRUl0cEQ1U2NHaVVuMmNSczZOVUVTNUZ1OTFTdHpJakl4TV",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSWNBWHZ6TnNydHFnWmFoLWhTTDNNOV81dnZjVmc5T0cxMVpDQ1otczlJYmxtVV9CWVJwNGkxaU9CTUtKNWlMMXN1aE5IYlZvUTNMdGZuWlRRMmNIOGd4RlpnZ1RGeHRoYTYtc2I2NS1SN0lTS1ZFZVdiV29MY3A5SXRoalE4RXktRUl0cEQ1U2NHaVVuMmNSczZOVUVTNUZ1OTFTdHpJakl4TVJ1T3dKNmJ3Y19VY3lVdVR3WGMzYkRxQnJCaEJPX2VkTTdLRHNWcmYwQ0NNR2FXLVRaQVNsRGhKd3BTZw?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 27 Jul 2026 02:10:07 GMT",
-          "source": "CTV News"
+          "published": "Sun, 26 Jul 2026 10:05:00 GMT",
+          "source": "Winnipeg Sun"
+        }
+      ]
+    },
+    {
+      "id": "d0b60044806c",
+      "title": "China Travel boom: What makes China such an appealing summer gateway for global tourists? - CCTV.com English",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5vNnNVclozODNULWN5ZGhQT1pNN2VuWkllQm5SUFF0a051bGRXWS1CYlpxZWozUHNjVDVLVzFwWUU3R0Q1V1MtNFFIUEFmbVVVU1hpNV9OZVc2ZWN0OS1JYm5RU29vVHh2R05FSTZXSWdJUGdPUDhTODhsVjM?oc=5\" target=\"_blank\">China Travel boom: What makes China such",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vNnNVclozODNULWN5ZGhQT1pNN2VuWkllQm5SUFF0a051bGRXWS1CYlpxZWozUHNjVDVLVzFwWUU3R0Q1V1MtNFFIUEFmbVVVU1hpNV9OZVc2ZWN0OS1JYm5RU29vVHh2R05FSTZXSWdJUGdPUDhTODhsVjM?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-27T10:07:03+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 27 Jul 2026 07:09:04 GMT",
+          "source": "CCTV.com English"
         }
       ]
     },
@@ -71,14 +111,14 @@
       "title": "What’s happening in Ottawa - Ottawa Tourism",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5\" target=\"_blank\">What’s happening in Ottawa</a>&nbsp;&nbsp;<font",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
           "published": "Thu, 23 Jul 2026 12:00:00 GMT",
@@ -87,18 +127,38 @@
       ]
     },
     {
-      "id": "02464aa483d6",
-      "title": "Gordie Howe Bridge opening: What you need to know before you travel - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1aSDFNRGxxWmRiWkQxTDVOcWxNTWhkMThhMkpFVzhQbUFBdjBFSktQQjFVTnF1WUJoNTQ4UC1wbENRT3lodTJGcEVVaVNHSVNlWWJTLWg1VFlKU3JsMG5ZMENScUY4ZG1qV3lKUXpGT0FFUQ?oc=5\" target=\"_blank\">Gordie Howe Bridge opening: What you need to know bef",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aSDFNRGxxWmRiWkQxTDVOcWxNTWhkMThhMkpFVzhQbUFBdjBFSktQQjFVTnF1WUJoNTQ4UC1wbENRT3lodTJGcEVVaVNHSVNlWWJTLWg1VFlKU3JsMG5ZMENScUY4ZG1qV3lKUXpGT0FFUQ?oc=5",
-      "score": 75.6,
+      "id": "eb5b116ca436",
+      "title": "Trump saves George Washington with time travel and protects world from Iran in AI posting spree - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0xzNGg3ZjdUdlRpTlRRQjB6Q2VZWlNHRGVqUm9ncG5WbFJ1SkVYRGV2MW9GM3RVQnBjbkZJOU9pY1VaNTFsdTU1VG12X0NCS3o0dFhORDlCYTJXWnRTOGdlTnB1MkdBWThzckhycjNPcHE1bnI3QXR4M2tCUzl4aA?oc=5\" target=\"_blank\">Trump saves George Washington wit",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0xzNGg3ZjdUdlRpTlRRQjB6Q2VZWlNHRGVqUm9ncG5WbFJ1SkVYRGV2MW9GM3RVQnBjbkZJOU9pY1VaNTFsdTU1VG12X0NCS3o0dFhORDlCYTJXWnRTOGdlTnB1MkdBWThzckhycjNPcHE1bnI3QXR4M2tCUzl4aA?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 27 Jul 2026 09:10:04 GMT",
+          "source": "Yahoo News Canada"
+        }
+      ]
+    },
+    {
+      "id": "02464aa483d6",
+      "title": "Gordie Howe Bridge opening: What you need to know before you travel - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1aSDFNRGxxWmRiWkQxTDVOcWxNTWhkMThhMkpFVzhQbUFBdjBFSktQQjFVTnF1WUJoNTQ4UC1wbENRT3lodTJGcEVVaVNHSVNlWWJTLWg1VFlKU3JsMG5ZMENScUY4ZG1qV3lKUXpGT0FFUQ?oc=5\" target=\"_blank\">Gordie Howe Bridge opening: What you need to know bef",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aSDFNRGxxWmRiWkQxTDVOcWxNTWhkMThhMkpFVzhQbUFBdjBFSktQQjFVTnF1WUJoNTQ4UC1wbENRT3lodTJGcEVVaVNHSVNlWWJTLWg1VFlKU3JsMG5ZMENScUY4ZG1qV3lKUXpGT0FFUQ?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
           "published": "Sun, 26 Jul 2026 10:00:00 GMT",
@@ -107,62 +167,62 @@
       ]
     },
     {
-      "id": "71df7e0e9fd7",
-      "title": "How new routes and renovations are reshaping air travel in Mexico - Mexico News Daily",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGNlN1EtM3dMdVMzbTJXY1FkU01wWmJNYWtxdjN4Y0NkZVgxQThGTkpSWTNRbGtBMWlLVU5EdDkxcm9vTFhCQ1RHVzBKdHdScFFKTEx0Y2ZGU2FYYVRRQTE5X0RYeFl1RnR5UldTUXFlZ2VYRV9rNUt4UjJnb2hEbnVRbFM5N2lJc0stNUZEY29YRWpmWm5NOS1iZXpmQnA3a3lZ?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGNlN1EtM3dMdVMzbTJXY1FkU01wWmJNYWtxdjN4Y0NkZVgxQThGTkpSWTNRbGtBMWlLVU5EdDkxcm9vTFhCQ1RHVzBKdHdScFFKTEx0Y2ZGU2FYYVRRQTE5X0RYeFl1RnR5UldTUXFlZ2VYRV9rNUt4UjJnb2hEbnVRbFM5N2lJc0stNUZEY29YRWpmWm5NOS1iZXpmQnA3a3lZ?oc=5",
-      "score": 72.0,
+      "id": "8a3c4a40b831",
+      "title": "Seven regions account for almost 20% of all EU tourism nights - Travel Tomorrow",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYVd6Z3J1SVNYZWF0TWlSOENjcFBXbXBSQXNDU3NVeWJYdDJrR05MYi1WYmsyYnltVUl0UU9VSHJ5MnBTUGVMTEV1OFlZSm1QMzllTUdYUUNWclNEZkRMLTBicVlaTy1KVkZONXYzdE9KVldRa3A2WXI0SGZhck5Ma1IyUUJHUWlIbDF0emlVU3hYdw?oc=5\" target=\"_blank\">Seven reg",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYVd6Z3J1SVNYZWF0TWlSOENjcFBXbXBSQXNDU3NVeWJYdDJrR05MYi1WYmsyYnltVUl0UU9VSHJ5MnBTUGVMTEV1OFlZSm1QMzllTUdYUUNWclNEZkRMLTBicVlaTy1KVkZONXYzdE9KVldRa3A2WXI0SGZhck5Ma1IyUUJHUWlIbDF0emlVU3hYdw?oc=5",
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 26 Jul 2026 15:29:29 GMT",
-          "source": "Mexico News Daily"
+          "published": "Mon, 27 Jul 2026 09:17:00 GMT",
+          "source": "Travel Tomorrow"
         }
       ]
     },
     {
-      "id": "9c8821472534",
-      "title": "LAST WEEK THIS MORNING: July20-24, 2026 - Travel Industry Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9QaWthMlZOUExnbkFQbzRnQTByVnJzZ2ZsT1NEemNnUThHZVlWWXZ5elg5dDM4VU42OHVoQ0Z2WUtnVFNNRnRMRmFpRW1CT3BSQ3VXc3V2c2JTWGNlN3I4enFBNWktLVlQa09FYjE5NG1RYkNIbVVGeDhR?oc=5\" target=\"_blank\">LAST WEEK THIS MORNING: July20-24, 2026</a>",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QaWthMlZOUExnbkFQbzRnQTByVnJzZ2ZsT1NEemNnUThHZVlWWXZ5elg5dDM4VU42OHVoQ0Z2WUtnVFNNRnRMRmFpRW1CT3BSQ3VXc3V2c2JTWGNlN3I4enFBNWktLVlQa09FYjE5NG1RYkNIbVVGeDhR?oc=5",
-      "score": 68.4,
+      "id": "6ebfd1bf39e8",
+      "title": "Japanese descendants drive rise in roots tourism - Japan Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSWt3ajVrbm9oNkY1ODY0YVFnVFZMbWRMcXFCVkxUTGU0RFlQUHh1UU9YMlgwWFZpV1Z1eXc2ZWtiZjVRZkZ2VlBkNDNvd2F4Y2ZfVVp2S1F4NGx6NW80VXZidjgxSExKREphNWhrSFFGVTItMUQ3eVoySENaSTZpQlBWWnRqN1dsYnJENGhFbVpMNTBhb19SSDRUZW9qUQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWt3ajVrbm9oNkY1ODY0YVFnVFZMbWRMcXFCVkxUTGU0RFlQUHh1UU9YMlgwWFZpV1Z1eXc2ZWtiZjVRZkZ2VlBkNDNvd2F4Y2ZfVVp2S1F4NGx6NW80VXZidjgxSExKREphNWhrSFFGVTItMUQ3eVoySENaSTZpQlBWWnRqN1dsYnJENGhFbVpMNTBhb19SSDRUZW9qUQ?oc=5",
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 26 Jul 2026 23:26:14 GMT",
-          "source": "Travel Industry Today"
+          "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+          "source": "Japan Today"
         }
       ]
     },
     {
-      "id": "91c31b6fd7ba",
-      "title": "Global Air Travel Had Busiest Day on Record Despite Recent Headwinds - Newsweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVZwaW5RNlJ2U1BuZ3g2SlhkVkIwU0JZTU1EemtDSENGdEtEck1LNVpwVU10aGo2c0hKNV9ONFJRazJiYkpDd2Z1VUY3RTI1cGRycW1HaXZaVkVnUUllWkNxcHFpcUt4aVoyR1d5ZkdCQ2M1TTBZUmhUQTZzVV9FRkdDNA?oc=5\" target=\"_blank\">Global Air Travel Had Busiest",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVZwaW5RNlJ2U1BuZ3g2SlhkVkIwU0JZTU1EemtDSENGdEtEck1LNVpwVU10aGo2c0hKNV9ONFJRazJiYkpDd2Z1VUY3RTI1cGRycW1HaXZaVkVnUUllWkNxcHFpcUt4aVoyR1d5ZkdCQ2M1TTBZUmhUQTZzVV9FRkdDNA?oc=5",
-      "score": 64.8,
+      "id": "d513e84c6fd3",
+      "title": "Star bathing, goat yoga and beer spas: Quirky wellness travel trends - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPdkszNVlqa2tMOUVTNEtzVmR4clBLU0N5Rk42T3lZVUJSNU9DTldtTmtYSTR2WUQ5MGh3Y3hGVlN4MWtVS0hWeXRLRUZXbnMyZ0otWkg1VS1sQTlNMkV5U0R2cmxLdklUMTRPYkNfRzllVE94ajFDMjd5Z3BTcG5OOTFLM2lsVXVkUHNuSUlyZVhfZ2d2MlY0X0NQVEV1SjU1bzdRTzNpV1VNUX",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdkszNVlqa2tMOUVTNEtzVmR4clBLU0N5Rk42T3lZVUJSNU9DTldtTmtYSTR2WUQ5MGh3Y3hGVlN4MWtVS0hWeXRLRUZXbnMyZ0otWkg1VS1sQTlNMkV5U0R2cmxLdklUMTRPYkNfRzllVE94ajFDMjd5Z3BTcG5OOTFLM2lsVXVkUHNuSUlyZVhfZ2d2MlY0X0NQVEV1SjU1bzdRTzNpV1VNUXM4RHctaWVnWW4tSE4wTmkyeVZmQQ?oc=5",
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 26 Jul 2026 16:13:00 GMT",
-          "source": "Newsweek"
+          "published": "Mon, 27 Jul 2026 05:00:13 GMT",
+          "source": "Euronews.com"
         }
       ]
     },
@@ -171,14 +231,14 @@
       "title": "Inside My Tech Travel Bag: The Gear I’m Taking to Shanghai - Digital Reviews Network",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQUTlqRVFZd0NOcnhYWWdjUFpFUU1JNVBWV3RkMXpBMVl0NjNCbFFBQmRzUVBhOFdpSWstX2FPVHNlbkwxM2V5WkJOSzZvT2l4V1djbnBaNE1VdEVoZ2VDLU01cTlLeXNOaTludXR0TG1lTmc1SFVSSlVIN0FvSWhQSUhB?oc=5\" target=\"_blank\">Inside My Tech Travel Bag: The ",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUTlqRVFZd0NOcnhYWWdjUFpFUU1JNVBWV3RkMXpBMVl0NjNCbFFBQmRzUVBhOFdpSWstX2FPVHNlbkwxM2V5WkJOSzZvT2l4V1djbnBaNE1VdEVoZ2VDLU01cTlLeXNOaTludXR0TG1lTmc1SFVSSlVIN0FvSWhQSUhB?oc=5",
-      "score": 61.2,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
           "published": "Mon, 27 Jul 2026 01:17:50 GMT",
@@ -191,14 +251,14 @@
       "title": "Did the World Cup Live Up to ‘104 Super Bowls’? The Winners and Losers. - The New York Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5\" target=\"_blank\">Did the World Cup Live ",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNai1MZFJNVl9WUnJYV3RHX1B4Y29oVnlUOWFtSXJFNzJlRF80YUNhT2ZmVnE4Mm5UU2ZBRlRVT3dBandUekgtY1hRRUF4c0R3QW1GY2pwREZ4Ylk0VjZKcWNsZzh1LWttSGJKbVk1NlA0UzB0MXhsQjVwaGhXOGlkOW04aUVuc29D?oc=5",
-      "score": 57.6,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
           "published": "Thu, 23 Jul 2026 22:05:14 GMT",
@@ -211,14 +271,14 @@
       "title": "Ottawa to stop approving travel for Indigenous mental health program - Cabin Radio",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNam8wbkZqN0pSbUQxSzFzNTdMSlBSOUotRVBocnUzU21aTkMydm9UZUZqTlRMaDR6QnBiOTFPNzltQ2h3QkJaVkZwWlBIQlBDaF9IbnJhUTZlLXViT25iallYRzdMY1JHUVI2NkZqNjNKR1FHXzFfTXZvYl9aNDNvWXVXWjg0TFM2ZXBvVFVlUlc0UEMxLWtUWUV3YmttcWVyNXBIY3EzSnBaOE",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNam8wbkZqN0pSbUQxSzFzNTdMSlBSOUotRVBocnUzU21aTkMydm9UZUZqTlRMaDR6QnBiOTFPNzltQ2h3QkJaVkZwWlBIQlBDaF9IbnJhUTZlLXViT25iallYRzdMY1JHUVI2NkZqNjNKR1FHXzFfTXZvYl9aNDNvWXVXWjg0TFM2ZXBvVFVlUlc0UEMxLWtUWUV3YmttcWVyNXBIY3EzSnBaOEZiNUlvdjNGTTBlbDB2dEE?oc=5",
-      "score": 54.0,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
           "published": "Sun, 26 Jul 2026 03:01:23 GMT",
@@ -227,22 +287,22 @@
       ]
     },
     {
-      "id": "7a91d66686eb",
-      "title": "How Different Generations Use AI for Travel Planning - TravelPulse",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPazBfeElEV3BJaE1ZSzFjajFUd3BYQUtUYVRpalY2cDdOc1NxZ1FyeWwzbWI1YlQ0QjV3bHoxRU5RMlhGYnllRGVXNTgwdWZCRDBLRHhPSkJsdVJEekU2c1dTdU1JX0ZJR19yb3JiM3ZLUF9lS3RJenZCQy1qU0thS1pxeTVQRndaTUtTVDZUUTgxUEpJLXRjYXRwTC0?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazBfeElEV3BJaE1ZSzFjajFUd3BYQUtUYVRpalY2cDdOc1NxZ1FyeWwzbWI1YlQ0QjV3bHoxRU5RMlhGYnllRGVXNTgwdWZCRDBLRHhPSkJsdVJEekU2c1dTdU1JX0ZJR19yb3JiM3ZLUF9lS3RJenZCQy1qU0thS1pxeTVQRndaTUtTVDZUUTgxUEpJLXRjYXRwTC0?oc=5",
-      "score": 50.4,
+      "id": "6b3db85c0b5b",
+      "title": "I Finally Perfected My Weekend Getaway Packing List — These Are the Essentials I Never Leave Home Without from $5 - People.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9USlhsUDZRN05PMFVvR2U3cW1DM2hZOHdwd2RjQVRBU0hNVkxJRV9TY0RMVlRLdi1uM3JLZHc5TlEwaHVTVW5GTjFKZ0xiMVhNV21rNjJfRVVRdlZWY0pJZURlWWYzNGFweWFweU11MU13UzFC?oc=5\" target=\"_blank\">I Finally Perfected My Weekend Getaway Packing List",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9USlhsUDZRN05PMFVvR2U3cW1DM2hZOHdwd2RjQVRBU0hNVkxJRV9TY0RMVlRLdi1uM3JLZHc5TlEwaHVTVW5GTjFKZ0xiMVhNV21rNjJfRVVRdlZWY0pJZURlWWYzNGFweWFweU11MU13UzFC?oc=5",
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 26 Jul 2026 13:00:00 GMT",
-          "source": "TravelPulse"
+          "published": "Mon, 27 Jul 2026 08:00:00 GMT",
+          "source": "People.com"
         }
       ]
     },
@@ -251,14 +311,14 @@
       "title": "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5\" target=\"_blank\">Information for Travelers Returning from Ebola-",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iWWh1cnAzdVpkcUh0OXI5eTlmMnZRMHJrdnY2WnNMVDZwX1d3enJoMkQxTDdnbXQ4Qm03MXQtaXd0TDFWbzgxZWVfUWE4RUhESE5wWW1PUXFRWDJlV2ZVb1pHc3BnX3pINTNiNVdRUUdCX0JabXdR?oc=5",
-      "score": 46.8,
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
           "published": "Thu, 23 Jul 2026 07:00:00 GMT",
@@ -267,70 +327,10 @@
       ]
     },
     {
-      "id": "28d7745a49f7",
-      "title": "Fresh protest against mass tourism in Mallorca - A News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQy13S1BXNkp1V1B6T0FHbEpRUmxpdGxhY2xjaWZFd2ZHVlpNc2NRamlRMkFMdVFCZDlnT2xKUU93S1pOZkotWi1oa0dZWGFmZlhxeXBldTJENWNGQlVrc0dlV1N0WU1ZV3NyekRrRkVWam5sR3hELWFjd25rRV9Kb193ck03cERWczd3T0IxXzhlcUnSAZgBQVVfeXFMT2F3SmkzUW04dEt2RT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQy13S1BXNkp1V1B6T0FHbEpRUmxpdGxhY2xjaWZFd2ZHVlpNc2NRamlRMkFMdVFCZDlnT2xKUU93S1pOZkotWi1oa0dZWGFmZlhxeXBldTJENWNGQlVrc0dlV1N0WU1ZV3NyekRrRkVWam5sR3hELWFjd25rRV9Kb193ck03cERWczd3T0IxXzhlcUnSAZgBQVVfeXFMT2F3SmkzUW04dEt2RTkzQ2pUb29Fby1VN2pLNXFvTmxQZ1k0bThvWl81UEV2ZGNadlIxZUlMdW5jSnZXbmRvSHVEX3E2UFFTLW81VnNBYk9qaElQUEg1dTZsdVdQQldNVUc5THVVeWU4OTdFQkVpZnNJNHpGYjc0OFR0aUttcjRGdzlsYU1Pdmp3czBqQVdVbWw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 26 Jul 2026 22:12:00 GMT",
-          "source": "A News"
-        }
-      ]
-    },
-    {
-      "id": "ba79a7667967",
-      "title": "The internet’s creepiest imaginary world is becoming a tourist attraction - Ynetnews",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAwZnZPVFNnWHFzYU9nLWFPbGtfRmp1ajFIUHRCWkYtVGhhZklIV3J4Yk1ZR08wNnVjVVRNRkhTT2lDbkZtNlV1cXViWUZnWGllNlRIbnR2UDhweTNqMlZPX2h2QTFaOFdNaE43Tw?oc=5\" target=\"_blank\">The internet’s creepiest imaginary world is becoming a touris",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwZnZPVFNnWHFzYU9nLWFPbGtfRmp1ajFIUHRCWkYtVGhhZklIV3J4Yk1ZR08wNnVjVVRNRkhTT2lDbkZtNlV1cXViWUZnWGllNlRIbnR2UDhweTNqMlZPX2h2QTFaOFdNaE43Tw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 26 Jul 2026 17:07:31 GMT",
-          "source": "Ynetnews"
-        }
-      ]
-    },
-    {
-      "id": "4d70f09d4366",
-      "title": "'The Travel Companion' Review: A Look at the Intersection Between Travel Vlog and Filmmaking Ode - Movies We Texted About",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOUW5aZHNkbmFpcUVkYmtTM05IcGItZnFuOW1IZXNyZWRJVWRhTXpDRzdPMERNUmhEdjRlMEJyUWtHZV9ZS1BTUFR3V3FZMy14RHhRVXgxQmEyREtsV3RUdE8wbnhSUDlyd1ZmQjlxVGhKYVMySUJhZTJiLS1KMzQ5eXdubnFTNG1pV3lGZmtmblB5QVhBRHd2REdzcUhyOEQ3LXJPU0VzZzUtOE",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUW5aZHNkbmFpcUVkYmtTM05IcGItZnFuOW1IZXNyZWRJVWRhTXpDRzdPMERNUmhEdjRlMEJyUWtHZV9ZS1BTUFR3V3FZMy14RHhRVXgxQmEyREtsV3RUdE8wbnhSUDlyd1ZmQjlxVGhKYVMySUJhZTJiLS1KMzQ5eXdubnFTNG1pV3lGZmtmblB5QVhBRHd2REdzcUhyOEQ3LXJPU0VzZzUtOEdwei12VHpqYTNxbGtRcWtQYVJkeENoc05G?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 27 Jul 2026 02:36:26 GMT",
-          "source": "Movies We Texted About"
-        }
-      ]
-    },
-    {
-      "id": "e6e7e8050ac2",
-      "title": "Blood tests and ultrasounds: Korea is becoming one of the world's global healthcare hubs - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVBYNVExRnVTLVU1ZEJENG1kM0VWaldWYjE4UUUwWWFYYmY3UkFrQmwzRVNfczJQenNQMFZrc3VhSGJLY01VdzdsVFd3U1VCZnJZa3NEOGEtczh6XzZETVU3MW9ZTk5hXzg3ZkEyRTlLZndPQ09KTERtU1VCTHN2OGdVYmlfQXhzckJmTlNWRWtqRncteWprRQ?oc=5\" target=\"_blank\">B",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVBYNVExRnVTLVU1ZEJENG1kM0VWaldWYjE4UUUwWWFYYmY3UkFrQmwzRVNfczJQenNQMFZrc3VhSGJLY01VdzdsVFd3U1VCZnJZa3NEOGEtczh6XzZETVU3MW9ZTk5hXzg3ZkEyRTlLZndPQ09KTERtU1VCTHN2OGdVYmlfQXhzckJmTlNWRWtqRncteWprRQ?oc=5",
+      "id": "c6b5314bbe6b",
+      "title": "Asian Dumplings Guide: 6 Destinations and MICHELIN-Worthy Discoveries - MICHELIN Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmJZcVI5NzlEdGs0WlRiczFaLWs3X2xBSkc2bzh6SkxJLVFyR2pkYkhDb3Azcmg3czlRNV9CWXZ3VXRUR0dkUVE4RkptZTA0X2VqNnk4bW5TS1Z1WV94a1k4SEkzMGJ5eHlJRmlKZDdxZDM0NE1jT0RB?oc=5\" target=\"_blank\">Asian Dumplings Guide: 6 Destinations and M",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmJZcVI5NzlEdGs0WlRiczFaLWs3X2xBSkc2bzh6SkxJLVFyR2pkYkhDb3Azcmg3czlRNV9CWXZ3VXRUR0dkUVE4RkptZTA0X2VqNnk4bW5TS1Z1WV94a1k4SEkzMGJ5eHlJRmlKZDdxZDM0NE1jT0RB?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 24 Jul 2026 13:00:00 GMT",
-          "source": "BBC"
+          "published": "Mon, 27 Jul 2026 03:17:03 GMT",
+          "source": "MICHELIN Guide"
         }
       ]
     },
     {
-      "id": "702989f743c5",
-      "title": "The 'White Lotus' effect: How fabulous TV locations are reshaping luxury travel and infuriating locals - Fortune",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkhQWVI4bXR4WHNWWlBFd1VhRzJST3djS0lDZWh6a3ZsU2t5anUydk02WnUwLVpRMENDT1NBY2ZsMDFFNE84ZzlOUzVXQVNsczZZbnN2d3FhbWEySmgzVTVYelFmenh0ZnhEc3NOM2hiUUUyS1d0cXdrNVgxTHBGR3l5ektvMkJBWkZxbHkyUGsxMGJEY2hFamlvaXcwekNUUHo0dUZTd2J3bG",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkhQWVI4bXR4WHNWWlBFd1VhRzJST3djS0lDZWh6a3ZsU2t5anUydk02WnUwLVpRMENDT1NBY2ZsMDFFNE84ZzlOUzVXQVNsczZZbnN2d3FhbWEySmgzVTVYelFmenh0ZnhEc3NOM2hiUUUyS1d0cXdrNVgxTHBGR3l5ektvMkJBWkZxbHkyUGsxMGJEY2hFamlvaXcwekNUUHo0dUZTd2J3bG01aUt5a1pzeUJjQQ?oc=5",
+      "id": "d224150f74af",
+      "title": "Oceania Cruises Caribbean 2026 Redefines Luxury Island Travel - Travel Daily Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVm1QSEs5WVdYbkNhbzVSSUpqcjBNSnpfNmFuQ2o4OHlMcV8zaTBMQjJXaWVBMWkxQlJwandXVkswUkdwNUw1bE1SS0QzbWlpempHNkJmSTBoRnJveXhNSmt6N2hjcGZGdHNYaldvcDBFQmVPRWJmSUVSUGRqUEdUb2R0cEFaVEZCb3hvRkhJckV6YlgzM09vNndkcw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVm1QSEs5WVdYbkNhbzVSSUpqcjBNSnpfNmFuQ2o4OHlMcV8zaTBMQjJXaWVBMWkxQlJwandXVkswUkdwNUw1bE1SS0QzbWlpempHNkJmSTBoRnJveXhNSmt6N2hjcGZGdHNYaldvcDBFQmVPRWJmSUVSUGRqUEdUb2R0cEFaVEZCb3hvRkhJckV6YlgzM09vNndkcw?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 26 Jul 2026 14:00:00 GMT",
-          "source": "Fortune"
+          "published": "Mon, 27 Jul 2026 06:04:08 GMT",
+          "source": "Travel Daily Media"
         }
       ]
     },
     {
-      "id": "d7fa7c00c35c",
-      "title": "Major highway projects could reshape travel in NWA, River Valley - Yahoo News Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxFQUk4X0U0UjhZbzE0ZVNkaXVJYnJYMTVHbmtZQUZHVHI0WkZnZ0N2NTE2Q2VERnB6Y0lMazA1N0tiR0owY3p1UGxZVXNISDRuSVpFX3VUOXhaUXNqR3ppV3VPNWRKVWo4UEhEZ0ZFS0hTRXNBM1NDeG9jSDZUMndZMA?oc=5\" target=\"_blank\">Major highway projects could ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxFQUk4X0U0UjhZbzE0ZVNkaXVJYnJYMTVHbmtZQUZHVHI0WkZnZ0N2NTE2Q2VERnB6Y0lMazA1N0tiR0owY3p1UGxZVXNISDRuSVpFX3VUOXhaUXNqR3ppV3VPNWRKVWo4UEhEZ0ZFS0hTRXNBM1NDeG9jSDZUMndZMA?oc=5",
+      "id": "c732f44e17f0",
+      "title": "EU transport still relies on oil for 92% of its energy as tourism hits record high - Travel Tomorrow",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWU5RlVncTJDOFVGeGNYQ3MwMWJVOFJ4aWRVdElYaWVOa0xfWnp1dGFBakJDaFVjV3k1U0tkNTJ2dG05MDBySDBJTXBWY3lyNHl3Uy1yOTBzMjRHWjlpQi1PQTdBdVB1Y09TN3hQcGlXbEhIV0J6RExSM1pWZzhXSVMxaDJCZHNiZlEteDlITmRJaTUxZ09pVWp5ZjJjV1FkWlduTzFBNlNMTD",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWU5RlVncTJDOFVGeGNYQ3MwMWJVOFJ4aWRVdElYaWVOa0xfWnp1dGFBakJDaFVjV3k1U0tkNTJ2dG05MDBySDBJTXBWY3lyNHl3Uy1yOTBzMjRHWjlpQi1PQTdBdVB1Y09TN3hQcGlXbEhIV0J6RExSM1pWZzhXSVMxaDJCZHNiZlEteDlITmRJaTUxZ09pVWp5ZjJjV1FkWlduTzFBNlNMTDgza2c?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 26 Jul 2026 12:51:11 GMT",
-          "source": "Yahoo News Canada"
+          "published": "Mon, 27 Jul 2026 08:11:58 GMT",
+          "source": "Travel Tomorrow"
         }
       ]
     },
     {
-      "id": "6ee49aaa57a6",
-      "title": "Canada Updates U.S. Travel Advisory With Strict Border Entry Rules Warning - TheTravel",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjlzcnNmeWU5UmMzUldQWUNSQ3VuM1dUZXB4S3RQRDFJckM4Mmp0ZVo5Mzdpak0zWWpYc0F0NUQ5NVdRdmVUZC14ems3LVIwRGZHcllpMmZmdm5FTk5XdVloZXlXM1NGWDY3WE9zb1FfU1M3NWxVUDYyc25nWDJyUU5IZU1jMlhYQWJSbDBfOGFBZ1dMMDdLWnFtQkFrMnFPVHJsYzhfQTYxeW",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjlzcnNmeWU5UmMzUldQWUNSQ3VuM1dUZXB4S3RQRDFJckM4Mmp0ZVo5Mzdpak0zWWpYc0F0NUQ5NVdRdmVUZC14ems3LVIwRGZHcllpMmZmdm5FTk5XdVloZXlXM1NGWDY3WE9zb1FfU1M3NWxVUDYyc25nWDJyUU5IZU1jMlhYQWJSbDBfOGFBZ1dMMDdLWnFtQkFrMnFPVHJsYzhfQTYxeWstUlVzYVFn?oc=5",
+      "id": "7fee80c58275",
+      "title": "Travel + Leisure Co. (NYSE:TNL): A Quality Dividend Stock with Sustainable Yield and Solid Fundamentals - ChartMill",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYkFOY1pVT2d3azREVDRQYkhKVklsbkpYaEZWaW95YU9lMUdwa0ZlRlRUQ1pSYzlLcUdmbzRjYnJDS0hqNzkySVZ2M2djazhDN1FxdTB5ZHFxQ05hMGxZd2VwMFY2czZIM1dUUFNJU1E1cVBvdnJ5cDljd3dDTG9mTHp6S1NsNlJGSS1Ec1R3ejQxOFI1Tms1Ymp0QzFiOXB0Vy1kQ0ZCRWlXaW",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYkFOY1pVT2d3azREVDRQYkhKVklsbkpYaEZWaW95YU9lMUdwa0ZlRlRUQ1pSYzlLcUdmbzRjYnJDS0hqNzkySVZ2M2djazhDN1FxdTB5ZHFxQ05hMGxZd2VwMFY2czZIM1dUUFNJU1E1cVBvdnJ5cDljd3dDTG9mTHp6S1NsNlJGSS1Ec1R3ejQxOFI1Tms1Ymp0QzFiOXB0Vy1kQ0ZCRWlXaWtjTjVGMTBNUWxNNFdyNW9Xb0duWEVTZUVvSjc3NXlqbFJWYXFqamUtY2otRnZFbjVxVThxaQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-07-27T03:58:08+00:00",
+      "first_seen": "2026-07-27T10:07:03+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 26 Jul 2026 14:21:18 GMT",
-          "source": "TheTravel"
+          "published": "Mon, 27 Jul 2026 09:00:52 GMT",
+          "source": "ChartMill"
         }
       ]
     }
