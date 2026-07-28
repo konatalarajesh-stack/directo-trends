@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "IN",
-  "generated_at": "2026-07-28T08:57:56+00:00",
+  "generated_at": "2026-07-28T14:39:48+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
           "published": "Sat, 25 Jul 2026 14:05:07 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
           "published": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -58,7 +58,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
           "published": "Wed, 11 Mar 2026 07:00:00 GMT",
@@ -78,7 +78,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
           "published": "Fri, 26 Jun 2026 07:00:00 GMT",
@@ -98,11 +98,35 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
           "published": "Tue, 30 Jun 2026 07:00:00 GMT",
           "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "id": "81022230fd0e",
+      "title": "5 food trends driven by lifestyle shifts around the world - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQOW40Vlltbnctc1Y1bS11ckcwNmxhR0JzWmdMQXAyX1RIQlBRQUFzWTJxTW5aLXFxaUdPODV1RjE1dnp5b0xEV0l1NE4wNGc2MTdjUGlsUGlmLUlpMkFtUUY1QnloY1N3UEhlcjA4WTR6T1prNjZnZ3c4THRMM1AxbHJBQ3hhWVR0WXhZTGhKT0MyOVQtZUl6NHBDWjh3QUhZaWp2a3FWMmtGWk",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOW40Vlltbnctc1Y1bS11ckcwNmxhR0JzWmdMQXAyX1RIQlBRQUFzWTJxTW5aLXFxaUdPODV1RjE1dnp5b0xEV0l1NE4wNGc2MTdjUGlsUGlmLUlpMkFtUUY1QnloY1N3UEhlcjA4WTR6T1prNjZnZ3c4THRMM1AxbHJBQ3hhWVR0WXhZTGhKT0MyOVQtZUl6NHBDWjh3QUhZaWp2a3FWMmtGWkY5SVhvcXpn?oc=5",
+      "score": 70.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "IN",
+      "first_seen": "2026-07-28T14:30:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 01 Jul 2026 04:03:21 GMT",
+          "source": "FoodNavigator.com"
+        },
+        {
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "source": "FoodNavigator.com"
         }
       ]
     },
@@ -118,7 +142,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
           "published": "Thu, 18 Jun 2026 07:00:00 GMT",
@@ -138,7 +162,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-28T08:51:09+00:00",
+      "first_seen": "2026-07-28T14:33:11+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -148,26 +172,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "c5ed9a30800e",
-      "title": "Viral on the feed: Six food trends dominating Instagram in 2026 - t2ONLINE",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0pwWlE5d2RadERNY3ZnTUZzQVJMTHducE5ZSFdHSGRkWi1LYVNjWElvLWNnZ1RKVEpOeG5RaHNOb0JWUXpJUnloXzZfZFV5TlA0ajY3QjlLdWdlNFFscklqZjRlZk5waVgwTlI4dnVLTlBHU1hXU2NCMjJCT2ExVWlpeDgwdnRjandjVkpWQlNES3JGUE8tT0t4ZXgyaFBUY054eERoTTQtST",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0pwWlE5d2RadERNY3ZnTUZzQVJMTHducE5ZSFdHSGRkWi1LYVNjWElvLWNnZ1RKVEpOeG5RaHNOb0JWUXpJUnloXzZfZFV5TlA0ajY3QjlLdWdlNFFscklqZjRlZk5waVgwTlI4dnVLTlBHU1hXU2NCMjJCT2ExVWlpeDgwdnRjandjVkpWQlNES3JGUE8tT0t4ZXgyaFBUY054eERoTTQtSTRkcm1VSEdrWWY?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-          "source": "t2ONLINE"
-        }
-      ]
     },
     {
       "id": "f1ea2375be06",
@@ -181,7 +185,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-28T08:51:09+00:00",
+      "first_seen": "2026-07-28T14:33:11+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -193,10 +197,10 @@
       "is_global": true
     },
     {
-      "id": "283a9d6ebcae",
-      "title": "Will the beef tallow trend come to Europe? - FoodNavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbS1VQ3hLX055UEdHOF9CRTJCQ29TUU9RaWNNbmVsdFR4b2p0RDZpRE1vM0pKOVk4VFdWemtEWXlMQnNDc2NvMnAtakg1WDFMdWdNQ1ZaRVVXRlktb2xac0FfaHVrZ2FvckQ3T09iLXhXTy1UQU9jNzVwOTBsR1d6MGZSTHlrNHNx?oc=5\" target=\"_blank\">Will the beef tallow tr",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbS1VQ3hLX055UEdHOF9CRTJCQ29TUU9RaWNNbmVsdFR4b2p0RDZpRE1vM0pKOVk4VFdWemtEWXlMQnNDc2NvMnAtakg1WDFMdWdNQ1ZaRVVXRlktb2xac0FfaHVrZ2FvckQ3T09iLXhXTy1UQU9jNzVwOTBsR1d6MGZSTHlrNHNx?oc=5",
+      "id": "c5ed9a30800e",
+      "title": "Viral on the feed: Six food trends dominating Instagram in 2026 - t2ONLINE",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0pwWlE5d2RadERNY3ZnTUZzQVJMTHducE5ZSFdHSGRkWi1LYVNjWElvLWNnZ1RKVEpOeG5RaHNOb0JWUXpJUnloXzZfZFV5TlA0ajY3QjlLdWdlNFFscklqZjRlZk5waVgwTlI4dnVLTlBHU1hXU2NCMjJCT2ExVWlpeDgwdnRjandjVkpWQlNES3JGUE8tT0t4ZXgyaFBUY054eERoTTQtST",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0pwWlE5d2RadERNY3ZnTUZzQVJMTHducE5ZSFdHSGRkWi1LYVNjWElvLWNnZ1RKVEpOeG5RaHNOb0JWUXpJUnloXzZfZFV5TlA0ajY3QjlLdWdlNFFscklqZjRlZk5waVgwTlI4dnVLTlBHU1hXU2NCMjJCT2ExVWlpeDgwdnRjandjVkpWQlNES3JGUE8tT0t4ZXgyaFBUY054eERoTTQtSTRkcm1VSEdrWWY?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -204,11 +208,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 24 Jul 2026 14:13:36 GMT",
-          "source": "FoodNavigator.com"
+          "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+          "source": "t2ONLINE"
         }
       ]
     },
@@ -224,7 +228,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-28T08:51:09+00:00",
+      "first_seen": "2026-07-28T14:33:11+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -247,7 +251,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-28T08:51:09+00:00",
+      "first_seen": "2026-07-28T14:33:11+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -257,30 +261,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "81022230fd0e",
-      "title": "5 food trends driven by lifestyle shifts around the world - FoodNavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQOW40Vlltbnctc1Y1bS11ckcwNmxhR0JzWmdMQXAyX1RIQlBRQUFzWTJxTW5aLXFxaUdPODV1RjE1dnp5b0xEV0l1NE4wNGc2MTdjUGlsUGlmLUlpMkFtUUY1QnloY1N3UEhlcjA4WTR6T1prNjZnZ3c4THRMM1AxbHJBQ3hhWVR0WXhZTGhKT0MyOVQtZUl6NHBDWjh3QUhZaWp2a3FWMmtGWk",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOW40Vlltbnctc1Y1bS11ckcwNmxhR0JzWmdMQXAyX1RIQlBRQUFzWTJxTW5aLXFxaUdPODV1RjE1dnp5b0xEV0l1NE4wNGc2MTdjUGlsUGlmLUlpMkFtUUY1QnloY1N3UEhlcjA4WTR6T1prNjZnZ3c4THRMM1AxbHJBQ3hhWVR0WXhZTGhKT0MyOVQtZUl6NHBDWjh3QUhZaWp2a3FWMmtGWkY5SVhvcXpn?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 01 Jul 2026 04:03:21 GMT",
-          "source": "FoodNavigator.com"
-        },
-        {
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "source": "FoodNavigator.com"
-        }
-      ]
     },
     {
       "id": "deacf3eb8911",
@@ -294,7 +274,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
           "published": "Wed, 01 Jul 2026 07:00:00 GMT",
@@ -314,7 +294,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-28T08:51:09+00:00",
+      "first_seen": "2026-07-28T14:33:11+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -326,10 +306,10 @@
       "is_global": true
     },
     {
-      "id": "cb1438eafe27",
-      "title": "Affordable Grocer Meal Campaigns - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8yQldGOXlvM3J5X2xmWGNKQWM5aXR5YWI3QVI4dmc1TGhza3FqYXBhN3h6OEstSGVSTWNSUWhCekdza2F0aGxucFZFckNqV3I1QUs2RGx1d19sdVRHNy1WelhSS2U5RVFXNklOTtIBckFVX3lxTE9rQllsbklYVlhxUWZGSy1abC1wbnE0akczS0pWaDM4TEtYVTFhdmN5Q0FNSTRRQlpwYklCbG",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yQldGOXlvM3J5X2xmWGNKQWM5aXR5YWI3QVI4dmc1TGhza3FqYXBhN3h6OEstSGVSTWNSUWhCekdza2F0aGxucFZFckNqV3I1QUs2RGx1d19sdVRHNy1WelhSS2U5RVFXNklOTtIBckFVX3lxTE9rQllsbklYVlhxUWZGSy1abC1wbnE0akczS0pWaDM4TEtYVTFhdmN5Q0FNSTRRQlpwYklCbGs0Szg4SERXT2VIMnBXM2pjSVlxQmZOekFESDhlemNVR3hZOWtMLUZRcE82b2hhX1E5V2s3QQ?oc=5",
+      "id": "6daf5140d8bb",
+      "title": "Food Trends 2026: What's Driving the Organic Sector - BIOFACH",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2xBSjNSenJmOE1LbmZnYldIc0RMX0RteWY0bW01TGRtRXEzQ3B2c0s0ZUZFbWVCWFZCWnY4N0hJaGlmQUpTSGVGSWROaDVSZVdDNzJfaUU2Zm0zVWptS2plaUVZTzR3Tk05dVlZclRSU3htVnp2TnBDdEROVERjX3hRc2o5UzVLZzJwNVFYUzZqTUNMVHNVdHVRN2JYY1FuMUg5T0dNYmw?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2xBSjNSenJmOE1LbmZnYldIc0RMX0RteWY0bW01TGRtRXEzQ3B2c0s0ZUZFbWVCWFZCWnY4N0hJaGlmQUpTSGVGSWROaDVSZVdDNzJfaUU2Zm0zVWptS2plaUVZTzR3Tk05dVlZclRSU3htVnp2TnBDdEROVERjX3hRc2o5UzVLZzJwNVFYUzZqTUNMVHNVdHVRN2JYY1FuMUg5T0dNYmw?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -337,11 +317,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 27 Jul 2026 21:42:52 GMT",
-          "source": "Trend Hunter"
+          "published": "Sun, 31 May 2026 07:00:00 GMT",
+          "source": "BIOFACH"
         }
       ]
     },
@@ -357,7 +337,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-28T08:51:09+00:00",
+      "first_seen": "2026-07-28T14:33:11+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -367,6 +347,30 @@
         }
       ],
       "is_global": true
+    },
+    {
+      "id": "3af83481343d",
+      "title": "Trends in Food Science & Technology | Vol 170, April 2026 - ScienceDirect.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ2QnFZcGdDZ1U5QzNiMlNHM1BUc3dzdWM0N2JCVmtoUG9ZYV9CSGhCX216RjhnZmNIYjdBeG9ydzlXcFFDRS1xWkE2c1ctcWE0WllvSE1ib2l4WXR2eEVTQ080dC1uUmtuSW93NHN0c1J4LXZQX0pUdjlYcERPZVppSXNJd0h3RWtYNzE5MjVhVE10bkE?oc=5\" target=\"_blank\">Tren",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ2QnFZcGdDZ1U5QzNiMlNHM1BUc3dzdWM0N2JCVmtoUG9ZYV9CSGhCX216RjhnZmNIYjdBeG9ydzlXcFFDRS1xWkE2c1ctcWE0WllvSE1ib2l4WXR2eEVTQ080dC1uUmtuSW93NHN0c1J4LXZQX0pUdjlYcERPZVppSXNJd0h3RWtYNzE5MjVhVE10bkE?oc=5",
+      "score": 48.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "IN",
+      "first_seen": "2026-07-28T14:30:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 29 Jan 2026 04:20:05 GMT",
+          "source": "ScienceDirect.com"
+        },
+        {
+          "published": "Thu, 04 Jun 2026 14:59:59 GMT",
+          "source": "ScienceDirect.com"
+        }
+      ]
     },
     {
       "id": "2cad7465344c",
@@ -380,7 +384,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-28T08:51:09+00:00",
+      "first_seen": "2026-07-28T14:33:11+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -392,10 +396,10 @@
       "is_global": true
     },
     {
-      "id": "3af83481343d",
-      "title": "Trends in Food Science & Technology | Vol 170, April 2026 - ScienceDirect.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ2QnFZcGdDZ1U5QzNiMlNHM1BUc3dzdWM0N2JCVmtoUG9ZYV9CSGhCX216RjhnZmNIYjdBeG9ydzlXcFFDRS1xWkE2c1ctcWE0WllvSE1ib2l4WXR2eEVTQ080dC1uUmtuSW93NHN0c1J4LXZQX0pUdjlYcERPZVppSXNJd0h3RWtYNzE5MjVhVE10bkE?oc=5\" target=\"_blank\">Tren",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ2QnFZcGdDZ1U5QzNiMlNHM1BUc3dzdWM0N2JCVmtoUG9ZYV9CSGhCX216RjhnZmNIYjdBeG9ydzlXcFFDRS1xWkE2c1ctcWE0WllvSE1ib2l4WXR2eEVTQ080dC1uUmtuSW93NHN0c1J4LXZQX0pUdjlYcERPZVppSXNJd0h3RWtYNzE5MjVhVE10bkE?oc=5",
+      "id": "cbcb4b98934d",
+      "title": "Expo West 2026: A New Era of Functional, Clean, and Metabolic Nutrition - NIQ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0ZkNk5fUzhYR2VNQ2EtOWxtcHFLZjZFV0VzdUFFWnhFYnVrdWhEVTBNYXBRc1ZUREFFLUxTUENlak1XN1BOQXptdEI0X0ZFNFk1ODYyWVhkc2R6a2dzdWZLNS1nUnViNV96enM0REQxbGhWRmV0ejltSllxQ0Q0cDA5WQ?oc=5\" target=\"_blank\">Expo West 2026: A New Era of ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0ZkNk5fUzhYR2VNQ2EtOWxtcHFLZjZFV0VzdUFFWnhFYnVrdWhEVTBNYXBRc1ZUREFFLUxTUENlak1XN1BOQXptdEI0X0ZFNFk1ODYyWVhkc2R6a2dzdWZLNS1nUnViNV96enM0REQxbGhWRmV0ejltSllxQ0Q0cDA5WQ?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -403,35 +407,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 29 Jan 2026 04:20:05 GMT",
-          "source": "ScienceDirect.com"
-        },
-        {
-          "published": "Thu, 04 Jun 2026 14:59:59 GMT",
-          "source": "ScienceDirect.com"
-        }
-      ]
-    },
-    {
-      "id": "6daf5140d8bb",
-      "title": "Food Trends 2026: What's Driving the Organic Sector - BIOFACH",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2xBSjNSenJmOE1LbmZnYldIc0RMX0RteWY0bW01TGRtRXEzQ3B2c0s0ZUZFbWVCWFZCWnY4N0hJaGlmQUpTSGVGSWROaDVSZVdDNzJfaUU2Zm0zVWptS2plaUVZTzR3Tk05dVlZclRSU3htVnp2TnBDdEROVERjX3hRc2o5UzVLZzJwNVFYUzZqTUNMVHNVdHVRN2JYY1FuMUg5T0dNYmw?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2xBSjNSenJmOE1LbmZnYldIc0RMX0RteWY0bW01TGRtRXEzQ3B2c0s0ZUZFbWVCWFZCWnY4N0hJaGlmQUpTSGVGSWROaDVSZVdDNzJfaUU2Zm0zVWptS2plaUVZTzR3Tk05dVlZclRSU3htVnp2TnBDdEROVERjX3hRc2o5UzVLZzJwNVFYUzZqTUNMVHNVdHVRN2JYY1FuMUg5T0dNYmw?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 31 May 2026 07:00:00 GMT",
-          "source": "BIOFACH"
+          "published": "Mon, 09 Mar 2026 16:58:53 GMT",
+          "source": "NIQ"
         }
       ]
     },
@@ -447,7 +427,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-07-28T08:51:09+00:00",
+      "first_seen": "2026-07-28T14:33:11+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -459,10 +439,10 @@
       "is_global": true
     },
     {
-      "id": "cbcb4b98934d",
-      "title": "Expo West 2026: A New Era of Functional, Clean, and Metabolic Nutrition - NIQ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0ZkNk5fUzhYR2VNQ2EtOWxtcHFLZjZFV0VzdUFFWnhFYnVrdWhEVTBNYXBRc1ZUREFFLUxTUENlak1XN1BOQXptdEI0X0ZFNFk1ODYyWVhkc2R6a2dzdWZLNS1nUnViNV96enM0REQxbGhWRmV0ejltSllxQ0Q0cDA5WQ?oc=5\" target=\"_blank\">Expo West 2026: A New Era of ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0ZkNk5fUzhYR2VNQ2EtOWxtcHFLZjZFV0VzdUFFWnhFYnVrdWhEVTBNYXBRc1ZUREFFLUxTUENlak1XN1BOQXptdEI0X0ZFNFk1ODYyWVhkc2R6a2dzdWZLNS1nUnViNV96enM0REQxbGhWRmV0ejltSllxQ0Q0cDA5WQ?oc=5",
+      "id": "263739db055d",
+      "title": "India’s Plant-Based Culinary Power Shapes Global Food Trends - SIAL Network",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSEJtejNaUjFVRFpQZnEtd0dGLUM5OGo1cWJYdDZkdzl2YUh5ckk0OVctN1RYMDA3LXVvbEc0cDkzaFhLN0FwVlpwOGNYSWVaRUxQbC1Pb3R4NVNlcDhpSFdIaDVSbE1lSWIxUENHVFlBNEpuYzlrQVVQc0NheTA?oc=5\" target=\"_blank\">India’s Plant-Based Culinary Power S",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSEJtejNaUjFVRFpQZnEtd0dGLUM5OGo1cWJYdDZkdzl2YUh5ckk0OVctN1RYMDA3LXVvbEc0cDkzaFhLN0FwVlpwOGNYSWVaRUxQbC1Pb3R4NVNlcDhpSFdIaDVSbE1lSWIxUENHVFlBNEpuYzlrQVVQc0NheTA?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -470,11 +450,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 09 Mar 2026 16:58:53 GMT",
-          "source": "NIQ"
+          "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+          "source": "SIAL Network"
         }
       ]
     },
@@ -490,7 +470,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
           "published": "Wed, 08 Jul 2026 07:00:00 GMT",
@@ -499,10 +479,10 @@
       ]
     },
     {
-      "id": "263739db055d",
-      "title": "India’s Plant-Based Culinary Power Shapes Global Food Trends - SIAL Network",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSEJtejNaUjFVRFpQZnEtd0dGLUM5OGo1cWJYdDZkdzl2YUh5ckk0OVctN1RYMDA3LXVvbEc0cDkzaFhLN0FwVlpwOGNYSWVaRUxQbC1Pb3R4NVNlcDhpSFdIaDVSbE1lSWIxUENHVFlBNEpuYzlrQVVQc0NheTA?oc=5\" target=\"_blank\">India’s Plant-Based Culinary Power S",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSEJtejNaUjFVRFpQZnEtd0dGLUM5OGo1cWJYdDZkdzl2YUh5ckk0OVctN1RYMDA3LXVvbEc0cDkzaFhLN0FwVlpwOGNYSWVaRUxQbC1Pb3R4NVNlcDhpSFdIaDVSbE1lSWIxUENHVFlBNEpuYzlrQVVQc0NheTA?oc=5",
+      "id": "eda4e446abba",
+      "title": "Global Food Trends May 2026: Protein, beverages & snacks trends - Innova Market Insights",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE93TmYtX3JoVDA1Zk5WVkpYZzJiQkc4SE1qRW9BcTVKQmViT2JlQ2pjdzh5N2RrSUtKbFN0bnJneFU0ZEVzZkFlRUlFR2doeVdxQUxzNS0tM2FHM2N4b19WaHpsMS12aWItcG9LZDN0TmdPS2dsQm5fM3ZQRms?oc=5\" target=\"_blank\">Global Food Trends May 2026: Protein, be",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93TmYtX3JoVDA1Zk5WVkpYZzJiQkc4SE1qRW9BcTVKQmViT2JlQ2pjdzh5N2RrSUtKbFN0bnJneFU0ZEVzZkFlRUlFR2doeVdxQUxzNS0tM2FHM2N4b19WaHpsMS12aWItcG9LZDN0TmdPS2dsQm5fM3ZQRms?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -510,19 +490,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-          "source": "SIAL Network"
+          "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+          "source": "Innova Market Insights"
         }
       ]
     },
     {
-      "id": "eda4e446abba",
-      "title": "Global Food Trends May 2026: Protein, beverages & snacks trends - Innova Market Insights",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE93TmYtX3JoVDA1Zk5WVkpYZzJiQkc4SE1qRW9BcTVKQmViT2JlQ2pjdzh5N2RrSUtKbFN0bnJneFU0ZEVzZkFlRUlFR2doeVdxQUxzNS0tM2FHM2N4b19WaHpsMS12aWItcG9LZDN0TmdPS2dsQm5fM3ZQRms?oc=5\" target=\"_blank\">Global Food Trends May 2026: Protein, be",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93TmYtX3JoVDA1Zk5WVkpYZzJiQkc4SE1qRW9BcTVKQmViT2JlQ2pjdzh5N2RrSUtKbFN0bnJneFU0ZEVzZkFlRUlFR2doeVdxQUxzNS0tM2FHM2N4b19WaHpsMS12aWItcG9LZDN0TmdPS2dsQm5fM3ZQRms?oc=5",
+      "id": "06c1aa45b6f2",
+      "title": "Top Five Trends Shaping Staple Foods into 2026 - Euromonitor",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQa00yV1FnVnBISUFvMzlHN1dBOXY4ZXlHaHVFci1wc3dzaU1BLW5FRXVFQlNtSTZtSkJBTThMMjBZVGNHQ1RoZjc4bE9leXAtYmk1Y2lmS2EyUFNodk9HUkQxV21DTDVpWUdQMzF2VTRCUUFVUFo2YThiZFNoeFVVOXJRNmpDdEx2dVE?oc=5\" target=\"_blank\">Top Five Trends Shap",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa00yV1FnVnBISUFvMzlHN1dBOXY4ZXlHaHVFci1wc3dzaU1BLW5FRXVFQlNtSTZtSkJBTThMMjBZVGNHQ1RoZjc4bE9leXAtYmk1Y2lmS2EyUFNodk9HUkQxV21DTDVpWUdQMzF2VTRCUUFVUFo2YThiZFNoeFVVOXJRNmpDdEx2dVE?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -530,11 +510,31 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-07-28T08:48:54+00:00",
+      "first_seen": "2026-07-28T14:30:54+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-          "source": "Innova Market Insights"
+          "published": "Wed, 28 Jan 2026 08:00:00 GMT",
+          "source": "Euromonitor"
+        }
+      ]
+    },
+    {
+      "id": "e3554f1f6443",
+      "title": "7 Trends That Will Dominate The Culinary World In 2026, As Per The Michelin Guide - NDTV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPT19XSk9RZHhpWGFvczdCQUswOU1obG1QSHo4emNwUVJhbG9ndTJfR2tQX3FBaENSVTdmNmxlbmNLZWVyQXFUTkZCN0RhNUcySXRHVTNiczVHbkx0NENKYWZEdHVIOTBIWjZiUlEza3E3SDEwWkV3ZGxER1ppS2pUN3ByWFpwRVRkbjl3SGJVcmluOWJUNVJRWWVUalBXZ29OTENkSks4N1paS1",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT19XSk9RZHhpWGFvczdCQUswOU1obG1QSHo4emNwUVJhbG9ndTJfR2tQX3FBaENSVTdmNmxlbmNLZWVyQXFUTkZCN0RhNUcySXRHVTNiczVHbkx0NENKYWZEdHVIOTBIWjZiUlEza3E3SDEwWkV3ZGxER1ppS2pUN3ByWFpwRVRkbjl3SGJVcmluOWJUNVJRWWVUalBXZ29OTENkSks4N1paS1F1OHRaa2cteE5YSW9BZUHSAcIBQVVfeXFMUExPUG1KWE9nS080WFlFMHdBMG56WXI1TjRtWU1xUlB3NHB5NjF1ZVhtcENVVjM2MlE3Zzl6aXB3ZmJTcjV6WjE3TTBqdE54X2hVX2Zpd09RejA3ZW9SYVdoNzdtXzBST1hVc2p0SUZQd01YN0VJOVltR0RlTlY5ejdsYnBtdXllNDhoX0FiWG13Y2FoeHV4Qks1REgxbW8zeWwwZlRwMjlWSkFNVmpucnRqYXlGRE5ZNFNMWUhPTVZnTGc?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "IN",
+      "first_seen": "2026-07-28T14:30:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 26 Jan 2026 08:00:00 GMT",
+          "source": "NDTV"
         }
       ]
     }
