@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "IN",
-  "generated_at": "2026-07-30T14:37:03+00:00",
+  "generated_at": "2026-07-30T19:56:04+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
       "id": "7d8884fbfdc7",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
           "published": "Thu, 30 Jul 2026 05:35:00 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "d274e2dc2d3d",
-      "title": "Air India launches Easy Connect service from Amritsar to 27 global destinations - News On AIR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTlvQm43SVVBSS1sR1dha2ZOamp6UEJ0b1N5YnhKRkJHeks0Q2plSEtMUk84QXZRcFQ1RGZ6Q2dHcjNQMDBFbDdPaE8xQnhmLXY4clRxYTF5aGJHSmxId2FXbFNseWJ1NWZnVFB0S1M5TDl6UnAyNnI0Q3pxNW5Sd2hpNVJIVmIwaVF6LUZ6QXU3Uk1wVDlBalBDM012YnQ1S0NpZmlYdUM?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTlvQm43SVVBSS1sR1dha2ZOamp6UEJ0b1N5YnhKRkJHeks0Q2plSEtMUk84QXZRcFQ1RGZ6Q2dHcjNQMDBFbDdPaE8xQnhmLXY4clRxYTF5aGJHSmxId2FXbFNseWJ1NWZnVFB0S1M5TDl6UnAyNnI0Q3pxNW5Sd2hpNVJIVmIwaVF6LUZ6QXU3Uk1wVDlBalBDM012YnQ1S0NpZmlYdUM?oc=5",
+      "id": "2d061805bd38",
+      "title": "Queer Travel In Spain: Why Andalusia Stole My Heart - Gaysi",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHNCb1JEalkza0p5Q1NyX19vd1dnMHVfTHZEWXBIc0lBRmdaMEJjLXVydWQ0cG9LV3RoT0F5cjNvQ1M0dUZldEhxR3dIMVdxMzlpMUZzbU5zd0VFZHp2V1A0ZXpaQmJkbWpFS3ZfY2J5bkNCLTRiNkZiSjFaRjBLWGh6Wmowc1Q3NDRWMnpB?oc=5\" target=\"_blank\">Queer Travel In",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHNCb1JEalkza0p5Q1NyX19vd1dnMHVfTHZEWXBIc0lBRmdaMEJjLXVydWQ0cG9LV3RoT0F5cjNvQ1M0dUZldEhxR3dIMVdxMzlpMUZzbU5zd0VFZHp2V1A0ZXpaQmJkbWpFS3ZfY2J5bkNCLTRiNkZiSjFaRjBLWGh6Wmowc1Q3NDRWMnpB?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,11 +38,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 13:54:10 GMT",
-          "source": "News On AIR"
+          "published": "Thu, 30 Jul 2026 13:01:28 GMT",
+          "source": "Gaysi"
+        }
+      ]
+    },
+    {
+      "id": "1945c0c38958",
+      "title": "Time is the new luxury in travel: Why more travelers are staying closer to home - Zurich Insurance Group",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9jT3JKbDFSa3QtSEdpNDhNQ3d5dmNTS3NZak93TE42RFZfVk1LNzdqcE55Yk1kc1dPekU1ZGtQSmM0cXVpYW1FMWdMb3UyRHhZM1kwdkt5OHRqX2xHMzlCcnZqNkRNamFXSXN3NE15eUtoRE0xV1Jiai1vYw?oc=5\" target=\"_blank\">Time is the new luxury in travel: Why mor",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jT3JKbDFSa3QtSEdpNDhNQ3d5dmNTS3NZak93TE42RFZfVk1LNzdqcE55Yk1kc1dPekU1ZGtQSmM0cXVpYW1FMWdMb3UyRHhZM1kwdkt5OHRqX2xHMzlCcnZqNkRNamFXSXN3NE15eUtoRE0xV1Jiai1vYw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-07-30T19:47:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 30 Jul 2026 14:52:38 GMT",
+          "source": "Zurich Insurance Group"
         }
       ]
     },
@@ -51,14 +71,14 @@
       "title": "These 5 travel habits can protect nature while making your holiday more meaningful - Condé Nast Traveller India",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQenlBODlwNmRWdGFZRGFsaEcxUEpMUU1tTjhuNTBuNS1QRkZFR1JMdlQ3U1dPWkhQallLVS00Z3pTVnVrRm9aYkRiVjh3UWpYT0RpcjZWYko2NDdoU1pUd1dRRXJ1THJkbTh4X1hzbS1ZQjFHUU1zSW56ZWpaajRJYnhmaVdyWENqX2RrbGVCRFZ3eUhSdVl5cHpraVJvTmhQdlBtVHJFUDNkZX",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenlBODlwNmRWdGFZRGFsaEcxUEpMUU1tTjhuNTBuNS1QRkZFR1JMdlQ3U1dPWkhQallLVS00Z3pTVnVrRm9aYkRiVjh3UWpYT0RpcjZWYko2NDdoU1pUd1dRRXJ1THJkbTh4X1hzbS1ZQjFHUU1zSW56ZWpaajRJYnhmaVdyWENqX2RrbGVCRFZ3eUhSdVl5cHpraVJvTmhQdlBtVHJFUDNkZXc2d2dMSkRyQVh5VzA?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
           "published": "Thu, 30 Jul 2026 05:30:00 GMT",
@@ -67,10 +87,10 @@
       ]
     },
     {
-      "id": "d364b7851577",
-      "title": "Rs 58 Crore Tourism Push Planned For Kupwara’s Border Destinations, Centre tells Rajya Sabha - Kashmir Life",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWt0OVVtaHdnejNlZjJfN0cyWWIxT2R3M3o2RWZTOXFLRzg1MFdhRFh1VTdzQ2RMcTd5SDhwVFMwdTFmWXNWWHA1aHdiaWJhVmNCZTJrNHRXbW1HOTgySF96TGRHV1YwZmFMU0RCcnFJS0JWdERQUVg0ZzZQeEhlaTlUX2VhTFcxZzhVckpEZlRxR3V0Y2dtUzZmODM0Y3YzRVRabFctRFBxY0",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWt0OVVtaHdnejNlZjJfN0cyWWIxT2R3M3o2RWZTOXFLRzg1MFdhRFh1VTdzQ2RMcTd5SDhwVFMwdTFmWXNWWHA1aHdiaWJhVmNCZTJrNHRXbW1HOTgySF96TGRHV1YwZmFMU0RCcnFJS0JWdERQUVg0ZzZQeEhlaTlUX2VhTFcxZzhVckpEZlRxR3V0Y2dtUzZmODM0Y3YzRVRabFctRFBxY0JDS0psMEIzSmNSdW1kbTZUX2xBVQ?oc=5",
+      "id": "d274e2dc2d3d",
+      "title": "Air India launches Easy Connect service from Amritsar to 27 global destinations - News On AIR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTlvQm43SVVBSS1sR1dha2ZOamp6UEJ0b1N5YnhKRkJHeks0Q2plSEtMUk84QXZRcFQ1RGZ6Q2dHcjNQMDBFbDdPaE8xQnhmLXY4clRxYTF5aGJHSmxId2FXbFNseWJ1NWZnVFB0S1M5TDl6UnAyNnI0Q3pxNW5Sd2hpNVJIVmIwaVF6LUZ6QXU3Uk1wVDlBalBDM012YnQ1S0NpZmlYdUM?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTlvQm43SVVBSS1sR1dha2ZOamp6UEJ0b1N5YnhKRkJHeks0Q2plSEtMUk84QXZRcFQ1RGZ6Q2dHcjNQMDBFbDdPaE8xQnhmLXY4clRxYTF5aGJHSmxId2FXbFNseWJ1NWZnVFB0S1M5TDl6UnAyNnI0Q3pxNW5Sd2hpNVJIVmIwaVF6LUZ6QXU3Uk1wVDlBalBDM012YnQ1S0NpZmlYdUM?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -78,19 +98,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 12:53:52 GMT",
-          "source": "Kashmir Life"
+          "published": "Thu, 30 Jul 2026 13:54:10 GMT",
+          "source": "News On AIR"
         }
       ]
     },
     {
-      "id": "470c09e5e676",
-      "title": "WTM Spotlight Riyadh to highlight tourism resilience and strengthen global industry partnerships - World Travel Market Events",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0dCbTE0U21SNlQwTl9XRHBPWXhVelo2dW5uZ1U3dEZDYzZhVzFVa3Z6UUFpMEkwN3QwaHNLY0IxNE05ZFVnOGFwc1Q2UkdHZmRYQnpCTlBDZVFzV2NkN1o2dlB0ZTE1NF9vWHhyTVEtb3VUUjF6OUN6QWZzdC1RZUlVTXdWU0xLYlRsSjVVbEJub2p5aTJUSFdsdV84S2xiQWUzSVpR?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0dCbTE0U21SNlQwTl9XRHBPWXhVelo2dW5uZ1U3dEZDYzZhVzFVa3Z6UUFpMEkwN3QwaHNLY0IxNE05ZFVnOGFwc1Q2UkdHZmRYQnpCTlBDZVFzV2NkN1o2dlB0ZTE1NF9vWHhyTVEtb3VUUjF6OUN6QWZzdC1RZUlVTXdWU0xLYlRsSjVVbEJub2p5aTJUSFdsdV84S2xiQWUzSVpR?oc=5",
+      "id": "5c493991920b",
+      "title": "Centre unveils Rs 58 crore Tourism plan for Kupwara - Rising Kashmir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmdlRTRSaWh6VXBZVTYtQ040d0h6THpxcWFzdFVUZ1FjZWZoSW9sN0k5WnJMYndNcllJcERtOTlzWWpzNHZqZXBfUlpGN2s3dzV0Yzg4Q2p3ZXgwZXdxTTlhYTBuaUk5OW9rZGZ5dzdXcDRFTXVIYnhfLV9vRU9rUEp0MFVkb3NycmhKZUZCT2haVUVrMlJySVV5RVNWeW42RG9hcl9VRW9MZW",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmdlRTRSaWh6VXBZVTYtQ040d0h6THpxcWFzdFVUZ1FjZWZoSW9sN0k5WnJMYndNcllJcERtOTlzWWpzNHZqZXBfUlpGN2s3dzV0Yzg4Q2p3ZXgwZXdxTTlhYTBuaUk5OW9rZGZ5dzdXcDRFTXVIYnhfLV9vRU9rUEp0MFVkb3NycmhKZUZCT2haVUVrMlJySVV5RVNWeW42RG9hcl9VRW9MZWlXLU05UHZ6UXhmd0dy?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -98,19 +118,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 13:17:57 GMT",
-          "source": "World Travel Market Events"
+          "published": "Thu, 30 Jul 2026 18:30:37 GMT",
+          "source": "Rising Kashmir"
         }
       ]
     },
     {
-      "id": "c768758bb398",
-      "title": "Queer Travel In Spain: Why Andalusia Stole My Heart - Gaysi Family",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHNCb1JEalkza0p5Q1NyX19vd1dnMHVfTHZEWXBIc0lBRmdaMEJjLXVydWQ0cG9LV3RoT0F5cjNvQ1M0dUZldEhxR3dIMVdxMzlpMUZzbU5zd0VFZHp2V1A0ZXpaQmJkbWpFS3ZfY2J5bkNCLTRiNkZiSjFaRjBLWGh6Wmowc1Q3NDRWMnpB?oc=5\" target=\"_blank\">Queer Travel In",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHNCb1JEalkza0p5Q1NyX19vd1dnMHVfTHZEWXBIc0lBRmdaMEJjLXVydWQ0cG9LV3RoT0F5cjNvQ1M0dUZldEhxR3dIMVdxMzlpMUZzbU5zd0VFZHp2V1A0ZXpaQmJkbWpFS3ZfY2J5bkNCLTRiNkZiSjFaRjBLWGh6Wmowc1Q3NDRWMnpB?oc=5",
+      "id": "6e31f911745f",
+      "title": "Centre committed to develop unexplored tourist destinations in Kupwara: Shekhawat informs Rajya Sabha - Kashmir News Observer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUjNqcExmSmpscjB1QUp2UDdkbnhhUm1HMGpfbHpKWDVoZmFZQ09GQTl5V0pOdUZLYlhleXBqYlRvRzdfNTl2eUxpR0Ftb3YyV0tuSVlPUXBDbHc4SDMzeXJWNUlXNTVPZ1BCdi1lSDJnbER2X0pqWGxxNFhIUWpJME5NT2xoTi0xWU1xM21XQ3hIM0JTeEkwNXdWd3RXNk1BZFYtVWhHUmRIY0",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUjNqcExmSmpscjB1QUp2UDdkbnhhUm1HMGpfbHpKWDVoZmFZQ09GQTl5V0pOdUZLYlhleXBqYlRvRzdfNTl2eUxpR0Ftb3YyV0tuSVlPUXBDbHc4SDMzeXJWNUlXNTVPZ1BCdi1lSDJnbER2X0pqWGxxNFhIUWpJME5NT2xoTi0xWU1xM21XQ3hIM0JTeEkwNXdWd3RXNk1BZFYtVWhHUmRIY0V5SzI0YVhaOUVORnlOY2hwVGdIazZKNHAyQVo0SjRJekJlMG9PN0F1OERJUkVJeTk2THRPSnp6SVhkS283ZlBBXzAzTlE?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -118,31 +138,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 12:46:45 GMT",
-          "source": "Gaysi Family"
-        }
-      ]
-    },
-    {
-      "id": "d8b81020457a",
-      "title": "84% Indians prioritise culture-led travel within India: Skyscanner Report - Travel Trends Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGtjRHVQblJhUnloVEoxbDF5cTZnZTAyQUN1aTROQ0swTEpXNkQ5MXU1SE44cWswVnFaQmp2VVZTYXZOc25RMG1FZmktdTRaQURnTVhVRVdfMU1OVjctTE5NanBvNnI2WkdLSkI3MTNJenFGOXZvemV2MzdOQ1pfQmE5U2tQeXdmYjZxMy1FbGdqNlpRSkJlUlIwVEtmS3pjNkZYVFpIbw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGtjRHVQblJhUnloVEoxbDF5cTZnZTAyQUN1aTROQ0swTEpXNkQ5MXU1SE44cWswVnFaQmp2VVZTYXZOc25RMG1FZmktdTRaQURnTVhVRVdfMU1OVjctTE5NanBvNnI2WkdLSkI3MTNJenFGOXZvemV2MzdOQ1pfQmE5U2tQeXdmYjZxMy1FbGdqNlpRSkJlUlIwVEtmS3pjNkZYVFpIbw?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 30 Jul 2026 12:13:21 GMT",
-          "source": "Travel Trends Today"
+          "published": "Thu, 30 Jul 2026 16:09:51 GMT",
+          "source": "Kashmir News Observer"
         }
       ]
     },
@@ -151,62 +151,18 @@
       "title": "TMC MP Abhishek Banerjee moves Supreme Court seeking permission to travel abroad for eye treatment - The Hindu",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQU0RXR3hMWUhpYzJ4dk9adFlRWGMwRXR0S1RJX1RLYjg3SmJFNGVoSjJ0aEJOZGVkZC1sNkhFcFBHNGR5SzRlQXVoblk5ejlGcWJqYVY1UXNROUE3b3ByaXkwUGRvZW5PVldWYXpDRGFUZXBRTFhwcWtsV1NGNjRDanlMMUtqanR5RTUxVGZjckNZWkg4UDBfSTV3OG5MMnlVSzJDZ2FkQzNTSF",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQU0RXR3hMWUhpYzJ4dk9adFlRWGMwRXR0S1RJX1RLYjg3SmJFNGVoSjJ0aEJOZGVkZC1sNkhFcFBHNGR5SzRlQXVoblk5ejlGcWJqYVY1UXNROUE3b3ByaXkwUGRvZW5PVldWYXpDRGFUZXBRTFhwcWtsV1NGNjRDanlMMUtqanR5RTUxVGZjckNZWkg4UDBfSTV3OG5MMnlVSzJDZ2FkQzNTSFVFRjhMOHlHMGdyaDhaUXA2a3JPRFpIUkRGRFhSTDZLd0xXYUNXNW5QZVlEa0RrclJ5Q2hWM2xabWxuYzFnR0RyY19jbWhZS0lIUkpLalRkcUROZ9IBhAJBVV95cUxQMFViSmhEM3Vva2VnQzRIb0RBVUx0MHZuYXRGdkZsOEhvbVVuNHZ1dGcwVDlndnY3R3lmU05ZOUxpNWE2akhDZkY0V2dnOTlWYWFGNHVoR0lrRDI5UWN1dTVWS1I5MFRKU1ZaX0MtOE14ZkRRdUhYc0oya0J1ZnZzY3hrcXBRSWtqakRlMnFjcjZhYThQVXJERW8yZkZER1ZjRGJLSVFxZXdKREhYcWVYOEtXQlU3R1EycDltbnVmY1ZCTGVLelFyTWdRcTZYVEFfWmh6R24zaC1URTJpMlRhemkwczhPSEJ4aldiMjN3SUZqRm1OeC01MktUcFk3Mnk3WDEtUw?oc=5",
-      "score": 61.2,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
           "published": "Thu, 30 Jul 2026 08:52:53 GMT",
           "source": "The Hindu"
-        },
-        {
-          "published": "Thu, 30 Jul 2026 09:08:55 GMT",
-          "source": "ETV Bharat"
-        }
-      ]
-    },
-    {
-      "id": "fee72082384a",
-      "title": "CzechTourism Builds Regional Travel Trade Partnerships Across India - Everything Experiential",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUhKcWVoa3JFWlJmallVRVVXZ29XQm1td2VfYXdZdnVaR2U1anpzdnByLS1fX2xIXzFCYUtqNXFfZUpmclJHMVdEQm14bEc0SVc0NUoxSktBdlRCOXJWaWthbjdHWl9DYzVZMkRCSkhxbXhkdGQyV2F6SWlOMFVfRl9hY0J1TlRQMUdIdGo2eDR3Q0RwSklNTVFtZHNCbVhZU0RreHVXNXNsWl",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUhKcWVoa3JFWlJmallVRVVXZ29XQm1td2VfYXdZdnVaR2U1anpzdnByLS1fX2xIXzFCYUtqNXFfZUpmclJHMVdEQm14bEc0SVc0NUoxSktBdlRCOXJWaWthbjdHWl9DYzVZMkRCSkhxbXhkdGQyV2F6SWlOMFVfRl9hY0J1TlRQMUdIdGo2eDR3Q0RwSklNTVFtZHNCbVhZU0RreHVXNXNsWlB6QlFERFVKRGtKc3Z2?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 30 Jul 2026 08:31:07 GMT",
-          "source": "Everything Experiential"
-        }
-      ]
-    },
-    {
-      "id": "14f632468ed2",
-      "title": "BookMyForex adds travel rewards to forex card with MakeMyTrip travel discounts - BusinessLine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOajJkYmlKc25kT1FmbVVxODYzcE1ZcThma0ZPVjFMUkVwLThrY2phQWd3VHAxenRCUWlsSHJfcFhtY0dMY2pGaUQyaXp2QkM1aGlJZDFKWU10Tm53VElXWGNXbnUtZEJ2VnI0QktFekVZY3ZvR1pBZEZfRzdSNm16TWFfTlR0MzhrXzg3RnZPNVFkcTZSYjFHMWZsLTVzOUtvbGF4T2JMRWJNV0",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOajJkYmlKc25kT1FmbVVxODYzcE1ZcThma0ZPVjFMUkVwLThrY2phQWd3VHAxenRCUWlsSHJfcFhtY0dMY2pGaUQyaXp2QkM1aGlJZDFKWU10Tm53VElXWGNXbnUtZEJ2VnI0QktFekVZY3ZvR1pBZEZfRzdSNm16TWFfTlR0MzhrXzg3RnZPNVFkcTZSYjFHMWZsLTVzOUtvbGF4T2JMRWJNV0w3S241X3dIaC1XM0RGU3lOSDE2QnVWdUtCU2F2MjliNjg5OW5jbW9VTlJ5N0pyanJUSXB0aVdZZmFiQml00gHvAUFVX3lxTFBWZEM1d1RidUliSC15VzJqNkhyYWhXbU1OLXZxUjEwbmh0bjV4SVZXZXB6LUd5ZlVvaXZaMlQtR084UGVEYkRBUUhyV29RVEptSjhvSDhXZHlHUkJORHdNQTgwUlVDYWFFTmVtLVpJZmRFT2t4NVBibnF4VkZMRnZYblpMOFlCUDltRGJNMm1Mb1RXNDhQWjlxV1BNSHVDdmoyS3NWNm1vbEF6YmFmTTlLbG9xWmQxTzVZR01Jc0RwanlYalpRMGJJTl9lUVY0aHY1TEU4OVZpXzhSOWVfaGxnUDBxMFhkLUFldTNMMmVJ?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 30 Jul 2026 11:15:04 GMT",
-          "source": "BusinessLine"
         }
       ]
     },
@@ -215,6 +171,46 @@
       "title": "Thomas Cook India, SOTC Travel expand international portfolio with premium rail holidays - ET TravelWorld",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdGp1WXVxbDZ1WlNsd0hSTjdqdnM2WXpSTTZ6b2xtX29TWlNzVW1OWVI5MGRIemQzdmlRc2g1SmVOZGwxNXl2cmtxN3F5ZTBkY2hSVWJ2Um9DY21KbzRiUmlCNUhra05OTFRMaWZWb3FneXBqNkE0aUY5SnFJYXM2Qk1LT3hzeEFCVVJQTjBYSVhBdG5ZaWVuUGZfUktTZ25oZllISXpJWDN6bH",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdGp1WXVxbDZ1WlNsd0hSTjdqdnM2WXpSTTZ6b2xtX29TWlNzVW1OWVI5MGRIemQzdmlRc2g1SmVOZGwxNXl2cmtxN3F5ZTBkY2hSVWJ2Um9DY21KbzRiUmlCNUhra05OTFRMaWZWb3FneXBqNkE0aUY5SnFJYXM2Qk1LT3hzeEFCVVJQTjBYSVhBdG5ZaWVuUGZfUktTZ25oZllISXpJWDN6bHktTG1OSFRScEd3MWZ6emV2N29BbXdxNkZ1Ti1zc1Z2MEtyczl1U0JPc0VIOU5xVlRqSFVaRnA3Q2VaNTltU2VKcVdmbFZoMXpGSWxES3I4dEdzQQ?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-07-30T19:47:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 30 Jul 2026 13:43:15 GMT",
+          "source": "ET TravelWorld"
+        }
+      ]
+    },
+    {
+      "id": "20e19ed7a903",
+      "title": "These Are Europe's Top Trending Destinations For 2026 - travelandleisureasia.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdEQxSWpsOUtDWW83eVhGY3dBSWRGSDdKbHFQdmd4a3J4T1JYb1JiUWtqVm13dzdxNTFjbUd5TzhULXo3d0RiTWVUVVFjaVR2ckZ6VFNTNGRiLTM0c00yLXZwdXQtU0NhZE1YSFNReDJ5a2x4aHVWdENTMEwxaTlCZGEza0s3aGlKeURFcktwYzVJekdBUzhsX0F4dXpzMlXSAaQBQVVfeXFMUH",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdEQxSWpsOUtDWW83eVhGY3dBSWRGSDdKbHFQdmd4a3J4T1JYb1JiUWtqVm13dzdxNTFjbUd5TzhULXo3d0RiTWVUVVFjaVR2ckZ6VFNTNGRiLTM0c00yLXZwdXQtU0NhZE1YSFNReDJ5a2x4aHVWdENTMEwxaTlCZGEza0s3aGlKeURFcktwYzVJekdBUzhsX0F4dXpzMlXSAaQBQVVfeXFMUHJlWUtkYU9SRXBUVXlqRVVBRFRvdnpUai1EMFFhTmpMbVlPc3dtRTI0cEtweVBkNC1ZczJBUFpnNVhTWU9WbG4tS2RrdVkzbVRjenB0VHRVeWE0VE80VjVzUHJSbS00bVkydUd3Z0U0dWQwN1p0NDBhZWliNzFTX2JPNHYtWF9GQlRIb0VJQzFkeW5rQzVmeVVHd1BaYTY0UVotMDc?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-07-30T19:47:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 30 Jul 2026 12:04:40 GMT",
+          "source": "travelandleisureasia.com"
+        }
+      ]
+    },
+    {
+      "id": "d364b7851577",
+      "title": "Rs 58 Crore Tourism Push Planned For Kupwara’s Border Destinations, Centre tells Rajya Sabha - Kashmir Life",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWt0OVVtaHdnejNlZjJfN0cyWWIxT2R3M3o2RWZTOXFLRzg1MFdhRFh1VTdzQ2RMcTd5SDhwVFMwdTFmWXNWWHA1aHdiaWJhVmNCZTJrNHRXbW1HOTgySF96TGRHV1YwZmFMU0RCcnFJS0JWdERQUVg0ZzZQeEhlaTlUX2VhTFcxZzhVckpEZlRxR3V0Y2dtUzZmODM0Y3YzRVRabFctRFBxY0",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWt0OVVtaHdnejNlZjJfN0cyWWIxT2R3M3o2RWZTOXFLRzg1MFdhRFh1VTdzQ2RMcTd5SDhwVFMwdTFmWXNWWHA1aHdiaWJhVmNCZTJrNHRXbW1HOTgySF96TGRHV1YwZmFMU0RCcnFJS0JWdERQUVg0ZzZQeEhlaTlUX2VhTFcxZzhVckpEZlRxR3V0Y2dtUzZmODM0Y3YzRVRabFctRFBxY0JDS0psMEIzSmNSdW1kbTZUX2xBVQ?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -222,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 08:41:42 GMT",
-          "source": "ET TravelWorld"
+          "published": "Thu, 30 Jul 2026 12:53:52 GMT",
+          "source": "Kashmir Life"
         }
       ]
     },
     {
-      "id": "2c5699f8b33b",
-      "title": "Kashmir's tourism boom comes at a cost: Forests shrink, illegal hotels rise - WION",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0ZSVGhacmNrWmJhb21yUDBBWk1HU0h5R2xyRmFab3hPNEh2c09sbHlDT1Y4SmNVUFM5MjNKLWRNN2hQazdIdDgwNUtXUWNFcXdzMzBCTUU2OHE5N3pTVVd2cHhRamxtV3FHakpyYmliN3pvSkZxMlR4SFVtUDZPNnZFQ1Q4NXFBRGhMRk9WdW55Q3hfS2ZpenRQQ3cxRW8wRmRTR1E4clpDdF",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0ZSVGhacmNrWmJhb21yUDBBWk1HU0h5R2xyRmFab3hPNEh2c09sbHlDT1Y4SmNVUFM5MjNKLWRNN2hQazdIdDgwNUtXUWNFcXdzMzBCTUU2OHE5N3pTVVd2cHhRamxtV3FHakpyYmliN3pvSkZxMlR4SFVtUDZPNnZFQ1Q4NXFBRGhMRk9WdW55Q3hfS2ZpenRQQ3cxRW8wRmRTR1E4clpDdFRFRzIxTVFCVGNyaVc3b0hXTGdrd9IBxAFBVV95cUxQZGtkSmRoT3dVNlhtRnJXcWMwdkxBQngtcU5ZVmFWTTN3ZEV0RTUzc24xVGI0Uk40cUVuT1FhYWN6RzdsaERsOU5yLTExcjBwVEZpNnlQZFhaY2U1TGU4bmRpTzFGbE1kVmJ0dGswbXo2NnhmcjR2U3F2U08zQWdzMXVJUnlpaTVOR2pRenR6bW5zQ1p3WG1UazRYS003cG9qQ01qSHk3QWtaX2dIQ0xBbm5zQ3MzQ2I1UkdyWE9kTjlKMXpN?oc=5",
+      "id": "d8b81020457a",
+      "title": "84% Indians prioritise culture-led travel within India: Skyscanner Report - Travel Trends Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGtjRHVQblJhUnloVEoxbDF5cTZnZTAyQUN1aTROQ0swTEpXNkQ5MXU1SE44cWswVnFaQmp2VVZTYXZOc25RMG1FZmktdTRaQURnTVhVRVdfMU1OVjctTE5NanBvNnI2WkdLSkI3MTNJenFGOXZvemV2MzdOQ1pfQmE5U2tQeXdmYjZxMy1FbGdqNlpRSkJlUlIwVEtmS3pjNkZYVFpIbw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGtjRHVQblJhUnloVEoxbDF5cTZnZTAyQUN1aTROQ0swTEpXNkQ5MXU1SE44cWswVnFaQmp2VVZTYXZOc25RMG1FZmktdTRaQURnTVhVRVdfMU1OVjctTE5NanBvNnI2WkdLSkI3MTNJenFGOXZvemV2MzdOQ1pfQmE5U2tQeXdmYjZxMy1FbGdqNlpRSkJlUlIwVEtmS3pjNkZYVFpIbw?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -242,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 11:24:00 GMT",
-          "source": "WION"
+          "published": "Thu, 30 Jul 2026 12:13:21 GMT",
+          "source": "Travel Trends Today"
         }
       ]
     },
     {
-      "id": "907034c71760",
-      "title": "Germany Reveals Top Travel Experiences For 2026 - Outlook Traveller",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXIxTzFTdDk2Qi1QR18zVEhRbFlORlFMTXJGeC1uc2VLUkYwYjJtS2ozWE0yVUE5QzdmR3I2T1BiYW5TTU5YTHFreWprRk0tNFFoREpWQjZMN05fQ3ZIcDBGcUF4QjVGZ2E5OTRnaWNaRXozWjRyeWFCY2EwYm9rLVVDMDBIZnNwRkZHM0xB?oc=5\" target=\"_blank\">Germany Reveals",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXIxTzFTdDk2Qi1QR18zVEhRbFlORlFMTXJGeC1uc2VLUkYwYjJtS2ozWE0yVUE5QzdmR3I2T1BiYW5TTU5YTHFreWprRk0tNFFoREpWQjZMN05fQ3ZIcDBGcUF4QjVGZ2E5OTRnaWNaRXozWjRyeWFCY2EwYm9rLVVDMDBIZnNwRkZHM0xB?oc=5",
+      "id": "2f5c49d3057a",
+      "title": "Don’t Start a Travel Startup - Skift",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkZ19uZG9NSTdCODRjMnBMRTFsM0FkX3NZdF9zWlpBLXhwLXJ2RFZtZTltaVg2VlhhUHRzQjhMX0lycWpoaEJiNnpoSkFxQzRhRG9SVkRBdmRXZ1RDemlsczBtTUtXS2Fj?oc=5\" target=\"_blank\">Don’t Start a Travel Startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">S",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkZ19uZG9NSTdCODRjMnBMRTFsM0FkX3NZdF9zWlpBLXhwLXJ2RFZtZTltaVg2VlhhUHRzQjhMX0lycWpoaEJiNnpoSkFxQzRhRG9SVkRBdmRXZ1RDemlsczBtTUtXS2Fj?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -262,19 +258,39 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 10:29:03 GMT",
-          "source": "Outlook Traveller"
+          "published": "Thu, 30 Jul 2026 12:47:32 GMT",
+          "source": "Skift"
         }
       ]
     },
     {
-      "id": "22d2fedbcac7",
-      "title": "Ministry of Tourism, IndiGo Join Hands to Promote India as Global Tourism Destination - APAC Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXlXODB2R1ZPT3huaUVWODJ2N2tSNXIwWGxHN1ROZVZqdjJNWWo2cHVra0t1bncwTUVPenVDUjZYcWZiNGZlS3NtU3EydEhFZjV1dWw4UXFVQ0tLLXpaRUdNVGU1NXFieHBrUWNiMUN4RVl0X1dJMkJPZG4yaEVrQmpuNll1ZFJTZERGci1GRjVtM1cxeTlmQVpPbURmRWNmM3AyeWpuTGVJYm",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXlXODB2R1ZPT3huaUVWODJ2N2tSNXIwWGxHN1ROZVZqdjJNWWo2cHVra0t1bncwTUVPenVDUjZYcWZiNGZlS3NtU3EydEhFZjV1dWw4UXFVQ0tLLXpaRUdNVGU1NXFieHBrUWNiMUN4RVl0X1dJMkJPZG4yaEVrQmpuNll1ZFJTZERGci1GRjVtM1cxeTlmQVpPbURmRWNmM3AyeWpuTGVJYmxndWJzUFBUUEwwWndlZHNkQVVB?oc=5",
+      "id": "1085d13d7201",
+      "title": "Tourism Ministry & IndiGo Partner to Promote Incredible India - Rediff MoneyWiz",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXJ1MEFrdS1YbGNDWDlKZVN6UnYyY0NIZWRQZ3BRb0c4cndBOFdsU2JyalU3MmtHeWt1cWtHbHhITHpfVzRHVVY0NkltZF84REE5b25DR2V2Y3ZGWlVJX1R1TDVYTmZYNVFrRFFYNWpxSFJlMmRzcjczSHR4dG9YdkZMWjQ5T3ZQa0I5NVdubFBScEFDa0NWdXludjl3RzY0Qi1kelA1R0ZXcU",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXJ1MEFrdS1YbGNDWDlKZVN6UnYyY0NIZWRQZ3BRb0c4cndBOFdsU2JyalU3MmtHeWt1cWtHbHhITHpfVzRHVVY0NkltZF84REE5b25DR2V2Y3ZGWlVJX1R1TDVYTmZYNVFrRFFYNWpxSFJlMmRzcjczSHR4dG9YdkZMWjQ5T3ZQa0I5NVdubFBScEFDa0NWdXludjl3RzY0Qi1kelA1R0ZXcU9TV1FBV9IBtgFBVV95cUxQQ201LUxYeThDQ2w5UW1zSDhHYTdvc3dabVJ6ZnNOMEJ1QmJGUFk5SjhzWkVtcmhKWjRCQi1ROWZkYmhKbFRhTDZkWU8yM1BYWHhfR0hKclJVVkpOTVJ3eldCMjdlcEJMXzlqRDFLWFpBc3NHU1pEZFBiQkwxNkhraHZLWW1XdlV6aGZ0ODY3bzZqM2tESWFQaW1BRjNPeVFheXNpeVRCMU9MUng1YnpVTHhkR1RuZw?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-07-30T19:47:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 30 Jul 2026 19:19:27 GMT",
+          "source": "Rediff MoneyWiz"
+        }
+      ]
+    },
+    {
+      "id": "608079deaca5",
+      "title": "Tourism Ministry and IndiGo sign MoU to promote Incredible India Initiative - News On AIR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVC1YaEoxYW5OUzBiTXIxMGhxOVpDRjRVdFV3SUFZenV4ck5fMWhPU3E4cl9Md21JclhBaE5hdzM4VEJQU21oRF9hVkNGbmUwYk9MbUl4SFBybjRKUzMwLU5wVHF4c2oxTlBIMWVkRWZjZVFrd0FsamlWRzV4d2h6a2ZTcU5HVnF5MFpITUNacHF3TzVyMWVMZjAxemo2UWF3Z3dF?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVC1YaEoxYW5OUzBiTXIxMGhxOVpDRjRVdFV3SUFZenV4ck5fMWhPU3E4cl9Md21JclhBaE5hdzM4VEJQU21oRF9hVkNGbmUwYk9MbUl4SFBybjRKUzMwLU5wVHF4c2oxTlBIMWVkRWZjZVFrd0FsamlWRzV4d2h6a2ZTcU5HVnF5MFpITUNacHF3TzVyMWVMZjAxemo2UWF3Z3dF?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -282,51 +298,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 13:33:48 GMT",
-          "source": "APAC Media"
-        }
-      ]
-    },
-    {
-      "id": "c7410342e817",
-      "title": "Cut taxes, airport charges to boost air travel demand: IndiGo MD to govt - Telangana Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdTBfRERqTkt3d2h0WFBfOXo1bkNDX3lOWjdyWU1vWGZScW1QMmkwN0liT1NsZ2l6YzNPMnlhWElnY0k1bFNfaHoxbDd6SV9QX0Fld2VpRHB6OVF3SHh4eWw1ZjFGNmVUNjdsMDh2dm5Dc3R2Mk9rUW9JUGxhNjd3MDlFWlo4cnlWT0J4RjM1bHZ6azB3OFptU1YwZHJBUQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTBfRERqTkt3d2h0WFBfOXo1bkNDX3lOWjdyWU1vWGZScW1QMmkwN0liT1NsZ2l6YzNPMnlhWElnY0k1bFNfaHoxbDd6SV9QX0Fld2VpRHB6OVF3SHh4eWw1ZjFGNmVUNjdsMDh2dm5Dc3R2Mk9rUW9JUGxhNjd3MDlFWlo4cnlWT0J4RjM1bHZ6azB3OFptU1YwZHJBUQ?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 30 Jul 2026 14:00:31 GMT",
-          "source": "Telangana Today"
-        }
-      ]
-    },
-    {
-      "id": "305c529eb908",
-      "title": "TripGain Releases State of Business Travel in India 2026 Report, Revealing Persistent Gaps Between Digital Adoption and Operational Reality - TheWire.in",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbjBEOW52N3VKaWpvallVTDhId0lxcnB2emd3eG5Nc19FbjlvOGc1WWNrOGxoUE8zcjlOYVRmbUJOMFgzNHJJZF9YRVRQVkpvcFl5Mm9SUE01cXVXSDQyTXNnakJkRGRxWS1XWjlrMzFqZUM4NUgzUzRMeVVfaTRNMVgxQ2M4YTU3T0lrYkJHWXluREI4ZV9HRWQwc1BsR0FsNlFjY2FEUUFCWD",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbjBEOW52N3VKaWpvallVTDhId0lxcnB2emd3eG5Nc19FbjlvOGc1WWNrOGxoUE8zcjlOYVRmbUJOMFgzNHJJZF9YRVRQVkpvcFl5Mm9SUE01cXVXSDQyTXNnakJkRGRxWS1XWjlrMzFqZUM4NUgzUzRMeVVfaTRNMVgxQ2M4YTU3T0lrYkJHWXluREI4ZV9HRWQwc1BsR0FsNlFjY2FEUUFCWDA2VjA5dEpvSnI4YlJZX3hNbHM3d01CYURsWHJMQi1pZ0hRMTFEUHcxUGFYSmFDSkZLTWFPWDNXb1pHSjdDYllfYnltMlAwREFZZHBfVzY2WGttVy1DU1kzSlVOaDbSAY4CQVVfeXFMTkJyS2paU19uY1JuUHBiMFpTVkVPdXM0SDJiSkNBRUJ5UEE0Z3FjNXdTYWZLcGRXUDZnTVdFQVdVR2dwX3p4eU9uNl9HazM1bzVkUGZ1dERvaGJCVXl3a2Nlem9tay1CNWRSWm55OU5zSDFUZUNmUWlrODh6d0dPV2x2bU1RZjhkcFNmVlA2YUttX0Z1RW9PUjg1LUFNdHpXU3BZLUVLQkVHSHcxUFJ3SER4U3RZZk1qSXlDcnBfUTVIM3lfZUVkV0ZiS0ZGVkxaVHJHaVp6dmdkc01vQy1pWDB4cWc3X0JxOElBMVFMNXJXY3ZIcjZYX25LbThuRjJGeHB0eHh0MndTVGVTOV93?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 30 Jul 2026 05:45:10 GMT",
-          "source": "TheWire.in"
+          "published": "Thu, 30 Jul 2026 13:34:07 GMT",
+          "source": "News On AIR"
         }
       ]
     },
@@ -335,14 +311,14 @@
       "title": "Vande Bharat day trips from Mumbai: 6 destinations under 6 hours - Condé Nast Traveller India",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMVBHSTNIYUE1QVQyQW1hYzVtLXhSRW5BYnkyM2IyUHgzb3NfZlpvSnp0S0JhZUtFWWhmazlMZTBFd1pkbXFWWmRCS3hMR1B0Z011a3NjYi1nRHFNMHJsN0lYTUJHbUZ0aGxLNGtkRWJkSm5KcTdKNWNWQ1NsMllUXy0yWmh0R3NVWUp4Y1VwZkRrcTlVcmdVVV9rZWQzQQ?oc=5\" target=\"_",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVBHSTNIYUE1QVQyQW1hYzVtLXhSRW5BYnkyM2IyUHgzb3NfZlpvSnp0S0JhZUtFWWhmazlMZTBFd1pkbXFWWmRCS3hMR1B0Z011a3NjYi1nRHFNMHJsN0lYTUJHbUZ0aGxLNGtkRWJkSm5KcTdKNWNWQ1NsMllUXy0yWmh0R3NVWUp4Y1VwZkRrcTlVcmdVVV9rZWQzQQ?oc=5",
-      "score": 28.8,
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
           "published": "Thu, 30 Jul 2026 10:30:00 GMT",
@@ -351,18 +327,38 @@
       ]
     },
     {
-      "id": "8e8914263068",
-      "title": "Hyderabad rain: Police Commissioner Sajjanar urges residents to avoid non-essential travel - The Hindu",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmRWZFdZV2dKcWoxV3A5TDVzbjZNVC03eFk3bDlxczh5TnpiTGVzd3ZnNVM2VFk5aXVscS13LTN5LUx5QTE1SU1ZbERjUlktc0FNM3VCSmNuMFFORkJBNkFOMmMzVVJST24wY0ZuY3FSZ1RxX2RaazBJNkRFZDhacjhseVhhU3Vpazd1NVdjbTVBLUdZbTc3eXp5VkJrY3JDc1V5NzREU2xEeW",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmRWZFdZV2dKcWoxV3A5TDVzbjZNVC03eFk3bDlxczh5TnpiTGVzd3ZnNVM2VFk5aXVscS13LTN5LUx5QTE1SU1ZbERjUlktc0FNM3VCSmNuMFFORkJBNkFOMmMzVVJST24wY0ZuY3FSZ1RxX2RaazBJNkRFZDhacjhseVhhU3Vpazd1NVdjbTVBLUdZbTc3eXp5VkJrY3JDc1V5NzREU2xEeWxpYk5vdlB3WkVMdmZFbE9wZUNfNTJfc0RGX1FsU0ZjT1k5SV9jaTBwMXQ3NHVERmMxNWtJS3V3eDU1TzQtMklhamdjMNIB9gFBVV95cUxPdzRjRWlxNzVqQ1daV1N3b3ZUa3lkOWlfUXEyT3NlZDlzbkM2bFJ1LV9pc08wSTF6ajJhWWVPTUpybk5iYlplaHBwNk81QzJ2QU9iLTZrWV80Q2VPbF9MZnJwVVdROVA0dmpZSEFFbHZDU29UemZlU0std3FGQ1VpWGhrWTZCYXJhNTI3YnUxc1owcFEzd29kV1Rrbm1CaHg4aWtGQ3FfWnVOWE1yekIybElWZVpwMC1uQTcxRjhtVGNYdnlYa3ZZbXRNQlEyX0xhSWFtM3ZvQWpCX3c3X2lMdy1uMkNoMkQxc2ZfekVwZE1ZMC1WTFE?oc=5",
-      "score": 25.2,
+      "id": "a055d2c1d8b2",
+      "title": "Culture-led travel takes centre stage as 67% Indians plan holidays around heritage, festivals and food; r - The Times of India",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxPVGdxRUM3ZWxrTjFYemxZaDdXS3Iycms3TkNUZHBrSldZWl9RNms4cFA4Y2g4QU00OS1nZXoyT2dFd2k1TGE0M2VfczdON29VM3c4V056ckhaNE42N1haanRJcDFxeDlMakRObjRYOC1JZVRuMWtkdjJGcDVTWGF0X2pFZl95Uk9mdm9sb3Q0TUM3N3FRVlJXSkQxbGswQ0JNeWQ1Y212bjNacz",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPVGdxRUM3ZWxrTjFYemxZaDdXS3Iycms3TkNUZHBrSldZWl9RNms4cFA4Y2g4QU00OS1nZXoyT2dFd2k1TGE0M2VfczdON29VM3c4V056ckhaNE42N1haanRJcDFxeDlMakRObjRYOC1JZVRuMWtkdjJGcDVTWGF0X2pFZl95Uk9mdm9sb3Q0TUM3N3FRVlJXSkQxbGswQ0JNeWQ1Y212bjNaczJPdmdTY1ZLVEdCZEVoQlUtRzRfQ3Y4RTRwblVkN3d5MmIzY0xhVDFZdU1FTWxfMS16NWNudjdOYUoya2hSSnU0SVBkVTJteFRsYnk3Y0swYUxGYjhJb0k4S2xTQTV0MVdQVWp3RUlUN1IzN012anNxT3lrNmFNczI5VG43U1BHMl9KWVBOVFHSAbcCQVVfeXFMT1BtVHc2UmV0cWNPRU0zclFPSHRXb1JnOEd2MnBrSVJtUnJ0aFJOa0ItemNwWjUzRm5kcGcyRnJxZlY4OVRCMzdsVUt3VzRnVk1rdE5jRWxVOE9OZkZ4WFRvNFJ0ZVpLTUNPX05neXFXYXdMZ04zYThMWkZvSG5YaXBtVmZMZ25qdWlMRWVYNHFYTkFIOWhBTy1GeTRIQWZGUHJweDc3M0FQSVFDZXhLZllQY1hpRktOdWl3MWYxYzFUaG9kcVlHMFlQVkRLWmxBT0lHeGNycWpXeUhSeVRqTGE0SEw3TDhsbkxWWjhiZzRFcnlrT2gwQ2VaSERveGxVeVBjem1VREFUT3J5VEJuTkxoZ1owd05Xb2R4c3NCLU5SUWttWmF2dHFqMFh0RllvSF9oRGRPTm8?oc=5",
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 30 Jul 2026 15:48:00 GMT",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    {
+      "id": "8e8914263068",
+      "title": "Hyderabad rain: Police Commissioner Sajjanar urges residents to avoid non-essential travel - The Hindu",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmRWZFdZV2dKcWoxV3A5TDVzbjZNVC03eFk3bDlxczh5TnpiTGVzd3ZnNVM2VFk5aXVscS13LTN5LUx5QTE1SU1ZbERjUlktc0FNM3VCSmNuMFFORkJBNkFOMmMzVVJST24wY0ZuY3FSZ1RxX2RaazBJNkRFZDhacjhseVhhU3Vpazd1NVdjbTVBLUdZbTc3eXp5VkJrY3JDc1V5NzREU2xEeW",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmRWZFdZV2dKcWoxV3A5TDVzbjZNVC03eFk3bDlxczh5TnpiTGVzd3ZnNVM2VFk5aXVscS13LTN5LUx5QTE1SU1ZbERjUlktc0FNM3VCSmNuMFFORkJBNkFOMmMzVVJST24wY0ZuY3FSZ1RxX2RaazBJNkRFZDhacjhseVhhU3Vpazd1NVdjbTVBLUdZbTc3eXp5VkJrY3JDc1V5NzREU2xEeWxpYk5vdlB3WkVMdmZFbE9wZUNfNTJfc0RGX1FsU0ZjT1k5SV9jaTBwMXQ3NHVERmMxNWtJS3V3eDU1TzQtMklhamdjMNIB9gFBVV95cUxPdzRjRWlxNzVqQ1daV1N3b3ZUa3lkOWlfUXEyT3NlZDlzbkM2bFJ1LV9pc08wSTF6ajJhWWVPTUpybk5iYlplaHBwNk81QzJ2QU9iLTZrWV80Q2VPbF9MZnJwVVdROVA0dmpZSEFFbHZDU29UemZlU0std3FGQ1VpWGhrWTZCYXJhNTI3YnUxc1owcFEzd29kV1Rrbm1CaHg4aWtGQ3FfWnVOWE1yekIybElWZVpwMC1uQTcxRjhtVGNYdnlYa3ZZbXRNQlEyX0xhSWFtM3ZvQWpCX3c3X2lMdy1uMkNoMkQxc2ZfekVwZE1ZMC1WTFE?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
           "published": "Thu, 30 Jul 2026 13:28:37 GMT",
@@ -371,10 +367,30 @@
       ]
     },
     {
-      "id": "f88a9291e6fb",
-      "title": "Business travel prices to remain elevated through 2026 with relief ahead in 2027: GBTA - Travel Trends Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVpJRENTM0I0eXl1OUZQU1hpZXVqYWxZWFdfQVE5VTI4RmIxQ0kxVFpkWDJCVVRHMGlUQ09DX1Q3UWlremltS3NHdy03Y3lyS1hpckdLNmRObXNKbGRzNHEzX3gwRS1mNzJXLU8wQURPZXl6cTJHYm9QOTYwZEt6UlVzY3N4dFNBdzFYTzcwT2dmM1BtaUVqMnJqU2Y2aUZWMTUxYWM3ZnFHM2",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVpJRENTM0I0eXl1OUZQU1hpZXVqYWxZWFdfQVE5VTI4RmIxQ0kxVFpkWDJCVVRHMGlUQ09DX1Q3UWlremltS3NHdy03Y3lyS1hpckdLNmRObXNKbGRzNHEzX3gwRS1mNzJXLU8wQURPZXl6cTJHYm9QOTYwZEt6UlVzY3N4dFNBdzFYTzcwT2dmM1BtaUVqMnJqU2Y2aUZWMTUxYWM3ZnFHM2tsTWdscDJ3czh4Z0gzNFE?oc=5",
+      "id": "5939ea9f40a2",
+      "title": "Bank of America launches enhanced Travel Center with over 1 million travel booking options - ET TravelWorld",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcW9wekZCeGNoTnJ3VE83Y1NoaDUzcHRrMG9PUDhLX2prWnRnZ1Y2RTYtcHQ5eFJ6bXc3WXF0dG1iOWdwT0p1N0dSMXEtdkFDRDFGZ1VoTGw3SkRzdWVTWWwwV3dreG96dXBzTGNqVjJTZnd1Ql9GbjVqcl9ySDVScTdiMGMxSTByNUtrWG0yc1hrVXV3bDVoZk9rejhsM0xJdnlTMEVYdl81a2",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcW9wekZCeGNoTnJ3VE83Y1NoaDUzcHRrMG9PUDhLX2prWnRnZ1Y2RTYtcHQ5eFJ6bXc3WXF0dG1iOWdwT0p1N0dSMXEtdkFDRDFGZ1VoTGw3SkRzdWVTWWwwV3dreG96dXBzTGNqVjJTZnd1Ql9GbjVqcl9ySDVScTdiMGMxSTByNUtrWG0yc1hrVXV3bDVoZk9rejhsM0xJdnlTMEVYdl81a25VUTVicmN5dU5XZlE5UG1GT3MweWF4cmwzX0tGTHlabTc3Skt2N2x2QWg5X2duSVBZVXBGbVcyazhYOW5tLXQzcWJ5WktTQQ?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-07-30T19:47:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 30 Jul 2026 11:57:02 GMT",
+          "source": "ET TravelWorld"
+        }
+      ]
+    },
+    {
+      "id": "2c62bf780072",
+      "title": "₹109-cr tourism plan for Kashi div reviewed - The Times of India",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFBhWmtPM1RkMlB2cTVrdUJHeUUya1VXLXZEOXg5S1NXUGFrMlA4cnd0NzJRblBlSnBGWHBDM25rZVJTektoYmpBRGZTaXhTaTZLU0hJNWN6ck05bkhyRUNYZ2dQMjBTYV9kWkM3WWxTR3JHU2pUS3Vqd1VwRGhycnIwTS1lVEZTSXZfdGU4Wnhud29FQ2pleGRJTFFISnBpOWUwV1lIakw0ZV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFBhWmtPM1RkMlB2cTVrdUJHeUUya1VXLXZEOXg5S1NXUGFrMlA4cnd0NzJRblBlSnBGWHBDM25rZVJTektoYmpBRGZTaXhTaTZLU0hJNWN6ck05bkhyRUNYZ2dQMjBTYV9kWkM3WWxTR3JHU2pUS3Vqd1VwRGhycnIwTS1lVEZTSXZfdGU4Wnhud29FQ2pleGRJTFFISnBpOWUwV1lIakw0ZVNnTElPLXNBd3JLNi1x0gG-AUFVX3lxTFAyRFNzUzdCUGVXanVqei1UVGR0eW15bEdJXzdSaHRrcnJGMXQ0S09Kc3h2ZWdiZllleTE0Y2FNWVZKWGZKcjZDZkxHWEtzODdzOFNNaHU5Tnl5ZmFiQmFRY1Fsa3QycnRjWGFaMV9wZ2tSc0FKQ0VlVHVOSWllaFNXQ1lqTWUtZklxUHdZc212cVJfb1NEd01qQjYxVkROMnZCbkYwVXg2S3I0T1N0U0xQTGlxdk0tQ1JaSmpmTWc?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-07-30T14:28:16+00:00",
+      "first_seen": "2026-07-30T19:47:13+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 08:45:57 GMT",
-          "source": "Travel Trends Today"
+          "published": "Thu, 30 Jul 2026 19:07:00 GMT",
+          "source": "The Times of India"
         }
       ]
     }
