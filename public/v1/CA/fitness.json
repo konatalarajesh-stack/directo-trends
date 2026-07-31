@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "CA",
-  "generated_at": "2026-07-31T09:23:40+00:00",
+  "generated_at": "2026-07-31T14:39:03+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "da6b57d9ca0d",
-      "title": "Puck Personality: Favorite/Least Favorite Workout - NHL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnFBRGZwT1RxamwzLUd5aVFULUt4SVlETV84Qy03RTczRktlMVA5Y0NCTmRFaHQyUjJPbXExRlJ6MDlUbVc2WGw2di10SVJiVUxCTlZtcXBrNTE1cDFGTF96ZFdyTlRqdnZqcjRiTW4xNlhtWDdKZUxnSVQzYTNsMU1MT3NZWHBlYzVHaGZnUF84UQ?oc=5\" target=\"_blank\">Puck Pers",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnFBRGZwT1RxamwzLUd5aVFULUt4SVlETV84Qy03RTczRktlMVA5Y0NCTmRFaHQyUjJPbXExRlJ6MDlUbVc2WGw2di10SVJiVUxCTlZtcXBrNTE1cDFGTF96ZFdyTlRqdnZqcjRiTW4xNlhtWDdKZUxnSVQzYTNsMU1MT3NZWHBlYzVHaGZnUF84UQ?oc=5",
+      "id": "290596ff2db2",
+      "title": "Fitness Center Update - Clarkson University Athletics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2tIV0UzYVVMVG5kblVISXRNai1KTkVEb0NOaGdEa0JSc3AxNzN2Rlg1eWtZLVJQZjdoQlZNUXEzaDZ3eVAwRWhMWklSWnQ4UmVWQzlkRWdLNHU5Z1pBcjgwWHg4cWFGSXROaV9XdHpoMHRHSHJacW9LMnFjeDVGTlBYbndDUQ?oc=5\" target=\"_blank\">Fitness Center Update</a>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2tIV0UzYVVMVG5kblVISXRNai1KTkVEb0NOaGdEa0JSc3AxNzN2Rlg1eWtZLVJQZjdoQlZNUXEzaDZ3eVAwRWhMWklSWnQ4UmVWQzlkRWdLNHU5Z1pBcjgwWHg4cWFGSXROaV9XdHpoMHRHSHJacW9LMnFjeDVGTlBYbndDUQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 31 Jul 2026 14:17:10 GMT",
+          "source": "Clarkson University Athletics"
+        }
+      ]
+    },
+    {
+      "id": "a945b6af7e2a",
+      "title": "De Zerbi provides latest fitness update on Spurs midfield duo - ca.sports.yahoo.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmNjMTUzbEFWbTBfM0NZbWdFVkRwN0dyR1ZVam85WVZXWFlGNlBkVlpfdFBoMUpXSVZZSVo1WDhVOE9uWHA3NVdtMzQwLUlRUUs0UE4zN0ZoTnA5NWpnS3p4dG5ZNnpKbG5QNlhLRW9iSjljSUhPY2tpU2FOUk5MOFRNbkNpRi1GdUJn?oc=5\" target=\"_blank\">De Zerbi provides l",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmNjMTUzbEFWbTBfM0NZbWdFVkRwN0dyR1ZVam85WVZXWFlGNlBkVlpfdFBoMUpXSVZZSVo1WDhVOE9uWHA3NVdtMzQwLUlRUUs0UE4zN0ZoTnA5NWpnS3p4dG5ZNnpKbG5QNlhLRW9iSjljSUhPY2tpU2FOUk5MOFRNbkNpRi1GdUJn?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-07-31T14:29:53+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 31 Jul 2026 13:05:00 GMT",
+          "source": "ca.sports.yahoo.com"
+        }
+      ]
+    },
+    {
+      "id": "da6b57d9ca0d",
+      "title": "Puck Personality: Favorite/Least Favorite Workout - NHL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnFBRGZwT1RxamwzLUd5aVFULUt4SVlETV84Qy03RTczRktlMVA5Y0NCTmRFaHQyUjJPbXExRlJ6MDlUbVc2WGw2di10SVJiVUxCTlZtcXBrNTE1cDFGTF96ZFdyTlRqdnZqcjRiTW4xNlhtWDdKZUxnSVQzYTNsMU1MT3NZWHBlYzVHaGZnUF84UQ?oc=5\" target=\"_blank\">Puck Pers",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnFBRGZwT1RxamwzLUd5aVFULUt4SVlETV84Qy03RTczRktlMVA5Y0NCTmRFaHQyUjJPbXExRlJ6MDlUbVc2WGw2di10SVJiVUxCTlZtcXBrNTE1cDFGTF96ZFdyTlRqdnZqcjRiTW4xNlhtWDdKZUxnSVQzYTNsMU1MT3NZWHBlYzVHaGZnUF84UQ?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
           "published": "Thu, 30 Jul 2026 20:22:34 GMT",
@@ -31,14 +71,14 @@
       "title": "Why You’re So Sore After a Workout—and What You Can Do About It - Health: Trusted and Empathetic Health and Wellness Information",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9IdTB4V0VsaEtyNHVVWk9oTVJRN2JNTUlnU09xLV9UWEpsSlVVYlN2VC1fcmhPYnctdGtwQTh5WnNwcDZBcG85dEJIMW45ZGF2eXlTaE9sdm5ERlk3R2ZwLXdGdnktX2NjMDEtQXlwUGxkdEJz?oc=5\" target=\"_blank\">Why You’re So Sore After a Workout—and What You Can",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IdTB4V0VsaEtyNHVVWk9oTVJRN2JNTUlnU09xLV9UWEpsSlVVYlN2VC1fcmhPYnctdGtwQTh5WnNwcDZBcG85dEJIMW45ZGF2eXlTaE9sdm5ERlk3R2ZwLXdGdnktX2NjMDEtQXlwUGxkdEJz?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
           "published": "Fri, 31 Jul 2026 03:22:49 GMT",
@@ -51,14 +91,14 @@
       "title": "In Photos: Superlek Prepares For Dayakaev Rematch At Open Workout Ahead Of The Inner Circle 25 - ONE Championship",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzBUZ3dMcHZuMmpKRC1saFFrX0VBS2RIa2QxRENMSnltaFpidkp6R2tjS1l6VGRTaW5TbER1X0tQTFQ4YXdCbWhPOWlVcWoxS3I3VTM3bExkWWk5Tk1xYnFhei10VlVhVkZoSXV4Mmp4RjhNdkRQdmtSNlpHZDRTVHpLaG9nd0x0ZWJydERLUVNQU1RScjFnaGQ0SWxBejBFSDljSHg3aUEtVX",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzBUZ3dMcHZuMmpKRC1saFFrX0VBS2RIa2QxRENMSnltaFpidkp6R2tjS1l6VGRTaW5TbER1X0tQTFQ4YXdCbWhPOWlVcWoxS3I3VTM3bExkWWk5Tk1xYnFhei10VlVhVkZoSXV4Mmp4RjhNdkRQdmtSNlpHZDRTVHpLaG9nd0x0ZWJydERLUVNQU1RScjFnaGQ0SWxBejBFSDljSHg3aUEtVXFDWGg3aFU1elJxYXhfMHVvNlU3dktYUWs?oc=5",
-      "score": 82.8,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
           "published": "Fri, 31 Jul 2026 05:56:27 GMT",
@@ -67,50 +107,10 @@
       ]
     },
     {
-      "id": "d2049ac50369",
-      "title": "Arnold Schwarzenegger showed a workout on the day of his 79th birthday - Українські Національні Новини (УНН)",
+      "id": "a8ac132e3506",
+      "title": "Arnold Schwarzenegger showed a workout on the day of his 79th birthday - unn.ua",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXU0QWlBczFtaExRWEdSX3lzbkF3YTZSOUdUWUdRYVJWaHpIbGl5VW1JLUg5QkpISXN2LVNuTjJGRVpjRTdKTVNFcjdGQTB6WFhWU253Q3ZVWU9JWTdmM3QtVVd1OEhLMWdscGJxUXc4bUt6alFBLU84T3AxVHI4MFVxbmlOcEs0dFFUYU5Bb3NiOE8wUUp2TdIBlwFBVV95cUxNeGgxbDhZcz",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXU0QWlBczFtaExRWEdSX3lzbkF3YTZSOUdUWUdRYVJWaHpIbGl5VW1JLUg5QkpISXN2LVNuTjJGRVpjRTdKTVNFcjdGQTB6WFhWU253Q3ZVWU9JWTdmM3QtVVd1OEhLMWdscGJxUXc4bUt6alFBLU84T3AxVHI4MFVxbmlOcEs0dFFUYU5Bb3NiOE8wUUp2TdIBlwFBVV95cUxNeGgxbDhZczQ5WHQ2N2ItZjU5aW5peDBxUWVVNGtSbTJqd2UwYmxvSGhabWZ6RkhXOUdIenRSbU5ON21BNXZBUXRXa2pJcFNrdmpMZUpLQldDYVlrQlVWRENQcnRKVzVlLTNMU3Z6Ui1zcTY5eV9PZkZMeGxzRjdGbmJoTmxNcFB1RlNqZ3ZsbE1GcUNTWXBZ?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 31 Jul 2026 07:33:52 GMT",
-          "source": "Українські Національні Новини (УНН)"
-        }
-      ]
-    },
-    {
-      "id": "a2a19cf1925d",
-      "title": "Arnold Schwarzenegger celebrates his 79th birthday showing off his iron-pumping workout, fit physique - Page Six",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQRExWZWRpeGswMGJwdjhpcGNHaFhXeTl6WmtHSVhSenpSRzM5X3B2OWprQWFpcG9wSGZtWVctNTFuMmFvNkh6bmwzeVF5a1FUWGQ0X2JQV2tNQnp2cEhqZHNIMEdwVWU2LWw0cGdRVFRrRDVienB0Wm5SNlZfMVA2Zi1RV204WF9iOEpGYXZobFBlU1hnNzNWVHV0UGpZTjU5a2NRTmFJTlJKNU",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRExWZWRpeGswMGJwdjhpcGNHaFhXeTl6WmtHSVhSenpSRzM5X3B2OWprQWFpcG9wSGZtWVctNTFuMmFvNkh6bmwzeVF5a1FUWGQ0X2JQV2tNQnp2cEhqZHNIMEdwVWU2LWw0cGdRVFRrRDVienB0Wm5SNlZfMVA2Zi1RV204WF9iOEpGYXZobFBlU1hnNzNWVHV0UGpZTjU5a2NRTmFJTlJKNUJYQ0x6RXFGUkpOeEE?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 31 Jul 2026 02:04:00 GMT",
-          "source": "Page Six"
-        }
-      ]
-    },
-    {
-      "id": "ef6febd1531d",
-      "title": "Spotify’s New Running Mode Brings Personalization to Your Workout - Spotify",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUHJ5WDQwSE1XLWVSc05SWTk1RWZ0UzhBQTg0QW5jaW1yUmo0SmQ0TXRXY08zSkJ1RVFoZU9IX1ZOQmpCaFVNTTlBRk84UWpHNGZwdDZYdUw3OU02NVRBQmRIZXlYclBGNmQwV3FpUQ?oc=5\" target=\"_blank\">Spotify’s New Running Mode Brings Personalization to Your",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUHJ5WDQwSE1XLWVSc05SWTk1RWZ0UzhBQTg0QW5jaW1yUmo0SmQ0TXRXY08zSkJ1RVFoZU9IX1ZOQmpCaFVNTTlBRk84UWpHNGZwdDZYdUw3OU02NVRBQmRIZXlYclBGNmQwV3FpUQ?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,19 +118,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 13:08:52 GMT",
-          "source": "Spotify"
+          "published": "Fri, 31 Jul 2026 07:33:52 GMT",
+          "source": "unn.ua"
         }
       ]
     },
     {
-      "id": "c7bf21d6bd44",
-      "title": "How a fitness creator built her own global wellness platform - Digiday",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOSloxMU5Dc0hfWk5CRzhDRmlFVjRvVmotTl9PV0FOUmJuTUtZZVAyNl9ENC1qRFNtM3lDTEY0NlZqazNnR3BEdTFmZXZ5YU42OVFzYWx4Wk1WT3QwYWdWRE16Ukk3dVVFWUJISUpCNDBrWUs1ajdyTDVZQUZpaV9CS0hEcVVXWThTdTVSdHVncXA?oc=5\" target=\"_blank\">How a fitnes",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSloxMU5Dc0hfWk5CRzhDRmlFVjRvVmotTl9PV0FOUmJuTUtZZVAyNl9ENC1qRFNtM3lDTEY0NlZqazNnR3BEdTFmZXZ5YU42OVFzYWx4Wk1WT3QwYWdWRE16Ukk3dVVFWUJISUpCNDBrWUs1ajdyTDVZQUZpaV9CS0hEcVVXWThTdTVSdHVncXA?oc=5",
+      "id": "8cd2f664511e",
+      "title": "Struggling to Lose Weight in Menopause? Make This 1 Change to Your Fitness Routine, Experts Say - TODAY.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWVhUG9oZXMyS0U4eVBJNGNBMHhxZEJaWUV5LTAtY1NJN2ZpNHJDb0tLNGZ2U24wNlV5TXpRUE9rS3FucExmRUFUS2RIRnNwWUVUWWxZQmtKX0ZGYkR6RHJQU1BNdE81NndiMkg2S0ZlbDNENnFHQnFKUmNYSU83ajdOdTV4UjJU?oc=5\" target=\"_blank\">Struggling to Lose Weig",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWVhUG9oZXMyS0U4eVBJNGNBMHhxZEJaWUV5LTAtY1NJN2ZpNHJDb0tLNGZ2U24wNlV5TXpRUE9rS3FucExmRUFUS2RIRnNwWUVUWWxZQmtKX0ZGYkR6RHJQU1BNdE81NndiMkg2S0ZlbDNENnFHQnFKUmNYSU83ajdOdTV4UjJU?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 31 Jul 2026 04:02:42 GMT",
-          "source": "Digiday"
+          "published": "Fri, 31 Jul 2026 12:00:00 GMT",
+          "source": "TODAY.com"
         }
       ]
     },
     {
-      "id": "55b05390e1ff",
-      "title": "Fitness to Practise Concerns Increase by a Quarter - Medscape",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVB0VDNFLTVMUG9wc29Hb2VPakRubVJhZy1pd0lQUlByRWpYQW5TaWxrbUVrQTR2R2RHUEJDb282T1ZjSHVxQ3A5R0R2UkJib3FPNjNpQ2tneE0wTXNBNXpoV1JkcGVlbmFRV0Y3a1NyV0h3ekM2clZBOF96cUh6UXBRNlFOMkp1X3B2V3pHd19VNlJ3Wndn?oc=5\" target=\"_blank\">Fit",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVB0VDNFLTVMUG9wc29Hb2VPakRubVJhZy1pd0lQUlByRWpYQW5TaWxrbUVrQTR2R2RHUEJDb282T1ZjSHVxQ3A5R0R2UkJib3FPNjNpQ2tneE0wTXNBNXpoV1JkcGVlbmFRV0Y3a1NyV0h3ekM2clZBOF96cUh6UXBRNlFOMkp1X3B2V3pHd19VNlJ3Wndn?oc=5",
+      "id": "a93bad55e976",
+      "title": "P90X was an infomercial workout sensation in the mid-aughts. How does it hold up today? - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFRCdGlkSVBYSGdzUmwwb19HOTg3azJGVnBwLWRDMVBYV1lyQVVidndwcmdTSEZjZHFDTXlkUF9kbnBNOExZZ1NMYkFGa2Y1SC1aUTRjMUN1MkxnMUsyVW1GRXM3c2V2bFJ4N3lseElta2R1SktoZm0xRzZaRUlzZHZROHlvR2sxWVc0SkhtY01MbnExYVVnLU15eW5IMUZxSi01eHJZdkxibG",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFRCdGlkSVBYSGdzUmwwb19HOTg3azJGVnBwLWRDMVBYV1lyQVVidndwcmdTSEZjZHFDTXlkUF9kbnBNOExZZ1NMYkFGa2Y1SC1aUTRjMUN1MkxnMUsyVW1GRXM3c2V2bFJ4N3lseElta2R1SktoZm0xRzZaRUlzZHZROHlvR2sxWVc0SkhtY01MbnExYVVnLU15eW5IMUZxSi01eHJZdkxibGhZTHZiMQ?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 19:48:34 GMT",
-          "source": "Medscape"
+          "published": "Mon, 27 Jul 2026 11:00:00 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:47+00:00",
+      "first_seen": "2026-07-31T14:32:14+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:49+00:00",
+      "first_seen": "2026-07-31T14:32:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -213,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "a93bad55e976",
-      "title": "P90X was an infomercial workout sensation in the mid-aughts. How does it hold up today? - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFRCdGlkSVBYSGdzUmwwb19HOTg3azJGVnBwLWRDMVBYV1lyQVVidndwcmdTSEZjZHFDTXlkUF9kbnBNOExZZ1NMYkFGa2Y1SC1aUTRjMUN1MkxnMUsyVW1GRXM3c2V2bFJ4N3lseElta2R1SktoZm0xRzZaRUlzZHZROHlvR2sxWVc0SkhtY01MbnExYVVnLU15eW5IMUZxSi01eHJZdkxibG",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFRCdGlkSVBYSGdzUmwwb19HOTg3azJGVnBwLWRDMVBYV1lyQVVidndwcmdTSEZjZHFDTXlkUF9kbnBNOExZZ1NMYkFGa2Y1SC1aUTRjMUN1MkxnMUsyVW1GRXM3c2V2bFJ4N3lseElta2R1SktoZm0xRzZaRUlzZHZROHlvR2sxWVc0SkhtY01MbnExYVVnLU15eW5IMUZxSi01eHJZdkxibGhZTHZiMQ?oc=5",
+      "id": "e25cadb93c30",
+      "title": "How working out at the gym replaced the home improvement project - CNN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNGpBclFDZVY0T1NVZWMweWtILUh1SjJNQ0RUcEpKQ3pUbUF5NXFYQTN2c1BPcHhrcTQ3eUF4eGtUQmF3OUxLM0lGOGozcnJzZzY1ZlRJeEdHaGl6aGRqNTNGZEJ1RUN1aUwwS0x6ajItamN0V0Z4aDVR?oc=5\" target=\"_blank\">How working out at the gym replaced the hom",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNGpBclFDZVY0T1NVZWMweWtILUh1SjJNQ0RUcEpKQ3pUbUF5NXFYQTN2c1BPcHhrcTQ3eUF4eGtUQmF3OUxLM0lGOGozcnJzZzY1ZlRJeEdHaGl6aGRqNTNGZEJ1RUN1aUwwS0x6ajItamN0V0Z4aDVR?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -224,11 +224,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 27 Jul 2026 11:00:00 GMT",
-          "source": "The Globe and Mail"
+          "published": "Thu, 23 Jul 2026 11:00:25 GMT",
+          "source": "CNN"
         }
       ]
     },
@@ -244,7 +244,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:47+00:00",
+      "first_seen": "2026-07-31T14:32:14+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -267,7 +267,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:49+00:00",
+      "first_seen": "2026-07-31T14:32:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -279,10 +279,10 @@
       "is_global": true
     },
     {
-      "id": "5a932b9780b4",
-      "title": "This 72-year-old reversed osteoporosis through strength training. Here are the 8 exercises she relied on - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeHVmQTRqeFNfcDZhZzhxd2owQnF4UGdUUTh0RHU5NXdyS3ItaXpxQkFobVl6cEp4T3loQXg4NTVib29kc21XV0QxOFl3blBnQW1DZHJNVXZmOC05dEhmS2tDb19tNlhobW1vUjZ1REwxaXhvTlFLSDJLcVl5VmFuQU5YTTJvNkMzWld1SUVLS1prbEY1Vm9WQkx3X05LbjlsYmVFb3dGeWZLQQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeHVmQTRqeFNfcDZhZzhxd2owQnF4UGdUUTh0RHU5NXdyS3ItaXpxQkFobVl6cEp4T3loQXg4NTVib29kc21XV0QxOFl3blBnQW1DZHJNVXZmOC05dEhmS2tDb19tNlhobW1vUjZ1REwxaXhvTlFLSDJLcVl5VmFuQU5YTTJvNkMzWld1SUVLS1prbEY1Vm9WQkx3X05LbjlsYmVFb3dGeWZLQQ?oc=5",
+      "id": "a2a19cf1925d",
+      "title": "Arnold Schwarzenegger celebrates his 79th birthday showing off his iron-pumping workout, fit physique - Page Six",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQRExWZWRpeGswMGJwdjhpcGNHaFhXeTl6WmtHSVhSenpSRzM5X3B2OWprQWFpcG9wSGZtWVctNTFuMmFvNkh6bmwzeVF5a1FUWGQ0X2JQV2tNQnp2cEhqZHNIMEdwVWU2LWw0cGdRVFRrRDVienB0Wm5SNlZfMVA2Zi1RV204WF9iOEpGYXZobFBlU1hnNzNWVHV0UGpZTjU5a2NRTmFJTlJKNU",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRExWZWRpeGswMGJwdjhpcGNHaFhXeTl6WmtHSVhSenpSRzM5X3B2OWprQWFpcG9wSGZtWVctNTFuMmFvNkh6bmwzeVF5a1FUWGQ0X2JQV2tNQnp2cEhqZHNIMEdwVWU2LWw0cGdRVFRrRDVienB0Wm5SNlZfMVA2Zi1RV204WF9iOEpGYXZobFBlU1hnNzNWVHV0UGpZTjU5a2NRTmFJTlJKNUJYQ0x6RXFGUkpOeEE?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -290,11 +290,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 31 Jul 2026 08:46:54 GMT",
-          "source": "Women's Health"
+          "published": "Fri, 31 Jul 2026 02:04:00 GMT",
+          "source": "Page Six"
         }
       ]
     },
@@ -310,7 +310,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:47+00:00",
+      "first_seen": "2026-07-31T14:32:14+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -333,7 +333,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:49+00:00",
+      "first_seen": "2026-07-31T14:32:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -356,7 +356,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:49+00:00",
+      "first_seen": "2026-07-31T14:32:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -368,10 +368,10 @@
       "is_global": true
     },
     {
-      "id": "776ea3e613ef",
-      "title": "This health coach wore 4 fitness wearables at once — then ditched them all. Here's why. - Business Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHppWU15V1lBRGVDV1M4Y0duY1o2R3loaVBZX0R5WnhwWDRPS0dmbG1oNEhfeVJCMWFsSDJUNUF0dVRkeFBoQnVVUDlESTBkZncxSUFtZUduOHVLNWhvRDNYNWpMMDdQenlhSUYza2w4NFY1XzFKajQwT3AzaXkzNXBaYzBHaXh5XzRIRk9EVFlHN3B6?oc=5\" target=\"_blank\">This he",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHppWU15V1lBRGVDV1M4Y0duY1o2R3loaVBZX0R5WnhwWDRPS0dmbG1oNEhfeVJCMWFsSDJUNUF0dVRkeFBoQnVVUDlESTBkZncxSUFtZUduOHVLNWhvRDNYNWpMMDdQenlhSUYza2w4NFY1XzFKajQwT3AzaXkzNXBaYzBHaXh5XzRIRk9EVFlHN3B6?oc=5",
+      "id": "f458b19c2e27",
+      "title": "‘Not my signature’: Anytime Fitness probes false signatures on contracts - SMH.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFZmaUNhWWhpTVBSWmxHNWpaMkd2N01NSnNUWGxQeXhWaWlIcDhoT0NGVmQyRmtRck9CYVRRZ2JzQnBldHdkRllNQTBHSGY0aWU1dVRWX3J4TDFHSVhLR01pVTNqWGdYN0VXU3dvTlJQSGxzZ1hkNEd1cG5PNUlwZEsxejFoVDE4RndnMXpqYkdXbDdjVV9qR2FTbl9TRjA3ZmNlZkdraGtrX0",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFZmaUNhWWhpTVBSWmxHNWpaMkd2N01NSnNUWGxQeXhWaWlIcDhoT0NGVmQyRmtRck9CYVRRZ2JzQnBldHdkRllNQTBHSGY0aWU1dVRWX3J4TDFHSVhLR01pVTNqWGdYN0VXU3dvTlJQSGxzZ1hkNEd1cG5PNUlwZEsxejFoVDE4RndnMXpqYkdXbDdjVV9qR2FTbl9TRjA3ZmNlZkdraGtrX0RDV3RveW1RakxuSGhyWXVWOE9lUEV4dkMxUzduTVFfNy0?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -379,11 +379,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 16:05:00 GMT",
-          "source": "Business Insider"
+          "published": "Fri, 31 Jul 2026 05:02:21 GMT",
+          "source": "SMH.com.au"
         }
       ]
     },
@@ -399,7 +399,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:49+00:00",
+      "first_seen": "2026-07-31T14:32:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -411,10 +411,10 @@
       "is_global": true
     },
     {
-      "id": "8f775d351eb5",
-      "title": "How working out at the gym replaced the home improvement project - cnn.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNGpBclFDZVY0T1NVZWMweWtILUh1SjJNQ0RUcEpKQ3pUbUF5NXFYQTN2c1BPcHhrcTQ3eUF4eGtUQmF3OUxLM0lGOGozcnJzZzY1ZlRJeEdHaGl6aGRqNTNGZEJ1RUN1aUwwS0x6ajItamN0V0Z4aDVR?oc=5\" target=\"_blank\">How working out at the gym replaced the hom",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNGpBclFDZVY0T1NVZWMweWtILUh1SjJNQ0RUcEpKQ3pUbUF5NXFYQTN2c1BPcHhrcTQ3eUF4eGtUQmF3OUxLM0lGOGozcnJzZzY1ZlRJeEdHaGl6aGRqNTNGZEJ1RUN1aUwwS0x6ajItamN0V0Z4aDVR?oc=5",
+      "id": "c7bf21d6bd44",
+      "title": "How a fitness creator built her own global wellness platform - Digiday",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOSloxMU5Dc0hfWk5CRzhDRmlFVjRvVmotTl9PV0FOUmJuTUtZZVAyNl9ENC1qRFNtM3lDTEY0NlZqazNnR3BEdTFmZXZ5YU42OVFzYWx4Wk1WT3QwYWdWRE16Ukk3dVVFWUJISUpCNDBrWUs1ajdyTDVZQUZpaV9CS0hEcVVXWThTdTVSdHVncXA?oc=5\" target=\"_blank\">How a fitnes",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSloxMU5Dc0hfWk5CRzhDRmlFVjRvVmotTl9PV0FOUmJuTUtZZVAyNl9ENC1qRFNtM3lDTEY0NlZqazNnR3BEdTFmZXZ5YU42OVFzYWx4Wk1WT3QwYWdWRE16Ukk3dVVFWUJISUpCNDBrWUs1ajdyTDVZQUZpaV9CS0hEcVVXWThTdTVSdHVncXA?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -422,11 +422,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 23 Jul 2026 11:00:25 GMT",
-          "source": "cnn.com"
+          "published": "Fri, 31 Jul 2026 04:02:42 GMT",
+          "source": "Digiday"
         }
       ]
     },
@@ -442,7 +442,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:49+00:00",
+      "first_seen": "2026-07-31T14:32:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -465,7 +465,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:49+00:00",
+      "first_seen": "2026-07-31T14:32:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -477,10 +477,10 @@
       "is_global": true
     },
     {
-      "id": "d310c740fac6",
-      "title": "Bollen Green: Maker of Viral Fitness Toy Branches Out to Soccer - Sportico.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTEtelMwYlVId25jbV9rQkItQnI0VlpTRXlhYWNaQTFoV0tOb0I2WDRCcDFfSTZrV3ZFVWhwdS14WmpJSEtMVGFfRXVyaVJOYnJDM212YXMwT1Y1cG9VeEc2b1pXUGdNRk1rS1VtaDdHMXdLNDRqbnVRUzBveDdOUkVtcnk3bFE3VlR4VThsVlUtd1EtZzlnQkJMdHhpMDhYUmFOOGlkbkhwR1",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTEtelMwYlVId25jbV9rQkItQnI0VlpTRXlhYWNaQTFoV0tOb0I2WDRCcDFfSTZrV3ZFVWhwdS14WmpJSEtMVGFfRXVyaVJOYnJDM212YXMwT1Y1cG9VeEc2b1pXUGdNRk1rS1VtaDdHMXdLNDRqbnVRUzBveDdOUkVtcnk3bFE3VlR4VThsVlUtd1EtZzlnQkJMdHhpMDhYUmFOOGlkbkhwR1k?oc=5",
+      "id": "c776e1feaeb5",
+      "title": "The Gross Law Firm Reminds Planet Fitness, Inc. Investors - GlobeNewswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSkFpZUtnekdxaW9IazlOeGxkbE9UdThndFpJRVBJWlRfZFp1UzM0Z2xtUTBJenkxTVJhSGItYkMzT0JJWW1IM2R1ZDJLNk5SN184blE2eVV5eHFLYnBvS2JmajQ1UGdSbDJpY3Z2bTZkVWFQa3Z3Tm8wSXB2S3RVXzhBOWttdWFhTkhDYUhLMTFvMjFMRDhHRV8wSWxNQkp2bGdmQXNRRmlMN0",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSkFpZUtnekdxaW9IazlOeGxkbE9UdThndFpJRVBJWlRfZFp1UzM0Z2xtUTBJenkxTVJhSGItYkMzT0JJWW1IM2R1ZDJLNk5SN184blE2eVV5eHFLYnBvS2JmajQ1UGdSbDJpY3Z2bTZkVWFQa3Z3Tm8wSXB2S3RVXzhBOWttdWFhTkhDYUhLMTFvMjFMRDhHRV8wSWxNQkp2bGdmQXNRRmlMN0lwa0pTaFVfOGZsbTBuWnd2WC1qRkFsSFJVR1p1NTU2Y2Q5VHBpRjN3Y29IZWp4aERkaEN5Q2dvWVFXc2RPbVh5eDVreHVKdDNIaHFZWWxaTXlzdV8tS284NnoxbTVFXzZzcHItMFlhRGtaWWdEbE02RldvcDhWTGt5VjNLSGJYYjVIUjQ5aFAwd3hSOVRKRk5Ud09vVTNR?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -488,11 +488,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 17:02:40 GMT",
-          "source": "Sportico.com"
+          "published": "Fri, 31 Jul 2026 14:19:00 GMT",
+          "source": "GlobeNewswire"
         }
       ]
     },
@@ -508,7 +508,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-07-31T09:16:49+00:00",
+      "first_seen": "2026-07-31T14:32:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -520,10 +520,10 @@
       "is_global": true
     },
     {
-      "id": "418abb2afdf2",
-      "title": "Sick of Making Workout Playlists? Spotify's New Running Mode Can Help - me.pcmag.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0dqajhSVGFCTlZoaWxrODJVZVFLdVkxMXpzLTF3SXNkNzZ6X3VUOTIzTENtQVozajRvQWljRVRyUTFzYlVuYkRzOXZMSWpmZ3lqZnNuVkYzVkNUMGlYQkdTZEMwSEJKWlpaMnU3WHppc2dfY0hqaXVoWl9aaFVsdko2aFVnZm1KRmRjcW1MYU5NanhsblV5OGswWmpZSm10UEF0NW9EUzVpNj",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0dqajhSVGFCTlZoaWxrODJVZVFLdVkxMXpzLTF3SXNkNzZ6X3VUOTIzTENtQVozajRvQWljRVRyUTFzYlVuYkRzOXZMSWpmZ3lqZnNuVkYzVkNUMGlYQkdTZEMwSEJKWlpaMnU3WHppc2dfY0hqaXVoWl9aaFVsdko2aFVnZm1KRmRjcW1MYU5NanhsblV5OGswWmpZSm10UEF0NW9EUzVpNjVnX2xFZlJzTThJNHhjT043NkFjNA?oc=5",
+      "id": "416c81c46e10",
+      "title": "Fitness to Practise Concerns Increase by a Quarter - medscape.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVB0VDNFLTVMUG9wc29Hb2VPakRubVJhZy1pd0lQUlByRWpYQW5TaWxrbUVrQTR2R2RHUEJDb282T1ZjSHVxQ3A5R0R2UkJib3FPNjNpQ2tneE0wTXNBNXpoV1JkcGVlbmFRV0Y3a1NyV0h3ekM2clZBOF96cUh6UXBRNlFOMkp1X3B2V3pHd19VNlJ3Wndn?oc=5\" target=\"_blank\">Fit",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVB0VDNFLTVMUG9wc29Hb2VPakRubVJhZy1pd0lQUlByRWpYQW5TaWxrbUVrQTR2R2RHUEJDb282T1ZjSHVxQ3A5R0R2UkJib3FPNjNpQ2tneE0wTXNBNXpoV1JkcGVlbmFRV0Y3a1NyV0h3ekM2clZBOF96cUh6UXBRNlFOMkp1X3B2V3pHd19VNlJ3Wndn?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -531,11 +531,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-07-31T09:14:23+00:00",
+      "first_seen": "2026-07-31T14:29:53+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 31 Jul 2026 04:04:01 GMT",
-          "source": "me.pcmag.com"
+          "published": "Thu, 30 Jul 2026 19:48:34 GMT",
+          "source": "medscape.com"
         }
       ]
     }
