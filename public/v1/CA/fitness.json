@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "CA",
-  "generated_at": "2026-08-03T03:57:40+00:00",
+  "generated_at": "2026-08-03T10:22:24+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "adf87b8cc72f",
-      "title": "Nurse recognized for saving life of friend who collapsed during workout in Saanich - Times Colonist",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWRzd0g5dVFKYS03ckN1RjJWWm1pemlwUU9rUEtnelpoSTMzeDd6WlAyR0NYU1NSNk9rUnJpRXByaW95QkJuVU9FY3V3NnFVSkZNSXpMOF95XzVfQnZ3eEowTER2MjkxYXUzNEgzSnVPQVZUNzdoQlI0VjRVWTJfSEhyYVN6WE5kWWhVeTlrNWJpSTlRd0ZDRVhPMEZGUG9lbk9JY3AxTzR6Mm",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWRzd0g5dVFKYS03ckN1RjJWWm1pemlwUU9rUEtnelpoSTMzeDd6WlAyR0NYU1NSNk9rUnJpRXByaW95QkJuVU9FY3V3NnFVSkZNSXpMOF95XzVfQnZ3eEowTER2MjkxYXUzNEgzSnVPQVZUNzdoQlI0VjRVWTJfSEhyYVN6WE5kWWhVeTlrNWJpSTlRd0ZDRVhPMEZGUG9lbk9JY3AxTzR6MmxyQUZ2bVhRd2RabUtVTUh5cDUzWUEzY2R1ZldQYlJQX3E?oc=5",
+      "id": "cbec52065522",
+      "title": "Westbank First Nation opens gym to shelter wildfire evacuees - Nanaimo News Bulletin",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2c4VTF6R2NzMk9UNlJKNGVoQkpqTWJtWkVvcmlIVi1ucmR5cUFBYWw5WDFqRmMyTU02U1FnWk1pVHZTVzFyNzBxX0N4ei1LNk9lcjM1X2VTQXYteUs0RWN4TFJYcE1iUzN1aGJlaWxsWXlxbTc4WmdyTVBJV0VtQ056a0VXNnJ4U3BzTzhya1Bqck14cG4wanFkV0R5OFhsaFE?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2c4VTF6R2NzMk9UNlJKNGVoQkpqTWJtWkVvcmlIVi1ucmR5cUFBYWw5WDFqRmMyTU02U1FnWk1pVHZTVzFyNzBxX0N4ei1LNk9lcjM1X2VTQXYteUs0RWN4TFJYcE1iUzN1aGJlaWxsWXlxbTc4WmdyTVBJV0VtQ056a0VXNnJ4U3BzTzhya1Bqck14cG4wanFkV0R5OFhsaFE?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 02 Aug 2026 15:17:30 GMT",
+          "source": "Nanaimo News Bulletin"
+        }
+      ]
+    },
+    {
+      "id": "adf87b8cc72f",
+      "title": "Nurse recognized for saving life of friend who collapsed during workout in Saanich - Times Colonist",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWRzd0g5dVFKYS03ckN1RjJWWm1pemlwUU9rUEtnelpoSTMzeDd6WlAyR0NYU1NSNk9rUnJpRXByaW95QkJuVU9FY3V3NnFVSkZNSXpMOF95XzVfQnZ3eEowTER2MjkxYXUzNEgzSnVPQVZUNzdoQlI0VjRVWTJfSEhyYVN6WE5kWWhVeTlrNWJpSTlRd0ZDRVhPMEZGUG9lbk9JY3AxTzR6Mm",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWRzd0g5dVFKYS03ckN1RjJWWm1pemlwUU9rUEtnelpoSTMzeDd6WlAyR0NYU1NSNk9rUnJpRXByaW95QkJuVU9FY3V3NnFVSkZNSXpMOF95XzVfQnZ3eEowTER2MjkxYXUzNEgzSnVPQVZUNzdoQlI0VjRVWTJfSEhyYVN6WE5kWWhVeTlrNWJpSTlRd0ZDRVhPMEZGUG9lbk9JY3AxTzR6MmxyQUZ2bVhRd2RabUtVTUh5cDUzWUEzY2R1ZldQYlJQX3E?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
           "published": "Sun, 02 Aug 2026 11:00:00 GMT",
@@ -31,14 +51,14 @@
       "title": "Listed former boys' school could become gym - Yahoo News Canada",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE91cXhGbmQ3bFJVc3FESE9lNFpvT3BkRDVrNnpYQmNpZG9Db2liLXpyZHV6dWw5V1cyZTZlQ2pvSTQ5aENyQ3AyWS0wVFJEUHl5VGo1VXFValpsOGRITUxtVzlnT2VpOUd6R1k1S0hwNFRDODFMYzZuLWV0LUM?oc=5\" target=\"_blank\">Listed former boys' school could become ",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91cXhGbmQ3bFJVc3FESE9lNFpvT3BkRDVrNnpYQmNpZG9Db2liLXpyZHV6dWw5V1cyZTZlQ2pvSTQ5aENyQ3AyWS0wVFJEUHl5VGo1VXFValpsOGRITUxtVzlnT2VpOUd6R1k1S0hwNFRDODFMYzZuLWV0LUM?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
           "published": "Sun, 02 Aug 2026 13:15:31 GMT",
@@ -47,30 +67,10 @@
       ]
     },
     {
-      "id": "cbec52065522",
-      "title": "Westbank First Nation opens gym to shelter wildfire evacuees - Nanaimo News Bulletin",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2c4VTF6R2NzMk9UNlJKNGVoQkpqTWJtWkVvcmlIVi1ucmR5cUFBYWw5WDFqRmMyTU02U1FnWk1pVHZTVzFyNzBxX0N4ei1LNk9lcjM1X2VTQXYteUs0RWN4TFJYcE1iUzN1aGJlaWxsWXlxbTc4WmdyTVBJV0VtQ056a0VXNnJ4U3BzTzhya1Bqck14cG4wanFkV0R5OFhsaFE?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2c4VTF6R2NzMk9UNlJKNGVoQkpqTWJtWkVvcmlIVi1ucmR5cUFBYWw5WDFqRmMyTU02U1FnWk1pVHZTVzFyNzBxX0N4ei1LNk9lcjM1X2VTQXYteUs0RWN4TFJYcE1iUzN1aGJlaWxsWXlxbTc4WmdyTVBJV0VtQ056a0VXNnJ4U3BzTzhya1Bqck14cG4wanFkV0R5OFhsaFE?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 02 Aug 2026 15:17:30 GMT",
-          "source": "Nanaimo News Bulletin"
-        }
-      ]
-    },
-    {
-      "id": "84c8de12a0b0",
-      "title": "No Running, No Long Cardio: How This Fitness Influencer Lost 24 Kg With A 20-Minute Walk - NDTV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWnRUYVllZTF2ZG5GZ3g2ZGliazJ0Slg2S3VCRWVIMkctVkxIaURkNnVfUjcwUG8zZU9UeXh6NHNOU2JSdk9NTG5fSHNNbmZwbkZ1a0tZbl9RTGVrcHk0SVdCUGRvWm9yTFp4N2pyZVRLWnJ5NUIwMHAyYmhXMjY1QWpLcVhRUFdnY0MtNmNvOHEySWRkN2U3ZC1wS3VFVklDd2F5UTVlX3BOaF",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWnRUYVllZTF2ZG5GZ3g2ZGliazJ0Slg2S3VCRWVIMkctVkxIaURkNnVfUjcwUG8zZU9UeXh6NHNOU2JSdk9NTG5fSHNNbmZwbkZ1a0tZbl9RTGVrcHk0SVdCUGRvWm9yTFp4N2pyZVRLWnJ5NUIwMHAyYmhXMjY1QWpLcVhRUFdnY0MtNmNvOHEySWRkN2U3ZC1wS3VFVklDd2F5UTVlX3BOaFVuUDJoWFFTSTdsNGNUNWdrdGoxdjVzaWRh0gHMAUFVX3lxTE8tRGlXbzBDems4REN6ZDEzd2ExSjhzMzhBLVF3S0tqUXdWT1VjdWFHT3ZuaHhYUGpyaE8xczExOTFHUkYwZWhSVHBHbGdRRTZMcjhGWTUyaGlGb0pHSnY1T3VkZVQxcE1pNTIwUzZYZmx1dnNPd0hYRndwbzdINW1xTnFJV051OEJFVjVDckxCMkk2R1B1a3d6WHNLbHQ5OVlfTWZCSW9wdGJRN0xDRzhiXzFXUjJuQWoweC1FcWF4OHBiTGdGYnN6dDNXSQ?oc=5",
+      "id": "3b9d01b5b9ae",
+      "title": "How fitness, speed and position shape competition in expanding populations - Phys.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1BMnM1ZzhXQkF3OExtRENtbWtic2RyRmk3Z3dMWE9lOXdXdWp3NjFWZmdFQS1VdmdzajQ0VHFSRkZkbk9YVk5sR0F6Sk5uRE5uWGYwWlpsRWhRVDlQbUMtRVk2dS1PeFE1T0lKOFZMY19sdnp1eUE?oc=5\" target=\"_blank\">How fitness, speed and position shape competitio",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BMnM1ZzhXQkF3OExtRENtbWtic2RyRmk3Z3dMWE9lOXdXdWp3NjFWZmdFQS1VdmdzajQ0VHFSRkZkbk9YVk5sR0F6Sk5uRE5uWGYwWlpsRWhRVDlQbUMtRVk2dS1PeFE1T0lKOFZMY19sdnp1eUE?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,11 +78,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 02 Aug 2026 09:34:27 GMT",
-          "source": "NDTV"
+          "published": "Mon, 03 Aug 2026 04:00:02 GMT",
+          "source": "Phys.org"
         }
       ]
     },
@@ -98,7 +98,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
           "published": "Thu, 30 Jul 2026 19:50:00 GMT",
@@ -107,10 +107,10 @@
       ]
     },
     {
-      "id": "b6ac472338a6",
-      "title": "Pilates used to sit on the fringes of male fitness culture – but no longer. Here's what changed - bikeradar.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE02bVVPWDJxZkNxTHNpSy16OGlIQXhGYnRrZnhPeFFmc3Z1LXhVcWhqdDVGVU80RUFFX2hlUnpvRFNpR2hmODY4LUt4SDQyXzJ3SU5Dem1JSmhWak1tM21vZWJuZEczUG44akFReUtBNEVMZDVGWjNWU3J3?oc=5\" target=\"_blank\">Pilates used to sit on the fringes of male ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02bVVPWDJxZkNxTHNpSy16OGlIQXhGYnRrZnhPeFFmc3Z1LXhVcWhqdDVGVU80RUFFX2hlUnpvRFNpR2hmODY4LUt4SDQyXzJ3SU5Dem1JSmhWak1tM21vZWJuZEczUG44akFReUtBNEVMZDVGWjNWU3J3?oc=5",
+      "id": "7cc610b6da10",
+      "title": "Best of Scottie Barnes | Open Gym presented by Bell - NBA.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpHOHUzSFlqRDVpOUQyV0ZDOE11XzBnNDJnZ3Rkcjc3UjVWMEN1TVphdWJYM3JYT29KU19nYWM3Z05IM3ZxZGlIUVlaanp3ZmZzNF9GRWlxVzZxNW93SnZwY2J0Y0ZfcUlseTAtblRVRVBNeHpiQzNWVzlWTWNIbklkSlFrcnR0OE1BRw?oc=5\" target=\"_blank\">Best of Scottie B",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpHOHUzSFlqRDVpOUQyV0ZDOE11XzBnNDJnZ3Rkcjc3UjVWMEN1TVphdWJYM3JYT29KU19nYWM3Z05IM3ZxZGlIUVlaanp3ZmZzNF9GRWlxVzZxNW93SnZwY2J0Y0ZfcUlseTAtblRVRVBNeHpiQzNWVzlWTWNIbklkSlFrcnR0OE1BRw?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -118,19 +118,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 02 Aug 2026 09:00:00 GMT",
-          "source": "bikeradar.com"
+          "published": "Sat, 01 Aug 2026 16:23:05 GMT",
+          "source": "NBA.com"
         }
       ]
     },
     {
-      "id": "7cc610b6da10",
-      "title": "Best of Scottie Barnes | Open Gym presented by Bell - NBA.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpHOHUzSFlqRDVpOUQyV0ZDOE11XzBnNDJnZ3Rkcjc3UjVWMEN1TVphdWJYM3JYT29KU19nYWM3Z05IM3ZxZGlIUVlaanp3ZmZzNF9GRWlxVzZxNW93SnZwY2J0Y0ZfcUlseTAtblRVRVBNeHpiQzNWVzlWTWNIbklkSlFrcnR0OE1BRw?oc=5\" target=\"_blank\">Best of Scottie B",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpHOHUzSFlqRDVpOUQyV0ZDOE11XzBnNDJnZ3Rkcjc3UjVWMEN1TVphdWJYM3JYT29KU19nYWM3Z05IM3ZxZGlIUVlaanp3ZmZzNF9GRWlxVzZxNW93SnZwY2J0Y0ZfcUlseTAtblRVRVBNeHpiQzNWVzlWTWNIbklkSlFrcnR0OE1BRw?oc=5",
+      "id": "7872a7b3a21f",
+      "title": "Six things to know about infrared workouts – by a fitness expert - The Conversation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOLXBjSThXYS1JVkdkejZ4NEd6bUI4UkpCT3NKaTRHTlNhMFVPMDFhX2owalFtUG5wS3E2ZEh5cHJadjJmVUo5YUpWTHB3TXZDajU2Z1BpRnZUQU1RbWJaVHVsV24zNmxMaHBWOHF0NkVabUxPVDRYcmJyM0taU2xNQWp3ZDJlQTRBQ1o2T1MzWHZqbHJLc2lrNnRjNlZjUQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXBjSThXYS1JVkdkejZ4NEd6bUI4UkpCT3NKaTRHTlNhMFVPMDFhX2owalFtUG5wS3E2ZEh5cHJadjJmVUo5YUpWTHB3TXZDajU2Z1BpRnZUQU1RbWJaVHVsV24zNmxMaHBWOHF0NkVabUxPVDRYcmJyM0taU2xNQWp3ZDJlQTRBQ1o2T1MzWHZqbHJLc2lrNnRjNlZjUQ?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -138,11 +138,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 01 Aug 2026 16:23:05 GMT",
-          "source": "NBA.com"
+          "published": "Thu, 30 Jul 2026 09:52:44 GMT",
+          "source": "The Conversation"
         }
       ]
     },
@@ -158,7 +158,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:50+00:00",
+      "first_seen": "2026-08-03T10:15:40+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -181,7 +181,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:52+00:00",
+      "first_seen": "2026-08-03T10:15:42+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -193,10 +193,10 @@
       "is_global": true
     },
     {
-      "id": "d57d8585b091",
-      "title": "This once-a-week workout may help cut belly fat, study shows - ScienceDaily",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBmcEhRZVRPdGxFU0VoOWtmekxmYXlXTGo1NWwzVlp1VUpDcS1DM3p0bE80RElWeGhqVXlwQ3o5M01nSWNUdEhrWTJsRURwcjQ0bEhqUEFMU2M5ZlJLZ1VId3h4dVFZZWxRYUZIX1hvQQ?oc=5\" target=\"_blank\">This once-a-week workout may help cut belly fat, study sh",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmcEhRZVRPdGxFU0VoOWtmekxmYXlXTGo1NWwzVlp1VUpDcS1DM3p0bE80RElWeGhqVXlwQ3o5M01nSWNUdEhrWTJsRURwcjQ0bEhqUEFMU2M5ZlJLZ1VId3h4dVFZZWxRYUZIX1hvQQ?oc=5",
+      "id": "bb92b490325a",
+      "title": "Experts Say This Gym Machine Is a Shortcut to Becoming a Stronger Climber. And Most Cyclists Ignore It. - bicycling.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObS1HTXRwYWNSMFVlZ1gyQ3RJZm80Q0ZXZEFJTm9DRHF1R281aE01dXluSHpQaTJXMEd4RnFFR21EN3dJaE9MQnZCOUNOczhjZDNKMk1Cb0JMMEE4WGpNUUxYeDUxMU9URjdjNEctYWQzV2oxQ2VHajVzSVZxS1FXUGUzMWQ?oc=5\" target=\"_blank\">Experts Say This Gym Machine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObS1HTXRwYWNSMFVlZ1gyQ3RJZm80Q0ZXZEFJTm9DRHF1R281aE01dXluSHpQaTJXMEd4RnFFR21EN3dJaE9MQnZCOUNOczhjZDNKMk1Cb0JMMEE4WGpNUUxYeDUxMU9URjdjNEctYWQzV2oxQ2VHajVzSVZxS1FXUGUzMWQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -204,11 +204,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 02 Aug 2026 07:35:15 GMT",
-          "source": "ScienceDaily"
+          "published": "Fri, 31 Jul 2026 20:36:00 GMT",
+          "source": "bicycling.com"
         }
       ]
     },
@@ -224,7 +224,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:50+00:00",
+      "first_seen": "2026-08-03T10:15:40+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -247,7 +247,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:52+00:00",
+      "first_seen": "2026-08-03T10:15:42+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -259,10 +259,10 @@
       "is_global": true
     },
     {
-      "id": "ea32b6425fd0",
-      "title": "Sweat and toil in Jeju: Bayern's first workout on the Audi Summer Tour - FC Bayern",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUw5Q2dYbHZ1OTUyZkJZYUIzQ0xrSWo5THBIS3JiSjY0UTNkSW5ieVg4VV9aOGl0NXM3NnhMWlpKaG55U2Y4aHN1UUpwYXlxRXFmUm52bVMtX0hqay1uRmNfZGNVU3hqQVR0enFycy1USGdsOG1yVUktWUxBS2Jpdk91NEhRU0g5UUd5UGtFcG1xUUtVR3c?oc=5\" target=\"_blank\">Swea",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUw5Q2dYbHZ1OTUyZkJZYUIzQ0xrSWo5THBIS3JiSjY0UTNkSW5ieVg4VV9aOGl0NXM3NnhMWlpKaG55U2Y4aHN1UUpwYXlxRXFmUm52bVMtX0hqay1uRmNfZGNVU3hqQVR0enFycy1USGdsOG1yVUktWUxBS2Jpdk91NEhRU0g5UUd5UGtFcG1xUUtVR3c?oc=5",
+      "id": "835481ddc210",
+      "title": "‘I spent a week crying. I’ve never had an injury in my life!’ Why do so many fitness fans end up needing surgery? - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQUlPQjk1QW1Qc1AyQmhSYWtoeWliOXM0ZFJzYnF1NTFXUFB6TkxUdF92Y3JNeWVDaXBNblFyeGY5c0lSNndOYnJ6NF9ob1ROaHZmOVIzY09lQWhLc2pmTW9CV3c5MGUtb1RhaFVlSE9vYW1vdG5GWkxKWnFOOHZPYTBiMm14V0RyZjgzVndEMEc?oc=5\" target=\"_blank\">‘I spent a w",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQUlPQjk1QW1Qc1AyQmhSYWtoeWliOXM0ZFJzYnF1NTFXUFB6TkxUdF92Y3JNeWVDaXBNblFyeGY5c0lSNndOYnJ6NF9ob1ROaHZmOVIzY09lQWhLc2pmTW9CV3c5MGUtb1RhaFVlSE9vYW1vdG5GWkxKWnFOOHZPYTBiMm14V0RyZjgzVndEMEc?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -270,11 +270,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 02 Aug 2026 11:32:00 GMT",
-          "source": "FC Bayern"
+          "published": "Mon, 03 Aug 2026 09:00:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
@@ -290,7 +290,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:52+00:00",
+      "first_seen": "2026-08-03T10:15:42+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -313,7 +313,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:52+00:00",
+      "first_seen": "2026-08-03T10:15:42+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -325,10 +325,10 @@
       "is_global": true
     },
     {
-      "id": "3e64a5cfe4ca",
-      "title": "Six things to know about infrared workouts – by a fitness expert - theconversation.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOLXBjSThXYS1JVkdkejZ4NEd6bUI4UkpCT3NKaTRHTlNhMFVPMDFhX2owalFtUG5wS3E2ZEh5cHJadjJmVUo5YUpWTHB3TXZDajU2Z1BpRnZUQU1RbWJaVHVsV24zNmxMaHBWOHF0NkVabUxPVDRYcmJyM0taU2xNQWp3ZDJlQTRBQ1o2T1MzWHZqbHJLc2lrNnRjNlZjUQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXBjSThXYS1JVkdkejZ4NEd6bUI4UkpCT3NKaTRHTlNhMFVPMDFhX2owalFtUG5wS3E2ZEh5cHJadjJmVUo5YUpWTHB3TXZDajU2Z1BpRnZUQU1RbWJaVHVsV24zNmxMaHBWOHF0NkVabUxPVDRYcmJyM0taU2xNQWp3ZDJlQTRBQ1o2T1MzWHZqbHJLc2lrNnRjNlZjUQ?oc=5",
+      "id": "84c8de12a0b0",
+      "title": "No Running, No Long Cardio: How This Fitness Influencer Lost 24 Kg With A 20-Minute Walk - NDTV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWnRUYVllZTF2ZG5GZ3g2ZGliazJ0Slg2S3VCRWVIMkctVkxIaURkNnVfUjcwUG8zZU9UeXh6NHNOU2JSdk9NTG5fSHNNbmZwbkZ1a0tZbl9RTGVrcHk0SVdCUGRvWm9yTFp4N2pyZVRLWnJ5NUIwMHAyYmhXMjY1QWpLcVhRUFdnY0MtNmNvOHEySWRkN2U3ZC1wS3VFVklDd2F5UTVlX3BOaF",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWnRUYVllZTF2ZG5GZ3g2ZGliazJ0Slg2S3VCRWVIMkctVkxIaURkNnVfUjcwUG8zZU9UeXh6NHNOU2JSdk9NTG5fSHNNbmZwbkZ1a0tZbl9RTGVrcHk0SVdCUGRvWm9yTFp4N2pyZVRLWnJ5NUIwMHAyYmhXMjY1QWpLcVhRUFdnY0MtNmNvOHEySWRkN2U3ZC1wS3VFVklDd2F5UTVlX3BOaFVuUDJoWFFTSTdsNGNUNWdrdGoxdjVzaWRh0gHMAUFVX3lxTE8tRGlXbzBDems4REN6ZDEzd2ExSjhzMzhBLVF3S0tqUXdWT1VjdWFHT3ZuaHhYUGpyaE8xczExOTFHUkYwZWhSVHBHbGdRRTZMcjhGWTUyaGlGb0pHSnY1T3VkZVQxcE1pNTIwUzZYZmx1dnNPd0hYRndwbzdINW1xTnFJV051OEJFVjVDckxCMkk2R1B1a3d6WHNLbHQ5OVlfTWZCSW9wdGJRN0xDRzhiXzFXUjJuQWoweC1FcWF4OHBiTGdGYnN6dDNXSQ?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -336,11 +336,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 30 Jul 2026 09:52:44 GMT",
-          "source": "theconversation.com"
+          "published": "Sun, 02 Aug 2026 09:34:27 GMT",
+          "source": "NDTV"
         }
       ]
     },
@@ -356,7 +356,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:52+00:00",
+      "first_seen": "2026-08-03T10:15:42+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -368,10 +368,10 @@
       "is_global": true
     },
     {
-      "id": "8a9d33fab252",
-      "title": "ROSEN, A LEADING LAW FIRM, Encourages Planet Fitness, Inc. - GlobeNewswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxOMjFlLWxIZWttN2FmNURxd09pMnJ3N1RzYlY4TG5zTzFKTnRzOUttdWtWWDcyRThLeUtTaUpqQng5cVNpeFFlVTlYNHBZcjdVbFZFdEdrY1h4SlB5QjZ1WTdPTG03ZzYxaDJtY19KMjZDR3lCcF8zeXp3c0NOLXIxNjRlM1ZDRTE5ZU5FLXlKeEVCbEdhWnJqX0Q2VVhJdnVKeTZzdnBvN0xMbX",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMjFlLWxIZWttN2FmNURxd09pMnJ3N1RzYlY4TG5zTzFKTnRzOUttdWtWWDcyRThLeUtTaUpqQng5cVNpeFFlVTlYNHBZcjdVbFZFdEdrY1h4SlB5QjZ1WTdPTG03ZzYxaDJtY19KMjZDR3lCcF8zeXp3c0NOLXIxNjRlM1ZDRTE5ZU5FLXlKeEVCbEdhWnJqX0Q2VVhJdnVKeTZzdnBvN0xMbXFfeE0zZEd0ZlI2SkJhcDVJaFFFeEJ5NmlhcF8ycXRMcFJXN1BtRGVsenZ1T3UtdFZqbmJlMXZOX1k1aHRmMzFuR3BoTVpEOWp0RmQwMW1BWjlZNjlLa1pjRUM4bzF3Ry11clRIMF84RUFYVE5zVHU2MW5QVkxwckxqVks0cUJKcld0WHBfV19KVFlvdzBCUQ?oc=5",
+      "id": "9de72b76de84",
+      "title": "Last Week in College Gym: August 3 - College Gym News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9UdzBaZ29xRkxRcTZIWkoxTlQ2UHQ3ZGtWYng5cUFOZUtILTdxa3pwMUFkSm4wUEt3cFdtbTMwYWZ2ZXlidVBqUFBIb3pKVkdudXM1cjlpREhvZG9pWlpYSUNXeHhiTnJpQVdPUnZadnNnVTM0MVc3akJpZjM5Z3M?oc=5\" target=\"_blank\">Last Week in College Gym: August 3</",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UdzBaZ29xRkxRcTZIWkoxTlQ2UHQ3ZGtWYng5cUFOZUtILTdxa3pwMUFkSm4wUEt3cFdtbTMwYWZ2ZXlidVBqUFBIb3pKVkdudXM1cjlpREhvZG9pWlpYSUNXeHhiTnJpQVdPUnZadnNnVTM0MVc3akJpZjM5Z3M?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -379,11 +379,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 02 Aug 2026 17:19:00 GMT",
-          "source": "GlobeNewswire"
+          "published": "Mon, 03 Aug 2026 07:01:41 GMT",
+          "source": "College Gym News"
         }
       ]
     },
@@ -399,7 +399,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:52+00:00",
+      "first_seen": "2026-08-03T10:15:42+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -409,30 +409,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "ef4d84b5b486",
-      "title": "NHL Summer Sizzle Workout Edition: Nico Sturm - NHL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdC16eHljZ1BOMVBrdjlLTXZ0WmN3czNhQ3hzOE5RMDRlRDFiNk1lUXFVZUdkX3dBc25vTkctMTZia3VTOTMwaGZUMVFHQzd0YUtjSGpzZURSZVhYRVVZUlF2NkhpYVZBU2hTVFA4RklFdHFiZ0dBN3ZlUTNkR2IyMGhyWlJzNHd3OThyYTZwV0ZvQQ?oc=5\" target=\"_blank\">NHL Summe",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdC16eHljZ1BOMVBrdjlLTXZ0WmN3czNhQ3hzOE5RMDRlRDFiNk1lUXFVZUdkX3dBc25vTkctMTZia3VTOTMwaGZUMVFHQzd0YUtjSGpzZURSZVhYRVVZUlF2NkhpYVZBU2hTVFA4RklFdHFiZ0dBN3ZlUTNkR2IyMGhyWlJzNHd3OThyYTZwV0ZvQQ?oc=5",
-      "score": 48.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 27 Jul 2026 19:41:05 GMT",
-          "source": "NHL.com"
-        },
-        {
-          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "source": "NHL.com"
-        }
-      ]
     },
     {
       "id": "1863e8be25ac",
@@ -446,7 +422,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:52+00:00",
+      "first_seen": "2026-08-03T10:15:42+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -458,10 +434,10 @@
       "is_global": true
     },
     {
-      "id": "4136113f2d3e",
-      "title": "At-Home Fitness: 9 exercise items to upgrade your home workouts - Seattle Refined",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQR1dzYnpsNGpDSk83T0h4Sm85ZkJncnRXeGRVVnpiSUNzb3pqSXZRbm1HU1BqRkd3Uk04cVVsd2t3UFYyYnltYWNVV25VSkVoVmhFN2VWamtDdzJvLW5aWDRtdkxXV2c5M1FRUE9UUVBycUpPcG5FWnBkMU1VQjVTUjdrbkxicVVRZWN5dHJaVm12OGlOSHBLVEdLUTUweHllYXFwd0hVYlp0YT",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQR1dzYnpsNGpDSk83T0h4Sm85ZkJncnRXeGRVVnpiSUNzb3pqSXZRbm1HU1BqRkd3Uk04cVVsd2t3UFYyYnltYWNVV25VSkVoVmhFN2VWamtDdzJvLW5aWDRtdkxXV2c5M1FRUE9UUVBycUpPcG5FWnBkMU1VQjVTUjdrbkxicVVRZWN5dHJaVm12OGlOSHBLVEdLUTUweHllYXFwd0hVYlp0YTNxNU9QQTZZQ0o3TVpUYy15SzF3NXdBelF5NFBuNkhhTjVGV1FrQlZoMWJQaHFvZXJwdm9leXY3ZHZ6bGUxMzREZ1BpOUtNM2ZiMDlBaGd3a2U3YWJEOWFoXzcxaEFwZjRLX2hHOHdlQ1g?oc=5",
+      "id": "ef4d84b5b486",
+      "title": "NHL Summer Sizzle Workout Edition: Nico Sturm - NHL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdC16eHljZ1BOMVBrdjlLTXZ0WmN3czNhQ3hzOE5RMDRlRDFiNk1lUXFVZUdkX3dBc25vTkctMTZia3VTOTMwaGZUMVFHQzd0YUtjSGpzZURSZVhYRVVZUlF2NkhpYVZBU2hTVFA4RklFdHFiZ0dBN3ZlUTNkR2IyMGhyWlJzNHd3OThyYTZwV0ZvQQ?oc=5\" target=\"_blank\">NHL Summe",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdC16eHljZ1BOMVBrdjlLTXZ0WmN3czNhQ3hzOE5RMDRlRDFiNk1lUXFVZUdkX3dBc25vTkctMTZia3VTOTMwaGZUMVFHQzd0YUtjSGpzZURSZVhYRVVZUlF2NkhpYVZBU2hTVFA4RklFdHFiZ0dBN3ZlUTNkR2IyMGhyWlJzNHd3OThyYTZwV0ZvQQ?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -469,11 +445,35 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 02 Aug 2026 19:12:31 GMT",
-          "source": "Seattle Refined"
+          "published": "Mon, 27 Jul 2026 19:41:05 GMT",
+          "source": "NHL.com"
+        },
+        {
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "source": "NHL.com"
+        }
+      ]
+    },
+    {
+      "id": "40ec4307c755",
+      "title": "Apple’s Glasses Are Reportedly Being Developed as Fitness Devices Like the Apple Watch - Gizmodo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUFDa0JYMUdHcWxqVjFzZHRtc1BHdU9RcnZxTF9rclFNUzBoQ3p0Wl93VzFRcjdlZGlQUk9TZlJQVzdMUEV1b25NcVJpSTdEaXdZYjVBMHpfM1dNZlA1aWdHRUlFWktkWGJnZWNpRXAycC13dnN4M3RoOEJRa19YRzM2dkMwMUFnZXNDOEdXTk43Um5lTWwxdjFydE55b3NsMHBzR3d0UXZuZn",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUFDa0JYMUdHcWxqVjFzZHRtc1BHdU9RcnZxTF9rclFNUzBoQ3p0Wl93VzFRcjdlZGlQUk9TZlJQVzdMUEV1b25NcVJpSTdEaXdZYjVBMHpfM1dNZlA1aWdHRUlFWktkWGJnZWNpRXAycC13dnN4M3RoOEJRa19YRzM2dkMwMUFnZXNDOEdXTk43Um5lTWwxdjFydE55b3NsMHBzR3d0UXZuZnJTV084N0p1dEdITFU?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-08-03T10:13:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 03 Aug 2026 09:00:38 GMT",
+          "source": "Gizmodo"
         }
       ]
     },
@@ -489,7 +489,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:52+00:00",
+      "first_seen": "2026-08-03T10:15:42+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -501,10 +501,10 @@
       "is_global": true
     },
     {
-      "id": "bb92b490325a",
-      "title": "Experts Say This Gym Machine Is a Shortcut to Becoming a Stronger Climber. And Most Cyclists Ignore It. - bicycling.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObS1HTXRwYWNSMFVlZ1gyQ3RJZm80Q0ZXZEFJTm9DRHF1R281aE01dXluSHpQaTJXMEd4RnFFR21EN3dJaE9MQnZCOUNOczhjZDNKMk1Cb0JMMEE4WGpNUUxYeDUxMU9URjdjNEctYWQzV2oxQ2VHajVzSVZxS1FXUGUzMWQ?oc=5\" target=\"_blank\">Experts Say This Gym Machine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObS1HTXRwYWNSMFVlZ1gyQ3RJZm80Q0ZXZEFJTm9DRHF1R281aE01dXluSHpQaTJXMEd4RnFFR21EN3dJaE9MQnZCOUNOczhjZDNKMk1Cb0JMMEE4WGpNUUxYeDUxMU9URjdjNEctYWQzV2oxQ2VHajVzSVZxS1FXUGUzMWQ?oc=5",
+      "id": "f3561120012c",
+      "title": "Windsor gym apologizes after Sikh man ordered to leave over ceremonial kirpan - CP24",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWN0eV9UamhHTEN1ME1qdnZyVzVDS1RPUkVOTl9UNWF1TEd2R0MtSXB3Y1AxWEJqbzBKVnFDS1NBWnh1LVh3YlFia010Z180SEFVUTJjcDl0UE1RWEs0Mm93b0FSOWUxajZtdVNkdDJwQmJIQ19oNWI4ZVV5WEo5RWF4ckxxRmlEbERTUmRpV1hUZThWdmJZLXdHT3I2YmJlcU5zTk9FbFFsdT",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWN0eV9UamhHTEN1ME1qdnZyVzVDS1RPUkVOTl9UNWF1TEd2R0MtSXB3Y1AxWEJqbzBKVnFDS1NBWnh1LVh3YlFia010Z180SEFVUTJjcDl0UE1RWEs0Mm93b0FSOWUxajZtdVNkdDJwQmJIQ19oNWI4ZVV5WEo5RWF4ckxxRmlEbERTUmRpV1hUZThWdmJZLXdHT3I2YmJlcU5zTk9FbFFsdTV4S084VEt2SHllWkhBR19wUmZ1OA?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -512,11 +512,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-03T03:48:29+00:00",
+      "first_seen": "2026-08-03T10:13:19+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 31 Jul 2026 20:36:00 GMT",
-          "source": "bicycling.com"
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "source": "CP24"
         }
       ]
     },
@@ -532,7 +532,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-03T03:50:52+00:00",
+      "first_seen": "2026-08-03T10:15:42+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
