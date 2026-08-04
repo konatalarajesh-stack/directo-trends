@@ -2,13 +2,13 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-08-03T20:00:57+00:00",
+  "generated_at": "2026-08-04T03:40:58+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "8f74b61a2a7e",
-      "title": "Children aged 11-16 to get free bus travel in Greater Manchester - BBC",
+      "id": "2dd35d1f3e2f",
+      "title": "Children aged 11-16 to get free bus travel in Greater Manchester - bbc.co.uk",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yZWRtVzVGejFHYzVCeWpYSE8xelVHc3B4M2IwNGtHb2FBbkFMeE02bk92LUZ2M25zN0dydzBkdFBTWjEwY1V3RVlKeWhFQUZvRHR5eTZHbTBRSTIz?oc=5\" target=\"_blank\">Children aged 11-16 to get free bus travel in Greater Manchester</a>&nbsp;&nbsp;<fo",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yZWRtVzVGejFHYzVCeWpYSE8xelVHc3B4M2IwNGtHb2FBbkFMeE02bk92LUZ2M25zN0dydzBkdFBTWjEwY1V3RVlKeWhFQUZvRHR5eTZHbTBRSTIz?oc=5",
       "score": 90.0,
@@ -18,10 +18,30 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
           "published": "Mon, 03 Aug 2026 11:59:48 GMT",
+          "source": "bbc.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "71bb53f9307d",
+      "title": "Half price rail travel extended to 18-year-olds - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQVRXaGNfc19hQ01uVWhLVEg3U2FoOHotQS1fTy1COHF3S1c2SmJOaC1MbHNMUXZlVkIwUUlXcTQ3RTBaNkVYQUNkZWVmMEluRkNTSFNJMkN6dw?oc=5\" target=\"_blank\">Half price rail travel extended to 18-year-olds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQVRXaGNfc19hQ01uVWhLVEg3U2FoOHotQS1fTy1COHF3S1c2SmJOaC1MbHNMUXZlVkIwUUlXcTQ3RTBaNkVYQUNkZWVmMEluRkNTSFNJMkN6dw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-04T03:31:59+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 03 Aug 2026 23:34:13 GMT",
           "source": "BBC"
         }
       ]
@@ -31,14 +51,14 @@
       "title": "Audley Travel plans nationwide UK retail expansion - Travel Weekly - Home",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3p5czZ6RHBOUms4eVZNR3g3ejR1XzhlRFFJU3I1OUNSc2VzcE5TN1JVRXNsdjI2SnV1cTdJTDYwdUtsYWVBOTBkZjBuZENxcmxncmZ6Wmw4a2lpUWczWFo1aGxoc1ZBSzlFb1JpazNWMDNlekZXTF9xMXNrbkN5dmlYdnUtNlhOcUE?oc=5\" target=\"_blank\">Audley Travel plans ",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3p5czZ6RHBOUms4eVZNR3g3ejR1XzhlRFFJU3I1OUNSc2VzcE5TN1JVRXNsdjI2SnV1cTdJTDYwdUtsYWVBOTBkZjBuZENxcmxncmZ6Wmw4a2lpUWczWFo1aGxoc1ZBSzlFb1JpazNWMDNlekZXTF9xMXNrbkN5dmlYdnUtNlhOcUE?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
           "published": "Mon, 03 Aug 2026 12:44:00 GMT",
@@ -47,30 +67,10 @@
       ]
     },
     {
-      "id": "5ba9ace6f444",
-      "title": "PredictX debuts Overture to help show value of managed travel - The Business Travel Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQbExuYlBRRHRGa2Zxa3oyemQ3aFhqVUN5NmJUdmd5VnJSNi10UVNvSnlrXzR3aG5odE9nZXNZb3dBMGd5aC1WVkxJYzdMcy02d01wNzJGYVFUamxqWUJ3X2VjR3V5RmVPNTBqZHVHUEJZQTZaaHhrS0NNcGVyZFFsMVNlZU9aOVdMejVDTC1qaXRJUXhsN2JJcDBFMA?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbExuYlBRRHRGa2Zxa3oyemQ3aFhqVUN5NmJUdmd5VnJSNi10UVNvSnlrXzR3aG5odE9nZXNZb3dBMGd5aC1WVkxJYzdMcy02d01wNzJGYVFUamxqWUJ3X2VjR3V5RmVPNTBqZHVHUEJZQTZaaHhrS0NNcGVyZFFsMVNlZU9aOVdMejVDTC1qaXRJUXhsN2JJcDBFMA?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 03 Aug 2026 11:41:14 GMT",
-          "source": "The Business Travel Magazine"
-        }
-      ]
-    },
-    {
-      "id": "db1a150fe76c",
-      "title": "Tell us about your favourite UK holiday - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXF4UVhlVFgwcUdGQzhnZnNMTVlfeEhCME1PVDhTNTdIcjEydnI3SHprZmxmWHhhOEJYTVhSY21HRzl3NFNvQjNRNEx4U3lkRjM0MHRZTmczWmhJdGgyUkx6S3pPZlIwbjNodzFpalhzVUk2ZTUyaV8zUS01ODBKNFB2di1GYmRBUDNBYnJibWhZb1pDVkFWNmR5QXlFR0FtR2FB?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXF4UVhlVFgwcUdGQzhnZnNMTVlfeEhCME1PVDhTNTdIcjEydnI3SHprZmxmWHhhOEJYTVhSY21HRzl3NFNvQjNRNEx4U3lkRjM0MHRZTmczWmhJdGgyUkx6S3pPZlIwbjNodzFpalhzVUk2ZTUyaV8zUS01ODBKNFB2di1GYmRBUDNBYnJibWhZb1pDVkFWNmR5QXlFR0FtR2FB?oc=5",
+      "id": "02509ee69b23",
+      "title": "The Cruise Travel Agency That Hit £1 Million in Sales Almost Overnight and Now Can't Hire Travel Advisors Fast Enough - PA Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQM0g3a3VaZXNFaGJfbHpjaGNUYnVLY1c4eDJ4Nk1wMWNiejY1dW05dHN0WHZXb1I2bHhKZFJrTk9yTS1BLTNxdzUzaWE4aXlJcktJdUhKNXpBX0I4NFpsNTZRWDdDdXFNaHNIZXFGcmUyNWxyRUQyakcycWlGRjdvT3dWS0JFbG45UV9MekpGbXA3YnVUdkFLcWdJWmllTWh5NGozcW5aVFFyam",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQM0g3a3VaZXNFaGJfbHpjaGNUYnVLY1c4eDJ4Nk1wMWNiejY1dW05dHN0WHZXb1I2bHhKZFJrTk9yTS1BLTNxdzUzaWE4aXlJcktJdUhKNXpBX0I4NFpsNTZRWDdDdXFNaHNIZXFGcmUyNWxyRUQyakcycWlGRjdvT3dWS0JFbG45UV9MekpGbXA3YnVUdkFLcWdJWmllTWh5NGozcW5aVFFyamtvVTlpNVpTcUdqeVpJTHQtdThxc2JGV3ptRVYxc20wSWdtVGFUSHRUZFhIbWc2TFJtYTM0WldSOWRJaU9sa2x6N2ZNcFBGOE9NQmZzcXZLZw?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,31 +78,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 14:19:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "id": "180e5080d61f",
-      "title": "WeRoad Is Making Group Adventure Travel Accessible To Gen Z - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNV9VSGk5NnZBTUUzS3YwYzcwU1hES3lSSHVfc3NYUm5vejRwcGVYY3V2dW10amYwOUQ2djZvcC1fUGV0a0F4TVBYWGcwcjBuLTN5QVF4cUhSalVUdTZmU2pRVlliVEVYT3JUdERyXy1IalVzcERqcjVVUGNNXzdmNEQ0anZiQzQ5ZXc5OWw0QVlyaW5rVEUtS09ZQ3kyRkktZHhvQjMtYzZmZm",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNV9VSGk5NnZBTUUzS3YwYzcwU1hES3lSSHVfc3NYUm5vejRwcGVYY3V2dW10amYwOUQ2djZvcC1fUGV0a0F4TVBYWGcwcjBuLTN5QVF4cUhSalVUdTZmU2pRVlliVEVYT3JUdERyXy1IalVzcERqcjVVUGNNXzdmNEQ0anZiQzQ5ZXc5OWw0QVlyaW5rVEUtS09ZQ3kyRkktZHhvQjMtYzZmZmdWdlpV?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 03 Aug 2026 11:00:00 GMT",
-          "source": "Forbes"
+          "published": "Mon, 03 Aug 2026 22:26:25 GMT",
+          "source": "PA Media"
         }
       ]
     },
@@ -111,14 +91,14 @@
       "title": "Free bus travel and cheaper days out for Dorset families this summer - Dorset Council",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObldBRExxMEpZVWVVSE15eEJVdnFQSkJJdkFxeUMyeEo0Y0g5RUJGZzc5OEN3MGFIYVZCUnNoZ2t0eFBLUlg4cXZFT3VqMGRoVXA0R2hJZWkxSEN2ZkRTM3ZKTlRXRVFrYUk4REVQd2I0UUdVaVlybGhUTDBCdFJ0REJ0b0F5bklrNFhFQkRKZDcwMXExU0s5MnN2R0xNdkQ5UTBsRFVBTW5HQQ",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObldBRExxMEpZVWVVSE15eEJVdnFQSkJJdkFxeUMyeEo0Y0g5RUJGZzc5OEN3MGFIYVZCUnNoZ2t0eFBLUlg4cXZFT3VqMGRoVXA0R2hJZWkxSEN2ZkRTM3ZKTlRXRVFrYUk4REVQd2I0UUdVaVlybGhUTDBCdFJ0REJ0b0F5bklrNFhFQkRKZDcwMXExU0s5MnN2R0xNdkQ5UTBsRFVBTW5HQQ?oc=5",
-      "score": 72.0,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
           "published": "Wed, 29 Jul 2026 08:10:00 GMT",
@@ -127,82 +107,22 @@
       ]
     },
     {
-      "id": "a105d418d84a",
-      "title": "Thousands of Greater Manchester families to save money as Mayor reveals plans to launch free bus travel for young people in January - Bee Network | Powered by TfGM",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxPNVg4cXJzTmEtdkNhMS1xZlVFa2FIT0tXOWkxRDlJZ3RleXdleTgtejc4NGR2WGtsVWR0TWhhOGt6NkxZMGRXSU5zRGF5TlY3RXBKd0FCaG5zeG0zb3d1aFJyNFU2akU3MXl5RkZEbld3Z0Rua3NrQVVLWUFwOWl6eFBHb2lhcDlDREY0a29lbUs2dXdkcy05YVcxWXVFcW1LSGRTNDhwajZnYm",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPNVg4cXJzTmEtdkNhMS1xZlVFa2FIT0tXOWkxRDlJZ3RleXdleTgtejc4NGR2WGtsVWR0TWhhOGt6NkxZMGRXSU5zRGF5TlY3RXBKd0FCaG5zeG0zb3d1aFJyNFU2akU3MXl5RkZEbld3Z0Rua3NrQVVLWUFwOWl6eFBHb2lhcDlDREY0a29lbUs2dXdkcy05YVcxWXVFcW1LSGRTNDhwajZnYmNhZjZWNHYwTWFfdnpjQkhoZjgya1NXNFpRTXB2TmM0MFVOU0NoRnYyYXMycXNyMFFjSGZidWtiaDdROEhtQ2dSZXBramYxSmZjbGZ5THZ6Qnc5YVJteXAyTVNlc0lXZGZ3ekR1VW5SQ1lGMWR2XzUyckc3bTZvOEo3NHZUWE9sLWliUQ?oc=5",
-      "score": 68.4,
+      "id": "5ba9ace6f444",
+      "title": "PredictX debuts Overture to help show value of managed travel - The Business Travel Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQbExuYlBRRHRGa2Zxa3oyemQ3aFhqVUN5NmJUdmd5VnJSNi10UVNvSnlrXzR3aG5odE9nZXNZb3dBMGd5aC1WVkxJYzdMcy02d01wNzJGYVFUamxqWUJ3X2VjR3V5RmVPNTBqZHVHUEJZQTZaaHhrS0NNcGVyZFFsMVNlZU9aOVdMejVDTC1qaXRJUXhsN2JJcDBFMA?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbExuYlBRRHRGa2Zxa3oyemQ3aFhqVUN5NmJUdmd5VnJSNi10UVNvSnlrXzR3aG5odE9nZXNZb3dBMGd5aC1WVkxJYzdMcy02d01wNzJGYVFUamxqWUJ3X2VjR3V5RmVPNTBqZHVHUEJZQTZaaHhrS0NNcGVyZFFsMVNlZU9aOVdMejVDTC1qaXRJUXhsN2JJcDBFMA?oc=5",
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 16:17:25 GMT",
-          "source": "Bee Network | Powered by TfGM"
-        }
-      ]
-    },
-    {
-      "id": "7e1f68d50564",
-      "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1kb1drUGRfck50RDRjbU92Y1JWT1JURnRreWxpQzFLOC1keC1Mc3Y1TTNEX3lfVjlKQUFnYnNSY3JaTHozZks3T2FUaGppcXd5Ykp1eGZhdzllaUNpZ0toNEE4NldBZl9vSjIwU0pySFpjOTNoRnNUM9IBfkFVX3lxTE8yQVpTWi1qeGh2UFlqcDZ2aTVwbnVPdXJ5amtURHkwTS1ucVpoeEc1ZH",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kb1drUGRfck50RDRjbU92Y1JWT1JURnRreWxpQzFLOC1keC1Mc3Y1TTNEX3lfVjlKQUFnYnNSY3JaTHozZks3T2FUaGppcXd5Ykp1eGZhdzllaUNpZ0toNEE4NldBZl9vSjIwU0pySFpjOTNoRnNUM9IBfkFVX3lxTE8yQVpTWi1qeGh2UFlqcDZ2aTVwbnVPdXJ5amtURHkwTS1ucVpoeEc1ZHk0VlJ2RVJkbHNCOEZHTEQ2eDZFNE1kNEhRWEQycDZWWVI2RTZHY0o0VkRHYUVVOGctRWp5SEQ1NHFZZzUtdzM4X3NZb3NZcTcwZXU1dw?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 03 Aug 2026 10:32:09 GMT",
-          "source": "CNBC"
-        }
-      ]
-    },
-    {
-      "id": "49dbe1dc849a",
-      "title": "Another review won’t help tourism businesses this summer - aberdareonline.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjBpRHo0aUI5Q045UTV1S1dCb3UzQktuWHE2eFVPbjJnZ3BFR0lqb0VvUFpySXZOOFZxUTA3M0FESEsyMnlzWHMxVGdkQzdXaWNyU2prMUxnMmdTNGJYNDFDTzgzb1RjTUtocVMzYVhJZ0xnaGRFVEoxbDR0dFNyenMwbGwyZFV3bHlkM2dISTJrc0N2X0pyei1uUzhTZ0JncWc?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjBpRHo0aUI5Q045UTV1S1dCb3UzQktuWHE2eFVPbjJnZ3BFR0lqb0VvUFpySXZOOFZxUTA3M0FESEsyMnlzWHMxVGdkQzdXaWNyU2prMUxnMmdTNGJYNDFDTzgzb1RjTUtocVMzYVhJZ0xnaGRFVEoxbDR0dFNyenMwbGwyZFV3bHlkM2dISTJrc0N2X0pyei1uUzhTZ0JncWc?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 03 Aug 2026 18:53:50 GMT",
-          "source": "aberdareonline.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "ccbea14f5ce7",
-      "title": "American Airlines and Citi Elevate Premium Travel with Enhanced Citi / AAdvantage Executive World Legend Mastercard - Citigroup",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOGlpNEdsMFAwRVgzT2hJdllTNU1fb296X3lwSEliMFZaQ0EzTE80d0h1VnNhbTBpZnRnNFBMVG1YUUx0UjI4SmdDYjNyRS1nTmdhVHFFYkNuYzJOeXlocnF3VHZVOXZLOTkya3JDQ1dBV0pzSlM3ZnZhWXluUFlvaXk4WXdmd1ZEWmtvLUVEajIwNGJONmtFQ01fY0FlYXhMaUJlWGZMd3dMWm",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOGlpNEdsMFAwRVgzT2hJdllTNU1fb296X3lwSEliMFZaQ0EzTE80d0h1VnNhbTBpZnRnNFBMVG1YUUx0UjI4SmdDYjNyRS1nTmdhVHFFYkNuYzJOeXlocnF3VHZVOXZLOTkya3JDQ1dBV0pzSlM3ZnZhWXluUFlvaXk4WXdmd1ZEWmtvLUVEajIwNGJONmtFQ01fY0FlYXhMaUJlWGZMd3dMWmNGQlkyeEJrUV9Sd0t5VWpMdHYyTzJ5bEx6TThkZURickR5ZGtqTVRBTXNxbzlYeXJnT0x3LWZ1QWY4NEF2R0x5Y0dxVnNZTVE?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 03 Aug 2026 19:07:30 GMT",
-          "source": "Citigroup"
+          "published": "Mon, 03 Aug 2026 11:41:14 GMT",
+          "source": "The Business Travel Magazine"
         }
       ]
     },
@@ -211,14 +131,14 @@
       "title": "Sharp rise in cyclospora infections linked to Mexico travel - GOV.UK",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUxxcmNER082TDRHTnlPZk91alQ4UkRRckdGRzRVNmlvMnI2VkRaaERJVjBCRGFGMlNMbTh5OWgtMGQxOXgyRmVBWnRaYXE4ZEFNV0NzeUg3angyTzQ3RVJReDJKcWxaTVRNTzUtakFtM1JSbk1UWlVkZ21vRWs0QzRXN1FXRVlyLWNObDcwRUhPVTJsSzFPanpn?oc=5\" target=\"_blank\"",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUxxcmNER082TDRHTnlPZk91alQ4UkRRckdGRzRVNmlvMnI2VkRaaERJVjBCRGFGMlNMbTh5OWgtMGQxOXgyRmVBWnRaYXE4ZEFNV0NzeUg3angyTzQ3RVJReDJKcWxaTVRNTzUtakFtM1JSbk1UWlVkZ21vRWs0QzRXN1FXRVlyLWNObDcwRUhPVTJsSzFPanpn?oc=5",
-      "score": 54.0,
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
           "published": "Thu, 30 Jul 2026 10:00:00 GMT",
@@ -227,10 +147,90 @@
       ]
     },
     {
-      "id": "9ba6eb77ddbc",
-      "title": "Free bus travel offered to London Luton Airport passengers this August - Passenger Terminal Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUxOSGVaWlR4WUdSeTFUcnBoVGhJMnZETzNwYWtpWlhhN1BCem1hdEhYV2pyb1lSNE8tMUh0X0h0Q3FPZ2hBalA0UENNbmVnVVAwQzgtRXFIQlpNdnZLUFpUSjR1RHRWbXkxT3JTcGxsbG9NeHdWQko4SVE1SUVseFpVVjNOeFBjcXpJaGEzdER3ZzgySURBT0d6UldWRk5WamRyNHRCZ2x4Vn",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUxOSGVaWlR4WUdSeTFUcnBoVGhJMnZETzNwYWtpWlhhN1BCem1hdEhYV2pyb1lSNE8tMUh0X0h0Q3FPZ2hBalA0UENNbmVnVVAwQzgtRXFIQlpNdnZLUFpUSjR1RHRWbXkxT3JTcGxsbG9NeHdWQko4SVE1SUVseFpVVjNOeFBjcXpJaGEzdER3ZzgySURBT0d6UldWRk5WamRyNHRCZ2x4VnBSMGZQWmtLQmZfcXlsNDFmUkoxZkFFNkE3MEdZS3JzMC1vaFk?oc=5",
+      "id": "431061fdaf85",
+      "title": "Greece’s island fires expose risks of tourism boom - ft.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZcVA3YTE3RmwwMnNvc1FWdlNydFV4Z0NxaVVJUGF3N2xoaXo3SjhYVE85ajVKWi1jeDV3TV8yM0lod2l1djZqV1p4UG44UE9NOG9zUHR3VVp6SVpRa2NtdkZLaXFITzlVTHdRMFVacVk?oc=5\" target=\"_blank\">Greece’s island fires expose risks of tourism boom</a>&n",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZcVA3YTE3RmwwMnNvc1FWdlNydFV4Z0NxaVVJUGF3N2xoaXo3SjhYVE85ajVKWi1jeDV3TV8yM0lod2l1djZqV1p4UG44UE9NOG9zUHR3VVp6SVpRa2NtdkZLaXFITzlVTHdRMFVacVk?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-04T03:31:59+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 01 Aug 2026 04:01:24 GMT",
+          "source": "ft.com"
+        }
+      ]
+    },
+    {
+      "id": "ccbea14f5ce7",
+      "title": "American Airlines and Citi Elevate Premium Travel with Enhanced Citi / AAdvantage Executive World Legend Mastercard - Citigroup",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOGlpNEdsMFAwRVgzT2hJdllTNU1fb296X3lwSEliMFZaQ0EzTE80d0h1VnNhbTBpZnRnNFBMVG1YUUx0UjI4SmdDYjNyRS1nTmdhVHFFYkNuYzJOeXlocnF3VHZVOXZLOTkya3JDQ1dBV0pzSlM3ZnZhWXluUFlvaXk4WXdmd1ZEWmtvLUVEajIwNGJONmtFQ01fY0FlYXhMaUJlWGZMd3dMWm",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOGlpNEdsMFAwRVgzT2hJdllTNU1fb296X3lwSEliMFZaQ0EzTE80d0h1VnNhbTBpZnRnNFBMVG1YUUx0UjI4SmdDYjNyRS1nTmdhVHFFYkNuYzJOeXlocnF3VHZVOXZLOTkya3JDQ1dBV0pzSlM3ZnZhWXluUFlvaXk4WXdmd1ZEWmtvLUVEajIwNGJONmtFQ01fY0FlYXhMaUJlWGZMd3dMWmNGQlkyeEJrUV9Sd0t5VWpMdHYyTzJ5bEx6TThkZURickR5ZGtqTVRBTXNxbzlYeXJnT0x3LWZ1QWY4NEF2R0x5Y0dxVnNZTVE?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-04T03:31:59+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 03 Aug 2026 19:10:43 GMT",
+          "source": "Citigroup"
+        }
+      ]
+    },
+    {
+      "id": "78791d6bada5",
+      "title": "Children can travel free on buses across Hampshire this month - Basingstoke Gazette",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmdFYmlHeWpNNWE3NHc4R19fb1hKMmN3WjZremJKdS11Z2tIUXZPNFpkeEUzd0U1ckItZFRja2lweXdoOTJVbEM0VEd4aDNfLWJCZ09RcEh5cXRQV0Z1c21UelBSdWZ3VjJ2YkxOeHJ0clNndjFCczJSVDYySTF4T1FqOURMdEJFY1V6V2I5RW5uYVc1LUI4WThVUFNSNW5zcXR1YQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmdFYmlHeWpNNWE3NHc4R19fb1hKMmN3WjZremJKdS11Z2tIUXZPNFpkeEUzd0U1ckItZFRja2lweXdoOTJVbEM0VEd4aDNfLWJCZ09RcEh5cXRQV0Z1c21UelBSdWZ3VjJ2YkxOeHJ0clNndjFCczJSVDYySTF4T1FqOURMdEJFY1V6V2I5RW5uYVc1LUI4WThVUFNSNW5zcXR1YQ?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-04T03:31:59+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 03 Aug 2026 20:00:00 GMT",
+          "source": "Basingstoke Gazette"
+        }
+      ]
+    },
+    {
+      "id": "c6833ad04ce9",
+      "title": "Tell us about your favourite UK holiday - theguardian.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXF4UVhlVFgwcUdGQzhnZnNMTVlfeEhCME1PVDhTNTdIcjEydnI3SHprZmxmWHhhOEJYTVhSY21HRzl3NFNvQjNRNEx4U3lkRjM0MHRZTmczWmhJdGgyUkx6S3pPZlIwbjNodzFpalhzVUk2ZTUyaV8zUS01ODBKNFB2di1GYmRBUDNBYnJibWhZb1pDVkFWNmR5QXlFR0FtR2FB?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXF4UVhlVFgwcUdGQzhnZnNMTVlfeEhCME1PVDhTNTdIcjEydnI3SHprZmxmWHhhOEJYTVhSY21HRzl3NFNvQjNRNEx4U3lkRjM0MHRZTmczWmhJdGgyUkx6S3pPZlIwbjNodzFpalhzVUk2ZTUyaV8zUS01ODBKNFB2di1GYmRBUDNBYnJibWhZb1pDVkFWNmR5QXlFR0FtR2FB?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-04T03:31:59+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 03 Aug 2026 14:19:00 GMT",
+          "source": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": "3b99b4f0a17c",
+      "title": "Global Marine Travel enhances data capabilities with Travelogix - Business Travel News Europe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUNncmpxV01WUnBkQUxoMHkwVWMwSld5Y2tpTDFrWF9WY2JBbHp5TGQ4Q2k5NDVHY29lWnNVRk9hWEpCeHJGYWxNODBFMk8xcGVMd2lmcThXSjhscHZ2OGpyaHVLVHg0LVhmcHNCTTZrX1RaOXBjV0toZ1QwNE1lVFRJc0JjQ2dWSHZiRER1UzFuLUZCTGowVmFmWmFGeFV6N0ROM2hfVXpIWl",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUNncmpxV01WUnBkQUxoMHkwVWMwSld5Y2tpTDFrWF9WY2JBbHp5TGQ4Q2k5NDVHY29lWnNVRk9hWEpCeHJGYWxNODBFMk8xcGVMd2lmcThXSjhscHZ2OGpyaHVLVHg0LVhmcHNCTTZrX1RaOXBjV0toZ1QwNE1lVFRJc0JjQ2dWSHZiRER1UzFuLUZCTGowVmFmWmFGeFV6N0ROM2hfVXpIWlR1d1JsZA?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,7 +238,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 03 Aug 2026 16:56:55 GMT",
+          "source": "Business Travel News Europe"
+        }
+      ]
+    },
+    {
+      "id": "9ba6eb77ddbc",
+      "title": "Free bus travel offered to London Luton Airport passengers this August - Passenger Terminal Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUxOSGVaWlR4WUdSeTFUcnBoVGhJMnZETzNwYWtpWlhhN1BCem1hdEhYV2pyb1lSNE8tMUh0X0h0Q3FPZ2hBalA0UENNbmVnVVAwQzgtRXFIQlpNdnZLUFpUSjR1RHRWbXkxT3JTcGxsbG9NeHdWQko4SVE1SUVseFpVVjNOeFBjcXpJaGEzdER3ZzgySURBT0d6UldWRk5WamRyNHRCZ2x4Vn",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUxOSGVaWlR4WUdSeTFUcnBoVGhJMnZETzNwYWtpWlhhN1BCem1hdEhYV2pyb1lSNE8tMUh0X0h0Q3FPZ2hBalA0UENNbmVnVVAwQzgtRXFIQlpNdnZLUFpUSjR1RHRWbXkxT3JTcGxsbG9NeHdWQko4SVE1SUVseFpVVjNOeFBjcXpJaGEzdER3ZzgySURBT0d6UldWRk5WamRyNHRCZ2x4VnBSMGZQWmtLQmZfcXlsNDFmUkoxZkFFNkE3MEdZS3JzMC1vaFk?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
           "published": "Mon, 03 Aug 2026 16:06:08 GMT",
@@ -251,17 +271,17 @@
       "title": "Should ethics figure into our travel plans? Readers respond. - U.S. Catholic",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBwLUIyNUdJTkJlZzdZNDdFZFNWNHBhdC1UbEpqUDhPelNCcDRIOTJXN2xwUjNkV04xUllkdFJ4d1o5UEplS21yQ2FXakhBX2RHUW1TcTIyaWRKeTUxQnVSbWh5RTJ3eFg0SmVzY3FQUGpEc1psSy03dzRnSXdVaUE?oc=5\" target=\"_blank\">Should ethics figure into our travel",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwLUIyNUdJTkJlZzdZNDdFZFNWNHBhdC1UbEpqUDhPelNCcDRIOTJXN2xwUjNkV04xUllkdFJ4d1o5UEplS21yQ2FXakhBX2RHUW1TcTIyaWRKeTUxQnVSbWh5RTJ3eFg0SmVzY3FQUGpEc1psSy03dzRnSXdVaUE?oc=5",
-      "score": 46.8,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 14:01:42 GMT",
+          "published": "Mon, 03 Aug 2026 14:31:42 GMT",
           "source": "U.S. Catholic"
         }
       ]
@@ -271,26 +291,6 @@
       "title": "Travel outfits are trending – Matalan's £35 cream co-ord is the chic set you'll wear on every trip - prima.co.uk",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWNQdVRpMzcwMURENFR1a2p4LUg0Qkc1bFM2cFlHVDhLTWdfak5WeDBJZUo1TFJMQzhDRGMzOU1mamFEaHFyT3lBX19UcVRpejMxaGRFQ3B4amkyVmc0VHZ2VG1lcTNvRUwtRDJrYjFrbmhVb0RWYnB6QlRGZ2VHejZVcEF1RFFkLWxJMHBpZG9NMkRmRC1TQlNCVFNLeDNxRzl2SE1qWlFDRn",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWNQdVRpMzcwMURENFR1a2p4LUg0Qkc1bFM2cFlHVDhLTWdfak5WeDBJZUo1TFJMQzhDRGMzOU1mamFEaHFyT3lBX19UcVRpejMxaGRFQ3B4amkyVmc0VHZ2VG1lcTNvRUwtRDJrYjFrbmhVb0RWYnB6QlRGZ2VHejZVcEF1RFFkLWxJMHBpZG9NMkRmRC1TQlNCVFNLeDNxRzl2SE1qWlFDRnFyakE?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 03 Aug 2026 13:55:24 GMT",
-          "source": "prima.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "820708b293d6",
-      "title": "Redefining innovation in Caribbean tourism - Breaking Travel News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmtBSFVmbmRCZXRoZ3poZVl2WkpPODFYRDExLWo2bGdBLXN2eENNYzRxdGs4VHJXblF4VlU4THhla2RfTTNOTmdtNHFFQUFOZEZGT2ROSnNkT012d3BpTHBWZklyUjJZbmFSQ05rOUx6ZFdzakxWMDJtNDh2NFZQWnBQQXhuMGZySmtSZTZJMFdJTFFGeUE?oc=5\" target=\"_blank\">Rede",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmtBSFVmbmRCZXRoZ3poZVl2WkpPODFYRDExLWo2bGdBLXN2eENNYzRxdGs4VHJXblF4VlU4THhla2RfTTNOTmdtNHFFQUFOZEZGT2ROSnNkT012d3BpTHBWZklyUjJZbmFSQ05rOUx6ZFdzakxWMDJtNDh2NFZQWnBQQXhuMGZySmtSZTZJMFdJTFFGeUE?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 12:46:25 GMT",
-          "source": "Breaking Travel News"
+          "published": "Mon, 03 Aug 2026 17:38:29 GMT",
+          "source": "prima.co.uk"
         }
       ]
     },
     {
-      "id": "3b99b4f0a17c",
-      "title": "Global Marine Travel enhances data capabilities with Travelogix - Business Travel News Europe",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUNncmpxV01WUnBkQUxoMHkwVWMwSld5Y2tpTDFrWF9WY2JBbHp5TGQ4Q2k5NDVHY29lWnNVRk9hWEpCeHJGYWxNODBFMk8xcGVMd2lmcThXSjhscHZ2OGpyaHVLVHg0LVhmcHNCTTZrX1RaOXBjV0toZ1QwNE1lVFRJc0JjQ2dWSHZiRER1UzFuLUZCTGowVmFmWmFGeFV6N0ROM2hfVXpIWl",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUNncmpxV01WUnBkQUxoMHkwVWMwSld5Y2tpTDFrWF9WY2JBbHp5TGQ4Q2k5NDVHY29lWnNVRk9hWEpCeHJGYWxNODBFMk8xcGVMd2lmcThXSjhscHZ2OGpyaHVLVHg0LVhmcHNCTTZrX1RaOXBjV0toZ1QwNE1lVFRJc0JjQ2dWSHZiRER1UzFuLUZCTGowVmFmWmFGeFV6N0ROM2hfVXpIWlR1d1JsZA?oc=5",
+      "id": "6126bae3a460",
+      "title": "South Yorkshire children aged 5-15 get free bus travel in August - bbc.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9McFA1OTlEZmItdkx3UzJodXFJWERWVExnVkNXTnlOdEV3Q0tPY21WbThNTGVWczYyempkUXY4N1E4aXNZMWJQLUNjdUtVdTNOek95WFlFZFJ0Z1Jk?oc=5\" target=\"_blank\">South Yorkshire children aged 5-15 get free bus travel in August</a>&nbsp;&nbsp;<fo",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9McFA1OTlEZmItdkx3UzJodXFJWERWVExnVkNXTnlOdEV3Q0tPY21WbThNTGVWczYyempkUXY4N1E4aXNZMWJQLUNjdUtVdTNOek95WFlFZFJ0Z1Jk?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 16:56:55 GMT",
-          "source": "Business Travel News Europe"
+          "published": "Mon, 03 Aug 2026 17:18:16 GMT",
+          "source": "bbc.co.uk"
         }
       ]
     },
     {
-      "id": "bf9f994dcf02",
-      "title": "Madrid breaks tourism record, tops €10bn in international spending - Euronews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcElITXhLa0Z3c3hKTXdmWXRHcHVRbjk3UmJGVmRHNGxXdlJwYmVTS1Frc0lnSGp2ZW01bjF2clNEUVVISjVxdmpiZnVhUWNqOEFfa01KSURqSm1HRVRwUzdpZGJyNlFVa2dsZzI2M2lFTHBDVEpqWUp3UWVpSnBhRmJaUXNyelZDdG1Gcmg1OUY0TGhUS2VqS1FaU2VkNmhQbmpVNmFJdzVKaF",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcElITXhLa0Z3c3hKTXdmWXRHcHVRbjk3UmJGVmRHNGxXdlJwYmVTS1Frc0lnSGp2ZW01bjF2clNEUVVISjVxdmpiZnVhUWNqOEFfa01KSURqSm1HRVRwUzdpZGJyNlFVa2dsZzI2M2lFTHBDVEpqWUp3UWVpSnBhRmJaUXNyelZDdG1Gcmg1OUY0TGhUS2VqS1FaU2VkNmhQbmpVNmFJdzVKaFRPOVkxbW1LcmFhUUlQUWxHQnpDYWF2U01MUHRZag?oc=5",
+      "id": "1f0480754570",
+      "title": "Former Kuoni PR chief launches free ‘inspire hour’ for travel firms - Travel Weekly - Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPXzd2UzZqMFRKelkyVDhwd2Zndm9ycEt4LWZYVC1wa2RQWjZsVV9WM0NOWHphY2gzUDJSMXlQMVdMTHVjbXh5UExwZDZ0bU9QcHN4QjZPRzhyelY1eks1eERhcTFOMU13eUgweG54UlBsU3g4NU1sTllXQUdsZm4wT3RabHNvNDdnNEU0NklMMm43T0ptX0JOVlQxS1YxQQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzd2UzZqMFRKelkyVDhwd2Zndm9ycEt4LWZYVC1wa2RQWjZsVV9WM0NOWHphY2gzUDJSMXlQMVdMTHVjbXh5UExwZDZ0bU9QcHN4QjZPRzhyelY1eks1eERhcTFOMU13eUgweG54UlBsU3g4NU1sTllXQUdsZm4wT3RabHNvNDdnNEU0NklMMm43T0ptX0JOVlQxS1YxQQ?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 14:00:17 GMT",
-          "source": "Euronews.com"
+          "published": "Mon, 03 Aug 2026 13:45:00 GMT",
+          "source": "Travel Weekly - Home"
         }
       ]
     },
     {
-      "id": "1537a7b7d256",
-      "title": "South Yorkshire children aged 5-15 get free bus travel in August - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9McFA1OTlEZmItdkx3UzJodXFJWERWVExnVkNXTnlOdEV3Q0tPY21WbThNTGVWczYyempkUXY4N1E4aXNZMWJQLUNjdUtVdTNOek95WFlFZFJ0Z1Jk?oc=5\" target=\"_blank\">South Yorkshire children aged 5-15 get free bus travel in August</a>&nbsp;&nbsp;<fo",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9McFA1OTlEZmItdkx3UzJodXFJWERWVExnVkNXTnlOdEV3Q0tPY21WbThNTGVWczYyempkUXY4N1E4aXNZMWJQLUNjdUtVdTNOek95WFlFZFJ0Z1Jk?oc=5",
+      "id": "aa59137fe9ed",
+      "title": "PredictX unveils Overture platform to highlight ‘value’ of travel programmes - Business Travel News Europe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1NDcW9KWUx5bGtJV3c2aEdVdnJ6aG44LWhoY2RhNDhuQy1LYk1aSEJUdkFhSmMycm1MaFUwczdnZE96UWlOREVLRGxzZGFnOGRYbzFkazJfSXoyaDItYkE0VVRXaGFQR3J3bEx5UlhRZ0FLN1A5MEFiNUYtanhoSlJSckZ3aHdnRkZUS2stcFV2VVExM1NLRFpfclZkQ21Na0hYYlptdGUwdn",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1NDcW9KWUx5bGtJV3c2aEdVdnJ6aG44LWhoY2RhNDhuQy1LYk1aSEJUdkFhSmMycm1MaFUwczdnZE96UWlOREVLRGxzZGFnOGRYbzFkazJfSXoyaDItYkE0VVRXaGFQR3J3bEx5UlhRZ0FLN1A5MEFiNUYtanhoSlJSckZ3aHdnRkZUS2stcFV2VVExM1NLRFpfclZkQ21Na0hYYlptdGUwdnE1Z0o0WE1lX2t3V0Jz?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 17:18:16 GMT",
-          "source": "BBC"
+          "published": "Mon, 03 Aug 2026 14:31:55 GMT",
+          "source": "Business Travel News Europe"
         }
       ]
     },
     {
-      "id": "5b14e4134d82",
-      "title": "Direct Travel unveils new Avenir features and hints at what’s next - The Business Travel Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnpHTDhLWnZYREJJS2xGWVFTSFFXa25rdmtVTHNTRDh4QlpreHIxb0V2SDNJdi1oWDdUSk0xdndWZnRUUEVSN3hhN1hXdXVoUF9BUWVFeDZlNVBOS2prWm15UGo5alVrMVdZeXVpbE0tbGlmdjJlbXpJZWZ1SXl1VVduSjZLeFUtWEtJSVV5Sjc2akZaUm81SDFGYzhUd1dX?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnpHTDhLWnZYREJJS2xGWVFTSFFXa25rdmtVTHNTRDh4QlpreHIxb0V2SDNJdi1oWDdUSk0xdndWZnRUUEVSN3hhN1hXdXVoUF9BUWVFeDZlNVBOS2prWm15UGo5alVrMVdZeXVpbE0tbGlmdjJlbXpJZWZ1SXl1VVduSjZLeFUtWEtJSVV5Sjc2akZaUm81SDFGYzhUd1dX?oc=5",
+      "id": "a911f80b7879",
+      "title": "Oversee adds conversational AI chat to AgentSee - The Business Travel Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUtBQnl6ckZjYUJWNGhGTjNoWkZmUWo4Ny1INnA2dXh4ODJUbkFkVlZZZ09mMlFsX19ZMmpSMjh0ajRKMkhxWFZveGVVN2VFQXBQak5hdUZCZnIxblo3Smo3MlFFRUVpUnR3R3RwWGxpNFcyb1VpWjZsVDZBU21BX1NIeEc1TW9y?oc=5\" target=\"_blank\">Oversee adds conversati",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUtBQnl6ckZjYUJWNGhGTjNoWkZmUWo4Ny1INnA2dXh4ODJUbkFkVlZZZ09mMlFsX19ZMmpSMjh0ajRKMkhxWFZveGVVN2VFQXBQak5hdUZCZnIxblo3Smo3MlFFRUVpUnR3R3RwWGxpNFcyb1VpWjZsVDZBU21BX1NIeEc1TW9y?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,17 +378,17 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 16:30:00 GMT",
+          "published": "Mon, 03 Aug 2026 22:09:59 GMT",
           "source": "The Business Travel Magazine"
         }
       ]
     },
     {
-      "id": "83f5641cd278",
-      "title": "The West bus routes children can travel for free - BBC",
+      "id": "ca471233de2e",
+      "title": "The West bus routes children can travel for free - bbc.co.uk",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLTFBGZE5vWExKVWJ4SDl2WXRKLUY2VGc2MWs4Njk1aUQycElCOUxfZGpaQjdqdnVpdmVVbU0yNDd3Z2lSOV85dURwc1RPN2hVMHBJSy0tS1RXOUxx?oc=5\" target=\"_blank\">The West bus routes children can travel for free</a>&nbsp;&nbsp;<font color=\"#6f6f6",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLTFBGZE5vWExKVWJ4SDl2WXRKLUY2VGc2MWs4Njk1aUQycElCOUxfZGpaQjdqdnVpdmVVbU0yNDd3Z2lSOV85dURwc1RPN2hVMHBJSy0tS1RXOUxx?oc=5",
       "score": 21.6,
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-03T19:52:02+00:00",
+      "first_seen": "2026-08-04T03:31:59+00:00",
       "raw_samples": [
         {
           "published": "Sat, 01 Aug 2026 16:45:52 GMT",
-          "source": "BBC"
+          "source": "bbc.co.uk"
         }
       ]
     }
