@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "UK",
-  "generated_at": "2026-08-06T08:59:44+00:00",
+  "generated_at": "2026-08-06T14:41:11+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "abf0679b2703",
-      "title": "Fitness Report 05/08/2026 - Dorking Wanderers",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE00aFc3SHl3X2hKUlBud0JyUmdjTVMzVVNjckxkSVN0bzhwdU9sNzNaRE5NU2RLSEZtRWpFbEJuLVc3d2MyVF9jTllrTGFoa0ZKcVFZeE10VlJqdlJEdDh2bW9Scw?oc=5\" target=\"_blank\">Fitness Report 05/08/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dorking Wa",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00aFc3SHl3X2hKUlBud0JyUmdjTVMzVVNjckxkSVN0bzhwdU9sNzNaRE5NU2RLSEZtRWpFbEJuLVc3d2MyVF9jTllrTGFoa0ZKcVFZeE10VlJqdlJEdDh2bW9Scw?oc=5",
+      "id": "4d2b04662422",
+      "title": "John Terry, 45, Shares the Conditioning Workout That Keeps Him Fit in Retirement – and Your Time to Beat - Men's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUTJmbG9tcmRRRk56Xzc2NU5pNkwyUGNfenlfMjdQcWxVYVBucWsteHZidmZzMWdxemJLeWY5czdHYXVjanFMRV8yX1dXWlEtMlh1NHRGSUdHR2ZFM0RGODRJejRMYV9KSnRSMHVoc19FNmJUWTlfUERzLV9Mc2NDZl9nRjV0N2J4Q2pzLVBWZmRRaDJtNGJoOHBuU0g?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUTJmbG9tcmRRRk56Xzc2NU5pNkwyUGNfenlfMjdQcWxVYVBucWsteHZidmZzMWdxemJLeWY5czdHYXVjanFMRV8yX1dXWlEtMlh1NHRGSUdHR2ZFM0RGODRJejRMYV9KSnRSMHVoc19FNmJUWTlfUERzLV9Mc2NDZl9nRjV0N2J4Q2pzLVBWZmRRaDJtNGJoOHBuU0g?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 06 Aug 2026 11:36:32 GMT",
+          "source": "Men's Health"
+        }
+      ]
+    },
+    {
+      "id": "881066c2375f",
+      "title": "Gym Clash Ignites the Citadel as Jordan's Fittest Gyms Go Head-to-Head - Red Bull",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkxIUXBFTUpzaVc4cGZaM1Nsem8zRXNRYXBGMVNFczZPWXhYU2pVZW5mSGw1ZzVPc2g3OWJwUEx1QktoSW9LZElWa0dhcmFUVDgzdGwzUXZTUmRLRFBxUXhFNGduM0JDMmhpbmVEMi1WMjdJQWNFNlRKN25KMjM0aHpQS0NKdkFMb19vVG50RlRHTUlYWUN1OGtLTlVMWGU2a1hHcFVB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkxIUXBFTUpzaVc4cGZaM1Nsem8zRXNRYXBGMVNFczZPWXhYU2pVZW5mSGw1ZzVPc2g3OWJwUEx1QktoSW9LZElWa0dhcmFUVDgzdGwzUXZTUmRLRFBxUXhFNGduM0JDMmhpbmVEMi1WMjdJQWNFNlRKN25KMjM0aHpQS0NKdkFMb19vVG50RlRHTUlYWUN1OGtLTlVMWGU2a1hHcFVB?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "UK",
+      "first_seen": "2026-08-06T14:32:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 06 Aug 2026 12:59:56 GMT",
+          "source": "Red Bull"
+        }
+      ]
+    },
+    {
+      "id": "abf0679b2703",
+      "title": "Fitness Report 05/08/2026 - Dorking Wanderers",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE00aFc3SHl3X2hKUlBud0JyUmdjTVMzVVNjckxkSVN0bzhwdU9sNzNaRE5NU2RLSEZtRWpFbEJuLVc3d2MyVF9jTllrTGFoa0ZKcVFZeE10VlJqdlJEdDh2bW9Scw?oc=5\" target=\"_blank\">Fitness Report 05/08/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dorking Wa",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00aFc3SHl3X2hKUlBud0JyUmdjTVMzVVNjckxkSVN0bzhwdU9sNzNaRE5NU2RLSEZtRWpFbEJuLVc3d2MyVF9jTllrTGFoa0ZKcVFZeE10VlJqdlJEdDh2bW9Scw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "UK",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
           "published": "Wed, 05 Aug 2026 19:27:22 GMT",
@@ -27,38 +67,18 @@
       ]
     },
     {
-      "id": "1590db5380d3",
-      "title": "Oprah, 72, swears by the SkiErg for full-body strength and endurance – here's how to try it - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2thVnhoeWZ0enNaMmtqckRKU184Sy1Ha3JDcVZEcEwxaWdtQzl0RHladjVucXBTTjNQcWNQY1h4X0poY2xUQ1lCYmlTX29PQjV3SXZUSXZIdFNmbEtzbWJoUHlEamd0aHdrVVJ4enFQcDRiS3VBbmYwME1nRjk2QVctZzZ0WFNBdGZB?oc=5\" target=\"_blank\">Oprah, 72, swears b",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2thVnhoeWZ0enNaMmtqckRKU184Sy1Ha3JDcVZEcEwxaWdtQzl0RHladjVucXBTTjNQcWNQY1h4X0poY2xUQ1lCYmlTX29PQjV3SXZUSXZIdFNmbEtzbWJoUHlEamd0aHdrVVJ4enFQcDRiS3VBbmYwME1nRjk2QVctZzZ0WFNBdGZB?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 05 Aug 2026 11:32:32 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
       "id": "b38266028df4",
       "title": "‘I spent a week crying. I’ve never had an injury in my life!’ Why do so many fitness fans end up needing surgery? - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQUlPQjk1QW1Qc1AyQmhSYWtoeWliOXM0ZFJzYnF1NTFXUFB6TkxUdF92Y3JNeWVDaXBNblFyeGY5c0lSNndOYnJ6NF9ob1ROaHZmOVIzY09lQWhLc2pmTW9CV3c5MGUtb1RhaFVlSE9vYW1vdG5GWkxKWnFOOHZPYTBiMm14V0RyZjgzVndEMEc?oc=5\" target=\"_blank\">‘I spent a w",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQUlPQjk1QW1Qc1AyQmhSYWtoeWliOXM0ZFJzYnF1NTFXUFB6TkxUdF92Y3JNeWVDaXBNblFyeGY5c0lSNndOYnJ6NF9ob1ROaHZmOVIzY09lQWhLc2pmTW9CV3c5MGUtb1RhaFVlSE9vYW1vdG5GWkxKWnFOOHZPYTBiMm14V0RyZjgzVndEMEc?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
           "published": "Tue, 04 Aug 2026 15:52:00 GMT",
@@ -67,30 +87,10 @@
       ]
     },
     {
-      "id": "7215bdec3f64",
-      "title": "Denbighshire lifeguards mark 25th anniversary with RNLI BeachROX fitness event - RNLI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzlSY0lvd25xWjZqVFgzYkhMX3ZpcmRuUVNMRlg3bTlqdzBjeE53NlNoOEJ2M2oxSWxrT0tGTWxtRlZDdURyOTNxUG9fTVRTT1Z0SDVmM3B2V1E1MjJjelpBd2dvVllUTExoT2JKTU9tN00yTE5YdmlZZEN1M09aRjIwd3pxc0JDOGtjY0oxUzlQVXZfbVBqS1RHOGNCZFptdy1NS0JwSXlaZ2",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzlSY0lvd25xWjZqVFgzYkhMX3ZpcmRuUVNMRlg3bTlqdzBjeE53NlNoOEJ2M2oxSWxrT0tGTWxtRlZDdURyOTNxUG9fTVRTT1Z0SDVmM3B2V1E1MjJjelpBd2dvVllUTExoT2JKTU9tN00yTE5YdmlZZEN1M09aRjIwd3pxc0JDOGtjY0oxUzlQVXZfbVBqS1RHOGNCZFptdy1NS0JwSXlaZ2ZFb3k5NE9lLUdGb1lXTm05cW5pUWlkZHc?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 05 Aug 2026 17:01:04 GMT",
-          "source": "RNLI"
-        }
-      ]
-    },
-    {
-      "id": "59f76bac44dd",
-      "title": "Residents invited to get active at Aylsham outdoor gym this August - southnorfolkandbroadland.gov.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3hvV2dyZ2tfaldiUndWZkdPRC1VOWNOdGlhTjBRay1GY29wODNKUndZQnREQncxaEFHd2xCeWJyTjFoQ09PeEh5UTB0b2U3ZW0xYVE2Ul9jampodGQ5aGF3TTdLMDdyVWp5VXZpSHFZbldMS25Nd05vOG9WdFFXLXpKTWRFWGdUSVFKcTItMWhNQ3pJUENhaUJ6WFdNZU1EMmNqdlVFdlZiZV",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3hvV2dyZ2tfaldiUndWZkdPRC1VOWNOdGlhTjBRay1GY29wODNKUndZQnREQncxaEFHd2xCeWJyTjFoQ09PeEh5UTB0b2U3ZW0xYVE2Ul9jampodGQ5aGF3TTdLMDdyVWp5VXZpSHFZbldMS25Nd05vOG9WdFFXLXpKTWRFWGdUSVFKcTItMWhNQ3pJUENhaUJ6WFdNZU1EMmNqdlVFdlZiZVMyT2xjY0h2Q2tuQQ?oc=5",
+      "id": "44ddb51c0b2a",
+      "title": "Is strength training or Pilates better for building muscle and strength? Fitness experts break it down - Women's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFBQOVo5SW11SnA3S1NfVWZxRmdhMTVBMUFhMTQtbzVDQ1B1YVA4NWszUFh3SWcxNDVTMkpEd3p1c0diaVN1YnJhSU1NQlJmYUx3NVg5SDZjOFV6TDhlaFZ0VTFLTUxpS0RDQ0R3cjZWVG55SmRDTXNQWmFudzNtemFjdW85X2xNVEs0V1AwcHdBMjhDdWstc25jTFNST2hWVURkV0JDQ2U2VV",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFBQOVo5SW11SnA3S1NfVWZxRmdhMTVBMUFhMTQtbzVDQ1B1YVA4NWszUFh3SWcxNDVTMkpEd3p1c0diaVN1YnJhSU1NQlJmYUx3NVg5SDZjOFV6TDhlaFZ0VTFLTUxpS0RDQ0R3cjZWVG55SmRDTXNQWmFudzNtemFjdW85X2xNVEs0V1AwcHdBMjhDdWstc25jTFNST2hWVURkV0JDQ2U2VVBidVdkNFk3dE5PRE0?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +98,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 10:10:17 GMT",
-          "source": "southnorfolkandbroadland.gov.uk"
+          "published": "Thu, 06 Aug 2026 13:58:07 GMT",
+          "source": "Women's Health"
         }
       ]
     },
     {
-      "id": "a755b3f050d3",
-      "title": "Nine in ten fitness to practise cases closed without further action in 2025-26 - communitycare.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEZfSjdJcTVZYXBaM1NEZnJSUW45Wnp5cnBKSDJRQUZuZ3BNblByWWM1RXZwWlp5YWhYUkg1OUtVVlNoQlR5RG55aEttVGQ0Tkd6YU54WHBGcEZRTUVtX2hsLTE2dDJsQnVheE1QdUY0eWVKaXZuWHpMOUp2TEdreEJFOXZlTXlkdjNUVFBSdmlJMVl6Y2x2d19qdzZtYnNzMzRPdDFPbl9mX2",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEZfSjdJcTVZYXBaM1NEZnJSUW45Wnp5cnBKSDJRQUZuZ3BNblByWWM1RXZwWlp5YWhYUkg1OUtVVlNoQlR5RG55aEttVGQ0Tkd6YU54WHBGcEZRTUVtX2hsLTE2dDJsQnVheE1QdUY0eWVKaXZuWHpMOUp2TEdreEJFOXZlTXlkdjNUVFBSdmlJMVl6Y2x2d19qdzZtYnNzMzRPdDFPbl9mX2FYQ0lrdG03OVg4LXZ1YTdVT1hnWlU?oc=5",
+      "id": "3cf2a5a5b5e6",
+      "title": "Why women find midlife weight gain so hard to shift (and what really works) - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2t4Uk9YRUtQU05mbEtXVno5VEZfbFRKOGhabnlaZVI0ZnZqaHl5WVdyTkJWRDdrZDNzSmdMMndPMGZldGFsY2E4OXp4bHNIVjU1MXl3ZGFidjB4ZXJQdk4wVi11QzBNUm5YN0dHVFhQaUt2WmFUWUFoQzlMWEV1a2hEaWJYSHR1RzFjZWt1NzZ0eDIzcVZ5OXVEejFoTmhx?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2t4Uk9YRUtQU05mbEtXVno5VEZfbFRKOGhabnlaZVI0ZnZqaHl5WVdyTkJWRDdrZDNzSmdMMndPMGZldGFsY2E4OXp4bHNIVjU1MXl3ZGFidjB4ZXJQdk4wVi11QzBNUm5YN0dHVFhQaUt2WmFUWUFoQzlMWEV1a2hEaWJYSHR1RzFjZWt1NzZ0eDIzcVZ5OXVEejFoTmhx?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,31 +118,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 11:43:19 GMT",
-          "source": "communitycare.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "4e367e315c4b",
-      "title": "Harrogate fitness coach 'overwhelmed' by support after opening dream gym - Your Harrogate",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlVwaEpaVDhEWldyaHNqT3JiUjRRdy1qOEJDdXhNemZUSjMzSmlwQzYyUEZlaUZhWUdkaFkzUkZ6ZXp3TzJ1VjNwNWZtU2pISGdPTWFERkFtcG1xRHlYUW9ubG9pMnB5SkU4R1RMUjE5U3lDMW4tbmdBS2dnRnFzWlBxY0hxWXZnSTM0Z2l2bWhZVFcwYWJiN05lVENxMENGY2dHT3BmTU0xdz",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlVwaEpaVDhEWldyaHNqT3JiUjRRdy1qOEJDdXhNemZUSjMzSmlwQzYyUEZlaUZhWUdkaFkzUkZ6ZXp3TzJ1VjNwNWZtU2pISGdPTWFERkFtcG1xRHlYUW9ubG9pMnB5SkU4R1RMUjE5U3lDMW4tbmdBS2dnRnFzWlBxY0hxWXZnSTM0Z2l2bWhZVFcwYWJiN05lVENxMENGY2dHT3BmTU0xdzQzTEJReXdQcHFqbkhKc2YzMXNfWE5MQQ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 06 Aug 2026 08:28:00 GMT",
-          "source": "Your Harrogate"
+          "published": "Thu, 06 Aug 2026 10:38:00 GMT",
+          "source": "The Telegraph"
         }
       ]
     },
@@ -151,14 +131,14 @@
       "title": "Views sought on plans for seaside outdoor gym in East Saltdean - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FVzBueHh0eVpNMDltTktNU0dpRE85WlBacWVBTVpQNmlZTVk1dFBnbDVtZkhsOVBVRHh4eDdIMmJQdm5HWWNIOWFodXAyVDgtQTVVZGdiV21VcV9p?oc=5\" target=\"_blank\">Views sought on plans for seaside outdoor gym in East Saltdean</a>&nbsp;&nbsp;<font",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FVzBueHh0eVpNMDltTktNU0dpRE85WlBacWVBTVpQNmlZTVk1dFBnbDVtZkhsOVBVRHh4eDdIMmJQdm5HWWNIOWFodXAyVDgtQTVVZGdiV21VcV9p?oc=5",
-      "score": 64.8,
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
           "published": "Tue, 04 Aug 2026 17:15:37 GMT",
@@ -167,8 +147,28 @@
       ]
     },
     {
-      "id": "22a0da052f37",
-      "title": "13 Secrets to 6 Pack Abs (I TESTED THEM ALL!)",
+      "id": "8c8af33bd609",
+      "title": "John Lewis partners with Manchester home fitness brand - Marketing Stockport",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDFEazl0RzNZenJkeFU1Mkx4RVB1NjhXSFZiM0NsVG9EU3F4VlBfQTVNOFYwUldhX18wVmNOckJsZnU4MUtpYWF3RnNPSXg5TjFRQ3pkNUZCRmZ3eHlPZTkyS3FXXzA4SzJhY3VvTGYtYXFyT2RPb1pXRWNTZmNoV1VKWEIwakQzYUtTOExqT19zS00zYWtVUQ?oc=5\" target=\"_blank\">J",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDFEazl0RzNZenJkeFU1Mkx4RVB1NjhXSFZiM0NsVG9EU3F4VlBfQTVNOFYwUldhX18wVmNOckJsZnU4MUtpYWF3RnNPSXg5TjFRQ3pkNUZCRmZ3eHlPZTkyS3FXXzA4SzJhY3VvTGYtYXFyT2RPb1pXRWNTZmNoV1VKWEIwakQzYUtTOExqT19zS00zYWtVUQ?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "UK",
+      "first_seen": "2026-08-06T14:32:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 06 Aug 2026 09:13:22 GMT",
+          "source": "Marketing Stockport"
+        }
+      ]
+    },
+    {
+      "id": "3bb9322dcb89",
+      "title": "13 “MUST-DO’s” to 6 Pack Abs (I TESTED THEM ALL!)",
       "summary": "Get a Flat Stomach Here - https://athleanx.com/flatstomach\nCarbs List Here - https://athleanx.com/carbs\nSubscribe to This Channel Here - https://bit.ly/2b0coMW\n\nIf you want to get 6 pack abs, there are a few things you need to get right. In this video, I’m breaking down 13 of my ",
       "url": "https://www.youtube.com/watch?v=ZOMKA0qCQ_w",
       "score": 61.599999999999994,
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:01+00:00",
+      "first_seen": "2026-08-06T14:34:28+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:02+00:00",
+      "first_seen": "2026-08-06T14:34:29+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -224,7 +224,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:03+00:00",
+      "first_seen": "2026-08-06T14:34:30+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -236,10 +236,10 @@
       "is_global": true
     },
     {
-      "id": "3713bf0665a6",
-      "title": "Norfolk gym tycoon's plans for residential development approved - Edp24",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ3Q1TjdQZlBDdkItMTJIMG9EaGpGYzJ1WVBReTg4ZzVsZ0w2ZnZ6blBjRVhQbnVBTDZFcmltVFZocGdOMGZzbXBRUXBTV3ljUzFXQXdYdW1rdTBQVFcwZ1FxUU5LQXdxZ2FCNkQ0dmV6V1h3NUdjOWJlNnBTQnd1MTJoZFdKV0tXdEQxV1ZyUHdrMkpM?oc=5\" target=\"_blank\">Norfolk",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ3Q1TjdQZlBDdkItMTJIMG9EaGpGYzJ1WVBReTg4ZzVsZ0w2ZnZ6blBjRVhQbnVBTDZFcmltVFZocGdOMGZzbXBRUXBTV3ljUzFXQXdYdW1rdTBQVFcwZ1FxUU5LQXdxZ2FCNkQ0dmV6V1h3NUdjOWJlNnBTQnd1MTJoZFdKV0tXdEQxV1ZyUHdrMkpM?oc=5",
+      "id": "59f76bac44dd",
+      "title": "Residents invited to get active at Aylsham outdoor gym this August - southnorfolkandbroadland.gov.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3hvV2dyZ2tfaldiUndWZkdPRC1VOWNOdGlhTjBRay1GY29wODNKUndZQnREQncxaEFHd2xCeWJyTjFoQ09PeEh5UTB0b2U3ZW0xYVE2Ul9jampodGQ5aGF3TTdLMDdyVWp5VXZpSHFZbldMS25Nd05vOG9WdFFXLXpKTWRFWGdUSVFKcTItMWhNQ3pJUENhaUJ6WFdNZU1EMmNqdlVFdlZiZV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3hvV2dyZ2tfaldiUndWZkdPRC1VOWNOdGlhTjBRay1GY29wODNKUndZQnREQncxaEFHd2xCeWJyTjFoQ09PeEh5UTB0b2U3ZW0xYVE2Ul9jampodGQ5aGF3TTdLMDdyVWp5VXZpSHFZbldMS25Nd05vOG9WdFFXLXpKTWRFWGdUSVFKcTItMWhNQ3pJUENhaUJ6WFdNZU1EMmNqdlVFdlZiZVMyT2xjY0h2Q2tuQQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -247,11 +247,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 06 Aug 2026 05:44:00 GMT",
-          "source": "Edp24"
+          "published": "Wed, 05 Aug 2026 10:10:17 GMT",
+          "source": "southnorfolkandbroadland.gov.uk"
         }
       ]
     },
@@ -267,7 +267,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:01+00:00",
+      "first_seen": "2026-08-06T14:34:28+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -290,7 +290,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:03+00:00",
+      "first_seen": "2026-08-06T14:34:30+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -302,10 +302,10 @@
       "is_global": true
     },
     {
-      "id": "624eedb2c094",
-      "title": "The four-minute workout that can turn back the clock decades for over-65s - The Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWng5OW5TNV9oNC1XNTRNbUpaVnVYR2dvYjVMVlZyX2xPUG1BcUlOektqV0VLM3VpMkpsTk01RllsTENWQ2ZtdnBDcVhLU1FMVE1seGZ5SlE5WlB1TlZsWVozM21abm12ZGQwX1lXS1N4U2hNdXJvWFkzcHdBckNZeVVGd005d3M4WHpxZXdqS2dFUTM5YWkzbmd0UVVIdG9GOTNHMGpR?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWng5OW5TNV9oNC1XNTRNbUpaVnVYR2dvYjVMVlZyX2xPUG1BcUlOektqV0VLM3VpMkpsTk01RllsTENWQ2ZtdnBDcVhLU1FMVE1seGZ5SlE5WlB1TlZsWVozM21abm12ZGQwX1lXS1N4U2hNdXJvWFkzcHdBckNZeVVGd005d3M4WHpxZXdqS2dFUTM5YWkzbmd0UVVIdG9GOTNHMGpR?oc=5",
+      "id": "6a19f7cf6be5",
+      "title": "Meet the inclusive and award-winning dance company named Northamptonshire’s best gym and fitness business - Northampton Chronicle and Echo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOXhEWVFkekdpMjVocTJFamhvZ3lRWlB3N2tlTk42Unh3X2VpZnBvdTRuajc5OG1xU2lsQnJoM1ZCd0FXTi1zUTg5TXI2YzEwREN2aTNsUUlrM19SWmVYZDdoOF9hVm9NNkpkbnZpM21kR3duckd1Vnh5dkJOZXc2bFRhdGRVdGhDWElPOEV3Z2ZSbDBFTnlDUGhua25zME15b191SnBjWFVpUT",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOXhEWVFkekdpMjVocTJFamhvZ3lRWlB3N2tlTk42Unh3X2VpZnBvdTRuajc5OG1xU2lsQnJoM1ZCd0FXTi1zUTg5TXI2YzEwREN2aTNsUUlrM19SWmVYZDdoOF9hVm9NNkpkbnZpM21kR3duckd1Vnh5dkJOZXc2bFRhdGRVdGhDWElPOEV3Z2ZSbDBFTnlDUGhua25zME15b191SnBjWFVpUThfNkt3U2c1bDY4NVV5Y0ZuR1lOTFpibTJHR2NxMXJZM0xRR3hpZlZPV1QtWTdZTXJQTWF0a05yRnBXNFhOUzdWLQ?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -313,11 +313,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-          "source": "The Telegraph"
+          "published": "Thu, 06 Aug 2026 11:19:00 GMT",
+          "source": "Northampton Chronicle and Echo"
         }
       ]
     },
@@ -333,7 +333,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:01+00:00",
+      "first_seen": "2026-08-06T14:34:28+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -356,7 +356,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:03+00:00",
+      "first_seen": "2026-08-06T14:34:30+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -379,7 +379,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:03+00:00",
+      "first_seen": "2026-08-06T14:34:30+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -391,10 +391,10 @@
       "is_global": true
     },
     {
-      "id": "b7530bed3188",
-      "title": "I Tried a Top Trainer's Go-To Arm Workout—My 6 Week Review - Marie Claire UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1hRSGZjc0VLQkpyS01SYnVzNGUyT05Na0pNLXIyMjBsWmpMUHZsQXpIY2xzb1p3X0x2a0hicThyU0l1Q0ZTMkNKTVo3bWhtWlRUanY1eHd6c0pETEZVZllLcE1ieGZNZWZGcVd6a1VLS2NBZTRpQW5haHJTa29CZ0pTT3BDeDU3Ny1XTC1nVFJ4d0ktS242WDhn?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1hRSGZjc0VLQkpyS01SYnVzNGUyT05Na0pNLXIyMjBsWmpMUHZsQXpIY2xzb1p3X0x2a0hicThyU0l1Q0ZTMkNKTVo3bWhtWlRUanY1eHd6c0pETEZVZllLcE1ieGZNZWZGcVd6a1VLS2NBZTRpQW5haHJTa29CZ0pTT3BDeDU3Ny1XTC1nVFJ4d0ktS242WDhn?oc=5",
+      "id": "a79507ba0bcc",
+      "title": "Virtual Fitness Market - Future Market Insights",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE91cDZJbmxxdi1qMUVXU3BaTmc3V1V2R3VLR3Fxb1VDRW5id2p5THB5TGEyZ3pDQjhILUtmc3FTb2lJaFhNUjBtRzJUS0FsUTZqWW1BTlNBN3hqendsNElEVDRoOGg4emEwekRWeTkteHZTbEhrWkE?oc=5\" target=\"_blank\">Virtual Fitness Market</a>&nbsp;&nbsp;<font colo",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91cDZJbmxxdi1qMUVXU3BaTmc3V1V2R3VLR3Fxb1VDRW5id2p5THB5TGEyZ3pDQjhILUtmc3FTb2lJaFhNUjBtRzJUS0FsUTZqWW1BTlNBN3hqendsNElEVDRoOGg4emEwekRWeTkteHZTbEhrWkE?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -402,11 +402,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 06 Aug 2026 06:00:00 GMT",
-          "source": "Marie Claire UK"
+          "published": "Thu, 06 Aug 2026 13:36:17 GMT",
+          "source": "Future Market Insights"
         }
       ]
     },
@@ -422,7 +422,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:03+00:00",
+      "first_seen": "2026-08-06T14:34:30+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -434,10 +434,10 @@
       "is_global": true
     },
     {
-      "id": "b9368bd8db3d",
-      "title": "I tried ‘Spider-Man’ Tom Holland’s 20-minute bodyweight workout – it’s a superhero crash course - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNm1CVFFQMzNzbklQUjljbXpDcWRmUmt4WnhHc1B3VVNuMWk5YXpTTUZoUmdtVkFXNnE3RGZmajhXamdwbmo2cmR2V3RzaWZ2ekJjYkxwWWpXM3E4S2VmclRnc1BHdDhMNy1YLUc4UFc1U0hDUFlzQjRUa1BDcDY1WkFZUUc4cEdEQkNSUkhmcTVtQnNQNXpIaUpxTTY4U3czOFhPR3RFcy1TZw",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNm1CVFFQMzNzbklQUjljbXpDcWRmUmt4WnhHc1B3VVNuMWk5YXpTTUZoUmdtVkFXNnE3RGZmajhXamdwbmo2cmR2V3RzaWZ2ekJjYkxwWWpXM3E4S2VmclRnc1BHdDhMNy1YLUc4UFc1U0hDUFlzQjRUa1BDcDY1WkFZUUc4cEdEQkNSUkhmcTVtQnNQNXpIaUpxTTY4U3czOFhPR3RFcy1TZw?oc=5",
+      "id": "4e367e315c4b",
+      "title": "Harrogate fitness coach 'overwhelmed' by support after opening dream gym - Your Harrogate",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlVwaEpaVDhEWldyaHNqT3JiUjRRdy1qOEJDdXhNemZUSjMzSmlwQzYyUEZlaUZhWUdkaFkzUkZ6ZXp3TzJ1VjNwNWZtU2pISGdPTWFERkFtcG1xRHlYUW9ubG9pMnB5SkU4R1RMUjE5U3lDMW4tbmdBS2dnRnFzWlBxY0hxWXZnSTM0Z2l2bWhZVFcwYWJiN05lVENxMENGY2dHT3BmTU0xdz",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlVwaEpaVDhEWldyaHNqT3JiUjRRdy1qOEJDdXhNemZUSjMzSmlwQzYyUEZlaUZhWUdkaFkzUkZ6ZXp3TzJ1VjNwNWZtU2pISGdPTWFERkFtcG1xRHlYUW9ubG9pMnB5SkU4R1RMUjE5U3lDMW4tbmdBS2dnRnFzWlBxY0hxWXZnSTM0Z2l2bWhZVFcwYWJiN05lVENxMENGY2dHT3BmTU0xdzQzTEJReXdQcHFqbkhKc2YzMXNfWE5MQQ?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -445,11 +445,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 04 Aug 2026 16:01:00 GMT",
-          "source": "The Independent"
+          "published": "Thu, 06 Aug 2026 08:28:00 GMT",
+          "source": "Your Harrogate"
         }
       ]
     },
@@ -465,7 +465,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:03+00:00",
+      "first_seen": "2026-08-06T14:34:30+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -488,7 +488,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:03+00:00",
+      "first_seen": "2026-08-06T14:34:30+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -500,10 +500,10 @@
       "is_global": true
     },
     {
-      "id": "26a5b198b21b",
-      "title": "Victor Munoz gives early fitness update: Why he cut holiday short for Liverpool - This Is Anfield",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHlkRUNiT3RFYmhiRldUckZJU19RdWFmOWZfOE53d2hzQXQ2U3BteEFJLURVQjNaNjdQay1yVDlqN01oTTZLQnpqU0xQck5FRDE5Ql8yYjMxQ3J1V2FhMTluRlhVcWRTcC1rdFZXZVVMUFVMbU5sQ3Y4clJEZVUtOVlVUUxaSU8taG9yQmRaWTNlRVMwcnl3ZXgwRQ?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHlkRUNiT3RFYmhiRldUckZJU19RdWFmOWZfOE53d2hzQXQ2U3BteEFJLURVQjNaNjdQay1yVDlqN01oTTZLQnpqU0xQck5FRDE5Ql8yYjMxQ3J1V2FhMTluRlhVcWRTcC1rdFZXZVVMUFVMbU5sQ3Y4clJEZVUtOVlVUUxaSU8taG9yQmRaWTNlRVMwcnl3ZXgwRQ?oc=5",
+      "id": "7215bdec3f64",
+      "title": "Denbighshire lifeguards mark 25th anniversary with RNLI BeachROX fitness event - RNLI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzlSY0lvd25xWjZqVFgzYkhMX3ZpcmRuUVNMRlg3bTlqdzBjeE53NlNoOEJ2M2oxSWxrT0tGTWxtRlZDdURyOTNxUG9fTVRTT1Z0SDVmM3B2V1E1MjJjelpBd2dvVllUTExoT2JKTU9tN00yTE5YdmlZZEN1M09aRjIwd3pxc0JDOGtjY0oxUzlQVXZfbVBqS1RHOGNCZFptdy1NS0JwSXlaZ2",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzlSY0lvd25xWjZqVFgzYkhMX3ZpcmRuUVNMRlg3bTlqdzBjeE53NlNoOEJ2M2oxSWxrT0tGTWxtRlZDdURyOTNxUG9fTVRTT1Z0SDVmM3B2V1E1MjJjelpBd2dvVllUTExoT2JKTU9tN00yTE5YdmlZZEN1M09aRjIwd3pxc0JDOGtjY0oxUzlQVXZfbVBqS1RHOGNCZFptdy1NS0JwSXlaZ2ZFb3k5NE9lLUdGb1lXTm05cW5pUWlkZHc?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -511,11 +511,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-08-06T08:50:39+00:00",
+      "first_seen": "2026-08-06T14:32:06+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 06 Aug 2026 08:34:24 GMT",
-          "source": "This Is Anfield"
+          "published": "Wed, 05 Aug 2026 17:01:04 GMT",
+          "source": "RNLI"
         }
       ]
     },
@@ -531,7 +531,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-06T08:53:03+00:00",
+      "first_seen": "2026-08-06T14:34:30+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
