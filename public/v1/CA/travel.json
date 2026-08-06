@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-08-05T19:59:22+00:00",
+  "generated_at": "2026-08-06T03:39:27+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
           "published": "Wed, 05 Aug 2026 12:27:06 GMT",
@@ -38,11 +38,51 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 09:00:53 GMT",
+          "published": "Wed, 05 Aug 2026 12:03:51 GMT",
           "source": "CTV News"
+        }
+      ]
+    },
+    {
+      "id": "96e02729e37f",
+      "title": "Korea Tourism Organization Canada Launches \"Hello Korea\" Promotion and K-Travel Fest, Rewarding Travelers with Exclusive Perks in Toronto - Newswire Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOV2syRTFRVHE5c28tdE9Eck82OVJhTGRxSVYzSW5QRFlZVDItSE13cHhfcXdtVk5ibkZrUmJnSm1EeXdXdzRVMnpiZy1jcHlyajZ5UnBjSmRMZVJWNFF6QkM3UGdfazl4ZWFiOS10QmdnZTV1d0ZPVXA0VHRPVlhfZnVNbWY1eVBqUWhKQXdnRkk2U3Q2UExnTnh2TXFLd3ZuN2pBV1g5eGpqQU",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOV2syRTFRVHE5c28tdE9Eck82OVJhTGRxSVYzSW5QRFlZVDItSE13cHhfcXdtVk5ibkZrUmJnSm1EeXdXdzRVMnpiZy1jcHlyajZ5UnBjSmRMZVJWNFF6QkM3UGdfazl4ZWFiOS10QmdnZTV1d0ZPVXA0VHRPVlhfZnVNbWY1eVBqUWhKQXdnRkk2U3Q2UExnTnh2TXFLd3ZuN2pBV1g5eGpqQU9UaVp0VlhUZjNtTnM2NTdpQ19XS2xoaWNwR0ZQR1Z0MXVvNkZSVk1URWEzUFVkRWJYTjZKNDhWa2NhUUtpWjhodkcxdEZRUmtFaktrVUVNS1RJZmFHNG5LSGxhRmx5WDJYNlppOWlVd0QxZw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-08-06T03:30:38+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 05 Aug 2026 21:36:00 GMT",
+          "source": "Newswire Canada"
+        }
+      ]
+    },
+    {
+      "id": "0e721724d600",
+      "title": "Letter: Tourism pushback in Spain an omen of things to come - Niagara Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNLVdJakctaVk1T1ZxNzdhdVQ4Nm8xX1dubFdnNUJJNUtOQUtJS19INUo3aXlSdG1tbjhYWF9sdllqTF9EWDBScVlmX092M3hLU2h5ckt2YVpoQTBDWlVUS293VkFUMDZLOEpwc1Q3QnIybkx1ZXdIVDRrVHFhTE9UWFVLdFdYaUVIamdrV0tXUzR5WHNOQXVMaTg5c3c?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLVdJakctaVk1T1ZxNzdhdVQ4Nm8xX1dubFdnNUJJNUtOQUtJS19INUo3aXlSdG1tbjhYWF9sdllqTF9EWDBScVlmX092M3hLU2h5ckt2YVpoQTBDWlVUS293VkFUMDZLOEpwc1Q3QnIybkx1ZXdIVDRrVHFhTE9UWFVLdFdYaUVIamdrV0tXUzR5WHNOQXVMaTg5c3c?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-08-06T03:30:38+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 06 Aug 2026 01:37:10 GMT",
+          "source": "Niagara Now"
         }
       ]
     },
@@ -51,14 +91,14 @@
       "title": "Europe’s heatwave reality: Why human help still matters, especially from travel advisors - Travelweek",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNTXluQ3ZoZzdwM21ONlBNRFhBcUI2U0IwdnpKQVpPalF1cmxYcjhjeEFiQW5SbXhyeVAzOEZxeEd3RnVJZ24zOUxPRTc1NzVrYzFOazVnUVkyV3VyMWF5WUZCa3V0MGI0N05wYlpSbWRwUFZGeV9xSW9wWk9VcTdpelFMOHRyWDlJNDM5a2N0NDVpYnIycGliMVpLVVNSaFN1ZXNCNjhPZWVUTl",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTXluQ3ZoZzdwM21ONlBNRFhBcUI2U0IwdnpKQVpPalF1cmxYcjhjeEFiQW5SbXhyeVAzOEZxeEd3RnVJZ24zOUxPRTc1NzVrYzFOazVnUVkyV3VyMWF5WUZCa3V0MGI0N05wYlpSbWRwUFZGeV9xSW9wWk9VcTdpelFMOHRyWDlJNDM5a2N0NDVpYnIycGliMVpLVVNSaFN1ZXNCNjhPZWVUTldUaS1SZnBNNmI4MHVUY1pGZ3pkeEdQaHhCZ0tPR0FR?oc=5",
-      "score": 82.8,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
           "published": "Wed, 05 Aug 2026 15:50:53 GMT",
@@ -67,22 +107,22 @@
       ]
     },
     {
-      "id": "5a7cd3b7a27e",
-      "title": "Got a tourism idea for Greater Sudbury? The city wants to hear from you - Sudbury News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOck0wTC0taFU3U0xLNmdlR2x4bUlZUXBNdzZXYmYyUjlicGN5UHh6TkZLMmZJa0xsbVh4bFhHYTlka0dWekkzam15R2RPZ2VZSTRCQXNRLVp4dk1yR1lidGI2eW5XdUFtOEotVjFMaVoyZkx4N0FoUmFpNHdlVHBZeTVpaFB5TmcwYm41NU5WNDlpY3BzZWJDamRRVllwTF81bHBwZVhpWlVWeU",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOck0wTC0taFU3U0xLNmdlR2x4bUlZUXBNdzZXYmYyUjlicGN5UHh6TkZLMmZJa0xsbVh4bFhHYTlka0dWekkzam15R2RPZ2VZSTRCQXNRLVp4dk1yR1lidGI2eW5XdUFtOEotVjFMaVoyZkx4N0FoUmFpNHdlVHBZeTVpaFB5TmcwYm41NU5WNDlpY3BzZWJDamRRVllwTF81bHBwZVhpWlVWeUZiQ01nbTdiSQ?oc=5",
-      "score": 79.2,
+      "id": "fba1cb9d6444",
+      "title": "Boston hosts Canadian travel trade on FAM to strengthen tourism ties - paxnews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWYzM0FfTnpXZXFnM2hNeUpFNm01M01nRTRLdlY5Y1RyR29LUGJfUU0wLTlZT0NxYmwyN0FaemV1R080NEZodnlCX1dkR2cxejZ2LS1LemVvRjBsWUpoWUFhOUVZNjA1TVBOVzdnU21nV1c5OEtTN0k1WjBLV2k5TGJLamZyOXlMYXc3RDRCdDJleFhpMmpIdGFydldmU0pXMmdZRHlBOWs?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWYzM0FfTnpXZXFnM2hNeUpFNm01M01nRTRLdlY5Y1RyR29LUGJfUU0wLTlZT0NxYmwyN0FaemV1R080NEZodnlCX1dkR2cxejZ2LS1LemVvRjBsWUpoWUFhOUVZNjA1TVBOVzdnU21nV1c5OEtTN0k1WjBLV2k5TGJLamZyOXlMYXc3RDRCdDJleFhpMmpIdGFydldmU0pXMmdZRHlBOWs?oc=5",
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 13:00:00 GMT",
-          "source": "Sudbury News"
+          "published": "Wed, 05 Aug 2026 21:59:39 GMT",
+          "source": "paxnews.com"
         }
       ]
     },
@@ -91,14 +131,14 @@
       "title": "Indigenous Tourism Ontario drone shows take off in popularity - Anishinabek News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQeGFYZDVpY3psWW5nbzFpWEpJSXRJSUtYSGxQOGNmTllBekF5cnpYM29wVlNuVFVyWGNsZmNBalFzYXVvUkU0Sy1vbWdzSlh1SGVyTGxXdUhkVklaZDd3SHE2N01Uak5Kd1Q0M1MyNUFWcTZtbjV5SkczYzdUVnZCQ1dhdUJiajhKSTBTTmVuclZoY0VKYVVtSVFzblhWdw?oc=5\" target=\"_",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGFYZDVpY3psWW5nbzFpWEpJSXRJSUtYSGxQOGNmTllBekF5cnpYM29wVlNuVFVyWGNsZmNBalFzYXVvUkU0Sy1vbWdzSlh1SGVyTGxXdUhkVklaZDd3SHE2N01Uak5Kd1Q0M1MyNUFWcTZtbjV5SkczYzdUVnZCQ1dhdUJiajhKSTBTTmVuclZoY0VKYVVtSVFzblhWdw?oc=5",
-      "score": 75.6,
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
           "published": "Wed, 05 Aug 2026 12:24:54 GMT",
@@ -107,50 +147,10 @@
       ]
     },
     {
-      "id": "ecd4aa9bcf19",
-      "title": "Travel Nevada launches “Specialist Challenge” for Canadian travel advisors - PAXnews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1ppRVFvM056djBxa29pMXZZQnozTjRDbXhxTzNjU25XVnpLQzc4SFpZV3V3TkZrM056eDNvM0FNNlhpVEVHbkZncWU1Z3ZOWDVWZzdkYzNnbjREVlp4SUtSUVNiaHM2VVRGQzctZnhNbFhfWlp2NUtXeEY0UjZ6SlNLbURnS0cyS05PcU9OcFBNWTBHbzRPVXlZeFN1VVViYUtCZWRhZll2UQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1ppRVFvM056djBxa29pMXZZQnozTjRDbXhxTzNjU25XVnpLQzc4SFpZV3V3TkZrM056eDNvM0FNNlhpVEVHbkZncWU1Z3ZOWDVWZzdkYzNnbjREVlp4SUtSUVNiaHM2VVRGQzctZnhNbFhfWlp2NUtXeEY0UjZ6SlNLbURnS0cyS05PcU9OcFBNWTBHbzRPVXlZeFN1VVViYUtCZWRhZll2UQ?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 05 Aug 2026 16:33:07 GMT",
-          "source": "PAXnews.com"
-        }
-      ]
-    },
-    {
-      "id": "62f3e587f238",
-      "title": "Gayle Watkins on Envoyage’s Move to Travel Leaders Network - Open Jaw",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVFwcURaSXF6YWptWENCQWhycmJkT3FEbFFfeTl1dm1kZ0dRVFNUbDR4Zm1WZ05NcXZvSXhRMms5N3NNZXFxVjJhUjYyTWRONFRLanROQlpTTEZFTm9ZRUdwbWhMTzFYZF8zRjNyT0h5YWFxYVV0a2JyMG91R2RidWhlVko5V1hDZjZUTmxJTnk2UW1GMnFCMw?oc=5\" target=\"_blank\">G",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVFwcURaSXF6YWptWENCQWhycmJkT3FEbFFfeTl1dm1kZ0dRVFNUbDR4Zm1WZ05NcXZvSXhRMms5N3NNZXFxVjJhUjYyTWRONFRLanROQlpTTEZFTm9ZRUdwbWhMTzFYZF8zRjNyT0h5YWFxYVV0a2JyMG91R2RidWhlVko5V1hDZjZUTmxJTnk2UW1GMnFCMw?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 05 Aug 2026 14:09:40 GMT",
-          "source": "Open Jaw"
-        }
-      ]
-    },
-    {
-      "id": "c70795db47e8",
-      "title": "Tourism Windsor Essex Pelee Island Launches Cycle Tourism Map With 6 Regional Routes And Connectivity With U.S - windsoriteDOTca News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeU5EaDM1M0hDODNMMmxIUkdlSm1YUnpBU3AtOHVRcDh4OVNucVJWaW4xZXZ1c1k0MGZZTUFFTjZBeVNQWi0yRG5VMEd0aUp2bjlFcUhBOG9Wb1hTWWRHUkxFeklfNk0weHFYVTNoaTBndlctYzhLOFZ6QThZMG9pbWg4bWZvUXEtNm5RUERqUUM0X0JmSWdwdGlVTVFrd2pIUjdDUkRFMndCeD",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeU5EaDM1M0hDODNMMmxIUkdlSm1YUnpBU3AtOHVRcDh4OVNucVJWaW4xZXZ1c1k0MGZZTUFFTjZBeVNQWi0yRG5VMEd0aUp2bjlFcUhBOG9Wb1hTWWRHUkxFeklfNk0weHFYVTNoaTBndlctYzhLOFZ6QThZMG9pbWg4bWZvUXEtNm5RUERqUUM0X0JmSWdwdGlVTVFrd2pIUjdDUkRFMndCeDhEQ0tMMExzNHVXaFdhT3NkblBOY0RSUnpzNHZfdkJRQVRqVTBSSnVqZEk2ZGg?oc=5",
+      "id": "9fe77ba44e15",
+      "title": "X-Files, whodunits and travel - UMToday",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFByZEszU2pBQldEZzg3SEtTRjY1ekJiaW9GdDU2bWdYdEJ1SkJHeXdVcnEzenQyemxobFdlYUktOHFYaF9EV1k5dV9Sb2stZF9nNTV6YnVHdzI5cDdxTE9QZ2dsWmQ?oc=5\" target=\"_blank\">X-Files, whodunits and travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UMTod",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByZEszU2pBQldEZzg3SEtTRjY1ekJiaW9GdDU2bWdYdEJ1SkJHeXdVcnEzenQyemxobFdlYUktOHFYaF9EV1k5dV9Sb2stZF9nNTV6YnVHdzI5cDdxTE9QZ2dsWmQ?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 17:25:24 GMT",
-          "source": "windsoriteDOTca News"
+          "published": "Wed, 05 Aug 2026 20:12:34 GMT",
+          "source": "UMToday"
         }
       ]
     },
     {
-      "id": "4708b1d27fe6",
-      "title": "Mansour named Consul, Director of Tourism for Canada by IMOT - TravelPress",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPd29sd0pKUFdrc0FnalNEOVhKQWNwbVFoajhGZUltQ2todFZtZllmWnhoTTMyaTFiRElCVUVvQ1BELVY3a2U3ZHlmaFdseldUclRSQ3NpX25xdnY4QjZLdkh0bmlfbnUzWDE0ZTUybWtQd0Jhc3h1cWZHaUx6SE4xbGIyRU1tbXM0UGtHbXlmV1Qtdw?oc=5\" target=\"_blank\">Mansour n",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd29sd0pKUFdrc0FnalNEOVhKQWNwbVFoajhGZUltQ2todFZtZllmWnhoTTMyaTFiRElCVUVvQ1BELVY3a2U3ZHlmaFdseldUclRSQ3NpX25xdnY4QjZLdkh0bmlfbnUzWDE0ZTUybWtQd0Jhc3h1cWZHaUx6SE4xbGIyRU1tbXM0UGtHbXlmV1Qtdw?oc=5",
+      "id": "5a7cd3b7a27e",
+      "title": "Got a tourism idea for Greater Sudbury? The city wants to hear from you - Sudbury News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOck0wTC0taFU3U0xLNmdlR2x4bUlZUXBNdzZXYmYyUjlicGN5UHh6TkZLMmZJa0xsbVh4bFhHYTlka0dWekkzam15R2RPZ2VZSTRCQXNRLVp4dk1yR1lidGI2eW5XdUFtOEotVjFMaVoyZkx4N0FoUmFpNHdlVHBZeTVpaFB5TmcwYm41NU5WNDlpY3BzZWJDamRRVllwTF81bHBwZVhpWlVWeU",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOck0wTC0taFU3U0xLNmdlR2x4bUlZUXBNdzZXYmYyUjlicGN5UHh6TkZLMmZJa0xsbVh4bFhHYTlka0dWekkzam15R2RPZ2VZSTRCQXNRLVp4dk1yR1lidGI2eW5XdUFtOEotVjFMaVoyZkx4N0FoUmFpNHdlVHBZeTVpaFB5TmcwYm41NU5WNDlpY3BzZWJDamRRVllwTF81bHBwZVhpWlVWeUZiQ01nbTdiSQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,19 +178,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 10:25:19 GMT",
-          "source": "TravelPress"
+          "published": "Wed, 05 Aug 2026 13:02:47 GMT",
+          "source": "Sudbury News"
         }
       ]
     },
     {
-      "id": "a474e362407e",
-      "title": "Rising Gas Prices Reshaping How Manitobans Travel, Spend This Summer: Survey - ChrisD.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWs3c3NwZXNhYTg4eERxVFlrNVc1YWVrZGdDLTFVUkxhVUhLYXczUnJMdmttNS1jR3pnTlVEaGpSN2NFWVJfNDFMSEowWDNZdE5haXNZRXBKWnRWZ0dpb0I5dXVERm5KcFVrQmc2R2dVVG45UDBtTzRRUGgteFJZaHFtUFZJSjZmNnRzR0FR?oc=5\" target=\"_blank\">Rising Gas Pric",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWs3c3NwZXNhYTg4eERxVFlrNVc1YWVrZGdDLTFVUkxhVUhLYXczUnJMdmttNS1jR3pnTlVEaGpSN2NFWVJfNDFMSEowWDNZdE5haXNZRXBKWnRWZ0dpb0I5dXVERm5KcFVrQmc2R2dVVG45UDBtTzRRUGgteFJZaHFtUFZJSjZmNnRzR0FR?oc=5",
+      "id": "7e34fe1e0ca0",
+      "title": "Travel interruption - Wetaskiwin Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41dG1WaFEzNERPdjczc1VhQnA5bjFXQ3JuaGdPSmI4MjZxYU1GazI2SmhRZURuVUNBcjhQanhmLXZqN1RwdkNxYVB6N3dRajByLVdQSDkwbjFpeGEtRkZFckx3RDRCSXM?oc=5\" target=\"_blank\">Travel interruption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wetaskiwin ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41dG1WaFEzNERPdjczc1VhQnA5bjFXQ3JuaGdPSmI4MjZxYU1GazI2SmhRZURuVUNBcjhQanhmLXZqN1RwdkNxYVB6N3dRajByLVdQSDkwbjFpeGEtRkZFckx3RDRCSXM?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,11 +198,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 19:12:48 GMT",
-          "source": "ChrisD.ca"
+          "published": "Wed, 05 Aug 2026 21:29:12 GMT",
+          "source": "Wetaskiwin Times"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
           "published": "Wed, 05 Aug 2026 16:55:00 GMT",
@@ -227,10 +227,10 @@
       ]
     },
     {
-      "id": "056b9e935d9f",
-      "title": "CAA Manitoba survey finds rising gas prices are impacting how Manitobans drive, travel and spend this summer - discoverwestman.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQU1XM1Z0MERLcXppemMtM2EzOFVCTzRWYkZjeUdhVWdTdG1GLXRtVjIwMnhKOGVtczBKcklNWDNkbjVBaEtDNTVFZGRZTlgxY0NYdHhUZ282M3plUjFqVGFJSDhfSDhrRjJSVE9LVHpRTmpmV3E5eXpCRkNPN09QN1VVTXU1SDBfeEE5ZzdyUVhEZ2VqT2ktaWh1eUE4RWswYm9idm15dl9KUU",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQU1XM1Z0MERLcXppemMtM2EzOFVCTzRWYkZjeUdhVWdTdG1GLXRtVjIwMnhKOGVtczBKcklNWDNkbjVBaEtDNTVFZGRZTlgxY0NYdHhUZ282M3plUjFqVGFJSDhfSDhrRjJSVE9LVHpRTmpmV3E5eXpCRkNPN09QN1VVTXU1SDBfeEE5ZzdyUVhEZ2VqT2ktaWh1eUE4RWswYm9idm15dl9KUURHRXpNUWhndDBBVWlkUHhwcVFYMFlvUEl0anZZdHNGY3J5dG1SNm9mTEZ5YXBoMWVU?oc=5",
+      "id": "f5a0be608958",
+      "title": "Tourism sector is staying afloat, but with warning signs - Mexico News Daily",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2Jmc2trVW9VU0t3QUJwRHZOOERuQ1Y3TFBmUXJiMUU2UklfRXIyc0dEVnZpTGZlcF9SUWJNSVBZazZRcWF1dTNucVJVdG1RRmNhMF9iV1NsMnRPdWkxRlFqVnNMQmNmWkhvblhfc2JSa1VOWXE0b3czNDQ3bGc3RVdNdjAyVXVETXNtUGxwU2dyRlE0eWNwdmhzSWVfOTNmbnZITUdxMHRrR3",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2Jmc2trVW9VU0t3QUJwRHZOOERuQ1Y3TFBmUXJiMUU2UklfRXIyc0dEVnZpTGZlcF9SUWJNSVBZazZRcWF1dTNucVJVdG1RRmNhMF9iV1NsMnRPdWkxRlFqVnNMQmNmWkhvblhfc2JSa1VOWXE0b3czNDQ3bGc3RVdNdjAyVXVETXNtUGxwU2dyRlE0eWNwdmhzSWVfOTNmbnZITUdxMHRrR3VvTGJR?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 17:05:26 GMT",
-          "source": "discoverwestman.com"
+          "published": "Wed, 05 Aug 2026 23:59:13 GMT",
+          "source": "Mexico News Daily"
         }
       ]
     },
     {
-      "id": "e158f9f16b5d",
-      "title": "Indigenous communities aren’t rejecting tourism – they just want to shape it themselves - The Conversation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXFoak9ER3JtWFlvTk4tclNQTGl2ZTU3NmZOYVZGcHJSekwtSzF3Q01Pa2RpaXZLQnNmMGtLTGtuV0F2N2ZEZEF2WE56SjBsOTJmQkxqX1JMbUJEZ3FUYy1rOEhZWWI2eE1YdWdsMXpJakFVQW5EalRGanN6cnFmQmRLQzgyTjJtTWd3a1pzd09oMUR0bG9HUmZJU3JIblFsOGoyMFFEX0E1YV",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXFoak9ER3JtWFlvTk4tclNQTGl2ZTU3NmZOYVZGcHJSekwtSzF3Q01Pa2RpaXZLQnNmMGtLTGtuV0F2N2ZEZEF2WE56SjBsOTJmQkxqX1JMbUJEZ3FUYy1rOEhZWWI2eE1YdWdsMXpJakFVQW5EalRGanN6cnFmQmRLQzgyTjJtTWd3a1pzd09oMUR0bG9HUmZJU3JIblFsOGoyMFFEX0E1YVpwWEctRktRbkdTYS13NGRJ?oc=5",
+      "id": "a474e362407e",
+      "title": "Rising Gas Prices Reshaping How Manitobans Travel, Spend This Summer: Survey - ChrisD.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWs3c3NwZXNhYTg4eERxVFlrNVc1YWVrZGdDLTFVUkxhVUhLYXczUnJMdmttNS1jR3pnTlVEaGpSN2NFWVJfNDFMSEowWDNZdE5haXNZRXBKWnRWZ0dpb0I5dXVERm5KcFVrQmc2R2dVVG45UDBtTzRRUGgteFJZaHFtUFZJSjZmNnRzR0FR?oc=5\" target=\"_blank\">Rising Gas Pric",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWs3c3NwZXNhYTg4eERxVFlrNVc1YWVrZGdDLTFVUkxhVUhLYXczUnJMdmttNS1jR3pnTlVEaGpSN2NFWVJfNDFMSEowWDNZdE5haXNZRXBKWnRWZ0dpb0I5dXVERm5KcFVrQmc2R2dVVG45UDBtTzRRUGgteFJZaHFtUFZJSjZmNnRzR0FR?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +258,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 16:06:52 GMT",
-          "source": "The Conversation"
+          "published": "Wed, 05 Aug 2026 19:12:48 GMT",
+          "source": "ChrisD.ca"
         }
       ]
     },
     {
-      "id": "0d8e323105fe",
-      "title": "Social media can shape your travel plans, according to study - Phys.org",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGelJxMzBVX3N2YWl5VGZnY1hTOERFQy11elZqb0l5VmJRNW5RQWExd2x4d0xpNkFiU0RTem9maFFKeWdpZ2xpRWxtY3dUM0RxNUpBYUh5TnBXVzg?oc=5\" target=\"_blank\">Social media can shape your travel plans, according to study</a>&nbsp;&nbsp;<font co",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGelJxMzBVX3N2YWl5VGZnY1hTOERFQy11elZqb0l5VmJRNW5RQWExd2x4d0xpNkFiU0RTem9maFFKeWdpZ2xpRWxtY3dUM0RxNUpBYUh5TnBXVzg?oc=5",
+      "id": "4708b1d27fe6",
+      "title": "Mansour named Consul, Director of Tourism for Canada by IMOT - TravelPress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPd29sd0pKUFdrc0FnalNEOVhKQWNwbVFoajhGZUltQ2todFZtZllmWnhoTTMyaTFiRElCVUVvQ1BELVY3a2U3ZHlmaFdseldUclRSQ3NpX25xdnY4QjZLdkh0bmlfbnUzWDE0ZTUybWtQd0Jhc3h1cWZHaUx6SE4xbGIyRU1tbXM0UGtHbXlmV1Qtdw?oc=5\" target=\"_blank\">Mansour n",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd29sd0pKUFdrc0FnalNEOVhKQWNwbVFoajhGZUltQ2todFZtZllmWnhoTTMyaTFiRElCVUVvQ1BELVY3a2U3ZHlmaFdseldUclRSQ3NpX25xdnY4QjZLdkh0bmlfbnUzWDE0ZTUybWtQd0Jhc3h1cWZHaUx6SE4xbGIyRU1tbXM0UGtHbXlmV1Qtdw?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 15:40:05 GMT",
-          "source": "Phys.org"
+          "published": "Wed, 05 Aug 2026 10:25:19 GMT",
+          "source": "TravelPress"
         }
       ]
     },
     {
-      "id": "2ff98b1b8532",
-      "title": "News | The good and bad of China's travel outlook - CoStar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFZlSTVxMEg0cHdDY0VhZmRJWlNfdVJscTBTYjYtMTVGNzR1aFZtU1NLamtEQW9pakEwTEVYYlc1RHBlU2xSU1BQdm5lYTVydmdCSW5Ua3hqTG5lRkxCUTlMbk5Ja3NrVzZRVUNlRDh0MFFRdlg1QUN6SEFFTlRoSmNrZmIwZzhod2c?oc=5\" target=\"_blank\">News | The good and ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFZlSTVxMEg0cHdDY0VhZmRJWlNfdVJscTBTYjYtMTVGNzR1aFZtU1NLamtEQW9pakEwTEVYYlc1RHBlU2xSU1BQdm5lYTVydmdCSW5Ua3hqTG5lRkxCUTlMbk5Ja3NrVzZRVUNlRDh0MFFRdlg1QUN6SEFFTlRoSmNrZmIwZzhod2c?oc=5",
+      "id": "c70795db47e8",
+      "title": "Tourism Windsor Essex Pelee Island Launches Cycle Tourism Map With 6 Regional Routes And Connectivity With U.S - windsoriteDOTca News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UZ1UxNHdtaGZ6cXZyN3Z3bnlrY1U3clRCcHY2TFFzYTI0c1NEaXBhdi1hMXM1NHllWUVsc1VhTHFHU2xiV2c?oc=5\" target=\"_blank\">Tourism Windsor Essex Pelee Island Launches Cycle Tourism Map With 6 Regional Routes And Connectivity With U.S</",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UZ1UxNHdtaGZ6cXZyN3Z3bnlrY1U3clRCcHY2TFFzYTI0c1NEaXBhdi1hMXM1NHllWUVsc1VhTHFHU2xiV2c?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 12:45:53 GMT",
-          "source": "CoStar"
+          "published": "Wed, 05 Aug 2026 17:53:42 GMT",
+          "source": "windsoriteDOTca News"
         }
       ]
     },
     {
-      "id": "dc310845d8ff",
-      "title": "Global Travel & Tourism Surpasses $1 Trillion Investment - TravelPulse",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTE1kQkpxRFlpSFVOcmxpQWdtWXdkdFgzQ3UwaEZWU3BOcV9ua21sTHV1XzJ1OVdHTl9SVnhGNGw1d25ubVMzYUNpb3hweEhhMlRfTzdVMGxybjBkcDFGazBHZVlwTnF5VF9TUkF6djJlOC1xTkF6bEJFZ3Vsa1FWbW9ITTBHVDVWSzNuMUpRQnpuNVlzOWZOQkx4Qk5UTUc2TkN6bGtR?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTE1kQkpxRFlpSFVOcmxpQWdtWXdkdFgzQ3UwaEZWU3BOcV9ua21sTHV1XzJ1OVdHTl9SVnhGNGw1d25ubVMzYUNpb3hweEhhMlRfTzdVMGxybjBkcDFGazBHZVlwTnF5VF9TUkF6djJlOC1xTkF6bEJFZ3Vsa1FWbW9ITTBHVDVWSzNuMUpRQnpuNVlzOWZOQkx4Qk5UTUc2TkN6bGtR?oc=5",
+      "id": "c733fd5d734c",
+      "title": "Travel Mom | Morning Blend - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA5dE1GakVnY2FRdTRNMDVxbE1Pbl95VnBWVndfejA4MTRxcTRRNjZQSTh6OFNPeU43a0NNamt2Nm9yaXlhUTNhdEpJd3BBcVZuX3JmMjJVdk1Jd2lObWwycEpxaTlydkRBZWRKYlVpeHdDUVk?oc=5\" target=\"_blank\">Travel Mom | Morning Blend</a>&nbsp;&nbsp;<font colo",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5dE1GakVnY2FRdTRNMDVxbE1Pbl95VnBWVndfejA4MTRxcTRRNjZQSTh6OFNPeU43a0NNamt2Nm9yaXlhUTNhdEpJd3BBcVZuX3JmMjJVdk1Jd2lObWwycEpxaTlydkRBZWRKYlVpeHdDUVk?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 12:40:00 GMT",
-          "source": "TravelPulse"
+          "published": "Thu, 06 Aug 2026 00:44:00 GMT",
+          "source": "Yahoo News Canada"
         }
       ]
     },
     {
-      "id": "707d79a94b93",
-      "title": "WTTC: Tourism investment surpasses US$1 trillion as sector outpaces wider economy - PAXnews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0szZFM1YktOaWVEdDJrbjdLR2tvb1ZTT0NDN25Nb0dIeUtxX19JVzJQTXFrZW40Q0VqOXNFZUlCOGtOVndwcFJ0ckRhUkF4YkVXMjMtWFRFcmRCQXVWUWJPVHRSVUg1VlVqbjRNWW04WE9pYXc0RVdxTXZtOXpIb2p0Y083VjhZU2RkN1FCSzB5cEt4cURWMVJqcERpb0xqeEotallYSWhVcX",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0szZFM1YktOaWVEdDJrbjdLR2tvb1ZTT0NDN25Nb0dIeUtxX19JVzJQTXFrZW40Q0VqOXNFZUlCOGtOVndwcFJ0ckRhUkF4YkVXMjMtWFRFcmRCQXVWUWJPVHRSVUg1VlVqbjRNWW04WE9pYXc0RVdxTXZtOXpIb2p0Y083VjhZU2RkN1FCSzB5cEt4cURWMVJqcERpb0xqeEotallYSWhVcXJmRC1KZXFyUmhJaDloRWlNcHg0azZyUQ?oc=5",
+      "id": "2e2b0cf4af41",
+      "title": "New map aims to boost cross-border cycling tourism in Windsor-Essex - am800cklw.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3FzLUZSLXZoZW5OVGlkdzV4d3c1NTBvWGJqeUFmUnAtYlI2V0phZTdLTzhVVDl0bkk1NUpSQXJBU3pwWXY1X1I2Rnp1XzRQNFN3OVVuMG44ekdRRHBrMjQ5YVVKT2NfVjN4QmpVWHZoX0MxU0o4RUozOEtLY0t1WGVRZjdQSUEyUWNGeXJ4ek96b1VxbFZXcUJQRk1NTG1O?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3FzLUZSLXZoZW5OVGlkdzV4d3c1NTBvWGJqeUFmUnAtYlI2V0phZTdLTzhVVDl0bkk1NUpSQXJBU3pwWXY1X1I2Rnp1XzRQNFN3OVVuMG44ekdRRHBrMjQ5YVVKT2NfVjN4QmpVWHZoX0MxU0o4RUozOEtLY0t1WGVRZjdQSUEyUWNGeXJ4ek96b1VxbFZXcUJQRk1NTG1O?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 13:56:18 GMT",
-          "source": "PAXnews.com"
+          "published": "Wed, 05 Aug 2026 16:36:22 GMT",
+          "source": "am800cklw.com"
         }
       ]
     },
     {
-      "id": "2320ebdffe7e",
-      "title": "Canadians in the dark on the impact of travel advisories on insurance: study - Global News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPanMtOU1kdDh3UWswS1VTZlFYa0FPSGFqWHJYcUFVYXAyMTZfdnVULUZ0dHN5QUhoNHA2OTd6OGxJQlhWQmZ6eHhFWS01UEVIdkdLNFNUM2g3bm9MeGVialdQcF9xVmxOMFJJQ204c2RXNzVTQ01iT29icHV0UllfSGQwOWR6UWNDSG1CeHQ0TnNDaWgxdFppUFZRT2JTOEVzY0FzOVVUVzljNW",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPanMtOU1kdDh3UWswS1VTZlFYa0FPSGFqWHJYcUFVYXAyMTZfdnVULUZ0dHN5QUhoNHA2OTd6OGxJQlhWQmZ6eHhFWS01UEVIdkdLNFNUM2g3bm9MeGVialdQcF9xVmxOMFJJQ204c2RXNzVTQ01iT29icHV0UllfSGQwOWR6UWNDSG1CeHQ0TnNDaWgxdFppUFZRT2JTOEVzY0FzOVVUVzljNWpYY0owUF9uYw?oc=5",
+      "id": "ecd4aa9bcf19",
+      "title": "Travel Nevada launches “Specialist Challenge” for Canadian travel advisors - paxnews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1ppRVFvM056djBxa29pMXZZQnozTjRDbXhxTzNjU25XVnpLQzc4SFpZV3V3TkZrM056eDNvM0FNNlhpVEVHbkZncWU1Z3ZOWDVWZzdkYzNnbjREVlp4SUtSUVNiaHM2VVRGQzctZnhNbFhfWlp2NUtXeEY0UjZ6SlNLbURnS0cyS05PcU9OcFBNWTBHbzRPVXlZeFN1VVViYUtCZWRhZll2UQ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1ppRVFvM056djBxa29pMXZZQnozTjRDbXhxTzNjU25XVnpLQzc4SFpZV3V3TkZrM056eDNvM0FNNlhpVEVHbkZncWU1Z3ZOWDVWZzdkYzNnbjREVlp4SUtSUVNiaHM2VVRGQzctZnhNbFhfWlp2NUtXeEY0UjZ6SlNLbURnS0cyS05PcU9OcFBNWTBHbzRPVXlZeFN1VVViYUtCZWRhZll2UQ?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 16:51:26 GMT",
-          "source": "Global News"
+          "published": "Wed, 05 Aug 2026 16:33:07 GMT",
+          "source": "paxnews.com"
         }
       ]
     },
     {
-      "id": "7b8e772f7774",
-      "title": "Most Canadians unaware travel advisories can affect insurance coverage: survey - PAXnews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXpHMjkzU3c1akxnLVRZTVFmMVBSTEhad2pWb2FvamFIOG1KSHJDdWxaZWhJdWNDWTVFeEFiR3FoNjljbVNTdEZxZUtZY2phOGMyV3FGVkoweWlQZlFZNDllOWwzM2thS2RXV3hFTVRRNmJlUWtndXZyVmdtdHdqSFRYQVkzOEpMTzJ2UlRJRWFqVWRVOC13Ymx3SlpadDk1MTJmM0hkdmlPNU",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXpHMjkzU3c1akxnLVRZTVFmMVBSTEhad2pWb2FvamFIOG1KSHJDdWxaZWhJdWNDWTVFeEFiR3FoNjljbVNTdEZxZUtZY2phOGMyV3FGVkoweWlQZlFZNDllOWwzM2thS2RXV3hFTVRRNmJlUWtndXZyVmdtdHdqSFRYQVkzOEpMTzJ2UlRJRWFqVWRVOC13Ymx3SlpadDk1MTJmM0hkdmlPNUtONnkzTA?oc=5",
+      "id": "707d79a94b93",
+      "title": "WTTC: Tourism investment surpasses US$1 trillion as sector outpaces wider economy - paxnews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0szZFM1YktOaWVEdDJrbjdLR2tvb1ZTT0NDN25Nb0dIeUtxX19JVzJQTXFrZW40Q0VqOXNFZUlCOGtOVndwcFJ0ckRhUkF4YkVXMjMtWFRFcmRCQXVWUWJPVHRSVUg1VlVqbjRNWW04WE9pYXc0RVdxTXZtOXpIb2p0Y083VjhZU2RkN1FCSzB5cEt4cURWMVJqcERpb0xqeEotallYSWhVcX",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0szZFM1YktOaWVEdDJrbjdLR2tvb1ZTT0NDN25Nb0dIeUtxX19JVzJQTXFrZW40Q0VqOXNFZUlCOGtOVndwcFJ0ckRhUkF4YkVXMjMtWFRFcmRCQXVWUWJPVHRSVUg1VlVqbjRNWW04WE9pYXc0RVdxTXZtOXpIb2p0Y083VjhZU2RkN1FCSzB5cEt4cURWMVJqcERpb0xqeEotallYSWhVcXJmRC1KZXFyUmhJaDloRWlNcHg0azZyUQ?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 15:01:10 GMT",
-          "source": "PAXnews.com"
+          "published": "Wed, 05 Aug 2026 16:33:07 GMT",
+          "source": "paxnews.com"
         }
       ]
     },
     {
-      "id": "bfbbeba58a69",
-      "title": "Qeshm Tourism Paralyzed by War - IranWire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1hQ0UyWUlYWjZ5Q3BEX2RqZ19DM1JKb05lTjBGMmh4WEtZWmtWVjFmajlFVnUxMzJ1UkExcmdNN1E3VTVBaVRPemtCT1RxTzNjbllSWFU5THI3cEFHTWlJMzZnM3VabFpvcWVoQzBMU2REejRJM0E?oc=5\" target=\"_blank\">Qeshm Tourism Paralyzed by War</a>&nbsp;&nbsp;<f",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hQ0UyWUlYWjZ5Q3BEX2RqZ19DM1JKb05lTjBGMmh4WEtZWmtWVjFmajlFVnUxMzJ1UkExcmdNN1E3VTVBaVRPemtCT1RxTzNjbllSWFU5THI3cEFHTWlJMzZnM3VabFpvcWVoQzBMU2REejRJM0E?oc=5",
+      "id": "c2b7a2aef5c6",
+      "title": "TIME Canada launches mentorship program for Canadian travel industry - paxnews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnNaWkgyX0dPN2JwY1NxdVVQbldIYlpfRW1WN1BiUWFRVXpvMzVpQURCZ1BFNE90TmdkQzlHM1BqdkJRRjFNTGpTeHhweUNkZmdFR1E1WDllQkx4cFFsNjNmcV8wVFpUdmxIOWhlekx1ZDlRX0Rxc0RkY2VqdEFUR3o1N1dBbDkwXzdkT09acF9lb0ZhaFRFSGx0VzlVNkszMUFGNXBWR1lMZw",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnNaWkgyX0dPN2JwY1NxdVVQbldIYlpfRW1WN1BiUWFRVXpvMzVpQURCZ1BFNE90TmdkQzlHM1BqdkJRRjFNTGpTeHhweUNkZmdFR1E1WDllQkx4cFFsNjNmcV8wVFpUdmxIOWhlekx1ZDlRX0Rxc0RkY2VqdEFUR3o1N1dBbDkwXzdkT09acF9lb0ZhaFRFSGx0VzlVNkszMUFGNXBWR1lMZw?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-05T19:50:26+00:00",
+      "first_seen": "2026-08-06T03:30:38+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 13:55:28 GMT",
-          "source": "IranWire"
+          "published": "Wed, 05 Aug 2026 23:18:18 GMT",
+          "source": "paxnews.com"
         }
       ]
     }
