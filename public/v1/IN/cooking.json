@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "IN",
-  "generated_at": "2026-08-06T14:41:11+00:00",
+  "generated_at": "2026-08-07T00:21:07+00:00",
   "cache_ttl_hours": 6,
-  "count": 24,
+  "count": 25,
   "trends": [
     {
       "id": "66894fba2ce6",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Thu, 06 Aug 2026 11:53:19 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "4cf04fffd13d",
-      "title": "The seasonal launch is dead. What comes next? - FoodNavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGJURTJfb253bmZWRHJjT0lvY0JKYVBYQ3FkbWZrS1dJLWZ2cjNTSnJ5UDFnNXV5MGRza3ZRdFJHYWU3OG15b2xRSGgwQ3NwNVNhdGxMWjdvMXA2akxpRjZPV1p1cld1V0Fnc1J1aUFwYnNFTWtOWGQzazN2bGRaNGJyY0N6MTBUSG9pM2hTZmFOQm9oSXJucUNpTzhkam11N19XbFdTUml1X3",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGJURTJfb253bmZWRHJjT0lvY0JKYVBYQ3FkbWZrS1dJLWZ2cjNTSnJ5UDFnNXV5MGRza3ZRdFJHYWU3OG15b2xRSGgwQ3NwNVNhdGxMWjdvMXA2akxpRjZPV1p1cld1V0Fnc1J1aUFwYnNFTWtOWGQzazN2bGRaNGJyY0N6MTBUSG9pM2hTZmFOQm9oSXJucUNpTzhkam11N19XbFdTUml1X3NL?oc=5",
+      "id": "ed6e39dfd2b0",
+      "title": "Eating Patterns in America 2026: Consumer Food & Beverage Trends Report - circana.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNazZXTk5yRXlScnZneFd3X3dkNXU3MEhZNGxIaGVkRTNOc0x0Z3RFbjk3YWVmdzRBcENhSi1kSDJSWkZLUHB4c2R4R2JHbzVDS3VJS2VuWG1taTFNcW9aQ0xUb0ZLWWR0Mmhrc0tZLVJUQjJhdHhwdmJxM1lFQ3RXUG1LUnBvUTBsR0piYkZ2RTRaVllKM1h3aFVtQ0JNZTRmalE?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazZXTk5yRXlScnZneFd3X3dkNXU3MEhZNGxIaGVkRTNOc0x0Z3RFbjk3YWVmdzRBcENhSi1kSDJSWkZLUHB4c2R4R2JHbzVDS3VJS2VuWG1taTFNcW9aQ0xUb0ZLWWR0Mmhrc0tZLVJUQjJhdHhwdmJxM1lFQ3RXUG1LUnBvUTBsR0piYkZ2RTRaVllKM1h3aFVtQ0JNZTRmalE?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 06 Aug 2026 20:29:53 GMT",
+          "source": "circana.com"
+        }
+      ]
+    },
+    {
+      "id": "4cf04fffd13d",
+      "title": "The seasonal launch is dead. What comes next? - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGJURTJfb253bmZWRHJjT0lvY0JKYVBYQ3FkbWZrS1dJLWZ2cjNTSnJ5UDFnNXV5MGRza3ZRdFJHYWU3OG15b2xRSGgwQ3NwNVNhdGxMWjdvMXA2akxpRjZPV1p1cld1V0Fnc1J1aUFwYnNFTWtOWGQzazN2bGRaNGJyY0N6MTBUSG9pM2hTZmFOQm9oSXJucUNpTzhkam11N19XbFdTUml1X3",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGJURTJfb253bmZWRHJjT0lvY0JKYVBYQ3FkbWZrS1dJLWZ2cjNTSnJ5UDFnNXV5MGRza3ZRdFJHYWU3OG15b2xRSGgwQ3NwNVNhdGxMWjdvMXA2akxpRjZPV1p1cld1V0Fnc1J1aUFwYnNFTWtOWGQzazN2bGRaNGJyY0N6MTBUSG9pM2hTZmFOQm9oSXJucUNpTzhkam11N19XbFdTUml1X3NL?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "IN",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Wed, 05 Aug 2026 11:55:00 GMT",
@@ -47,22 +67,22 @@
       ]
     },
     {
-      "id": "c287fd1037e4",
-      "title": "10 Global Food Trends: from gut health and brain food to smarter snacking - Food Inspiration",
+      "id": "bc2425f0b8d6",
+      "title": "10 Global Food Trends: from gut health and brain food to smarter snacking - foodinspiration.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPamNyeE1qOEVZSkoyR0hfM1JvX0JHUUxZdWN1VEtGenh6M1RvcUt0d0ZoMkI3M2tQU3FUNlByZURuendINVJBd2FFZ3hTM0FWVi1XeFViaWdSMGhvT2RsVFBSaThzUmJ2d0ZBeHI1Wi16Mmt5VjE1STBrRy1nTTdvbGtZV1FsUUFzM29BalVtaDVIb3VFNnlyVnJEX295Q2pDc2xtdlpST2l4N3",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamNyeE1qOEVZSkoyR0hfM1JvX0JHUUxZdWN1VEtGenh6M1RvcUt0d0ZoMkI3M2tQU3FUNlByZURuendINVJBd2FFZ3hTM0FWVi1XeFViaWdSMGhvT2RsVFBSaThzUmJ2d0ZBeHI1Wi16Mmt5VjE1STBrRy1nTTdvbGtZV1FsUUFzM29BalVtaDVIb3VFNnlyVnJEX295Q2pDc2xtdlpST2l4N3o1?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Mon, 03 Aug 2026 11:11:11 GMT",
-          "source": "Food Inspiration"
+          "source": "foodinspiration.com"
         }
       ]
     },
@@ -71,14 +91,14 @@
       "title": "The Taste by Vir Sanghvi: Why fancy restaurant trends are ruining good food | Hindustan Times - Hindustan Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOTG5zOE11cmZwYmNpYnJWSUhaZVpmTWdOQXYwcmNxWHVpZ3lUbjJveE94RmJWdVVBeHJyeU14dmFBUkxHOGVFU3VMeXMtTUp4MzgwWENBUy16T2wwTzFYWDJTazRBbGVqYTdDTlBqVmZzRXVvWERSOFA1WkpCSVVVOGdrM1R4UnpsYWZVMFhiQ1M0cTF0QUFSWWlnb0xGaTV4YVMxQkFMSnp0RH",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTG5zOE11cmZwYmNpYnJWSUhaZVpmTWdOQXYwcmNxWHVpZ3lUbjJveE94RmJWdVVBeHJyeU14dmFBUkxHOGVFU3VMeXMtTUp4MzgwWENBUy16T2wwTzFYWDJTazRBbGVqYTdDTlBqVmZzRXVvWERSOFA1WkpCSVVVOGdrM1R4UnpsYWZVMFhiQ1M0cTF0QUFSWWlnb0xGaTV4YVMxQkFMSnp0RHI1Sk5KXzB4emkzbkVBZlVSVVlCa2JpYnN0VDQ2OU9UeFh2aTjSAdQBQVVfeXFMTWVuc0twNEcxV2ZKd2JBQmZ5Uy1hNlpVRFZmcUxIcTZhRy1XU1lCbnVLUTduTmxfS3FVeklJX3J4bjE3M2lrMXZxQy1adFk0RmJBQXNZaFFPai1aLWFBdjRnX0V0Sm5YQlVvZW4wZHZUczVJWnVySWFsRkphcHZRQTBlMnVFRUQzdW5sUkh5WkZzWUgtMEs0clFVQ09wM3NFZ3BFem5DbFBsUGc3U2N1UlM0aGdWcS1TY3RTZEhsOVBxRmxNYlExMXp1OHBDdmw3V2pQbFE?oc=5",
-      "score": 79.2,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Mon, 03 Aug 2026 09:39:21 GMT",
@@ -87,18 +107,38 @@
       ]
     },
     {
-      "id": "0df0ce72d3c8",
-      "title": "Paloma about town: How Chennai is juggling football fever, food trends and more - Indulge Express",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRWp5dTBLOU5EYlpqcmpEYnZ6SVVKY1U3c28zaURaV05VMlpFM05YLThjVnEwUmFPU0E0WUkyekpUSlhuWVZZSEFKRFMwWDZSU3QzU0ZEQVhpOTRvMXdCU2hXd2JMeUI4Y3lxWDJiUm4xRUlScFBKeml3Q3lDSXdvSHo5eFpZZjZGRF9jTk1lSk92Vy1XNzB4a0pUckdyX051X0FOMVZmV1J4Sk",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRWp5dTBLOU5EYlpqcmpEYnZ6SVVKY1U3c28zaURaV05VMlpFM05YLThjVnEwUmFPU0E0WUkyekpUSlhuWVZZSEFKRFMwWDZSU3QzU0ZEQVhpOTRvMXdCU2hXd2JMeUI4Y3lxWDJiUm4xRUlScFBKeml3Q3lDSXdvSHo5eFpZZjZGRF9jTk1lSk92Vy1XNzB4a0pUckdyX051X0FOMVZmV1J4SkotZjduVFQ3cWFEZDRLekVTcmhUaXZxUFJGS3ZF0gHUAUFVX3lxTFA4Mm5semkwTUVUZ0FBQ3V6c2dVNTZPZEt2bWdRSjJsMy1ycnhLVmhYOUpTdHJaZVVwLVg4LWJBN0RDRDhHMk5LUWJicFNNRHJlX1pKR01mOW9nR1hFWE83TEkyX2ptXzdlMl9SOGI1dzdYRjZ1TGxOaHdROFhhbHpvYWlCRWtCUDFrRG1GeDdIOVYxRlZGdEE4eDk4M1pjUV9vMk5oNkp1UVZxX3lDSEVvRzF6RXM1Wkh2anVjSnZwLTltb2lEYWZ1c0NpTGNMRjBNbzJl?oc=5",
-      "score": 75.6,
+      "id": "da2e09e9c33f",
+      "title": "Conversational AI Food Orders: Square Brought Its Food and Beverage Sellers into… - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE02UkpqcUlBdnZZbHVqbjNqMWFia0loRjI0a1dlVDVpYjFBd3cxY20xTlZZeUNlR1VKUTZuQXh1MlgyMWVnWXR5VzEwam41YmlQVlZHZUZUYWFOWHBmM0NpXw?oc=5\" target=\"_blank\">Conversational AI Food Orders: Square Brought Its Food and Beverage Sellers i",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02UkpqcUlBdnZZbHVqbjNqMWFia0loRjI0a1dlVDVpYjFBd3cxY20xTlZZeUNlR1VKUTZuQXh1MlgyMWVnWXR5VzEwam41YmlQVlZHZUZUYWFOWHBmM0NpXw?oc=5",
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 06 Aug 2026 20:39:42 GMT",
+          "source": "Trend Hunter"
+        }
+      ]
+    },
+    {
+      "id": "0df0ce72d3c8",
+      "title": "Paloma about town: How Chennai is juggling football fever, food trends and more - Indulge Express",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRWp5dTBLOU5EYlpqcmpEYnZ6SVVKY1U3c28zaURaV05VMlpFM05YLThjVnEwUmFPU0E0WUkyekpUSlhuWVZZSEFKRFMwWDZSU3QzU0ZEQVhpOTRvMXdCU2hXd2JMeUI4Y3lxWDJiUm4xRUlScFBKeml3Q3lDSXdvSHo5eFpZZjZGRF9jTk1lSk92Vy1XNzB4a0pUckdyX051X0FOMVZmV1J4Sk",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRWp5dTBLOU5EYlpqcmpEYnZ6SVVKY1U3c28zaURaV05VMlpFM05YLThjVnEwUmFPU0E0WUkyekpUSlhuWVZZSEFKRFMwWDZSU3QzU0ZEQVhpOTRvMXdCU2hXd2JMeUI4Y3lxWDJiUm4xRUlScFBKeml3Q3lDSXdvSHo5eFpZZjZGRF9jTk1lSk92Vy1XNzB4a0pUckdyX051X0FOMVZmV1J4SkotZjduVFQ3cWFEZDRLekVTcmhUaXZxUFJGS3ZF0gHUAUFVX3lxTFA4Mm5semkwTUVUZ0FBQ3V6c2dVNTZPZEt2bWdRSjJsMy1ycnhLVmhYOUpTdHJaZVVwLVg4LWJBN0RDRDhHMk5LUWJicFNNRHJlX1pKR01mOW9nR1hFWE83TEkyX2ptXzdlMl9SOGI1dzdYRjZ1TGxOaHdROFhhbHpvYWlCRWtCUDFrRG1GeDdIOVYxRlZGdEE4eDk4M1pjUV9vMk5oNkp1UVZxX3lDSEVvRzF6RXM1Wkh2anVjSnZwLTltb2lEYWZ1c0NpTGNMRjBNbzJl?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "IN",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -111,14 +151,14 @@
       "title": "Bank of America updates on US packaged food sales trends By Investing.com - Investing.com Nigeria",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFYzZ2RNcTBFQ28xLXdqVjhOTmRXOEx3SWZDSUpzbkZmY3J5NDREd3RlcW50NHFtX1VsYXNob1N2T25DWk1NZHdLUjY2aFRrWFZLSzZ1RlUwX0lWRXBodkQ0amFDQkd3QTR4ZkJfLTFobVBuUS1rdzB1UEwwbFZsQmZmMXFfeVcwTzRTMklTTjZfaHpWSDZuODNCMnpKMFV6cFk1cWRFVXFoWE",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFYzZ2RNcTBFQ28xLXdqVjhOTmRXOEx3SWZDSUpzbkZmY3J5NDREd3RlcW50NHFtX1VsYXNob1N2T25DWk1NZHdLUjY2aFRrWFZLSzZ1RlUwX0lWRXBodkQ0amFDQkd3QTR4ZkJfLTFobVBuUS1rdzB1UEwwbFZsQmZmMXFfeVcwTzRTMklTTjZfaHpWSDZuODNCMnpKMFV6cFk1cWRFVXFoWEozdW9XcnJDem5RSF9l?oc=5",
-      "score": 72.0,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Tue, 04 Aug 2026 12:50:14 GMT",
@@ -127,50 +167,10 @@
       ]
     },
     {
-      "id": "778b72fc1a9e",
-      "title": "How Many Of 2026's Biggest Food Trends Have You Actually Noticed? - slurrp.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlhRNE41UEtBd19vSTlkX3IwSVZUUUxoLUhYSjlWTlZJUVpwTUNJZXpXcXp4eDFzQWU2TE4xcWpXY2FJTjRtT0VQTWd2T1lKdm5QaExfbFlGeHFNb3RqSHowRVlicjdHUTJvR05fQXNIcXR4YmdPaUhhdFVHZmJkdXRvV0tVc2k5Q2FxRGcyRVk0MEh6Zmt2WWJmNnJDbHRpNTI5VEphdUp6SG",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlhRNE41UEtBd19vSTlkX3IwSVZUUUxoLUhYSjlWTlZJUVpwTUNJZXpXcXp4eDFzQWU2TE4xcWpXY2FJTjRtT0VQTWd2T1lKdm5QaExfbFlGeHFNb3RqSHowRVlicjdHUTJvR05fQXNIcXR4YmdPaUhhdFVHZmJkdXRvV0tVc2k5Q2FxRGcyRVk0MEh6Zmt2WWJmNnJDbHRpNTI5VEphdUp6SG920gGyAUFVX3lxTFBWcjd1bm1VYmh0RDZQLWJtQ0UyTzBobEg3OFEwbERLY2NGZ3I2TWg3Z3RnZ0d5dlVsZkRjOUNUVVU0MWF6ZlpuX1FvMkE0c05yNlZpa1RlWDhyaEhZaExTUVc2ZTBtaHBlLVpRTHV5cWFoelcwd2lEUnNfcFhBRGppdkVld2d5YkxOZHl0Nm9QYVA3bUNNaWpNQ2N2MmJlcWlUQzZrTG9EM3NjZERTOTFNdlE?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 01 Aug 2026 12:20:18 GMT",
-          "source": "slurrp.com"
-        }
-      ]
-    },
-    {
-      "id": "85c1e2f79121",
-      "title": "The Restaurant Trends to Try Now - Food & Wine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1aaUE4MDdUSlBfaVBDdF9OQmJKZ0t3S2l1N2F5aUJ4STQ2NnNTSWtMaDhTVG5UeThSXzlRblVGU0JwaFFPYnN1blNpTDJvWEhtdjlfSEpJUlJad0N5MndJSFdEUFlJbEM1NmhvMjhvLU95WDA?oc=5\" target=\"_blank\">The Restaurant Trends to Try Now</a>&nbsp;&nbsp;<fon",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aaUE4MDdUSlBfaVBDdF9OQmJKZ0t3S2l1N2F5aUJ4STQ2NnNTSWtMaDhTVG5UeThSXzlRblVGU0JwaFFPYnN1blNpTDJvWEhtdjlfSEpJUlJad0N5MndJSFdEUFlJbEM1NmhvMjhvLU95WDA?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 04 Aug 2026 12:30:00 GMT",
-          "source": "Food & Wine"
-        }
-      ]
-    },
-    {
-      "id": "90b5f1fb9e54",
-      "title": "How to make the iconic \"looney cake\" from Succession",
-      "summary": null,
-      "url": "https://www.youtube.com/shorts/84xHDfPe5kE",
+      "id": "73433845e7aa",
+      "title": "Babish Meals: Behind The Scenes",
+      "summary": "Creating this menu has been a blast, and my meals are now available in 30 states!\n\nHead to CookUnity.com/Babish or the link in bio to grab one of the limited meals available to order without a subscription.\n[4:50 PM]",
+      "url": "https://www.youtube.com/shorts/yjvqi-0slTA",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -178,13 +178,13 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-06T14:34:34+00:00",
+      "first_seen": "2026-08-07T00:14:18+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
           "channel_title": "Binging with Babish",
-          "video_id": "84xHDfPe5kE",
-          "published": "2026-07-29T19:00:04+00:00"
+          "video_id": "yjvqi-0slTA",
+          "published": "2026-08-06T21:30:15+00:00"
         }
       ],
       "is_global": true
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Fri, 26 Jun 2026 07:00:00 GMT",
@@ -210,10 +210,10 @@
       ]
     },
     {
-      "id": "07f78ab4ed9b",
-      "title": "I made the \"mushroomiest\" pasta possible",
+      "id": "90b5f1fb9e54",
+      "title": "How to make the iconic \"looney cake\" from Succession",
       "summary": null,
-      "url": "https://www.youtube.com/shorts/F5C6UcmyPxc",
+      "url": "https://www.youtube.com/shorts/84xHDfPe5kE",
       "score": 59.29,
       "sources": [
         "youtube"
@@ -221,7 +221,50 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-06T14:34:34+00:00",
+      "first_seen": "2026-08-07T00:14:18+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "84xHDfPe5kE",
+          "published": "2026-07-29T19:00:04+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "85c1e2f79121",
+      "title": "The Restaurant Trends to Try Now - Food & Wine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1aaUE4MDdUSlBfaVBDdF9OQmJKZ0t3S2l1N2F5aUJ4STQ2NnNTSWtMaDhTVG5UeThSXzlRblVGU0JwaFFPYnN1blNpTDJvWEhtdjlfSEpJUlJad0N5MndJSFdEUFlJbEM1NmhvMjhvLU95WDA?oc=5\" target=\"_blank\">The Restaurant Trends to Try Now</a>&nbsp;&nbsp;<fon",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aaUE4MDdUSlBfaVBDdF9OQmJKZ0t3S2l1N2F5aUJ4STQ2NnNTSWtMaDhTVG5UeThSXzlRblVGU0JwaFFPYnN1blNpTDJvWEhtdjlfSEpJUlJad0N5MndJSFdEUFlJbEM1NmhvMjhvLU95WDA?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "IN",
+      "first_seen": "2026-08-07T00:12:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 04 Aug 2026 12:30:00 GMT",
+          "source": "Food & Wine"
+        }
+      ]
+    },
+    {
+      "id": "07f78ab4ed9b",
+      "title": "I made the \"mushroomiest\" pasta possible",
+      "summary": null,
+      "url": "https://www.youtube.com/shorts/F5C6UcmyPxc",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-08-07T00:14:18+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -233,38 +276,18 @@
       "is_global": true
     },
     {
-      "id": "3af83481343d",
-      "title": "Trends in Food Science & Technology | Vol 170, April 2026 - ScienceDirect.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ2QnFZcGdDZ1U5QzNiMlNHM1BUc3dzdWM0N2JCVmtoUG9ZYV9CSGhCX216RjhnZmNIYjdBeG9ydzlXcFFDRS1xWkE2c1ctcWE0WllvSE1ib2l4WXR2eEVTQ080dC1uUmtuSW93NHN0c1J4LXZQX0pUdjlYcERPZVppSXNJd0h3RWtYNzE5MjVhVE10bkE?oc=5\" target=\"_blank\">Tren",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ2QnFZcGdDZ1U5QzNiMlNHM1BUc3dzdWM0N2JCVmtoUG9ZYV9CSGhCX216RjhnZmNIYjdBeG9ydzlXcFFDRS1xWkE2c1ctcWE0WllvSE1ib2l4WXR2eEVTQ080dC1uUmtuSW93NHN0c1J4LXZQX0pUdjlYcERPZVppSXNJd0h3RWtYNzE5MjVhVE10bkE?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Jan 2026 04:20:05 GMT",
-          "source": "ScienceDirect.com"
-        }
-      ]
-    },
-    {
       "id": "f1ea2375be06",
       "title": "I Made EVERY Salsa",
       "summary": "On this episode of With Babish, we're making EVERY kind of salsa!\n\nRecipe: https://www.babi.sh/recipes/12-essential-salsas\n\nIntro Song Info\nArtist: Bear Garden\nSong: Electric Butterfly\nLabel: Bolero Recordings\n\nSpotify:\nhttps://open.spotify.com/track/5QxY7F5XUMg7RKHPpVSymc?si=vBv",
       "url": "https://www.youtube.com/watch?v=0lOY9GwjgRc",
-      "score": 56.98,
+      "score": 54.669999999999995,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-06T14:34:34+00:00",
+      "first_seen": "2026-08-07T00:14:18+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -276,18 +299,38 @@
       "is_global": true
     },
     {
+      "id": "778b72fc1a9e",
+      "title": "How Many Of 2026's Biggest Food Trends Have You Actually Noticed? - slurrp.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlhRNE41UEtBd19vSTlkX3IwSVZUUUxoLUhYSjlWTlZJUVpwTUNJZXpXcXp4eDFzQWU2TE4xcWpXY2FJTjRtT0VQTWd2T1lKdm5QaExfbFlGeHFNb3RqSHowRVlicjdHUTJvR05fQXNIcXR4YmdPaUhhdFVHZmJkdXRvV0tVc2k5Q2FxRGcyRVk0MEh6Zmt2WWJmNnJDbHRpNTI5VEphdUp6SG",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlhRNE41UEtBd19vSTlkX3IwSVZUUUxoLUhYSjlWTlZJUVpwTUNJZXpXcXp4eDFzQWU2TE4xcWpXY2FJTjRtT0VQTWd2T1lKdm5QaExfbFlGeHFNb3RqSHowRVlicjdHUTJvR05fQXNIcXR4YmdPaUhhdFVHZmJkdXRvV0tVc2k5Q2FxRGcyRVk0MEh6Zmt2WWJmNnJDbHRpNTI5VEphdUp6SG920gGyAUFVX3lxTFBWcjd1bm1VYmh0RDZQLWJtQ0UyTzBobEg3OFEwbERLY2NGZ3I2TWg3Z3RnZ0d5dlVsZkRjOUNUVVU0MWF6ZlpuX1FvMkE0c05yNlZpa1RlWDhyaEhZaExTUVc2ZTBtaHBlLVpRTHV5cWFoelcwd2lEUnNfcFhBRGppdkVld2d5YkxOZHl0Nm9QYVA3bUNNaWpNQ2N2MmJlcWlUQzZrTG9EM3NjZERTOTFNdlE?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "IN",
+      "first_seen": "2026-08-07T00:12:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 01 Aug 2026 12:20:18 GMT",
+          "source": "slurrp.com"
+        }
+      ]
+    },
+    {
       "id": "af1b7915c3fb",
       "title": "Popcorn: reimagined",
       "summary": null,
       "url": "https://www.youtube.com/shorts/zVorYnJjmrQ",
-      "score": 54.669999999999995,
+      "score": 52.35999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-06T14:34:34+00:00",
+      "first_seen": "2026-08-07T00:14:18+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -299,30 +342,10 @@
       "is_global": true
     },
     {
-      "id": "71aa6d66cc42",
-      "title": "Why Jollibee’s Pistachio Kunafa Sundae Matters to Investors - Jollibee Group",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTEliUGdjR2xCZU9McTVaR1V1UGtTVUwzY2duYzhjN202R1VPU3BwSnozSU9oUlROVERjSHdBb015X0V6N3FlY2hSbGxOY19mcC12c1gwSnlzb2F5cklHVW1uTHdrQ2gyUEVPT3djQjYxYVFvUXNfMzBid2s1RjdOeHA5RU5Ka1QwbnVXS3V6RDctYkZmMDNkcER3?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTEliUGdjR2xCZU9McTVaR1V1UGtTVUwzY2duYzhjN202R1VPU3BwSnozSU9oUlROVERjSHdBb015X0V6N3FlY2hSbGxOY19mcC12c1gwSnlzb2F5cklHVW1uTHdrQ2gyUEVPT3djQjYxYVFvUXNfMzBid2s1RjdOeHA5RU5Ka1QwbnVXS3V6RDctYkZmMDNkcER3?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 06 Aug 2026 01:37:22 GMT",
-          "source": "Jollibee Group"
-        }
-      ]
-    },
-    {
-      "id": "baea9afee93a",
-      "title": "Church’s Texas Chicken® Teams Up With Viral Food Star Mr. Tendernism to Talk Flavor, Trends and What’s Next - GlobeNewswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNTGN3ZkhsVzBfSmx2V01MUjc0YmJNbW8tQVRPRHhLTGl2MGtPT2hmcWY4dGpCbXVHeHAzWlhONjlOQ1JLdUw1UXFZckNTUHNTdmRCZW1Nd2NtQmExZWZfQmswbUlxQlZjLU00Zm5GTDdUQWg1M3cwbmxSai1NMmdVeGk3aVo1WjBSYkh4ZGhfS2lZdmpWVkx3RDdjUG9BVURodnZRZDR2Mmt1NE",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTGN3ZkhsVzBfSmx2V01MUjc0YmJNbW8tQVRPRHhLTGl2MGtPT2hmcWY4dGpCbXVHeHAzWlhONjlOQ1JLdUw1UXFZckNTUHNTdmRCZW1Nd2NtQmExZWZfQmswbUlxQlZjLU00Zm5GTDdUQWg1M3cwbmxSai1NMmdVeGk3aVo1WjBSYkh4ZGhfS2lZdmpWVkx3RDdjUG9BVURodnZRZDR2Mmt1NEwyb0RmMEZYcENjT2pTS0Rkd0xxTE9QYnBFY1d5VnpCeF9icEE3QlVYTjZUSUJIQXdYcXpsRFF0cVRma0t4aGxSTUM1TXBTeEV2dHJjSHc0YzdTNHVYeVpzdHVDMA?oc=5",
+      "id": "3af83481343d",
+      "title": "Trends in Food Science & Technology | Vol 170, April 2026 - ScienceDirect.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ2QnFZcGdDZ1U5QzNiMlNHM1BUc3dzdWM0N2JCVmtoUG9ZYV9CSGhCX216RjhnZmNIYjdBeG9ydzlXcFFDRS1xWkE2c1ctcWE0WllvSE1ib2l4WXR2eEVTQ080dC1uUmtuSW93NHN0c1J4LXZQX0pUdjlYcERPZVppSXNJd0h3RWtYNzE5MjVhVE10bkE?oc=5\" target=\"_blank\">Tren",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ2QnFZcGdDZ1U5QzNiMlNHM1BUc3dzdWM0N2JCVmtoUG9ZYV9CSGhCX216RjhnZmNIYjdBeG9ydzlXcFFDRS1xWkE2c1ctcWE0WllvSE1ib2l4WXR2eEVTQ080dC1uUmtuSW93NHN0c1J4LXZQX0pUdjlYcERPZVppSXNJd0h3RWtYNzE5MjVhVE10bkE?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -330,11 +353,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 04 Aug 2026 12:04:00 GMT",
-          "source": "GlobeNewswire"
+          "published": "Thu, 29 Jan 2026 04:20:05 GMT",
+          "source": "ScienceDirect.com"
         }
       ]
     },
@@ -350,7 +373,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Thu, 18 Jun 2026 07:00:00 GMT",
@@ -359,10 +382,10 @@
       ]
     },
     {
-      "id": "c5ed9a30800e",
-      "title": "Viral on the feed: Six food trends dominating Instagram in 2026 - t2ONLINE",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0pwWlE5d2RadERNY3ZnTUZzQVJMTHducE5ZSFdHSGRkWi1LYVNjWElvLWNnZ1RKVEpOeG5RaHNOb0JWUXpJUnloXzZfZFV5TlA0ajY3QjlLdWdlNFFscklqZjRlZk5waVgwTlI4dnVLTlBHU1hXU2NCMjJCT2ExVWlpeDgwdnRjandjVkpWQlNES3JGUE8tT0t4ZXgyaFBUY054eERoTTQtST",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0pwWlE5d2RadERNY3ZnTUZzQVJMTHducE5ZSFdHSGRkWi1LYVNjWElvLWNnZ1RKVEpOeG5RaHNOb0JWUXpJUnloXzZfZFV5TlA0ajY3QjlLdWdlNFFscklqZjRlZk5waVgwTlI4dnVLTlBHU1hXU2NCMjJCT2ExVWlpeDgwdnRjandjVkpWQlNES3JGUE8tT0t4ZXgyaFBUY054eERoTTQtSTRkcm1VSEdrWWY?oc=5",
+      "id": "5a3f730a03c0",
+      "title": "Church’s Texas Chicken® Teams Up With Viral Food Star Mr. Tendernism to Talk Flavor, Trends and What’s Next - globenewswire.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNTGN3ZkhsVzBfSmx2V01MUjc0YmJNbW8tQVRPRHhLTGl2MGtPT2hmcWY4dGpCbXVHeHAzWlhONjlOQ1JLdUw1UXFZckNTUHNTdmRCZW1Nd2NtQmExZWZfQmswbUlxQlZjLU00Zm5GTDdUQWg1M3cwbmxSai1NMmdVeGk3aVo1WjBSYkh4ZGhfS2lZdmpWVkx3RDdjUG9BVURodnZRZDR2Mmt1NE",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTGN3ZkhsVzBfSmx2V01MUjc0YmJNbW8tQVRPRHhLTGl2MGtPT2hmcWY4dGpCbXVHeHAzWlhONjlOQ1JLdUw1UXFZckNTUHNTdmRCZW1Nd2NtQmExZWZfQmswbUlxQlZjLU00Zm5GTDdUQWg1M3cwbmxSai1NMmdVeGk3aVo1WjBSYkh4ZGhfS2lZdmpWVkx3RDdjUG9BVURodnZRZDR2Mmt1NEwyb0RmMEZYcENjT2pTS0Rkd0xxTE9QYnBFY1d5VnpCeF9icEE3QlVYTjZUSUJIQXdYcXpsRFF0cVRma0t4aGxSTUM1TXBTeEV2dHJjSHc0YzdTNHVYeVpzdHVDMA?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -370,7 +393,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 04 Aug 2026 12:04:00 GMT",
+          "source": "globenewswire.com"
+        }
+      ]
+    },
+    {
+      "id": "c5ed9a30800e",
+      "title": "Viral on the feed: Six food trends dominating Instagram in 2026 - t2ONLINE",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0pwWlE5d2RadERNY3ZnTUZzQVJMTHducE5ZSFdHSGRkWi1LYVNjWElvLWNnZ1RKVEpOeG5RaHNOb0JWUXpJUnloXzZfZFV5TlA0ajY3QjlLdWdlNFFscklqZjRlZk5waVgwTlI4dnVLTlBHU1hXU2NCMjJCT2ExVWlpeDgwdnRjandjVkpWQlNES3JGUE8tT0t4ZXgyaFBUY054eERoTTQtST",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0pwWlE5d2RadERNY3ZnTUZzQVJMTHducE5ZSFdHSGRkWi1LYVNjWElvLWNnZ1RKVEpOeG5RaHNOb0JWUXpJUnloXzZfZFV5TlA0ajY3QjlLdWdlNFFscklqZjRlZk5waVgwTlI4dnVLTlBHU1hXU2NCMjJCT2ExVWlpeDgwdnRjandjVkpWQlNES3JGUE8tT0t4ZXgyaFBUY054eERoTTQtSTRkcm1VSEdrWWY?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "IN",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -383,26 +426,6 @@
       "title": "Global food trends that started in Indian kitchens - The Indian Express",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnRvN2FEdFJJX1c0VWx3dUQxMzVHb0FDRl9MdkI5N1p1a3FBaE1QU2xKRURmaDJwa1JVVHlPUXpVNFBzcFlKQWRMQ0pOZzBNcGZ5U2N3Y3BQUXhLRmxsLTVsTHVOQnVPQzBLaU1EeFJzNEpROUd5bG5CSzVIVjlRd0Rya1hEN21KMThhVlhEbE1fSGJGSVl3RjAzVUVwa2txX1hfb3NCcFR1S3",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnRvN2FEdFJJX1c0VWx3dUQxMzVHb0FDRl9MdkI5N1p1a3FBaE1QU2xKRURmaDJwa1JVVHlPUXpVNFBzcFlKQWRMQ0pOZzBNcGZ5U2N3Y3BQUXhLRmxsLTVsTHVOQnVPQzBLaU1EeFJzNEpROUd5bG5CSzVIVjlRd0Rya1hEN21KMThhVlhEbE1fSGJGSVl3RjAzVUVwa2txX1hfb3NCcFR1S3dOSTlvWGVZTWc2UdIBvAFBVV95cUxOOS1hZFhDY2Rfb2NiZkk4WXR1blZITWFESUhjdk9YSW1NSUpzNzRaNW9WMHl4RDRXTUR6MEZTaFlUWEwteFhHZkk1TERESWY0VFBtUXNvVzRFeHM4TGZ4TERVdEVSX3Z0dzlYbHg0Q0ZmZDlESmZZVlB6eHVORUU0MXdhY0phQl9ZUmxkQ0lxQmNvYklESWJLTzlTbzVObEVsbTlyVUFPU05qejVDWFU0TTZpcFBSRDdUOEdHbw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 26 Feb 2026 08:00:00 GMT",
-          "source": "The Indian Express"
-        }
-      ]
-    },
-    {
-      "id": "c7ec9c0ad870",
-      "title": "Solutions-Based Trade Shows - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBCRUJVdTV4cXY5cnBSQTRCcHlZY2pJNExsUF9JVDh6T256eTBrSmo1U1BZa24xelB6bXVYbDczRk43SzdEdVE2RE45WXl5MXEzZ1VUd09HdjJRN0hDY1M4YlZQRWY3MVpQQTA3UUFIMNIBdEFVX3lxTE9GdFg3clJmRWVSMGRTVTlfcWFlTFJDbzh3ZjhmLUZ2OEZhNFZGczZfOFBrcGJnQXBuZE",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCRUJVdTV4cXY5cnBSQTRCcHlZY2pJNExsUF9JVDh6T256eTBrSmo1U1BZa24xelB6bXVYbDczRk43SzdEdVE2RE45WXl5MXEzZ1VUd09HdjJRN0hDY1M4YlZQRWY3MVpQQTA3UUFIMNIBdEFVX3lxTE9GdFg3clJmRWVSMGRTVTlfcWFlTFJDbzh3ZjhmLUZ2OEZhNFZGczZfOFBrcGJnQXBuZEFGVGtIcHRsVDY4V01lbGVONDNHYmgxN05mc1p6ZUJPZFBPbk5lVlFvaVluUWZianJBajh1UFBiclMy?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -410,11 +433,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 05 Aug 2026 17:45:05 GMT",
-          "source": "Trend Hunter"
+          "published": "Thu, 26 Feb 2026 08:00:00 GMT",
+          "source": "The Indian Express"
         }
       ]
     },
@@ -430,7 +453,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Mon, 09 Mar 2026 16:58:53 GMT",
@@ -450,7 +473,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Mon, 22 Jun 2026 07:00:00 GMT",
@@ -470,7 +493,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Sat, 11 Jul 2026 00:12:34 GMT",
@@ -490,7 +513,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-08-06T14:32:20+00:00",
+      "first_seen": "2026-08-07T00:12:01+00:00",
       "raw_samples": [
         {
           "published": "Mon, 26 Jan 2026 08:00:00 GMT",
