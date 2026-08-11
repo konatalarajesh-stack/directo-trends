@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "AU",
-  "generated_at": "2026-08-11T13:44:29+00:00",
+  "generated_at": "2026-08-11T19:25:10+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "29775216d9f1",
-      "title": "European country named the safest destination for solo travellers - Nine.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzdiTFgxNmN0Ym9oMTlkdUlUcjBULUY4aXo0MnNZTUdEWmdxY3pGdWYwcUowVElKSS1HRndyTFBOWHh1b2J3T01ISkVXdVNNMTU0Mk1QaDNoUkMwOG8xcHNxWERlNS1RWVJfSUhhZWlPQTZqcXFiNDlPNmZMTjJjZTdVb05vYUpuUmRaNUJQWTItSmtESkZCdVBCNA?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzdiTFgxNmN0Ym9oMTlkdUlUcjBULUY4aXo0MnNZTUdEWmdxY3pGdWYwcUowVElKSS1HRndyTFBOWHh1b2J3T01ISkVXdVNNMTU0Mk1QaDNoUkMwOG8xcHNxWERlNS1RWVJfSUhhZWlPQTZqcXFiNDlPNmZMTjJjZTdVb05vYUpuUmRaNUJQWTItSmtESkZCdVBCNA?oc=5",
+      "id": "1c2b79640d52",
+      "title": "Quiz: Strap in, we're going on a trip around the world - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1QZHU5VmtBSV9qNjVsVXJFWmFBVFpQUG1DakU3UzdjanZoZkxWVzBSTzRBd1RUQzRxZ0M4YkpGakg3VWJMeUFYdVprVmhpRFB6T0pWSk9IeEVVWm81TlJhQVk3SUxBalZFNFFUbF9MREdJRkxxQUM4b25R?oc=5\" target=\"_blank\">Quiz: Strap in, we're going on a trip aroun",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QZHU5VmtBSV9qNjVsVXJFWmFBVFpQUG1DakU3UzdjanZoZkxWVzBSTzRBd1RUQzRxZ0M4YkpGakg3VWJMeUFYdVprVmhpRFB6T0pWSk9IeEVVWm81TlJhQVk3SUxBalZFNFFUbF9MREdJRkxxQUM4b25R?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 18:30:00 GMT",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ]
+    },
+    {
+      "id": "25b0a9555d97",
+      "title": "Eight-year wait ends for major tourism project - Sunshine Coast News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZW9QLU02ZVBVYnczc3E1R1dPX29wb2VybFpCRXVZcG9qaUhKVkVVaUd3SjV1SXhVRW1SXzBHYWhzQVE3OENXSzNabmN1dU9qSFBYbXJmSDl3THpKQVNETEUxOE4xRHF0NzZBeG5lUEt4WFFuSV9Da3BkalU2eXJtbW9mbWNIZ2swNDZJdi0wdWMyVUV6QnF1NFpjcw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZW9QLU02ZVBVYnczc3E1R1dPX29wb2VybFpCRXVZcG9qaUhKVkVVaUd3SjV1SXhVRW1SXzBHYWhzQVE3OENXSzNabmN1dU9qSFBYbXJmSDl3THpKQVNETEUxOE4xRHF0NzZBeG5lUEt4WFFuSV9Da3BkalU2eXJtbW9mbWNIZ2swNDZJdi0wdWMyVUV6QnF1NFpjcw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 17:59:07 GMT",
+          "source": "Sunshine Coast News"
+        }
+      ]
+    },
+    {
+      "id": "29775216d9f1",
+      "title": "European country named the safest destination for solo travellers - Nine.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzdiTFgxNmN0Ym9oMTlkdUlUcjBULUY4aXo0MnNZTUdEWmdxY3pGdWYwcUowVElKSS1HRndyTFBOWHh1b2J3T01ISkVXdVNNMTU0Mk1QaDNoUkMwOG8xcHNxWERlNS1RWVJfSUhhZWlPQTZqcXFiNDlPNmZMTjJjZTdVb05vYUpuUmRaNUJQWTItSmtESkZCdVBCNA?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzdiTFgxNmN0Ym9oMTlkdUlUcjBULUY4aXo0MnNZTUdEWmdxY3pGdWYwcUowVElKSS1HRndyTFBOWHh1b2J3T01ISkVXdVNNMTU0Mk1QaDNoUkMwOG8xcHNxWERlNS1RWVJfSUhhZWlPQTZqcXFiNDlPNmZMTjJjZTdVb05vYUpuUmRaNUJQWTItSmtESkZCdVBCNA?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
           "published": "Mon, 10 Aug 2026 23:03:12 GMT",
@@ -27,42 +67,42 @@
       ]
     },
     {
-      "id": "73ac9435706c",
-      "title": "This airline offers some of the best dining I’ve had at 35,000ft - The Australian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlhYYkJWQVQ4eE85U0x6ZU9xWTJTWGVuMDZwQmlCaldYMmVxeXl4Y0ZqaU1VTml6eVMzeUxibjZLcV95Z0tGaG03a09IaDZnX1pfd0N0bmFqX21OdU9lXzhJalpyc3JyVEZWOHUtd1R6TUhCT2p2dmpkZ3BsUHBlWVh6Z1ZhMVhHUmZSY1JxcmVudWN0b1V3bGZEOWVqRDJwMXFUZXp3OFNzNF",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlhYYkJWQVQ4eE85U0x6ZU9xWTJTWGVuMDZwQmlCaldYMmVxeXl4Y0ZqaU1VTml6eVMzeUxibjZLcV95Z0tGaG03a09IaDZnX1pfd0N0bmFqX21OdU9lXzhJalpyc3JyVEZWOHUtd1R6TUhCT2p2dmpkZ3BsUHBlWVh6Z1ZhMVhHUmZSY1JxcmVudWN0b1V3bGZEOWVqRDJwMXFUZXp3OFNzNFkzR1hqOVFJTHdybkx6cXgwb2VQTUhncmc1b0RRUV9ULXJ5bHV1YUs1WG9SeVjSAd4BQVVfeXFMUGdjQXczWHpFOTZUanlqbHdUNHRKNFdaWk96dmE3R1ZGWnk4b21iSjNpZ0NBQW81dVJoaXg4RFFGMVJQdV9BRF9WdEZ4QUFBUkhSRFlMdVk5U09Ocmc5V2pLTms4bWw3aVRuWU1faWFSNmluUjEwOEtGd2d4WHoxcTg2aVhRUlBSVllUYzRNMjFkUjNYRFdFWnEzcFJhR0hBSjIyQWJhd1VXaTZKVWMxS0hkS0I2eWJDck92M1F5UjZKdUV4U1Q1Q0tCblJOaHYzSXM3aXFlNEI5VTN6STF3?oc=5",
-      "score": 86.4,
+      "id": "f0ed3e191d77",
+      "title": "Holy Land: When simple travel becomes an ordeal - Independent Catholic News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0LXNqbEVqUUlEamRSZTV3MGYySTY0TlFybHpLbXE0TkVYNkNkeDB0XzdXR1hwakJIdXl1bk5SbFlqUFhRVmRBQmdmLW92ZTdyM3kydw?oc=5\" target=\"_blank\">Holy Land: When simple travel becomes an ordeal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Independ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0LXNqbEVqUUlEamRSZTV3MGYySTY0TlFybHpLbXE0TkVYNkNkeDB0XzdXR1hwakJIdXl1bk5SbFlqUFhRVmRBQmdmLW92ZTdyM3kydw?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 10 Aug 2026 19:13:07 GMT",
-          "source": "The Australian"
+          "published": "Tue, 11 Aug 2026 16:16:54 GMT",
+          "source": "Independent Catholic News"
         }
       ]
     },
     {
-      "id": "85075335dd3c",
-      "title": "Helloworld Travel (ASX:HLO): Can Its Travel Recovery Regain Momentum? - Kalkine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQREMzY2ZGS2toU0dwWU05WWFhUHV4UE1yUVJkOFVYMXVaczBrRjZTSDl1M2NPWWhURnJJbTkxMmNZRXo5U1RMdkstTjlZSmkwcEJkWVlfSTZHYzdISG5RdHE5bGhqeWNTNlJtdldFcjYyTmNTZkpMSzM3RUI3QlB1YlF3X1BFNjhOT2JSbGl0ZmlVVXFfTFJLQ3FGbWZSVjJGb1JN?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREMzY2ZGS2toU0dwWU05WWFhUHV4UE1yUVJkOFVYMXVaczBrRjZTSDl1M2NPWWhURnJJbTkxMmNZRXo5U1RMdkstTjlZSmkwcEJkWVlfSTZHYzdISG5RdHE5bGhqeWNTNlJtdldFcjYyTmNTZkpMSzM3RUI3QlB1YlF3X1BFNjhOT2JSbGl0ZmlVVXFfTFJLQ3FGbWZSVjJGb1JN?oc=5",
-      "score": 82.8,
+      "id": "217420c593be",
+      "title": "Forbes Travel Guide’s 8 Best Sydney Hotels - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RSVXYwSVkxLS0xbHVjeTFNTXh2cHE1b01UQ1ctZUQtUkNTSHhYYkRubzZYbGU5aVhCNU9ibS1FRE9MQXBrU1JEMGF5WlRDVUVoWk5xTmxxU0VtNkVTUHpScER5Vlo1Ny12UTVrald5b3I3VzZiQndzT1pMZzV6bExLNEh3bDVQM0xlSVJsUlJpVTZPS3RfSGJjeDAwbnh3TVE?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RSVXYwSVkxLS0xbHVjeTFNTXh2cHE1b01UQ1ctZUQtUkNTSHhYYkRubzZYbGU5aVhCNU9ibS1FRE9MQXBrU1JEMGF5WlRDVUVoWk5xTmxxU0VtNkVTUHpScER5Vlo1Ny12UTVrald5b3I3VzZiQndzT1pMZzV6bExLNEh3bDVQM0xlSVJsUlJpVTZPS3RfSGJjeDAwbnh3TVE?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 06:14:00 GMT",
-          "source": "Kalkine"
+          "published": "Tue, 11 Aug 2026 13:28:31 GMT",
+          "source": "Forbes"
         }
       ]
     },
@@ -71,14 +111,14 @@
       "title": "Intrepid Travel, AFLW stars partner for Women’s Expedition to Nepal - travelweekly.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNE4wMlhEckRxRTV6QWtCclQxZ2JPeURLcDg1SWJlS0Vid2FuVEl0WGRYMW1WeEZHRF9Kc0JHeW94RkU4NV9xX0JucnJCOG9EZEdBVzhyWlBoc2lHYTkyVXNNSHdWWTZtR3BVMDhPV2RzempOYTRBaGRtZVZyOTVFTG5pTWNoVXRrcUNUbkdrekZXVlpXVTUwX1hn?oc=5\" target=\"_blank\"",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNE4wMlhEckRxRTV6QWtCclQxZ2JPeURLcDg1SWJlS0Vid2FuVEl0WGRYMW1WeEZHRF9Kc0JHeW94RkU4NV9xX0JucnJCOG9EZEdBVzhyWlBoc2lHYTkyVXNNSHdWWTZtR3BVMDhPV2RzempOYTRBaGRtZVZyOTVFTG5pTWNoVXRrcUNUbkdrekZXVlpXVTUwX1hn?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
           "published": "Tue, 11 Aug 2026 06:42:54 GMT",
@@ -87,50 +127,10 @@
       ]
     },
     {
-      "id": "e1d18e540018",
-      "title": "Forget Tourist Taxes: Europe Is Rewarding Sustainable Travel - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1VFTDZHZ1NkRnAtU1NnT0ZqS245LUF6d3NROC1OekhIeVAxU3hsb2p4RGdMMGRfbGhnaDRRaERYWEtyQmF5OVM2YTY5YnQzWDdkdGFWaUZnTlZzeFhpU0JURHoydG9yVlpNaFFGRF9SR0FHekZLdjM1V3V6MlJvLVZfaVZlRG5KeUExQk9Ia1Nwem5DR0Jsc1A4R2RlODVNaU9Ca3ZSM2p3Tl",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1VFTDZHZ1NkRnAtU1NnT0ZqS245LUF6d3NROC1OekhIeVAxU3hsb2p4RGdMMGRfbGhnaDRRaERYWEtyQmF5OVM2YTY5YnQzWDdkdGFWaUZnTlZzeFhpU0JURHoydG9yVlpNaFFGRF9SR0FHekZLdjM1V3V6MlJvLVZfaVZlRG5KeUExQk9Ia1Nwem5DR0Jsc1A4R2RlODVNaU9Ca3ZSM2p3TlRaNW9Pd05ad04tQQ?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 13:18:52 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "75ddbd552809",
-      "title": "Protecting New Zealand's Tourism Appeal - Mirage News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZmlmN0tuR0FYT0p4enFsWGIyV0E5NUJwbGJiMFNXWXpRanh0eWg0eVM1WEkzT0dOeS1ZZXA4azcyalAwdWpQb1c5Q0JWaS1UVnJuZEF5RFFMRkVKa0NiWVQzSFVQc1R3QnN4enZCaTQ1NHQxUWNHMWd3b3pKd2M?oc=5\" target=\"_blank\">Protecting New Zealand's Tourism App",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZmlmN0tuR0FYT0p4enFsWGIyV0E5NUJwbGJiMFNXWXpRanh0eWg0eVM1WEkzT0dOeS1ZZXA4azcyalAwdWpQb1c5Q0JWaS1UVnJuZEF5RFFMRkVKa0NiWVQzSFVQc1R3QnN4enZCaTQ1NHQxUWNHMWd3b3pKd2M?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 04:00:00 GMT",
-          "source": "Mirage News"
-        }
-      ]
-    },
-    {
-      "id": "4e595e95adaf",
-      "title": "Thousands of closures, bookings down 50%: Are China’s travelers abandoning travel agencies? - chinatravelnews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpZk43aVpQYmdmNmp0eFdBUDhkamJvUmJQWElnOUdNWHhLQl9OeUw1LTZ6d3lRaEpveDV5V2k3QlUzY1FCV2FqOENxd0VDS2JKVFdGSTJGNEU5c3M?oc=5\" target=\"_blank\">Thousands of closures, bookings down 50%: Are China’s travelers abandoning travel ag",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpZk43aVpQYmdmNmp0eFdBUDhkamJvUmJQWElnOUdNWHhLQl9OeUw1LTZ6d3lRaEpveDV5V2k3QlUzY1FCV2FqOENxd0VDS2JKVFdGSTJGNEU5c3M?oc=5",
+      "id": "85075335dd3c",
+      "title": "Helloworld Travel (ASX:HLO): Can Its Travel Recovery Regain Momentum? - Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQREMzY2ZGS2toU0dwWU05WWFhUHV4UE1yUVJkOFVYMXVaczBrRjZTSDl1M2NPWWhURnJJbTkxMmNZRXo5U1RMdkstTjlZSmkwcEJkWVlfSTZHYzdISG5RdHE5bGhqeWNTNlJtdldFcjYyTmNTZkpMSzM3RUI3QlB1YlF3X1BFNjhOT2JSbGl0ZmlVVXFfTFJLQ3FGbWZSVjJGb1JN?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREMzY2ZGS2toU0dwWU05WWFhUHV4UE1yUVJkOFVYMXVaczBrRjZTSDl1M2NPWWhURnJJbTkxMmNZRXo5U1RMdkstTjlZSmkwcEJkWVlfSTZHYzdISG5RdHE5bGhqeWNTNlJtdldFcjYyTmNTZkpMSzM3RUI3QlB1YlF3X1BFNjhOT2JSbGl0ZmlVVXFfTFJLQ3FGbWZSVjJGb1JN?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 12:42:09 GMT",
-          "source": "chinatravelnews.com"
+          "published": "Tue, 11 Aug 2026 06:14:00 GMT",
+          "source": "Kalkine"
         }
       ]
     },
     {
-      "id": "58d14c0b69bc",
-      "title": "Monthly Home And Travel News To Know In August 2026 - Harper's Bazaar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUpKeGFjNXNMRFItazBDbWZqQTlhb2JpeUpGZUZ1XzBPdUV6b2NtSFVkLTluQkRUV0VSdC1fcm9VRFMtcnkxa1lhcjJHeGxRWWVFTVQ1VFZmUjNQVEZlTkwxdTZmLTRrNWpIRDZKTlBrdHJCMGpKZ0VyQkVoQWhLY253N1dfSktQN1RXLXpId1Y?oc=5\" target=\"_blank\">Monthly Home",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUpKeGFjNXNMRFItazBDbWZqQTlhb2JpeUpGZUZ1XzBPdUV6b2NtSFVkLTluQkRUV0VSdC1fcm9VRFMtcnkxa1lhcjJHeGxRWWVFTVQ1VFZmUjNQVEZlTkwxdTZmLTRrNWpIRDZKTlBrdHJCMGpKZ0VyQkVoQWhLY253N1dfSktQN1RXLXpId1Y?oc=5",
+      "id": "19ba4e5f93a7",
+      "title": "What Europe’s record-low rivers mean for cruising - smh.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0RpMHNHd1V3dGlTWW9iMVZQeGxjWG1ndGh2MDM5V1llSjNzZ0RTZlBnQ0hVRFVzdWpUeFNVb0EtM0FNWmQ0bVBjVHdYZkJCbGhPR1NacTZYRkZpSTltYzVwTnRrbnRNS1lLNUl1VC1YSWZuZWtFaFM4dWZ4NWFCLUdhWldxNHYxNl8tQWg3TzN1eXBtc2tvMUV4RS1RcW5DQW9DOHZXOEhYSV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0RpMHNHd1V3dGlTWW9iMVZQeGxjWG1ndGh2MDM5V1llSjNzZ0RTZlBnQ0hVRFVzdWpUeFNVb0EtM0FNWmQ0bVBjVHdYZkJCbGhPR1NacTZYRkZpSTltYzVwTnRrbnRNS1lLNUl1VC1YSWZuZWtFaFM4dWZ4NWFCLUdhWldxNHYxNl8tQWg3TzN1eXBtc2tvMUV4RS1RcW5DQW9DOHZXOEhYSVZ2SE90WDE3SzJ6Zw?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,51 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 04:33:17 GMT",
-          "source": "Harper's Bazaar Australia"
+          "published": "Tue, 11 Aug 2026 19:00:00 GMT",
+          "source": "smh.com.au"
+        }
+      ]
+    },
+    {
+      "id": "805b5bc85a2a",
+      "title": "SA farm nestled in world famous star gazing reserve becomes astro-tourism destination - Glam Adelaide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblJVVUszQWpPMmtmWDJnY3U1SEY1WFlCRU8tdjN6YUJNUjJFNDZWckJNZm9uWmlNQjFHcmQ3cVJrWkxPalMwSW1nejdRU0R4MzRaME5NWHF0Uk5ocEoyN3lmN2pWVFE5Ui0xUHE2U2NjV1JWQ2M0YlV6UUctM1M2dURyQy1yc09qMUp6LUVfS3J0NG8yOUdGWlJhcjF1eGlrSjFRVWpmSlI4cE",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblJVVUszQWpPMmtmWDJnY3U1SEY1WFlCRU8tdjN6YUJNUjJFNDZWckJNZm9uWmlNQjFHcmQ3cVJrWkxPalMwSW1nejdRU0R4MzRaME5NWHF0Uk5ocEoyN3lmN2pWVFE5Ui0xUHE2U2NjV1JWQ2M0YlV6UUctM1M2dURyQy1yc09qMUp6LUVfS3J0NG8yOUdGWlJhcjF1eGlrSjFRVWpmSlI4cEttWl9HOXZ2Y0tOTVEwa1ZVdjhVWkZyZw?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 19:13:18 GMT",
+          "source": "Glam Adelaide"
+        }
+      ]
+    },
+    {
+      "id": "73ac9435706c",
+      "title": "This airline offers some of the best dining I’ve had at 35,000ft - The Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlhYYkJWQVQ4eE85U0x6ZU9xWTJTWGVuMDZwQmlCaldYMmVxeXl4Y0ZqaU1VTml6eVMzeUxibjZLcV95Z0tGaG03a09IaDZnX1pfd0N0bmFqX21OdU9lXzhJalpyc3JyVEZWOHUtd1R6TUhCT2p2dmpkZ3BsUHBlWVh6Z1ZhMVhHUmZSY1JxcmVudWN0b1V3bGZEOWVqRDJwMXFUZXp3OFNzNF",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlhYYkJWQVQ4eE85U0x6ZU9xWTJTWGVuMDZwQmlCaldYMmVxeXl4Y0ZqaU1VTml6eVMzeUxibjZLcV95Z0tGaG03a09IaDZnX1pfd0N0bmFqX21OdU9lXzhJalpyc3JyVEZWOHUtd1R6TUhCT2p2dmpkZ3BsUHBlWVh6Z1ZhMVhHUmZSY1JxcmVudWN0b1V3bGZEOWVqRDJwMXFUZXp3OFNzNFkzR1hqOVFJTHdybkx6cXgwb2VQTUhncmc1b0RRUV9ULXJ5bHV1YUs1WG9SeVjSAd4BQVVfeXFMUGdjQXczWHpFOTZUanlqbHdUNHRKNFdaWk96dmE3R1ZGWnk4b21iSjNpZ0NBQW81dVJoaXg4RFFGMVJQdV9BRF9WdEZ4QUFBUkhSRFlMdVk5U09Ocmc5V2pLTms4bWw3aVRuWU1faWFSNmluUjEwOEtGd2d4WHoxcTg2aVhRUlBSVllUYzRNMjFkUjNYRFdFWnEzcFJhR0hBSjIyQWJhd1VXaTZKVWMxS0hkS0I2eWJDck92M1F5UjZKdUV4U1Q1Q0tCblJOaHYzSXM3aXFlNEI5VTN6STF3?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 10 Aug 2026 19:13:07 GMT",
+          "source": "The Australian"
         }
       ]
     },
@@ -171,46 +211,6 @@
       "title": "The Sound of Quiet: Why the tourism ecosystem needs silence - webintravel.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGppUkRIbkd3UTkxZXV4em81ZXdjWmF6X3pKOGMyVFZVT21xMHJUbGc3ZHZyS0dyVFhoQkJtbGJ2eFJLdy1TVmVTQWMwYWMyRklIb1lFUjMxbjI2MERFT0xrdGdtYlV2UVlPdUVEek5SY08yV05MN0ROTTRpcmYzNFl3aEN0cWpyN3RUOUs1N1c?oc=5\" target=\"_blank\">The Sound of",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGppUkRIbkd3UTkxZXV4em81ZXdjWmF6X3pKOGMyVFZVT21xMHJUbGc3ZHZyS0dyVFhoQkJtbGJ2eFJLdy1TVmVTQWMwYWMyRklIb1lFUjMxbjI2MERFT0xrdGdtYlV2UVlPdUVEek5SY08yV05MN0ROTTRpcmYzNFl3aEN0cWpyN3RUOUs1N1c?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 12:19:51 GMT",
-          "source": "webintravel.com"
-        }
-      ]
-    },
-    {
-      "id": "6fe3d60fbbf3",
-      "title": "Tourism 2035 has a $15.3 billion problem, and international education is it - The Koala News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRW1WVDRwcVRUZHk0VlhCTzBMWEVHQ3BHb28zSldGVW1DODQ1TmtUd0lMYzJWZ25oUHFBcWZKNFNHUjNGOUIyZDZyZnJMWWp6RGpfeVpaajB3cUs2MjJEME9UNEVuUElSU3BfWTN1N2tuZzFuNjNLNXVRQnlPVXBad2xtd1lvLVhnZE03YW9YTEpjZTQ0NlZ5TVF3U2I0SElv?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRW1WVDRwcVRUZHk0VlhCTzBMWEVHQ3BHb28zSldGVW1DODQ1TmtUd0lMYzJWZ25oUHFBcWZKNFNHUjNGOUIyZDZyZnJMWWp6RGpfeVpaajB3cUs2MjJEME9UNEVuUElSU3BfWTN1N2tuZzFuNjNLNXVRQnlPVXBad2xtd1lvLVhnZE03YW9YTEpjZTQ0NlZ5TVF3U2I0SElv?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 10 Aug 2026 20:15:44 GMT",
-          "source": "The Koala News"
-        }
-      ]
-    },
-    {
-      "id": "410fd281f390",
-      "title": "Traveling Without a Footprint: Virtual Reality as a Catalyst for Sustainable Tourism Experiences - Springer Nature Link",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9yc0dVY2gyZzdSc091UXgyYkZXSll5Umc0WXQ1YXQ5ZmpoeHlrQWFRZVdaTU5Kb1pXMVBwa0FGdDJVWC1kMTA5WG1kLXg3RzRRaGFEam1SenBXbnZrU1gtTUhiS3UzRXA0TllsZ053?oc=5\" target=\"_blank\">Traveling Without a Footprint: Virtual Reality as a Catalys",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yc0dVY2gyZzdSc091UXgyYkZXSll5Umc0WXQ1YXQ5ZmpoeHlrQWFRZVdaTU5Kb1pXMVBwa0FGdDJVWC1kMTA5WG1kLXg3RzRRaGFEam1SenBXbnZrU1gtTUhiS3UzRXA0TllsZ053?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 12:38:29 GMT",
-          "source": "Springer Nature Link"
+          "published": "Tue, 11 Aug 2026 12:19:31 GMT",
+          "source": "webintravel.com"
         }
       ]
     },
     {
-      "id": "848b8fe9bbd1",
-      "title": "Ithaca looks to Odysseus for tourism boost after Nolan blockbuster - Neos Kosmos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONkFFWkVDSkpGakprc2NjS0k1OF9ObC11cUE2RzlldlpqR2dhZ2dHMjZQTTJ0RWM4TE1Wc2djZ0todDRZMkFWVWljWEg3Z1BfeGd1azhjZ0pVSlBpa2lvQlltYUdMVDh5VUNGTDNWY3JEOHl5N3RlRW8xanF6UkdDTWRjM3BsMmVqZi1KOWNVeXFiUk9ybERHQ2hLWHpEUldfMTBhS2JDa0ozWn",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkFFWkVDSkpGakprc2NjS0k1OF9ObC11cUE2RzlldlpqR2dhZ2dHMjZQTTJ0RWM4TE1Wc2djZ0todDRZMkFWVWljWEg3Z1BfeGd1azhjZ0pVSlBpa2lvQlltYUdMVDh5VUNGTDNWY3JEOHl5N3RlRW8xanF6UkdDTWRjM3BsMmVqZi1KOWNVeXFiUk9ybERHQ2hLWHpEUldfMTBhS2JDa0ozWnRELVBRTWZEQXJRNjQ?oc=5",
+      "id": "75ddbd552809",
+      "title": "Protecting New Zealand's Tourism Appeal - Mirage News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZmlmN0tuR0FYT0p4enFsWGIyV0E5NUJwbGJiMFNXWXpRanh0eWg0eVM1WEkzT0dOeS1ZZXA4azcyalAwdWpQb1c5Q0JWaS1UVnJuZEF5RFFMRkVKa0NiWVQzSFVQc1R3QnN4enZCaTQ1NHQxUWNHMWd3b3pKd2M?oc=5\" target=\"_blank\">Protecting New Zealand's Tourism App",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZmlmN0tuR0FYT0p4enFsWGIyV0E5NUJwbGJiMFNXWXpRanh0eWg0eVM1WEkzT0dOeS1ZZXA4azcyalAwdWpQb1c5Q0JWaS1UVnJuZEF5RFFMRkVKa0NiWVQzSFVQc1R3QnN4enZCaTQ1NHQxUWNHMWd3b3pKd2M?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,11 +238,111 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 01:48:32 GMT",
-          "source": "Neos Kosmos"
+          "published": "Tue, 11 Aug 2026 04:00:00 GMT",
+          "source": "Mirage News"
+        }
+      ]
+    },
+    {
+      "id": "58d14c0b69bc",
+      "title": "Monthly Home And Travel News To Know In August 2026 - Harper's Bazaar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUpKeGFjNXNMRFItazBDbWZqQTlhb2JpeUpGZUZ1XzBPdUV6b2NtSFVkLTluQkRUV0VSdC1fcm9VRFMtcnkxa1lhcjJHeGxRWWVFTVQ1VFZmUjNQVEZlTkwxdTZmLTRrNWpIRDZKTlBrdHJCMGpKZ0VyQkVoQWhLY253N1dfSktQN1RXLXpId1Y?oc=5\" target=\"_blank\">Monthly Home",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUpKeGFjNXNMRFItazBDbWZqQTlhb2JpeUpGZUZ1XzBPdUV6b2NtSFVkLTluQkRUV0VSdC1fcm9VRFMtcnkxa1lhcjJHeGxRWWVFTVQ1VFZmUjNQVEZlTkwxdTZmLTRrNWpIRDZKTlBrdHJCMGpKZ0VyQkVoQWhLY253N1dfSktQN1RXLXpId1Y?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 04:33:17 GMT",
+          "source": "Harper's Bazaar Australia"
+        }
+      ]
+    },
+    {
+      "id": "eb6c47db140e",
+      "title": "Is it safe to travel to Colombia? Latest advice after 7.4 magnitude earthquake strikes the country’s western region - Time Out Worldwide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbXJpaUdUNW56eVcxVHBOY05ZVlA0Rmdpd09HanlBRXRuWWFZUXBlUW1BamJDR0M1SzhCVjlwa2VJWUJxWVJrQ3FyTF8yb1hyM0RDV19ycGFVZGltcHZCY0VsaHpZT1dyd2Rlb0JPZlRJNmFEdjJ0czdzZ3dhWldVVVJOT0hQeWMteXlMR1R6Uk0yeDlqYjdLbjAzVTBNQ09nUG1sYzlBcjVnTj",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbXJpaUdUNW56eVcxVHBOY05ZVlA0Rmdpd09HanlBRXRuWWFZUXBlUW1BamJDR0M1SzhCVjlwa2VJWUJxWVJrQ3FyTF8yb1hyM0RDV19ycGFVZGltcHZCY0VsaHpZT1dyd2Rlb0JPZlRJNmFEdjJ0czdzZ3dhWldVVVJOT0hQeWMteXlMR1R6Uk0yeDlqYjdLbjAzVTBNQ09nUG1sYzlBcjVnTjQ1MmFtUDVIR2xZUXgwU3Z5NUZDejZIcXBHSU5ZVWhpS2dxYlVLZ1lTSExzbVlaUm9Fd0ttOEtNcw?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 12:32:07 GMT",
+          "source": "Time Out Worldwide"
+        }
+      ]
+    },
+    {
+      "id": "5c88019d5908",
+      "title": "Thousands of closures, bookings down 50%: Are China’s travelers abandoning travel agencies? - China Travel News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpZk43aVpQYmdmNmp0eFdBUDhkamJvUmJQWElnOUdNWHhLQl9OeUw1LTZ6d3lRaEpveDV5V2k3QlUzY1FCV2FqOENxd0VDS2JKVFdGSTJGNEU5c3M?oc=5\" target=\"_blank\">Thousands of closures, bookings down 50%: Are China’s travelers abandoning travel ag",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpZk43aVpQYmdmNmp0eFdBUDhkamJvUmJQWElnOUdNWHhLQl9OeUw1LTZ6d3lRaEpveDV5V2k3QlUzY1FCV2FqOENxd0VDS2JKVFdGSTJGNEU5c3M?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 12:41:19 GMT",
+          "source": "China Travel News"
+        }
+      ]
+    },
+    {
+      "id": "021be53e4fd9",
+      "title": "Is There a Traveler Dress Code That Makes International Travel Safer? - Global Rescue LLC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBfODMwOEdNS2tkQW9janZ5dG9iNEV5VjJ4WDFWZWdqc3B5UnJFS0pPbU5nc3BmUVU2SVJQcnk1bHRONF9mQ0o2RGJzNGVzOS1MNFdfaFY0aUhaUjhzSFFvOVB0eUdIWktWMzJQZXhqNDk3SERCYlpRWXN4bw?oc=5\" target=\"_blank\">Is There a Traveler Dress Code That Makes",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfODMwOEdNS2tkQW9janZ5dG9iNEV5VjJ4WDFWZWdqc3B5UnJFS0pPbU5nc3BmUVU2SVJQcnk1bHRONF9mQ0o2RGJzNGVzOS1MNFdfaFY0aUhaUjhzSFFvOVB0eUdIWktWMzJQZXhqNDk3SERCYlpRWXN4bw?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 16:18:45 GMT",
+          "source": "Global Rescue LLC"
+        }
+      ]
+    },
+    {
+      "id": "01f846d7417d",
+      "title": "Forget Tourist Taxes—Europe Is Rewarding Sustainable Travel - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1VFTDZHZ1NkRnAtU1NnT0ZqS245LUF6d3NROC1OekhIeVAxU3hsb2p4RGdMMGRfbGhnaDRRaERYWEtyQmF5OVM2YTY5YnQzWDdkdGFWaUZnTlZzeFhpU0JURHoydG9yVlpNaFFGRF9SR0FHekZLdjM1V3V6MlJvLVZfaVZlRG5KeUExQk9Ia1Nwem5DR0Jsc1A4R2RlODVNaU9Ca3ZSM2p3Tl",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1VFTDZHZ1NkRnAtU1NnT0ZqS245LUF6d3NROC1OekhIeVAxU3hsb2p4RGdMMGRfbGhnaDRRaERYWEtyQmF5OVM2YTY5YnQzWDdkdGFWaUZnTlZzeFhpU0JURHoydG9yVlpNaFFGRF9SR0FHekZLdjM1V3V6MlJvLVZfaVZlRG5KeUExQk9Ia1Nwem5DR0Jsc1A4R2RlODVNaU9Ca3ZSM2p3TlRaNW9Pd05ad04tQQ?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 13:18:52 GMT",
+          "source": "Forbes"
         }
       ]
     },
@@ -251,17 +351,37 @@
       "title": "EXCLUSIVE: Intrepid's Darrell Wade on why the world’s most purposeful travel company didn’t fit the listed model - travelweekly.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2dUaUNhaFcwSmtoTGlMWXYzOUI3b0hObUNPZS1zVlVrMVZiZWFkN2R1OGJmRUFSWXE5VW8zaHRRUWFXckl1bWNRbHBGN0RteThBOG1vRU1KX1hCN2F0TU9fSWVnMWdEd2FEbm1wdW1HdVpzdFQwYlJxeGlnbHZVU1VZSmJrR1hRLWxTY0VROTZJNlVPdXQ3aURZeGFvWEM1QTJ3TzRQTUdXND",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2dUaUNhaFcwSmtoTGlMWXYzOUI3b0hObUNPZS1zVlVrMVZiZWFkN2R1OGJmRUFSWXE5VW8zaHRRUWFXckl1bWNRbHBGN0RteThBOG1vRU1KX1hCN2F0TU9fSWVnMWdEd2FEbm1wdW1HdVpzdFQwYlJxeGlnbHZVU1VZSmJrR1hRLWxTY0VROTZJNlVPdXQ3aURZeGFvWEM1QTJ3TzRQTUdXNDZxd3NXMXZ0UjdyN1hjcDBGZ2tYb3FTZUdSZVdGUlpHYlEtRW81TVF3?oc=5",
-      "score": 46.8,
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
           "published": "Tue, 11 Aug 2026 01:39:34 GMT",
+          "source": "travelweekly.com.au"
+        }
+      ]
+    },
+    {
+      "id": "a16eefd7b7eb",
+      "title": "Vietnam Airlines celebrates 35 years of connectivity with landmark aviation and tourism signing in Sydney - travelweekly.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnVlOC1yNmt0cFBBd0FGSEZteEYtaWxIUnVtTXprT0lUdzd6cWU0eThtMWliNEpMUHZGcFNFWE5yOWtJZVFzX1RhZmlwTDQ4RkpaOE9jZVFtdjF6RTQyaHJvSXdEb3ZGMTU0bXlUVi04WmNPaksxekZPWU0yeGV1Q25JQVB6dkkyWEdCWG9BQU1oc0hMeUN2WTk1ZzZDY1g3WTJ5UlRqc0tkWV",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnVlOC1yNmt0cFBBd0FGSEZteEYtaWxIUnVtTXprT0lUdzd6cWU0eThtMWliNEpMUHZGcFNFWE5yOWtJZVFzX1RhZmlwTDQ4RkpaOE9jZVFtdjF6RTQyaHJvSXdEb3ZGMTU0bXlUVi04WmNPaksxekZPWU0yeGV1Q25JQVB6dkkyWEdCWG9BQU1oc0hMeUN2WTk1ZzZDY1g3WTJ5UlRqc0tkWVhpZ2JVR0UtZWdPMGZENVpUX1l5MS1Zb1k3WHhOb19YbjlITGM?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-08-11T19:16:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 02:42:41 GMT",
           "source": "travelweekly.com.au"
         }
       ]
@@ -271,126 +391,6 @@
       "title": "Wolf Populations Are Soaring Across Europe, And So Is Wildlife Tourism - Forbes",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQREY5UU5rNXZoNWVvdHJKa0EwcFhZdjlzZWdNT0lqYXhPU2g0ejBJVXViZjZTUVVjNDhNM2lpNWIyM19UelI1RkcxQzFyeXNYdUJxNHhHMHl2VTlxNUlHTS1wVG5lVFNJaERjU3FsY2V1WEM3TVlNTnlnNEZ2aURPLVc2Sjhpa05ESUxyMTZHdFVXaUMwcFIxX2ZQQ0thRWhPOXdDejBtT2hoRH",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQREY5UU5rNXZoNWVvdHJKa0EwcFhZdjlzZWdNT0lqYXhPU2g0ejBJVXViZjZTUVVjNDhNM2lpNWIyM19UelI1RkcxQzFyeXNYdUJxNHhHMHl2VTlxNUlHTS1wVG5lVFNJaERjU3FsY2V1WEM3TVlNTnlnNEZ2aURPLVc2Sjhpa05ESUxyMTZHdFVXaUMwcFIxX2ZQQ0thRWhPOXdDejBtT2hoRHNJM3hVYW1kbUx4MGdCVW8waQ?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 13:16:26 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "2de30e3ad4e8",
-      "title": "WEB Travel Group (ASX:WEB) — Can Its WebBeds Business Keep the Growth Story on Track? - Kalkine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzdMdVFpb09oSUttRUJjTWFNelBzVU5OUUg5ak53R0lTMDRPRzBkVUxmcEpPWk5CVUF0cEpId0p4VmhWTHQwWDJlQVNLRm5pX1E0RVZyNjlyWDZSMHZ4YjhoZjVtSVd1NnhNeXROYUtDZTJxNW9jVGNaNjFtVkVGOEpSUmFwc2t6ZEdmOTRFSTg1cHFNbnExa1duR2hoX2JJRXlna2hOV2wzdG",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzdMdVFpb09oSUttRUJjTWFNelBzVU5OUUg5ak53R0lTMDRPRzBkVUxmcEpPWk5CVUF0cEpId0p4VmhWTHQwWDJlQVNLRm5pX1E0RVZyNjlyWDZSMHZ4YjhoZjVtSVd1NnhNeXROYUtDZTJxNW9jVGNaNjFtVkVGOEpSUmFwc2t6ZEdmOTRFSTg1cHFNbnExa1duR2hoX2JJRXlna2hOV2wzdGpvX3JlYXZKQy1KdjA?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 05:21:00 GMT",
-          "source": "Kalkine"
-        }
-      ]
-    },
-    {
-      "id": "a16eefd7b7eb",
-      "title": "Vietnam Airlines celebrates 35 years of connectivity with landmark aviation and tourism signing in Sydney - travelweekly.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnVlOC1yNmt0cFBBd0FGSEZteEYtaWxIUnVtTXprT0lUdzd6cWU0eThtMWliNEpMUHZGcFNFWE5yOWtJZVFzX1RhZmlwTDQ4RkpaOE9jZVFtdjF6RTQyaHJvSXdEb3ZGMTU0bXlUVi04WmNPaksxekZPWU0yeGV1Q25JQVB6dkkyWEdCWG9BQU1oc0hMeUN2WTk1ZzZDY1g3WTJ5UlRqc0tkWV",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnVlOC1yNmt0cFBBd0FGSEZteEYtaWxIUnVtTXprT0lUdzd6cWU0eThtMWliNEpMUHZGcFNFWE5yOWtJZVFzX1RhZmlwTDQ4RkpaOE9jZVFtdjF6RTQyaHJvSXdEb3ZGMTU0bXlUVi04WmNPaksxekZPWU0yeGV1Q25JQVB6dkkyWEdCWG9BQU1oc0hMeUN2WTk1ZzZDY1g3WTJ5UlRqc0tkWVhpZ2JVR0UtZWdPMGZENVpUX1l5MS1Zb1k3WHhOb19YbjlITGM?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 02:42:41 GMT",
-          "source": "travelweekly.com.au"
-        }
-      ]
-    },
-    {
-      "id": "217420c593be",
-      "title": "Forbes Travel Guide’s 8 Best Sydney Hotels - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RSVXYwSVkxLS0xbHVjeTFNTXh2cHE1b01UQ1ctZUQtUkNTSHhYYkRubzZYbGU5aVhCNU9ibS1FRE9MQXBrU1JEMGF5WlRDVUVoWk5xTmxxU0VtNkVTUHpScER5Vlo1Ny12UTVrald5b3I3VzZiQndzT1pMZzV6bExLNEh3bDVQM0xlSVJsUlJpVTZPS3RfSGJjeDAwbnh3TVE?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RSVXYwSVkxLS0xbHVjeTFNTXh2cHE1b01UQ1ctZUQtUkNTSHhYYkRubzZYbGU5aVhCNU9ibS1FRE9MQXBrU1JEMGF5WlRDVUVoWk5xTmxxU0VtNkVTUHpScER5Vlo1Ny12UTVrald5b3I3VzZiQndzT1pMZzV6bExLNEh3bDVQM0xlSVJsUlJpVTZPS3RfSGJjeDAwbnh3TVE?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 13:28:31 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "02eda6135777",
-      "title": "Damian Borg appointed as first ever ANZ GM for Signature Travel Network - travelweekly.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnhERjRyczhpUVMwd29oRDg0a3RBNU1oMjhSS0hhUEVzdmkxVGtTbnBzdEVfS29nWUxYNm5GVzVXS0h5V1hfNjQ2eHNHZUpIbE5qcml4Q2VLc1ItclVFTjRMNm1kSy1ndEFnYXRkRHZfWlQ2bUd4dDN1MXl0b3BIck9FWGdvVTIza3lWbUxUZkRsNVljU0pyb0VfS0pUQU44V2c?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnhERjRyczhpUVMwd29oRDg0a3RBNU1oMjhSS0hhUEVzdmkxVGtTbnBzdEVfS29nWUxYNm5GVzVXS0h5V1hfNjQ2eHNHZUpIbE5qcml4Q2VLc1ItclVFTjRMNm1kSy1ndEFnYXRkRHZfWlQ2bUd4dDN1MXl0b3BIck9FWGdvVTIza3lWbUxUZkRsNVljU0pyb0VfS0pUQU44V2c?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 01:56:24 GMT",
-          "source": "travelweekly.com.au"
-        }
-      ]
-    },
-    {
-      "id": "227889c5221a",
-      "title": "Are YouTubers And Influencers Ruining Your Luxury Travel Vacation? - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLThWcVJXRDBHdHFtQ3lBZGZyWHJDU29VU3M0ZzB1cnJKbE45VzF4X0V4TzZqbWNhb0ZUWGlna0hweElFa2RnSHpyR253M3RSWTdoTE5WWjI2SlhLSnl6a19ueTlzNTE1YVBUNHZNci04OXA5bm5TcGZha0tWY3ZXR2lNZllrbHhENDNnREtiTzNfZzVEWk10MkFTZm5TU0pYZFZ5M1hxM0pLOG",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLThWcVJXRDBHdHFtQ3lBZGZyWHJDU29VU3M0ZzB1cnJKbE45VzF4X0V4TzZqbWNhb0ZUWGlna0hweElFa2RnSHpyR253M3RSWTdoTE5WWjI2SlhLSnl6a19ueTlzNTE1YVBUNHZNci04OXA5bm5TcGZha0tWY3ZXR2lNZllrbHhENDNnREtiTzNfZzVEWk10MkFTZm5TU0pYZFZ5M1hxM0pLOGtmNGlFV1FLNC1WMDRY?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 06:09:04 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "86c5f558283e",
-      "title": "National Geographic-Lindblad Expeditions unveils 2028-2029 voyages - travelweekly.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFoxRGxEVUZPRGQzQ3Q4UE94dFlFbTlQSU9USFVTb24tdzl2VTZ1V2hoX1VkSXBPVXNnMWtkUHNJVTNfbmdZSHBQQzlmYlVMcEpJQWdET1RSei1yTWxONTMzQXpUbG1SVGltZGR5NlZlb1h3TERJa1AyYkdlSEM1aUVoMVVqZHdfX3pmcjJkWFl2RHREWFZoOFdSVQ?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFoxRGxEVUZPRGQzQ3Q4UE94dFlFbTlQSU9USFVTb24tdzl2VTZ1V2hoX1VkSXBPVXNnMWtkUHNJVTNfbmdZSHBQQzlmYlVMcEpJQWdET1RSei1yTWxONTMzQXpUbG1SVGltZGR5NlZlb1h3TERJa1AyYkdlSEM1aUVoMVVqZHdfX3pmcjJkWFl2RHREWFZoOFdSVQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-08-11T13:35:31+00:00",
+      "first_seen": "2026-08-11T19:16:15+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 00:50:10 GMT",
-          "source": "travelweekly.com.au"
+          "published": "Tue, 11 Aug 2026 11:44:47 GMT",
+          "source": "Forbes"
         }
       ]
     }

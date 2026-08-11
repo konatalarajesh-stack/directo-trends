@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "UK",
-  "generated_at": "2026-08-11T13:44:29+00:00",
+  "generated_at": "2026-08-11T19:25:10+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
@@ -18,11 +18,31 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
           "published": "Sun, 09 Aug 2026 07:31:00 GMT",
           "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "345a4e29633b",
+      "title": "Market news - investments.halifax.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmQ3R3BhakxkcS1DTFRRNXFZVnk2dlJTTmUxZ0NCdXZJLXZ5TFAwRUZWbXdfbnBKNTNQcXdKYnBqUUlYdVhhOHFLWktiTmV6ejZ0d0h1LXBvR1RYZjVkUWlCX1MwcUZlZE1RVHdzYTBkQ3ZueHZXNVFhRkNjcUp6dGExalBYSUZzZ0tyeVJ2Z19PZjJiU1g4Y3gwZw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmQ3R3BhakxkcS1DTFRRNXFZVnk2dlJTTmUxZ0NCdXZJLXZ5TFAwRUZWbXdfbnBKNTNQcXdKYnBqUUlYdVhhOHFLWktiTmV6ejZ0d0h1LXBvR1RYZjVkUWlCX1MwcUZlZE1RVHdzYTBkQ3ZueHZXNVFhRkNjcUp6dGExalBYSUZzZ0tyeVJ2Z19PZjJiU1g4Y3gwZw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-08-11T19:16:02+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 29 Jul 2026 11:14:23 GMT",
+          "source": "investments.halifax.co.uk"
         }
       ]
     },
@@ -38,7 +58,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
           "published": "Tue, 19 May 2026 07:00:00 GMT",
@@ -58,7 +78,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
           "published": "Mon, 18 May 2026 07:00:00 GMT",
@@ -67,8 +87,8 @@
       ]
     },
     {
-      "id": "69d2f38c5428",
-      "title": "Why Young People in the UK Aren’t Investing - Morningstar",
+      "id": "77615fcee760",
+      "title": "Why Young People in the UK Aren’t Investing - global.morningstar.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGdMSDBoMHhCQkJIVldyQzNmempKN3BwY0RkTFRERk5sanpHbFJULVd2SUZKa1pDbWFZTFdkaVFIcU80ZnZRbW9oUjNwOFdaNmFrbWVkMGQ3S1ZaSWdSSVRfcnMzelRyRkNmUjdnc3B6QnBrOWJtUVFPY0k2SnZhUkJjX3RnSUxnMUd0VXl5YllYSnM?oc=5\" target=\"_blank\">Why Youn",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGdMSDBoMHhCQkJIVldyQzNmempKN3BwY0RkTFRERk5sanpHbFJULVd2SUZKa1pDbWFZTFdkaVFIcU80ZnZRbW9oUjNwOFdaNmFrbWVkMGQ3S1ZaSWdSSVRfcnMzelRyRkNmUjdnc3B6QnBrOWJtUVFPY0k2SnZhUkJjX3RnSUxnMUd0VXl5YllYSnM?oc=5",
       "score": 75.6,
@@ -78,19 +98,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
           "published": "Fri, 17 Apr 2026 07:00:00 GMT",
-          "source": "Morningstar"
+          "source": "global.morningstar.com"
         }
       ]
     },
     {
-      "id": "11862998354a",
-      "title": "Best Stocks To Buy Now For UK Investors In 2026 - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTURrQnR1VU5ISnREUldFcklqNDIwSXptSmRkbFhGa19vSDVzUkZTaUJQbk9mTVVXVG1qbXJSTERIeTZnZzdTcUc0NDBGdUNJVWlBSkxiOEVZZ1FOWHFNVmRWSWlGZDJaTVZaaTBHeGhXcVdmTnc?oc=5\" target=\"_blank\">Best Stocks To Buy Now For UK Investors In 2026<",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTURrQnR1VU5ISnREUldFcklqNDIwSXptSmRkbFhGa19vSDVzUkZTaUJQbk9mTVVXVG1qbXJSTERIeTZnZzdTcUc0NDBGdUNJVWlBSkxiOEVZZ1FOWHFNVmRWSWlGZDJaTVZaaTBHeGhXcVdmTnc?oc=5",
+      "id": "20add61cc1df",
+      "title": "Consumer Finance Market to Surpass $14 Trillion by 2031, with Asia-Pacific Holding a 43.3% Market Share in 2025, Says Mordor Intelligence - PR Newswire UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxONnptU1JMUjUtWEt0Qzg1SmpyYjJhRTl5Q2FJQkQ4SEhKaWNfcmdoUGxlcDdULUFhQnExSzZLSHVfeF9kTEdGa25GMzM4Ui10WDgwVkVNY1ZsWl9ERDB4MmtpQmdpek9aaTZWbnMzZFRDa2hMUkxkYTFSU2RZb0M4YnpOcTRZcWxNb2E4QWtjMXoxVW53bUYydmUxVEN3VDQ3S3dFRHZodVFfUG",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxONnptU1JMUjUtWEt0Qzg1SmpyYjJhRTl5Q2FJQkQ4SEhKaWNfcmdoUGxlcDdULUFhQnExSzZLSHVfeF9kTEdGa25GMzM4Ui10WDgwVkVNY1ZsWl9ERDB4MmtpQmdpek9aaTZWbnMzZFRDa2hMUkxkYTFSU2RZb0M4YnpOcTRZcWxNb2E4QWtjMXoxVW53bUYydmUxVEN3VDQ3S3dFRHZodVFfUGlaRFQ1SkpzSEtaRThHVDdlYXY3REw0dnVrUkZZMUJTM2F1cDRGdWpfeVhIVDdGS0Q5eGpVS0VwZ0s3SEVhQk1mNWlGVVE2MjdtTWk1ODQxU3Y5Mmp6czMwVkhwc0hkakNOZWM4YmVNaWl3TG5qRTdyd1BB?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -98,35 +118,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 04 Aug 2026 19:06:00 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "345a4e29633b",
-      "title": "Market news - investments.halifax.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmQ3R3BhakxkcS1DTFRRNXFZVnk2dlJTTmUxZ0NCdXZJLXZ5TFAwRUZWbXdfbnBKNTNQcXdKYnBqUUlYdVhhOHFLWktiTmV6ejZ0d0h1LXBvR1RYZjVkUWlCX1MwcUZlZE1RVHdzYTBkQ3ZueHZXNVFhRkNjcUp6dGExalBYSUZzZ0tyeVJ2Z19PZjJiU1g4Y3gwZw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmQ3R3BhakxkcS1DTFRRNXFZVnk2dlJTTmUxZ0NCdXZJLXZ5TFAwRUZWbXdfbnBKNTNQcXdKYnBqUUlYdVhhOHFLWktiTmV6ejZ0d0h1LXBvR1RYZjVkUWlCX1MwcUZlZE1RVHdzYTBkQ3ZueHZXNVFhRkNjcUp6dGExalBYSUZzZ0tyeVJ2Z19PZjJiU1g4Y3gwZw?oc=5",
-      "score": 70.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 29 Jul 2026 11:14:23 GMT",
-          "source": "investments.halifax.co.uk"
-        },
-        {
-          "published": "Thu, 30 Apr 2026 07:51:03 GMT",
-          "source": "investments.halifax.co.uk"
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "source": "PR Newswire UK"
         }
       ]
     },
@@ -142,7 +138,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
           "published": "Fri, 06 Mar 2026 08:00:00 GMT",
@@ -151,8 +147,8 @@
       ]
     },
     {
-      "id": "dbcdce4fce23",
-      "title": "5 steps to consider before the 2025 Autumn Budget - hl.co.uk",
+      "id": "d6dbfb74db5e",
+      "title": "5 steps to consider before the 2025 Autumn Budget - Hargreaves Lansdown",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSjVRZEdYcEtzZUo2cGJUZExOUHNDVWZXc2dRTUhILWE0ekFQZ002YkVCSllvaFBoNGZnbG83WlB2ZlluWERadWdZWlZMQlpxWkduSEhUVGc5YXlKcHhWVjdjQmpFeDVELWJWalluNUVrQ2VuVTMtb0NPNDZvMHhHUg?oc=5\" target=\"_blank\">5 steps to consider before the 20",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSjVRZEdYcEtzZUo2cGJUZExOUHNDVWZXc2dRTUhILWE0ekFQZ002YkVCSllvaFBoNGZnbG83WlB2ZlluWERadWdZWlZMQlpxWkduSEhUVGc5YXlKcHhWVjdjQmpFeDVELWJWalluNUVrQ2VuVTMtb0NPNDZvMHhHUg?oc=5",
       "score": 64.8,
@@ -162,11 +158,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
           "published": "Mon, 03 Nov 2025 08:00:00 GMT",
-          "source": "hl.co.uk"
+          "source": "Hargreaves Lansdown"
         }
       ]
     },
@@ -182,7 +178,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -205,7 +201,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:39+00:00",
+      "first_seen": "2026-08-11T19:18:24+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -217,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "5db24de5e3f2",
-      "title": "AG - Legal Counsel to International Personal Finance plc on proposed £543m takeover - Addleshaw Goddard LLP",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEx4dXROYVFteWZrQmtveTVCRWxZVUM0TDNrZGxwRlpxc0lMWE50dkdOX21SMUNmaWVicDFCN2ZTR0tvUUJvRGxQUDNNUFd0N2t3NFdjSzhmQktiXy1lUmRMbFBVVWZPTEtTaVRrSXlhcndmVkQwYldSMXg5NndIUU5udkY3d1lBSzdoS3k1Mkt0LXhFb2czSzFCREFLM2xFN2dTSER1N2ZubH",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEx4dXROYVFteWZrQmtveTVCRWxZVUM0TDNrZGxwRlpxc0lMWE50dkdOX21SMUNmaWVicDFCN2ZTR0tvUUJvRGxQUDNNUFd0N2t3NFdjSzhmQktiXy1lUmRMbFBVVWZPTEtTaVRrSXlhcndmVkQwYldSMXg5NndIUU5udkY3d1lBSzdoS3k1Mkt0LXhFb2czSzFCREFLM2xFN2dTSER1N2ZubHdCUzI4eUhfY0NQdy1qbW5pVVVn?oc=5",
+      "id": "502553625943",
+      "title": "Best Trading Platforms For UK Investors In 2026 - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2NONjR5N2VPSVA1V0xqVG51YWpwYnViQUIwdGx5OU5vQThoT3dONURsM05tOW5JQmt4RVcweGNISkh3SkxDR3lVNXl3VU4xYXlCMUx1bWZSRGl6TVM4UnhMLWVjLU5pM1VqSEFmekJkcDh4aEE?oc=5\" target=\"_blank\">Best Trading Platforms For UK Investors In 2026<",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2NONjR5N2VPSVA1V0xqVG51YWpwYnViQUIwdGx5OU5vQThoT3dONURsM05tOW5JQmt4RVcweGNISkh3SkxDR3lVNXl3VU4xYXlCMUx1bWZSRGl6TVM4UnhMLWVjLU5pM1VqSEFmekJkcDh4aEE?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -228,11 +224,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 24 Dec 2025 19:04:21 GMT",
-          "source": "Addleshaw Goddard LLP"
+          "published": "Mon, 03 Aug 2026 16:15:00 GMT",
+          "source": "Forbes"
         }
       ]
     },
@@ -248,7 +244,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -260,10 +256,10 @@
       "is_global": true
     },
     {
-      "id": "bfc0232669fa",
-      "title": "The biggest reason to invest will become clear in 2027 - fidelity.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFQ0N0lKbjc2OGtWdHllT2ZZUllqNDU3TDRIU1d4UC1kUFFHQy0zM0lrRVVNNTVneFBuLWYzaTdXXzlVWTl5VlZPbTBtUnhSeWNGbnVXcExubU5VXzZleEs5MEZ4U0ZxYVR6c1A4bWtjeFR6QnRMUGs0WjBUS0hVWFhIQ3gwUmJWNmJGYlVLS1c1a05sLVlGQklJS0xCWlRHNGh6cGo0Tk82cE",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFQ0N0lKbjc2OGtWdHllT2ZZUllqNDU3TDRIU1d4UC1kUFFHQy0zM0lrRVVNNTVneFBuLWYzaTdXXzlVWTl5VlZPbTBtUnhSeWNGbnVXcExubU5VXzZleEs5MEZ4U0ZxYVR6c1A4bWtjeFR6QnRMUGs0WjBUS0hVWFhIQ3gwUmJWNmJGYlVLS1c1a05sLVlGQklJS0xCWlRHNGh6cGo0Tk82cEJMUERqSThwRWZuU3ZFZFRUc1VRV0ZveGRYVGZTbEJpLU43V1NOYk8wVA?oc=5",
+      "id": "5db24de5e3f2",
+      "title": "AG - Legal Counsel to International Personal Finance plc on proposed £543m takeover - Addleshaw Goddard LLP",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEx4dXROYVFteWZrQmtveTVCRWxZVUM0TDNrZGxwRlpxc0lMWE50dkdOX21SMUNmaWVicDFCN2ZTR0tvUUJvRGxQUDNNUFd0N2t3NFdjSzhmQktiXy1lUmRMbFBVVWZPTEtTaVRrSXlhcndmVkQwYldSMXg5NndIUU5udkY3d1lBSzdoS3k1Mkt0LXhFb2czSzFCREFLM2xFN2dTSER1N2ZubH",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEx4dXROYVFteWZrQmtveTVCRWxZVUM0TDNrZGxwRlpxc0lMWE50dkdOX21SMUNmaWVicDFCN2ZTR0tvUUJvRGxQUDNNUFd0N2t3NFdjSzhmQktiXy1lUmRMbFBVVWZPTEtTaVRrSXlhcndmVkQwYldSMXg5NndIUU5udkY3d1lBSzdoS3k1Mkt0LXhFb2czSzFCREFLM2xFN2dTSER1N2ZubHdCUzI4eUhfY0NQdy1qbW5pVVVn?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -271,11 +267,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 13 May 2026 07:00:00 GMT",
-          "source": "fidelity.co.uk"
+          "published": "Wed, 24 Dec 2025 19:04:21 GMT",
+          "source": "Addleshaw Goddard LLP"
         }
       ]
     },
@@ -291,7 +287,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -314,7 +310,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -324,6 +320,26 @@
         }
       ],
       "is_global": true
+    },
+    {
+      "id": "bfc0232669fa",
+      "title": "The biggest reason to invest will become clear in 2027 - fidelity.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFQ0N0lKbjc2OGtWdHllT2ZZUllqNDU3TDRIU1d4UC1kUFFHQy0zM0lrRVVNNTVneFBuLWYzaTdXXzlVWTl5VlZPbTBtUnhSeWNGbnVXcExubU5VXzZleEs5MEZ4U0ZxYVR6c1A4bWtjeFR6QnRMUGs0WjBUS0hVWFhIQ3gwUmJWNmJGYlVLS1c1a05sLVlGQklJS0xCWlRHNGh6cGo0Tk82cE",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFQ0N0lKbjc2OGtWdHllT2ZZUllqNDU3TDRIU1d4UC1kUFFHQy0zM0lrRVVNNTVneFBuLWYzaTdXXzlVWTl5VlZPbTBtUnhSeWNGbnVXcExubU5VXzZleEs5MEZ4U0ZxYVR6c1A4bWtjeFR6QnRMUGs0WjBUS0hVWFhIQ3gwUmJWNmJGYlVLS1c1a05sLVlGQklJS0xCWlRHNGh6cGo0Tk82cEJMUERqSThwRWZuU3ZFZFRUc1VRV0ZveGRYVGZTbEJpLU43V1NOYk8wVA?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-08-11T19:16:02+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 13 May 2026 07:00:00 GMT",
+          "source": "fidelity.co.uk"
+        }
+      ]
     },
     {
       "id": "c0da033eedea",
@@ -337,7 +353,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -349,10 +365,10 @@
       "is_global": true
     },
     {
-      "id": "502553625943",
-      "title": "Best Trading Platforms For UK Investors In 2026 - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2NONjR5N2VPSVA1V0xqVG51YWpwYnViQUIwdGx5OU5vQThoT3dONURsM05tOW5JQmt4RVcweGNISkh3SkxDR3lVNXl3VU4xYXlCMUx1bWZSRGl6TVM4UnhMLWVjLU5pM1VqSEFmekJkcDh4aEE?oc=5\" target=\"_blank\">Best Trading Platforms For UK Investors In 2026<",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2NONjR5N2VPSVA1V0xqVG51YWpwYnViQUIwdGx5OU5vQThoT3dONURsM05tOW5JQmt4RVcweGNISkh3SkxDR3lVNXl3VU4xYXlCMUx1bWZSRGl6TVM4UnhMLWVjLU5pM1VqSEFmekJkcDh4aEE?oc=5",
+      "id": "11862998354a",
+      "title": "Best Stocks To Buy Now For UK Investors In 2026 - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTURrQnR1VU5ISnREUldFcklqNDIwSXptSmRkbFhGa19vSDVzUkZTaUJQbk9mTVVXVG1qbXJSTERIeTZnZzdTcUc0NDBGdUNJVWlBSkxiOEVZZ1FOWHFNVmRWSWlGZDJaTVZaaTBHeGhXcVdmTnc?oc=5\" target=\"_blank\">Best Stocks To Buy Now For UK Investors In 2026<",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTURrQnR1VU5ISnREUldFcklqNDIwSXptSmRkbFhGa19vSDVzUkZTaUJQbk9mTVVXVG1qbXJSTERIeTZnZzdTcUc0NDBGdUNJVWlBSkxiOEVZZ1FOWHFNVmRWSWlGZDJaTVZaaTBHeGhXcVdmTnc?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -360,10 +376,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 16:15:00 GMT",
+          "published": "Tue, 04 Aug 2026 19:06:00 GMT",
           "source": "Forbes"
         }
       ]
@@ -380,7 +396,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -403,7 +419,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -426,7 +442,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
           "published": "Tue, 26 May 2026 07:00:00 GMT",
@@ -446,7 +462,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -458,10 +474,10 @@
       "is_global": true
     },
     {
-      "id": "a4f407defb52",
-      "title": "Best UK Online Brokers In 2026 - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNVdUUjltcjZsdTVSSkRrdU5zemdIbkRCY0ZXLTloZVJ3R1dqdXFwUENISjN4QzZyQWtqcWhUZHdkVkhLS3lOYW9qRVkxNmRDM0oycnlteWZsTFhXRlNqdXk2ZDNELVh3clJ1NjI2eHh1SDEw?oc=5\" target=\"_blank\">Best UK Online Brokers In 2026</a>&nbsp;&nbsp;<font",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNVdUUjltcjZsdTVSSkRrdU5zemdIbkRCY0ZXLTloZVJ3R1dqdXFwUENISjN4QzZyQWtqcWhUZHdkVkhLS3lOYW9qRVkxNmRDM0oycnlteWZsTFhXRlNqdXk2ZDNELVh3clJ1NjI2eHh1SDEw?oc=5",
+      "id": "d2f3c2049a48",
+      "title": "Rebuilding after the bubble - fidelity.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUhWbnJEbThmNTNkUkFIUDNfN3MxRXhMVHZFV1lJTEhFODlJSGs1aVFRYVVrVE8tSE9OSjkwb3JjRTM3TjVpVldRMEpCMWFxTWlXUkt3LThTR3A3SEpmc2Z0NVRoOFpWbkREejNybkVTM2I2SGlRc3l0OHFpMlY1MUNqaHBibTJlc3VuX2cxdmdJUG02VEpGYUVvWHQxNEFmb3JmSEJkUktLZw",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUhWbnJEbThmNTNkUkFIUDNfN3MxRXhMVHZFV1lJTEhFODlJSGs1aVFRYVVrVE8tSE9OSjkwb3JjRTM3TjVpVldRMEpCMWFxTWlXUkt3LThTR3A3SEpmc2Z0NVRoOFpWbkREejNybkVTM2I2SGlRc3l0OHFpMlY1MUNqaHBibTJlc3VuX2cxdmdJUG02VEpGYUVvWHQxNEFmb3JmSEJkUktLZw?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -469,11 +485,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
+      "first_seen": "2026-08-11T19:16:02+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 03 Aug 2026 16:52:00 GMT",
-          "source": "Forbes"
+          "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+          "source": "fidelity.co.uk"
         }
       ]
     },
@@ -489,7 +505,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -512,7 +528,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-11T13:37:38+00:00",
+      "first_seen": "2026-08-11T19:18:23+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -522,26 +538,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "d2f3c2049a48",
-      "title": "Rebuilding after the bubble - fidelity.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUhWbnJEbThmNTNkUkFIUDNfN3MxRXhMVHZFV1lJTEhFODlJSGs1aVFRYVVrVE8tSE9OSjkwb3JjRTM3TjVpVldRMEpCMWFxTWlXUkt3LThTR3A3SEpmc2Z0NVRoOFpWbkREejNybkVTM2I2SGlRc3l0OHFpMlY1MUNqaHBibTJlc3VuX2cxdmdJUG02VEpGYUVvWHQxNEFmb3JmSEJkUktLZw",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUhWbnJEbThmNTNkUkFIUDNfN3MxRXhMVHZFV1lJTEhFODlJSGs1aVFRYVVrVE8tSE9OSjkwb3JjRTM3TjVpVldRMEpCMWFxTWlXUkt3LThTR3A3SEpmc2Z0NVRoOFpWbkREejNybkVTM2I2SGlRc3l0OHFpMlY1MUNqaHBibTJlc3VuX2cxdmdJUG02VEpGYUVvWHQxNEFmb3JmSEJkUktLZw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-08-11T13:35:18+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-          "source": "fidelity.co.uk"
-        }
-      ]
     }
   ]
 }
