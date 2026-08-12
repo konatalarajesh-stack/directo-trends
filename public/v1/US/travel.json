@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-08-11T19:25:10+00:00",
+  "generated_at": "2026-08-12T02:47:49+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 19,
   "trends": [
     {
-      "id": "6d66fbbffce5",
-      "title": "Skyscanner Joins Dolphins as First-Ever Official Travel Partner - Miami Dolphins",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMDFkYjlUdG1vS0dXTXFGM0ZMTnBjM2lHQXkzTkNEMW5LRXB4bk95Qm90bjdjZkpwU0VNenJVVTJ1QlZkTEx2Q2JwZ2FRUDVxV0xfa0R5YXhNblNsVVZUYkFKd3M0NmFjSFU1S1VlQXVybFVRVlk4akdJdVJYX3Y2YWRjUHFoQTA1M2NLUzJzQ3kyZi1NZ1lrQVNKMldVU3RreG5GQ2laX2F1dW",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMDFkYjlUdG1vS0dXTXFGM0ZMTnBjM2lHQXkzTkNEMW5LRXB4bk95Qm90bjdjZkpwU0VNenJVVTJ1QlZkTEx2Q2JwZ2FRUDVxV0xfa0R5YXhNblNsVVZUYkFKd3M0NmFjSFU1S1VlQXVybFVRVlk4akdJdVJYX3Y2YWRjUHFoQTA1M2NLUzJzQ3kyZi1NZ1lrQVNKMldVU3RreG5GQ2laX2F1dWlvQ3J6WjRtaXdEcWdoTjlNLTRlOUZWV0stejRvNXNVZ1hOaVpCZEpwTFRXeVNnQ2NsQWhDS0oweWJMNEtSWVdn?oc=5",
+      "id": "3d4e497c4f80",
+      "title": "Following Adam Smith's footsteps: students travel to Scotland to learn about economic freedom - Florida International University",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYTd4MVZ0UHlUbjh4OXhqREc3dGczTnJsTmN3eUF2NjVScHg3WlktZy1ZTEpBQWNlVTFGMk50RUQ5SVFqd2xadDJIX3ZyUEZVaEd4MXNIWDlJUXBNQWpqb3Jaa0lueHIzVENjVHI5cVhfcDk0RGJaVW1OYVhDbWp2QnplR1J3ZWRQTmJzcGl3?oc=5\" target=\"_blank\">Following Adam ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYTd4MVZ0UHlUbjh4OXhqREc3dGczTnJsTmN3eUF2NjVScHg3WlktZy1ZTEpBQWNlVTFGMk50RUQ5SVFqd2xadDJIX3ZyUEZVaEd4MXNIWDlJUXBNQWpqb3Jaa0lueHIzVENjVHI5cVhfcDk0RGJaVW1OYVhDbWp2QnplR1J3ZWRQTmJzcGl3?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 20:09:00 GMT",
+          "source": "Florida International University"
+        }
+      ]
+    },
+    {
+      "id": "6d66fbbffce5",
+      "title": "Skyscanner Joins Dolphins as First-Ever Official Travel Partner - Miami Dolphins",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMDFkYjlUdG1vS0dXTXFGM0ZMTnBjM2lHQXkzTkNEMW5LRXB4bk95Qm90bjdjZkpwU0VNenJVVTJ1QlZkTEx2Q2JwZ2FRUDVxV0xfa0R5YXhNblNsVVZUYkFKd3M0NmFjSFU1S1VlQXVybFVRVlk4akdJdVJYX3Y2YWRjUHFoQTA1M2NLUzJzQ3kyZi1NZ1lrQVNKMldVU3RreG5GQ2laX2F1dW",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMDFkYjlUdG1vS0dXTXFGM0ZMTnBjM2lHQXkzTkNEMW5LRXB4bk95Qm90bjdjZkpwU0VNenJVVTJ1QlZkTEx2Q2JwZ2FRUDVxV0xfa0R5YXhNblNsVVZUYkFKd3M0NmFjSFU1S1VlQXVybFVRVlk4akdJdVJYX3Y2YWRjUHFoQTA1M2NLUzJzQ3kyZi1NZ1lrQVNKMldVU3RreG5GQ2laX2F1dWlvQ3J6WjRtaXdEcWdoTjlNLTRlOUZWV0stejRvNXNVZ1hOaVpCZEpwTFRXeVNnQ2NsQWhDS0oweWJMNEtSWVdn?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
           "published": "Tue, 11 Aug 2026 13:54:40 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "88d90c0500f3",
-      "title": "Tourism Announces $1 Million Available in Attraction Development Grants - Kansas Department of Commerce (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2ItRGpCWF9XV1pJeV9tbEVFZzUtaXhFSm9Td21keHJtVk5aeDlhMEEySkNkVHVpNzdDZzdweGZpZjhsNzJoa2RDNThLblgtTTNsQllJQVVPbzl0VUhjazZJSEpySFpIdWpiUU1IUkp5UnIxakR5WWJpZjdGeEhUbVdnWk9Wdm16cHVPZUJCV2dUNlRrTWRkSEo3eFZaX0VhYkpHNVdrekYxek",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2ItRGpCWF9XV1pJeV9tbEVFZzUtaXhFSm9Td21keHJtVk5aeDlhMEEySkNkVHVpNzdDZzdweGZpZjhsNzJoa2RDNThLblgtTTNsQllJQVVPbzl0VUhjazZJSEpySFpIdWpiUU1IUkp5UnIxakR5WWJpZjdGeEhUbVdnWk9Wdm16cHVPZUJCV2dUNlRrTWRkSEo3eFZaX0VhYkpHNVdrekYxekdPSW1J?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 15:00:47 GMT",
-          "source": "Kansas Department of Commerce (.gov)"
-        }
-      ]
-    },
-    {
-      "id": "6abae8effae3",
-      "title": "Copenhagen Travel Guide: What to See, Visit and Do - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3dZbmgyT3pic0lHNEdZMUpWc1lteElmZW5QRHlYbE5NYnFnZURDS0ZRWXNtekVRZ3BvRENYelljdXkxTFdudGZ2eEw2T3ZSS1NNUXhTaGMzcmd4aGNiRXFUMUVQMzM2TmxsMGVjZjI0SmNZcnRjVWtBLU4xaUhseGg1RQ?oc=5\" target=\"_blank\">Copenhagen Travel Guide: What",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3dZbmgyT3pic0lHNEdZMUpWc1lteElmZW5QRHlYbE5NYnFnZURDS0ZRWXNtekVRZ3BvRENYelljdXkxTFdudGZ2eEw2T3ZSS1NNUXhTaGMzcmd4aGNiRXFUMUVQMzM2TmxsMGVjZjI0SmNZcnRjVWtBLU4xaUhseGg1RQ?oc=5",
+      "id": "b69a8d0b2797",
+      "title": "Ted Lasso Made Everyone Search Kansas City. Not for the Reason Tourism Officials Hoped - Fodors Travel Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamE5YkowVlFDQXFHQXJGTExmOHQxT1hreGtlVmtpZWJiSFo2Q1g0RFo4VHJ4ZFU2SWRQMXUySllPSmhycEZHT2U2VkRQMHY4VjNJZW9KN283T2xTS0xaZm1MM2xQenhiT2R2S1pNWk0wT1dfeFBLT0JVZXZTLXJrLXE3ZDhwX1hIYldsOXdJckxsS29ld3lWM09GQ3RsR3VNYkQwNlFVcTN4bG",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamE5YkowVlFDQXFHQXJGTExmOHQxT1hreGtlVmtpZWJiSFo2Q1g0RFo4VHJ4ZFU2SWRQMXUySllPSmhycEZHT2U2VkRQMHY4VjNJZW9KN283T2xTS0xaZm1MM2xQenhiT2R2S1pNWk0wT1dfeFBLT0JVZXZTLXJrLXE3ZDhwX1hIYldsOXdJckxsS29ld3lWM09GQ3RsR3VNYkQwNlFVcTN4bGlMQjhJOXVWRFJtQllZMk9CYnExRzhoVnZwbDNNbTFlLVJKbWpOOEE?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,27 +58,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 09:00:00 GMT",
-          "source": "The New York Times"
-        }
-      ]
-    },
-    {
-      "id": "b69a8d0b2797",
-      "title": "Ted Lasso Made Everyone Search Kansas City. Not for the Reason Tourism Officials Hoped - Fodors Travel Guide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamE5YkowVlFDQXFHQXJGTExmOHQxT1hreGtlVmtpZWJiSFo2Q1g0RFo4VHJ4ZFU2SWRQMXUySllPSmhycEZHT2U2VkRQMHY4VjNJZW9KN283T2xTS0xaZm1MM2xQenhiT2R2S1pNWk0wT1dfeFBLT0JVZXZTLXJrLXE3ZDhwX1hIYldsOXdJckxsS29ld3lWM09GQ3RsR3VNYkQwNlFVcTN4bG",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamE5YkowVlFDQXFHQXJGTExmOHQxT1hreGtlVmtpZWJiSFo2Q1g0RFo4VHJ4ZFU2SWRQMXUySllPSmhycEZHT2U2VkRQMHY4VjNJZW9KN283T2xTS0xaZm1MM2xQenhiT2R2S1pNWk0wT1dfeFBLT0JVZXZTLXJrLXE3ZDhwX1hIYldsOXdJckxsS29ld3lWM09GQ3RsR3VNYkQwNlFVcTN4bGlMQjhJOXVWRFJtQllZMk9CYnExRzhoVnZwbDNNbTFlLVJKbWpOOEE?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
           "published": "Tue, 11 Aug 2026 16:55:14 GMT",
@@ -87,142 +67,22 @@
       ]
     },
     {
-      "id": "60c7376048fc",
-      "title": "Forget Tourist Taxes—Europe Is Rewarding Sustainable Travel - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1VFTDZHZ1NkRnAtU1NnT0ZqS245LUF6d3NROC1OekhIeVAxU3hsb2p4RGdMMGRfbGhnaDRRaERYWEtyQmF5OVM2YTY5YnQzWDdkdGFWaUZnTlZzeFhpU0JURHoydG9yVlpNaFFGRF9SR0FHekZLdjM1V3V6MlJvLVZfaVZlRG5KeUExQk9Ia1Nwem5DR0Jsc1A4R2RlODVNaU9Ca3ZSM2p3Tl",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1VFTDZHZ1NkRnAtU1NnT0ZqS245LUF6d3NROC1OekhIeVAxU3hsb2p4RGdMMGRfbGhnaDRRaERYWEtyQmF5OVM2YTY5YnQzWDdkdGFWaUZnTlZzeFhpU0JURHoydG9yVlpNaFFGRF9SR0FHekZLdjM1V3V6MlJvLVZfaVZlRG5KeUExQk9Ia1Nwem5DR0Jsc1A4R2RlODVNaU9Ca3ZSM2p3TlRaNW9Pd05ad04tQQ?oc=5",
-      "score": 75.6,
+      "id": "6abae8effae3",
+      "title": "Copenhagen Travel Guide: What to See, Visit and Do - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3dZbmgyT3pic0lHNEdZMUpWc1lteElmZW5QRHlYbE5NYnFnZURDS0ZRWXNtekVRZ3BvRENYelljdXkxTFdudGZ2eEw2T3ZSS1NNUXhTaGMzcmd4aGNiRXFUMUVQMzM2TmxsMGVjZjI0SmNZcnRjVWtBLU4xaUhseGg1RQ?oc=5\" target=\"_blank\">Copenhagen Travel Guide: What",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3dZbmgyT3pic0lHNEdZMUpWc1lteElmZW5QRHlYbE5NYnFnZURDS0ZRWXNtekVRZ3BvRENYelljdXkxTFdudGZ2eEw2T3ZSS1NNUXhTaGMzcmd4aGNiRXFUMUVQMzM2TmxsMGVjZjI0SmNZcnRjVWtBLU4xaUhseGg1RQ?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 13:18:52 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "b1285ad8e4e8",
-      "title": "Texas woman arrested after leaving 2 children home alone to travel to Mexico - FOX 7 Austin",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdF9tM1VlNmIzanhJMTYtbnpQVnlWckVzSGFIV2VnWno0U3U0NG9HRmlZUTBFZ2dtSEdVRllUMGhseHdoWjZFM3VjQXJfVVhMRFhtV0pDNk5EMEh6M1ZtcFBzNFdmM1BLdUlRZVl1UFZBcmwtWU1CU2xiYUtaN3dpN2hJSGY5R0dRVW9wWFpOSGpkTGxwTkhxMU12UHdwbmZqVHBSNQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdF9tM1VlNmIzanhJMTYtbnpQVnlWckVzSGFIV2VnWno0U3U0NG9HRmlZUTBFZ2dtSEdVRllUMGhseHdoWjZFM3VjQXJfVVhMRFhtV0pDNk5EMEh6M1ZtcFBzNFdmM1BLdUlRZVl1UFZBcmwtWU1CU2xiYUtaN3dpN2hJSGY5R0dRVW9wWFpOSGpkTGxwTkhxMU12UHdwbmZqVHBSNQ?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 16:52:49 GMT",
-          "source": "FOX 7 Austin"
-        }
-      ]
-    },
-    {
-      "id": "012c09a0d29b",
-      "title": "Three cheers for trying to end birth tourism - The Hill",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWZBWktXV0VCU2x0MkZidk5GV242V1pSeFFWVkt4TTRPMUxnWG1zWmhCSlg1X2RKOXJ2ZXd5Qk43Wjl0eUVWbzNoNFFiaEM5Z0tQLXFzRkdXQVpwVlNiWldIcVp6N0s2Y1pyRUQ3MjZFSnV2akhaeEl1dERrV2ViMDd1alJWWDI2SjdyMNIBkgFBVV95cUxOSlhuU1Z4YnQ0V3FGR2JsdF9WLT",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWZBWktXV0VCU2x0MkZidk5GV242V1pSeFFWVkt4TTRPMUxnWG1zWmhCSlg1X2RKOXJ2ZXd5Qk43Wjl0eUVWbzNoNFFiaEM5Z0tQLXFzRkdXQVpwVlNiWldIcVp6N0s2Y1pyRUQ3MjZFSnV2akhaeEl1dERrV2ViMDd1alJWWDI2SjdyMNIBkgFBVV95cUxOSlhuU1Z4YnQ0V3FGR2JsdF9WLThUQS1QVTFvN1VtZ3FGNjBwcEdqYUc1ZmdZWTFzOG1iS3ZFTWxCb2hkNjVGV0FXd3UxeHZMd0RFb09RUmZWWTJGYjVxay1LbnBLV0czSkhsbWZ0ZDc2UE9RWlRuVFlFZm1ScWJCam9XZmJBZmU3a05HVmpQWlp1UQ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 15:30:00 GMT",
-          "source": "The Hill"
-        }
-      ]
-    },
-    {
-      "id": "f1c864981581",
-      "title": "Is it safe to travel to Colombia? Latest advice after 7.4 magnitude earthquake strikes the country’s western region - Time Out Worldwide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbXJpaUdUNW56eVcxVHBOY05ZVlA0Rmdpd09HanlBRXRuWWFZUXBlUW1BamJDR0M1SzhCVjlwa2VJWUJxWVJrQ3FyTF8yb1hyM0RDV19ycGFVZGltcHZCY0VsaHpZT1dyd2Rlb0JPZlRJNmFEdjJ0czdzZ3dhWldVVVJOT0hQeWMteXlMR1R6Uk0yeDlqYjdLbjAzVTBNQ09nUG1sYzlBcjVnTj",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbXJpaUdUNW56eVcxVHBOY05ZVlA0Rmdpd09HanlBRXRuWWFZUXBlUW1BamJDR0M1SzhCVjlwa2VJWUJxWVJrQ3FyTF8yb1hyM0RDV19ycGFVZGltcHZCY0VsaHpZT1dyd2Rlb0JPZlRJNmFEdjJ0czdzZ3dhWldVVVJOT0hQeWMteXlMR1R6Uk0yeDlqYjdLbjAzVTBNQ09nUG1sYzlBcjVnTjQ1MmFtUDVIR2xZUXgwU3Z5NUZDejZIcXBHSU5ZVWhpS2dxYlVLZ1lTSExzbVlaUm9Fd0ttOEtNcw?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 12:32:07 GMT",
-          "source": "Time Out Worldwide"
-        }
-      ]
-    },
-    {
-      "id": "37e654ed831f",
-      "title": "Tacoma council now required to report city-related travel plans ahead of time - Tacoma News Tribune",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1jR1dlMmxaQXlLeGVqUWZ1amNCUlZfdUFMWG1CVHFDaXkxMG0wQVdJWERVS2FvXzlNREwtNWpWdE1YV20tSi12clUxT3RYYW50OC1mYUUxQzI4NGJud0xSOGtiWnM1UjlQTkE1U2lzZG3SAXBBVV95cUxPZ2kyallmaVhtZ3VlT2hIMHMwOGVSb1lFT3BEaXJjZzU0MEFDSUY0c3pyN21TVHM2b1",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jR1dlMmxaQXlLeGVqUWZ1amNCUlZfdUFMWG1CVHFDaXkxMG0wQVdJWERVS2FvXzlNREwtNWpWdE1YV20tSi12clUxT3RYYW50OC1mYUUxQzI4NGJud0xSOGtiWnM1UjlQTkE1U2lzZG3SAXBBVV95cUxPZ2kyallmaVhtZ3VlT2hIMHMwOGVSb1lFT3BEaXJjZzU0MEFDSUY0c3pyN21TVHM2b1d1dVBxdDA0ZjVyWS11QnhLUV9FNXVxb2NETVZzeFZ0NF9rWUJZZ1U1aFdTM241Zi1wX3U5Zkha?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 12:30:00 GMT",
-          "source": "Tacoma News Tribune"
-        }
-      ]
-    },
-    {
-      "id": "5f6130712d4e",
-      "title": "Camels travel to Longwood, host App State to open 2026 season - gocamels.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTBKdUZjODJvbzFpMzhaUGVwRURqenBPZlZ5Y3BiQ1RyeG91MmRaTU91cEVuUTVKOWdZdm5yVVpXcFQ1bGMxdlBKR1AyeG9sVHlKT1RiMEhaQlp1Nk0tLVc5blFXZHFOMWI4TGY1YVZabHphQjVsX1M1MmhlS3NVTE9CY003QUFSVXdBdDF0QTNjWWV3Z1gwc0NLYXhUVmY0MEhWd3JVRmV3R2",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTBKdUZjODJvbzFpMzhaUGVwRURqenBPZlZ5Y3BiQ1RyeG91MmRaTU91cEVuUTVKOWdZdm5yVVpXcFQ1bGMxdlBKR1AyeG9sVHlKT1RiMEhaQlp1Nk0tLVc5blFXZHFOMWI4TGY1YVZabHphQjVsX1M1MmhlS3NVTE9CY003QUFSVXdBdDF0QTNjWWV3Z1gwc0NLYXhUVmY0MEhWd3JVRmV3R2hsRFYwNkpncXNPQQ?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 14:50:29 GMT",
-          "source": "gocamels.com"
-        }
-      ]
-    },
-    {
-      "id": "4ad8ac444798",
-      "title": "Prices Are Rising, but a Vacation is Not Out of Reach, CSUN Tourism Expert Says - CSUN Newsroom",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2Y0ZlpfQ2V6ZU1tcUktblB2M09Kc09pN3NzS1JrRl82Y1NndmUtMVF6NC15SE0tOE1fbDFqQlFQa0pHZFNXa0dCNkdOUURER19SS2F0QktQSTF2T2V0SUdEWGg5WThHWU5IaV96bHQ5N2ZEdUxXMElKSUdEUFhsSXhyZ25ybkt6el92SVA3UVpRbzlsb1ctNkZBUlkzN0pvRmF3bzlDREZ6UH",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2Y0ZlpfQ2V6ZU1tcUktblB2M09Kc09pN3NzS1JrRl82Y1NndmUtMVF6NC15SE0tOE1fbDFqQlFQa0pHZFNXa0dCNkdOUURER19SS2F0QktQSTF2T2V0SUdEWGg5WThHWU5IaV96bHQ5N2ZEdUxXMElKSUdEUFhsSXhyZ25ybkt6el92SVA3UVpRbzlsb1ctNkZBUlkzN0pvRmF3bzlDREZ6UHhpemlUVExIaThydw?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 16:52:56 GMT",
-          "source": "CSUN Newsroom"
+          "published": "Tue, 11 Aug 2026 09:00:00 GMT",
+          "source": "The New York Times"
         }
       ]
     },
@@ -231,14 +91,14 @@
       "title": "Cardinals Premier Travel Celebrate With Larry Fitzgerald At The Hall Of Fame - Arizona Cardinals",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjBYZk5rZ0NqMXFLS09ZWDB1NHdfbUpMQ203NDY3X2dQZTE2azN3cGZSMEZsWFdLQkJrVFRJaXZMRTUzUXl1dDFFclMzNTN4UHRFNWVhT1JSaWhTbDE5Q0FqRVEzSExaUy15M2dNSXZOdjM5N3RyZ0M1Wk80NG56WEZLSGlRQXFNY1RvWVNFMnpDTVJYZ0lEc2JoS3RuQ1E0WkFCa2FzNnkzdE",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjBYZk5rZ0NqMXFLS09ZWDB1NHdfbUpMQ203NDY3X2dQZTE2azN3cGZSMEZsWFdLQkJrVFRJaXZMRTUzUXl1dDFFclMzNTN4UHRFNWVhT1JSaWhTbDE5Q0FqRVEzSExaUy15M2dNSXZOdjM5N3RyZ0M1Wk80NG56WEZLSGlRQXFNY1RvWVNFMnpDTVJYZ0lEc2JoS3RuQ1E0WkFCa2FzNnkzdEdsQmxR?oc=5",
-      "score": 50.4,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
           "published": "Tue, 11 Aug 2026 18:50:06 GMT",
@@ -247,10 +107,130 @@
       ]
     },
     {
-      "id": "888acfeb600c",
-      "title": "Cruise fee doubles at vacation hot spot as passengers brace for even steeper hikes - Fox News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXRzeDZIUmVWYm1sNmpqTnBmUk11Zlo3OGp3Y0VuWTlJSHJ0ZkZiOVR2d1paYU9WNUM3czEyMjY4dkJWajJhRnA1a1lGcUcyekVzamg3X2wxRHV2V3dxMGJrMGlJUU1wQ2FWUGRLZFM3MEZjT1pmaUNfUldUMy1QeXRtbHlYU0pYU2lLUXlEcHF0TE9hRlRaMTd3ZnFsQTJNUFgtNmJR0gGrAU",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXRzeDZIUmVWYm1sNmpqTnBmUk11Zlo3OGp3Y0VuWTlJSHJ0ZkZiOVR2d1paYU9WNUM3czEyMjY4dkJWajJhRnA1a1lGcUcyekVzamg3X2wxRHV2V3dxMGJrMGlJUU1wQ2FWUGRLZFM3MEZjT1pmaUNfUldUMy1QeXRtbHlYU0pYU2lLUXlEcHF0TE9hRlRaMTd3ZnFsQTJNUFgtNmJR0gGrAUFVX3lxTE9oRHUxYTZIVGpseTJUUTVqMWNHdXR4ZDFQS2hDWnY4ZnpCUVUyX1NLTlVFWHd4OWdKejlOQUlvVDY4WWdXYkh4bERlNGZNNnVUWDVSdjJrRTE1ckJvRVRlY2tkaEg2ZENJUFRHVmJIVkVJZzhvUUd6NTEwckJYWm5pQWVpcEFKQmQ4ekN4UEZWd3RySTZzZVhWR1ZrX19yZkNtczFNQXdjdkxlMA?oc=5",
+      "id": "2ffce72532f2",
+      "title": "Virginia sees 4th straight year for record tourism growth - 13newsnow.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMk1mT3RTbWdsdUp4VGpod2Q3dG9OYW1tM2ZxdlFLWlZiT1BqSE9pUVZ3VDJ5X2x6Vm1zVUtISXJ0U3g2cGY2UEFfa3JsYkRZRkdxOVRCYXg2MmwzcHp2NFFQcXhIMFRBck94cXV5anpiaFZrUFltcmlYektHOElWcVpoMG1mN0xuWU5aN3BhZVYzUjEweEc3WmlIWEpQLVBaUHFBMDM1NVpiX2",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMk1mT3RTbWdsdUp4VGpod2Q3dG9OYW1tM2ZxdlFLWlZiT1BqSE9pUVZ3VDJ5X2x6Vm1zVUtISXJ0U3g2cGY2UEFfa3JsYkRZRkdxOVRCYXg2MmwzcHp2NFFQcXhIMFRBck94cXV5anpiaFZrUFltcmlYektHOElWcVpoMG1mN0xuWU5aN3BhZVYzUjEweEc3WmlIWEpQLVBaUHFBMDM1NVpiX2VRVDBOdmwzUGlzV25QUzBBQWdfb3NfdWt1RE82ZGlOWnZ2ZTBVdEhIR3RwOWQxWFl5bzRreXJzNUc1amc?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-12T02:38:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 23:04:00 GMT",
+          "source": "13newsnow.com"
+        }
+      ]
+    },
+    {
+      "id": "00dbb3d49594",
+      "title": "Buc-ee’s wants to build a travel center store in Iowa - WOWT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnpwenRDUjFnNUhBdW9hZHBVWEhqb2ptanNoTGplbzdWT0tsbDFZWkFLNXBLbzVLbzFqVjlfVzA2V2xFam0wU3lNTTdLeVZrdUpncUMwNDBDNU9EaWcwc1puNnF5b0xVT3E3ZVduOEZwQ2Q4SHF1TkxPOW1seGlqLW9oWQ?oc=5\" target=\"_blank\">Buc-ee’s wants to build a tra",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnpwenRDUjFnNUhBdW9hZHBVWEhqb2ptanNoTGplbzdWT0tsbDFZWkFLNXBLbzVLbzFqVjlfVzA2V2xFam0wU3lNTTdLeVZrdUpncUMwNDBDNU9EaWcwc1puNnF5b0xVT3E3ZVduOEZwQ2Q4SHF1TkxPOW1seGlqLW9oWQ?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-12T02:38:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 20:52:00 GMT",
+          "source": "WOWT"
+        }
+      ]
+    },
+    {
+      "id": "c6c066aecb98",
+      "title": "Travel Tuesday: Travel tips you wish you knew sooner - WTNH.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNalRwcVJyQkdtYWt0ZzY2NTI4WUh2NGt0eWtqdGVvU0F5SFljVHFMMlM5U0diZkFQUzZsbUFmSVY2M2tPR1VBOWUxc0FNSzBTdEY0VDI4aFFzQ1g4VmtrN2dudHlaZ2w1ck1hcjI4d2FSZVFvZlpCTll4NmV0TW5EVzNHZDdRWDEwYzNlWW1YU3N0d9IBlwFBVV95cUxNOV9DZnVlc1pFcnFVaV",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalRwcVJyQkdtYWt0ZzY2NTI4WUh2NGt0eWtqdGVvU0F5SFljVHFMMlM5U0diZkFQUzZsbUFmSVY2M2tPR1VBOWUxc0FNSzBTdEY0VDI4aFFzQ1g4VmtrN2dudHlaZ2w1ck1hcjI4d2FSZVFvZlpCTll4NmV0TW5EVzNHZDdRWDEwYzNlWW1YU3N0d9IBlwFBVV95cUxNOV9DZnVlc1pFcnFVaVNFTjVyNmlPa0JJT0JWaVA1SjJtTTNIdGx6N2Z1OEVLNFVCUVpPY2JQSlhndDl6NzhTSmpzYWhXaVNNQ3lXeWhBQV82TC1nMDAxSEdYZkowMlZ2a1BNenVZYmNxRWJnNVl5Sld5OUwyUGJnaW1WZ1ZYbElNNjIyUmZObUpTRjkzVUJv?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-12T02:38:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 20:56:59 GMT",
+          "source": "WTNH.com"
+        }
+      ]
+    },
+    {
+      "id": "04ed43f5f28f",
+      "title": "Message for U.S. Citizens: U.S. Embassy Madrid, Spain – Solar Eclipse and Travel Disruptions on August 12 - es.usembassy.gov",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1BhcGxOaEtaVEtUcmc5RkF0N29ZbU0telZpTm5aTURkNVBYMnpJU1FXSUpKSWRNalNJM3Z5YkxhS3h0TzNlYllEVURGZ2toVC1ZT1hCOTZsaWg1dzNpeXV4WFVla25pRnlPdTFybXk3Nlc3bGNUM1FkLWNIcDM5WDdFN0RnQjN0ZUYzRnM5WVlNLW9vZERCU2RqaGhTSFkwMnVkcXlteUtZaG",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1BhcGxOaEtaVEtUcmc5RkF0N29ZbU0telZpTm5aTURkNVBYMnpJU1FXSUpKSWRNalNJM3Z5YkxhS3h0TzNlYllEVURGZ2toVC1ZT1hCOTZsaWg1dzNpeXV4WFVla25pRnlPdTFybXk3Nlc3bGNUM1FkLWNIcDM5WDdFN0RnQjN0ZUYzRnM5WVlNLW9vZERCU2RqaGhTSFkwMnVkcXlteUtZaGd2WEpEYXlaQ3V1eF9DXzRVSTJScHpfTkU?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-12T02:38:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 12 Aug 2026 00:12:47 GMT",
+          "source": "es.usembassy.gov"
+        }
+      ]
+    },
+    {
+      "id": "fd2475cbc29d",
+      "title": "Solar eclipse is Europe’s star tourism magnet - Morning Brew",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUdTS1FqNGVUSjFZd0M3ZUt0Skt1bDdGbUtRelJGY0J0UHZ0ajNBNm9XU1NxNzlrY2hYaFU2TkNSZjQ0MkZ5NksxeGd2enFlcDdVQTFiWnctemlrdV8xZmdEclp0dGExbVZTdG1pdDlsT283TU9wV2JxMnJfYnQ4OUdOMktmNkE?oc=5\" target=\"_blank\">Solar eclipse is Europe’",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUdTS1FqNGVUSjFZd0M3ZUt0Skt1bDdGbUtRelJGY0J0UHZ0ajNBNm9XU1NxNzlrY2hYaFU2TkNSZjQ0MkZ5NksxeGd2enFlcDdVQTFiWnctemlrdV8xZmdEclp0dGExbVZTdG1pdDlsT283TU9wV2JxMnJfYnQ4OUdOMktmNkE?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-12T02:38:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 23:58:51 GMT",
+          "source": "Morning Brew"
+        }
+      ]
+    },
+    {
+      "id": "3e3bfd432c3e",
+      "title": "Virginia tourism hits record $36.2 billion - WWBT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGlGTHdkV2g4SzNyVmhZUGN5YTFrVWdZQnNnVWZnLU5pSXFyQXk3TE4xMUt2SlhycENnRlhXTGJITkFMRzhYTzZNTVEwMGtGN3VZd1NPWVFLNzNTbnhsNjkxNmlybVVyNXJ3Y3c0QjdBSEdkTElYdE9EMEVHRFptM3NDd2d5S3hv0gGcAUFVX3lxTE9ZTlRSWTdvcTBQRVNVMERwang0NU93Tk",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGlGTHdkV2g4SzNyVmhZUGN5YTFrVWdZQnNnVWZnLU5pSXFyQXk3TE4xMUt2SlhycENnRlhXTGJITkFMRzhYTzZNTVEwMGtGN3VZd1NPWVFLNzNTbnhsNjkxNmlybVVyNXJ3Y3c0QjdBSEdkTElYdE9EMEVHRFptM3NDd2d5S3hv0gGcAUFVX3lxTE9ZTlRSWTdvcTBQRVNVMERwang0NU93Tkp2aURMZWJ2TFp4Zkh5aGZ5bFhmUENpN0JmdUZnendhTFE0Vmpxcm1TbDMxRHRXZ2d4WUZUWnNIbXhoMWEyVGpkbVhFY0NpeHhsVkZabzlVLUdzbTV1WlQ3YlJuNkJ0a2tyb3VuUlMwdm1RWG50SVJoWkgwV1hOTm5NWTY2Qg?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-12T02:38:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 19:43:00 GMT",
+          "source": "WWBT"
+        }
+      ]
+    },
+    {
+      "id": "c8946e93dbb5",
+      "title": "Vikings Open Season against In-State Power Oregon Thursday, Travel to UNLV Sunday - Portland State University Athletics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jb1R0cFU1LVpfNEE5eEppa0dlTEcyeDRrYVRQZ1h4d0licDl5SDZWOTlOOWpvQ1B2elIwVy1DejhncDRKNExFY0FOaHpkYnRNbWEwbjFXZ2VPVElubW5YVjhB?oc=5\" target=\"_blank\">Vikings Open Season against In-State Power Oregon Thursday, Travel to UNLV ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jb1R0cFU1LVpfNEE5eEppa0dlTEcyeDRrYVRQZ1h4d0licDl5SDZWOTlOOWpvQ1B2elIwVy1DejhncDRKNExFY0FOaHpkYnRNbWEwbjFXZ2VPVElubW5YVjhB?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 12:00:43 GMT",
-          "source": "Fox News"
+          "published": "Tue, 11 Aug 2026 22:09:32 GMT",
+          "source": "Portland State University Athletics"
         }
       ]
     },
     {
-      "id": "70db0671df76",
-      "title": "This Flight Attendant’s Unusual Water Bottle Trick Could Give You Peace of Mind in Your Hotel Room - Travel + Leisure",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNTk5VY3VtWWphem94LWpqY2tBNlNpbFVPcUJoYUhmNzN5bFZnSk0tWGlTOW15WHFKZGxLYXN3NTVXMWdTSFoyN3lFQlZGVU0xZ25mQXNCdDluUWptWnJEdHliS0JsQkhVeExoZm9uOWpVbXJONDBYSms4aWdGcVlveTlJd24yU00?oc=5\" target=\"_blank\">This Flight Attendant’s ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTk5VY3VtWWphem94LWpqY2tBNlNpbFVPcUJoYUhmNzN5bFZnSk0tWGlTOW15WHFKZGxLYXN3NTVXMWdTSFoyN3lFQlZGVU0xZ25mQXNCdDluUWptWnJEdHliS0JsQkhVeExoZm9uOWpVbXJONDBYSms4aWdGcVlveTlJd24yU00?oc=5",
+      "id": "5b9f0feffeeb",
+      "title": "Las Vegas tourism officials outline impacts of rising airfares and fuel costs - FOX5 Vegas",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQngzTmZPbk1XNk50TEt3S3ZMM2JYMndmLUN5ZWlscHJDZlp2N1kzaWVnU3dRQVN0THRZSnd4d1F4OEkxeFhEYnRzZ29BTE1wbGpzQTRxdExhTWxtZzhYbzJmXzdValBVNGwzNUFGQmFRQmJYWUNmSk5RTE9MUmxvaXpPYVQybklXanNiMG12UFVyOUdXazZZRExwd2tmbGF2NEppU3d3WGFkUn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQngzTmZPbk1XNk50TEt3S3ZMM2JYMndmLUN5ZWlscHJDZlp2N1kzaWVnU3dRQVN0THRZSnd4d1F4OEkxeFhEYnRzZ29BTE1wbGpzQTRxdExhTWxtZzhYbzJmXzdValBVNGwzNUFGQmFRQmJYWUNmSk5RTE9MUmxvaXpPYVQybklXanNiMG12UFVyOUdXazZZRExwd2tmbGF2NEppU3d3WGFkUnBO0gHAAUFVX3lxTE1JaE9mQk9hWTRpNUpjckdQNU9Kb3FSWmttZlUyelRaSWFSSThVcDJfdHJGd3dPZm9HM1VPbkQ5aElKWEg2U1pUSkplT2RfTkVOQ05yRTZKOHZCa3VzLWc1ZlpSQVktY21fXzE2ZFloUFRZczZvR1diRXpiUnlFTnF3Sm5IdjVRVHJ0Mm13X3ZUU0lmN0QwOU5XZVJmaXRmaGkyd3pYMENCc0YxMlRBa243TzgxLUZPTFVHOVlsU1c4NQ?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +258,43 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 13:44:00 GMT",
-          "source": "Travel + Leisure"
+          "published": "Tue, 11 Aug 2026 23:44:00 GMT",
+          "source": "FOX5 Vegas"
+        },
+        {
+          "published": "Tue, 11 Aug 2026 23:16:00 GMT",
+          "source": "FOX5 Vegas"
         }
       ]
     },
     {
-      "id": "4b6e83d5a099",
-      "title": "13 eerie travel experiences worth planning a trip around this fall - Yahoo Creators",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnFfbko4TzNSRkZEQlc1eHpaSUZmVmVMTFQwc3JzUGlwbmNtMFRLNXdmNDJXY2V6YnY4cXNhWW1FVlhxVWw3NEtYSTVlbExNZ3JNbUhrSmhvTUdBcXQ1T01RUWNyUnFpeG5UUDVFc1hpTWFydFM0UjRkTnhMWkhCUTVYa2VXVTNVNkN5OEdEaURrZXl5R0xsLUlpSm1TQmRjdHhVSnllQjg1ZD",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnFfbko4TzNSRkZEQlc1eHpaSUZmVmVMTFQwc3JzUGlwbmNtMFRLNXdmNDJXY2V6YnY4cXNhWW1FVlhxVWw3NEtYSTVlbExNZ3JNbUhrSmhvTUdBcXQ1T01RUWNyUnFpeG5UUDVFc1hpTWFydFM0UjRkTnhMWkhCUTVYa2VXVTNVNkN5OEdEaURrZXl5R0xsLUlpSm1TQmRjdHhVSnllQjg1ZDQtREpjNHZ6S2dVQ2R4LUZpVHZaRWttdw?oc=5",
+      "id": "6d6b191857c9",
+      "title": "Gov. Spanberger announces fourth consecutive record-breaking year for tourism - WSLS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMU0tR1dhSlBqZDI2bDJZNTdWa0ZTbDZPR2x0RER2V0NLT1dsaUw4MThOWi05cXB0UnpMdFJPY3haYXdnbWpIcEFpX2tqanEzRTBpbDVXdW5uNGExQm42b1BLTDJ6cDVLWlgxUlBEUUNVWEMzQTRfczZ2MENsQ0FMaGhxYW5lT1A4bDdwUER0cjlTVGdWbDlVVEtOYnVZWVMwMkpWMTlpNy1lcG",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMU0tR1dhSlBqZDI2bDJZNTdWa0ZTbDZPR2x0RER2V0NLT1dsaUw4MThOWi05cXB0UnpMdFJPY3haYXdnbWpIcEFpX2tqanEzRTBpbDVXdW5uNGExQm42b1BLTDJ6cDVLWlgxUlBEUUNVWEMzQTRfczZ2MENsQ0FMaGhxYW5lT1A4bDdwUER0cjlTVGdWbDlVVEtOYnVZWVMwMkpWMTlpNy1lcGs5V3ZybDNXbXJYLTFmaG9fbg?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-12T02:38:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 19:20:43 GMT",
+          "source": "WSLS"
+        }
+      ]
+    },
+    {
+      "id": "1b2ea8006b7b",
+      "title": "Mayor Mamdani’s wife, Rama Duwaji, to travel to Syria, Lebanon without NYPD detail - New York Daily News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0psNW4wMGc3dGQ0MmVjbUdWdEJhUU5oUE1uY1JCYm5sY3hXTzdvcnhJOHdKNlJ3alY3cVRSMVNwZFpiOXgyR3Q3RThkRTZwY1h2d2dtc1U2MXhDaHhvb2VhRmVIdGxPMnhaUEZ0ck9XQU1ySDVrSVJtMEw1a2tCdWxnLVk1cXBfNm53TGxDWFBMSm15YTZyX2tSVnhGSkVaSU1tREp5bTdlVl",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0psNW4wMGc3dGQ0MmVjbUdWdEJhUU5oUE1uY1JCYm5sY3hXTzdvcnhJOHdKNlJ3alY3cVRSMVNwZFpiOXgyR3Q3RThkRTZwY1h2d2dtc1U2MXhDaHhvb2VhRmVIdGxPMnhaUEZ0ck9XQU1ySDVrSVJtMEw1a2tCdWxnLVk1cXBfNm53TGxDWFBMSm15YTZyX2tSVnhGSkVaSU1tREp5bTdlVldNWGN2ZUFfUTFGRVgzcXQxZzRzQQ?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +302,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 14:17:01 GMT",
-          "source": "Yahoo Creators"
+          "published": "Tue, 11 Aug 2026 20:48:50 GMT",
+          "source": "New York Daily News"
         }
       ]
     },
     {
-      "id": "5ee21d4d0f3a",
-      "title": "Canadian Travel to the U.S. Ticks Up Again — But Still Far from a Full Recovery - Skift",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2FNT1VhU1piZXBEcHVJRGoyZXZiTWZlcFJNRy1UbU1LdXUzZ2ZtMjVuQzVtWFB1Yi1nTnBSUjFmUkVrdHlFUXJoaDJITFpydkFuNlhCVlBDRnlXNEREQmZyQUZ5cGhhWU40UzFBdWR6aTZES2xEZWtDVHgxaDJHcnZkRE9kdmg0RVB2NlVrNFB1bUtDV1IzcVExYjFhVy01Zjk3a0c2S0RhZw",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2FNT1VhU1piZXBEcHVJRGoyZXZiTWZlcFJNRy1UbU1LdXUzZ2ZtMjVuQzVtWFB1Yi1nTnBSUjFmUkVrdHlFUXJoaDJITFpydkFuNlhCVlBDRnlXNEREQmZyQUZ5cGhhWU40UzFBdWR6aTZES2xEZWtDVHgxaDJHcnZkRE9kdmg0RVB2NlVrNFB1bUtDV1IzcVExYjFhVy01Zjk3a0c2S0RhZw?oc=5",
+      "id": "b5efdc3d4e70",
+      "title": "United States Air Force Band of the West to travel across north Louisiana, east Texas - knoe.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUgtZUhfeTM0eXEtNjM5WnNMd1RlZXpkTVlZMWV1bGNqb3Y5cGtJNTJMSWpjMW0zUVF6SnBsLUlXcjFycWNHbDhlUzkxd2E3eldscmNmS09uUWRpc21tQ2dlTmhfdHRoQ3ltM1ZzTktKZXZfQVl4OFZJcVNtNTY5aUVYT3JESlNTVmRwSFFCZGpNVDZGNjQwVXBMTDZTUm00cXJZd0tDbnlmRD",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUgtZUhfeTM0eXEtNjM5WnNMd1RlZXpkTVlZMWV1bGNqb3Y5cGtJNTJMSWpjMW0zUVF6SnBsLUlXcjFycWNHbDhlUzkxd2E3eldscmNmS09uUWRpc21tQ2dlTmhfdHRoQ3ltM1ZzTktKZXZfQVl4OFZJcVNtNTY5aUVYT3JESlNTVmRwSFFCZGpNVDZGNjQwVXBMTDZTUm00cXJZd0tDbnlmRDQ?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +322,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 17:44:08 GMT",
-          "source": "Skift"
+          "published": "Tue, 11 Aug 2026 22:25:00 GMT",
+          "source": "knoe.com"
         }
       ]
     },
     {
-      "id": "2739ab91950f",
-      "title": "Spanberger announced 2025 tourism spending hit $36.2 billion in Virginia - WVVA",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ25YcWliS25XOWZHUVpiU3FQSkk1QmxrQzhENG1adU1yU3dWLUVTdEhjd0dPVml1U2JVcW9WaExwQTdhTTUzUl9RM2RVQUxzX01NMElSUC04bTZlMmNqSTZIOXNSaXFMN19BN1hRQmJYYnozTDdHT0hMTGRDYzg1TEZMWGxvQmozajBmVTBSYUJHay1nRFEyQXllSnpJSVVoTUHSAbYBQVVfeX",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ25YcWliS25XOWZHUVpiU3FQSkk1QmxrQzhENG1adU1yU3dWLUVTdEhjd0dPVml1U2JVcW9WaExwQTdhTTUzUl9RM2RVQUxzX01NMElSUC04bTZlMmNqSTZIOXNSaXFMN19BN1hRQmJYYnozTDdHT0hMTGRDYzg1TEZMWGxvQmozajBmVTBSYUJHay1nRFEyQXllSnpJSVVoTUHSAbYBQVVfeXFMTUtYSHZHXzEtYmQ0VVBzbUhHXzEyUVJVOWJfVURZNzVwZUZGazdHekpjMGE0ZFJub285WE9xSlpYU0tSc3hyNkMwOWFrUlZqazVxdktqemRqTTBQOTNDVThXZUZlU3AwWTVjSjhfY0ZuQnlpeUNmaUszMHVWRmNIZDQzOUFpcjFjdHEtZlVMSm5FT1FIcFhyZ0ZjVm1UeUx1ZWg3NnNFV1dHWnp3ZkhkTUxtdVFoalE?oc=5",
+      "id": "4ad8ac444798",
+      "title": "Prices Are Rising, but a Vacation is Not Out of Reach, CSUN Tourism Expert Says - CSUN Newsroom",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2Y0ZlpfQ2V6ZU1tcUktblB2M09Kc09pN3NzS1JrRl82Y1NndmUtMVF6NC15SE0tOE1fbDFqQlFQa0pHZFNXa0dCNkdOUURER19SS2F0QktQSTF2T2V0SUdEWGg5WThHWU5IaV96bHQ5N2ZEdUxXMElKSUdEUFhsSXhyZ25ybkt6el92SVA3UVpRbzlsb1ctNkZBUlkzN0pvRmF3bzlDREZ6UH",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2Y0ZlpfQ2V6ZU1tcUktblB2M09Kc09pN3NzS1JrRl82Y1NndmUtMVF6NC15SE0tOE1fbDFqQlFQa0pHZFNXa0dCNkdOUURER19SS2F0QktQSTF2T2V0SUdEWGg5WThHWU5IaV96bHQ5N2ZEdUxXMElKSUdEUFhsSXhyZ25ybkt6el92SVA3UVpRbzlsb1ctNkZBUlkzN0pvRmF3bzlDREZ6UHhpemlUVExIaThydw?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +342,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 15:29:00 GMT",
-          "source": "WVVA"
+          "published": "Tue, 11 Aug 2026 16:52:56 GMT",
+          "source": "CSUN Newsroom"
         }
       ]
     },
     {
-      "id": "7f7519d5ffbe",
-      "title": "Famed tourist destinations evacuated as wildfire threatens California’s Big Sur - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVpKeDJnV3lXSnVqc3NScTlyOWFaNHVoTXpzZGJmNll1WE1nOHBLMFlJX1FHdlJodHQxaUZ5bkE5bG05WTBWaGtDZ1pkd3JqRUFrakVtdzYtWnRmb2NJbGNGNkpVQUJfczc5SS1Hekk3V2lGMUwtcmctRVhGWWVpOFB5ZDVhUQ?oc=5\" target=\"_blank\">Famed tourist destination",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVpKeDJnV3lXSnVqc3NScTlyOWFaNHVoTXpzZGJmNll1WE1nOHBLMFlJX1FHdlJodHQxaUZ5bkE5bG05WTBWaGtDZ1pkd3JqRUFrakVtdzYtWnRmb2NJbGNGNkpVQUJfczc5SS1Hekk3V2lGMUwtcmctRVhGWWVpOFB5ZDVhUQ?oc=5",
+      "id": "9b0e925a2260",
+      "title": "State Tourism Spending Reached Record $36.2 Billion in 2025 - WDBJ7",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPeENTWW5LMXFmTUtlMDlENXVLbXRpV2ZYX1o2SXY1R1RwRlpRdWEyV18zaHgxeGZ4bnE0U0t0elFJTDA3Q3A4eGRLVFZSbXlTOXJRRVY3aUNUaFg0WlVkNm41NXdLYXpYZnhENTV4MUJLbFVFX1pjWnh2MVVBWVhWbmxBbVFmZGZsV2FXbzNHSjE5WnNzQVRObnBn?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeENTWW5LMXFmTUtlMDlENXVLbXRpV2ZYX1o2SXY1R1RwRlpRdWEyV18zaHgxeGZ4bnE0U0t0elFJTDA3Q3A4eGRLVFZSbXlTOXJRRVY3aUNUaFg0WlVkNm41NXdLYXpYZnhENTV4MUJLbFVFX1pjWnh2MVVBWVhWbmxBbVFmZGZsV2FXbzNHSjE5WnNzQVRObnBn?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +362,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 13:53:00 GMT",
-          "source": "The Guardian"
+          "published": "Tue, 11 Aug 2026 22:27:00 GMT",
+          "source": "WDBJ7"
         }
       ]
     },
     {
-      "id": "b3babcf1f265",
-      "title": "Holy Land: When simple travel becomes an ordeal - Independent Catholic News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0LXNqbEVqUUlEamRSZTV3MGYySTY0TlFybHpLbXE0TkVYNkNkeDB0XzdXR1hwakJIdXl1bk5SbFlqUFhRVmRBQmdmLW92ZTdyM3kydw?oc=5\" target=\"_blank\">Holy Land: When simple travel becomes an ordeal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Independ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0LXNqbEVqUUlEamRSZTV3MGYySTY0TlFybHpLbXE0TkVYNkNkeDB0XzdXR1hwakJIdXl1bk5SbFlqUFhRVmRBQmdmLW92ZTdyM3kydw?oc=5",
+      "id": "bd82b7afbacf",
+      "title": "Before Trump’s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3EzMjFZX2ZVbmFSYVo2VTQ0Y2RUS0o5U0tOUGNPWXFGcmE4bXdRanUyMF9OVTBXbVg2TzlGaVBaTXlFTFN3MUt1WE0teVplemwtMWYzU2laS1pHSnNzdnppeUpfdkxabDBTZVVMX1lpaHRobm9NeV9kdnl0Ty13MVJrLVJqMjA2N1dFYmY2RTdlM21CVkZQag?oc=5\" target=\"_blank\">B",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3EzMjFZX2ZVbmFSYVo2VTQ0Y2RUS0o5U0tOUGNPWXFGcmE4bXdRanUyMF9OVTBXbVg2TzlGaVBaTXlFTFN3MUt1WE0teVplemwtMWYzU2laS1pHSnNzdnppeUpfdkxabDBTZVVMX1lpaHRobm9NeV9kdnl0Ty13MVJrLVJqMjA2N1dFYmY2RTdlM21CVkZQag?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,27 +382,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 16:16:54 GMT",
-          "source": "Independent Catholic News"
-        }
-      ]
-    },
-    {
-      "id": "3d20624660d1",
-      "title": "3 Presidents Before Trump Who Obscured Their Risky Travel Plans - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3EzMjFZX2ZVbmFSYVo2VTQ0Y2RUS0o5U0tOUGNPWXFGcmE4bXdRanUyMF9OVTBXbVg2TzlGaVBaTXlFTFN3MUt1WE0teVplemwtMWYzU2laS1pHSnNzdnppeUpfdkxabDBTZVVMX1lpaHRobm9NeV9kdnl0Ty13MVJrLVJqMjA2N1dFYmY2RTdlM21CVkZQag?oc=5\" target=\"_blank\">3",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3EzMjFZX2ZVbmFSYVo2VTQ0Y2RUS0o5U0tOUGNPWXFGcmE4bXdRanUyMF9OVTBXbVg2TzlGaVBaTXlFTFN3MUt1WE0teVplemwtMWYzU2laS1pHSnNzdnppeUpfdkxabDBTZVVMX1lpaHRobm9NeV9kdnl0Ty13MVJrLVJqMjA2N1dFYmY2RTdlM21CVkZQag?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-11T19:16:12+00:00",
+      "first_seen": "2026-08-12T02:38:55+00:00",
       "raw_samples": [
         {
           "published": "Tue, 11 Aug 2026 16:03:08 GMT",
