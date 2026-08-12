@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "global",
-  "generated_at": "2026-08-12T13:48:02+00:00",
+  "generated_at": "2026-08-12T19:24:38+00:00",
   "cache_ttl_hours": 6,
-  "count": 3,
+  "count": 2,
   "trends": [
     {
       "id": "d6b85af5c191",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:26+00:00",
+      "first_seen": "2026-08-12T19:17:58+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -40,7 +40,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:26+00:00",
+      "first_seen": "2026-08-12T19:17:58+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -53,28 +53,6 @@
           "channel_title": "Binging with Babish",
           "video_id": "yjvqi-0slTA",
           "published": "2026-08-06T21:30:15+00:00"
-        }
-      ]
-    },
-    {
-      "id": "90b5f1fb9e54",
-      "title": "How to make the iconic \"looney cake\" from Succession",
-      "summary": null,
-      "url": "https://www.youtube.com/shorts/84xHDfPe5kE",
-      "score": 78.1,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-08-12T13:41:26+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "84xHDfPe5kE",
-          "published": "2026-07-29T19:00:04+00:00"
         }
       ]
     }

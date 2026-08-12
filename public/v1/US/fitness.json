@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "US",
-  "generated_at": "2026-08-12T13:48:02+00:00",
+  "generated_at": "2026-08-12T19:24:38+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "c1a65fd4888b",
-      "title": "Fitness focused, mission ready: NASIC boosts readiness with wing run - nasic.af.mil",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2lrSGc0SVFaYUVmMjVBMkhBU0ZmVzdrVFp1cGU5Q2Y2dmxEeGRNWUs4eWRiN3NyOVVwOWdrR1l2LUJwbFdRYUlsNml4cERsYjdXTnczOFlFeXdiVUhsYjlGUy1sNDFmSktTY3FKeXhhSmRITW1hc29reURsQldKRFNrc0Z0SkNhd3YtVUJlOExSLUxSTk9ZYzh5OHdsbzJ3MTBRelk5LWhWVn",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2lrSGc0SVFaYUVmMjVBMkhBU0ZmVzdrVFp1cGU5Q2Y2dmxEeGRNWUs4eWRiN3NyOVVwOWdrR1l2LUJwbFdRYUlsNml4cERsYjdXTnczOFlFeXdiVUhsYjlGUy1sNDFmSktTY3FKeXhhSmRITW1hc29reURsQldKRFNrc0Z0SkNhd3YtVUJlOExSLUxSTk9ZYzh5OHdsbzJ3MTBRelk5LWhWVnZLaThUTUZINTZnMm15NlZjTWNTUkNFcmxxRURTbA?oc=5",
+      "id": "28db1c3f8020",
+      "title": "Workout Wednesday: Building strength in your hands - ABC30 Fresno",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5IWU9Jd0dWTy1YanFlUlhVZ3lDUlA3LVJrMzVlUTRuMUZ1X0lseXl3ZnZpNXdnNTNoZzE3bVFOTDR4RDZpTEd1NzB5SVpzSUJ0OXkybEVhMlZkMjBRdEhWaUtFR0lLanppeF8wbFdfZ3pXbjdyUzctMG5lam1tZ1XSAYQBQVVfeXFMUGJsMWFMQXBwYmcwTUVFazZyc0d6R0dNWEg3N3lXQk5xOH",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IWU9Jd0dWTy1YanFlUlhVZ3lDUlA3LVJrMzVlUTRuMUZ1X0lseXl3ZnZpNXdnNTNoZzE3bVFOTDR4RDZpTEd1NzB5SVpzSUJ0OXkybEVhMlZkMjBRdEhWaUtFR0lLanppeF8wbFdfZ3pXbjdyUzctMG5lam1tZ1XSAYQBQVVfeXFMUGJsMWFMQXBwYmcwTUVFazZyc0d6R0dNWEg3N3lXQk5xOHc2RjFQTG9YY08zNzZjU2F6RE9LWjBlLUZSVVhlSlNSbjhDbThCMUFHaHR1NkJUcVRJUU9qRGxrOEVuNWNRVTJmVHlPY0s1T0tQWkFiOVBaUVZsSkQ1UXlVSlhY?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
+      "first_seen": "2026-08-12T19:15:27+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 12 Aug 2026 13:08:51 GMT",
+          "source": "ABC30 Fresno"
+        }
+      ]
+    },
+    {
+      "id": "c1a65fd4888b",
+      "title": "Fitness focused, mission ready: NASIC boosts readiness with wing run - nasic.af.mil",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2lrSGc0SVFaYUVmMjVBMkhBU0ZmVzdrVFp1cGU5Q2Y2dmxEeGRNWUs4eWRiN3NyOVVwOWdrR1l2LUJwbFdRYUlsNml4cERsYjdXTnczOFlFeXdiVUhsYjlGUy1sNDFmSktTY3FKeXhhSmRITW1hc29reURsQldKRFNrc0Z0SkNhd3YtVUJlOExSLUxSTk9ZYzh5OHdsbzJ3MTBRelk5LWhWVn",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2lrSGc0SVFaYUVmMjVBMkhBU0ZmVzdrVFp1cGU5Q2Y2dmxEeGRNWUs4eWRiN3NyOVVwOWdrR1l2LUJwbFdRYUlsNml4cERsYjdXTnczOFlFeXdiVUhsYjlGUy1sNDFmSktTY3FKeXhhSmRITW1hc29reURsQldKRFNrc0Z0SkNhd3YtVUJlOExSLUxSTk9ZYzh5OHdsbzJ3MTBRelk5LWhWVnZLaThUTUZINTZnMm15NlZjTWNTUkNFcmxxRURTbA?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-08-12T19:15:27+00:00",
       "raw_samples": [
         {
           "published": "Wed, 12 Aug 2026 12:43:36 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "28db1c3f8020",
-      "title": "Workout Wednesday: Building strength in your hands - ABC30 Fresno",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5IWU9Jd0dWTy1YanFlUlhVZ3lDUlA3LVJrMzVlUTRuMUZ1X0lseXl3ZnZpNXdnNTNoZzE3bVFOTDR4RDZpTEd1NzB5SVpzSUJ0OXkybEVhMlZkMjBRdEhWaUtFR0lLanppeF8wbFdfZ3pXbjdyUzctMG5lam1tZ1XSAYQBQVVfeXFMUGJsMWFMQXBwYmcwTUVFazZyc0d6R0dNWEg3N3lXQk5xOH",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IWU9Jd0dWTy1YanFlUlhVZ3lDUlA3LVJrMzVlUTRuMUZ1X0lseXl3ZnZpNXdnNTNoZzE3bVFOTDR4RDZpTEd1NzB5SVpzSUJ0OXkybEVhMlZkMjBRdEhWaUtFR0lLanppeF8wbFdfZ3pXbjdyUzctMG5lam1tZ1XSAYQBQVVfeXFMUGJsMWFMQXBwYmcwTUVFazZyc0d6R0dNWEg3N3lXQk5xOHc2RjFQTG9YY08zNzZjU2F6RE9LWjBlLUZSVVhlSlNSbjhDbThCMUFHaHR1NkJUcVRJUU9qRGxrOEVuNWNRVTJmVHlPY0s1T0tQWkFiOVBaUVZsSkQ1UXlVSlhY?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 12 Aug 2026 13:08:07 GMT",
-          "source": "ABC30 Fresno"
-        }
-      ]
-    },
-    {
-      "id": "033ed1ba48e1",
-      "title": "See inside of VASA Fitness in Green Bay before grand opening - Green Bay Press-Gazette",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMVBUak9Fang2enJaMVFiWnVTVHQtSUpUUFE2bFVXeW9ESEwtTHhxVTFzSVBONDNzSjlNMmw3RWQxcG1scTVLclA0Wi01Y21oOURocDdqUEtjcWpuemNMZzZGblpnelYzTEFhNTFZMWJSWUpCX3M5U3dnYm91M2FITWRiYThxeHVJNTYyTkFwZXNZUUFMZ1NkcUNGU3dMX3pWZlk4Mnh3eWNNSW",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMVBUak9Fang2enJaMVFiWnVTVHQtSUpUUFE2bFVXeW9ESEwtTHhxVTFzSVBONDNzSjlNMmw3RWQxcG1scTVLclA0Wi01Y21oOURocDdqUEtjcWpuemNMZzZGblpnelYzTEFhNTFZMWJSWUpCX3M5U3dnYm91M2FITWRiYThxeHVJNTYyTkFwZXNZUUFMZ1NkcUNGU3dMX3pWZlk4Mnh3eWNNSW53M2tlMWU0dnN4dkNoSWdhMU1sQXdRU1pDZmE1bkNQWEhHX2V6ZXBr?oc=5",
+      "id": "3b33dfb79d55",
+      "title": "3 workout mistakes that are ruining your sleep - New York Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDBaTlk2ek11a3cxQmJUSDlLUEx0TUpTdmIxSGJWenZlNDBmWGxOcWFxNTNUOWM2Q1FkdW8xWlJMLWhETjNFYjE4b2lFWU9DaERBYmNMbC1tMHVKZW55UlpXS0ljUVBvQmExR1hxdzlBSWsyZnhXd2lwcWZZMFF3MVV6OXRXTUxaRUlsRg?oc=5\" target=\"_blank\">3 workout mistake",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDBaTlk2ek11a3cxQmJUSDlLUEx0TUpTdmIxSGJWenZlNDBmWGxOcWFxNTNUOWM2Q1FkdW8xWlJMLWhETjNFYjE4b2lFWU9DaERBYmNMbC1tMHVKZW55UlpXS0ljUVBvQmExR1hxdzlBSWsyZnhXd2lwcWZZMFF3MVV6OXRXTUxaRUlsRg?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,19 +58,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
+      "first_seen": "2026-08-12T19:15:27+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 12 Aug 2026 10:01:00 GMT",
-          "source": "Green Bay Press-Gazette"
+          "published": "Wed, 12 Aug 2026 18:33:00 GMT",
+          "source": "New York Post"
         }
       ]
     },
     {
-      "id": "8f42817dc6c8",
-      "title": "The rhythm of connection — inside Soca Fitness at City Park in Sunrise - local10.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2FjazNiZndKYjFjV0ZQS2RtY0JpdGJxQlk5a3BfYUVCdTBLQl9rQnVvQTRLRXlMNU81aWhrSDFPbjFaTW1pUWpYZVVUeGVkcUNhUlhXQkQ3LUlhN3hQNjBWTEtKc2djQXVwS25KcFdCc1ZaVmRjTWh4WU5UZG9EWkZZTHNGQjdsY3NVLVI4Z3BnQ3BmNVVoQ1lxbWZoTk8zTzAyQ1RXLXlLRW",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2FjazNiZndKYjFjV0ZQS2RtY0JpdGJxQlk5a3BfYUVCdTBLQl9rQnVvQTRLRXlMNU81aWhrSDFPbjFaTW1pUWpYZVVUeGVkcUNhUlhXQkQ3LUlhN3hQNjBWTEtKc2djQXVwS25KcFdCc1ZaVmRjTWh4WU5UZG9EWkZZTHNGQjdsY3NVLVI4Z3BnQ3BmNVVoQ1lxbWZoTk8zTzAyQ1RXLXlLRWtCNU54MW5CMA?oc=5",
+      "id": "a1c852b3e687",
+      "title": "New Folsom gym offers trainer-led classes for fitness beginners - Sacramento Bee",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPNkozcThoZl8wSnpQX3VBbTlQMV9qdkJNT3BWTmhUTTBOQU10eEFsMDZGZFB0UjhEMjNzMFF1d0huZ2JGbi1WelYyUDl0WDhPZW5kQ1pLX3NMRUYyU255Ym52cjk4M2ExZUgweFRjdmVqUkl1VEdBOW1ZcGJCRlFxTtIBgAFBVV95cUxNbExzdFBmM3dWOW5QS1RJQ3R3cjl5blp4b0RHS0Jkc3",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNkozcThoZl8wSnpQX3VBbTlQMV9qdkJNT3BWTmhUTTBOQU10eEFsMDZGZFB0UjhEMjNzMFF1d0huZ2JGbi1WelYyUDl0WDhPZW5kQ1pLX3NMRUYyU255Ym52cjk4M2ExZUgweFRjdmVqUkl1VEdBOW1ZcGJCRlFxTtIBgAFBVV95cUxNbExzdFBmM3dWOW5QS1RJQ3R3cjl5blp4b0RHS0Jkc3F0Vzc4dExhT3dKMGw1TWp0WnVvb3BWMzlZMF9ocjhMblkzX1ptUHdhYUxZd2hhY3VOdlJWaUFDdWNyS1Z6cmdzdnFCZ0JQOXI1dDlDSnVFT1J4Q3hDSWdaeg?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,19 +78,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
+      "first_seen": "2026-08-12T19:15:27+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 12 Aug 2026 11:13:48 GMT",
-          "source": "local10.com"
+          "published": "Wed, 12 Aug 2026 18:00:00 GMT",
+          "source": "Sacramento Bee"
         }
       ]
     },
     {
-      "id": "b75b43a40b24",
-      "title": "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills - Crunchbase News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGNoS2JYNlR0STJzSDJja0FZbmh6RWw5ZXJOMGRWdHV3cllfX2wycTVvdHhFSXFZQWVuR0VKOVBfT3otSFQwSWtlaTJONWN2Q0pfOFR0QWx0SzlGQjNQMkF0M0dRX2JMMTk0SDZzVUZ3VHFKbHFCb0tXT29YdnRodTAyYUUtd3BmVDhlakhuNEhNaE93X0dGeVJ2REt3bmM2d0tkWGdB?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGNoS2JYNlR0STJzSDJja0FZbmh6RWw5ZXJOMGRWdHV3cllfX2wycTVvdHhFSXFZQWVuR0VKOVBfT3otSFQwSWtlaTJONWN2Q0pfOFR0QWx0SzlGQjNQMkF0M0dRX2JMMTk0SDZzVUZ3VHFKbHFCb0tXT29YdnRodTAyYUUtd3BmVDhlakhuNEhNaE93X0dGeVJ2REt3bmM2d0tkWGdB?oc=5",
+      "id": "8bcf4d50d1e8",
+      "title": "10 Fitness gym to close Springfield location - Springfield Business Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0ZRVWViVXBobGhvZm1uZHNuQl9GMncxM28zZVZIdkxUM3BkV0JndE9UODFaNFNLbTlyaDVMT1I5VGRaWlVZc3BXdUtTVnFzcExIbUNGeERUWlRYMVpIRkh5WlRycGdDdmZhekhkbXBoRnM0QWsyZnFveTd3N1cwZA?oc=5\" target=\"_blank\">10 Fitness gym to close Springfie",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0ZRVWViVXBobGhvZm1uZHNuQl9GMncxM28zZVZIdkxUM3BkV0JndE9UODFaNFNLbTlyaDVMT1I5VGRaWlVZc3BXdUtTVnFzcExIbUNGeERUWlRYMVpIRkh5WlRycGdDdmZhekhkbXBoRnM0QWsyZnFveTd3N1cwZA?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +98,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
+      "first_seen": "2026-08-12T19:15:27+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 12 Aug 2026 11:00:21 GMT",
-          "source": "Crunchbase News"
+          "published": "Wed, 12 Aug 2026 16:16:58 GMT",
+          "source": "Springfield Business Journal"
         }
       ]
     },
     {
-      "id": "b1d12d1a3a08",
-      "title": "Silver Stars Fitness: Attention NYC Men & Women 60+: Struggling To Improve Your Balance & Feel Like You're At Risk For A Fall? New Balance & Fall Prevention Masterclass Scheduled for September 26th - West Side Rag",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxOWXE0ZzJuVi1UY3RldFRrLUZnaC1PWm04N0NQNEpxNVVsLUI4XzRGWnBaNUZBTDd4ekNiRXZWWVFleWhRZDVUbDJfb3pVb2hSbUNlMXFzS2hQWlZrazMxUWVpSEFqY2h5SkxHd29sZHVkZ0hsakQ4eVIxQktESlptZUwwdG5yUGxBTllBTXIwRWRDVFkzZWpqSGtxSjEzTlpSLU5rSU56RTZobX",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOWXE0ZzJuVi1UY3RldFRrLUZnaC1PWm04N0NQNEpxNVVsLUI4XzRGWnBaNUZBTDd4ekNiRXZWWVFleWhRZDVUbDJfb3pVb2hSbUNlMXFzS2hQWlZrazMxUWVpSEFqY2h5SkxHd29sZHVkZ0hsakQ4eVIxQktESlptZUwwdG5yUGxBTllBTXIwRWRDVFkzZWpqSGtxSjEzTlpSLU5rSU56RTZobXl3eUtRWTBveWxSZnlGMXoySkt6eDZKY2lqUGEtTWxXRkY0SWxuUnhVcllYYXRDMXdOaWRTUGZQN081NnBjdHdRRnYxWEVjYmdBSnlhbHRGa2FTUlA2eFdkYkRwUk5zMkZKMDdURjUxQnFvbXZ2ZngzNzlBcm0xeUZHc0lLYjdvNEcyU1YwNllPcy1Rc0RaQ1ltQ0E?oc=5",
+      "id": "871bd8ca1ad9",
+      "title": "Why Princess Diana swore by this surprising food before the gym - HOLA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkVZOFo5Z1I3RGRSSVlZWkRlYWp2ZE5MQ3dhR3J4VlhjUkFxZmFHTFlTY0VKMkpUNFNTMEtPdko2QTNMbURiX3hzTm4wc2JnaTJzMHF6OGxOYmxZa2FST2pDLXh6OEQwXzVSTWt6bjlnU1VOVHVHblVjck1VOUpIVkNOSGZTcElsM05JRWppdlRIUQ?oc=5\" target=\"_blank\">Why Princ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkVZOFo5Z1I3RGRSSVlZWkRlYWp2ZE5MQ3dhR3J4VlhjUkFxZmFHTFlTY0VKMkpUNFNTMEtPdko2QTNMbURiX3hzTm4wc2JnaTJzMHF6OGxOYmxZa2FST2pDLXh6OEQwXzVSTWt6bjlnU1VOVHVHblVjck1VOUpIVkNOSGZTcElsM05JRWppdlRIUQ?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,19 +118,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
+      "first_seen": "2026-08-12T19:15:27+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 12 Aug 2026 12:22:58 GMT",
-          "source": "West Side Rag"
+          "published": "Wed, 12 Aug 2026 17:17:24 GMT",
+          "source": "HOLA"
         }
       ]
     },
     {
-      "id": "fe69ddcbcf1e",
-      "title": "LA Fitness gym in Wellington to close Sept. 1, become Club Studio - The Palm Beach Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWFGQTA5bGNNOGt2Wmx0N2hYSXFMMGFRMWs3dTllU3pNS0J6QV9rMEdrd0l1dXBJd0hBRjV2bms1djZweTBmSXdBWEtybnA1R1ZvQ2tBQXEtRUFRSjRhLWZvb1RXYmliTzBMdUE1UGFzWm5xR25jQ2JqOWhvM2VwbkhCVS1NUUNmRURFT2oxRE1UMXlhR0FfbEpGZ0o4X0pvdGtKcGttc3d4T0",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWFGQTA5bGNNOGt2Wmx0N2hYSXFMMGFRMWs3dTllU3pNS0J6QV9rMEdrd0l1dXBJd0hBRjV2bms1djZweTBmSXdBWEtybnA1R1ZvQ2tBQXEtRUFRSjRhLWZvb1RXYmliTzBMdUE1UGFzWm5xR25jQ2JqOWhvM2VwbkhCVS1NUUNmRURFT2oxRE1UMXlhR0FfbEpGZ0o4X0pvdGtKcGttc3d4T0FISGFhWG1fSmI3NG1PVnQ2UFJRYUhKNk9CeURuajJuUG9iQk5Hb0EwVDVkNTFpZw?oc=5",
+      "id": "6a6ad819b2bf",
+      "title": "CT LIVE: Outdoor Workout - NBC Connecticut",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQmRYMGh1eGVBZDBQN1lTdHVEUHJjVmhURmd0RUNBYU1qdTVaZm5ObmtiVTJBVVl4bHItLVo3YS1NWW9MN3k2akxCYUZPQ3I2d3lLUDRIZHltT2dyUnNPb0FoTzdSQmlydGVaS2hsODZpVlZfaVpwaGMtbG9ORENJd2t0Q0p3VmlnbktJN05IZHMyZEoxUlHSAZ4BQVVfeXFMT2QwYklEZExFQX",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQmRYMGh1eGVBZDBQN1lTdHVEUHJjVmhURmd0RUNBYU1qdTVaZm5ObmtiVTJBVVl4bHItLVo3YS1NWW9MN3k2akxCYUZPQ3I2d3lLUDRIZHltT2dyUnNPb0FoTzdSQmlydGVaS2hsODZpVlZfaVpwaGMtbG9ORENJd2t0Q0p3VmlnbktJN05IZHMyZEoxUlHSAZ4BQVVfeXFMT2QwYklEZExFQXhVaEItRndnWWpPYlpKYWF5SFJIcWlvQ1pPMmk3S2U5NTlmamhta0lpb0dsNDVfRFMteE1VTnlnb3VyMEY0ZTZEa1M2RmRvR2p3QlN4ZnRTTjFJQlhJS3lhUEpCMzZiSlRTa1BRVWdrZWZyS0VpOExfZWFod2psWnZTRWZBXzFiUHhmRFJoWHZCM3ZRRlE?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,37 +138,17 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
+      "first_seen": "2026-08-12T19:15:27+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 11 Aug 2026 18:46:41 GMT",
-          "source": "The Palm Beach Post"
+          "published": "Wed, 12 Aug 2026 16:59:24 GMT",
+          "source": "NBC Connecticut"
         }
       ]
     },
     {
-      "id": "d006c213804c",
-      "title": "The Best Exercises For Brain Health, According To A Review Of 47 Studies - MindBodyGreen",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzdWT0pwbzBmd1U5b1p2bkV0M2paLTk5WUphTDlKR1dSLW5jNFQzc0ZnSUQyMEhfOHZkaU13QUx4RnQzODZhaEY0RHZheTUxZG91TWozZkxVbnloZkFFNW5yT1ZSZzF6Q0dfZVJyUVFKNm5zb09NMjZiZUJGXzBYU2JyQ2NwYWpIRlNfZXVkZ3dWUzQ2Skl3UDNjMA?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzdWT0pwbzBmd1U5b1p2bkV0M2paLTk5WUphTDlKR1dSLW5jNFQzc0ZnSUQyMEhfOHZkaU13QUx4RnQzODZhaEY0RHZheTUxZG91TWozZkxVbnloZkFFNW5yT1ZSZzF6Q0dfZVJyUVFKNm5zb09NMjZiZUJGXzBYU2JyQ2NwYWpIRlNfZXVkZ3dWUzQ2Skl3UDNjMA?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 12 Aug 2026 09:46:07 GMT",
-          "source": "MindBodyGreen"
-        }
-      ]
-    },
-    {
-      "id": "d1fe875fb551",
-      "title": "If Your Shoulder Hurts, FIX These 7 Exercises Now!",
+      "id": "a2e8929f7d5f",
+      "title": "7 Exercises That Are Making Your Shoulder WORSE",
       "summary": "Train Without Pain Here - https://athleanx.com\nSubscribe to This Channel Here - https://bit.ly/2b0coMW\n\nIf you have any kind of a shoulder pain, you're probably looking for the 7 most troublesome exercises for a bum shoulder. In this video, I am going to go over what those 7 trou",
       "url": "https://www.youtube.com/watch?v=PgHgLk2lVh0",
       "score": 61.599999999999994,
@@ -178,7 +158,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:20+00:00",
+      "first_seen": "2026-08-12T19:17:51+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -201,7 +181,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:21+00:00",
+      "first_seen": "2026-08-12T19:17:52+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -213,10 +193,10 @@
       "is_global": true
     },
     {
-      "id": "7e92fc679609",
-      "title": "How Can a 165lb Climber Match Larry Wheels?!",
+      "id": "740ee9a61126",
+      "title": "Fast Food Companies Don’t Want You Fat",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/gS9gA5D05lc",
+      "url": "https://www.youtube.com/shorts/DiPUc9KAX-w",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -224,22 +204,22 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:22+00:00",
+      "first_seen": "2026-08-12T19:17:53+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
           "channel_title": "Renaissance Periodization",
-          "video_id": "gS9gA5D05lc",
-          "published": "2026-08-12T13:00:01+00:00"
+          "video_id": "DiPUc9KAX-w",
+          "published": "2026-08-12T19:00:14+00:00"
         }
       ],
       "is_global": true
     },
     {
-      "id": "39dc07146908",
-      "title": "Planet Fitness donates gym equipment to Sioux Falls Fire Rescue - Dakota News Now",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSW5Jam1NWDlSbmdfUlhUN0RxdG4yQWROdk1tWVdPY2xCYWtnVEcySFd3TTVkTGdQNU5XTjBzZmRzeVFHY2plbnpLSHI4NElCbV9UTTQyOE1KdnJSb1M3U243dC05VkZzcWdqNGZ5b0ljMzc5UHU1ZEJXZ1gzWFBqcE5OTnhWQWJMUDNOQ1FBdjdJenNheC15UDA0THl1eGpoVElUdNIBuAFBVV",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSW5Jam1NWDlSbmdfUlhUN0RxdG4yQWROdk1tWVdPY2xCYWtnVEcySFd3TTVkTGdQNU5XTjBzZmRzeVFHY2plbnpLSHI4NElCbV9UTTQyOE1KdnJSb1M3U243dC05VkZzcWdqNGZ5b0ljMzc5UHU1ZEJXZ1gzWFBqcE5OTnhWQWJMUDNOQ1FBdjdJenNheC15UDA0THl1eGpoVElUdNIBuAFBVV95cUxOVjltZzBZMWhscUx0SzBuY2JTeFhMNXdGdEZDVjE3VnlDMlh2U01vUGxBaU1jeFVNYjBCdHpJT0FPWkVJNGZ5VGY3RUhBZXhWOWtpSnE5R25ZT1pMd012TVFMdDJKQlhOY0FXeDFjei1XdTJHdUFEa2hIZ2toaWFENTVZV0FzbFZuN3JEZ3FUUTFoZEV1RHE0TkNqengyc01WeFlsaHhDdkFhaWdtb2czeTlpblQwUVpy?oc=5",
+      "id": "6eb953b3626c",
+      "title": "Saints conclude 10th practice of training camp, donning helmets for closed workout - fox8live.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcG5oZUF3Z2g1UmJHRllwYmhGenNpbWRsNzZzVHpnNjlpZnNmVnB6V0ZzcWhXZDIzMUFua2k2YWxyN2x0dWdjdDU1T3VOZk5NdGtXc3J4WktpeVJBWjlkaEVFZnpuRWZtYjlaRUloLTE5TkI5TXpWX1FoR0lQMGFRRjlRMTJHN0ZWT0VSUEdZb2RocVhHZlhqRGJYT2lTTDF3MnFqaDhnZGtYMz",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcG5oZUF3Z2g1UmJHRllwYmhGenNpbWRsNzZzVHpnNjlpZnNmVnB6V0ZzcWhXZDIzMUFua2k2YWxyN2x0dWdjdDU1T3VOZk5NdGtXc3J4WktpeVJBWjlkaEVFZnpuRWZtYjlaRUloLTE5TkI5TXpWX1FoR0lQMGFRRjlRMTJHN0ZWT0VSUEdZb2RocVhHZlhqRGJYT2lTTDF3MnFqaDhnZGtYMzMyUDliNQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -247,11 +227,35 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
+      "first_seen": "2026-08-12T19:15:27+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 12 Aug 2026 00:29:00 GMT",
-          "source": "Dakota News Now"
+          "published": "Wed, 12 Aug 2026 15:01:00 GMT",
+          "source": "fox8live.com"
+        },
+        {
+          "published": "Wed, 12 Aug 2026 15:01:00 GMT",
+          "source": "KPLC 7 News"
+        }
+      ]
+    },
+    {
+      "id": "b75b43a40b24",
+      "title": "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills - Crunchbase News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGNoS2JYNlR0STJzSDJja0FZbmh6RWw5ZXJOMGRWdHV3cllfX2wycTVvdHhFSXFZQWVuR0VKOVBfT3otSFQwSWtlaTJONWN2Q0pfOFR0QWx0SzlGQjNQMkF0M0dRX2JMMTk0SDZzVUZ3VHFKbHFCb0tXT29YdnRodTAyYUUtd3BmVDhlakhuNEhNaE93X0dGeVJ2REt3bmM2d0tkWGdB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGNoS2JYNlR0STJzSDJja0FZbmh6RWw5ZXJOMGRWdHV3cllfX2wycTVvdHhFSXFZQWVuR0VKOVBfT3otSFQwSWtlaTJONWN2Q0pfOFR0QWx0SzlGQjNQMkF0M0dRX2JMMTk0SDZzVUZ3VHFKbHFCb0tXT29YdnRodTAyYUUtd3BmVDhlakhuNEhNaE93X0dGeVJ2REt3bmM2d0tkWGdB?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-08-12T19:15:27+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 12 Aug 2026 11:00:21 GMT",
+          "source": "Crunchbase News"
         }
       ]
     },
@@ -267,7 +271,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:20+00:00",
+      "first_seen": "2026-08-12T19:17:51+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -279,10 +283,10 @@
       "is_global": true
     },
     {
-      "id": "31921c81885e",
-      "title": "You Can’t Catch Up on Sleep",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/uYBSdXtLCo0",
+      "id": "3e27d09f7dc1",
+      "title": "The Testosterone Collapse Is a Lie!?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
+      "url": "https://www.youtube.com/watch?v=SRiDI6HVi2g",
       "score": 59.29,
       "sources": [
         "youtube"
@@ -290,7 +294,53 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:22+00:00",
+      "first_seen": "2026-08-12T19:17:53+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "SRiDI6HVi2g",
+          "published": "2026-08-12T16:00:42+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "7e92fc679609",
+      "title": "How Can a 165lb Climber Match Larry Wheels?!",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/gS9gA5D05lc",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-08-12T19:17:53+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "gS9gA5D05lc",
+          "published": "2026-08-12T13:00:01+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "31921c81885e",
+      "title": "You Can’t Catch Up on Sleep",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/uYBSdXtLCo0",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-08-12T19:17:53+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -302,22 +352,22 @@
       "is_global": true
     },
     {
-      "id": "5c0f384b6866",
-      "title": "WVU men’s basketball squad taking a short workout break - WV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOHMtWTN3QlRxaGdDdXZOVmFtN0FmQXN2ekltQlozZXdMeWdjYUhCcE9JYlJoY3g0M3RjOGkwSVZmUG9IRzNjUlBzRVlkaFE0N0cyVXBTQWtoNFhxSmNQRXl4eXJ3STdwRHpIc2pralNaQjJ3LW90ektMQ2R4Z1phZHN6aWdncHB1SW42bno2bHE3OGdDc0NzRklUandWd3ZMY3p3bHdDTTlXZm",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOHMtWTN3QlRxaGdDdXZOVmFtN0FmQXN2ekltQlozZXdMeWdjYUhCcE9JYlJoY3g0M3RjOGkwSVZmUG9IRzNjUlBzRVlkaFE0N0cyVXBTQWtoNFhxSmNQRXl4eXJ3STdwRHpIc2pralNaQjJ3LW90ektMQ2R4Z1phZHN6aWdncHB1SW42bno2bHE3OGdDc0NzRklUandWd3ZMY3p3bHdDTTlXZmVQbEQzZjlOczZOVWtHZ21qY0F2NjJEWkR2Q2JRVWplOHhlUTNBWktsLS04Snc?oc=5",
-      "score": 57.6,
+      "id": "55971a1505ef",
+      "title": "Do you have 5 minutes for a workout? That's all it takes! - CBS News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWN4VWhDWVBwUlp0aUVGajdCd2FwU2tDaGVqVGNjY0p1cC1xMEd3U29YeDYzTVhGNjBjMFhrZzQ4cTJBampFTWFUbTVGdmcxTnhvR3h2bjIzQjZGb2JadEo4VklDeUQ1MzhfQjdtWmppdC1UUlNzeWJaU0J3YzJFbWU5Q2JzSlBaV3dGdGtzVU9tVEp0cDAtM1dVYUs?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWN4VWhDWVBwUlp0aUVGajdCd2FwU2tDaGVqVGNjY0p1cC1xMEd3U29YeDYzTVhGNjBjMFhrZzQ4cTJBampFTWFUbTVGdmcxTnhvR3h2bjIzQjZGb2JadEo4VklDeUQ1MzhfQjdtWmppdC1UUlNzeWJaU0J3YzJFbWU5Q2JzSlBaV3dGdGtzVU9tVEp0cDAtM1dVYUs?oc=5",
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
+      "first_seen": "2026-08-12T19:15:27+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 12 Aug 2026 10:00:00 GMT",
-          "source": "WV News"
+          "published": "Wed, 12 Aug 2026 16:43:00 GMT",
+          "source": "CBS News"
         }
       ]
     },
@@ -326,14 +376,14 @@
       "title": "The “Calories Don’t Matter” Myth",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
       "url": "https://www.youtube.com/shorts/cNEgnIIQ3ug",
-      "score": 56.98,
+      "score": 52.35999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:22+00:00",
+      "first_seen": "2026-08-12T19:17:53+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -345,18 +395,38 @@
       "is_global": true
     },
     {
+      "id": "ebf7e4b74ae4",
+      "title": "These Amazon Basics Fitness Picks Will Upgrade Your Home Gym For Less - Women's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTJkNkZ0RGFTOVFlRlRTQk4wRzhCT3NIZ2hCcElsNFBzSmw3NEFyUkt2NlJSVWFqank3N0VPSklITHdaRXpHek5ZRWF6V2NIZmFnbkkyZnNFVi00OUVIeFFJMldSQ2g4Z0FvNFJiWVlPX1BoYlZ5Tlhrc1pVUE51dWVJRmF2RWxOZHc?oc=5\" target=\"_blank\">These Amazon Basics ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTJkNkZ0RGFTOVFlRlRTQk4wRzhCT3NIZ2hCcElsNFBzSmw3NEFyUkt2NlJSVWFqank3N0VPSklITHdaRXpHek5ZRWF6V2NIZmFnbkkyZnNFVi00OUVIeFFJMldSQ2g4Z0FvNFJiWVlPX1BoYlZ5Tlhrc1pVUE51dWVJRmF2RWxOZHc?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-08-12T19:15:27+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 12 Aug 2026 17:45:00 GMT",
+          "source": "Women's Health"
+        }
+      ]
+    },
+    {
       "id": "004cd673d634",
       "title": "The Only 5 Supplements Worth Taking and Exactly How Much",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
       "url": "https://www.youtube.com/watch?v=5SFNbHaXLZc",
-      "score": 54.669999999999995,
+      "score": 50.05,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:22+00:00",
+      "first_seen": "2026-08-12T19:17:53+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -368,38 +438,18 @@
       "is_global": true
     },
     {
-      "id": "ee5af43d6199",
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym - TechCrunch",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 10 Aug 2026 20:04:24 GMT",
-          "source": "TechCrunch"
-        }
-      ]
-    },
-    {
       "id": "e45a596e6eee",
       "title": "You Can Build a Brad Pitt Body at Home",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/hjIeoysbvbw",
-      "score": 52.35999999999999,
+      "score": 47.74,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:22+00:00",
+      "first_seen": "2026-08-12T19:17:53+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -411,22 +461,22 @@
       "is_global": true
     },
     {
-      "id": "1cd56c54d64f",
-      "title": "Club Studio fitness gym coming to River Oaks - Community Impact",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUFpWEx6TGk1YmZkMDEtdVl4YXNsT0pHSDNjU0NPT29fVFFEMmdqaW1lNFNDaTcxZUc3bHFfOGFtVFlCWjl6bXcxWGRqMVc3cHVsN01CQnQ1REZNUlAzQmEyamN0WVBDdnI5aGRteGI0TndNUTBJWVBmT0lTQ3ZmYXhNWUlWUUtmQURPbVZqeW05bS15dkdtbjNYblpsUm1PazltaHp1aFA0RE",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUFpWEx6TGk1YmZkMDEtdVl4YXNsT0pHSDNjU0NPT29fVFFEMmdqaW1lNFNDaTcxZUc3bHFfOGFtVFlCWjl6bXcxWGRqMVc3cHVsN01CQnQ1REZNUlAzQmEyamN0WVBDdnI5aGRteGI0TndNUTBJWVBmT0lTQ3ZmYXhNWUlWUUtmQURPbVZqeW05bS15dkdtbjNYblpsUm1PazltaHp1aFA0RERvWTh3?oc=5",
-      "score": 50.4,
+      "id": "6a0b5ffa18e2",
+      "title": "Miami’s largest fitness festival announced its full lineup, with Dwyane Wade and celeb instructors - Time Out Worldwide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeGZqMk45X2dJS0JvVGtyVzZhMDZqVUZsRkVReDMyLS1ZTWswWndJODJvckxsVmFKX0N0cGZCUTY3S045MWgxSVJvU0JwLU50SmF1ZFFLS3UySHd2Z1BPZngwc3QxMk9IMDV1V0Z5OXlZWndnNGdRWEFsWERUOFkzbEY3bHc4N1RkYmZpUjlkZF9nWFQ2VUFReUU2V1RaZXRCME1HajRaemh0TF",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeGZqMk45X2dJS0JvVGtyVzZhMDZqVUZsRkVReDMyLS1ZTWswWndJODJvckxsVmFKX0N0cGZCUTY3S045MWgxSVJvU0JwLU50SmF1ZFFLS3UySHd2Z1BPZngwc3QxMk9IMDV1V0Z5OXlZWndnNGdRWEFsWERUOFkzbEY3bHc4N1RkYmZpUjlkZF9nWFQ2VUFReUU2V1RaZXRCME1HajRaemh0TFF2MDlZSUY2OW9Fak9xSGdWa00tTU1waHlVRXhrRFFqVktyZEtqRlF0TTlqbDN5aHc1aU8yRWdZSnNic3RValk4SnhB?oc=5",
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
+      "first_seen": "2026-08-12T19:15:27+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 12 Aug 2026 01:19:00 GMT",
-          "source": "Community Impact"
+          "published": "Wed, 12 Aug 2026 19:03:10 GMT",
+          "source": "Time Out Worldwide"
         }
       ]
     },
@@ -435,14 +485,14 @@
       "title": "Fix Your Sleep by Waking Up Earlier",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/irVFF49fu4Y",
-      "score": 50.05,
+      "score": 45.43,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:22+00:00",
+      "first_seen": "2026-08-12T19:17:53+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -454,18 +504,38 @@
       "is_global": true
     },
     {
+      "id": "d955e49b93a6",
+      "title": "The rhythm of connection — inside Soca Fitness at City Park in Sunrise - WPLG Local 10",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2FjazNiZndKYjFjV0ZQS2RtY0JpdGJxQlk5a3BfYUVCdTBLQl9rQnVvQTRLRXlMNU81aWhrSDFPbjFaTW1pUWpYZVVUeGVkcUNhUlhXQkQ3LUlhN3hQNjBWTEtKc2djQXVwS25KcFdCc1ZaVmRjTWh4WU5UZG9EWkZZTHNGQjdsY3NVLVI4Z3BnQ3BmNVVoQ1lxbWZoTk8zTzAyQ1RXLXlLRW",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2FjazNiZndKYjFjV0ZQS2RtY0JpdGJxQlk5a3BfYUVCdTBLQl9rQnVvQTRLRXlMNU81aWhrSDFPbjFaTW1pUWpYZVVUeGVkcUNhUlhXQkQ3LUlhN3hQNjBWTEtKc2djQXVwS25KcFdCc1ZaVmRjTWh4WU5UZG9EWkZZTHNGQjdsY3NVLVI4Z3BnQ3BmNVVoQ1lxbWZoTk8zTzAyQ1RXLXlLRWtCNU54MW5CMA?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-08-12T19:15:27+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 12 Aug 2026 11:13:48 GMT",
+          "source": "WPLG Local 10"
+        }
+      ]
+    },
+    {
       "id": "42530921cd64",
       "title": "Exercise Scientist Critiques The Best Grappler Ever: Gordon Ryan",
       "summary": "Check our our new belt specifically designed for hypertrophy training! https://www.versagripps.com/products/hyperbelt CODE: RPMIKE\n\nThe UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hype\n\n0:00 Dr Mike critiques Gordon Ryan\n1:30 Double Sessions\n5:28 Wife and Coach \n10:40 Lift",
       "url": "https://www.youtube.com/watch?v=dBQfzXk5wZw",
-      "score": 47.74,
+      "score": 43.12,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-12T13:41:22+00:00",
+      "first_seen": "2026-08-12T19:17:53+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -475,69 +545,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "a9212e11ff33",
-      "title": "Ferne McCann's fitness formula at 36 – strength, Pilates, tennis and 10-minute workouts - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB0SnR3aVpvdFBCUFZkdWZCbjctOHV3dEp4QTM2cHh4Q0FJb2JLVllwUEk2VUdmRHpZaHBkZXdCWlhuclBkTllWTDJGV244VnNhSS11Q2ZwU2w0cGhRRWFtaVRrQUFJblAybFB0YVpJeU53VXlYNjVaczlvNEtwQ2c?oc=5\" target=\"_blank\">Ferne McCann's fitness formula at 36",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0SnR3aVpvdFBCUFZkdWZCbjctOHV3dEp4QTM2cHh4Q0FJb2JLVllwUEk2VUdmRHpZaHBkZXdCWlhuclBkTllWTDJGV244VnNhSS11Q2ZwU2w0cGhRRWFtaVRrQUFJblAybFB0YVpJeU53VXlYNjVaczlvNEtwQ2c?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 12 Aug 2026 09:39:34 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "ba8121e4798a",
-      "title": "Why Dr. Mike Stopped Being Natural",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
-      "url": "https://www.youtube.com/shorts/quMJi5VIr-Q",
-      "score": 45.43,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-08-12T13:41:22+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
-          "channel_title": "Renaissance Periodization",
-          "video_id": "quMJi5VIr-Q",
-          "published": "2026-08-07T14:58:54+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "f26c13dd3a8c",
-      "title": "Amped Fitness Announces Ohio Expansion, Bringing its Destination-Inspired Fitness Experience to the Greater-Columbus Area - PR Newswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQQlJ1Y0tLdk9qMkRlNkxLcW94Q2xfZWxCRDY1R0JYeUg1UTE1RDN2dzNVTVlibjBBT1hiRUh3ejRMVTQyVXVNRW15NkY0OUFMSkxUclVfV2k5ZG9EaTFVWG9JeExaMklwX2N3NjRQV0hCTmdEN2hiLTRIcjF2NzdpMVYzY01PX3ZLT3RVaWhGRjNVd0htT0FyYkVNQm40S0pDWHZTN2hpZ2FvSm",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQlJ1Y0tLdk9qMkRlNkxLcW94Q2xfZWxCRDY1R0JYeUg1UTE1RDN2dzNVTVlibjBBT1hiRUh3ejRMVTQyVXVNRW15NkY0OUFMSkxUclVfV2k5ZG9EaTFVWG9JeExaMklwX2N3NjRQV0hCTmdEN2hiLTRIcjF2NzdpMVYzY01PX3ZLT3RVaWhGRjNVd0htT0FyYkVNQm40S0pDWHZTN2hpZ2FvSmhhdnYzRWthVWZLMmJnX1Z2VXRmS3JuZ3Y1ZHhta2U3bDh1UHctZ0Rsc0JaRm5oMFllYUpFbldXZnFYUllEMW9HV2dvamlzaUF0MWtBeTFtcHJOM0xLSzVIdU5UVQ?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-08-12T13:38:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 12 Aug 2026 11:00:00 GMT",
-          "source": "PR Newswire"
-        }
-      ]
     }
   ]
 }
