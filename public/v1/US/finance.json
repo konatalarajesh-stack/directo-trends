@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "US",
-  "generated_at": "2026-08-14T13:43:38+00:00",
+  "generated_at": "2026-08-14T19:17:27+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "cf0423b28a28",
-      "title": "Retirees Love Dividends, but the Stock Market Surge Is Making Them Think Again - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHRhMlVkajlMWE1EZGJucHc5ZzAwUm5GNWpGd2gzc2Nfc3NsbXBVRTFEZENyb2l6Nm11TEpmaDV0NFk3bkNyU0t4bXJWemNjdWdEQWV4cGpHNTgzTWZROE1kRWtjWkE5UE03WWhzMUhCNEdWeXcwSGI4YmdiVmE2a2hBWWxNOE40YlNPMGVUSERueDZxcmdreHpWYmhQMWl3UmVDVUxnYkozbm",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHRhMlVkajlMWE1EZGJucHc5ZzAwUm5GNWpGd2gzc2Nfc3NsbXBVRTFEZENyb2l6Nm11TEpmaDV0NFk3bkNyU0t4bXJWemNjdWdEQWV4cGpHNTgzTWZROE1kRWtjWkE5UE03WWhzMUhCNEdWeXcwSGI4YmdiVmE2a2hBWWxNOE40YlNPMGVUSERueDZxcmdreHpWYmhQMWl3UmVDVUxnYkozbmJtQmV5VWRrX3o5UW55N0c0LXNwSVo?oc=5",
+      "id": "9dbe440bd6b3",
+      "title": "Stock Market Midday, Aug. 14: Stocks Wobble on Falling Consumer Confidence, Reddit Jumps 14% - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUUxTlRlTlNWRXNQZWx5U0FpdnB6RUxCODgxRkp5VVQ0ME40NFMxc0ZITWIxUWo1XzdLNmpHUk5tWmZ5YWdEajFfLWt2TjJxcFRBcTJHSzhHN05GNVloOTE3Sjd3dDZpR3BZTVBlYzd2N0E0UzVHYnN5UzZ0SFUyYk8tVHc1c3FKY1lHTndaM0VHeU9iclE?oc=5\" target=\"_blank\">Stoc",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUUxTlRlTlNWRXNQZWx5U0FpdnB6RUxCODgxRkp5VVQ0ME40NFMxc0ZITWIxUWo1XzdLNmpHUk5tWmZ5YWdEajFfLWt2TjJxcFRBcTJHSzhHN05GNVloOTE3Sjd3dDZpR3BZTVBlYzd2N0E0UzVHYnN5UzZ0SFUyYk8tVHc1c3FKY1lHTndaM0VHeU9iclE?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
+      "first_seen": "2026-08-14T19:08:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 14 Aug 2026 16:35:37 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "aa2e99375ba5",
+      "title": "Stocks Still Await Signs of Price Stability: Stock Market Today - kiplinger.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWRYXzJ5YUROWVVnRVRSNzhwUjY2RjdoMFI0MEtWMXBiVkt5WllCR2Rrc0g3eFJLSjhuT2hLVDRkQUlxemJ0OE9xc0xiQjRIeXpWQzBXNGRwY0ZCX0E3VEctOExVcVluRFc2d08yejN3T3o5SWJCbkw2Zm9HSWZMZE9OdU8zRXFGWWRRaVdGbWhDLXBoT0FubFI5TmRhQzhRMTlJeEQ5eFQ?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWRYXzJ5YUROWVVnRVRSNzhwUjY2RjdoMFI0MEtWMXBiVkt5WllCR2Rrc0g3eFJLSjhuT2hLVDRkQUlxemJ0OE9xc0xiQjRIeXpWQzBXNGRwY0ZCX0E3VEctOExVcVluRFc2d08yejN3T3o5SWJCbkw2Zm9HSWZMZE9OdU8zRXFGWWRRaVdGbWhDLXBoT0FubFI5TmRhQzhRMTlJeEQ5eFQ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-08-14T19:08:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 11 Aug 2026 20:07:39 GMT",
+          "source": "kiplinger.com"
+        }
+      ]
+    },
+    {
+      "id": "cf0423b28a28",
+      "title": "Retirees Love Dividends, but the Stock Market Surge Is Making Them Think Again - WSJ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHRhMlVkajlMWE1EZGJucHc5ZzAwUm5GNWpGd2gzc2Nfc3NsbXBVRTFEZENyb2l6Nm11TEpmaDV0NFk3bkNyU0t4bXJWemNjdWdEQWV4cGpHNTgzTWZROE1kRWtjWkE5UE03WWhzMUhCNEdWeXcwSGI4YmdiVmE2a2hBWWxNOE40YlNPMGVUSERueDZxcmdreHpWYmhQMWl3UmVDVUxnYkozbm",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHRhMlVkajlMWE1EZGJucHc5ZzAwUm5GNWpGd2gzc2Nfc3NsbXBVRTFEZENyb2l6Nm11TEpmaDV0NFk3bkNyU0t4bXJWemNjdWdEQWV4cGpHNTgzTWZROE1kRWtjWkE5UE03WWhzMUhCNEdWeXcwSGI4YmdiVmE2a2hBWWxNOE40YlNPMGVUSERueDZxcmdreHpWYmhQMWl3UmVDVUxnYkozbmJtQmV5VWRrX3o5UW55N0c0LXNwSVo?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-08-14T19:08:24+00:00",
       "raw_samples": [
         {
           "published": "Thu, 06 Aug 2026 07:00:00 GMT",
@@ -27,50 +67,10 @@
       ]
     },
     {
-      "id": "7d0a1eaa372e",
-      "title": "Best Mutual Funds to Buy for the Long Term - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBsdklCQVJBWFhhYXhzdmd2S1AtcERQZE9fajN1bFFvNXZyb19RUWNtMG0xaFBpZU5qQVp6ZXZrSlN5ckxYbWFDZmJsU25FUkdOeXdBYU5uZ0lhd0p1dVdoZ0tCTjdSQy1ZS1BZTkxyMm9ub2ZI?oc=5\" target=\"_blank\">Best Mutual Funds to Buy for the Long Term</a>&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsdklCQVJBWFhhYXhzdmd2S1AtcERQZE9fajN1bFFvNXZyb19RUWNtMG0xaFBpZU5qQVp6ZXZrSlN5ckxYbWFDZmJsU25FUkdOeXdBYU5uZ0lhd0p1dVdoZ0tCTjdSQy1ZS1BZTkxyMm9ub2ZI?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 10 Aug 2026 15:29:27 GMT",
-          "source": "Kiplinger"
-        }
-      ]
-    },
-    {
-      "id": "93129e164b51",
-      "title": "California students must soon learn personal finance to graduate. Here’s how it will be taught - EdSource",
+      "id": "b56a14781d6c",
+      "title": "California students must soon learn personal finance to graduate. Here’s how it will be taught - edsource.org",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5CbWhqX2RWWWU4enpoNUtUZHREeFlaTnBtZDlqNzhJT2MwRG8xVUNUWVJNZEZjMUxYR2ZFcjVsSklqRUVxMHhnY3ZYQkNBcWFaaTlMbTFXZmVwak9wc08tQ3NEV2JCVW1aRnp3YVRlRFk1b19ZWjFMMDVR0gGCAUFVX3lxTFBUQ0l0RFRVR3hjNjgzWjd5aVEwdTVsYVFrc21TbzJxTlRlTEk2Q1",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CbWhqX2RWWWU4enpoNUtUZHREeFlaTnBtZDlqNzhJT2MwRG8xVUNUWVJNZEZjMUxYR2ZFcjVsSklqRUVxMHhnY3ZYQkNBcWFaaTlMbTFXZmVwak9wc08tQ3NEV2JCVW1aRnp3YVRlRFk1b19ZWjFMMDVR0gGCAUFVX3lxTFBUQ0l0RFRVR3hjNjgzWjd5aVEwdTVsYVFrc21TbzJxTlRlTEk2Q1pMLTRTVzVISm94RVF0c2hUT0JYS1d1ak00anpHVHo0OUxjbk03c1Q3cFJKRk54ZUM5cEp4SFJveGtPRnJyTTgxcktBX0xDRmNDeUlTZjNWWEM2SkE?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 08 Jun 2026 07:00:00 GMT",
-          "source": "EdSource"
-        }
-      ]
-    },
-    {
-      "id": "27702900623d",
-      "title": "Will the housing market crash in 2026? Here's what we know - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUVQ0MUprWjRHeVFpYTIxU3F2bXBzbnFSZEFBenlaRFg5d1RhQzQxUktHakZqZnRSclZFSk55R3pKNGlja0xVRDNESUNZZjZpdnV2LVpuWmxRSVA1MXZsRTMycXctdzRMTnlpdTNOV212STh6R2lqbUhPV3ltc2loY0JGOUZFMHVwV3dkUFVvLW1heGM4WEFyTW5qQmFOTnliQU8wT0NTUWI4N1",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUVQ0MUprWjRHeVFpYTIxU3F2bXBzbnFSZEFBenlaRFg5d1RhQzQxUktHakZqZnRSclZFSk55R3pKNGlja0xVRDNESUNZZjZpdnV2LVpuWmxRSVA1MXZsRTMycXctdzRMTnlpdTNOV212STh6R2lqbUhPV3ltc2loY0JGOUZFMHVwV3dkUFVvLW1heGM4WEFyTW5qQmFOTnliQU8wT0NTUWI4N195YzB0VHlKZU1TMndOZTk5NUNQcmdJUktYbm9oX0lvelc?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,11 +78,31 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
+      "first_seen": "2026-08-14T19:08:24+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 12 Aug 2026 15:52:39 GMT",
-          "source": "Yahoo Finance"
+          "published": "Mon, 08 Jun 2026 07:00:00 GMT",
+          "source": "edsource.org"
+        }
+      ]
+    },
+    {
+      "id": "f81b85b1aa8a",
+      "title": "More low- and middle-income Americans are investing, report finds. Here's why - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE03T2xmZVJOVVFqc0UxS2hOZTBnbnRocnFiWDFlTU9ZQlVXZGVWR1VYOWU0SWdOdGJBY2ZuS3lKYXBwQ0pyV19fQ0gzVVlwWTB0bWFuVG9JMTA2dFp1WXRYNXNHTS11QU0tUnpobm03bGZaUjRQZXJ30gF8QVVfeXFMUDE3Z0NIRDJpWDVMWDBiRkFRTC1tTWFCTHhTbHRva19seW9JUVpkWDRaLX",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03T2xmZVJOVVFqc0UxS2hOZTBnbnRocnFiWDFlTU9ZQlVXZGVWR1VYOWU0SWdOdGJBY2ZuS3lKYXBwQ0pyV19fQ0gzVVlwWTB0bWFuVG9JMTA2dFp1WXRYNXNHTS11QU0tUnpobm03bGZaUjRQZXJ30gF8QVVfeXFMUDE3Z0NIRDJpWDVMWDBiRkFRTC1tTWFCTHhTbHRva19seW9JUVpkWDRaLXhfd2p0OHZ0VXNoeGFjQ3IxNU9HbmN2cnlJUktuYzZneEI0ZW5JdmM1X1E2XzRya0dSam11NHJZalVOUmc2eFAyUUFONjMyMlBCaw?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-08-14T19:08:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+          "source": "CNBC"
         }
       ]
     },
@@ -91,26 +111,6 @@
       "title": "Where the US Stock Market May Be Heading Next and What to Buy Now - Morningstar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDBYRXR4TFFoQzdnQ0ZieFctRk9aNGlGczZuMFNlUm02YTB1ZDhhWDlSM0pRS3JrekVWckZQRnFKcnRGeGl2aFpCVGd6ZldHMkNXTWpHd09UMDVGaUx1d3ZPX2lzWmREOGttM0x4Z3ZFcXN4NnZtd1c5QUdIelQ4d2taWDFQcFRpUktiejlnNG56Qk9jekNTcVBBZks?oc=5\" target=\"_bla",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDBYRXR4TFFoQzdnQ0ZieFctRk9aNGlGczZuMFNlUm02YTB1ZDhhWDlSM0pRS3JrekVWckZQRnFKcnRGeGl2aFpCVGd6ZldHMkNXTWpHd09UMDVGaUx1d3ZPX2lzWmREOGttM0x4Z3ZFcXN4NnZtd1c5QUdIelQ4d2taWDFQcFRpUktiejlnNG56Qk9jekNTcVBBZks?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-          "source": "Morningstar"
-        }
-      ]
-    },
-    {
-      "id": "26ef210edab8",
-      "title": "Market volatility poses a serious risk for new retirees. Here’s how to prepare - cnbc.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0JsbEVWcU9uT0tsZThNQkxqWGFvU0tlNmh0NElvUWNMbXdacVBpTkMtOXNGZk5EdUoyclcwZzNFVE5fZmpvNkE2ZVhseFVZcl9yOUhqbHRHY205ZWJ0d3BISXlsV0RvVm5jcldkRmFIQ3J3aFJ4OFhXbkotSDUtd18wSnk3bXhaanFOUDlOMkFXSUt20gGaAUFVX3lxTE9JNWNMTjJQMTZ3SC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0JsbEVWcU9uT0tsZThNQkxqWGFvU0tlNmh0NElvUWNMbXdacVBpTkMtOXNGZk5EdUoyclcwZzNFVE5fZmpvNkE2ZVhseFVZcl9yOUhqbHRHY205ZWJ0d3BISXlsV0RvVm5jcldkRmFIQ3J3aFJ4OFhXbkotSDUtd18wSnk3bXhaanFOUDlOMkFXSUt20gGaAUFVX3lxTE9JNWNMTjJQMTZ3SC1FT3dYTWJUaXY3X3dSdmV3UFNfMVZhc3g0R2FwVjRnQmhhekVYTVMzNEY5UnFVSWVzUUtudE5UUDFMTkFXMUgzOGRKSTExWTcwcmFXZzNsNzB5Wk1QcUhxMWRHNl9hRUNqS3owTVA2c3JOWkVHM0MxZXBlaFZGVmxUTHE4VmlvSk1Ld29tYWc?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,11 +118,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
+      "first_seen": "2026-08-14T19:08:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 02 Apr 2026 07:00:00 GMT",
-          "source": "cnbc.com"
+          "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+          "source": "Morningstar"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
+      "first_seen": "2026-08-14T19:08:24+00:00",
       "raw_samples": [
         {
           "published": "Tue, 09 Jun 2026 09:02:13 GMT",
@@ -158,7 +158,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
+      "first_seen": "2026-08-14T19:08:24+00:00",
       "raw_samples": [
         {
           "published": "Mon, 03 Aug 2026 07:00:00 GMT",
@@ -167,10 +167,10 @@
       ]
     },
     {
-      "id": "5a8e0051c812",
-      "title": "BREAKING: Trump Announces MASSIVE Tax Breaks For ALL Investors | What You MUST Know!",
-      "summary": "You’ve worked hard to build your financial future - Coveron helps you protect it. The first 100 users get 20% off with code GRAHAMSTEPHAN at https://coveron.com/grahamstephan | Let's talk about the Trump Tax Plan, Indexing Capital Gains To Inflation, & the chance of this passing ",
-      "url": "https://www.youtube.com/watch?v=-2jQm1t9pBs",
+      "id": "415f12871e8e",
+      "title": "The BEST Money Advice To Teach Your Kids",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/ZPRQK27ex8Q",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -178,13 +178,13 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-14T13:36:51+00:00",
+      "first_seen": "2026-08-14T19:10:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
           "channel_title": "Graham Stephan",
-          "video_id": "-2jQm1t9pBs",
-          "published": "2026-08-13T16:00:12+00:00"
+          "video_id": "ZPRQK27ex8Q",
+          "published": "2026-08-14T17:00:07+00:00"
         }
       ],
       "is_global": true
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-14T13:36:52+00:00",
+      "first_seen": "2026-08-14T19:10:47+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -213,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "583b8e17f1be",
-      "title": "What Are Penny Stocks and Is It Worth Investing in Them? | Chase - Chase Bank",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNTER4YnZVclE2bFNweEJZeUxSRldKdGIzaGkxa2pKeW1DWWd3V1J6eHROS1RVWWdTRmphNy11clJQVUNZZHhkeTBQbTR6WW52dWNFNnlhOTBHeVpnVmRMbmFuWFhTR2Q0R3FmSGJuMUZ0NzhLT21wdGpSOFRLVWNiN3A5UFdZTWRLb1pYS1JR?oc=5\" target=\"_blank\">What Are Penny ",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTER4YnZVclE2bFNweEJZeUxSRldKdGIzaGkxa2pKeW1DWWd3V1J6eHROS1RVWWdTRmphNy11clJQVUNZZHhkeTBQbTR6WW52dWNFNnlhOTBHeVpnVmRMbmFuWFhTR2Q0R3FmSGJuMUZ0NzhLT21wdGpSOFRLVWNiN3A5UFdZTWRLb1pYS1JR?oc=5",
+      "id": "e7875a7fdc11",
+      "title": "Best Mutual Funds to Buy for the Long Term - kiplinger.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBsdklCQVJBWFhhYXhzdmd2S1AtcERQZE9fajN1bFFvNXZyb19RUWNtMG0xaFBpZU5qQVp6ZXZrSlN5ckxYbWFDZmJsU25FUkdOeXdBYU5uZ0lhd0p1dVdoZ0tCTjdSQy1ZS1BZTkxyMm9ub2ZI?oc=5\" target=\"_blank\">Best Mutual Funds to Buy for the Long Term</a>&nbsp",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsdklCQVJBWFhhYXhzdmd2S1AtcERQZE9fajN1bFFvNXZyb19RUWNtMG0xaFBpZU5qQVp6ZXZrSlN5ckxYbWFDZmJsU25FUkdOeXdBYU5uZ0lhd0p1dVdoZ0tCTjdSQy1ZS1BZTkxyMm9ub2ZI?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -224,11 +224,54 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
+      "first_seen": "2026-08-14T19:08:24+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-          "source": "Chase Bank"
+          "published": "Mon, 10 Aug 2026 15:29:27 GMT",
+          "source": "kiplinger.com"
+        }
+      ]
+    },
+    {
+      "id": "5a8e0051c812",
+      "title": "BREAKING: Trump Announces MASSIVE Tax Breaks For ALL Investors | What You MUST Know!",
+      "summary": "You’ve worked hard to build your financial future - Coveron helps you protect it. The first 100 users get 20% off with code GRAHAMSTEPHAN at https://coveron.com/grahamstephan | Let's talk about the Trump Tax Plan, Indexing Capital Gains To Inflation, & the chance of this passing ",
+      "url": "https://www.youtube.com/watch?v=-2jQm1t9pBs",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-08-14T19:10:46+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "-2jQm1t9pBs",
+          "published": "2026-08-13T16:00:12+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "ccd603a244d3",
+      "title": "Market volatility poses a serious risk for new retirees. Here’s how to prepare - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0JsbEVWcU9uT0tsZThNQkxqWGFvU0tlNmh0NElvUWNMbXdacVBpTkMtOXNGZk5EdUoyclcwZzNFVE5fZmpvNkE2ZVhseFVZcl9yOUhqbHRHY205ZWJ0d3BISXlsV0RvVm5jcldkRmFIQ3J3aFJ4OFhXbkotSDUtd18wSnk3bXhaanFOUDlOMkFXSUt20gGaAUFVX3lxTE9JNWNMTjJQMTZ3SC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0JsbEVWcU9uT0tsZThNQkxqWGFvU0tlNmh0NElvUWNMbXdacVBpTkMtOXNGZk5EdUoyclcwZzNFVE5fZmpvNkE2ZVhseFVZcl9yOUhqbHRHY205ZWJ0d3BISXlsV0RvVm5jcldkRmFIQ3J3aFJ4OFhXbkotSDUtd18wSnk3bXhaanFOUDlOMkFXSUt20gGaAUFVX3lxTE9JNWNMTjJQMTZ3SC1FT3dYTWJUaXY3X3dSdmV3UFNfMVZhc3g0R2FwVjRnQmhhekVYTVMzNEY5UnFVSWVzUUtudE5UUDFMTkFXMUgzOGRKSTExWTcwcmFXZzNsNzB5Wk1QcUhxMWRHNl9hRUNqS3owTVA2c3JOWkVHM0MxZXBlaFZGVmxUTHE4VmlvSk1Ld29tYWc?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-08-14T19:08:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+          "source": "CNBC"
         }
       ]
     },
@@ -237,14 +280,14 @@
       "title": "THE FED JUST RESET THE MARKET - Stocks Hit All-Time-High, Interest Rates Skyrocket!",
       "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: https://sofi.com/graham | Let's talk about rising interest rates and what this means for the stock market / housing values - Enjoy! Add me on Instagram: GPStephan\n\nSTART BUILDING WEALTH WITH MY FREE N",
       "url": "https://www.youtube.com/watch?v=tcUGMKt__-g",
-      "score": 59.29,
+      "score": 56.98,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-14T13:36:51+00:00",
+      "first_seen": "2026-08-14T19:10:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -256,38 +299,18 @@
       "is_global": true
     },
     {
-      "id": "0040ef5c97b5",
-      "title": "How to Stay Relaxed When the Market Feels Tense - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "source": "Bloomberg.com"
-        }
-      ]
-    },
-    {
       "id": "cdfe006b0419",
       "title": "Amouranth's Secret Side Hustle 👀",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/2magWG4Q9Fg",
-      "score": 56.98,
+      "score": 54.669999999999995,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-14T13:36:51+00:00",
+      "first_seen": "2026-08-14T19:10:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -299,18 +322,38 @@
       "is_global": true
     },
     {
+      "id": "08313c5e6ad1",
+      "title": "5 Costly Mistakes to Avoid in Today’s Unpredictable Market - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3QxYlUtb0VVZTZaWVVoZE5UaWhMVUNlVVkzV3UtdG85UVpWRHJiNTJ4aWpTVExMeW9LTWhaUm5QUDdRdFlYNEhEX0RrdGxXcUNDeURPWm1KSTh3UkplT05zX0RxbGVmWVd6WlpjTE9icXFBakREUy1VY1Jyb1FUMndoMERmUk9naGFTaFpiMEFrUTFLUDFVbGw3TFA0OC1XdUZiR0g3ZHI?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3QxYlUtb0VVZTZaWVVoZE5UaWhMVUNlVVkzV3UtdG85UVpWRHJiNTJ4aWpTVExMeW9LTWhaUm5QUDdRdFlYNEhEX0RrdGxXcUNDeURPWm1KSTh3UkplT05zX0RxbGVmWVd6WlpjTE9icXFBakREUy1VY1Jyb1FUMndoMERmUk9naGFTaFpiMEFrUTFLUDFVbGw3TFA0OC1XdUZiR0g3ZHI?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-08-14T19:08:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+          "source": "Morningstar"
+        }
+      ]
+    },
+    {
       "id": "bc16f26e64e7",
       "title": "How To Illegally Make $16k/MO",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/F9Xzs2e1YAc",
-      "score": 54.669999999999995,
+      "score": 52.35999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-14T13:36:51+00:00",
+      "first_seen": "2026-08-14T19:10:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -322,22 +365,22 @@
       "is_global": true
     },
     {
-      "id": "913f0e83edc5",
-      "title": "Why the stock market and economy may seem out of sync - cnbc.com",
+      "id": "4b54d7ec577a",
+      "title": "Why the stock market and economy may seem out of sync - CNBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9vcWg0QXpqWk91X05BclFWbHdfOXotd2YzRlBpS0lSeFN4ZGJwSDhvRE5uWkliU095bnYyMy11cEktM3U1SGZXd24wdlRoajBrTDVOR01wUGNDMElqbFVheEJjUko2MTk5Vlpad3hYQWVzRk90QkRuSUpUOFZUQdIBgwFBVV95cUxOU0NUczI0QXNNbXlrWTlINlBJTkVGZHFtQi1tS05ocmVsWl",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vcWg0QXpqWk91X05BclFWbHdfOXotd2YzRlBpS0lSeFN4ZGJwSDhvRE5uWkliU095bnYyMy11cEktM3U1SGZXd24wdlRoajBrTDVOR01wUGNDMElqbFVheEJjUko2MTk5Vlpad3hYQWVzRk90QkRuSUpUOFZUQdIBgwFBVV95cUxOU0NUczI0QXNNbXlrWTlINlBJTkVGZHFtQi1tS05ocmVsWlVzcWFNRjhic01aVWxSdWRCRU1ISTU0WnVrX1E4RGRZWG0tWHcxa3BqSnhLSXNhSzlNb2k1Z3g1V3Y4SkRoUUVmMUsyTTNZTmZIVWpHYzJsM3FYVUpGaWtzVQ?oc=5",
-      "score": 54.0,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
+      "first_seen": "2026-08-14T19:08:24+00:00",
       "raw_samples": [
         {
           "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-          "source": "cnbc.com"
+          "source": "CNBC"
         }
       ]
     },
@@ -346,14 +389,14 @@
       "title": "Jason Nash's Sad Downfall",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/7tYx_FhQeiE",
-      "score": 52.35999999999999,
+      "score": 50.05,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-14T13:36:51+00:00",
+      "first_seen": "2026-08-14T19:10:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -365,38 +408,18 @@
       "is_global": true
     },
     {
-      "id": "08313c5e6ad1",
-      "title": "5 Costly Mistakes to Avoid in Today’s Unpredictable Market - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3QxYlUtb0VVZTZaWVVoZE5UaWhMVUNlVVkzV3UtdG85UVpWRHJiNTJ4aWpTVExMeW9LTWhaUm5QUDdRdFlYNEhEX0RrdGxXcUNDeURPWm1KSTh3UkplT05zX0RxbGVmWVd6WlpjTE9icXFBakREUy1VY1Jyb1FUMndoMERmUk9naGFTaFpiMEFrUTFLUDFVbGw3TFA0OC1XdUZiR0g3ZHI?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3QxYlUtb0VVZTZaWVVoZE5UaWhMVUNlVVkzV3UtdG85UVpWRHJiNTJ4aWpTVExMeW9LTWhaUm5QUDdRdFlYNEhEX0RrdGxXcUNDeURPWm1KSTh3UkplT05zX0RxbGVmWVd6WlpjTE9icXFBakREUy1VY1Jyb1FUMndoMERmUk9naGFTaFpiMEFrUTFLUDFVbGw3TFA0OC1XdUZiR0g3ZHI?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Apr 2026 07:00:00 GMT",
-          "source": "Morningstar"
-        }
-      ]
-    },
-    {
       "id": "c0da033eedea",
       "title": "Japan’s Currency Crisis Is Now America’s Problem",
       "summary": "Go to https://surfshark.com/graham or use code GRAHAM at checkout to get 4 extra months of Surfshark VPN! Let's talk about the Japenese Yen, while they're selling US Dollars to support their currency, and why this is causing interest rates to increase - Enjoy! Add me on Instagram",
       "url": "https://www.youtube.com/watch?v=AZ-5cLKVtBo",
-      "score": 50.05,
+      "score": 47.74,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-14T13:36:51+00:00",
+      "first_seen": "2026-08-14T19:10:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -408,18 +431,38 @@
       "is_global": true
     },
     {
+      "id": "4a8638b30df6",
+      "title": "Why Young People in the UK Aren’t Investing - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGdMSDBoMHhCQkJIVldyQzNmempKN3BwY0RkTFRERk5sanpHbFJULVd2SUZKa1pDbWFZTFdkaVFIcU80ZnZRbW9oUjNwOFdaNmFrbWVkMGQ3S1ZaSWdSSVRfcnMzelRyRkNmUjdnc3B6QnBrOWJtUVFPY0k2SnZhUkJjX3RnSUxnMUd0VXl5YllYSnM?oc=5\" target=\"_blank\">Why Youn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGdMSDBoMHhCQkJIVldyQzNmempKN3BwY0RkTFRERk5sanpHbFJULVd2SUZKa1pDbWFZTFdkaVFIcU80ZnZRbW9oUjNwOFdaNmFrbWVkMGQ3S1ZaSWdSSVRfcnMzelRyRkNmUjdnc3B6QnBrOWJtUVFPY0k2SnZhUkJjX3RnSUxnMUd0VXl5YllYSnM?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-08-14T19:08:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+          "source": "Morningstar"
+        }
+      ]
+    },
+    {
       "id": "ceae79821959",
       "title": "Jennette McCurdy Never Got Paid From iCarly...",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/jauzZKy04oo",
-      "score": 47.74,
+      "score": 45.43,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-14T13:36:51+00:00",
+      "first_seen": "2026-08-14T19:10:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -431,22 +474,22 @@
       "is_global": true
     },
     {
-      "id": "6190b0cbaab8",
-      "title": "Meet the Teens Investing in Stocks for Their Future Home and Retirement - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMk9QNm5hU3h4OW1JUUdONGdIWkRHZTNfejZkOU1yYkRrckhGaFJPcGRwemw3aElyMVlXREYzOWhpRDFCald1UnVfay1va2dJNGFjeUtXVEpFV2tUSExZN1ZGQTIwWUo3dXd2Ull4THd3UUpidkExWk01X1A4N3ZfWQ?oc=5\" target=\"_blank\">Meet the Teens Investing in Stock",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMk9QNm5hU3h4OW1JUUdONGdIWkRHZTNfejZkOU1yYkRrckhGaFJPcGRwemw3aElyMVlXREYzOWhpRDFCald1UnVfay1va2dJNGFjeUtXVEpFV2tUSExZN1ZGQTIwWUo3dXd2Ull4THd3UUpidkExWk01X1A4N3ZfWQ?oc=5",
-      "score": 46.8,
+      "id": "cb0ae942337c",
+      "title": "Stock market is in for 'choppy, bumpy ride' in 2026, strategist says. Why it pays to stay invested - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9MbnRXM1pFNWJYbUY5UUtveFk1V3VWVjFWMlh1OENmMk9TV1gyR0lTZXJwZkhtcmp3RW5yZTFYaURBdlB3bHh0Z3hqYWw5LVBHZ3kwVjZVVmRIQTdUODJ3WnhnOXRkZUI1QjBOcnlCb3hqZkxJVmNwZjh30gF_QVVfeXFMTVdMcTdaZklYTklsbzU4ZllzVkpnY0h2X29sc3Z3cVV2bTBZR1llWW",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MbnRXM1pFNWJYbUY5UUtveFk1V3VWVjFWMlh1OENmMk9TV1gyR0lTZXJwZkhtcmp3RW5yZTFYaURBdlB3bHh0Z3hqYWw5LVBHZ3kwVjZVVmRIQTdUODJ3WnhnOXRkZUI1QjBOcnlCb3hqZkxJVmNwZjh30gF_QVVfeXFMTVdMcTdaZklYTklsbzU4ZllzVkpnY0h2X29sc3Z3cVV2bTBZR1llWWN3ZEkzZS13ODQ4d2dGRnlncjJETmI1cHlMNTdwajNham9YTmxWanA5TGx5RTQ5cTA1NW03dWxFcEtXOEc0VEptR2pidUprSGVVSUlyZFFsOA?oc=5",
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
+      "first_seen": "2026-08-14T19:08:24+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 29 Nov 2025 08:00:00 GMT",
-          "source": "WSJ"
+          "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+          "source": "CNBC"
         }
       ]
     },
@@ -455,14 +498,14 @@
       "title": "The Best Free Money \"Hack\"",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/V1hW3DH69pw",
-      "score": 45.43,
+      "score": 43.12,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-14T13:36:51+00:00",
+      "first_seen": "2026-08-14T19:10:46+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -474,53 +517,10 @@
       "is_global": true
     },
     {
-      "id": "789863726f59",
-      "title": "Stock market is in for 'choppy, bumpy ride' in 2026, strategist says. Why it pays to stay invested - cnbc.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9MbnRXM1pFNWJYbUY5UUtveFk1V3VWVjFWMlh1OENmMk9TV1gyR0lTZXJwZkhtcmp3RW5yZTFYaURBdlB3bHh0Z3hqYWw5LVBHZ3kwVjZVVmRIQTdUODJ3WnhnOXRkZUI1QjBOcnlCb3hqZkxJVmNwZjh30gF_QVVfeXFMTVdMcTdaZklYTklsbzU4ZllzVkpnY0h2X29sc3Z3cVV2bTBZR1llWW",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MbnRXM1pFNWJYbUY5UUtveFk1V3VWVjFWMlh1OENmMk9TV1gyR0lTZXJwZkhtcmp3RW5yZTFYaURBdlB3bHh0Z3hqYWw5LVBHZ3kwVjZVVmRIQTdUODJ3WnhnOXRkZUI1QjBOcnlCb3hqZkxJVmNwZjh30gF_QVVfeXFMTVdMcTdaZklYTklsbzU4ZllzVkpnY0h2X29sc3Z3cVV2bTBZR1llWWN3ZEkzZS13ODQ4d2dGRnlncjJETmI1cHlMNTdwajNham9YTmxWanA5TGx5RTQ5cTA1NW03dWxFcEtXOEc0VEptR2pidUprSGVVSUlyZFFsOA?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-          "source": "cnbc.com"
-        }
-      ]
-    },
-    {
-      "id": "4b6bd79582a8",
-      "title": "The Truth On LA's Housing Crisis",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/Wj1Z8ccAPzE",
-      "score": 43.12,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-14T13:36:51+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "Wj1Z8ccAPzE",
-          "published": "2026-07-31T17:00:01+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "4a8638b30df6",
-      "title": "Why Young People in the UK Aren’t Investing - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGdMSDBoMHhCQkJIVldyQzNmempKN3BwY0RkTFRERk5sanpHbFJULVd2SUZKa1pDbWFZTFdkaVFIcU80ZnZRbW9oUjNwOFdaNmFrbWVkMGQ3S1ZaSWdSSVRfcnMzelRyRkNmUjdnc3B6QnBrOWJtUVFPY0k2SnZhUkJjX3RnSUxnMUd0VXl5YllYSnM?oc=5\" target=\"_blank\">Why Youn",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGdMSDBoMHhCQkJIVldyQzNmempKN3BwY0RkTFRERk5sanpHbFJULVd2SUZKa1pDbWFZTFdkaVFIcU80ZnZRbW9oUjNwOFdaNmFrbWVkMGQ3S1ZaSWdSSVRfcnMzelRyRkNmUjdnc3B6QnBrOWJtUVFPY0k2SnZhUkJjX3RnSUxnMUd0VXl5YllYSnM?oc=5",
+      "id": "176558da11c8",
+      "title": "What soaring Treasury yields mean for your finances - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEpZbzdjS0xCWmR1UkhzT0VoV2Rnajh3MWM2c0hFaTRWOHUydXJIMUc3Rnc2U1JraTV4YWNmc3htRE5GY2JROVJZd2I1THg3WWp2T0wzamFQZDNiem1mVjEzbVY5eDV1c2puU3o5eDA1elpfVWgwbUFFSzNwWmxkdUJvbjFiaEx1NTZiSjZ5UjB6c205QlRBOFotU1BGblQ1bWFubHlVVnJVSH",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEpZbzdjS0xCWmR1UkhzT0VoV2Rnajh3MWM2c0hFaTRWOHUydXJIMUc3Rnc2U1JraTV4YWNmc3htRE5GY2JROVJZd2I1THg3WWp2T0wzamFQZDNiem1mVjEzbVY5eDV1c2puU3o5eDA1elpfVWgwbUFFSzNwWmxkdUJvbjFiaEx1NTZiSjZ5UjB6c205QlRBOFotU1BGblQ1bWFubHlVVnJVSHZ4N3BaazNmZHE1ZWZMSXJzeXdyVHZqZjFSQWc?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -528,11 +528,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-08-14T13:34:29+00:00",
+      "first_seen": "2026-08-14T19:08:24+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 17 Apr 2026 07:00:00 GMT",
-          "source": "Morningstar"
+          "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     }
