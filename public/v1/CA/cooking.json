@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "CA",
-  "generated_at": "2026-08-16T07:04:31+00:00",
+  "generated_at": "2026-08-16T13:06:03+00:00",
   "cache_ttl_hours": 6,
-  "count": 17,
+  "count": 18,
   "trends": [
     {
       "id": "b6d76197a976",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Wed, 12 Aug 2026 14:38:00 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "e1fb62cc392b",
-      "title": "The Biggest Food Trends of 2026 So Far - Taste of Home",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5\" target=\"_blank\">The Biggest Food Trends of 2026 So Far</a>&nbsp;&nbsp;<font color=\"#",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5",
+      "id": "15fa73b7fa01",
+      "title": "From 'girl dinner' to 'boy kibble': The internet serves up a new meal trend - NPR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbV8ycGlFWXNhX2cxdEo5T3lXU1FGRGxXbHJ4a1c1aEd0dEFFbmo2Y1l5SFVWa1pDXzNSMm84MWpSTHk1MVgtY0RiSkk5SFJaTE8yWWVudlNVN3l2TFdWTlFJblhXbnNXTGVaZjRBUjVVWmZUd3NxeFRUbEVuaFJMNi1QV0xhRlNCZzBhWTBUNXJOSUQ2dXc?oc=5\" target=\"_blank\">From",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbV8ycGlFWXNhX2cxdEo5T3lXU1FGRGxXbHJ4a1c1aEd0dEFFbmo2Y1l5SFVWa1pDXzNSMm84MWpSTHk1MVgtY0RiSkk5SFJaTE8yWWVudlNVN3l2TFdWTlFJblhXbnNXTGVaZjRBUjVVWmZUd3NxeFRUbEVuaFJMNi1QV0xhRlNCZzBhWTBUNXJOSUQ2dXc?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 16 Aug 2026 09:00:00 GMT",
+          "source": "NPR"
+        }
+      ]
+    },
+    {
+      "id": "e1fb62cc392b",
+      "title": "The Biggest Food Trends of 2026 So Far - Taste of Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5\" target=\"_blank\">The Biggest Food Trends of 2026 So Far</a>&nbsp;&nbsp;<font color=\"#",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Fri, 07 Aug 2026 07:00:00 GMT",
@@ -51,26 +71,6 @@
       "title": "Global food trends for 2026: What exporters need to know now - Export Development Canada (EDC)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5JNWxDczVDUmRrSUcyWV9UaGJENzktS0hxWHpqUVFsd3B4NGRDRUFkLTJLU1FONllFdURVT1NIaWdvZmRPb2cxcUtmdk56UWxSUDJEc2s5ZFVlLUlwWWI1X0s0amVBR3JFWlE?oc=5\" target=\"_blank\">Global food trends for 2026: What exporters need to know now</a>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JNWxDczVDUmRrSUcyWV9UaGJENzktS0hxWHpqUVFsd3B4NGRDRUFkLTJLU1FONllFdURVT1NIaWdvZmRPb2cxcUtmdk56UWxSUDJEc2s5ZFVlLUlwWWI1X0s0amVBR3JFWlE?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-          "source": "Export Development Canada (EDC)"
-        }
-      ]
-    },
-    {
-      "id": "46b5ac57a403",
-      "title": "Food and Beverage News and Trends - August 14, 2026 - DLA Piper",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWNDZGFJbTNnSG9hNzRsOUJzQWZrbzFKRkxjbjJxT0I1RUljMXdFZUhJbThnM0hIN3A2NXdzdS1XQ1dYeWttbVg4ejc5eHk2S0d0ZmtiTG05bU5sTTRTN2NGMkhiOVdMLWRqVkZ4UkRIUXQwWUY2UjZYeEVKdjl0aUE2R0Vhb2tBWklrUzY0Zk5sRHBPX2VVeWp3clNNdUV1TWV0b2MtdkJYYj",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWNDZGFJbTNnSG9hNzRsOUJzQWZrbzFKRkxjbjJxT0I1RUljMXdFZUhJbThnM0hIN3A2NXdzdS1XQ1dYeWttbVg4ejc5eHk2S0d0ZmtiTG05bU5sTTRTN2NGMkhiOVdMLWRqVkZ4UkRIUXQwWUY2UjZYeEVKdjl0aUE2R0Vhb2tBWklrUzY0Zk5sRHBPX2VVeWp3clNNdUV1TWV0b2MtdkJYYjBBNkpGLWkxMGRDT0J5WTlKaEd0SjJoNGhrQ2FUVmFLdEQzVjlnR25zZndjNA?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,11 +78,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 14 Aug 2026 21:11:15 GMT",
-          "source": "DLA Piper"
+          "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+          "source": "Export Development Canada (EDC)"
         }
       ]
     },
@@ -98,7 +98,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Fri, 14 Aug 2026 21:31:58 GMT",
@@ -111,14 +111,14 @@
       "title": "Expert reveals 6 viral food trends to avoid - wyomingnewsnow.tv",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa1B0VDNIcmRIT2RPMWZBZ09mc1RmSWVlWFFWc3hzTWs4dTBGX0FyLXJZcVdueEdpaFNoelg0UUI5WGU4VVgwV1h5Vjl4MjI5ODF5LWpiR3FkOEdIbnhCSHRvb3hrSFFnTVVNT2I4TFFGU0pXeUJMR18zYVRQVkVUaUpIamNEaTVpM3I2ZTZVUmxOM0ZCTWZ4NFU1RGpDU2NWc28yWjRyWjh1OU",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa1B0VDNIcmRIT2RPMWZBZ09mc1RmSWVlWFFWc3hzTWs4dTBGX0FyLXJZcVdueEdpaFNoelg0UUI5WGU4VVgwV1h5Vjl4MjI5ODF5LWpiR3FkOEdIbnhCSHRvb3hrSFFnTVVNT2I4TFFGU0pXeUJMR18zYVRQVkVUaUpIamNEaTVpM3I2ZTZVUmxOM0ZCTWZ4NFU1RGpDU2NWc28yWjRyWjh1OUxFT1JrVXl1M2lSVHR3bENVbVdMRjBHeWxBXzM2bjB0MExnek50U0N3?oc=5",
-      "score": 67.2,
+      "score": 66.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Thu, 13 Aug 2026 15:58:07 GMT",
@@ -126,7 +126,7 @@
         },
         {
           "published": "Thu, 13 Aug 2026 15:58:07 GMT",
-          "source": "Caledonian Record"
+          "source": "caledonianrecord.com"
         },
         {
           "published": "Thu, 13 Aug 2026 15:58:07 GMT",
@@ -146,7 +146,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-16T06:57:50+00:00",
+      "first_seen": "2026-08-16T12:59:19+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -169,7 +169,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Wed, 11 Mar 2026 07:00:00 GMT",
@@ -189,7 +189,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-16T06:57:50+00:00",
+      "first_seen": "2026-08-16T12:59:19+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -207,22 +207,42 @@
       "is_global": true
     },
     {
-      "id": "be21cc2921a1",
-      "title": "What's behind social media food trends - and why are they so tempting? - rnz.co.nz",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmEyRzJGYXkwNG83VDdOLXZVV2JtY2VQaksxVzNvaGFPRGN1ZmRtR2xaMW1XUjFRc0dLVk4xLTlVOVNsSC1jWWlQcGoybzhCOXMxZDRlS2FBTXRqbTVBVXZCdzFsakxXT3d6eFJTNFNuM3JrYjdqTjF1YUx0eHM5VDd1bjlqT00zVDZnZnZLeEQ1bktodDRKdUVOblJ0QnBv?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmEyRzJGYXkwNG83VDdOLXZVV2JtY2VQaksxVzNvaGFPRGN1ZmRtR2xaMW1XUjFRc0dLVk4xLTlVOVNsSC1jWWlQcGoybzhCOXMxZDRlS2FBTXRqbTVBVXZCdzFsakxXT3d6eFJTNFNuM3JrYjdqTjF1YUx0eHM5VDd1bjlqT00zVDZnZnZLeEQ1bktodDRKdUVOblJ0QnBv?oc=5",
-      "score": 54.0,
+      "id": "2828622c13fc",
+      "title": "Spicy Minced-Meat Patties: 7-Eleven Japan Has a New Super Spicy! Taiwan Mince Cutlet - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9KTE5QeFZ2YVdBRWx4emVtQlIxUmI3SnRXbE9GWk8tS09GQTgtM1N0SHBqcDBvbjRZSFdiTlZ3QlFKRHc4RHc1NmJKZC1WTThIdC14MFhPSENkX3JlTGxNUW0zcmZSUkdnbzgwQ2JhVkJHTjVJ?oc=5\" target=\"_blank\">Spicy Minced-Meat Patties: 7-Eleven Japan Has a New",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KTE5QeFZ2YVdBRWx4emVtQlIxUmI3SnRXbE9GWk8tS09GQTgtM1N0SHBqcDBvbjRZSFdiTlZ3QlFKRHc4RHc1NmJKZC1WTThIdC14MFhPSENkX3JlTGxNUW0zcmZSUkdnbzgwQ2JhVkJHTjVJ?oc=5",
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 16 Aug 2026 11:38:42 GMT",
+          "source": "Trend Hunter"
+        }
+      ]
+    },
+    {
+      "id": "7915e9ed2b20",
+      "title": "What's behind social media food trends - and why are they so tempting? - RNZ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmEyRzJGYXkwNG83VDdOLXZVV2JtY2VQaksxVzNvaGFPRGN1ZmRtR2xaMW1XUjFRc0dLVk4xLTlVOVNsSC1jWWlQcGoybzhCOXMxZDRlS2FBTXRqbTVBVXZCdzFsakxXT3d6eFJTNFNuM3JrYjdqTjF1YUx0eHM5VDd1bjlqT00zVDZnZnZLeEQ1bktodDRKdUVOblJ0QnBv?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmEyRzJGYXkwNG83VDdOLXZVV2JtY2VQaksxVzNvaGFPRGN1ZmRtR2xaMW1XUjFRc0dLVk4xLTlVOVNsSC1jWWlQcGoybzhCOXMxZDRlS2FBTXRqbTVBVXZCdzFsakxXT3d6eFJTNFNuM3JrYjdqTjF1YUx0eHM5VDd1bjlqT00zVDZnZnZLeEQ1bktodDRKdUVOblJ0QnBv?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Fri, 14 Aug 2026 19:09:17 GMT",
-          "source": "rnz.co.nz"
+          "source": "RNZ"
         }
       ]
     },
@@ -231,14 +251,14 @@
       "title": "Chartwells Forecasts 5 Campus Dining Trends for Fall 2026 - Prepared Foods",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHhpV0Uteno4TlRtVHlzblN5MjRmWGwxZjZfNEphMVNVYV9qZXNrRk9kelMtblpZejRyRFlZSkR3Uzc5UllJb1ZHT0V5Zm9RbFlFYV9vQlRhRE13cHhWRkF1X2pnZ2dCNzdNb01wQ2R0VmRmVUZwaERyTWVwVWllbDlLQXptQnZZWVl0MFp6TXVJUUJOSmpmYmJETUFYZFVKY1pKUlZB?oc=5\"",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHhpV0Uteno4TlRtVHlzblN5MjRmWGwxZjZfNEphMVNVYV9qZXNrRk9kelMtblpZejRyRFlZSkR3Uzc5UllJb1ZHT0V5Zm9RbFlFYV9vQlRhRE13cHhWRkF1X2pnZ2dCNzdNb01wQ2R0VmRmVUZwaERyTWVwVWllbDlLQXptQnZZWVl0MFp6TXVJUUJOSmpmYmJETUFYZFVKY1pKUlZB?oc=5",
-      "score": 50.4,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Thu, 13 Aug 2026 10:00:00 GMT",
@@ -251,14 +271,14 @@
       "title": "5 food trends for college campuses this fall - FoodService Director",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGoyWjUtZFBSVjFwdEc0RWt6a2FiUzd3WWtCWExfaVJmY0lZYlZodkE5VC1xU1FTdnc5VWdzLUdaT2dMNU5kb3p1SWd0QnBTUHBJWnZBcFBUZHdmcWdoTG9kakgtSUZSQl9VUlBRNlhVZlRQWWhXX0tSS21ncGdpam9LUG1yZ1RaOHJOVUhUV2dFdlB6aFJEVVVCRldzNDV2RkZGVQ?oc=5\" t",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGoyWjUtZFBSVjFwdEc0RWt6a2FiUzd3WWtCWExfaVJmY0lZYlZodkE5VC1xU1FTdnc5VWdzLUdaT2dMNU5kb3p1SWd0QnBTUHBJWnZBcFBUZHdmcWdoTG9kakgtSUZSQl9VUlBRNlhVZlRQWWhXX0tSS21ncGdpam9LUG1yZ1RaOHJOVUhUV2dFdlB6aFJEVVVCRldzNDV2RkZGVQ?oc=5",
-      "score": 46.8,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Tue, 11 Aug 2026 16:14:08 GMT",
@@ -271,14 +291,14 @@
       "title": "Sector Trend Analysis – Pet food trends in India - Agriculture and Agri-food Canada",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1dlbE9TNVZPWlNjcUhoZ01nTkY3YWV1dWJKZ0ZZOEhvbXI3OWFGbGlOWUpIUlVfOWIwa3ptQ0NuMWlfTG16QW5oUVIzRUphOGJabDFaREtFNEx4UkY4QzFVdFhrb2VKcjFIRkdzSmxhVHlmandGR1pQeW5raVEyR3N2WGRQU0FKTUJkbGxXaGFoMmxyZzdOMGtpWmVoek5BUmYyN3Zldk4wbn",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1dlbE9TNVZPWlNjcUhoZ01nTkY3YWV1dWJKZ0ZZOEhvbXI3OWFGbGlOWUpIUlVfOWIwa3ptQ0NuMWlfTG16QW5oUVIzRUphOGJabDFaREtFNEx4UkY4QzFVdFhrb2VKcjFIRkdzSmxhVHlmandGR1pQeW5raVEyR3N2WGRQU0FKTUJkbGxXaGFoMmxyZzdOMGtpWmVoek5BUmYyN3Zldk4wbnVNSFNlNHFUd05zZw?oc=5",
-      "score": 43.2,
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Wed, 13 May 2026 07:00:00 GMT",
@@ -295,18 +315,38 @@
       ]
     },
     {
-      "id": "f8a8bf18abca",
-      "title": "BLS reports food at home price decline in July - Supermarket News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlhoSjgyekkxeVRHT2l0ZUNyODZxRTdMZC1EYnJyYnVyY2xqSnlUbHk0ZThCazNEbGRsT1NNbGQ0Z0JDNDMwM2dOZEdpdHlWc1VSQnd4V242b1lJX193VlAzUW4wc0Q4TUpUVzYwS0hyRVFJNDBDUDBKM2MzZG0yWlhWWFZlZFVmRm1lSWRkbjJkTjhET3ZiQ1hva0lQY2M?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlhoSjgyekkxeVRHT2l0ZUNyODZxRTdMZC1EYnJyYnVyY2xqSnlUbHk0ZThCazNEbGRsT1NNbGQ0Z0JDNDMwM2dOZEdpdHlWc1VSQnd4V242b1lJX193VlAzUW4wc0Q4TUpUVzYwS0hyRVFJNDBDUDBKM2MzZG0yWlhWWFZlZFVmRm1lSWRkbjJkTjhET3ZiQ1hva0lQY2M?oc=5",
-      "score": 43.2,
+      "id": "85c1ac32767a",
+      "title": "People Are Pouring Cream Into Frozen Watermelons — and the Result Is Surprisingly Delicious - Food & Wine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSFphSWJpZTgtZjZYTXFTQzYydkptOWRrWnI0QzBGUHVOQmJMdFVFSjZIY0x6WXJzMXlmMm9sNUxBb0QzNlUtQVBkS1FaQ19LVmZQQnM5V292eHNFODI2NzJYWGthNUZGdmYxTDFWUVNaWTdFc0xYd1VrQ3BwVzZFWW5ZRldHYUFPTVhVXzBZVWc5d3BLX2Fz?oc=5\" target=\"_blank\">Peo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSFphSWJpZTgtZjZYTXFTQzYydkptOWRrWnI0QzBGUHVOQmJMdFVFSjZIY0x6WXJzMXlmMm9sNUxBb0QzNlUtQVBkS1FaQ19LVmZQQnM5V292eHNFODI2NzJYWGthNUZGdmYxTDFWUVNaWTdFc0xYd1VrQ3BwVzZFWW5ZRldHYUFPTVhVXzBZVWc5d3BLX2Fz?oc=5",
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 12 Aug 2026 10:01:00 GMT",
+          "source": "Food & Wine"
+        }
+      ]
+    },
+    {
+      "id": "f8a8bf18abca",
+      "title": "BLS reports food at home price decline in July - Supermarket News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlhoSjgyekkxeVRHT2l0ZUNyODZxRTdMZC1EYnJyYnVyY2xqSnlUbHk0ZThCazNEbGRsT1NNbGQ0Z0JDNDMwM2dOZEdpdHlWc1VSQnd4V242b1lJX193VlAzUW4wc0Q4TUpUVzYwS0hyRVFJNDBDUDBKM2MzZG0yWlhWWFZlZFVmRm1lSWRkbjJkTjhET3ZiQ1hva0lQY2M?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlhoSjgyekkxeVRHT2l0ZUNyODZxRTdMZC1EYnJyYnVyY2xqSnlUbHk0ZThCazNEbGRsT1NNbGQ0Z0JDNDMwM2dOZEdpdHlWc1VSQnd4V242b1lJX193VlAzUW4wc0Q4TUpUVzYwS0hyRVFJNDBDUDBKM2MzZG0yWlhWWFZlZFVmRm1lSWRkbjJkTjhET3ZiQ1hva0lQY2M?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Wed, 12 Aug 2026 18:44:33 GMT",
@@ -315,21 +355,21 @@
       ]
     },
     {
-      "id": "8054fe56803f",
-      "title": "Integrated Diabetes Support Tools - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1GYzFQYXVMWi0tM29DTzhzLTBkWC1qaEVRbkRzamo4cG1WSzVocXUtTmZSS3pwRnk5U1JkQ3NoLVZjM1JCNXFJTjZoWHh6cEdvMVdDM0RrQXNuX3lIaEVZUURDc3dvUjlzTjEzMjVpNNIBdEFVX3lxTE9GbEgteGQyeUxJRDdJV1RPN2NyZGtoLTkzMDM2UnEwZ1lwQ0k4WkdMeG5yOFZQYWVrOF",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GYzFQYXVMWi0tM29DTzhzLTBkWC1qaEVRbkRzamo4cG1WSzVocXUtTmZSS3pwRnk5U1JkQ3NoLVZjM1JCNXFJTjZoWHh6cEdvMVdDM0RrQXNuX3lIaEVZUURDc3dvUjlzTjEzMjVpNNIBdEFVX3lxTE9GbEgteGQyeUxJRDdJV1RPN2NyZGtoLTkzMDM2UnEwZ1lwQ0k4WkdMeG5yOFZQYWVrOFJrLTVuTklsbWl0NGNiT0tEU3BuWXFJTVhPVy03aWlNTmFTcUZLNW14LUlXTGZVci1pUVdnTVBJaGRU?oc=5",
-      "score": 39.6,
+      "id": "f4da8ff14757",
+      "title": "Black Tea Cream Donuts - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBZdkVqcEcxaGdJVndPSDVDdzRCQTNoRkJjREpUaGFmWWk5a0FYVWdXSHR2REJ2RUJDMU1qSWNfa2J0U0cyRHY5NzJxZzgwNnd0RVo1WWJITUtDTjdCTU1aR2NFa1ZGaXRNRlJLVFQzVnXSAXZBVV95cUxNVm1USGhhQmZnU09ublYwYmZuWTNIU1hIeHVDdG95NkxsN0htcFlKTVhkejFqRy1oU0",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZdkVqcEcxaGdJVndPSDVDdzRCQTNoRkJjREpUaGFmWWk5a0FYVWdXSHR2REJ2RUJDMU1qSWNfa2J0U0cyRHY5NzJxZzgwNnd0RVo1WWJITUtDTjdCTU1aR2NFa1ZGaXRNRlJLVFQzVnXSAXZBVV95cUxNVm1USGhhQmZnU09ublYwYmZuWTNIU1hIeHVDdG95NkxsN0htcFlKTVhkejFqRy1oU0lCSElZOURBU2t5S3NaN3NQWDZrNTZOU0RpeGJlWnhkbl9SME4yN1ZUZG5fMnJDUlBsbUJPRDRNaTVzVjRB?oc=5",
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 15 Aug 2026 23:16:10 GMT",
+          "published": "Sun, 16 Aug 2026 11:38:42 GMT",
           "source": "Trend Hunter"
         }
       ]
@@ -339,42 +379,18 @@
       "title": "Health and Wellness Series – Organic packaged food trends in Germany - Agriculture and Agri-food Canada",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0VuYV9yVWxOeEJFRktGX20zbUJNTXpkMVlEZFRWR3hVbjQ5NFhhTS1qem56VmNaOGZ4SDF2eHFfb2hVSVNRY2E5NGZFX09XTi1EbEJ4SzYxbGpzWjg1eEZmWngwdmNrclB3cXBQVTNmMk5DYlVOSWlNREtQWUVOeDJMRnlZaTNPZHF0a1EtYk5fdUo4TS1vRHVHSVB1SDZYdUtTZnRpLUppRE",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0VuYV9yVWxOeEJFRktGX20zbUJNTXpkMVlEZFRWR3hVbjQ5NFhhTS1qem56VmNaOGZ4SDF2eHFfb2hVSVNRY2E5NGZFX09XTi1EbEJ4SzYxbGpzWjg1eEZmWngwdmNrclB3cXBQVTNmMk5DYlVOSWlNREtQWUVOeDJMRnlZaTNPZHF0a1EtYk5fdUo4TS1vRHVHSVB1SDZYdUtTZnRpLUppRE9NZjlfdG9ZelZ1aFFzMmttc2JnY3FxbzNuN2thRUxZcXRQZm16?oc=5",
-      "score": 28.8,
+      "score": 25.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
+      "first_seen": "2026-08-16T12:57:02+00:00",
       "raw_samples": [
         {
           "published": "Wed, 29 Apr 2026 07:00:00 GMT",
           "source": "Agriculture and Agri-food Canada"
-        },
-        {
-          "published": "Wed, 15 Apr 2026 07:00:00 GMT",
-          "source": "Agriculture and Agri-food Canada"
-        }
-      ]
-    },
-    {
-      "id": "b521e861178d",
-      "title": "Show spotlights protein, sugar alternatives and color trends - Supermarket Perimeter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUlXV3BkRW0yVWp3LTYzYWlReVp0ckR6SVM3OHgxdkFIcERzZ21jTlRkMkZNWnR4c3BMbVVkOFBxcnRFYmVvQ0NmSG9jR3FZeVJ2ak1QcmFtWnloRkEwSTJaeFg0U2VXelZjLVJkakJ1NVdYaXJEY0oxYUZnN2ZXZmhUSlZDQ2RuRm9DZmxKbThtcEtQbXhCcnBQM3JFTTA1WEkyRFRkUHgteH",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUlXV3BkRW0yVWp3LTYzYWlReVp0ckR6SVM3OHgxdkFIcERzZ21jTlRkMkZNWnR4c3BMbVVkOFBxcnRFYmVvQ0NmSG9jR3FZeVJ2ak1QcmFtWnloRkEwSTJaeFg0U2VXelZjLVJkakJ1NVdYaXJEY0oxYUZnN2ZXZmhUSlZDQ2RuRm9DZmxKbThtcEtQbXhCcnBQM3JFTTA1WEkyRFRkUHgteHVWSzRUU0Z4NnRhTEhUS3lJVA?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-08-16T06:55:34+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 12 Aug 2026 15:00:41 GMT",
-          "source": "Supermarket Perimeter"
         }
       ]
     }
