@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "UK",
-  "generated_at": "2026-08-17T13:11:35+00:00",
+  "generated_at": "2026-08-17T19:03:36+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "a52574f02cac",
-      "title": "Food and Beverage News and Trends - August 14, 2026 - DLA Piper",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWNDZGFJbTNnSG9hNzRsOUJzQWZrbzFKRkxjbjJxT0I1RUljMXdFZUhJbThnM0hIN3A2NXdzdS1XQ1dYeWttbVg4ejc5eHk2S0d0ZmtiTG05bU5sTTRTN2NGMkhiOVdMLWRqVkZ4UkRIUXQwWUY2UjZYeEVKdjl0aUE2R0Vhb2tBWklrUzY0Zk5sRHBPX2VVeWp3clNNdUV1TWV0b2MtdkJYYj",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWNDZGFJbTNnSG9hNzRsOUJzQWZrbzFKRkxjbjJxT0I1RUljMXdFZUhJbThnM0hIN3A2NXdzdS1XQ1dYeWttbVg4ejc5eHk2S0d0ZmtiTG05bU5sTTRTN2NGMkhiOVdMLWRqVkZ4UkRIUXQwWUY2UjZYeEVKdjl0aUE2R0Vhb2tBWklrUzY0Zk5sRHBPX2VVeWp3clNNdUV1TWV0b2MtdkJYYjBBNkpGLWkxMGRDT0J5WTlKaEd0SjJoNGhrQ2FUVmFLdEQzVjlnR25zZndjNA?oc=5",
+      "id": "1f3818498419",
+      "title": "No ingredient can make up for a balanced diet: Why ‘maxxing’ trends are not the answer - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0VxS2dPa3R0VUtTLWxCQ1FPd2UzdVdTVG04MlVEMWpWUnhETGh2a19ZWnhWMG1qR0FWUmVvNnpWckhROC1RZ1Mxb0Q4VTcyZTlES25XTVJxeU13SktYV0ItOXVuaDNfRFVEdEhQZVNETUVpVU9FRHpBWEM5SVdLMWNqVlhlanZTdUpSYTg0Rjc1N0N2ZFFfT0I0NExGUlhoZ1Zv?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0VxS2dPa3R0VUtTLWxCQ1FPd2UzdVdTVG04MlVEMWpWUnhETGh2a19ZWnhWMG1qR0FWUmVvNnpWckhROC1RZ1Mxb0Q4VTcyZTlES25XTVJxeU13SktYV0ItOXVuaDNfRFVEdEhQZVNETUVpVU9FRHpBWEM5SVdLMWNqVlhlanZTdUpSYTg0Rjc1N0N2ZFFfT0I0NExGUlhoZ1Zv?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 17 Aug 2026 14:29:30 GMT",
+          "source": "FoodNavigator.com"
+        }
+      ]
+    },
+    {
+      "id": "a52574f02cac",
+      "title": "Food and Beverage News and Trends - August 14, 2026 - DLA Piper",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWNDZGFJbTNnSG9hNzRsOUJzQWZrbzFKRkxjbjJxT0I1RUljMXdFZUhJbThnM0hIN3A2NXdzdS1XQ1dYeWttbVg4ejc5eHk2S0d0ZmtiTG05bU5sTTRTN2NGMkhiOVdMLWRqVkZ4UkRIUXQwWUY2UjZYeEVKdjl0aUE2R0Vhb2tBWklrUzY0Zk5sRHBPX2VVeWp3clNNdUV1TWV0b2MtdkJYYj",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWNDZGFJbTNnSG9hNzRsOUJzQWZrbzFKRkxjbjJxT0I1RUljMXdFZUhJbThnM0hIN3A2NXdzdS1XQ1dYeWttbVg4ejc5eHk2S0d0ZmtiTG05bU5sTTRTN2NGMkhiOVdMLWRqVkZ4UkRIUXQwWUY2UjZYeEVKdjl0aUE2R0Vhb2tBWklrUzY0Zk5sRHBPX2VVeWp3clNNdUV1TWV0b2MtdkJYYjBBNkpGLWkxMGRDT0J5WTlKaEd0SjJoNGhrQ2FUVmFLdEQzVjlnR25zZndjNA?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "UK",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
           "published": "Fri, 14 Aug 2026 21:11:15 GMT",
@@ -31,14 +51,14 @@
       "title": "The Magnum croissant and other food trends of summer 2026 - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE82X2g0WF9LTmJYQU84WEh0dXlYakloWFdEcEl0V2pnWUp1cDA5REJfZEFPd0tTXzJHX0JGZnlKNHVYSkZXSDVmVnZfLTh3WHk4OVdDc241M1Zhb0U?oc=5\" target=\"_blank\">The Magnum croissant and other food trends of summer 2026</a>&nbsp;&nbsp;<font color",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82X2g0WF9LTmJYQU84WEh0dXlYakloWFdEcEl0V2pnWUp1cDA5REJfZEFPd0tTXzJHX0JGZnlKNHVYSkZXSDVmVnZfLTh3WHk4OVdDc241M1Zhb0U?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
           "published": "Wed, 05 Aug 2026 08:09:13 GMT",
@@ -51,14 +71,14 @@
       "title": "The summer trends hotlist … tomato ketchup’s got competition | Food - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSW5pbWVNWlczRjV1Rm51THpfVUxwdU5vZ3dEQWFYcVE4Y0xNNlhobWRHNWktYVJvLWx0RndQWjJzbmtpSTV5ZmZ0aTY0RjBIdld4Uk9aNHNwMDhFdG5tU2kzdmFaYVNjNTdxSWxFWk1iWjFtYWRGZWlNZExJZW1WNDB4S2RyZk1heTRLTQ?oc=5\" target=\"_blank\">The summer trends",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSW5pbWVNWlczRjV1Rm51THpfVUxwdU5vZ3dEQWFYcVE4Y0xNNlhobWRHNWktYVJvLWx0RndQWjJzbmtpSTV5ZmZ0aTY0RjBIdld4Uk9aNHNwMDhFdG5tU2kzdmFaYVNjNTdxSWxFWk1iWjFtYWRGZWlNZExJZW1WNDB4S2RyZk1heTRLTQ?oc=5",
-      "score": 79.2,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
           "published": "Tue, 30 Jun 2026 07:00:00 GMT",
@@ -67,30 +87,10 @@
       ]
     },
     {
-      "id": "1e6c7c98ff18",
-      "title": "4 food trends reshaping foodservice - CHS Inc.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWwzR2pwT2dtSGkzbC1ka3BnNmtzQzdUTVZGTnNETl9yZUlQZ18za1VTU1hqR255eG1ERFcyWmJrN25SVzgxdUtGU3lwek9CQkJ1eF96bi1ZWmRaalc1cXJBX2VFUGJRa3NxdVIzU1BueEcxOFhlUlczcWtaVnk0Ym9vcFhnNGZ2NVBSbjdrNA?oc=5\" target=\"_blank\">4 food trends",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWwzR2pwT2dtSGkzbC1ka3BnNmtzQzdUTVZGTnNETl9yZUlQZ18za1VTU1hqR255eG1ERFcyWmJrN25SVzgxdUtGU3lwek9CQkJ1eF96bi1ZWmRaalc1cXJBX2VFUGJRa3NxdVIzU1BueEcxOFhlUlczcWtaVnk0Ym9vcFhnNGZ2NVBSbjdrNA?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 12 Aug 2026 14:38:00 GMT",
-          "source": "CHS Inc."
-        }
-      ]
-    },
-    {
-      "id": "852aeb4218cf",
-      "title": "5 food trends driven by lifestyle shifts around the world - FoodNavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1plWTJNQ3J4cl9WMjBHYjJDRXphQWo0aTRjaFpKVXZueVk5Wjk4OTRwT1NLcE1LRXVUSGZPR00yZDRYMzdQcTFld3JVQWFoR2RmRWdzWWhIWlg3Z0VNN0lmS19GZFRiN0I3cHkzQVhHRXpWMWI1UzVvOU02ajNSTXlfNmVfRFF1cVo2RGJIYnRkcUlaOERUUDV1UFI0b240Rmw2MmhUaVVZRn",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1plWTJNQ3J4cl9WMjBHYjJDRXphQWo0aTRjaFpKVXZueVk5Wjk4OTRwT1NLcE1LRXVUSGZPR00yZDRYMzdQcTFld3JVQWFoR2RmRWdzWWhIWlg3Z0VNN0lmS19GZFRiN0I3cHkzQVhHRXpWMWI1UzVvOU02ajNSTXlfNmVfRFF1cVo2RGJIYnRkcUlaOERUUDV1UFI0b240Rmw2MmhUaVVZRnc?oc=5",
+      "id": "78037bb77caa",
+      "title": "Food-Focused Community Events - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lWHJEeUstVk12eGZ2UVYzc1N1VlVUdjRtanBIbncyeWlROUh2YmtlWEZndXFrT0p1a2o5azJ0ZGxsbF9CS3ZhV01aZ084TnRFU1ZiYms4NVJ5YTDSAWBBVV95cUxQdjh5ajJsMDVaNUFJbnFSdUFVeklkTWdkQ0Z5VTNfWk8wZDREYXVkaXlfbHpvZWZPOXh1U1ZPbDZJaHNkc1h2bmw4azRLT1",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lWHJEeUstVk12eGZ2UVYzc1N1VlVUdjRtanBIbncyeWlROUh2YmtlWEZndXFrT0p1a2o5azJ0ZGxsbF9CS3ZhV01aZ084TnRFU1ZiYms4NVJ5YTDSAWBBVV95cUxQdjh5ajJsMDVaNUFJbnFSdUFVeklkTWdkQ0Z5VTNfWk8wZDREYXVkaXlfbHpvZWZPOXh1U1ZPbDZJaHNkc1h2bmw4azRLT1U3SFJGNFRKYm95RlVOVDloUC0?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -98,19 +98,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "source": "FoodNavigator.com"
+          "published": "Mon, 17 Aug 2026 17:15:25 GMT",
+          "source": "Trend Hunter"
         }
       ]
     },
     {
-      "id": "1755da2204a0",
-      "title": "Barbecue Popcorn Ice Creams - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6a1pJNjFpQ196VFF1YUJkQUEwOEZrMXNPY29uLWg5S2l0QS1od0NKY0QydmFheld6QXhOSU90RE5lU05hdnBwUEVhTFhURmFRT1gtX3ViRTRsZnpUcWgw0gFkQVVfeXFMT2MwNFc1UWN4RUk1Mjkzb3V5NFJQLVRiV3lVWkpNWjh3VS1qWnRCWnAxTEtxT3hBLU5ra3BGblk2VnJROFAxczdqSG",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6a1pJNjFpQ196VFF1YUJkQUEwOEZrMXNPY29uLWg5S2l0QS1od0NKY0QydmFheld6QXhOSU90RE5lU05hdnBwUEVhTFhURmFRT1gtX3ViRTRsZnpUcWgw0gFkQVVfeXFMT2MwNFc1UWN4RUk1Mjkzb3V5NFJQLVRiV3lVWkpNWjh3VS1qWnRCWnAxTEtxT3hBLU5ra3BGblk2VnJROFAxczdqSGtOYmdRNEF0eTE5YUZTM0ZPWklnLWdla3NSYQ?oc=5",
+      "id": "1e6c7c98ff18",
+      "title": "4 food trends reshaping foodservice - CHS Inc.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWwzR2pwT2dtSGkzbC1ka3BnNmtzQzdUTVZGTnNETl9yZUlQZ18za1VTU1hqR255eG1ERFcyWmJrN25SVzgxdUtGU3lwek9CQkJ1eF96bi1ZWmRaalc1cXJBX2VFUGJRa3NxdVIzU1BueEcxOFhlUlczcWtaVnk0Ym9vcFhnNGZ2NVBSbjdrNA?oc=5\" target=\"_blank\">4 food trends",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWwzR2pwT2dtSGkzbC1ka3BnNmtzQzdUTVZGTnNETl9yZUlQZ18za1VTU1hqR255eG1ERFcyWmJrN25SVzgxdUtGU3lwek9CQkJ1eF96bi1ZWmRaalc1cXJBX2VFUGJRa3NxdVIzU1BueEcxOFhlUlczcWtaVnk0Ym9vcFhnNGZ2NVBSbjdrNA?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -118,11 +118,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 17 Aug 2026 09:06:10 GMT",
-          "source": "Trend Hunter"
+          "published": "Wed, 12 Aug 2026 14:38:00 GMT",
+          "source": "CHS Inc."
         }
       ]
     },
@@ -138,7 +138,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
           "published": "Fri, 07 Aug 2026 07:00:00 GMT",
@@ -158,7 +158,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-17T13:04:42+00:00",
+      "first_seen": "2026-08-17T18:56:37+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -181,11 +181,39 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
           "published": "Sun, 16 Aug 2026 09:00:00 GMT",
           "source": "NPR"
+        }
+      ]
+    },
+    {
+      "id": "40612f20ed42",
+      "title": "Recyclable Frozen Food Packaging Market - futuremarketinsights.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPREZ2M2JfdTJEUTZubmtISjhTMER2Sk1PN0k1Tm1lQ2Y3OGhhaHJBRFFXc1p3RV81ZGE0ek42MW50ejBYWGNsN3dCUUp0anhMS0M2SnpmSXo2VVFlWnkxQUx2OWRxUDNackxwMl9WVnVXV1VjdjVNcVJiSUc1OXplNE1RVzNUQVJtclloSg?oc=5\" target=\"_blank\">Recyclable Frozen",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPREZ2M2JfdTJEUTZubmtISjhTMER2Sk1PN0k1Tm1lQ2Y3OGhhaHJBRFFXc1p3RV81ZGE0ek42MW50ejBYWGNsN3dCUUp0anhMS0M2SnpmSXo2VVFlWnkxQUx2OWRxUDNackxwMl9WVnVXV1VjdjVNcVJiSUc1OXplNE1RVzNUQVJtclloSg?oc=5",
+      "score": 58.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "UK",
+      "first_seen": "2026-08-17T18:54:16+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 17 Aug 2026 07:59:31 GMT",
+          "source": "futuremarketinsights.com"
+        },
+        {
+          "published": "Mon, 17 Aug 2026 07:29:31 GMT",
+          "source": "futuremarketinsights.com"
+        },
+        {
+          "published": "Fri, 14 Aug 2026 14:04:25 GMT",
+          "source": "futuremarketinsights.com"
         }
       ]
     },
@@ -201,7 +229,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-17T13:04:42+00:00",
+      "first_seen": "2026-08-17T18:56:37+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -230,7 +258,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
           "published": "Thu, 13 Aug 2026 15:58:07 GMT",
@@ -239,58 +267,10 @@
       ]
     },
     {
-      "id": "932946da04a5",
-      "title": "Recyclable Frozen Food Packaging Market - Future Market Insights",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPREZ2M2JfdTJEUTZubmtISjhTMER2Sk1PN0k1Tm1lQ2Y3OGhhaHJBRFFXc1p3RV81ZGE0ek42MW50ejBYWGNsN3dCUUp0anhMS0M2SnpmSXo2VVFlWnkxQUx2OWRxUDNackxwMl9WVnVXV1VjdjVNcVJiSUc1OXplNE1RVzNUQVJtclloSg?oc=5\" target=\"_blank\">Recyclable Frozen",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPREZ2M2JfdTJEUTZubmtISjhTMER2Sk1PN0k1Tm1lQ2Y3OGhhaHJBRFFXc1p3RV81ZGE0ek42MW50ejBYWGNsN3dCUUp0anhMS0M2SnpmSXo2VVFlWnkxQUx2OWRxUDNackxwMl9WVnVXV1VjdjVNcVJiSUc1OXplNE1RVzNUQVJtclloSg?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 17 Aug 2026 07:59:31 GMT",
-          "source": "Future Market Insights"
-        },
-        {
-          "published": "Mon, 17 Aug 2026 07:29:31 GMT",
-          "source": "Future Market Insights"
-        },
-        {
-          "published": "Fri, 14 Aug 2026 14:04:25 GMT",
-          "source": "Future Market Insights"
-        }
-      ]
-    },
-    {
-      "id": "07a09c67e82f",
-      "title": "Top 5 food trends of the summer & the next food craze: Stew Leonard's CEO - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBzdmJQd0pDMU83Ul9JVld2M2twMkFOSWJ4THk3RGFKNVRaaTczR0x6NVIyQTZpZlVIeTZzdEhMdlZGTUEzRkRSc3o4U2RYUDVTOTdVcGwwOWNfM3RDU1RIck5BVGdjZWIwMGtDWDVaWERHaFcxR3E2Wm5uQQ?oc=5\" target=\"_blank\">Top 5 food trends of the summer & the nex",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzdmJQd0pDMU83Ul9JVld2M2twMkFOSWJ4THk3RGFKNVRaaTczR0x6NVIyQTZpZlVIeTZzdEhMdlZGTUEzRkRSc3o4U2RYUDVTOTdVcGwwOWNfM3RDU1RIck5BVGdjZWIwMGtDWDVaWERHaFcxR3E2Wm5uQQ?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 14 Aug 2026 21:31:58 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "076b361f3f7f",
-      "title": "10 Global Food Trends: from gut health and brain food to smarter snacking - foodinspiration.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPamNyeE1qOEVZSkoyR0hfM1JvX0JHUUxZdWN1VEtGenh6M1RvcUt0d0ZoMkI3M2tQU3FUNlByZURuendINVJBd2FFZ3hTM0FWVi1XeFViaWdSMGhvT2RsVFBSaThzUmJ2d0ZBeHI1Wi16Mmt5VjE1STBrRy1nTTdvbGtZV1FsUUFzM29BalVtaDVIb3VFNnlyVnJEX295Q2pDc2xtdlpST2l4N3",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamNyeE1qOEVZSkoyR0hfM1JvX0JHUUxZdWN1VEtGenh6M1RvcUt0d0ZoMkI3M2tQU3FUNlByZURuendINVJBd2FFZ3hTM0FWVi1XeFViaWdSMGhvT2RsVFBSaThzUmJ2d0ZBeHI1Wi16Mmt5VjE1STBrRy1nTTdvbGtZV1FsUUFzM29BalVtaDVIb3VFNnlyVnJEX295Q2pDc2xtdlpST2l4N3o1?oc=5",
+      "id": "6d9609f1a97b",
+      "title": "Six food trends that'll take over your tables and timelines in 2026 - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Zb3JueGtXT3dRSXhhcVpEUWQxSnpCUEJNUTBlUFZwSlAyLTVXamZsMjZOQnM4TGZ3WUlvX2dkNi1mNDlZWHNzZWstTmJ0aHAycFdGUTRpNHRUQUE3?oc=5\" target=\"_blank\">Six food trends that'll take over your tables and timelines in 2026</a>&nbsp;&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Zb3JueGtXT3dRSXhhcVpEUWQxSnpCUEJNUTBlUFZwSlAyLTVXamZsMjZOQnM4TGZ3WUlvX2dkNi1mNDlZWHNzZWstTmJ0aHAycFdGUTRpNHRUQUE3?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -298,47 +278,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 03 Aug 2026 11:11:11 GMT",
-          "source": "foodinspiration.com"
-        }
-      ]
-    },
-    {
-      "id": "20043a7d5a2a",
-      "title": "Top 10 Food Trends - IFT.org",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5\" target=\"_blank\">Top 10 Food Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TT09XakdmQ01RbUZWRWYtR1VWZ2w2bWtoQmFPQjhFUkdWY1VqSFUwTGJhRkl4ajlZUlpDY0FOd3JBZG5JbmhMWUV2eENINXc2QlBqdEVwVWxCM0h6R2pkSVJUYkhqUElKUmxYejF2LUo?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-          "source": "IFT.org"
-        }
-      ]
-    },
-    {
-      "id": "6d9609f1a97b",
-      "title": "Six food trends that'll take over your tables and timelines in 2026 - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Zb3JueGtXT3dRSXhhcVpEUWQxSnpCUEJNUTBlUFZwSlAyLTVXamZsMjZOQnM4TGZ3WUlvX2dkNi1mNDlZWHNzZWstTmJ0aHAycFdGUTRpNHRUQUE3?oc=5\" target=\"_blank\">Six food trends that'll take over your tables and timelines in 2026</a>&nbsp;&nbsp;",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Zb3JueGtXT3dRSXhhcVpEUWQxSnpCUEJNUTBlUFZwSlAyLTVXamZsMjZOQnM4TGZ3WUlvX2dkNi1mNDlZWHNzZWstTmJ0aHAycFdGUTRpNHRUQUE3?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
           "published": "Thu, 29 Jan 2026 08:00:00 GMT",
@@ -347,10 +287,50 @@
       ]
     },
     {
-      "id": "2110935d4eae",
-      "title": "10 food megatrends in Europe, and who’s following them - FoodNavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVNvY25JdnBDTWEwWHVWWDgtRzVYbEl0S2V2UlZzcmdhLVJZaU9zakg2akxGWmpuRktSNUJfS1dpVlBkVllHazNIbzBmODFMakFxSFc0Tm83Y1NHNm5vYml3XzBCb2tVX0NoV0dxODJINWpWM2JDUVJqOS1MYV9oU2RyOHA?oc=5\" target=\"_blank\">10 food megatrends in Europe",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVNvY25JdnBDTWEwWHVWWDgtRzVYbEl0S2V2UlZzcmdhLVJZaU9zakg2akxGWmpuRktSNUJfS1dpVlBkVllHazNIbzBmODFMakFxSFc0Tm83Y1NHNm5vYml3XzBCb2tVX0NoV0dxODJINWpWM2JDUVJqOS1MYV9oU2RyOHA?oc=5",
+      "id": "fc1cd6694670",
+      "title": "Granola Brand Acquisitions - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1aeHJSVFVhYzRZcnlXcWFmdXFXMVo5czJ3eVNIT2tKMTFVcUpBenFVNE4wTVo3Q1g0aWljTEh4bmRiMXhWdGtRbTBmZlozdldlMTEtdFhna1ZySEJOaEc4aEUyQTBzNDBUeXc00gFwQVVfeXFMTUJYdkFtcjB3Q2NrWGZmeExVQjBUclNWV2o3aU14NlBmU00zVUJtaDYwOW9yVmNkZHV2TE9aRm",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aeHJSVFVhYzRZcnlXcWFmdXFXMVo5czJ3eVNIT2tKMTFVcUpBenFVNE4wTVo3Q1g0aWljTEh4bmRiMXhWdGtRbTBmZlozdldlMTEtdFhna1ZySEJOaEc4aEUyQTBzNDBUeXc00gFwQVVfeXFMTUJYdkFtcjB3Q2NrWGZmeExVQjBUclNWV2o3aU14NlBmU00zVUJtaDYwOW9yVmNkZHV2TE9aRmQzNGZGUlIyNUpWUHc1RVlFZlBJb0QzN2Z1QU9XcEFlS1FkM3RJWlFySTZDQVVSU1VFeQ?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "UK",
+      "first_seen": "2026-08-17T18:54:16+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 17 Aug 2026 16:56:14 GMT",
+          "source": "Trend Hunter"
+        }
+      ]
+    },
+    {
+      "id": "852aeb4218cf",
+      "title": "5 food trends driven by lifestyle shifts around the world - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1plWTJNQ3J4cl9WMjBHYjJDRXphQWo0aTRjaFpKVXZueVk5Wjk4OTRwT1NLcE1LRXVUSGZPR00yZDRYMzdQcTFld3JVQWFoR2RmRWdzWWhIWlg3Z0VNN0lmS19GZFRiN0I3cHkzQVhHRXpWMWI1UzVvOU02ajNSTXlfNmVfRFF1cVo2RGJIYnRkcUlaOERUUDV1UFI0b240Rmw2MmhUaVVZRn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1plWTJNQ3J4cl9WMjBHYjJDRXphQWo0aTRjaFpKVXZueVk5Wjk4OTRwT1NLcE1LRXVUSGZPR00yZDRYMzdQcTFld3JVQWFoR2RmRWdzWWhIWlg3Z0VNN0lmS19GZFRiN0I3cHkzQVhHRXpWMWI1UzVvOU02ajNSTXlfNmVfRFF1cVo2RGJIYnRkcUlaOERUUDV1UFI0b240Rmw2MmhUaVVZRnc?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "UK",
+      "first_seen": "2026-08-17T18:54:16+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "source": "FoodNavigator.com"
+        }
+      ]
+    },
+    {
+      "id": "9821b2050856",
+      "title": "Culinary Argan Oils: ARLO is a Nutty, Single-Ingredient Everyday Cooking Oil - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ieElXamJGeWVfdGtNMVFqc19jUmxhWGl3T2t0QVhMV1FGMWxNZGhiOVBiRDFpS0J0bXdyUFFpb3NVTmgxZDJCc2d2UldqazlwZVhYUHlUSk1BVzJ6bjhWTkgzTQ?oc=5\" target=\"_blank\">Culinary Argan Oils: ARLO is a Nutty, Single-Ingredient Everyday Cooking ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ieElXamJGeWVfdGtNMVFqc19jUmxhWGl3T2t0QVhMV1FGMWxNZGhiOVBiRDFpS0J0bXdyUFFpb3NVTmgxZDJCc2d2UldqazlwZVhYUHlUSk1BVzJ6bjhWTkgzTQ?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -358,7 +338,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 17 Aug 2026 16:56:14 GMT",
+          "source": "Trend Hunter"
+        }
+      ]
+    },
+    {
+      "id": "2110935d4eae",
+      "title": "10 food megatrends in Europe, and who’s following them - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVNvY25JdnBDTWEwWHVWWDgtRzVYbEl0S2V2UlZzcmdhLVJZaU9zakg2akxGWmpuRktSNUJfS1dpVlBkVllHazNIbzBmODFMakFxSFc0Tm83Y1NHNm5vYml3XzBCb2tVX0NoV0dxODJINWpWM2JDUVJqOS1MYV9oU2RyOHA?oc=5\" target=\"_blank\">10 food megatrends in Europe",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVNvY25JdnBDTWEwWHVWWDgtRzVYbEl0S2V2UlZzcmdhLVJZaU9zakg2akxGWmpuRktSNUJfS1dpVlBkVllHazNIbzBmODFMakFxSFc0Tm83Y1NHNm5vYml3XzBCb2tVX0NoV0dxODJINWpWM2JDUVJqOS1MYV9oU2RyOHA?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "UK",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
           "published": "Mon, 27 Apr 2026 07:00:00 GMT",
@@ -367,30 +367,30 @@
       ]
     },
     {
-      "id": "77c3d3b1ba25",
-      "title": "Move over, pistachio – it’s pecan time! The food trends hotlist - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmRyWHdOeGFXM1lfSVZTQjdxUTloOW5Wa0JfRjhGYVZOR1MwX0ZBTHlNMzNvUi04Wm9oRG1PWElGNl9JYkN1cWlJY2tLVm91ZXFGUEhsbHE0MDE3TzkxaDk0SUVfa3luYUdVTS11bmVaY3VVRFJzUWpBQm1fOEc3U255RGRwSzJnT2FKNVhOUnRRRXNzUERnVElwVV80eUczVEFiQ3ln?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmRyWHdOeGFXM1lfSVZTQjdxUTloOW5Wa0JfRjhGYVZOR1MwX0ZBTHlNMzNvUi04Wm9oRG1PWElGNl9JYkN1cWlJY2tLVm91ZXFGUEhsbHE0MDE3TzkxaDk0SUVfa3luYUdVTS11bmVaY3VVRFJzUWpBQm1fOEc3U255RGRwSzJnT2FKNVhOUnRRRXNzUERnVElwVV80eUczVEFiQ3ln?oc=5",
-      "score": 32.4,
+      "id": "aab9ce2ae108",
+      "title": "Cold-Weather Beverage Lineups: SONIC Has Launched Its 'Hotumn' Drinks for Early Fall… - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVEZfdHIzeFB5R2pGZGFEZVRWUGxNS3RSNU5vM3ozX2dldVF1Ym80VVZSUzVJQm5vbmhMdElNYWR5UGMyRzgwUFpvZ3otTE9CYUZJV3B4NXZIc3BlOUg1UzZ0bDU?oc=5\" target=\"_blank\">Cold-Weather Beverage Lineups: SONIC Has Launched Its 'Hotumn' Drinks fo",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVEZfdHIzeFB5R2pGZGFEZVRWUGxNS3RSNU5vM3ozX2dldVF1Ym80VVZSUzVJQm5vbmhMdElNYWR5UGMyRzgwUFpvZ3otTE9CYUZJV3B4NXZIc3BlOUg1UzZ0bDU?oc=5",
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 24 Mar 2026 07:00:00 GMT",
-          "source": "The Guardian"
+          "published": "Mon, 17 Aug 2026 16:56:14 GMT",
+          "source": "Trend Hunter"
         }
       ]
     },
     {
-      "id": "91e19bd0ef6c",
-      "title": "16 trends at Expo West: Convenience, function and ‘feel good’ food redefines innovation and marketing - FoodNavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVllBMlpjN0FnSFA5V3otRWpvQ0xZQWx5ekFlcWJueE5wc3ZGY3JTSHJEZ181MS1qRnUya2dYTm42bEJnWVdJUDh1RGdZb2w1YUF3bnc3dGFtOUtxWEhBVnpETjJTaWh4QXBkakhZRGo3c1gzWEtJZHpycFItVTdaUVpMSTE0SUFCZGhZRVFraUl2OFIxWXUyNmZzdEVidzZTVEg4?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVllBMlpjN0FnSFA5V3otRWpvQ0xZQWx5ekFlcWJueE5wc3ZGY3JTSHJEZ181MS1qRnUya2dYTm42bEJnWVdJUDh1RGdZb2w1YUF3bnc3dGFtOUtxWEhBVnpETjJTaWh4QXBkakhZRGo3c1gzWEtJZHpycFItVTdaUVpMSTE0SUFCZGhZRVFraUl2OFIxWXUyNmZzdEVidzZTVEg4?oc=5",
+      "id": "53d4630ac78b",
+      "title": "Pet Food Ingredients & Sustainable Protein Market - futuremarketinsights.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVFITzdHUFFzWDJOYWdDOTVJbTF5WEhVVzRDd2ZqbVFxYjM3TGZYbGJ4cFVJbHJSSUc5N1JVTXdQWjFJUlJYbUpvOTFJcG5TOVJNRjgyVXpCUklTd2RnWF9Zb2o1aUVJWTZqTkMwdlI0eHZGSFZBREc0MUl6OGl5N0lRbk1vbnlHaElGWUhxYU1ybk9YWmxBZG8tb1I?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVFITzdHUFFzWDJOYWdDOTVJbTF5WEhVVzRDd2ZqbVFxYjM3TGZYbGJ4cFVJbHJSSUc5N1JVTXdQWjFJUlJYbUpvOTFJcG5TOVJNRjgyVXpCUklTd2RnWF9Zb2o1aUVJWTZqTkMwdlI0eHZGSFZBREc0MUl6OGl5N0lRbk1vbnlHaElGWUhxYU1ybk9YWmxBZG8tb1I?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -398,19 +398,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 31 Mar 2026 07:00:00 GMT",
-          "source": "FoodNavigator.com"
+          "published": "Fri, 14 Aug 2026 14:04:25 GMT",
+          "source": "futuremarketinsights.com"
         }
       ]
     },
     {
-      "id": "205eb9f79fe1",
-      "title": "Pet Food Ingredients & Sustainable Protein Market - Future Market Insights",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVFITzdHUFFzWDJOYWdDOTVJbTF5WEhVVzRDd2ZqbVFxYjM3TGZYbGJ4cFVJbHJSSUc5N1JVTXdQWjFJUlJYbUpvOTFJcG5TOVJNRjgyVXpCUklTd2RnWF9Zb2o1aUVJWTZqTkMwdlI0eHZGSFZBREc0MUl6OGl5N0lRbk1vbnlHaElGWUhxYU1ybk9YWmxBZG8tb1I?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVFITzdHUFFzWDJOYWdDOTVJbTF5WEhVVzRDd2ZqbVFxYjM3TGZYbGJ4cFVJbHJSSUc5N1JVTXdQWjFJUlJYbUpvOTFJcG5TOVJNRjgyVXpCUklTd2RnWF9Zb2o1aUVJWTZqTkMwdlI0eHZGSFZBREc0MUl6OGl5N0lRbk1vbnlHaElGWUhxYU1ybk9YWmxBZG8tb1I?oc=5",
+      "id": "1755da2204a0",
+      "title": "Barbecue Popcorn Ice Creams - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6a1pJNjFpQ196VFF1YUJkQUEwOEZrMXNPY29uLWg5S2l0QS1od0NKY0QydmFheld6QXhOSU90RE5lU05hdnBwUEVhTFhURmFRT1gtX3ViRTRsZnpUcWgw0gFkQVVfeXFMT2MwNFc1UWN4RUk1Mjkzb3V5NFJQLVRiV3lVWkpNWjh3VS1qWnRCWnAxTEtxT3hBLU5ra3BGblk2VnJROFAxczdqSG",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6a1pJNjFpQ196VFF1YUJkQUEwOEZrMXNPY29uLWg5S2l0QS1od0NKY0QydmFheld6QXhOSU90RE5lU05hdnBwUEVhTFhURmFRT1gtX3ViRTRsZnpUcWgw0gFkQVVfeXFMT2MwNFc1UWN4RUk1Mjkzb3V5NFJQLVRiV3lVWkpNWjh3VS1qWnRCWnAxTEtxT3hBLU5ra3BGblk2VnJROFAxczdqSGtOYmdRNEF0eTE5YUZTM0ZPWklnLWdla3NSYQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -418,11 +418,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "UK",
-      "first_seen": "2026-08-17T13:02:24+00:00",
+      "first_seen": "2026-08-17T18:54:16+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 14 Aug 2026 14:04:25 GMT",
-          "source": "Future Market Insights"
+          "published": "Mon, 17 Aug 2026 09:06:10 GMT",
+          "source": "Trend Hunter"
         }
       ]
     }
