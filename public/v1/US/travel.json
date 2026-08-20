@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-08-20T07:10:49+00:00",
+  "generated_at": "2026-08-20T13:15:58+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
       "id": "0570d2d2427d",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
           "published": "Thu, 20 Aug 2026 02:01:28 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
           "published": "Thu, 20 Aug 2026 00:00:00 GMT",
@@ -47,10 +47,10 @@
       ]
     },
     {
-      "id": "9bbd5b9459e1",
-      "title": "With Tourism Stalled, Hawaii Chases the Startup Wave - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFgyeUNGbWtvTFF2RmwzN090aHA3Y2dDRkFxSUotbEdWTHE5a1Qxb3lQeWlmUzZMZ0h3cHg2STBseThTZzhaNFlLRGctOU9qdzNESDZZMFphMzlyRW9QQXhlbDVPaEsxWXZZY2JLRlJ0ZzdESnZ5ZEJiMjVPUmZ3VFdtdk84Zw?oc=5\" target=\"_blank\">With Tourism Stalled, Haw",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFgyeUNGbWtvTFF2RmwzN090aHA3Y2dDRkFxSUotbEdWTHE5a1Qxb3lQeWlmUzZMZ0h3cHg2STBseThTZzhaNFlLRGctOU9qdzNESDZZMFphMzlyRW9QQXhlbDVPaEsxWXZZY2JLRlJ0ZzdESnZ5ZEJiMjVPUmZ3VFdtdk84Zw?oc=5",
+      "id": "8dc1bea329a4",
+      "title": "Alaska Airlines announces new nonstop service to Athens and Paris, connecting Seattle to more of the world - Alaska Airlines",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNXzJKdDlsc0lCSkl3TzFUUGhTVWhxUGRUVTI2TE0wTFFULThESm9BOThhcGM1YjVDQTZvUGo5bEdUZ3NIbHNiTkZMdHBsbExYcDdyUmU4WFlWajFzMDhkQXJDZGdiazlqc28taVBiOGRQcmVfYXFsYUZpRGhCTWJqUjZYV1VCSWFRcUN1dld5eUdOWFVzMHBROTliQWR4SUE?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNXzJKdDlsc0lCSkl3TzFUUGhTVWhxUGRUVTI2TE0wTFFULThESm9BOThhcGM1YjVDQTZvUGo5bEdUZ3NIbHNiTkZMdHBsbExYcDdyUmU4WFlWajFzMDhkQXJDZGdiazlqc28taVBiOGRQcmVfYXFsYUZpRGhCTWJqUjZYV1VCSWFRcUN1dld5eUdOWFVzMHBROTliQWR4SUE?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,11 +58,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 20 Aug 2026 01:44:23 GMT",
-          "source": "WSJ"
+          "published": "Thu, 20 Aug 2026 12:02:31 GMT",
+          "source": "Alaska Airlines"
+        }
+      ]
+    },
+    {
+      "id": "d4c67cb10432",
+      "title": "Travel advisory: Visitors to South American destination urged to ‘exercise increased caution’ - NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOMWs0ZVdVN0UyUXFSR0pjYzlQaF94cVJUeUU2dHBIMENsMXBLalA4bTRQVUVnZ0lpd29ybzV5NFNlb2xtQXI4d2ZfdFU1cEtWWjlsUEFIM1FJb2Npem9iYS1DQVFBSGZaWEdQUlhYVzQ3cmxLVFVYaUZ6eWlGZjl0aFpZcy1BcU42VjliS0ZXQ3hHdkVNTnB2RHo3S3gweWpGSGZTTFFSNnB0cT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMWs0ZVdVN0UyUXFSR0pjYzlQaF94cVJUeUU2dHBIMENsMXBLalA4bTRQVUVnZ0lpd29ybzV5NFNlb2xtQXI4d2ZfdFU1cEtWWjlsUEFIM1FJb2Npem9iYS1DQVFBSGZaWEdQUlhYVzQ3cmxLVFVYaUZ6eWlGZjl0aFpZcy1BcU42VjliS0ZXQ3hHdkVNTnB2RHo3S3gweWpGSGZTTFFSNnB0cThhaUF3WUlhWms3MzVyOHFTa0E3V1RZREpJSFHSAdoBQVVfeXFMT3hQbFBzTkVKc0VBSm5rY3N2Z3BXOVFrYmJLbHNyWWctelNOTE9ESmlHaGxuOXJtNDBxdzE2WkpEek56Q1NhbVN4bzdwcXVfX2hMenNSXzBYN3lWY0JCZi1qLTVYVFhPZXFGTlNPcVJKVVZSSjU3dkF0VUNEaldTck1sRGR4ZTdZbHNfYTFVS0ZiM0REWnlNeUlSSnJHY2hERWRPSG0ydHhtQmVVS1Z5TXFWTXpYOTEzazVEMEFXaHNNazJJNEdRazVVTzgxWGIyVmo3LWRFZ2Vub3c?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-20T13:06:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 20 Aug 2026 10:00:00 GMT",
+          "source": "NJ.com"
         }
       ]
     },
@@ -71,14 +91,14 @@
       "title": "Peter Santenello's 'Your Fellow Americans' explores overlooked U.S. destinations - NPR",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdS1hWnRDSTd3WXNYc3FjZTByOVZ3XzUyeFJHOV9zSGZrejBEak1BZjQ1aWpOaWxWbkx1VS1kcUlzUFpnRWh1NE91a0ZhUUE3MXlIQUxRalFRVjZUTlJObGxJZko3QlkxTVFYZXpPT25JWnBLRXlJdkpKQTdnVkxJMlVMZkc5YjQyeXdhZm5PTlZ5UHVqN3JmTVdFN1g3eFRhZ0dfQnpLQzFEQ1",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdS1hWnRDSTd3WXNYc3FjZTByOVZ3XzUyeFJHOV9zSGZrejBEak1BZjQ1aWpOaWxWbkx1VS1kcUlzUFpnRWh1NE91a0ZhUUE3MXlIQUxRalFRVjZUTlJObGxJZko3QlkxTVFYZXpPT25JWnBLRXlJdkpKQTdnVkxJMlVMZkc5YjQyeXdhZm5PTlZ5UHVqN3JmTVdFN1g3eFRhZ0dfQnpLQzFEQ1FFZV9Ub083bjZ6OXJQallqZ0F3?oc=5",
-      "score": 79.2,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
           "published": "Wed, 19 Aug 2026 08:46:26 GMT",
@@ -87,22 +107,62 @@
       ]
     },
     {
-      "id": "d3e2e7f68e46",
-      "title": "Photos | Buffalo Bills Travel to Cleveland - Buffalo Bills",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTnlLbUlWbXlSRWZVOUE4bTdxTGthSWtmVDU1b3NIVnlHNW9lajM3TGlLVTdZSVdhRHh2VGZWNWM5N1JIMzdJYzdaTm80RlpVdFdLdDlxcGhiX1I0ZW5sUlVDb0x4SWpiV25uNjBrQzlEUUVpNF8ybjdReXprMC1NdTl5c2xJRjVQdUE?oc=5\" target=\"_blank\">Photos | Buffalo Bil",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTnlLbUlWbXlSRWZVOUE4bTdxTGthSWtmVDU1b3NIVnlHNW9lajM3TGlLVTdZSVdhRHh2VGZWNWM5N1JIMzdJYzdaTm80RlpVdFdLdDlxcGhiX1I0ZW5sUlVDb0x4SWpiV25uNjBrQzlEUUVpNF8ybjdReXprMC1NdTl5c2xJRjVQdUE?oc=5",
-      "score": 75.6,
+      "id": "3ee61009470e",
+      "title": "✈️ Travel Photos: New York Giants fly to Miami - Giants.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBaV1pwZ3RiZmxyZWVHRnBSTjJmenJzSWx0ZEJaLUViVjBqTDYyd0JBQnZsLXlMWHhGOXMxQmczZkdwMWk0TjcyeTZKc0dUTm51M0laMEg4bUJVUXZ1NWl5TFJfYjh0ZVBWajN1WkY0SEkxUUh5a1RsX2dpa3I?oc=5\" target=\"_blank\">✈️ Travel Photos: New York Giants fly to",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaV1pwZ3RiZmxyZWVHRnBSTjJmenJzSWx0ZEJaLUViVjBqTDYyd0JBQnZsLXlMWHhGOXMxQmczZkdwMWk0TjcyeTZKc0dUTm51M0laMEg4bUJVUXZ1NWl5TFJfYjh0ZVBWajN1WkY0SEkxUUh5a1RsX2dpa3I?oc=5",
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 19 Aug 2026 22:32:15 GMT",
-          "source": "Buffalo Bills"
+          "published": "Wed, 19 Aug 2026 22:16:31 GMT",
+          "source": "Giants.com"
+        }
+      ]
+    },
+    {
+      "id": "d2570c4f7a3d",
+      "title": "Lake Tahoe Summit panelist warns of growing gap in tourism mitigation funding - KOLO | 8 News Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTFWOEhTSWdkSHlXWGFXR3FZQU5aSHBoQ21sTUsxbm9aa05sNXJOX3J1cG9VTUVYSTd1SlJ4LWVuMF83YUhZa2FCVlgwTUFyWFE1THJ3bE84QnA3Q2dOWnBESGw3R0xQTHZGYzlmdVhkdlFJWkN6cWp3ZjFGU3VsS1BGeTY4YW0tcVlTR1FkVnMwalBRbFpfQnJPeXd1OTRLM3RzT09LTzJDQd",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTFWOEhTSWdkSHlXWGFXR3FZQU5aSHBoQ21sTUsxbm9aa05sNXJOX3J1cG9VTUVYSTd1SlJ4LWVuMF83YUhZa2FCVlgwTUFyWFE1THJ3bE84QnA3Q2dOWnBESGw3R0xQTHZGYzlmdVhkdlFJWkN6cWp3ZjFGU3VsS1BGeTY4YW0tcVlTR1FkVnMwalBRbFpfQnJPeXd1OTRLM3RzT09LTzJDQdIBvgFBVV95cUxQVklOdGJLQmh6SDNzaktubUZfTTZzUFEzN0JDZElqYVBYWHNueGNRdTF2ZnloUkZORVFzTkwxcm5teFV6M0tVS2tMSmpBOTdWMFVkTEVXVW1mUmswOHdIMHUxRzZlMFVNUGM5aEdpN3QtRy02RlBzYWZNeTFPU29SM3I3YndvWlFTNUZYaklsUERrbldpc2xiQVVIY2pyUkZXcHZINlczekRWWC1DYVUxSHB4dGprbDVpWDF1S1FB?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-20T13:06:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 20 Aug 2026 06:21:00 GMT",
+          "source": "KOLO | 8 News Now"
+        }
+      ]
+    },
+    {
+      "id": "e9c59869a85d",
+      "title": "Sabre appoints experienced travel technology executive Derek Sharp to lead growing Lodging, Ground and Media business - PR Newswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNbmZXUGRteGJZR3pwMGVheFZPWmZ1a3hya1M0U3I1Q083R25jdXNHYW5aYmE3WXBZbjNPdENuVWdTdkVUaF9KYWdaT3NZNXJaMVpnTUdma21nRzRpTzFUZDQwZ05SOUl0N1ZNVnAtcDN6UExrVmhRamhJMDVTY0IyaDVWenkzaHN6eGE4RHVuSDdZdmNubTBsWFp2QmtfT2x1YU0yaF9mM05qek",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbmZXUGRteGJZR3pwMGVheFZPWmZ1a3hya1M0U3I1Q083R25jdXNHYW5aYmE3WXBZbjNPdENuVWdTdkVUaF9KYWdaT3NZNXJaMVpnTUdma21nRzRpTzFUZDQwZ05SOUl0N1ZNVnAtcDN6UExrVmhRamhJMDVTY0IyaDVWenkzaHN6eGE4RHVuSDdZdmNubTBsWFp2QmtfT2x1YU0yaF9mM05qektwaVZTY3V6SmloMlNyczR2Mi0xYWZmcFBIaTFyb25Ra0R4S0labWthYnJiYzhZcVlldndiYm1iZWJaVnBmdVdhUFRmWkRRNUhzNGZXMW9PaVlfcl9zM3c?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-20T13:06:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 20 Aug 2026 13:00:00 GMT",
+          "source": "PR Newswire"
         }
       ]
     },
@@ -111,14 +171,14 @@
       "title": "After Trump's travel ban, international students in the North Country are choosing between home and college - NCPR: North Country Public Radio",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQNlVLZDdpNl9rMHNTLXFoUE5aTTB3Q1B1cDdmYUhyRXlaYTA0XzZfYkd0WkdhZlNuS1RPam9CSmU4MFBJbTU1U3pBMUxOVE9yTk0zQTByM18zVDlialdEQ21pRXVmRDFGcTVhODc2WnZyeXU1WG1ESzJfMlg2eGtrUTNzTzVxanBSVWU2ekZGM3dUVTVweV9GckZMU0QxRkNKVGhKWWJDRFpRS3",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNlVLZDdpNl9rMHNTLXFoUE5aTTB3Q1B1cDdmYUhyRXlaYTA0XzZfYkd0WkdhZlNuS1RPam9CSmU4MFBJbTU1U3pBMUxOVE9yTk0zQTByM18zVDlialdEQ21pRXVmRDFGcTVhODc2WnZyeXU1WG1ESzJfMlg2eGtrUTNzTzVxanBSVWU2ekZGM3dUVTVweV9GckZMU0QxRkNKVGhKWWJDRFpRS3AtM2VnbzV2WGNkRTUxSWRnMDNSUV9HZzNndEZYR1hjOHF3TC1ZdFprNmwtcE16dlVrVHBnYXduc2ZhOVZOTzQwcEZBZ3pUc3MzNTVnMEZ1Z2lnTlBWZ1E?oc=5",
-      "score": 72.0,
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
           "published": "Wed, 19 Aug 2026 23:17:28 GMT",
@@ -131,14 +191,14 @@
       "title": "Ethics Commission Votes to Investigate Former Home Forward CEO Over Travel Spending - Willamette Week",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEtiYUQzZnBNZ2ZLRFNqN0hHWmh6SGNBR1lqWjZfSlpLbU9jYXBNRE1PYlJaTEt5UHNsV0xWLTdTbldJd3FQRU9fOFBXak1IWWJRUTBMSEVieWtENGNJYml6bVZ2c1NvdGlNMXJoODRtaG43aUZsSG5sZHE5a3lkbVRKaDhOV0t4azRqOTUycmpOSS1zN2VjLXg2dmRwNW9GQ0hKRzJTVGRwQm",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEtiYUQzZnBNZ2ZLRFNqN0hHWmh6SGNBR1lqWjZfSlpLbU9jYXBNRE1PYlJaTEt5UHNsV0xWLTdTbldJd3FQRU9fOFBXak1IWWJRUTBMSEVieWtENGNJYml6bVZ2c1NvdGlNMXJoODRtaG43aUZsSG5sZHE5a3lkbVRKaDhOV0t4azRqOTUycmpOSS1zN2VjLXg2dmRwNW9GQ0hKRzJTVGRwQm0xc29jYzlaWTdOY0h5dUNVY3JyY1J0YVh6aGc?oc=5",
-      "score": 68.4,
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
           "published": "Wed, 19 Aug 2026 22:43:11 GMT",
@@ -147,50 +207,10 @@
       ]
     },
     {
-      "id": "6cd70e323007",
-      "title": "Maui OED announces grant opportunities for financial literacy, student and youth travel - Maui Now",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGpBbnlmMHJ4X2NTM0ZDSmpiNklIVFQwYUlvVnZzRy00WnJfMllxN184Z0lhd3hEdEN2QkoyT1VUWEVqZVVpZUUyT3JyYU00bEhRZFZ0VkJFeEVwYnhZa09zSXhUeWlEdGQ3TGFQcUFXbGRLM1c0Um5iSHF3RDR2U25yelRRNTl0M1QxYXByQ2RJVW5jMmZjTm9lcFFjYXdvS1FzaVgyN21yQ0",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGpBbnlmMHJ4X2NTM0ZDSmpiNklIVFQwYUlvVnZzRy00WnJfMllxN184Z0lhd3hEdEN2QkoyT1VUWEVqZVVpZUUyT3JyYU00bEhRZFZ0VkJFeEVwYnhZa09zSXhUeWlEdGQ3TGFQcUFXbGRLM1c0Um5iSHF3RDR2U25yelRRNTl0M1QxYXByQ2RJVW5jMmZjTm9lcFFjYXdvS1FzaVgyN21yQ0JfbXhOdmFVcHhZMl9wcTNESg?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 20 Aug 2026 03:30:00 GMT",
-          "source": "Maui Now"
-        }
-      ]
-    },
-    {
-      "id": "f79d09f12f9f",
-      "title": "Air travel disruptions mount amid extreme weather, staffing shortages - Axios",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5iY2ZyRVBTeWVkOUxrT2pxb2hnSEN5LXlQdU01S1pMVE5QNFBGV3VQcnBTeld4RkthaVphaEF1azcyQzVGMV84WmdwaEtNbkFBTVpaNUJIM19TeU8yb3hadTlZbksxdlRaYlBONTJR?oc=5\" target=\"_blank\">Air travel disruptions mount amid extreme weather, staffing",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iY2ZyRVBTeWVkOUxrT2pxb2hnSEN5LXlQdU01S1pMVE5QNFBGV3VQcnBTeld4RkthaVphaEF1azcyQzVGMV84WmdwaEtNbkFBTVpaNUJIM19TeU8yb3hadTlZbksxdlRaYlBONTJR?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 19 Aug 2026 17:19:56 GMT",
-          "source": "Axios"
-        }
-      ]
-    },
-    {
-      "id": "565ae755b1a0",
-      "title": "‘They Rarely Travel Alone’: Inside the Complexity Spiral of Emerging Process Addictions - bhbusiness.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjlyOWVXUjhhc0lPWVBlYWRUR1V3T01xX1I5cFFuTkxCc2t0MFRILUhfd0V4XzhSVkE1c2w4cldqMGtTTFktQVBsOE5ITGVYeDhVZW1qMVpXMjR5NjhYdFp5dVpMX0V2ZXdxUGwxVTVUTWNBcVJMSndzdWFZWUVqeVRXRlJXWlRIYkh3cXNsS1Bybkh1UDFET3FkbTkyLTJFNmd0ZUNjR0hPMk",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjlyOWVXUjhhc0lPWVBlYWRUR1V3T01xX1I5cFFuTkxCc2t0MFRILUhfd0V4XzhSVkE1c2w4cldqMGtTTFktQVBsOE5ITGVYeDhVZW1qMVpXMjR5NjhYdFp5dVpMX0V2ZXdxUGwxVTVUTWNBcVJMSndzdWFZWUVqeVRXRlJXWlRIYkh3cXNsS1Bybkh1UDFET3FkbTkyLTJFNmd0ZUNjR0hPMkE1dm1ZTkMwZXhTaHJ6R2ZV?oc=5",
+      "id": "7f05d15f4c30",
+      "title": "Tourism Through Connection: Leveraging Maryland’s Existing Assets - Conduit Street Blog",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNblRsUkZXX21iWXUyYUdXQlh5Qm5ncFVMV0NEM3k2SE5yOVJvSmFlS2Etb29Wbzdtalg4ZFdYeUtMY1hVZ2hKSXVwWDVFLWU4SlQzY1FjMm1ZRlFldjlDNW9rbTZkVldscUkyRUdRY2NmOVNlWU44M19aSlJUdlFMM21iLUV4MG12bldoZnRQOHdQak41WHQzcVZVUVhyRTQwYWNWOHo5RFhOMm",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblRsUkZXX21iWXUyYUdXQlh5Qm5ncFVMV0NEM3k2SE5yOVJvSmFlS2Etb29Wbzdtalg4ZFdYeUtMY1hVZ2hKSXVwWDVFLWU4SlQzY1FjMm1ZRlFldjlDNW9rbTZkVldscUkyRUdRY2NmOVNlWU44M19aSlJUdlFMM21iLUV4MG12bldoZnRQOHdQak41WHQzcVZVUVhyRTQwYWNWOHo5RFhOMmRKSXZHYXZB?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -198,95 +218,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 19 Aug 2026 18:59:27 GMT",
-          "source": "bhbusiness.com"
-        }
-      ]
-    },
-    {
-      "id": "78c20d1fcbd1",
-      "title": "Is National Cheap Flight Day real? Tips from a travel expert to save money - First Alert 4",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEh2VWxTdWlrSzhYM29PY2VCZkQ2VElhdnpfSXg3cFdOSmxPNC0xZWpKOVFQLS1BUWdLc1NXNko0aFNiRmd2dHVPQkRhMmtLNlAybEJ5ODdvWEx2WVhySmlIT1U0X2Myb3Q0S0I4anhjWUx6ZkZaU2RGMHQxYVpQdXVWanVMcVNFcDRwSkpBbkNGdU9KRm9aeFJtQWpGdFJwTWtYUkVB0gG6AU",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEh2VWxTdWlrSzhYM29PY2VCZkQ2VElhdnpfSXg3cFdOSmxPNC0xZWpKOVFQLS1BUWdLc1NXNko0aFNiRmd2dHVPQkRhMmtLNlAybEJ5ODdvWEx2WVhySmlIT1U0X2Myb3Q0S0I4anhjWUx6ZkZaU2RGMHQxYVpQdXVWanVMcVNFcDRwSkpBbkNGdU9KRm9aeFJtQWpGdFJwTWtYUkVB0gG6AUFVX3lxTFBKVXIyQXRvUDVicERZWVVRTFk4Q3ZHd3Ryc3NueTRyeUNFOVI0dm16YU5ORkdBSmt3WDM4NFN4dXVvWlhDeEtOd0p2TkxmOHFPY3hzZ09KbXhTSDViQjJjcG9xOGU1Wm1nRGdTbUl5OXlNVm1pV0lVSjRSaHdjeWw4ZUt2cWVOU1NfUEFqWWl2bmJMcG1vVTRoUXoyNWd3OEN6TXB3d1hMZVhIMEM1eTg3czhZQ1pxT1NJQQ?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 19 Aug 2026 22:29:00 GMT",
-          "source": "First Alert 4"
-        }
-      ]
-    },
-    {
-      "id": "2c504addfd27",
-      "title": "‘Baaad’ goat on the loose at Marion Love’s Travel Stop - Fox 59",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdU1JalRKbnFEcXBNZHBsWjU0RUVpMkNkQzZQVXVRUlJyaExVdUJVZWFOQm15akQ5MDNzN2M2RnlTVGtSd3djS1lpS0tZV1F1YVJVSkxmaGdJYTBlU3BHX2lqRGF5V3ZUbTNNcDlUbDBPSXdwcHhERm54RGpLSTFqSmd0RdIBiAFBVV95cUxOWnRZZjZiOTU1bC15RzFlZ0hlQWo5aGREODJUbn",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdU1JalRKbnFEcXBNZHBsWjU0RUVpMkNkQzZQVXVRUlJyaExVdUJVZWFOQm15akQ5MDNzN2M2RnlTVGtSd3djS1lpS0tZV1F1YVJVSkxmaGdJYTBlU3BHX2lqRGF5V3ZUbTNNcDlUbDBPSXdwcHhERm54RGpLSTFqSmd0RdIBiAFBVV95cUxOWnRZZjZiOTU1bC15RzFlZ0hlQWo5aGREODJUbnJHMHJvaHBNdmNHMFoyenNLbzh4WW55eTE5dUFIU05feUdhVkJqRlZVbU1lVEZiN04zYlhoazh1czRmSjljUUF6djhjeHl2LWRuTFU0QkVfMzhhQUozcUVTcnhpeTNLYUpWQU9E?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 20 Aug 2026 01:07:38 GMT",
-          "source": "Fox 59"
-        }
-      ]
-    },
-    {
-      "id": "d2570c4f7a3d",
-      "title": "Lake Tahoe Summit panelist warns of growing gap in tourism mitigation funding - KOLO | 8 News Now",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTFWOEhTSWdkSHlXWGFXR3FZQU5aSHBoQ21sTUsxbm9aa05sNXJOX3J1cG9VTUVYSTd1SlJ4LWVuMF83YUhZa2FCVlgwTUFyWFE1THJ3bE84QnA3Q2dOWnBESGw3R0xQTHZGYzlmdVhkdlFJWkN6cWp3ZjFGU3VsS1BGeTY4YW0tcVlTR1FkVnMwalBRbFpfQnJPeXd1OTRLM3RzT09LTzJDQd",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTFWOEhTSWdkSHlXWGFXR3FZQU5aSHBoQ21sTUsxbm9aa05sNXJOX3J1cG9VTUVYSTd1SlJ4LWVuMF83YUhZa2FCVlgwTUFyWFE1THJ3bE84QnA3Q2dOWnBESGw3R0xQTHZGYzlmdVhkdlFJWkN6cWp3ZjFGU3VsS1BGeTY4YW0tcVlTR1FkVnMwalBRbFpfQnJPeXd1OTRLM3RzT09LTzJDQdIBvgFBVV95cUxQVklOdGJLQmh6SDNzaktubUZfTTZzUFEzN0JDZElqYVBYWHNueGNRdTF2ZnloUkZORVFzTkwxcm5teFV6M0tVS2tMSmpBOTdWMFVkTEVXVW1mUmswOHdIMHUxRzZlMFVNUGM5aEdpN3QtRy02RlBzYWZNeTFPU29SM3I3YndvWlFTNUZYaklsUERrbldpc2xiQVVIY2pyUkZXcHZINlczekRWWC1DYVUxSHB4dGprbDVpWDF1S1FB?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 20 Aug 2026 06:21:00 GMT",
-          "source": "KOLO | 8 News Now"
-        },
-        {
-          "published": "Thu, 20 Aug 2026 06:20:00 GMT",
-          "source": "KOLO | 8 News Now"
-        }
-      ]
-    },
-    {
-      "id": "0d5e4d6296d1",
-      "title": "The Hottest Travel Souvenir Is Learning a New Skill - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbl9Kek5Tay1LUnhvbWYxVmkxS1BVbFMzQmJ5bV90V3BQYWUwRkh2MkJ1dVNOOXdhVTJueGg1V3B3MEdxUHlHSzc0Q0RMdFAyWEpHZkltYjg4TE04bS1WVHNUT0tOVXR4N3pyZVVreVRGMm5pM2p6eE5Cb1d0SFQ2X0FwcGd4SnRNR2lMOFlZb0MteTFudXU2cjBwUVhwTXBqbF90ekNxWmRRSV",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbl9Kek5Tay1LUnhvbWYxVmkxS1BVbFMzQmJ5bV90V3BQYWUwRkh2MkJ1dVNOOXdhVTJueGg1V3B3MEdxUHlHSzc0Q0RMdFAyWEpHZkltYjg4TE04bS1WVHNUT0tOVXR4N3pyZVVreVRGMm5pM2p6eE5Cb1d0SFQ2X0FwcGd4SnRNR2lMOFlZb0MteTFudXU2cjBwUVhwTXBqbF90ekNxWmRRSVU?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 20 Aug 2026 04:15:00 GMT",
-          "source": "Bloomberg.com"
+          "published": "Thu, 20 Aug 2026 13:04:57 GMT",
+          "source": "Conduit Street Blog"
         }
       ]
     },
@@ -295,6 +231,66 @@
       "title": "Little travel traditions make trips way, way more memorable — and these are the ones I swear by - Yahoo Creators",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVXFWMGFhYlpZTUxIZ1prd1hTNl92WW43dl82ZExvOTZOV1VocGRNdG1FblQwOW5DOVd3UTF0aDhybmg4T1duMlpnaHFFODJNMGJ5aVpOVFdyX2RhdGpCM3pNQjVzeHNoSlNDNi1mY2lETXdST25xUVU1Q1E1MnRXMlV4WlRRRnlUZU0xQ2s4cDBoU0d2YlVkMkxQMUpLYmJlaW5BQ0VJLWFkbF",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVXFWMGFhYlpZTUxIZ1prd1hTNl92WW43dl82ZExvOTZOV1VocGRNdG1FblQwOW5DOVd3UTF0aDhybmg4T1duMlpnaHFFODJNMGJ5aVpOVFdyX2RhdGpCM3pNQjVzeHNoSlNDNi1mY2lETXdST25xUVU1Q1E1MnRXMlV4WlRRRnlUZU0xQ2s4cDBoU0d2YlVkMkxQMUpLYmJlaW5BQ0VJLWFkbFdPcEQ1MTRVVTRLQ0hyUl9jcTFvX3ViU1ZFejdGamN0UC1CMlVXaVVNaGIzdi12YXh3X3U5MmlkSzdwdw?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-20T13:06:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 20 Aug 2026 00:07:45 GMT",
+          "source": "Yahoo Creators"
+        }
+      ]
+    },
+    {
+      "id": "27853c69f46c",
+      "title": "What Fashion Can Learn From Luxury Travel About Climate Action - Vogue",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdW5Qc1RPVHh4bFNzS3lwajJ2VXRqTmhzMUo3Qk9xWHdrc3N2d01xNjRGckFiNmJTT3JSRUpWS01GSmlwazF6M1hSRVBXUEdOdWNIN1d0MmxPdDFYUTVaMkplT3dFOGVaY2lwdkplNGhoQzdRa09PWXRqWUc4RmkybjJlc1U2U1diVEtVVU5CQWZZZFNLRDM0?oc=5\" target=\"_blank\">Wha",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdW5Qc1RPVHh4bFNzS3lwajJ2VXRqTmhzMUo3Qk9xWHdrc3N2d01xNjRGckFiNmJTT3JSRUpWS01GSmlwazF6M1hSRVBXUEdOdWNIN1d0MmxPdDFYUTVaMkplT3dFOGVaY2lwdkplNGhoQzdRa09PWXRqWUc4RmkybjJlc1U2U1diVEtVVU5CQWZZZFNLRDM0?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-20T13:06:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 20 Aug 2026 09:30:00 GMT",
+          "source": "Vogue"
+        }
+      ]
+    },
+    {
+      "id": "6cd70e323007",
+      "title": "Maui OED announces grant opportunities for financial literacy, student and youth travel - Maui Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGpBbnlmMHJ4X2NTM0ZDSmpiNklIVFQwYUlvVnZzRy00WnJfMllxN184Z0lhd3hEdEN2QkoyT1VUWEVqZVVpZUUyT3JyYU00bEhRZFZ0VkJFeEVwYnhZa09zSXhUeWlEdGQ3TGFQcUFXbGRLM1c0Um5iSHF3RDR2U25yelRRNTl0M1QxYXByQ2RJVW5jMmZjTm9lcFFjYXdvS1FzaVgyN21yQ0",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGpBbnlmMHJ4X2NTM0ZDSmpiNklIVFQwYUlvVnZzRy00WnJfMllxN184Z0lhd3hEdEN2QkoyT1VUWEVqZVVpZUUyT3JyYU00bEhRZFZ0VkJFeEVwYnhZa09zSXhUeWlEdGQ3TGFQcUFXbGRLM1c0Um5iSHF3RDR2U25yelRRNTl0M1QxYXByQ2RJVW5jMmZjTm9lcFFjYXdvS1FzaVgyN21yQ0JfbXhOdmFVcHhZMl9wcTNESg?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-20T13:06:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 20 Aug 2026 03:30:00 GMT",
+          "source": "Maui Now"
+        }
+      ]
+    },
+    {
+      "id": "9f432be42b08",
+      "title": "From travel warnings to visa fees: why Chinese tourism to Japan is in free fall - South China Morning Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2Zaam5XSktwOTFwcVZGUFJQc2tfUFphSEZBWWNpcHRmWnVIZFc5SGVhejZiNVR0bmU4TkxqM1pwVEtoYXFfQ2JSQ1VubUxjcXRPb195cTFuVTVCTTUwNGxxSEVGXzg5U0JXNk1Ld19BUkZuZ2hEOE5TQmF5bTZVQllscGVVb2dQZmUtak90RnQyd3o5YlJSYlpXU3BzV1V2QnBxa1FXN0RCUU",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2Zaam5XSktwOTFwcVZGUFJQc2tfUFphSEZBWWNpcHRmWnVIZFc5SGVhejZiNVR0bmU4TkxqM1pwVEtoYXFfQ2JSQ1VubUxjcXRPb195cTFuVTVCTTUwNGxxSEVGXzg5U0JXNk1Ld19BUkZuZ2hEOE5TQmF5bTZVQllscGVVb2dQZmUtak90RnQyd3o5YlJSYlpXU3BzV1V2QnBxa1FXN0RCUUhTcXBKTDBVa1F3YlBXbnBlbEFR0gG-AUFVX3lxTE5Tajg5R05hQks4TTlRNW5MdGR3Rm1nZUpQWkc5T0VhMnh1MHBKWmhNVWt3YkJCYnFudXBrZmZKM0xpaHRnVEpuOWZla1ZFYXRDd0tpb3NmdXd0N3VObWpqY1dCSWQ0VjV5WFF2b19wOGFpcFBRX0pIUVVHVnRSX2x2QkdKdExXYkROVG9JcmVVVTc5XzU0S3c2dmRoSlpIcUUwZEFEWVlGcE5HLW12T1ZYV195aklPS3phcDRydEE?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -302,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 20 Aug 2026 02:26:15 GMT",
-          "source": "Yahoo Creators"
+          "published": "Thu, 20 Aug 2026 07:00:21 GMT",
+          "source": "South China Morning Post"
         }
       ]
     },
     {
-      "id": "b5b9f499bc34",
-      "title": "Scenic spot in Italian mountains overrun by tourists seeking the perfect pastry - CNN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2NWSzRfbTdTME1hWERwX251OW5Za3YtTkxOcEtYcGdORDhjcUt0ZHpfeDdPYzQ5Q0NaVFBsczNrN3VrTm5uNW1EQjVSWlEyN2w1VHRJVG5lOEpheVBtM08wQ1A0ZDJmb0ZUU3BoZEtTT2twN1AxV2F3cTBYUERQWVdES3owV2p1?oc=5\" target=\"_blank\">Scenic spot in Italian ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2NWSzRfbTdTME1hWERwX251OW5Za3YtTkxOcEtYcGdORDhjcUt0ZHpfeDdPYzQ5Q0NaVFBsczNrN3VrTm5uNW1EQjVSWlEyN2w1VHRJVG5lOEpheVBtM08wQ1A0ZDJmb0ZUU3BoZEtTT2twN1AxV2F3cTBYUERQWVdES3owV2p1?oc=5",
+      "id": "9fadf48302e6",
+      "title": "Tourism ranks high as an economic driver - The Transylvania Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlR4SmpDWHBkdmh6ZXRWcUJWRmFNZ2MxV01ReWtxMzNHZXNQSVhiU2JwbjllcmhFam5iZDhhTE1ab25neC1XNUJud1JsQzVaTnhEYmU0OWtlNDlkNzRFMFhrUk1uOF9qbTFxOTBfUFpyNF9YWVl4T1Nfci1kcS1tcUZ0MHJOdEdoNkZLNnZNdElLdVEwcG9hWjdGX1QwX3g5U01QZEFnOEJ4VT",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlR4SmpDWHBkdmh6ZXRWcUJWRmFNZ2MxV01ReWtxMzNHZXNQSVhiU2JwbjllcmhFam5iZDhhTE1ab25neC1XNUJud1JsQzVaTnhEYmU0OWtlNDlkNzRFMFhrUk1uOF9qbTFxOTBfUFpyNF9YWVl4T1Nfci1kcS1tcUZ0MHJOdEdoNkZLNnZNdElLdVEwcG9hWjdGX1QwX3g5U01QZEFnOEJ4VTQtSmRpRldZTWthbVRaQ2hOZUVqSXd4bTdXVDFRSQ?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -322,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 19 Aug 2026 15:10:36 GMT",
-          "source": "CNN"
+          "published": "Thu, 20 Aug 2026 11:00:00 GMT",
+          "source": "The Transylvania Times"
         }
       ]
     },
     {
-      "id": "0a8394535828",
-      "title": "Travel abroad just like at home: The new way Israelis are skipping the airport hassle - The Jerusalem Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CUTAwVUJDajd1N1BteXNfeFkzRXZibmRscGtiempBdXdRQjNRem9fdHdJUnpDWnRaQUMzVUxESUpvcVZxVk9BU0dWV0p3TUZKRW96YlVR?oc=5\" target=\"_blank\">Travel abroad just like at home: The new way Israelis are skipping the airport hassle</a>&n",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CUTAwVUJDajd1N1BteXNfeFkzRXZibmRscGtiempBdXdRQjNRem9fdHdJUnpDWnRaQUMzVUxESUpvcVZxVk9BU0dWV0p3TUZKRW96YlVR?oc=5",
+      "id": "787fd781d76e",
+      "title": "Tourism marketing opportunities expand for top of West Virginia CVB - - Weirton Daily Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPSnl4a1ZuVWRHOXVYdGgtZGpFZW00MzUybFU2QnFJVzBZQVp1RUtuRG5GMXhlVFdkNnRTdVJEUUE2MV8xTTZCLWo4T2VlVzBXS0xqR3VkejYtZlMtLUh2ZjRYUC03RDQ3M3A4TGZqNHdFWUliZ21USnljODRaWVkzakEtTG0tY1dWZGxLaHUtZkhhVHJCOTllTG5OZTNZRWk1VVRhRTVlT09GSl",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSnl4a1ZuVWRHOXVYdGgtZGpFZW00MzUybFU2QnFJVzBZQVp1RUtuRG5GMXhlVFdkNnRTdVJEUUE2MV8xTTZCLWo4T2VlVzBXS0xqR3VkejYtZlMtLUh2ZjRYUC03RDQ3M3A4TGZqNHdFWUliZ21USnljODRaWVkzakEtTG0tY1dWZGxLaHUtZkhhVHJCOTllTG5OZTNZRWk1VVRhRTVlT09GSl9nMVZ5a1B1REhNZGJ6Sk1QZFlHSW1QeHFJ?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -342,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 20 Aug 2026 06:15:08 GMT",
-          "source": "The Jerusalem Post"
+          "published": "Thu, 20 Aug 2026 07:59:23 GMT",
+          "source": "Weirton Daily Times"
         }
       ]
     },
     {
-      "id": "db6a864e261f",
-      "title": "Hawkeyes Travel to Face No.11 Wake Forest, UNC Greensboro - Iowa Hawkeyes Athletics",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0hINm9TTDBUQ2RXVXJCZ1lKVmxvN0xIQ0R6QkdhaHdYcHVTQ0EteEpqZjRReWV2ZFR4cXQ4UFNubGg4OEtsU0REVmxET0QwUGFsSldLZllwNmF1aldWVVJiLXVHY1ZOSW9BVk13ajVZMFlOM01tVmFsWDE3T3Y3eTROZWoyR003TXNrUWhuemhjX2hJT1ItYUdsbw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0hINm9TTDBUQ2RXVXJCZ1lKVmxvN0xIQ0R6QkdhaHdYcHVTQ0EteEpqZjRReWV2ZFR4cXQ4UFNubGg4OEtsU0REVmxET0QwUGFsSldLZllwNmF1aldWVVJiLXVHY1ZOSW9BVk13ajVZMFlOM01tVmFsWDE3T3Y3eTROZWoyR003TXNrUWhuemhjX2hJT1ItYUdsbw?oc=5",
+      "id": "d0523be6288d",
+      "title": "Why payment infrastructure will shape the future of travel commerce - PhocusWire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2thT2dTS1RNUnU5M0hlMER1azExN3BWS3RjSDh0NXdZbWtGQThBamxCVHlwcnFhV1hzQmhIOTR1cjYzeDNBUEJzU2hHM1J6ZWVrUDhnZ1dCT01rclhVZU9sWVE5M2EtVWktSUNpc3g5WDd4Y3RScVpLNXZRZzQ3bldCZ1oyMG5NYU92LWhuQ0FLSGRBMFRGeWg0OF96UE1jY0Z6SA?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2thT2dTS1RNUnU5M0hlMER1azExN3BWS3RjSDh0NXdZbWtGQThBamxCVHlwcnFhV1hzQmhIOTR1cjYzeDNBUEJzU2hHM1J6ZWVrUDhnZ1dCT01rclhVZU9sWVE5M2EtVWktSUNpc3g5WDd4Y3RScVpLNXZRZzQ3bldCZ1oyMG5NYU92LWhuQ0FLSGRBMFRGeWg0OF96UE1jY0Z6SA?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -362,19 +358,39 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 20 Aug 2026 04:40:00 GMT",
-          "source": "Iowa Hawkeyes Athletics"
+          "published": "Thu, 20 Aug 2026 07:07:08 GMT",
+          "source": "PhocusWire"
         }
       ]
     },
     {
-      "id": "e4e2a5f13ba5",
-      "title": "Reno-Tahoe tourism hits record with nearly $500M in room tax revenue - KOLO | 8 News Now",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPblFCNkJjbkN4R2tBbHFsUnNiSmJFUWVXeG9XcnRRRE80T0VoRVBKc2FhcmU1WnVhdmVoOUd2c1RrVk1FTlNlWEJSUWZzRy12TmxaN3RNdGFBRjEybDlVcWtLaFMzRnZUMEFWa1pRZ0NIVHVyVUZPdXJJNWc5RUNPdU5hVDBPT3pwWGQ1SVMzS0doZEM3aGxSYnRCQVFodlVG0gG0AUFVX3lxTE",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblFCNkJjbkN4R2tBbHFsUnNiSmJFUWVXeG9XcnRRRE80T0VoRVBKc2FhcmU1WnVhdmVoOUd2c1RrVk1FTlNlWEJSUWZzRy12TmxaN3RNdGFBRjEybDlVcWtLaFMzRnZUMEFWa1pRZ0NIVHVyVUZPdXJJNWc5RUNPdU5hVDBPT3pwWGQ1SVMzS0doZEM3aGxSYnRCQVFodlVG0gG0AUFVX3lxTE1mdkg4WWw5SVRFa1pjamoyTEh2RUlWVnQ4WUV4RW9aQnV5dS01ZDh6S3pzbTJOTWFyX2JPNi1jbzkyMDVsUng2UmpvY2diTGhuWlJxX2xWT1FCc1pmOXd5NGpsVU9LaDM1RFc5NnpuR1JmQ0VicVR5alVBLWcyS0YzRG1kdklPUzZwMDZOWU5XdzFraGdYbi1qQXNXOUxuSGNKcFN5Vmg0ZHRQUDNDSlIzSHNJQg?oc=5",
+      "id": "567e6a9edfe5",
+      "title": "Penguins fan NHL travel guide: Best 2026-27 trips for Pittsburghers, Nos. 14-1 - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZnBPdXdkejVhbzJKM3RabEJsRGFETHdUUjExTkRpc0JDU1dTY1FqeTZ6VDEwbWNBajE4c3ZENGt3R054MXV4d2pTWGNVeUtEZlFRaExXWmVvUUhNRkVwcGZfemdscGxQT1RMQ04wYkpfTFU5b2VQcW9xYkRLbGIybFlHMTdBc3llZE1RMTZtMVhnWG5EQnhvV1Z3?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZnBPdXdkejVhbzJKM3RabEJsRGFETHdUUjExTkRpc0JDU1dTY1FqeTZ6VDEwbWNBajE4c3ZENGt3R054MXV4d2pTWGNVeUtEZlFRaExXWmVvUUhNRkVwcGZfemdscGxQT1RMQ04wYkpfTFU5b2VQcW9xYkRLbGIybFlHMTdBc3llZE1RMTZtMVhnWG5EQnhvV1Z3?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-20T13:06:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 20 Aug 2026 11:00:56 GMT",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "id": "31e4869748ab",
+      "title": "AI transformation in travel: Velit Dundar of Radisson - PhocusWire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUR6SVIwUDRGbE9tdDlZN2UzQkVTY3Jnc1R6TkFnUGY5TXBSNE9Pb1FtaE02M09QaTRPTDF2bHNhWFc5ZlVwMXdhSVgzMEFBRVlscm8wV0diMzdnZ3pLWDB0UUdfbDBEM0UyY3oxbDVVQ0NUT2w1eHN3c2NPc1hnT01RMk9TVzNveGVfTlZZQWxVd0lXME1tZlVqVHZfS2QxUTZBVg?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUR6SVIwUDRGbE9tdDlZN2UzQkVTY3Jnc1R6TkFnUGY5TXBSNE9Pb1FtaE02M09QaTRPTDF2bHNhWFc5ZlVwMXdhSVgzMEFBRVlscm8wV0diMzdnZ3pLWDB0UUdfbDBEM0UyY3oxbDVVQ0NUT2w1eHN3c2NPc1hnT01RMk9TVzNveGVfTlZZQWxVd0lXME1tZlVqVHZfS2QxUTZBVg?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-20T07:01:55+00:00",
+      "first_seen": "2026-08-20T13:06:57+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 20 Aug 2026 01:23:00 GMT",
-          "source": "KOLO | 8 News Now"
+          "published": "Thu, 20 Aug 2026 11:40:08 GMT",
+          "source": "PhocusWire"
         }
       ]
     }
