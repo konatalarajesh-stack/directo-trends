@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "global",
-  "generated_at": "2026-08-21T13:17:16+00:00",
+  "generated_at": "2026-08-21T19:00:44+00:00",
   "cache_ttl_hours": 6,
-  "count": 2,
+  "count": 1,
   "trends": [
     {
       "id": "b7e87411d6fb",
@@ -18,35 +18,13 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-08-21T13:10:27+00:00",
+      "first_seen": "2026-08-21T18:54:06+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
           "channel_title": "Binging with Babish",
           "video_id": "gfOwrH8n6Jc",
           "published": "2026-08-08T13:00:21+00:00"
-        }
-      ]
-    },
-    {
-      "id": "73433845e7aa",
-      "title": "Babish Meals: Behind the Scenes",
-      "summary": "My CookUnity meals are available now in 30 states!\n\nCheck your Zip code and order here:\n\nhttp://cookunity.com/babish\n\nThere’s also a limited amount of meals you can order without subscribing here:\n\nhttp://cookunity.com/business/babish",
-      "url": "https://www.youtube.com/shorts/w54YAycuPzI",
-      "score": 84.7,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-08-21T13:10:27+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "w54YAycuPzI",
-          "published": "2026-08-07T17:15:08+00:00"
         }
       ]
     }
