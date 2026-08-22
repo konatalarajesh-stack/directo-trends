@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-08-21T19:00:44+00:00",
+  "generated_at": "2026-08-22T01:55:37+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
           "published": "Fri, 21 Aug 2026 11:00:00 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "564c579c22be",
-      "title": "E-News | Reminders issued for international travel registration - West Virginia University",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPWTdabUxJWXg2Vm5hbThfVHZYZ0puSU4ydUVQNUlSenE2dzZ0OUdIQ0ZUZWxta3dxVXE3OXZuY0MtMHZzR2NEY3NLVndHVy1RX1hEcE1YMnVfTlRoVExSWkxfOUlGYzhGSEoxN25kcG8tQzRRclFqMFJCOUFsNFhiaUxlX0lzTmoxelNaZVZsc2Z0cEhjdEtaYlVsemI?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWTdabUxJWXg2Vm5hbThfVHZYZ0puSU4ydUVQNUlSenE2dzZ0OUdIQ0ZUZWxta3dxVXE3OXZuY0MtMHZzR2NEY3NLVndHVy1RX1hEcE1YMnVfTlRoVExSWkxfOUlGYzhGSEoxN25kcG8tQzRRclFqMFJCOUFsNFhiaUxlX0lzTmoxelNaZVZsc2Z0cEhjdEtaYlVsemI?oc=5",
+      "id": "738ccbeb5685",
+      "title": "Fredericksburg District: Weekly Travel Alert, Aug. 23 - 29, 2026 - Virginia Department of Transportation (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1VxZ1ZnZEE1bGNmVEF0WmVUZE5VNUVKc09oNHRZUnc0RnlmYUstal9HS2ZqVm83aW5YNl9kYTE0bUpHYVlOX1MxakE4YTJtU3R3a09iMzFZM3pFNEM4aUF1d3dzNEJ5bGxmMlN3cTEydTIxUDFYVFl5TlZEOEVsTlJDMG5BUzlxT2FGRXNNZ010OUZFUF9vZ2RxV0IyaENqUjc5R19zNmlUT3",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1VxZ1ZnZEE1bGNmVEF0WmVUZE5VNUVKc09oNHRZUnc0RnlmYUstal9HS2ZqVm83aW5YNl9kYTE0bUpHYVlOX1MxakE4YTJtU3R3a09iMzFZM3pFNEM4aUF1d3dzNEJ5bGxmMlN3cTEydTIxUDFYVFl5TlZEOEVsTlJDMG5BUzlxT2FGRXNNZ010OUZFUF9vZ2RxV0IyaENqUjc5R19zNmlUT3BCS055dnRFWUlRcVJsbklyX3ZsQklGLUFUMjYxT3hQRQ?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 21 Aug 2026 18:28:02 GMT",
+          "source": "Virginia Department of Transportation (.gov)"
+        }
+      ]
+    },
+    {
+      "id": "564c579c22be",
+      "title": "E-News | Reminders issued for international travel registration - West Virginia University",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPWTdabUxJWXg2Vm5hbThfVHZYZ0puSU4ydUVQNUlSenE2dzZ0OUdIQ0ZUZWxta3dxVXE3OXZuY0MtMHZzR2NEY3NLVndHVy1RX1hEcE1YMnVfTlRoVExSWkxfOUlGYzhGSEoxN25kcG8tQzRRclFqMFJCOUFsNFhiaUxlX0lzTmoxelNaZVZsc2Z0cEhjdEtaYlVsemI?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWTdabUxJWXg2Vm5hbThfVHZYZ0puSU4ydUVQNUlSenE2dzZ0OUdIQ0ZUZWxta3dxVXE3OXZuY0MtMHZzR2NEY3NLVndHVy1RX1hEcE1YMnVfTlRoVExSWkxfOUlGYzhGSEoxN25kcG8tQzRRclFqMFJCOUFsNFhiaUxlX0lzTmoxelNaZVZsc2Z0cEhjdEtaYlVsemI?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
           "published": "Fri, 21 Aug 2026 12:03:00 GMT",
@@ -47,22 +67,62 @@
       ]
     },
     {
-      "id": "b5dfe5a7d37f",
-      "title": "A Mother-and-Tween's Travel Guide to K-Beauty, Hanboks, and the Brooklyn of Seoul - Condé Nast Traveler",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXFOR1RVcFFuZW1kbUZJTWxabmlDNlhaa25fRFFQWG91X0c5ZHNSZGh0MUc1bllwcUFHcUdPTEp5N252RDFubVh6enBTR0U4eEpLNFBZM3hMeGpkNTNSMDNXTE9DWHFVN2lMNXQyMTAwWVZxRHNsWXNtRFVzQmtINGdUYUc1YmdDQ08wWVNobFMtdVNuU09XZHpBZTFjUFFialNJaXN5bVdqWm",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXFOR1RVcFFuZW1kbUZJTWxabmlDNlhaa25fRFFQWG91X0c5ZHNSZGh0MUc1bllwcUFHcUdPTEp5N252RDFubVh6enBTR0U4eEpLNFBZM3hMeGpkNTNSMDNXTE9DWHFVN2lMNXQyMTAwWVZxRHNsWXNtRFVzQmtINGdUYUc1YmdDQ08wWVNobFMtdVNuU09XZHpBZTFjUFFialNJaXN5bVdqWmNUWDZNXw?oc=5",
-      "score": 82.8,
+      "id": "2d4ed32fad86",
+      "title": "The 1 Travel Hack I Swear By For Saving Luggage Space Without Sacrificing Style - Southern Living",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZVzJ3aktZNDlUODRSeld5end6NHBUczQ3dTNEVkQ5MDloWTBPdFBBN0VQd0FFdm1fZTFEcGwtVWYzRU9MT1FXWHZVZ2F2UG96VmFQemJ2Ul9KOEp3V1BTVmVsRG84MkhB?oc=5\" target=\"_blank\">The 1 Travel Hack I Swear By For Saving Luggage Space Without Sacri",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZVzJ3aktZNDlUODRSeld5end6NHBUczQ3dTNEVkQ5MDloWTBPdFBBN0VQd0FFdm1fZTFEcGwtVWYzRU9MT1FXWHZVZ2F2UG96VmFQemJ2Ul9KOEp3V1BTVmVsRG84MkhB?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 14:37:21 GMT",
-          "source": "Condé Nast Traveler"
+          "published": "Fri, 21 Aug 2026 19:10:00 GMT",
+          "source": "Southern Living"
+        }
+      ]
+    },
+    {
+      "id": "91170aa95d26",
+      "title": "An Alabama cattle farm with a bird-tourism side hustle - marketplace.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2NCY1VtR09YNTB4dzhIXzJyclozaUsxRVVlcm1jWlZHTlNVMVIteWJsV0VldnRCQkkzVlRIMGdTYk9ZNFRuU0lLaWFfcml6aTBFXzlxTkwwU0puQWZxaEdNSmNVcF9PSFY4MWJwM2FjeEs2M0YwT0FkRkZES3ZYTXFCNkdpUGJyV1RNUWI0NTZDRV81cjlRVE1IRFFVUms?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2NCY1VtR09YNTB4dzhIXzJyclozaUsxRVVlcm1jWlZHTlNVMVIteWJsV0VldnRCQkkzVlRIMGdTYk9ZNFRuU0lLaWFfcml6aTBFXzlxTkwwU0puQWZxaEdNSmNVcF9PSFY4MWJwM2FjeEs2M0YwT0FkRkZES3ZYTXFCNkdpUGJyV1RNUWI0NTZDRV81cjlRVE1IRFFVUms?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-22T01:46:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 21 Aug 2026 22:18:31 GMT",
+          "source": "marketplace.org"
+        }
+      ]
+    },
+    {
+      "id": "ffe1b9a79fc9",
+      "title": "From bayous to the Rose Parade: Louisiana’s big plans to keep tourism booming - American Press",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1drRUNFbXY4RVE5LWNFcVc2bldaNERxVGJGQkJkLURvT2trOUpER3JHRGJVUU9XeTNhNTVQcEZGeVdjOFFaY2pRUUxHSUFIMHpodXZsaWxJeTdkY0ktZFkxekIzN05jWlF5bkR1YUNWRU5Yb1ZnQUE4SGhXUkRjUGp0Z2ZiaGsyLUduak4zV0tfSm9oN2lYd0F6bTJJNkRVdm5pT3p2azVVNm",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1drRUNFbXY4RVE5LWNFcVc2bldaNERxVGJGQkJkLURvT2trOUpER3JHRGJVUU9XeTNhNTVQcEZGeVdjOFFaY2pRUUxHSUFIMHpodXZsaWxJeTdkY0ktZFkxekIzN05jWlF5bkR1YUNWRU5Yb1ZnQUE4SGhXUkRjUGp0Z2ZiaGsyLUduak4zV0tfSm9oN2lYd0F6bTJJNkRVdm5pT3p2azVVNmVVLVBJSUZrZw?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-08-22T01:46:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 21 Aug 2026 22:48:12 GMT",
+          "source": "American Press"
         }
       ]
     },
@@ -71,14 +131,14 @@
       "title": "Travel & Experiences Are What Our Kids Need Right Now - Scary Mommy",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQNEhjcGs3M19YLUI5TXhPSWdzZG9DQ0ZSR0RzZHZiQzJzLW9ZYVV4akxvUXRWcGFfN2RtX0h1QUxsRzJ3M2dNdktNdVZYbGV0Z3JZcGM3YXZMd1FXSGZKM1oyUDN4QUZBT3NFaFhGREd6cXA0WG5xekZDSndZLWZTWXROTGZPOTF6SHl1R2N4UnRpVXZhT3EweHJlbjM?oc=5\" target=\"_bla",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNEhjcGs3M19YLUI5TXhPSWdzZG9DQ0ZSR0RzZHZiQzJzLW9ZYVV4akxvUXRWcGFfN2RtX0h1QUxsRzJ3M2dNdktNdVZYbGV0Z3JZcGM3YXZMd1FXSGZKM1oyUDN4QUZBT3NFaFhGREd6cXA0WG5xekZDSndZLWZTWXROTGZPOTF6SHl1R2N4UnRpVXZhT3EweHJlbjM?oc=5",
-      "score": 79.2,
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
           "published": "Fri, 21 Aug 2026 13:28:05 GMT",
@@ -87,70 +147,10 @@
       ]
     },
     {
-      "id": "c1dd6d8796ef",
-      "title": "Durham tourism reaches record $1.17 billion in visitor spending in 2025 - ABC11 News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPckRPZm5hZGZsQzRzY1FXYXVkMjZjalNqNElTVlZBWjRxOER1RzVIemFiNW91VVB6emZCTm82VlpZX3ZfSzhBS21Ca3RkZ2h4MzNNT0NFOU02Y2NKQUVyZFVYOHViTklZNHlxRmNnYlhiT0puRFJXa1h4MmhMajU2RjZ2TFMwV255T0txUXUyY1dCam9wNGtUWXd2SC3SAaIBQVVfeXFMTzNmdE",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckRPZm5hZGZsQzRzY1FXYXVkMjZjalNqNElTVlZBWjRxOER1RzVIemFiNW91VVB6emZCTm82VlpZX3ZfSzhBS21Ca3RkZ2h4MzNNT0NFOU02Y2NKQUVyZFVYOHViTklZNHlxRmNnYlhiT0puRFJXa1h4MmhMajU2RjZ2TFMwV255T0txUXUyY1dCam9wNGtUWXd2SC3SAaIBQVVfeXFMTzNmdEJEYms0VHhadGRMd0dfb1hvSVF0S2ZIakVHenlGNXBTXzNrWTNSbE1pdDFDQXFpWEtxVEJBNnN5OU04UnRqenB6VlpyWUZSUWVOVmJZVl9hT2VGeGZuaGhUR3RkY3FRZURZRzdPbFN5bVcwRE1GeE1GeFFrMHRQVjhVdVZRRnRjc3NuS2tPMTRuaXRFenJKejJlVC1vMzN3?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 21 Aug 2026 14:45:47 GMT",
-          "source": "ABC11 News"
-        }
-      ]
-    },
-    {
-      "id": "cde3a4c3935b",
-      "title": "Healthcare freefall: Breast cancer survivor shares strain of rural treatment travel - Colorado Politics",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDBlUzM2VFdTcElWUXFjVElTNElieW5jVTltTXNzLTd5NUFNd1o5RDVCc2VGNkFSMU9mc1FTc3pyaE5GeEJaaDFVY3FXUGhPenk5RjJjRzg1b2g0T3lvOEVlb3I2eXJyTU5xVV9iZ2sxZ0gtdXFCYk1FTmhoNk1icEs3TVBxVy1FNzJDd2VnQmVpV0JBVVRDOGJrNzY3ZzRYUU84WnhCOVNQaX",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDBlUzM2VFdTcElWUXFjVElTNElieW5jVTltTXNzLTd5NUFNd1o5RDVCc2VGNkFSMU9mc1FTc3pyaE5GeEJaaDFVY3FXUGhPenk5RjJjRzg1b2g0T3lvOEVlb3I2eXJyTU5xVV9iZ2sxZ0gtdXFCYk1FTmhoNk1icEs3TVBxVy1FNzJDd2VnQmVpV0JBVVRDOGJrNzY3ZzRYUU84WnhCOVNQaXhCR25oSDlZeVNOWGkzZE1MR1lLcFFLbldsU2c?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 21 Aug 2026 16:32:49 GMT",
-          "source": "Colorado Politics"
-        }
-      ]
-    },
-    {
-      "id": "738ccbeb5685",
-      "title": "Fredericksburg District: Weekly Travel Alert, Aug. 23 - 29, 2026 - Virginia Department of Transportation (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1VxZ1ZnZEE1bGNmVEF0WmVUZE5VNUVKc09oNHRZUnc0RnlmYUstal9HS2ZqVm83aW5YNl9kYTE0bUpHYVlOX1MxakE4YTJtU3R3a09iMzFZM3pFNEM4aUF1d3dzNEJ5bGxmMlN3cTEydTIxUDFYVFl5TlZEOEVsTlJDMG5BUzlxT2FGRXNNZ010OUZFUF9vZ2RxV0IyaENqUjc5R19zNmlUT3",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1VxZ1ZnZEE1bGNmVEF0WmVUZE5VNUVKc09oNHRZUnc0RnlmYUstal9HS2ZqVm83aW5YNl9kYTE0bUpHYVlOX1MxakE4YTJtU3R3a09iMzFZM3pFNEM4aUF1d3dzNEJ5bGxmMlN3cTEydTIxUDFYVFl5TlZEOEVsTlJDMG5BUzlxT2FGRXNNZ010OUZFUF9vZ2RxV0IyaENqUjc5R19zNmlUT3BCS055dnRFWUlRcVJsbklyX3ZsQklGLUFUMjYxT3hQRQ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 21 Aug 2026 18:26:29 GMT",
-          "source": "Virginia Department of Transportation (.gov)"
-        }
-      ]
-    },
-    {
-      "id": "a750f346d17c",
-      "title": "Have money, will travel: Wake County sees record tourism and traveler spending in 2025 - WRAL",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbzdOeXZibWw1RUFtZFU5STVuMms1WWhQMlNaQU5YejFmS0o2T09SaUNQYmdVXzRoZjVhYXh4T0tlZUNSc25wQ1lvdm42M2U0eHZ4SGptYzNkbDVMSXhfWUl2Y0dpLWc2M1RuaDVobW9YQXFtN3dVZU5EcGd2N1E?oc=5\" target=\"_blank\">Have money, will travel: Wake County",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbzdOeXZibWw1RUFtZFU5STVuMms1WWhQMlNaQU5YejFmS0o2T09SaUNQYmdVXzRoZjVhYXh4T0tlZUNSc25wQ1lvdm42M2U0eHZ4SGptYzNkbDVMSXhfWUl2Y0dpLWc2M1RuaDVobW9YQXFtN3dVZU5EcGd2N1E?oc=5",
+      "id": "a8b4fe20bab4",
+      "title": "The Hertz Foundation Travel Fund: Removing Barriers to Professional Growth | Newswise - Newswise",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmlaLU9IN3hLMUhYOHFhdDhVbjAwOWJ0Mkg2dkkzV3ZKUkxUNUFoY0FNdlYyQjZPT29XQ2RpZ0g4UDMwejAwbDd4cV9uaV9uTjNGQi0zS08xTkdTUFhEdm5JRDZFYlgxUkxFOFpyXzJYS09NLThiMDFDWU5ndVI0SnBaREh5dzZKUnVQVWY5X1drb1lXQlppbmozRHJNNGQwbXNmdTVRdjlkaW",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmlaLU9IN3hLMUhYOHFhdDhVbjAwOWJ0Mkg2dkkzV3ZKUkxUNUFoY0FNdlYyQjZPT29XQ2RpZ0g4UDMwejAwbDd4cV9uaV9uTjNGQi0zS08xTkdTUFhEdm5JRDZFYlgxUkxFOFpyXzJYS09NLThiMDFDWU5ndVI0SnBaREh5dzZKUnVQVWY5X1drb1lXQlppbmozRHJNNGQwbXNmdTVRdjlkaWfSAasBQVVfeXFMTjZpWi1PSDd4SzFIWDhxYXQ4VW4wMDlidDJINnZJM1d2SlJMVDVBaGNBTXZWMkI2T09vV0NkaWdIOFAzMHowMGw3eHFfbmlfbk4zRkItM0tPMU5HU1BYRHZuSUQ2RWJYMVJMRThacl8yWEtPTS04YjAxQ1lOZ3VSNEpwWkRIeXc2SlJ1UFVmOV9Xa29ZV0JaaW5qM0RyTTRkMG1zZnU1UXY5ZGln?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 12:06:23 GMT",
-          "source": "WRAL"
+          "published": "Fri, 21 Aug 2026 22:05:00 GMT",
+          "source": "Newswise"
         }
       ]
     },
@@ -178,19 +178,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 07:00:09 GMT",
+          "published": "Fri, 21 Aug 2026 13:47:53 GMT",
           "source": "The New York Times"
         }
       ]
     },
     {
-      "id": "a8b4fe20bab4",
-      "title": "The Hertz Foundation Travel Fund: Removing Barriers to Professional Growth | Newswise - Newswise",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmlaLU9IN3hLMUhYOHFhdDhVbjAwOWJ0Mkg2dkkzV3ZKUkxUNUFoY0FNdlYyQjZPT29XQ2RpZ0g4UDMwejAwbDd4cV9uaV9uTjNGQi0zS08xTkdTUFhEdm5JRDZFYlgxUkxFOFpyXzJYS09NLThiMDFDWU5ndVI0SnBaREh5dzZKUnVQVWY5X1drb1lXQlppbmozRHJNNGQwbXNmdTVRdjlkaW",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmlaLU9IN3hLMUhYOHFhdDhVbjAwOWJ0Mkg2dkkzV3ZKUkxUNUFoY0FNdlYyQjZPT29XQ2RpZ0g4UDMwejAwbDd4cV9uaV9uTjNGQi0zS08xTkdTUFhEdm5JRDZFYlgxUkxFOFpyXzJYS09NLThiMDFDWU5ndVI0SnBaREh5dzZKUnVQVWY5X1drb1lXQlppbmozRHJNNGQwbXNmdTVRdjlkaWfSAasBQVVfeXFMTjZpWi1PSDd4SzFIWDhxYXQ4VW4wMDlidDJINnZJM1d2SlJMVDVBaGNBTXZWMkI2T09vV0NkaWdIOFAzMHowMGw3eHFfbmlfbk4zRkItM0tPMU5HU1BYRHZuSUQ2RWJYMVJMRThacl8yWEtPTS04YjAxQ1lOZ3VSNEpwWkRIeXc2SlJ1UFVmOV9Xa29ZV0JaaW5qM0RyTTRkMG1zZnU1UXY5ZGln?oc=5",
+      "id": "cde3a4c3935b",
+      "title": "Healthcare freefall: Breast cancer survivor shares strain of rural treatment travel - Colorado Politics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDBlUzM2VFdTcElWUXFjVElTNElieW5jVTltTXNzLTd5NUFNd1o5RDVCc2VGNkFSMU9mc1FTc3pyaE5GeEJaaDFVY3FXUGhPenk5RjJjRzg1b2g0T3lvOEVlb3I2eXJyTU5xVV9iZ2sxZ0gtdXFCYk1FTmhoNk1icEs3TVBxVy1FNzJDd2VnQmVpV0JBVVRDOGJrNzY3ZzRYUU84WnhCOVNQaX",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDBlUzM2VFdTcElWUXFjVElTNElieW5jVTltTXNzLTd5NUFNd1o5RDVCc2VGNkFSMU9mc1FTc3pyaE5GeEJaaDFVY3FXUGhPenk5RjJjRzg1b2g0T3lvOEVlb3I2eXJyTU5xVV9iZ2sxZ0gtdXFCYk1FTmhoNk1icEs3TVBxVy1FNzJDd2VnQmVpV0JBVVRDOGJrNzY3ZzRYUU84WnhCOVNQaXhCR25oSDlZeVNOWGkzZE1MR1lLcFFLbldsU2c?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +198,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 15:55:00 GMT",
-          "source": "Newswise"
+          "published": "Fri, 21 Aug 2026 20:50:23 GMT",
+          "source": "Colorado Politics"
         }
       ]
     },
     {
-      "id": "b1d89f214cc4",
-      "title": "A Widower Wonders If He Should Travel Solo. Readers Weigh In. - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQblBWejIxTzBPUFRwbmJRYmhTT3VBTHVjdE1IUEtkWlNLdFNnU29uNl91aXFqdDh2TUlwRFlhWm4wcmhxNEVtUnJKd0w0MGRNTzJMRVhZWTdjX01YRm5LUXRrczcxY2QtTVYwWFNUZElaMDVneTFmemFqNUVkOUl4emdhV2FWLXJSMWpJSFFqenAwRXZyOTlZODJ0bXhiblYwV0hicnFWVXI?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQblBWejIxTzBPUFRwbmJRYmhTT3VBTHVjdE1IUEtkWlNLdFNnU29uNl91aXFqdDh2TUlwRFlhWm4wcmhxNEVtUnJKd0w0MGRNTzJMRVhZWTdjX01YRm5LUXRrczcxY2QtTVYwWFNUZElaMDVneTFmemFqNUVkOUl4emdhV2FWLXJSMWpJSFFqenAwRXZyOTlZODJ0bXhiblYwV0hicnFWVXI?oc=5",
+      "id": "70a33d2c86cb",
+      "title": "Tourism Works training program tops 25,000 microcredentials earned statewide - My Buckhannon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzJXak93ZE81SE1HaEI4TGxCN0ZfVFd4U3ZLNVEtSkE4cFpaQlBsbnVackNDeW5RYkEzTWV6bGVNZjdKWDMwU0FZVDB5X2daY3N3cGFhWUxoVWRKNkJEaHl6QzFmTDNodEhjN21KVXFfamVhX1RHTlRxQnh1WlVpQ0FvblA1Ymw5ZHJvVHJQYlRnRHNjOFV5bnhqUVBrUVpjNUxtamNFUHU?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzJXak93ZE81SE1HaEI4TGxCN0ZfVFd4U3ZLNVEtSkE4cFpaQlBsbnVackNDeW5RYkEzTWV6bGVNZjdKWDMwU0FZVDB5X2daY3N3cGFhWUxoVWRKNkJEaHl6QzFmTDNodEhjN21KVXFfamVhX1RHTlRxQnh1WlVpQ0FvblA1Ymw5ZHJvVHJQYlRnRHNjOFV5bnhqUVBrUVpjNUxtamNFUHU?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,11 +218,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 12:35:00 GMT",
-          "source": "WSJ"
+          "published": "Sat, 22 Aug 2026 00:38:00 GMT",
+          "source": "My Buckhannon"
         }
       ]
     },
@@ -238,7 +238,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
           "published": "Fri, 21 Aug 2026 16:56:00 GMT",
@@ -247,10 +247,10 @@
       ]
     },
     {
-      "id": "a4a50fcce826",
-      "title": "Louisiana Office of Tourism unveils new marketing campaign: “Every Moment Feeds Your Soul” - louisianaradionetwork.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CV21mSThESWFQT2dZRlYtQXpRcHJmQWotbFc5Q2Mzank0YUNJYi1lcDdtajhXM29VT0tQakpfaUQzTWNaUExjaFA5ck9oUzZYcnBnUXAxeUdDZWVldkpBTw?oc=5\" target=\"_blank\">Louisiana Office of Tourism unveils new marketing campaign: “Every Moment Fee",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CV21mSThESWFQT2dZRlYtQXpRcHJmQWotbFc5Q2Mzank0YUNJYi1lcDdtajhXM29VT0tQakpfaUQzTWNaUExjaFA5ck9oUzZYcnBnUXAxeUdDZWVldkpBTw?oc=5",
+      "id": "c1dd6d8796ef",
+      "title": "Durham tourism reaches record $1.17 billion in visitor spending in 2025 - ABC11 News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPckRPZm5hZGZsQzRzY1FXYXVkMjZjalNqNElTVlZBWjRxOER1RzVIemFiNW91VVB6emZCTm82VlpZX3ZfSzhBS21Ca3RkZ2h4MzNNT0NFOU02Y2NKQUVyZFVYOHViTklZNHlxRmNnYlhiT0puRFJXa1h4MmhMajU2RjZ2TFMwV255T0txUXUyY1dCam9wNGtUWXd2SC3SAaIBQVVfeXFMTzNmdE",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckRPZm5hZGZsQzRzY1FXYXVkMjZjalNqNElTVlZBWjRxOER1RzVIemFiNW91VVB6emZCTm82VlpZX3ZfSzhBS21Ca3RkZ2h4MzNNT0NFOU02Y2NKQUVyZFVYOHViTklZNHlxRmNnYlhiT0puRFJXa1h4MmhMajU2RjZ2TFMwV255T0txUXUyY1dCam9wNGtUWXd2SC3SAaIBQVVfeXFMTzNmdEJEYms0VHhadGRMd0dfb1hvSVF0S2ZIakVHenlGNXBTXzNrWTNSbE1pdDFDQXFpWEtxVEJBNnN5OU04UnRqenB6VlpyWUZSUWVOVmJZVl9hT2VGeGZuaGhUR3RkY3FRZURZRzdPbFN5bVcwRE1GeE1GeFFrMHRQVjhVdVZRRnRjc3NuS2tPMTRuaXRFenJKejJlVC1vMzN3?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +258,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 15:22:23 GMT",
-          "source": "louisianaradionetwork.com"
+          "published": "Fri, 21 Aug 2026 14:45:47 GMT",
+          "source": "ABC11 News"
         }
       ]
     },
     {
-      "id": "1c07ebdd365c",
-      "title": "Travel advisory issued for popular Pacific island destination, and it’s good news for travelers - NJ.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEc0cUlKbXhnenBLQ0RtRzdveXo2bVc4WWJZeGEyb1E1RHRqdHpCUFhtaWRzX3N3XzFodnNKcmpuNnNQM0JlOUd6U25JLVNjaHZ4ajQ5Ti16OUVxQWVtNUxoY000MTdxUmZiYkRmdHItR0pobHMyWlR1SU5NeGVKa3phejB5VDhDTktnZ2l3eDlFczZqcGRCWXhzTXpVR1czekU0dVkxTFA5di",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEc0cUlKbXhnenBLQ0RtRzdveXo2bVc4WWJZeGEyb1E1RHRqdHpCUFhtaWRzX3N3XzFodnNKcmpuNnNQM0JlOUd6U25JLVNjaHZ4ajQ5Ti16OUVxQWVtNUxoY000MTdxUmZiYkRmdHItR0pobHMyWlR1SU5NeGVKa3phejB5VDhDTktnZ2l3eDlFczZqcGRCWXhzTXpVR1czekU0dVkxTFA5di1CY3ZOMEs2OVRTRHc4dDFGQkdmeGRKMjBfTGJLTWZB0gHeAUFVX3lxTFBTLVRtbUtnYndMWC0zWGpoSkhIR29lVjQ2cnpDNGFROUN1NVZXdUx2TkNTVk5HTFJSc1FyMkgwUDZ4WWloVGtpS3p3UUNuOHA4RDFEWENocjdBUldwN3UxZTVzazdYSVRfVGtFSTVaNjJBMHBFYUEyZkdnNW1iMXdHYVRDTE96eWp6WS1IdE91ZnRwc3M3WlJsLUw3LUhOQUVqNVdpeV80SUtvMVpjb0NQdW1wbkk5R0JKUHhGVkVGX0sza3JiZ2RTa0hSaUlNQ1k4b0xIbkxtZkVqWXJuQQ?oc=5",
+      "id": "05ad3ab472a1",
+      "title": "Oregon destination named 'Best Small Mountain Town' in the U.S. on Travel + Leisure list - KATU",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmhlZ3U1Q2pZRllDaVo5cTBJS3lyTC1BRlhlTzYwLWhtTXZsbDNUbDJvbkFiZUQ5VUlDcGota1ZxOUx5QnowX0h2aVNrUGN4YUhjM2E5emZucDB5S0FXTnJ2S1I2S3hWYV95alJTMlNHdHNQR1RxMWJsWmtaaFRpeVowd2lfX2tjcWpVeEZLLUd2X3lMOTZLSEJXYnhLc08tTjQyVm9RUTlHVn",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmhlZ3U1Q2pZRllDaVo5cTBJS3lyTC1BRlhlTzYwLWhtTXZsbDNUbDJvbkFiZUQ5VUlDcGota1ZxOUx5QnowX0h2aVNrUGN4YUhjM2E5emZucDB5S0FXTnJ2S1I2S3hWYV95alJTMlNHdHNQR1RxMWJsWmtaaFRpeVowd2lfX2tjcWpVeEZLLUd2X3lMOTZLSEJXYnhLc08tTjQyVm9RUTlHVnlfTkZCYkc5cllYaG4tVFktMzlCOWptRGxPalp3UDFDdndmc0tKRmE1TmE0ZlhaMm1vRk1ocVpOVm50SUxKT1JZQg?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 16:25:00 GMT",
-          "source": "NJ.com"
+          "published": "Fri, 21 Aug 2026 20:15:12 GMT",
+          "source": "KATU"
         }
       ]
     },
     {
-      "id": "b8a5189af296",
-      "title": "U.S. State Dept.: Nearly 900 birth tourism visas revoked since early August - KFOX",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2dlOFRDcjc1WHZkcUV1bW5hTUJRN19DQ2x3UzI5Q1E0bGlKUEVfakhqQVdRWFdya0ZHdm5QdDRYeWFmUF9CYU1CaWM5YktGbUhBS0hlT0pvUXV1MW1RT0QxOVY4ZlBZRUxicTVDdVFNdnQ0Rmxqc3IxaWM4OTU0ZkNVbUdibldjekZtSU5sLU91eHpINWNXeUVRNnlWVjZWcThn?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2dlOFRDcjc1WHZkcUV1bW5hTUJRN19DQ2x3UzI5Q1E0bGlKUEVfakhqQVdRWFdya0ZHdm5QdDRYeWFmUF9CYU1CaWM5YktGbUhBS0hlT0pvUXV1MW1RT0QxOVY4ZlBZRUxicTVDdVFNdnQ0Rmxqc3IxaWM4OTU0ZkNVbUdibldjekZtSU5sLU91eHpINWNXeUVRNnlWVjZWcThn?oc=5",
+      "id": "af04fa0cc552",
+      "title": "I’m Building My Dream Travel Capsule Wardrobe—This Is the Tool That’s Helping Me Track Every Deal - Travel + Leisure",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDNZdURYZ2NKV2JJamxZMHFMYmU4NXRra1c4eDlkMmRnSUVheVVrdEpYN0pLdUN0cHpJY1VJSWc5ckVzcm5SdDh2dUVUQ0pTOHNqaVlaNXZYZ3hKVHVZOFVhaC1WdkFtaHZ5cDFheWV2RTh6c2c3MkpqZ1B3bVVJdTFacDlwQUNkbkZXM2ExclBReTFjY04tODNfNGJ2MThOMnBXY2lB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDNZdURYZ2NKV2JJamxZMHFMYmU4NXRra1c4eDlkMmRnSUVheVVrdEpYN0pLdUN0cHpJY1VJSWc5ckVzcm5SdDh2dUVUQ0pTOHNqaVlaNXZYZ3hKVHVZOFVhaC1WdkFtaHZ5cDFheWV2RTh6c2c3MkpqZ1B3bVVJdTFacDlwQUNkbkZXM2ExclBReTFjY04tODNfNGJ2MThOMnBXY2lB?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 20 Aug 2026 21:31:55 GMT",
-          "source": "KFOX"
+          "published": "Fri, 21 Aug 2026 11:30:00 GMT",
+          "source": "Travel + Leisure"
         }
       ]
     },
     {
-      "id": "9af39df3d96f",
-      "title": "Long Island tourism spending hit $8.4B in 2025 - Long Island Business News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1Jc1Rnb2ptVU5FTW43Y2lHT0JTY1otbTFqeFNlRlAtUzdGUFk5QThSUWdQRHNwVjlDWkJJSmZfWVRHYWl5UHUxR0l5UkJYTmhCR2NrM0RpVnFrYVdhTHNKTHJEZVZ6TWxqRTFVN1cxMnBkSUdHd20wMGZ3NWtqcTQ?oc=5\" target=\"_blank\">Long Island tourism spending hit $8.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Jc1Rnb2ptVU5FTW43Y2lHT0JTY1otbTFqeFNlRlAtUzdGUFk5QThSUWdQRHNwVjlDWkJJSmZfWVRHYWl5UHUxR0l5UkJYTmhCR2NrM0RpVnFrYVdhTHNKTHJEZVZ6TWxqRTFVN1cxMnBkSUdHd20wMGZ3NWtqcTQ?oc=5",
+      "id": "a750f346d17c",
+      "title": "Have money, will travel: Wake County sees record tourism and traveler spending in 2025 - WRAL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbzdOeXZibWw1RUFtZFU5STVuMms1WWhQMlNaQU5YejFmS0o2T09SaUNQYmdVXzRoZjVhYXh4T0tlZUNSc25wQ1lvdm42M2U0eHZ4SGptYzNkbDVMSXhfWUl2Y0dpLWc2M1RuaDVobW9YQXFtN3dVZU5EcGd2N1E?oc=5\" target=\"_blank\">Have money, will travel: Wake County",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbzdOeXZibWw1RUFtZFU5STVuMms1WWhQMlNaQU5YejFmS0o2T09SaUNQYmdVXzRoZjVhYXh4T0tlZUNSc25wQ1lvdm42M2U0eHZ4SGptYzNkbDVMSXhfWUl2Y0dpLWc2M1RuaDVobW9YQXFtN3dVZU5EcGd2N1E?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 15:44:09 GMT",
-          "source": "Long Island Business News"
+          "published": "Fri, 21 Aug 2026 12:06:23 GMT",
+          "source": "WRAL"
         }
       ]
     },
     {
-      "id": "0c82f9f6d67d",
-      "title": "Business Travel Bookings From Canada to US Increase in Q2 - Business Travel Executive",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXJuaWt6WHljU3JzNTF6WTRaR0RZaEhEbl9faF9VR3NfamF3OWtiSHEyelFmTEY4V1NyMHR0c0M2LVBOQWFXbDRCck91ZGJpUTh4SGhhN0pjSms0bkNlXy0yVFQtOS1EOWRxRDUwWGpVZzdxT1Y0Zmw3V0tidllRUUVia01xd0ZBeFlhTElSYlNwck1zQngxT1ZYUTdrME13NEktWHp3?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXJuaWt6WHljU3JzNTF6WTRaR0RZaEhEbl9faF9VR3NfamF3OWtiSHEyelFmTEY4V1NyMHR0c0M2LVBOQWFXbDRCck91ZGJpUTh4SGhhN0pjSms0bkNlXy0yVFQtOS1EOWRxRDUwWGpVZzdxT1Y0Zmw3V0tidllRUUVia01xd0ZBeFlhTElSYlNwck1zQngxT1ZYUTdrME13NEktWHp3?oc=5",
+      "id": "6bb840f94166",
+      "title": "CALPAK drops The Art of Travel collection filled with stylish travel must-haves - Syracuse.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPeXhpcXR5Nzk1REluektZWTktRzR1N2xPemNkUUt1amJZNWJSWnBRaTNoTTBpRXVDOGNMVjFjalIxTHItbExScmFKdEE0UWdfVjhPMmp5TDJWb3k2S19QNFlNeEhkMlExVkRuUXFrazJnVDI5ZER4azVtN0Y1QlV3aWFqSlNUb2dNZDVHUjJSR3JQMU90OVZWUVVISlhPUU1HWFVqVDhPTmUwRl",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeXhpcXR5Nzk1REluektZWTktRzR1N2xPemNkUUt1amJZNWJSWnBRaTNoTTBpRXVDOGNMVjFjalIxTHItbExScmFKdEE0UWdfVjhPMmp5TDJWb3k2S19QNFlNeEhkMlExVkRuUXFrazJnVDI5ZER4azVtN0Y1QlV3aWFqSlNUb2dNZDVHUjJSR3JQMU90OVZWUVVISlhPUU1HWFVqVDhPTmUwRlpQMGZLT3NtUnpjQ3k0UnAyaDBGS3FlNVkw0gHYAUFVX3lxTE55WUtjY2JtTUtlN29rWUtVNkVnaFdkYndNWVN1LTAzY2l1REc4SnVqVnN2b3RCekZkcktzd08yOUlFV2tZbkJSMXlLa29TS3VrQUM5RUlfQ2tPLWJzMURJTF9DQllJTDBNdjNULXBGQWFHeFgwc2thQWRLNVZoZVN4R0ROYVdDVmJoOEdMRkRySHN6LUJqWGxyNjhGSTBFa3BTUFlWbk1ja1JyX1BnZUtvbmpXRm5rN0JSQVI0WFNUTjN3TGRFRGcxTXR2MVhqcDdyTWdIRVFUQQ?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 08:34:00 GMT",
-          "source": "Business Travel Executive"
+          "published": "Fri, 21 Aug 2026 20:00:00 GMT",
+          "source": "Syracuse.com"
         }
       ]
     },
     {
-      "id": "55857408f282",
-      "title": "Travel a factor for Oregon in 2026, to travel 9th-most miles in FBS - Central Oregon Daily",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQTHRyRC03RjdsY2N0RlBCVV9MODhGZnBfLXBnM2JuOF9IWmxWNFIzLXY2ZWZYTTJpMExsaUdIdHk2YUFzRkNIS1BIZi1tU2RvV0tDMHFlX0o3OHFqakJKYnQxa3RRaVlPMG5mUW5iTVp2eDlJOUs3TUMzVnRpdXEwVEp2UXhZVGpPVkJsZEpVT3BUbWgteEROUzJnYUJMM1lzRFdzWmU0RW5OeX",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTHRyRC03RjdsY2N0RlBCVV9MODhGZnBfLXBnM2JuOF9IWmxWNFIzLXY2ZWZYTTJpMExsaUdIdHk2YUFzRkNIS1BIZi1tU2RvV0tDMHFlX0o3OHFqakJKYnQxa3RRaVlPMG5mUW5iTVp2eDlJOUs3TUMzVnRpdXEwVEp2UXhZVGpPVkJsZEpVT3BUbWgteEROUzJnYUJMM1lzRFdzWmU0RW5OeXdrLVZYaXpnNmNyLW91ZzlLX0IwN2NyWWQ0ZmpQdnM4dnpaWEZ6d2xLZDFqa1AtYVl1TS1MclF0RmRYai1UODNzOXZUdXdoNXdIdmJVS09Xb21ERFlt?oc=5",
+      "id": "310f07727db9",
+      "title": "West Virginia’s new Secretary of Tourism makes a stop at the state fair - WVVA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVQ5VmxqT3NxNHV5M2JkSkFKQkhxeVVLTkFRb3Y4UVZDd1Q1NTNmYURRZF9XOHJtM292SC01M2JhMTRmbVBUVElUdFM3bW5LRnFMNnhfbEQtcFRKbnBrNFZKYWNQb0k2M3dSYnVmMy1Oc1FRN1htN0dFUUt6QVFyUlpuR3VDSnJvRFY4TVNRaHlDS2pxYXfSAaoBQVVfeXFMUG9GS1A1WGIxOG",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVQ5VmxqT3NxNHV5M2JkSkFKQkhxeVVLTkFRb3Y4UVZDd1Q1NTNmYURRZF9XOHJtM292SC01M2JhMTRmbVBUVElUdFM3bW5LRnFMNnhfbEQtcFRKbnBrNFZKYWNQb0k2M3dSYnVmMy1Oc1FRN1htN0dFUUt6QVFyUlpuR3VDSnJvRFY4TVNRaHlDS2pxYXfSAaoBQVVfeXFMUG9GS1A1WGIxOGJ4LVp0YTI5eE9xc2NOdG5UemR5eWRnNzN1Z01HbzNjTDl0Vkk0YVEtX00xdXNxYlBzc2lNWWsyVFA5bnVjUVFEODZ2bzFFN0VQa3R5X2xQVGJTcG1fOGRxa3NpVkc5RnYwajBjRHVtRng0UUtQbncyeDVjSUwwZHhmRG56X044TkcyT05BdjY4ZzQ4TFJ5MHNlUllUMF82SFE?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 14:27:24 GMT",
-          "source": "Central Oregon Daily"
+          "published": "Fri, 21 Aug 2026 20:53:00 GMT",
+          "source": "WVVA"
         }
       ]
     },
     {
-      "id": "e7d4a32e6d3d",
-      "title": "Rep. Harriet Hageman: Here’s How Trump Can Close America’s Birth Tourism Loopholes - Congresswoman Harriet Hageman (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGxKRVJtTGs3cXVDaU9KYTJMN2RnR0hoeTdxY01YLWRlWGx6Tkc5YkJOTnl0Zm9RQWpkZDV4c1FxMmhaWXN1VlVOc1UzczRiOFdvelR2eDFxbE5Id2k4Nk9tYmI1RVVORmoyTnQyeGkyLWpDYWFEUTJ0U0FDcmNQbEJaZFJTaE5vRVpFSVc3bUZNbWhPZHJhQ2NNVDJxbXd4cFVVeVF4cnZfWm",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGxKRVJtTGs3cXVDaU9KYTJMN2RnR0hoeTdxY01YLWRlWGx6Tkc5YkJOTnl0Zm9RQWpkZDV4c1FxMmhaWXN1VlVOc1UzczRiOFdvelR2eDFxbE5Id2k4Nk9tYmI1RVVORmoyTnQyeGkyLWpDYWFEUTJ0U0FDcmNQbEJaZFJTaE5vRVpFSVc3bUZNbWhPZHJhQ2NNVDJxbXd4cFVVeVF4cnZfWmg2cXh1cEZQbXY3WlNYLTllb3A1RQ?oc=5",
+      "id": "629665c6a1e5",
+      "title": "Durham County sees record high tourism spending - CBS 17",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3dtcVlqd01kNFB4ZTI0dHROSi1FMFMzVUYzSkZnOFlNR25KYmJISXNOQWUtR0V1QXdad3JMeWx5RnBmTTZxZVA0NFNnQkluSTlpaE0yd2FPN3NXVFJUblBXSlJHQkxOLVV3Qy1sVXRGaGo1WVk2aDFWdjIyR0hpcWE5UXhQMWI4OVlBTDVR?oc=5\" target=\"_blank\">Durham County s",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3dtcVlqd01kNFB4ZTI0dHROSi1FMFMzVUYzSkZnOFlNR25KYmJISXNOQWUtR0V1QXdad3JMeWx5RnBmTTZxZVA0NFNnQkluSTlpaE0yd2FPN3NXVFJUblBXSlJHQkxOLVV3Qy1sVXRGaGo1WVk2aDFWdjIyR0hpcWE5UXhQMWI4OVlBTDVR?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 14:22:06 GMT",
-          "source": "Congresswoman Harriet Hageman (.gov)"
+          "published": "Fri, 21 Aug 2026 22:23:46 GMT",
+          "source": "CBS 17"
         }
       ]
     },
     {
-      "id": "42e166f40e84",
-      "title": "How I Travel: Rei Ami Has Masks for Eyes, Face, Hands, and Feet in Flight - Condé Nast Traveler",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGpIUzVHVk1LQUctR244SE1XbkZxeWM5MXNGTWsyQllvNkkwTTFuVlc4azNyLUdmWUNzSVBxUGVOZGNDYnVRcVk5SUdaNVdObW03Y0VaRzJpZ3dydVV0WGFmcjV1Mjg1NEpzdlJMOXlHMFliY0ZGNkV6X3dxeGpTRDRGZVNyYWJ0YjZvY05Mb21tQWRyUUIwRFdvUDhTMjV1c0RYZw?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGpIUzVHVk1LQUctR244SE1XbkZxeWM5MXNGTWsyQllvNkkwTTFuVlc4azNyLUdmWUNzSVBxUGVOZGNDYnVRcVk5SUdaNVdObW03Y0VaRzJpZ3dydVV0WGFmcjV1Mjg1NEpzdlJMOXlHMFliY0ZGNkV6X3dxeGpTRDRGZVNyYWJ0YjZvY05Mb21tQWRyUUIwRFdvUDhTMjV1c0RYZw?oc=5",
+      "id": "77b5a52bede5",
+      "title": "I Travel to Europe Every Year—These Are the 9 Packing Mistakes That Ruin Your Trip Before It Starts - Travel + Leisure",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzVQVV9IS1NYSEVCeW1wOXVlLVNRRkJVbUFQRFh1ZjlfOU1tM3M3Rm5XQXFtcENQeEk0Um5tLVhVMXdKc1ZNMm50WGJUbm04cGZVT2FUU2dRcUs0TUNOMXRicGRzdmQzNmRjaWFNeDcxRU52R3NBY3VnTS1zYUdzSWxuQm9Xd3V2ZjVjWmdkZVhqalJELXBR?oc=5\" target=\"_blank\">I T",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzVQVV9IS1NYSEVCeW1wOXVlLVNRRkJVbUFQRFh1ZjlfOU1tM3M3Rm5XQXFtcENQeEk0Um5tLVhVMXdKc1ZNMm50WGJUbm04cGZVT2FUU2dRcUs0TUNOMXRicGRzdmQzNmRjaWFNeDcxRU52R3NBY3VnTS1zYUdzSWxuQm9Xd3V2ZjVjWmdkZVhqalJELXBR?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-08-21T18:51:50+00:00",
+      "first_seen": "2026-08-22T01:46:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Aug 2026 15:35:45 GMT",
-          "source": "Condé Nast Traveler"
+          "published": "Fri, 21 Aug 2026 04:00:00 GMT",
+          "source": "Travel + Leisure"
         }
       ]
     }
