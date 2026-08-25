@@ -2,170 +2,10 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "CA",
-  "generated_at": "2026-08-25T07:13:23+00:00",
+  "generated_at": "2026-08-25T13:18:07+00:00",
   "cache_ttl_hours": 6,
-  "count": 25,
+  "count": 7,
   "trends": [
-    {
-      "id": "20741d60a064",
-      "title": "Money Talk - BNN Bloomberg",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE80ZGtYeGNsT3ZzX3BJQXBFeVFZMUhUWUJVd1g1RVJxTXJIcVg0MFdYWi0zUnlIWHV4STlweGk2bWFJTXhiQTNMVU5FY214a2tCRDlnUnBDMWpoT0szS3c5OQ?oc=5\" target=\"_blank\">Money Talk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNN Bloomberg</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80ZGtYeGNsT3ZzX3BJQXBFeVFZMUhUWUJVd1g1RVJxTXJIcVg0MFdYWi0zUnlIWHV4STlweGk2bWFJTXhiQTNMVU5FY214a2tCRDlnUnBDMWpoT0szS3c5OQ?oc=5",
-      "score": 90.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 19 Aug 2026 19:46:24 GMT",
-          "source": "BNN Bloomberg"
-        }
-      ]
-    },
-    {
-      "id": "dbf74161de6c",
-      "title": "Who’s afraid of the big, bad bull market? - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGxDZFVqRzhnMXoxNzNnRmRJYTdOMVh5OTV3djVRUjBLNG5tVHdzVm11MXAxYmhnQkRtUWZHY0lmdHc4SzR2aU9QMm5EUU5FMkJ1VVZjd2JzeElJNVB1MG1jc3B5bHVGc19XSzV3dml6d3BXVjJyWk9QTlFaY1lEOGpxRTd1M245aFlGYW13TnUxN2RZZzJfb0VOMlI4b05CN2ZIaTJlbHpRUQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGxDZFVqRzhnMXoxNzNnRmRJYTdOMVh5OTV3djVRUjBLNG5tVHdzVm11MXAxYmhnQkRtUWZHY0lmdHc4SzR2aU9QMm5EUU5FMkJ1VVZjd2JzeElJNVB1MG1jc3B5bHVGc19XSzV3dml6d3BXVjJyWk9QTlFaY1lEOGpxRTd1M245aFlGYW13TnUxN2RZZzJfb0VOMlI4b05CN2ZIaTJlbHpRUQ?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 09 Aug 2026 07:00:00 GMT",
-          "source": "The Globe and Mail"
-        }
-      ]
-    },
-    {
-      "id": "ab66fb1b3ca6",
-      "title": "Shein targeting up to £20bn valuation in September stock market float - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOeXVWNkx4bHpQWVVsVGs0b1dVVlhpY19ONGJYQVA3MlE3R1E3dWNiMC16VEVhWXRkVHZsekxBVzFwbXpmY09XekhsdTdDQW9SYzVHOXNYV1ZCSTMwMi01R05TX056WGJzekpYZnBjeDZLYTd0RVhoRlpBMlVtczZ2by1DOXh2d0NOWmhGUDR3cGxDRTQ?oc=5\" target=\"_blank\">Shein ta",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeXVWNkx4bHpQWVVsVGs0b1dVVlhpY19ONGJYQVA3MlE3R1E3dWNiMC16VEVhWXRkVHZsekxBVzFwbXpmY09XekhsdTdDQW9SYzVHOXNYV1ZCSTMwMi01R05TX056WGJzekpYZnBjeDZLYTd0RVhoRlpBMlVtczZ2by1DOXh2d0NOWmhGUDR3cGxDRTQ?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 24 Aug 2026 11:45:50 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
-    },
-    {
-      "id": "d27656df8cac",
-      "title": "Stock Market Rout Sends Korea Consumer Sentiment Lower After Three-Month Rise - Businesskorea",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBLa3ZCNFRzQW1ZSEZSTmtfSXlySVJqdzRCMXFZUUZfaVZ2T3dGS2JNc0NuQkpfaGx0N2lqSHBkWE15Zm5yOHZ6QVpwTEgzSVB1Qkt0UklMNG9MeEdGdGxOYzhOTnRyQm1uUHlOTTh6R18ya2dQ?oc=5\" target=\"_blank\">Stock Market Rout Sends Korea Consumer Sentiment Lo",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLa3ZCNFRzQW1ZSEZSTmtfSXlySVJqdzRCMXFZUUZfaVZ2T3dGS2JNc0NuQkpfaGx0N2lqSHBkWE15Zm5yOHZ6QVpwTEgzSVB1Qkt0UklMNG9MeEdGdGxOYzhOTnRyQm1uUHlOTTh6R18ya2dQ?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 25 Aug 2026 05:34:58 GMT",
-          "source": "Businesskorea"
-        }
-      ]
-    },
-    {
-      "id": "f324288e2118",
-      "title": "Retirees Love Dividends, but the Stock Market Surge Is Making Them Think Again - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHRhMlVkajlMWE1EZGJucHc5ZzAwUm5GNWpGd2gzc2Nfc3NsbXBVRTFEZENyb2l6Nm11TEpmaDV0NFk3bkNyU0t4bXJWemNjdWdEQWV4cGpHNTgzTWZROE1kRWtjWkE5UE03WWhzMUhCNEdWeXcwSGI4YmdiVmE2a2hBWWxNOE40YlNPMGVUSERueDZxcmdreHpWYmhQMWl3UmVDVUxnYkozbm",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHRhMlVkajlMWE1EZGJucHc5ZzAwUm5GNWpGd2gzc2Nfc3NsbXBVRTFEZENyb2l6Nm11TEpmaDV0NFk3bkNyU0t4bXJWemNjdWdEQWV4cGpHNTgzTWZROE1kRWtjWkE5UE03WWhzMUhCNEdWeXcwSGI4YmdiVmE2a2hBWWxNOE40YlNPMGVUSERueDZxcmdreHpWYmhQMWl3UmVDVUxnYkozbmJtQmV5VWRrX3o5UW55N0c0LXNwSVo?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-          "source": "WSJ"
-        }
-      ]
-    },
-    {
-      "id": "9b14d27497b2",
-      "title": "3 market lessons parents should teach their kids early, according to the CFO of Acorns - Business Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzdrNFFtMzg2TEIzZDZBcXNrbTVSWlREQ3dUQ29icm1UUmJPTkd3TGU0eTBaZ2RfVmJJdWZKLUYwSm12ZTNqTHo5OE1fV0ZiOWJZdlZQSUhqSmZsRlVlRHJQZHkycjA1cGl5TjJOWGFnRUVlTGtlbWVZYjR4Q2hHWTl3M1Jjc0tLVHRCTzBRNDFNRDBIMnYzODhCLVJZNkpVbEVCbF82dXkzaF",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzdrNFFtMzg2TEIzZDZBcXNrbTVSWlREQ3dUQ29icm1UUmJPTkd3TGU0eTBaZ2RfVmJJdWZKLUYwSm12ZTNqTHo5OE1fV0ZiOWJZdlZQSUhqSmZsRlVlRHJQZHkycjA1cGl5TjJOWGFnRUVlTGtlbWVZYjR4Q2hHWTl3M1Jjc0tLVHRCTzBRNDFNRDBIMnYzODhCLVJZNkpVbEVCbF82dXkzaFBWdWszeWc3aw?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 09 Aug 2026 07:00:00 GMT",
-          "source": "Business Insider"
-        }
-      ]
-    },
-    {
-      "id": "323799df32e3",
-      "title": "INTL PERSONAL FIN Stock (IPFPF) - Quote OTC Markets - marketscreener.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9QWHJnWloxLWRKV21QdllBTWk2RFZYOURDbUtLVDR2Tmp6TVhGOHcyYlgzVGxUMkV3SURMLWNtRldMRjU0cjZXRzlwV3lUM2ZBd3hlYmtYTzQzQkIzRVdCMVVQVlVjTGN2WkhNNXctbXBRV053dC01VUlLMA?oc=5\" target=\"_blank\">INTL PERSONAL FIN Stock (IPFPF) - Quote O",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QWHJnWloxLWRKV21QdllBTWk2RFZYOURDbUtLVDR2Tmp6TVhGOHcyYlgzVGxUMkV3SURMLWNtRldMRjU0cjZXRzlwV3lUM2ZBd3hlYmtYTzQzQkIzRVdCMVVQVlVjTGN2WkhNNXctbXBRV053dC01VUlLMA?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 08 Aug 2026 06:11:34 GMT",
-          "source": "marketscreener.com"
-        }
-      ]
-    },
-    {
-      "id": "6b7d1111a08e",
-      "title": "Why are so many people struggling financially while the stock market is soaring? - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmc21weDY4QWJ0TnNHMlRhbDNETGEteGRuWGRGS0RhdlI2Wlg1blVWWklReTFMRkhLVHlualB5ZkZ6ZkFHNzFSUmNTVFVSOV90dFI5OXVOaHhUQQ?oc=5\" target=\"_blank\">Why are so many people struggling financially while the stock market is soaring?</a>&",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmc21weDY4QWJ0TnNHMlRhbDNETGEteGRuWGRGS0RhdlI2Wlg1blVWWklReTFMRkhLVHlualB5ZkZ6ZkFHNzFSUmNTVFVSOV90dFI5OXVOaHhUQQ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 29 May 2026 07:00:00 GMT",
-          "source": "CBC"
-        }
-      ]
-    },
     {
       "id": "144cbbd4a309",
       "title": "Avoid THIS Credit Card Scam...",
@@ -178,7 +18,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-25T07:06:40+00:00",
+      "first_seen": "2026-08-25T13:11:21+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -188,26 +28,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "ba415f581262",
-      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-          "source": "U.S. Bank"
-        }
-      ]
     },
     {
       "id": "81f364fb9de9",
@@ -221,7 +41,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-25T07:06:40+00:00",
+      "first_seen": "2026-08-25T13:11:21+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -231,26 +51,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "0f81f29bf123",
-      "title": "7 Best Safe Stocks to Buy Now - US News Money",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ea0FjblYwUXFvNTJ2ZnAzNFNlaTFZTUk4d1ZXZzFaZml0aVIybWpiZXh4YldTVXA4YUNjaVZweDQ5c09IS2tSRVhGZzlRUE9BbGYxNmFzMXlEa2ZmWi0zUU5OQjg5TzZIVzJ0bkdsNA?oc=5\" target=\"_blank\">7 Best Safe Stocks to Buy Now</a>&nbsp;&nbsp;<font color=",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ea0FjblYwUXFvNTJ2ZnAzNFNlaTFZTUk4d1ZXZzFaZml0aVIybWpiZXh4YldTVXA4YUNjaVZweDQ5c09IS2tSRVhGZzlRUE9BbGYxNmFzMXlEa2ZmWi0zUU5OQjg5TzZIVzJ0bkdsNA?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-          "source": "US News Money"
-        }
-      ]
     },
     {
       "id": "ca4544d4da8e",
@@ -264,7 +64,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-25T07:06:40+00:00",
+      "first_seen": "2026-08-25T13:11:21+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -287,7 +87,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-25T07:06:40+00:00",
+      "first_seen": "2026-08-25T13:11:21+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -297,26 +97,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "d0c47e7549b9",
-      "title": "Looking for a financial adviser? Here's what to seek out, and red flags to avoid - Financial Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTJXdDJTbzFXUVNEQ1ZiTkMxcTFJWEkwQ3NBWEdwT0hCd0h4TzJRTWhYSEZ2SWlTYVl3VUV5Q2czVzZSaWNteDFoaElyZHhrckdpTnBRR3ZnYlNvNk9KVHF4ajhoSHNGR1ZPUWl5ZENfeG9SWENJUVAteGRtMFBYMFVsSXhSQURnSTVRQldnSQ?oc=5\" target=\"_blank\">Looking for a",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTJXdDJTbzFXUVNEQ1ZiTkMxcTFJWEkwQ3NBWEdwT0hCd0h4TzJRTWhYSEZ2SWlTYVl3VUV5Q2czVzZSaWNteDFoaElyZHhrckdpTnBRR3ZnYlNvNk9KVHF4ajhoSHNGR1ZPUWl5ZENfeG9SWENJUVAteGRtMFBYMFVsSXhSQURnSTVRQldnSQ?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-          "source": "Financial Post"
-        }
-      ]
     },
     {
       "id": "bced039118fa",
@@ -330,7 +110,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-25T07:06:40+00:00",
+      "first_seen": "2026-08-25T13:11:21+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -340,26 +120,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "5d41f32b9086",
-      "title": "Where the US Stock Market May Be Heading Next - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDZ1TkxhcjZBUF83b1NTTC0yMDR2Z2xGZzk1bVRSOUJONno2b3AtRndlN29kR0VvMWVldVFnbUlrekhfdW9LTUw3aGtUQWNpdW1LZy1xc1d4aVhwelFWNVJhTk9CVDI1VndHY0YyMXdnTUttU1lSNFRwaWJURHk4anpRNnQ4c0Nma1ZZNEU5UFNheGxXclc2RVdJcm1GR084?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDZ1TkxhcjZBUF83b1NTTC0yMDR2Z2xGZzk1bVRSOUJONno2b3AtRndlN29kR0VvMWVldVFnbUlrekhfdW9LTUw3aGtUQWNpdW1LZy1xc1d4aVhwelFWNVJhTk9CVDI1VndHY0YyMXdnTUttU1lSNFRwaWJURHk4anpRNnQ4c0Nma1ZZNEU5UFNheGxXclc2RVdJcm1GR084?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-          "source": "Morningstar"
-        }
-      ]
     },
     {
       "id": "415f12871e8e",
@@ -373,7 +133,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-25T07:06:40+00:00",
+      "first_seen": "2026-08-25T13:11:21+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -396,7 +156,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-25T07:06:40+00:00",
+      "first_seen": "2026-08-25T13:11:21+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -406,126 +166,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "b2e5920b5f81",
-      "title": "How to Stay Relaxed When the Market Feels Tense - Bloomberg",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpWbnJZRC1ub3pNWGpFbWpyakl4VGs1QlREUkhXM0xQTl81NFZheFVoRnIxVDdTMUZKZ0NxTFlBRnRYTjJXcUpBdGN0TjNGZTRFTFRlR3lhNU4tZGVxSHR0dmdmVkk0WFIyeE1zQjdDbGhlZlFkbU11SW9uMnNocWpfZUZhMjN6RV8wOUhETjB0VURqUkNtcTN1VXdjZGpt?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "source": "Bloomberg"
-        }
-      ]
-    },
-    {
-      "id": "694a367b481d",
-      "title": "1 Consumer Stock for Long-Term Investors and 2 We Ignore - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUmRITVVYeTR3RVMtTkx4NkJMc1NNVlNDUjUtVkdvZm9FR3pFRkdzN1lzT2pmczNKY3pBTHNkeVJWSWNBb1BqZ2tpSWl3X1NUWDNZWHExLWozaXlCWGNGb3BtOFEtaXhWUFhyZTNVMU03SXFVWGs1akFtY3Q5Y2g0dmVIUGNZX2VFVmpTSi1vb0UyNHlxc09NOURVRjEwYjRGMExlSjdBcFo1R2",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUmRITVVYeTR3RVMtTkx4NkJMc1NNVlNDUjUtVkdvZm9FR3pFRkdzN1lzT2pmczNKY3pBTHNkeVJWSWNBb1BqZ2tpSWl3X1NUWDNZWHExLWozaXlCWGNGb3BtOFEtaXhWUFhyZTNVMU03SXFVWGs1akFtY3Q5Y2g0dmVIUGNZX2VFVmpTSi1vb0UyNHlxc09NOURVRjEwYjRGMExlSjdBcFo1R2FYYlFwTmdEU3YwcVN0R0k3N3V3enZlSndmUWdMQ2lGUWlnd2RZRDF3S3g1RQ?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 05 Aug 2026 04:31:00 GMT",
-          "source": "The Globe and Mail"
-        }
-      ]
-    },
-    {
-      "id": "210d3a945f6c",
-      "title": "Only 26% of women invest in the stock market. But do they beat men? - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVAwWjVnRkRmSWVseFhJbnk4enFZUUI4UVc0SUFLX2JhZ2tzXzc5WjFUNUtuZTZpT1dZN0Ftc2o1Ny1FdExZc1pOZ3lJOGJoSnprWjU5RW9tRW8taWJ3dWZ1dzVPNHJUaHlNMUs3bnRxOW9tMkVMSlM5UmM3NHlRRw?oc=5\" target=\"_blank\">Only 26% of women invest in the s",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVAwWjVnRkRmSWVseFhJbnk4enFZUUI4UVc0SUFLX2JhZ2tzXzc5WjFUNUtuZTZpT1dZN0Ftc2o1Ny1FdExZc1pOZ3lJOGJoSnprWjU5RW9tRW8taWJ3dWZ1dzVPNHJUaHlNMUs3bnRxOW9tMkVMSlM5UmM3NHlRRw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
-    },
-    {
-      "id": "2ed7cb0da2ee",
-      "title": "SpaceX stock volatility: What to do next if you own shares - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHlYMVE0cGEwb2d6NjFhdFJBT3huQWxnVG1ZYW95MmI4ZmJsQW5STHRpSkxsN25UWjFKNHhGWFF0SndxeE5mMHlyTm1uMjZwT0w2OGdMOU91a09YVGxvcGk5bm5QZmxsZVUzaVFFaVczM2JFQUhtRERoZlR6ZjlOS19IZE5ITkh2ZkdLN1lhWEZ2V2o2c1VCTFpPaTNSLXhxVUJ5LUxEbnFjSm",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHlYMVE0cGEwb2d6NjFhdFJBT3huQWxnVG1ZYW95MmI4ZmJsQW5STHRpSkxsN25UWjFKNHhGWFF0SndxeE5mMHlyTm1uMjZwT0w2OGdMOU91a09YVGxvcGk5bm5QZmxsZVUzaVFFaVczM2JFQUhtRERoZlR6ZjlOS19IZE5ITkh2ZkdLN1lhWEZ2V2o2c1VCTFpPaTNSLXhxVUJ5LUxEbnFjSmk5bG12WlZnaHhXWkVNd0VwRVZlMTVJQm1ic2paS2M4VDNWQQ?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 16 Aug 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "a0b64a00d97a",
-      "title": "When the financial industry fails you, AI has your back - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGlMakx4Q0FxUkg2RUhXcTlneTVsNnpKSDcxZUtINnBNRlN6enB0dzlhRHUzbU1Nc2ZGZUlwUTZIaUNiY1FkWkNXSzVQc0g2ZEhQVmFIbjNueFk4YmpqUENUN3QyenV4WFN2M3pHTTJDb3dfU0hwbE1jcWRfYWlaZUhyU2hIQmtMaUtjaEJSQkxyOFBiQjlpUEhuUHdaazk4RHkwV2JrRmFJRE",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGlMakx4Q0FxUkg2RUhXcTlneTVsNnpKSDcxZUtINnBNRlN6enB0dzlhRHUzbU1Nc2ZGZUlwUTZIaUNiY1FkWkNXSzVQc0g2ZEhQVmFIbjNueFk4YmpqUENUN3QyenV4WFN2M3pHTTJDb3dfU0hwbE1jcWRfYWlaZUhyU2hIQmtMaUtjaEJSQkxyOFBiQjlpUEhuUHdaazk4RHkwV2JrRmFJRERPay1DRGJueGJKWVlVdUlaRQ?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-          "source": "The Globe and Mail"
-        }
-      ]
-    },
-    {
-      "id": "55d84f4bb248",
-      "title": "What soaring Treasury yields mean for your finances - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEpZbzdjS0xCWmR1UkhzT0VoV2Rnajh3MWM2c0hFaTRWOHUydXJIMUc3Rnc2U1JraTV4YWNmc3htRE5GY2JROVJZd2I1THg3WWp2T0wzamFQZDNiem1mVjEzbVY5eDV1c2puU3o5eDA1elpfVWgwbUFFSzNwWmxkdUJvbjFiaEx1NTZiSjZ5UjB6c205QlRBOFotU1BGblQ1bWFubHlVVnJVSH",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEpZbzdjS0xCWmR1UkhzT0VoV2Rnajh3MWM2c0hFaTRWOHUydXJIMUc3Rnc2U1JraTV4YWNmc3htRE5GY2JROVJZd2I1THg3WWp2T0wzamFQZDNiem1mVjEzbVY5eDV1c2puU3o5eDA1elpfVWgwbUFFSzNwWmxkdUJvbjFiaEx1NTZiSjZ5UjB6c205QlRBOFotU1BGblQ1bWFubHlVVnJVSHZ4N3BaazNmZHE1ZWZMSXJzeXdyVHZqZjFSQWc?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-25T07:04:22+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
     }
   ]
 }
