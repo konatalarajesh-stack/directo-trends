@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-08-27T09:40:38+00:00",
+  "generated_at": "2026-08-27T22:22:18+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
-      "id": "7bbc4e244df8",
-      "title": "I’m a travel optimizer. Italy’s chaos changed all that - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTNPaFc4ekdUMU5WS0U5b3U2Vi12WGZjSWFjYmxXTVZFbkNCcFFQVWh0ZGZHcHBnbmwyNGtubmNnazZDemFzRjdWMHBZbVBVd29YbFRSb3hRUWhOYkRsTDZKWElycGdSVjBfMnhRZXVBSC1oSzZmTUxENWg4M3QzcHZ0WTFtVGt5WVRnZGZNT28wd19TeUJsTW1EMlZBMU05aXJzcWVqNnJka0",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTNPaFc4ekdUMU5WS0U5b3U2Vi12WGZjSWFjYmxXTVZFbkNCcFFQVWh0ZGZHcHBnbmwyNGtubmNnazZDemFzRjdWMHBZbVBVd29YbFRSb3hRUWhOYkRsTDZKWElycGdSVjBfMnhRZXVBSC1oSzZmTUxENWg4M3QzcHZ0WTFtVGt5WVRnZGZNT28wd19TeUJsTW1EMlZBMU05aXJzcWVqNnJka0k1dnB0cHVtZjRESEE?oc=5",
+      "id": "9896b441e3be",
+      "title": "Travelling with your dog? These sunny destinations make it easier - Canada.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE93Ul9TQlNjenpBMklJVVNSbUt4TlB2aDZ2cFVNa2NUZDVFLUpPeWFOR2E0eW5SZDBfclZHUWxfaENsUEJza1RsTmViSWF6ZzdYVkxhblNwQ3g0NjJHaWlITzJhdVExc1BYVzV5OXozaWw2UGs?oc=5\" target=\"_blank\">Travelling with your dog? These sunny destinations m",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93Ul9TQlNjenpBMklJVVNSbUt4TlB2aDZ2cFVNa2NUZDVFLUpPeWFOR2E0eW5SZDBfclZHUWxfaENsUEJza1RsTmViSWF6ZzdYVkxhblNwQ3g0NjJHaWlITzJhdVExc1BYVzV5OXozaWw2UGs?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,67 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 27 Aug 2026 16:31:40 GMT",
+          "source": "Canada.com"
+        }
+      ]
+    },
+    {
+      "id": "f163eb1b5c4a",
+      "title": "3 new ways to plan and book travel in Search - blog.google",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2R2VDlFTzNETmpKV29RTFBkajAyVHZpQ292QVQ3eldjbFdPSGdLQ2dvUjc3NHRSME1IWHRUNVZnWUZhR3ZaUm5xaHM1VDZBU042SzlfUDE1R0N3SGdPOUx1YjRVSUc3cWlwazZuZmItQXllREZ5Zzk2b1FsLU5FQ3JHeDUxUQ?oc=5\" target=\"_blank\">3 new ways to plan and bo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2R2VDlFTzNETmpKV29RTFBkajAyVHZpQ292QVQ3eldjbFdPSGdLQ2dvUjc3NHRSME1IWHRUNVZnWUZhR3ZaUm5xaHM1VDZBU042SzlfUDE1R0N3SGdPOUx1YjRVSUc3cWlwazZuZmItQXllREZ5Zzk2b1FsLU5FQ3JHeDUxUQ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-08-27T22:13:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 27 Aug 2026 16:17:58 GMT",
+          "source": "blog.google"
+        }
+      ]
+    },
+    {
+      "id": "cf08e658eefe",
+      "title": "These Shocking Documentaries Will Make You Reconsider Travel - Fodors Travel Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1BkM1A0OXhYMV9QT2Rpd3FKU214ZThKUjQ2Tmkwa0VFcVpjWnNnTGNDN0ZiOVpMWWhrQ2R5OWRWNDViZzJpYkc1ZXpRZmhCT3M0NTJGNTF3dnB4eWV5akFkbHV6WHlQY1dYbXBFTU5OWmlPLUJwbkJDTGJLSENqQm96QlNzQUh0aGdZSmNpRHY2NTJXWWRqYTFWaw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1BkM1A0OXhYMV9QT2Rpd3FKU214ZThKUjQ2Tmkwa0VFcVpjWnNnTGNDN0ZiOVpMWWhrQ2R5OWRWNDViZzJpYkc1ZXpRZmhCT3M0NTJGNTF3dnB4eWV5akFkbHV6WHlQY1dYbXBFTU5OWmlPLUJwbkJDTGJLSENqQm96QlNzQUh0aGdZSmNpRHY2NTJXWWRqYTFWaw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-08-27T22:13:24+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 27 Aug 2026 11:00:13 GMT",
+          "source": "Fodors Travel Guide"
+        }
+      ]
+    },
+    {
+      "id": "7bbc4e244df8",
+      "title": "I’m a travel optimizer. Italy’s chaos changed all that - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTNPaFc4ekdUMU5WS0U5b3U2Vi12WGZjSWFjYmxXTVZFbkNCcFFQVWh0ZGZHcHBnbmwyNGtubmNnazZDemFzRjdWMHBZbVBVd29YbFRSb3hRUWhOYkRsTDZKWElycGdSVjBfMnhRZXVBSC1oSzZmTUxENWg4M3QzcHZ0WTFtVGt5WVRnZGZNT28wd19TeUJsTW1EMlZBMU05aXJzcWVqNnJka0",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTNPaFc4ekdUMU5WS0U5b3U2Vi12WGZjSWFjYmxXTVZFbkNCcFFQVWh0ZGZHcHBnbmwyNGtubmNnazZDemFzRjdWMHBZbVBVd29YbFRSb3hRUWhOYkRsTDZKWElycGdSVjBfMnhRZXVBSC1oSzZmTUxENWg4M3QzcHZ0WTFtVGt5WVRnZGZNT28wd19TeUJsTW1EMlZBMU05aXJzcWVqNnJka0k1dnB0cHVtZjRESEE?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
           "published": "Wed, 26 Aug 2026 18:50:50 GMT",
@@ -27,54 +87,10 @@
       ]
     },
     {
-      "id": "92be8bda1456",
-      "title": "Hundreds of tourists missing in Nepal as Europe issues travel advice - Euronews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEJ0TzFXNTZXcXh1VS1DVnpVa2s4WUhsTUVNYW1OVmdGYkVuRjVuVzRPbGpoUkZ5a2d4VExJcWI4YVp1dHVjd0pnRno5MHRteGVqTVo0T0p3VnVFVi15VHRyaXV2SFExQWVrS2RMekhZNzlUZ2hWR3hHRDV2QkxhLVZ0XzJDU21qcU1PX053?oc=5\" target=\"_blank\">Hundreds of tou",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEJ0TzFXNTZXcXh1VS1DVnpVa2s4WUhsTUVNYW1OVmdGYkVuRjVuVzRPbGpoUkZ5a2d4VExJcWI4YVp1dHVjd0pnRno5MHRteGVqTVo0T0p3VnVFVi15VHRyaXV2SFExQWVrS2RMekhZNzlUZ2hWR3hHRDV2QkxhLVZ0XzJDU21qcU1PX053?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 27 Aug 2026 08:37:53 GMT",
-          "source": "Euronews.com"
-        }
-      ]
-    },
-    {
-      "id": "5b107cf1a6f4",
-      "title": "Calls mount for Canadians to boycott U.S. travel - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nYzV4WGgzbUE2Z1ZZSjNyWlotZ3MtcFNMTmMzbUpiYm1DWVFzTHZKbUpiRF9RVFE5cnhFWmh6UE5Va01RYmoyelgyZ3lwbVVVMmVQU0NfVUc3Zw?oc=5\" target=\"_blank\">Calls mount for Canadians to boycott U.S. travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nYzV4WGgzbUE2Z1ZZSjNyWlotZ3MtcFNMTmMzbUpiYm1DWVFzTHZKbUpiRF9RVFE5cnhFWmh6UE5Va01RYmoyelgyZ3lwbVVVMmVQU0NfVUc3Zw?oc=5",
-      "score": 81.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 27 Aug 2026 02:24:52 GMT",
-          "source": "CBC"
-        },
-        {
-          "published": "Tue, 25 Aug 2026 21:56:23 GMT",
-          "source": "CTV News"
-        }
-      ]
-    },
-    {
-      "id": "c65af1819006",
-      "title": "Canada issued new travel advisories for 9 vacation destinations, including France and Mexico - MTL Blog",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9wWWptelJlQW1sWUk5NFJjWG1sUmwzamxVYWZnOTA2ZVotaGNOYVkzODdTVEtHTGxUNm9vX2NhajBuRnB2M2xHdHdxVFBrYjR2Zkw3WGM1TnBaOVNGTkUtZWd6M1o3YnNkcVE?oc=5\" target=\"_blank\">Canada issued new travel advisories for 9 vacation destinations,",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wWWptelJlQW1sWUk5NFJjWG1sUmwzamxVYWZnOTA2ZVotaGNOYVkzODdTVEtHTGxUNm9vX2NhajBuRnB2M2xHdHdxVFBrYjR2Zkw3WGM1TnBaOVNGTkUtZWd6M1o3YnNkcVE?oc=5",
+      "id": "ca0b1a53ecb4",
+      "title": "Building a stronger tourism economy in northern B.C. - BC Gov News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ySC1zYzg0SE1Cbm5MelB1TzY4bE9wVk9ycGViUnF2VXFBSmVEbDZQaXBPX3pKQ3ZRYUpleXQ1eEdTMFRmNkxhVDNmOU1wd0hHb0lkVWdMdDdKUzNXNm5z?oc=5\" target=\"_blank\">Building a stronger tourism economy in northern B.C.</a>&nbsp;&nbsp;<font color",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ySC1zYzg0SE1Cbm5MelB1TzY4bE9wVk9ycGViUnF2VXFBSmVEbDZQaXBPX3pKQ3ZRYUpleXQ1eEdTMFRmNkxhVDNmOU1wd0hHb0lkVWdMdDdKUzNXNm5z?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -82,19 +98,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 26 Aug 2026 14:39:57 GMT",
-          "source": "MTL Blog"
+          "published": "Thu, 27 Aug 2026 15:34:36 GMT",
+          "source": "BC Gov News"
         }
       ]
     },
     {
-      "id": "27481da64299",
-      "title": "'To send a message': B.C. premier pleads with residents on U.S. travel, calls Trump a thug - Daily Hive",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1wNGRDSnh2RXBqeXFiMGZaMDYtTE4tQkJrQWg4MTVQc1UtUVZVLWVIMmRHbGpkV1FJY3JRTVowZWI0MGJJSlh2azlKeGtxZ21mcU1RWkRsQXFsSVRmUUVJdzhibzBUSUhlNlE?oc=5\" target=\"_blank\">'To send a message': B.C. premier pleads with residents on U.S. ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wNGRDSnh2RXBqeXFiMGZaMDYtTE4tQkJrQWg4MTVQc1UtUVZVLWVIMmRHbGpkV1FJY3JRTVowZWI0MGJJSlh2azlKeGtxZ21mcU1RWkRsQXFsSVRmUUVJdzhibzBUSUhlNlE?oc=5",
+      "id": "7c7386107746",
+      "title": "IMG 2026 Autumn Travel Trends Report: International Travel Demand Continues to Rise - PR Newswire Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejNBNFlpQVVFMkpuUjhNU0V5OUxpbHNHWXFOeGRsSnp1ZzlNX3VZY0tJbWdFX1dPZkQwZFhoTWJnVkw1RXZsclVTT3licm9aRzQtQl9PcG1VeDJNVlZzN05hOUp4X3dJOTd1NEpIeDdUZTBRRHpZaGE2QWJpVzMyekxhMHFfcXJCT0dCSy1ZRTVKbWFtVDVlb0ZYQi1NZ0JyVlNSNGw1SUd3Nj",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejNBNFlpQVVFMkpuUjhNU0V5OUxpbHNHWXFOeGRsSnp1ZzlNX3VZY0tJbWdFX1dPZkQwZFhoTWJnVkw1RXZsclVTT3licm9aRzQtQl9PcG1VeDJNVlZzN05hOUp4X3dJOTd1NEpIeDdUZTBRRHpZaGE2QWJpVzMyekxhMHFfcXJCT0dCSy1ZRTVKbWFtVDVlb0ZYQi1NZ0JyVlNSNGw1SUd3Njl1UjhOUWxQSUQ3VEFYLVRWdmJCeWNhMVJvSXV5aGFZSFZfa2J1?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -102,19 +118,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 26 Aug 2026 16:47:00 GMT",
-          "source": "Daily Hive"
+          "published": "Thu, 27 Aug 2026 13:00:00 GMT",
+          "source": "PR Newswire Canada"
         }
       ]
     },
     {
-      "id": "aea9c108b96e",
-      "title": "The Surprising Mental-Health Benefits of Getting Away - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ0xfcTRSSUF2SVpMd2k4OURrZ21pcjFsclp5N1FTcnVISEpGVlJkUG4tNm54b3l1aTNhOUlaZnI0TmlMY09UdXgzUk5MaGpMUjQyQzMwZDdKc2tTQUc3VTQwc0M4ekU3anNBVUZTOW1obXB3cUc5NlNpQWlTNkhwb1VLZmU?oc=5\" target=\"_blank\">The Surprising Mental-Health",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ0xfcTRSSUF2SVpMd2k4OURrZ21pcjFsclp5N1FTcnVISEpGVlJkUG4tNm54b3l1aTNhOUlaZnI0TmlMY09UdXgzUk5MaGpMUjQyQzMwZDdKc2tTQUc3VTQwc0M4ekU3anNBVUZTOW1obXB3cUc5NlNpQWlTNkhwb1VLZmU?oc=5",
+      "id": "a79f07c130df",
+      "title": "Canada updates travel advisories for popular tourist countries - INsauga",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDNrb1gyZnlVbnhrcjRLaWJJNnV3VllnZFp0LTdWQnJtQWx6Q0YyYk9KYWVtd3d3WGZlQ3FUT0hxNHJLd181cm10bW55WDdUSVBueW90c3ZqR0pucGhnMllLQ09Qc0xsWGVOMnNlVlg1d3dqeGlMLXFPY3BrbDYxUWdRb3A5WEZnekVFN1E1bmQ?oc=5\" target=\"_blank\">Canada updat",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDNrb1gyZnlVbnhrcjRLaWJJNnV3VllnZFp0LTdWQnJtQWx6Q0YyYk9KYWVtd3d3WGZlQ3FUT0hxNHJLd181cm10bW55WDdUSVBueW90c3ZqR0pucGhnMllLQ09Qc0xsWGVOMnNlVlg1d3dqeGlMLXFPY3BrbDYxUWdRb3A5WEZnekVFN1E1bmQ?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -122,19 +138,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 26 Aug 2026 14:49:00 GMT",
-          "source": "WSJ"
+          "published": "Thu, 27 Aug 2026 18:08:22 GMT",
+          "source": "INsauga"
         }
       ]
     },
     {
-      "id": "30ce8c1c0844",
-      "title": "How content creators are boosting Saskatchewan tourism - Global News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXZOaVl5NmxRM3R3c2xWT2ZwRElOUzdxLWhzU0tEVGZxZ1FZdm8xbTkxNGxJb1d1ZERSUTNZQ1ZIOUdtSlQ4RDM0VjZvWmlWbFFFZnk1X3BqQnVjOWJBX0ZmT3Fjd0lJNFM4a1FMc0FEWTl1akFrMVp3MEMxY2RldTV5SkZic1MxZ2dR?oc=5\" target=\"_blank\">How content creator",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXZOaVl5NmxRM3R3c2xWT2ZwRElOUzdxLWhzU0tEVGZxZ1FZdm8xbTkxNGxJb1d1ZERSUTNZQ1ZIOUdtSlQ4RDM0VjZvWmlWbFFFZnk1X3BqQnVjOWJBX0ZmT3Fjd0lJNFM4a1FMc0FEWTl1akFrMVp3MEMxY2RldTV5SkZic1MxZ2dR?oc=5",
+      "id": "800a48d489ed",
+      "title": "New to the travel industry? These are the questions every advisor should be asking their BDM - Travelweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ2pwVVVoOUpiVHVmMlNlYlRlLVhWanBrd0pzRGdlVGh2NHVJS0RyRWVib0xjLTdqZ3NjcS1TWkdGeWI3WTQzQ0JrRmlfS3dGM1ktV185RnV5SHYzTk5GWmJkd2hHQU1KeFJFSDZXUUtiTU4xSGY0bHQ5UW94WjZkdVpnQ29YTzN0eTdHOUpueEpMcDloT1lvZmQtazNVbU94WTBWTnlGWlNrZH",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ2pwVVVoOUpiVHVmMlNlYlRlLVhWanBrd0pzRGdlVGh2NHVJS0RyRWVib0xjLTdqZ3NjcS1TWkdGeWI3WTQzQ0JrRmlfS3dGM1ktV185RnV5SHYzTk5GWmJkd2hHQU1KeFJFSDZXUUtiTU4xSGY0bHQ5UW94WjZkdVpnQ29YTzN0eTdHOUpueEpMcDloT1lvZmQtazNVbU94WTBWTnlGWlNrZHpPNzNfYTF0TDN3TGE5ejc2eWdEb1pTNVBQOWRHU0xMMjNtUQ?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -142,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 23 Aug 2026 00:35:02 GMT",
-          "source": "Global News"
+          "published": "Thu, 27 Aug 2026 17:39:58 GMT",
+          "source": "Travelweek"
         }
       ]
     },
     {
-      "id": "9f30b9057ed4",
-      "title": "NZ tourism surges on strong growth in Chinese visitors - chinadailyasia.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fc3NZVGRxZXI4SHNfQnBTa0FnTXhCTG52NTlmQ21WOGtacDZoREZvQTNVQjAtXy1jYUx3YUU4cGY1andVTzJIYklWeXFPam1rZGRDYW80QmY?oc=5\" target=\"_blank\">NZ tourism surges on strong growth in Chinese visitors</a>&nbsp;&nbsp;<font color=\"#6f6f",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fc3NZVGRxZXI4SHNfQnBTa0FnTXhCTG52NTlmQ21WOGtacDZoREZvQTNVQjAtXy1jYUx3YUU4cGY1andVTzJIYklWeXFPam1rZGRDYW80QmY?oc=5",
+      "id": "98c49189c3b2",
+      "title": "This Cute Little Point-and-Shoot Camera Has Changed the Way I Travel - Sunset Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZ19GV0liNHRsQjNCZ3M0UFdZOV9DQnIxalcyN2tOV19ZMjlVbWVpUTlUaWNtX0lIVVhfaGxQM2ZqQTlETGZlYmlHc1lhN2FMbTdBeEgxb1RYam1XRmc?oc=5\" target=\"_blank\">This Cute Little Point-and-Shoot Camera Has Changed the Way I Travel</a>&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZ19GV0liNHRsQjNCZ3M0UFdZOV9DQnIxalcyN2tOV19ZMjlVbWVpUTlUaWNtX0lIVVhfaGxQM2ZqQTlETGZlYmlHc1lhN2FMbTdBeEgxb1RYam1XRmc?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -162,19 +178,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 09:10:27 GMT",
-          "source": "chinadailyasia.com"
+          "published": "Thu, 27 Aug 2026 19:41:15 GMT",
+          "source": "Sunset Magazine"
         }
       ]
     },
     {
-      "id": "9aa9958c1534",
-      "title": "More to see, for less: Discount travel initiative adds 9 more locations around Korea - Korea JoongAng Daily",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQelBYU3M2TXJDbjRIMWxfWjhNeDNXcG9XZEZaQ19id0JXV21hS2xNQy1JTGo2VUlYWkhBaFMxVk13Q2FBZldlLXNWZ1JPV1cycUU3ODk4M1hCTkE0OG5oX1YtckM1a0tZYlRtTE5id256XzZMNExvMmVzRUFaRjNDSUdOU0ptVWNWdnVkQjJSbE5nOVRUM3hwdFJkbURBcVJLQkhKMThUSWNhWG",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQelBYU3M2TXJDbjRIMWxfWjhNeDNXcG9XZEZaQ19id0JXV21hS2xNQy1JTGo2VUlYWkhBaFMxVk13Q2FBZldlLXNWZ1JPV1cycUU3ODk4M1hCTkE0OG5oX1YtckM1a0tZYlRtTE5id256XzZMNExvMmVzRUFaRjNDSUdOU0ptVWNWdnVkQjJSbE5nOVRUM3hwdFJkbURBcVJLQkhKMThUSWNhWGduRkJTd19naWFObEo3bE5yMmVkUXRRSWtXem14Y2dHcV9aQjlGRGc?oc=5",
+      "id": "820f7b33ad49",
+      "title": "Chuck Davidson Named to Lead Winnipeg Economic Development & Tourism - ChrisD.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWI4amFFaW4tSkdUZUlnWVdpZW9NX2JjSkVaMk16TVJfS2tPdm52RC1DMFd6NmZwQ0tGR1lWY1NveHpXUTRpaE1EeC10WnJaYjVMV3R4T25ZRGtIQ0JTTW42RGpQU2daMWQ2cWZLV2EzMnBZdmhqc0l2VnRITW5XX0NOWkhzeFJ1SFc5WGxLYw?oc=5\" target=\"_blank\">Chuck Davidso",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWI4amFFaW4tSkdUZUlnWVdpZW9NX2JjSkVaMk16TVJfS2tPdm52RC1DMFd6NmZwQ0tGR1lWY1NveHpXUTRpaE1EeC10WnJaYjVMV3R4T25ZRGtIQ0JTTW42RGpQU2daMWQ2cWZLV2EzMnBZdmhqc0l2VnRITW5XX0NOWkhzeFJ1SFc5WGxLYw?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -182,19 +198,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 08:59:14 GMT",
-          "source": "Korea JoongAng Daily"
+          "published": "Thu, 27 Aug 2026 15:01:26 GMT",
+          "source": "ChrisD.ca"
         }
       ]
     },
     {
-      "id": "499fc728b373",
-      "title": "UK Second Quarter Travel Reaches New Heights Despite Iran Conflict - Aviation Week",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQktPdlU4bnV1UWdNNG5TYkpVU2dMZXY4SW45NUo1TVJQbmEwTjZ5RzI0ZlJhY25SbzRQWUlHQWd0LU1mUG1rNlBDR0tEajJxLUg2SHotcUtMcEYtZW9NNG9HQ3lfX3dMN2t2dkpjVlU4N3p2cy1QOFhHMFZQVzN0ZXAtZGVsN0oteFhWNTg5d1pnd3doY192bUNkRHhLaVhMYzVvZzFmZ05WZW",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQktPdlU4bnV1UWdNNG5TYkpVU2dMZXY4SW45NUo1TVJQbmEwTjZ5RzI0ZlJhY25SbzRQWUlHQWd0LU1mUG1rNlBDR0tEajJxLUg2SHotcUtMcEYtZW9NNG9HQ3lfX3dMN2t2dkpjVlU4N3p2cy1QOFhHMFZQVzN0ZXAtZGVsN0oteFhWNTg5d1pnd3doY192bUNkRHhLaVhMYzVvZzFmZ05WZWc2R1YxNGVHcXhvSU0yeFJGRXp2WQ?oc=5",
+      "id": "1a12b8f36e56",
+      "title": "Barbados Tourism taps Michèle Rauzon to grow Quebec market - Pax News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDdqeGRBalg3ai1zNTdnazRaNHZCYnRJX3REcS1NVFo0alhreWlxQTJnNGFUUGl1Nm5ubTJfVnU3TVpudS1hWUVQbjZYLTVuSUR2UUI3U1JaM1dqMFhWTUlIUWwyWEFidmVjVVVrOWh3eHdvYjhSRk1oa01xZUxCdzIwVjA2cXNRazllcEkyMWRHR3NEdjZvaUw4NF9najhmS1BmeA?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDdqeGRBalg3ai1zNTdnazRaNHZCYnRJX3REcS1NVFo0alhreWlxQTJnNGFUUGl1Nm5ubTJfVnU3TVpudS1hWUVQbjZYLTVuSUR2UUI3U1JaM1dqMFhWTUlIUWwyWEFidmVjVVVrOWh3eHdvYjhSRk1oa01xZUxCdzIwVjA2cXNRazllcEkyMWRHR3NEdjZvaUw4NF9najhmS1BmeA?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -202,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 04:04:06 GMT",
-          "source": "Aviation Week"
+          "published": "Thu, 27 Aug 2026 15:04:16 GMT",
+          "source": "Pax News"
         }
       ]
     },
     {
-      "id": "d244f3892623",
-      "title": "New York hospitality industry begs for truce in US-Canada trade dispute - Times Herald-Record",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMFhnN3J6aHZHUmFXaEU5d1RCYjdFQng1bGozdVk2NkF0SElsMXpoT2xBNG4tMXpGcjJjQWdpWFlrbEJ4Y1JKWERJS2YwWVVjTlJOSVNmc1BoR1hUWnluWWtvUFJwUFNScGdtLTM0T1dxNHF4UG1hTmJMVjFrS1VQVlowcjZuV0UwOTRDbVEwNF9Pd3JlWXQ4SGktdktJMmxXemFzWGFsdTl0WD",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMFhnN3J6aHZHUmFXaEU5d1RCYjdFQng1bGozdVk2NkF0SElsMXpoT2xBNG4tMXpGcjJjQWdpWFlrbEJ4Y1JKWERJS2YwWVVjTlJOSVNmc1BoR1hUWnluWWtvUFJwUFNScGdtLTM0T1dxNHF4UG1hTmJMVjFrS1VQVlowcjZuV0UwOTRDbVEwNF9Pd3JlWXQ4SGktdktJMmxXemFzWGFsdTl0WDZMMXctZGZuYkxBbEN4RDRXM0owSms5R1JpTzIyTWFsdFJ5ZHVxQkFkRTJn?oc=5",
+      "id": "c678d259d72b",
+      "title": "Hellebuyck’s Agent Reveals Trade Request, Buffalo Among Possible Destinations - The Hockey News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOa2R4ME9NMk5OZlZ4eklTV2ZLV092VmZCNFRUeU43S2h5d2NiN1RoMTZRUktnajBnM095RVEwNUVOdVhmZGktRzV1ZmtubC1kUTJJQ1JBY2U5WlJHdE1YcmhLbnZ4dkZhVV9wT1FDSGEwSHpZTXhwaGl3YlFrQlRnOUhyM0w1VHNvRl9nN0p3QS11TUxYWEJsejJ3LThqNUhlc2h0eVFJUV83bV",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa2R4ME9NMk5OZlZ4eklTV2ZLV092VmZCNFRUeU43S2h5d2NiN1RoMTZRUktnajBnM095RVEwNUVOdVhmZGktRzV1ZmtubC1kUTJJQ1JBY2U5WlJHdE1YcmhLbnZ4dkZhVV9wT1FDSGEwSHpZTXhwaGl3YlFrQlRnOUhyM0w1VHNvRl9nN0p3QS11TUxYWEJsejJ3LThqNUhlc2h0eVFJUV83bVdvMU5mcVdwUFZNUHF6U1NUX1ZxRFAxT2pWZkRGcmg5R20ydw?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -222,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 09:11:00 GMT",
-          "source": "Times Herald-Record"
+          "published": "Thu, 27 Aug 2026 20:08:07 GMT",
+          "source": "The Hockey News"
         }
       ]
     },
     {
-      "id": "cc265763e025",
-      "title": "Top destinations for corporate team-building trips - GlobeNewswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPaElqb09kRjVSRWE3Wm11UktVa0FVZWRacjZTWVBHRHNnYi1yYUNVd2JBdTR4bW1UaTVJVVlwbTFKMm0tZWtsUVQ0eFRjZUd4dTNzM090WndVNml0eTJEXzlWZWJZdDFROXJYellTVWxTZUJRY2NsRWpnWlU2MU1IUFVkSGtSNGdsZ0xhOGxNRU9oWjRPWS15ZWdaRkpGQjNrMUNyRkp2OGpQQj",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaElqb09kRjVSRWE3Wm11UktVa0FVZWRacjZTWVBHRHNnYi1yYUNVd2JBdTR4bW1UaTVJVVlwbTFKMm0tZWtsUVQ0eFRjZUd4dTNzM090WndVNml0eTJEXzlWZWJZdDFROXJYellTVWxTZUJRY2NsRWpnWlU2MU1IUFVkSGtSNGdsZ0xhOGxNRU9oWjRPWS15ZWdaRkpGQjNrMUNyRkp2OGpQQjRWVGVsM0ZsZE95b2lzcWs1d052TQ?oc=5",
+      "id": "a72aa65b54b7",
+      "title": "Provincial program to give financial boost to Northern B.C. tourism sector - My Prince George Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3BWR05KbzBLQllWXzB2cTh4NFhxX0g5a1pULVAzWDhEckx6YW1CUHVEeW10YjhMZVNLbU8wRjlkU29VazNnQVBtbXl6eTlLblQwRkZNWjBOM25iVDd6MXM1MGJuY213VGVVWUtZN1VBREdCbVRETEhfMVZSZnFBOHplaU94QWZqOHY2eG5sUE5WdkRoM0FGSFBsZ24wN2pXeWQ1cTZUVUYwT1",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3BWR05KbzBLQllWXzB2cTh4NFhxX0g5a1pULVAzWDhEckx6YW1CUHVEeW10YjhMZVNLbU8wRjlkU29VazNnQVBtbXl6eTlLblQwRkZNWjBOM25iVDd6MXM1MGJuY213VGVVWUtZN1VBREdCbVRETEhfMVZSZnFBOHplaU94QWZqOHY2eG5sUE5WdkRoM0FGSFBsZ24wN2pXeWQ1cTZUVUYwT1Y4ejNpcWgwc2x6M085b2FScVdpZXdvdWF2a2ZmRVNhVXhNTFNsdnlZ?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -242,19 +258,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 09:00:00 GMT",
-          "source": "GlobeNewswire"
+          "published": "Thu, 27 Aug 2026 16:35:44 GMT",
+          "source": "My Prince George Now"
         }
       ]
     },
     {
-      "id": "e896680cb9ff",
-      "title": "Travellers Take the Wheel as Self-drive Travel Surges 81% Worldwide - Macau Business",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2hMRnI3UkU5MXkzS2YycU5fSV9vS1dubEpBS0FXRW5lS1B1Ulo2eVllU1J5RVFKMWUzQkJiQ2xyZlV4dVp3T1RsdU9vLXNuMTNxNzJHV2RCQVY5N1dlZlRoc3VKNlJBUEZMVHNJVU1pbm9SaXhHckh4NldoZnNwYWlLRkZrRzRLNmpCazRNOU9zUktITUotNw?oc=5\" target=\"_blank\">T",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2hMRnI3UkU5MXkzS2YycU5fSV9vS1dubEpBS0FXRW5lS1B1Ulo2eVllU1J5RVFKMWUzQkJiQ2xyZlV4dVp3T1RsdU9vLXNuMTNxNzJHV2RCQVY5N1dlZlRoc3VKNlJBUEZMVHNJVU1pbm9SaXhHckh4NldoZnNwYWlLRkZrRzRLNmpCazRNOU9zUktITUotNw?oc=5",
+      "id": "b28fcf2b44b4",
+      "title": "Bridge closure disrupting travel on Nova Scotia's North Shore - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGxiR2lsc1JiUy1wSVhMUGt2NE1DUWs3VXdLUUN4cW54eTJfSHlGRVZ3cE9hbU5vRlJwMDJLMUNjSW1xSzNhcDFUbWF2dVcxU1h0aTNfcWZiQnlPd3hZRnJqcmdzVlhHcjFLaHhlWkxRZllVdllNZE9WbmNiWnZhM3F1N3E?oc=5\" target=\"_blank\">Bridge closure disrupting tr",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGxiR2lsc1JiUy1wSVhMUGt2NE1DUWs3VXdLUUN4cW54eTJfSHlGRVZ3cE9hbU5vRlJwMDJLMUNjSW1xSzNhcDFUbWF2dVcxU1h0aTNfcWZiQnlPd3hZRnJqcmdzVlhHcjFLaHhlWkxRZllVdllNZE9WbmNiWnZhM3F1N3E?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -262,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 09:01:41 GMT",
-          "source": "Macau Business"
+          "published": "Thu, 27 Aug 2026 18:10:34 GMT",
+          "source": "Yahoo News Canada"
         }
       ]
     },
     {
-      "id": "43b3a74b13be",
-      "title": "North American Airlines Restore Israel Service As Tourism Connections Rebuild - THEJ.CA",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmlLVHlOOVhvUl8zQUI2X1dabUk0UURZajRZMGQ5QUxjMC16VjY1aTg0QnNEcUljMk0xRFk0bUxwSzd5TTh4ak1TMElMQWFVZnNjTld1OEtLOUNvVWpFQjRzUkI5TUktLW8zbXJNYXNhcmM5ZzZ5UElhWGJVUm9kX2VNOUtJcnNJZ0NCenNFdWItakdnRVA0Zkx6eUtxRWxCa0g2cXVZQW4?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmlLVHlOOVhvUl8zQUI2X1dabUk0UURZajRZMGQ5QUxjMC16VjY1aTg0QnNEcUljMk0xRFk0bUxwSzd5TTh4ak1TMElMQWFVZnNjTld1OEtLOUNvVWpFQjRzUkI5TUktLW8zbXJNYXNhcmM5ZzZ5UElhWGJVUm9kX2VNOUtJcnNJZ0NCenNFdWItakdnRVA0Zkx6eUtxRWxCa0g2cXVZQW4?oc=5",
+      "id": "556803009c0b",
+      "title": "Space travel voyage begins with staring at the stars on the farm’s front porch - Grainews",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFJ5TGRpV0k1cWZDRDJoSVdzRFE2OVB0M3pTMWNLWUpFUldUdWdNMHdGcUVycjM4NF9vQmlIa2VBaGI0TUFXV0Y2bFg4b1hMb0VPdlNaMWpJckFMNWhieHF6VEJjUTlFeTcwUEN1UGhJS3c3QVl5d0pPSk5rbXJKYWVwc2s1ZFAxdnJrRXNTeWZma2pWaFpDOTZ1YmZjWVRveDFmb1pWN241OT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFJ5TGRpV0k1cWZDRDJoSVdzRFE2OVB0M3pTMWNLWUpFUldUdWdNMHdGcUVycjM4NF9vQmlIa2VBaGI0TUFXV0Y2bFg4b1hMb0VPdlNaMWpJckFMNWhieHF6VEJjUTlFeTcwUEN1UGhJS3c3QVl5d0pPSk5rbXJKYWVwc2s1ZFAxdnJrRXNTeWZma2pWaFpDOTZ1YmZjWVRveDFmb1pWN241OTlz?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -282,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 05:19:29 GMT",
-          "source": "THEJ.CA"
+          "published": "Thu, 27 Aug 2026 16:29:15 GMT",
+          "source": "Grainews"
         }
       ]
     },
     {
-      "id": "90d380778412",
-      "title": "Is it safe to travel to Nepal? Major tourist hotspot hit by devastating flash floods with hundreds feared dead - Yahoo News Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1BYk5iZC0tREFGRWFRSnh6TEY5dFYzVi1maENLOUdoQlJhZm5obWlWb3NRemNPSEhnY013ck83T19PZGV1WEpVZTJtRHpuY3BYM3VPT1ViRE1GQmZZQ1BaT3hqNGtFaWh0bjVoSkphNExtdkRhb3VjZV8tNjA?oc=5\" target=\"_blank\">Is it safe to travel to Nepal? Major tou",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BYk5iZC0tREFGRWFRSnh6TEY5dFYzVi1maENLOUdoQlJhZm5obWlWb3NRemNPSEhnY013ck83T19PZGV1WEpVZTJtRHpuY3BYM3VPT1ViRE1GQmZZQ1BaT3hqNGtFaWh0bjVoSkphNExtdkRhb3VjZV8tNjA?oc=5",
+      "id": "8e8a95ddc337",
+      "title": "The Fellow Carter Move Mug Keeps My Coffee Hot and Fresh-Tasting - Serious Eats",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQ3QyeG1MeWxBNDVZMWtBU2U4UmdiYkFrZ1RESmFnc3JEWVBBOWlUNzM5Wi16LW44eHF6aU9URGJBQWJTUWNuclllOEo0dTR5bTVKcXZLN3B0ZlVub092LUU5eW9WOU80NmtGSncyc1RSM0YwNy1BVmlLaUhNY1U?oc=5\" target=\"_blank\">The Fellow Carter Move Mug Keeps My ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQ3QyeG1MeWxBNDVZMWtBU2U4UmdiYkFrZ1RESmFnc3JEWVBBOWlUNzM5Wi16LW44eHF6aU9URGJBQWJTUWNuclllOEo0dTR5bTVKcXZLN3B0ZlVub092LUU5eW9WOU80NmtGSncyc1RSM0YwNy1BVmlLaUhNY1U?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -302,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 08:51:15 GMT",
-          "source": "Yahoo News Canada"
+          "published": "Thu, 27 Aug 2026 18:00:00 GMT",
+          "source": "Serious Eats"
         }
       ]
     },
     {
-      "id": "ecd1c3bfc9f5",
-      "title": "Corporate Travel Management Secures New Debt Facilities as It Books European Liabilities and ANZ Impairment - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOTzZvU00ySmNLc1dPTnQxTU0yd2F3VGFNNXNPSjh5dlk5Z2JBYV9BeGcxSjl3N2trYVB5R2lGMDJoLTBpNzk3ZTdSUzZ1MktsZHRpRVMtQkJudGE2bk9TZTFQRF8zdkh2cHhlS3BCakdQVlRFYzYybWN4Zy1nbGgtTUg3UDJ5SWdTTHdMaXljcG5DdUtKU29DX1JsbkdoRk5xYlJFSjRHVmxjc2",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTzZvU00ySmNLc1dPTnQxTU0yd2F3VGFNNXNPSjh5dlk5Z2JBYV9BeGcxSjl3N2trYVB5R2lGMDJoLTBpNzk3ZTdSUzZ1MktsZHRpRVMtQkJudGE2bk9TZTFQRF8zdkh2cHhlS3BCakdQVlRFYzYybWN4Zy1nbGgtTUg3UDJ5SWdTTHdMaXljcG5DdUtKU29DX1JsbkdoRk5xYlJFSjRHVmxjc2tVamlhWDY4QkJEVmtqbFBOS1BEOEljX3puRWs3d2JreXI2UFA0Qmk2Q0M1aHljeWtLbjRqX3Iyd2t3VlF6bkhZVXBkQXRacjRfd2FjbWp6RGdsVU9ydmI2ZFl5bkhFdDZWX21FN0I0dDRnWWM?oc=5",
+      "id": "d775f6598a89",
+      "title": "Trump Signs Order to Rename Lake Ontario as 'Lake America' Amid Calls for Canadians to Boycott U.S. Travel - Time Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWNFblctbWhZVzBrbjRoaUtkY1dacTYySEUxbjFhUjB4QmREQk9xM1kzS1hMZnRPbFVQR2s1UFQ1dWlQa0hFaTk1dG15dlFpbGN2TUFfNXBtTHU0S1J0RGd0dXlTekhLdnFxUm1vZnNXdF9OQy1hRE5uTG16N3hRdUh6MDVxakJ0eVhhVExQRE9Bb1M5UkxmVDVmVTVzb2IyVGZiNWxWc1B1Uk",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWNFblctbWhZVzBrbjRoaUtkY1dacTYySEUxbjFhUjB4QmREQk9xM1kzS1hMZnRPbFVQR2s1UFQ1dWlQa0hFaTk1dG15dlFpbGN2TUFfNXBtTHU0S1J0RGd0dXlTekhLdnFxUm1vZnNXdF9OQy1hRE5uTG16N3hRdUh6MDVxakJ0eVhhVExQRE9Bb1M5UkxmVDVmVTVzb2IyVGZiNWxWc1B1Ukk?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -322,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 02:43:21 GMT",
-          "source": "The Globe and Mail"
+          "published": "Thu, 27 Aug 2026 18:12:12 GMT",
+          "source": "Time Magazine"
         }
       ]
     },
     {
-      "id": "d904d0c988f5",
-      "title": "Why Gen Z and Millennials want very different holidays - Euronews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0V3bGhub2NLSGZyUkpsTmgtb3ZHV1BzMHNHelN6MURXSDFVbTBuZTh2RndtTjBQUVg1a0J4V3RhTTJILXRLQVhaY0w4akRmZjl2M1RwZmNlQkhnRnZZTDlqTER0YUtkYVozeWxKQjAxMFctQ2VtS211eTdYdHliNzVkQ21YVW0wcnJCOGtPZDdQNnFtT1VKNXhCZmZncUhiWG5USU1DbnlaX2",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0V3bGhub2NLSGZyUkpsTmgtb3ZHV1BzMHNHelN6MURXSDFVbTBuZTh2RndtTjBQUVg1a0J4V3RhTTJILXRLQVhaY0w4akRmZjl2M1RwZmNlQkhnRnZZTDlqTER0YUtkYVozeWxKQjAxMFctQ2VtS211eTdYdHliNzVkQ21YVW0wcnJCOGtPZDdQNnFtT1VKNXhCZmZncUhiWG5USU1DbnlaX2g3aWJ6ZFJ5SHA0NEYwMjA1OUp5T0RwcUE?oc=5",
+      "id": "e06b5a802251",
+      "title": "After 7 weeks of closures due to wildfires, Highway 1 reopens to limited travel in the Fraser Canyon - Fraser Valley Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWjVvZ0pCN01jVXB6RWl4Q0tZbWlXazlnQ1E2bUdBM2tTTzBydjdpMFhtQXVwUFFtajZTZ196OUJBQXpOVnVPYmJ1N3k1Y1pwc3kxOWpSamxFMFJ5RDd6QUpoemJnVWZwX095X1AyQnprUk0tMFBkbzRzWi1sOWpLWF9DVEh6elFJSFJFWTNnbkhUWXdjZ3I2aHhUTXIxdk5FWlRLRDRUZXdQTU",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWjVvZ0pCN01jVXB6RWl4Q0tZbWlXazlnQ1E2bUdBM2tTTzBydjdpMFhtQXVwUFFtajZTZ196OUJBQXpOVnVPYmJ1N3k1Y1pwc3kxOWpSamxFMFJ5RDd6QUpoemJnVWZwX095X1AyQnprUk0tMFBkbzRzWi1sOWpLWF9DVEh6elFJSFJFWTNnbkhUWXdjZ3I2aHhUTXIxdk5FWlRLRDRUZXdQTUdxQnZ4anR1MnZtSVBra1Bjemw4bUpNR04xRmVyZnhubkxiVmJMZnJtcWZzbw?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -342,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 05:00:20 GMT",
-          "source": "Euronews.com"
+          "published": "Thu, 27 Aug 2026 18:24:41 GMT",
+          "source": "Fraser Valley Today"
         }
       ]
     },
     {
-      "id": "d105cd06de7c",
-      "title": "Canadians can boycott U.S. travel and alcohol. But investments are a different story - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2g1QzJoUThvay1hakVKRURoQjQtSFNLWmx3b3lfNjBWYnREbkRNS250b1llRmhSUXlHR1h1RklORUw3V0hnTGM1cU0ydXBiS2k3V3lQYkhnNDU5WlVoZzhmSWFuVEZvWWx1SXNzNVBTc2dGQmZpOThzSnpzQWdpSDFkc3lzcUY2VDN3SllBdkRrVXdaRldxQ0ZVUEJ2MUtJVjlZb1U3X0l0ei",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2g1QzJoUThvay1hakVKRURoQjQtSFNLWmx3b3lfNjBWYnREbkRNS250b1llRmhSUXlHR1h1RklORUw3V0hnTGM1cU0ydXBiS2k3V3lQYkhnNDU5WlVoZzhmSWFuVEZvWWx1SXNzNVBTc2dGQmZpOThzSnpzQWdpSDFkc3lzcUY2VDN3SllBdkRrVXdaRldxQ0ZVUEJ2MUtJVjlZb1U3X0l0ei1iNUJaRm1MdTdiaXFIRFFoOHMyNW4?oc=5",
+      "id": "527365068732",
+      "title": "Travel advisors can earn 17% commission with Jamaica Inn - Travelweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTIyejJ0bTdEcWVDa1hwRlBtRDFFX25BWC16cVNfYW95SHVjaUZnbUFGUm1sQ2tVVWNMakZBakIwaHdlekdKemtkUjJUN2h1OVdiMVk0Q2hTNktfWkQzZzBwNzZxRjVaN0lSTEVJNEJOZjZWLUpuNjBCRDZ6Y210M2E0U1FlZ25YYVJhQnY4by1ONlB6X1FobnRQVTdxLUM1SFJQbw?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTIyejJ0bTdEcWVDa1hwRlBtRDFFX25BWC16cVNfYW95SHVjaUZnbUFGUm1sQ2tVVWNMakZBakIwaHdlekdKemtkUjJUN2h1OVdiMVk0Q2hTNktfWkQzZzBwNzZxRjVaN0lSTEVJNEJOZjZWLUpuNjBCRDZ6Y210M2E0U1FlZ25YYVJhQnY4by1ONlB6X1FobnRQVTdxLUM1SFJQbw?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -362,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 25 Aug 2026 20:00:01 GMT",
-          "source": "The Globe and Mail"
+          "published": "Thu, 27 Aug 2026 15:18:58 GMT",
+          "source": "Travelweek"
         }
       ]
     },
     {
-      "id": "54c1d7b667fa",
-      "title": "The ultimate Anthony Bourdain travel guide: Tony’s favourite destinations and what he ate - Time Out Worldwide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE9DQzFSQUtBVEZTcFdDemV5bjlzN0Q3dXExUlJCUXF0RjRxSEtWTzN0OG1Lb3VxNERaNFhJRTlwbFExdl9fSEdZRmIxTkxXN01xVlJDZGdMTUhjNkRSUnAzUWVaS3duMUl6S2x0QTUwQXM4ZzI1ZG80Smp6WjdKRVdEQ1BZRDMzVkppNmg4cFNoODVDNTBqSGdRbzJXajBCTFJ4QTF6Tjdqdm",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE9DQzFSQUtBVEZTcFdDemV5bjlzN0Q3dXExUlJCUXF0RjRxSEtWTzN0OG1Lb3VxNERaNFhJRTlwbFExdl9fSEdZRmIxTkxXN01xVlJDZGdMTUhjNkRSUnAzUWVaS3duMUl6S2x0QTUwQXM4ZzI1ZG80Smp6WjdKRVdEQ1BZRDMzVkppNmg4cFNoODVDNTBqSGdRbzJXajBCTFJ4QTF6Tjdqdm8zaUFHd2hHdloxaE5ySEUyOEV1Mzk?oc=5",
+      "id": "5d7d50251363",
+      "title": "Fred Dixon returning as President and CEO of NYC Tourism + Conventions - Travelweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1NjRGNiNUpGeENqM1RfR1VlSU5peDBXcXJwdjBwSlU1N0VBb2FYbHNVU1VGeXUyREowbzN6OHZ2bW9oQmJUenljQ0ZiUEhFNy1XZWFIN1lxRWQ0dlN1WmlvN1VtTEEwRUhnNGxMUHdjNUxiNzlOZVVEX2RXTnd0N2Y2Wm5tT3pZUXU0NmxHVThLQkU1c0dsRjEyUDQzb3g5dXRxLUxOUVZmTU",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1NjRGNiNUpGeENqM1RfR1VlSU5peDBXcXJwdjBwSlU1N0VBb2FYbHNVU1VGeXUyREowbzN6OHZ2bW9oQmJUenljQ0ZiUEhFNy1XZWFIN1lxRWQ0dlN1WmlvN1VtTEEwRUhnNGxMUHdjNUxiNzlOZVVEX2RXTnd0N2Y2Wm5tT3pZUXU0NmxHVThLQkU1c0dsRjEyUDQzb3g5dXRxLUxOUVZmTUZZcTdOMWVrVQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-08-27T09:31:50+00:00",
+      "first_seen": "2026-08-27T22:13:24+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 25 Aug 2026 12:37:00 GMT",
-          "source": "Time Out Worldwide"
+          "published": "Thu, 27 Aug 2026 15:18:58 GMT",
+          "source": "Travelweek"
         }
       ]
     }
