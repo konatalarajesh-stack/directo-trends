@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "AU",
-  "generated_at": "2026-08-28T22:23:39+00:00",
+  "generated_at": "2026-08-29T07:08:13+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "edc0a87b82a1",
-      "title": "The investor trap that nearly crashed an entire market - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5",
+      "id": "860f65d09c28",
+      "title": "Unconventional wisdom: The AI parlay bet that could trigger the next bear market - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmNMRTJkRGNKRnA2cTBDY09ybjVhRmV6czZXcFpNeGRVOGNvR0tFRkQ2R0pRM0JJaXNyY3VaOGtjUUZoVWtLOWMxVk5iek9HUnZ5RzlfUF9tTmY0ZGFwenF5OGQyOEpBRUduY2VPdjQwd1EzYkU2Y1VpWXBhbjhsV2YtN2lJUHIwSVp4a2VBMVZfYVpiTEo0RWxhLUxWcXdwSDZvV21xaUtKSE",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmNMRTJkRGNKRnA2cTBDY09ybjVhRmV6czZXcFpNeGRVOGNvR0tFRkQ2R0pRM0JJaXNyY3VaOGtjUUZoVWtLOWMxVk5iek9HUnZ5RzlfUF9tTmY0ZGFwenF5OGQyOEpBRUduY2VPdjQwd1EzYkU2Y1VpWXBhbjhsV2YtN2lJUHIwSVp4a2VBMVZfYVpiTEo0RWxhLUxWcXdwSDZvV21xaUtKSEF1dVZZT3NITW1CSy1rRzhZ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 28 Aug 2026 02:45:24 GMT",
+          "source": "Morningstar Australia"
+        }
+      ]
+    },
+    {
+      "id": "edc0a87b82a1",
+      "title": "The investor trap that nearly crashed an entire market - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
           "published": "Wed, 26 Aug 2026 23:01:18 GMT",
@@ -31,14 +51,14 @@
       "title": "The big risk lurking in 30 years of market data - AFR",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RTWmdZdDVpMUNHU3hlcGpuTkFkY2hHMUkwczM5OGNSOGc2NXNnelN4eThSSUEwYkRFRU9xM2FXZ3lDWDBkckRjRnltVGZoMmJnTVl4aWNqUUFMNmxETGVkcExnSkpZbG9wT3NaSi1kc2xMR25xZ2Roc3lQOHFNYnR0NDg2YUdTRC10anNNVlNSSTJnMUE5a3dVeGtsOHpZQ0prMTZydzhzdm",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RTWmdZdDVpMUNHU3hlcGpuTkFkY2hHMUkwczM5OGNSOGc2NXNnelN4eThSSUEwYkRFRU9xM2FXZ3lDWDBkckRjRnltVGZoMmJnTVl4aWNqUUFMNmxETGVkcExnSkpZbG9wT3NaSi1kc2xMR25xZ2Roc3lQOHFNYnR0NDg2YUdTRC10anNNVlNSSTJnMUE5a3dVeGtsOHpZQ0prMTZydzhzdmM?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
           "published": "Fri, 14 Aug 2026 07:00:00 GMT",
@@ -51,14 +71,14 @@
       "title": "Consumer confidence improves slightly, but faith in stock market weakens - Focus Taiwan",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZGEyYTU0OVZJMTJqY1JScFN3dS1LNnhFTnEyYnJuLThlTGxyMTZrdE1WRDRZWHZ4ZGJGWXMyR1hIVnVvYnhKNFJuRjhLbGdLQXNxMFdRYw?oc=5\" target=\"_blank\">Consumer confidence improves slightly, but faith in stock market weakens</a>&nbsp;&nbsp;<",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZGEyYTU0OVZJMTJqY1JScFN3dS1LNnhFTnEyYnJuLThlTGxyMTZrdE1WRDRZWHZ4ZGJGWXMyR1hIVnVvYnhKNFJuRjhLbGdLQXNxMFdRYw?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
           "published": "Fri, 28 Aug 2026 06:33:00 GMT",
@@ -71,14 +91,14 @@
       "title": "Gold prices today, Friday, August 28, 2026: Gold steady as markets prepare for Warsh speech - Yahoo Finance",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaWt5QjVLRlJPZFVEOXBxNGFTM3JfczZvN2x3RjJOdXRzSUwwaFFRQnIxNlJtNWNHLUVaZHRleXNCd05XQzdUUUEyUTdYcUR2am9zQ3ZhWDhxS1hVOUIxOEgtYWRob19ra0ZYc3F1T3dKZ0l1LXY1UWpkcTVBdkpSMXVHUWVkLVU1Um03bDJlNTNiNGV0a3FoOWhyMnM1LXIyQXlnRjRXM0tOSU",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaWt5QjVLRlJPZFVEOXBxNGFTM3JfczZvN2x3RjJOdXRzSUwwaFFRQnIxNlJtNWNHLUVaZHRleXNCd05XQzdUUUEyUTdYcUR2am9zQ3ZhWDhxS1hVOUIxOEgtYWRob19ra0ZYc3F1T3dKZ0l1LXY1UWpkcTVBdkpSMXVHUWVkLVU1Um03bDJlNTNiNGV0a3FoOWhyMnM1LXIyQXlnRjRXM0tOSUx1Qm54ZXRZVGFrWERjYnA2MGlMU09kXzlOLW1zZWMzQjgydTZrNmk2U1ZIS2U4aWYtVjFKNlFuOHNLSE12dEN1OWNCeWlWNVQxc1E?oc=5",
-      "score": 79.2,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
           "published": "Fri, 28 Aug 2026 11:56:54 GMT",
@@ -91,14 +111,14 @@
       "title": "Inflation Just Jumped to 3.7% While Consumer Spending Stalled. What Does That Actually Mean for the Stock Market? - The Motley Fool",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNanEtbVU2MmQtWGtpSWkzVGpfaHd2NjB1N0I2US1yc2tGN05seTlpcnZXczh4d1VFV1UxeFB0T0NvQ0NwRFRiTzFQT2lRX2l1X3dXZ1ZfR0FwTlRkdjZSeWVwYU9IX1ZKTm8wRUEycEpWdFdzWDRxMVBQTmttV1Nxc3BVblRHalQ1ZzBfMWd5OExNWlVsTkVkWVkzcDRURUtYWTNuWlB5LVNGZG",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNanEtbVU2MmQtWGtpSWkzVGpfaHd2NjB1N0I2US1yc2tGN05seTlpcnZXczh4d1VFV1UxeFB0T0NvQ0NwRFRiTzFQT2lRX2l1X3dXZ1ZfR0FwTlRkdjZSeWVwYU9IX1ZKTm8wRUEycEpWdFdzWDRxMVBQTmttV1Nxc3BVblRHalQ1ZzBfMWd5OExNWlVsTkVkWVkzcDRURUtYWTNuWlB5LVNGZGVyTlRTY1FIVE8taHZWbDUyRGg0NDVYd0lWMnVtZVIzWG5sQzBLbk0zcWdfWEl0QmcxeWVPVXR3OV9qRGJl?oc=5",
-      "score": 75.6,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
           "published": "Thu, 27 Aug 2026 04:54:00 GMT",
@@ -111,26 +131,6 @@
       "title": "Nasdaq Jumps 411 Points as Nvidia Stock Soars: Stock Market Today - Kiplinger",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGpOLWl2YjU3MlBXdkxjb0lIdHFjZUhZbUI5cTFPRkE4aEM1dGxFUXBFTmk4Wm1yQS1xZEVmcURPTVVQcWZ0R0lzenZYcjVvU3AxMUNoQ2hoTHh0RzFXdS1NLUtiUUIzUXN1WUNXVGh5WHRTSlJDaDZXdVlQdkRQVG9jMThSNXBmNkJ5c1VuSFNidmZ1NGV2WVNQV2NFZ0lHT1N2N2F5aHV2Vj",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGpOLWl2YjU3MlBXdkxjb0lIdHFjZUhZbUI5cTFPRkE4aEM1dGxFUXBFTmk4Wm1yQS1xZEVmcURPTVVQcWZ0R0lzenZYcjVvU3AxMUNoQ2hoTHh0RzFXdS1NLUtiUUIzUXN1WUNXVGh5WHRTSlJDaDZXdVlQdkRQVG9jMThSNXBmNkJ5c1VuSFNidmZ1NGV2WVNQV2NFZ0lHT1N2N2F5aHV2VjQ?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 27 Aug 2026 20:10:26 GMT",
-          "source": "Kiplinger"
-        }
-      ]
-    },
-    {
-      "id": "d55b5635cf96",
-      "title": "Young & Invested: Why stock picking is harder than ever - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzNuS0x2SVI0US1XUHAwYk9haEhWRkhZemlFbUZxY0RuWGhJS1h3R3c0Z2dtR1RLVjJtRFlXcjN6LXpZZWhKYU5jeXE3RUlqZTRNV19QdXhBVDBjNFgxSjMwR0RpM2lYbXczM3RhUjRESmtQcE9CUGlhS3A3Qjk1MTdiWVRtTF9YcUZsRWtIQ2NST1VHbHpsUzJzVFNwbEFCRXc?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzNuS0x2SVI0US1XUHAwYk9haEhWRkhZemlFbUZxY0RuWGhJS1h3R3c0Z2dtR1RLVjJtRFlXcjN6LXpZZWhKYU5jeXE3RUlqZTRNV19QdXhBVDBjNFgxSjMwR0RpM2lYbXczM3RhUjRESmtQcE9CUGlhS3A3Qjk1MTdiWVRtTF9YcUZsRWtIQ2NST1VHbHpsUzJzVFNwbEFCRXc?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,11 +138,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 22 Apr 2026 07:00:00 GMT",
-          "source": "Morningstar Australia"
+          "published": "Thu, 27 Aug 2026 20:10:26 GMT",
+          "source": "Kiplinger"
         }
       ]
     },
@@ -158,7 +158,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
           "published": "Fri, 31 Jul 2026 07:00:00 GMT",
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-28T22:16:49+00:00",
+      "first_seen": "2026-08-29T07:01:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-28T22:16:50+00:00",
+      "first_seen": "2026-08-29T07:01:28+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -224,7 +224,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
           "published": "Wed, 26 Aug 2026 18:16:45 GMT",
@@ -244,7 +244,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-28T22:16:49+00:00",
+      "first_seen": "2026-08-29T07:01:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -256,10 +256,10 @@
       "is_global": true
     },
     {
-      "id": "2be30fe923ec",
-      "title": "3 underappreciated benefits of cash - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObVh2YzM1RThUcWxITXNaeTY5LVo4dk16S0xRcmsyMGJEYzJiSE4yTF9fZ3d6NXcyLTRhUWpvemwxT3dzUk9wRnVIS3lNZE4tUHA0ZU1DWmZJNkpHdUJBTWxlMG9ib01PNkNnQm1idmpWeTJNbGEtOF9SdTZHemFqcE1qcFJyLUE?oc=5\" target=\"_blank\">3 underappreciated benef",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVh2YzM1RThUcWxITXNaeTY5LVo4dk16S0xRcmsyMGJEYzJiSE4yTF9fZ3d6NXcyLTRhUWpvemwxT3dzUk9wRnVIS3lNZE4tUHA0ZU1DWmZJNkpHdUJBTWxlMG9ib01PNkNnQm1idmpWeTJNbGEtOF9SdTZHemFqcE1qcFJyLUE?oc=5",
+      "id": "d55b5635cf96",
+      "title": "Young & Invested: Why stock picking is harder than ever - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzNuS0x2SVI0US1XUHAwYk9haEhWRkhZemlFbUZxY0RuWGhJS1h3R3c0Z2dtR1RLVjJtRFlXcjN6LXpZZWhKYU5jeXE3RUlqZTRNV19QdXhBVDBjNFgxSjMwR0RpM2lYbXczM3RhUjRESmtQcE9CUGlhS3A3Qjk1MTdiWVRtTF9YcUZsRWtIQ2NST1VHbHpsUzJzVFNwbEFCRXc?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzNuS0x2SVI0US1XUHAwYk9haEhWRkhZemlFbUZxY0RuWGhJS1h3R3c0Z2dtR1RLVjJtRFlXcjN6LXpZZWhKYU5jeXE3RUlqZTRNV19QdXhBVDBjNFgxSjMwR0RpM2lYbXczM3RhUjRESmtQcE9CUGlhS3A3Qjk1MTdiWVRtTF9YcUZsRWtIQ2NST1VHbHpsUzJzVFNwbEFCRXc?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -267,10 +267,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+          "published": "Wed, 22 Apr 2026 07:00:00 GMT",
           "source": "Morningstar Australia"
         }
       ]
@@ -287,7 +287,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-28T22:16:49+00:00",
+      "first_seen": "2026-08-29T07:01:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -310,7 +310,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-28T22:16:49+00:00",
+      "first_seen": "2026-08-29T07:01:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -333,7 +333,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
           "published": "Wed, 13 May 2026 07:00:00 GMT",
@@ -353,7 +353,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-28T22:16:49+00:00",
+      "first_seen": "2026-08-29T07:01:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -365,10 +365,10 @@
       "is_global": true
     },
     {
-      "id": "683c3a5d2aae",
-      "title": "The beautiful chart that busts 3 stock market myths - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUdmYWVIZTZhNk5JTm5KRFRnY05iNWdYbXpGUnZQU2xpeXVuMTlkMkNsUzh1VC1IYm1RYXlBVnlhbGJ3b0hHTzNlaC1sY0NVcUpZYlJ1M2EydVZjWjRFMldSVmpBSldJSmc3RTdFM3VVWVlUU3k0U1FGX21WaDM1amhHc0hlVUxHZDJyT0JJRHhzTnZ1MTQtOVoyOA?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUdmYWVIZTZhNk5JTm5KRFRnY05iNWdYbXpGUnZQU2xpeXVuMTlkMkNsUzh1VC1IYm1RYXlBVnlhbGJ3b0hHTzNlaC1sY0NVcUpZYlJ1M2EydVZjWjRFMldSVmpBSldJSmc3RTdFM3VVWVlUU3k0U1FGX21WaDM1amhHc0hlVUxHZDJyT0JJRHhzTnZ1MTQtOVoyOA?oc=5",
+      "id": "2be30fe923ec",
+      "title": "3 underappreciated benefits of cash - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObVh2YzM1RThUcWxITXNaeTY5LVo4dk16S0xRcmsyMGJEYzJiSE4yTF9fZ3d6NXcyLTRhUWpvemwxT3dzUk9wRnVIS3lNZE4tUHA0ZU1DWmZJNkpHdUJBTWxlMG9ib01PNkNnQm1idmpWeTJNbGEtOF9SdTZHemFqcE1qcFJyLUE?oc=5\" target=\"_blank\">3 underappreciated benef",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVh2YzM1RThUcWxITXNaeTY5LVo4dk16S0xRcmsyMGJEYzJiSE4yTF9fZ3d6NXcyLTRhUWpvemwxT3dzUk9wRnVIS3lNZE4tUHA0ZU1DWmZJNkpHdUJBTWxlMG9ib01PNkNnQm1idmpWeTJNbGEtOF9SdTZHemFqcE1qcFJyLUE?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -376,10 +376,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+          "published": "Tue, 17 Mar 2026 07:00:00 GMT",
           "source": "Morningstar Australia"
         }
       ]
@@ -396,7 +396,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-28T22:16:49+00:00",
+      "first_seen": "2026-08-29T07:01:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -419,7 +419,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-28T22:16:49+00:00",
+      "first_seen": "2026-08-29T07:01:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -431,10 +431,10 @@
       "is_global": true
     },
     {
-      "id": "0119ebdb4e3e",
-      "title": "Investing after the Budget - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5Fd3FGbHRlbDBCLVNybTFXR2hIcGVRNFRpUFBsMUtGVHhvOWpUNHl5dXNjaUE3YTVvSFpITk04TkNEWXBBbFdMZnRZYkE1NU5MdUV6N2hHSFpEaURlWEsxQWpLS3ZoWWNTa29UUll2SC1jSXY2SnJzaDBR?oc=5\" target=\"_blank\">Investing after the Budget</a>&nbsp;&nbsp;<",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Fd3FGbHRlbDBCLVNybTFXR2hIcGVRNFRpUFBsMUtGVHhvOWpUNHl5dXNjaUE3YTVvSFpITk04TkNEWXBBbFdMZnRZYkE1NU5MdUV6N2hHSFpEaURlWEsxQWpLS3ZoWWNTa29UUll2SC1jSXY2SnJzaDBR?oc=5",
+      "id": "683c3a5d2aae",
+      "title": "The beautiful chart that busts 3 stock market myths - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUdmYWVIZTZhNk5JTm5KRFRnY05iNWdYbXpGUnZQU2xpeXVuMTlkMkNsUzh1VC1IYm1RYXlBVnlhbGJ3b0hHTzNlaC1sY0NVcUpZYlJ1M2EydVZjWjRFMldSVmpBSldJSmc3RTdFM3VVWVlUU3k0U1FGX21WaDM1amhHc0hlVUxHZDJyT0JJRHhzTnZ1MTQtOVoyOA?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUdmYWVIZTZhNk5JTm5KRFRnY05iNWdYbXpGUnZQU2xpeXVuMTlkMkNsUzh1VC1IYm1RYXlBVnlhbGJ3b0hHTzNlaC1sY0NVcUpZYlJ1M2EydVZjWjRFMldSVmpBSldJSmc3RTdFM3VVWVlUU3k0U1FGX21WaDM1amhHc0hlVUxHZDJyT0JJRHhzTnZ1MTQtOVoyOA?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -442,10 +442,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+          "published": "Tue, 10 Feb 2026 08:00:00 GMT",
           "source": "Morningstar Australia"
         }
       ]
@@ -462,7 +462,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-08-28T22:16:49+00:00",
+      "first_seen": "2026-08-29T07:01:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -474,10 +474,10 @@
       "is_global": true
     },
     {
-      "id": "0d25212b5de4",
-      "title": "Unconventional wisdom: Five ways to invest smarter under the new tax regime - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTFJTTBqbEJmLUFCN2kxNUdicFp5WTJ1eTVLT0JvdGdzSjk1TEl4d2xJZkJlc09BNlQ3eFF3VTl2T01VWXV0VUhFZ1BvSDdCRnE5d2NzQ3J6UU9oN2NIcmw3elN4NFd2c3hwMWdCMVBwNzVxeE9SeWNTOTRoRDhpa2psZkhnZDhZdUVWYVMweVZabEhBdHlTWm4zOC1zMVV1QTQ5VWFJWm5jRV",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTFJTTBqbEJmLUFCN2kxNUdicFp5WTJ1eTVLT0JvdGdzSjk1TEl4d2xJZkJlc09BNlQ3eFF3VTl2T01VWXV0VUhFZ1BvSDdCRnE5d2NzQ3J6UU9oN2NIcmw3elN4NFd2c3hwMWdCMVBwNzVxeE9SeWNTOTRoRDhpa2psZkhnZDhZdUVWYVMweVZabEhBdHlTWm4zOC1zMVV1QTQ5VWFJWm5jRVJQTlpWMXRaeExvUQ?oc=5",
+      "id": "0119ebdb4e3e",
+      "title": "Investing after the Budget - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5Fd3FGbHRlbDBCLVNybTFXR2hIcGVRNFRpUFBsMUtGVHhvOWpUNHl5dXNjaUE3YTVvSFpITk04TkNEWXBBbFdMZnRZYkE1NU5MdUV6N2hHSFpEaURlWEsxQWpLS3ZoWWNTa29UUll2SC1jSXY2SnJzaDBR?oc=5\" target=\"_blank\">Investing after the Budget</a>&nbsp;&nbsp;<",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Fd3FGbHRlbDBCLVNybTFXR2hIcGVRNFRpUFBsMUtGVHhvOWpUNHl5dXNjaUE3YTVvSFpITk04TkNEWXBBbFdMZnRZYkE1NU5MdUV6N2hHSFpEaURlWEsxQWpLS3ZoWWNTa29UUll2SC1jSXY2SnJzaDBR?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -485,7 +485,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+          "source": "Morningstar Australia"
+        }
+      ]
+    },
+    {
+      "id": "0d25212b5de4",
+      "title": "Unconventional wisdom: Five ways to invest smarter under the new tax regime - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTFJTTBqbEJmLUFCN2kxNUdicFp5WTJ1eTVLT0JvdGdzSjk1TEl4d2xJZkJlc09BNlQ3eFF3VTl2T01VWXV0VUhFZ1BvSDdCRnE5d2NzQ3J6UU9oN2NIcmw3elN4NFd2c3hwMWdCMVBwNzVxeE9SeWNTOTRoRDhpa2psZkhnZDhZdUVWYVMweVZabEhBdHlTWm4zOC1zMVV1QTQ5VWFJWm5jRV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTFJTTBqbEJmLUFCN2kxNUdicFp5WTJ1eTVLT0JvdGdzSjk1TEl4d2xJZkJlc09BNlQ3eFF3VTl2T01VWXV0VUhFZ1BvSDdCRnE5d2NzQ3J6UU9oN2NIcmw3elN4NFd2c3hwMWdCMVBwNzVxeE9SeWNTOTRoRDhpa2psZkhnZDhZdUVWYVMweVZabEhBdHlTWm4zOC1zMVV1QTQ5VWFJWm5jRVJQTlpWMXRaeExvUQ?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
           "published": "Fri, 15 May 2026 07:00:00 GMT",
@@ -498,26 +518,6 @@
       "title": "Future Focus: The risk of institutional thinking in personal portfolios - Morningstar Australia",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZThJYU1NZkdfR2RmOFFSS0VzVVRvMlVGU0VnY090aGdXOWVwT3h4QlhLdTBUUktRZVZVaVQtQlIyYUh4OFppelVOekhybENXMmdYdnY4RUJINTgybmhRMGZWcDFwWXdmM1ZfaFA3OEF0SXllX3l0RFQ5UEMxR3VPVU9lbFFFamdhWlJ4bEtGNmRNLVN2a2dIMHl2T0ZXQVJRTzVVcXVLTFhUMT",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZThJYU1NZkdfR2RmOFFSS0VzVVRvMlVGU0VnY090aGdXOWVwT3h4QlhLdTBUUktRZVZVaVQtQlIyYUh4OFppelVOekhybENXMmdYdnY4RUJINTgybmhRMGZWcDFwWXdmM1ZfaFA3OEF0SXllX3l0RFQ5UEMxR3VPVU9lbFFFamdhWlJ4bEtGNmRNLVN2a2dIMHl2T0ZXQVJRTzVVcXVLTFhUMTU2?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-          "source": "Morningstar Australia"
-        }
-      ]
-    },
-    {
-      "id": "c40af6a9dd0a",
-      "title": "This week’s best investing insights - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNbXNIcFpkLUJyV3YzTkprNEJoaHFCVF84WjU3aHk4ZEVPS29qNy1pVjhGaXZobW4wdEt2bkhyejgzUjFMRjVSNEJ5U0dRM0RlamZXSVVKbzVoeUVOZTRpQWpRX3VtM3g0d0c5V3dvcUFJeGY0ajRSN040NzZydWx3dWlNQTBBakdKa1E?oc=5\" target=\"_blank\">This week’s best inv",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbXNIcFpkLUJyV3YzTkprNEJoaHFCVF84WjU3aHk4ZEVPS29qNy1pVjhGaXZobW4wdEt2bkhyejgzUjFMRjVSNEJ5U0dRM0RlamZXSVVKbzVoeUVOZTRpQWpRX3VtM3g0d0c5V3dvcUFJeGY0ajRSN040NzZydWx3dWlNQTBBakdKa1E?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -525,10 +525,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-08-28T22:14:27+00:00",
+      "first_seen": "2026-08-29T06:59:10+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 21 Nov 2025 08:00:00 GMT",
+          "published": "Tue, 17 Mar 2026 07:00:00 GMT",
           "source": "Morningstar Australia"
         }
       ]
