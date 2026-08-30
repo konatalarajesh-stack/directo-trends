@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-08-29T21:01:50+00:00",
+  "generated_at": "2026-08-30T05:25:31+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "e9a76ab8fa6f",
-      "title": "A slow travel success story in Slovenia’s secret valley | Slovenia holidays - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaXNSa0lQa1doa25LczhRZHFNTndvamtFT0I2bTJESnltR2hkbXJSdnZCSmZ6SEl1REFEby1UaFJkQUhoLWkzcHNGWlh1dV9VWC0xSFRBaVBadVFCak5pSzZDQTB4RUNqRkZKaXlxM0FuYXBqcTlETmU4aG1uRUFFTnhBT3RVN2RYZUpVb2xnQ3pXMkQ5LTlqMEFxTQ?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaXNSa0lQa1doa25LczhRZHFNTndvamtFT0I2bTJESnltR2hkbXJSdnZCSmZ6SEl1REFEby1UaFJkQUhoLWkzcHNGWlh1dV9VWC0xSFRBaVBadVFCak5pSzZDQTB4RUNqRkZKaXlxM0FuYXBqcTlETmU4aG1uRUFFTnhBT3RVN2RYZUpVb2xnQ3pXMkQ5LTlqMEFxTQ?oc=5",
+      "id": "8fab5472236e",
+      "title": "EU to help tourism hotspots crack down on Airbnb-style holiday rentals - Financial Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkh3T291bEtMTUN0c3g3eTJJTmI1dTdKdGRYSFJoOHh0Nzc5bzV4clV3Z2tTQnZmOS1oV3FQRDRRSmFuTUx2UzBaQnl0TzRsN04yOGRXbmdHZWNUMTVsR1pxNzEzeGdIX2xLNXdSSDkxcktJdW5HUDVRRzBXcWtpSnhNS3k?oc=5\" target=\"_blank\">EU to help tourism hotspots ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkh3T291bEtMTUN0c3g3eTJJTmI1dTdKdGRYSFJoOHh0Nzc5bzV4clV3Z2tTQnZmOS1oV3FQRDRRSmFuTUx2UzBaQnl0TzRsN04yOGRXbmdHZWNUMTVsR1pxNzEzeGdIX2xLNXdSSDkxcktJdW5HUDVRRzBXcWtpSnhNS3k?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 30 Aug 2026 04:01:57 GMT",
+          "source": "Financial Times"
+        }
+      ]
+    },
+    {
+      "id": "972d89641c23",
+      "title": "The Mediterranean destinations that are even better to visit in autumn - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWo0MmVvWl9RcGJ6T2JDTm52Q01rMDNLWURkNTVBeGt0akxPcW84OFdtS01MNE4wN1M2TjMyeXNuWmFrVms2STIwSE1IOHR0ejJYeU4xeXlGUnNoWFBfNHRpS0NyR3lPT1BXSENETWN6UVNVZVZ4S0tMTWxjdXIwRm9uYktmZw?oc=5\" target=\"_blank\">The Mediterranean destina",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWo0MmVvWl9RcGJ6T2JDTm52Q01rMDNLWURkNTVBeGt0akxPcW84OFdtS01MNE4wN1M2TjMyeXNuWmFrVms2STIwSE1IOHR0ejJYeU4xeXlGUnNoWFBfNHRpS0NyR3lPT1BXSENETWN6UVNVZVZ4S0tMTWxjdXIwRm9uYktmZw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-30T05:16:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 30 Aug 2026 05:00:00 GMT",
+          "source": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "id": "e9a76ab8fa6f",
+      "title": "A slow travel success story in Slovenia’s secret valley | Slovenia holidays - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaXNSa0lQa1doa25LczhRZHFNTndvamtFT0I2bTJESnltR2hkbXJSdnZCSmZ6SEl1REFEby1UaFJkQUhoLWkzcHNGWlh1dV9VWC0xSFRBaVBadVFCak5pSzZDQTB4RUNqRkZKaXlxM0FuYXBqcTlETmU4aG1uRUFFTnhBT3RVN2RYZUpVb2xnQ3pXMkQ5LTlqMEFxTQ?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaXNSa0lQa1doa25LczhRZHFNTndvamtFT0I2bTJESnltR2hkbXJSdnZCSmZ6SEl1REFEby1UaFJkQUhoLWkzcHNGWlh1dV9VWC0xSFRBaVBadVFCak5pSzZDQTB4RUNqRkZKaXlxM0FuYXBqcTlETmU4aG1uRUFFTnhBT3RVN2RYZUpVb2xnQ3pXMkQ5LTlqMEFxTQ?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
           "published": "Sat, 29 Aug 2026 06:00:00 GMT",
@@ -27,50 +67,10 @@
       ]
     },
     {
-      "id": "d2e10ee7d0ca",
-      "title": "FOREST PREVIEW | REDS TRAVEL TO LIVERPOOL FOR FIRST AWAY MATCH - Nottingham Forest FC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjFKenpOa1FpWTh6YU03djJIZzM3NXNfU0ZaYWkzV3RuVGNMX3E1M0Y1X2E4QUVOMThsU2FoSUFpc1k0WG9fTWVnMmhtU0pfWjYwNUhPaTBKNG0tZFUzMGxQcXpsNmRrS204ellqU3JucTNGSTBmSVA5MTFyUm1zZkxXUkJmalhqeW8tSktsQ1hwRjFFY19NN19WZzc1aGoyYU1iMG8xWXNTWl",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjFKenpOa1FpWTh6YU03djJIZzM3NXNfU0ZaYWkzV3RuVGNMX3E1M0Y1X2E4QUVOMThsU2FoSUFpc1k0WG9fTWVnMmhtU0pfWjYwNUhPaTBKNG0tZFUzMGxQcXpsNmRrS204ellqU3JucTNGSTBmSVA5MTFyUm1zZkxXUkJmalhqeW8tSktsQ1hwRjFFY19NN19WZzc1aGoyYU1iMG8xWXNTWlV5NXJkNmZUZUhlTHBoS3c?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 29 Aug 2026 08:24:54 GMT",
-          "source": "Nottingham Forest FC"
-        }
-      ]
-    },
-    {
-      "id": "f954e97d459a",
-      "title": "Japan by Rail: New 2027 Hokkaido Adventure from Ffestiniog Travel - The Railway Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVc3NWJFQlRBT3F0ZTRyYWJwcVM2ZDF2NGJKeFlsRXBreFpELVY2Qk02dlhIM2JtMUNGaTNHbGI0c2tjN3IwNEFvN3l2Y1hsb1l4UHhVRENGazlXcXppclUxYzJsSGgxbkNPekZ5Z19DTEE5RDFUMmR4U0ljdlprd3FwWGZWaGExZEV5MHpZT3hrNVlpRkc3NTZYWFJZYUJEWWhIdVJxMEU?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVc3NWJFQlRBT3F0ZTRyYWJwcVM2ZDF2NGJKeFlsRXBreFpELVY2Qk02dlhIM2JtMUNGaTNHbGI0c2tjN3IwNEFvN3l2Y1hsb1l4UHhVRENGazlXcXppclUxYzJsSGgxbkNPekZ5Z19DTEE5RDFUMmR4U0ljdlprd3FwWGZWaGExZEV5MHpZT3hrNVlpRkc3NTZYWFJZYUJEWWhIdVJxMEU?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 29 Aug 2026 07:06:00 GMT",
-          "source": "The Railway Magazine"
-        }
-      ]
-    },
-    {
-      "id": "51bbba1f8d55",
-      "title": "Simon Calder: Think you know planes? Try my devilishly difficult bank holiday quiz - The Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0MtdF9XaVdvVXA2TTJhZkpLaXl2V0RCdExXQVhHTDVKZkRHR3JfWGVIeEZoMFdKb1h6cWZ2N2tIVHB3YWxMZWRDOUctTWJzOG01TWVuc2ZkdXFfWUUxZjUyWGdZMTlkZmVWUXViMFRmZXNjZ0cySUt4X3poVVZENi0tM21fTjlEM01JS01kaTdndzA?oc=5\" target=\"_blank\">Simon Ca",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0MtdF9XaVdvVXA2TTJhZkpLaXl2V0RCdExXQVhHTDVKZkRHR3JfWGVIeEZoMFdKb1h6cWZ2N2tIVHB3YWxMZWRDOUctTWJzOG01TWVuc2ZkdXFfWUUxZjUyWGdZMTlkZmVWUXViMFRmZXNjZ0cySUt4X3poVVZENi0tM21fTjlEM01JS01kaTdndzA?oc=5",
+      "id": "a875ee8fbe6c",
+      "title": "A guide to August Bank Holiday travel in the South East - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJRk8yWktydGJtVFNmT1FxU1JqbmJsTkhKTi14LVRwTjE0Sm9aeFA0N3gyZ0pSdlpkcG1jMlNQVWpXUWcxSmNOWUlsQzh4YTJUREptT2lfcHdMU2lq?oc=5\" target=\"_blank\">A guide to August Bank Holiday travel in the South East</a>&nbsp;&nbsp;<font color=",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJRk8yWktydGJtVFNmT1FxU1JqbmJsTkhKTi14LVRwTjE0Sm9aeFA0N3gyZ0pSdlpkcG1jMlNQVWpXUWcxSmNOWUlsQzh4YTJUREptT2lfcHdMU2lq?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,47 +78,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 29 Aug 2026 13:00:00 GMT",
-          "source": "The Telegraph"
-        }
-      ]
-    },
-    {
-      "id": "f305dcf7d16e",
-      "title": "These Shocking Documentaries Will Make You Reconsider Travel - Fodors Travel Guide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1BkM1A0OXhYMV9QT2Rpd3FKU214ZThKUjQ2Tmkwa0VFcVpjWnNnTGNDN0ZiOVpMWWhrQ2R5OWRWNDViZzJpYkc1ZXpRZmhCT3M0NTJGNTF3dnB4eWV5akFkbHV6WHlQY1dYbXBFTU5OWmlPLUJwbkJDTGJLSENqQm96QlNzQUh0aGdZSmNpRHY2NTJXWWRqYTFWaw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1BkM1A0OXhYMV9QT2Rpd3FKU214ZThKUjQ2Tmkwa0VFcVpjWnNnTGNDN0ZiOVpMWWhrQ2R5OWRWNDViZzJpYkc1ZXpRZmhCT3M0NTJGNTF3dnB4eWV5akFkbHV6WHlQY1dYbXBFTU5OWmlPLUJwbkJDTGJLSENqQm96QlNzQUh0aGdZSmNpRHY2NTJXWWRqYTFWaw?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 27 Aug 2026 11:00:13 GMT",
-          "source": "Fodors Travel Guide"
-        }
-      ]
-    },
-    {
-      "id": "a875ee8fbe6c",
-      "title": "A guide to August Bank Holiday travel in the South East - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJRk8yWktydGJtVFNmT1FxU1JqbmJsTkhKTi14LVRwTjE0Sm9aeFA0N3gyZ0pSdlpkcG1jMlNQVWpXUWcxSmNOWUlsQzh4YTJUREptT2lfcHdMU2lq?oc=5\" target=\"_blank\">A guide to August Bank Holiday travel in the South East</a>&nbsp;&nbsp;<font color=",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJRk8yWktydGJtVFNmT1FxU1JqbmJsTkhKTi14LVRwTjE0Sm9aeFA0N3gyZ0pSdlpkcG1jMlNQVWpXUWcxSmNOWUlsQzh4YTJUREptT2lfcHdMU2lq?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
           "published": "Thu, 27 Aug 2026 05:04:58 GMT",
@@ -131,6 +91,46 @@
       "title": "The ultimate Anthony Bourdain travel guide: Tony’s favourite destinations and what he ate - Time Out Worldwide",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE9DQzFSQUtBVEZTcFdDemV5bjlzN0Q3dXExUlJCUXF0RjRxSEtWTzN0OG1Lb3VxNERaNFhJRTlwbFExdl9fSEdZRmIxTkxXN01xVlJDZGdMTUhjNkRSUnAzUWVaS3duMUl6S2x0QTUwQXM4ZzI1ZG80Smp6WjdKRVdEQ1BZRDMzVkppNmg4cFNoODVDNTBqSGdRbzJXajBCTFJ4QTF6Tjdqdm",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE9DQzFSQUtBVEZTcFdDemV5bjlzN0Q3dXExUlJCUXF0RjRxSEtWTzN0OG1Lb3VxNERaNFhJRTlwbFExdl9fSEdZRmIxTkxXN01xVlJDZGdMTUhjNkRSUnAzUWVaS3duMUl6S2x0QTUwQXM4ZzI1ZG80Smp6WjdKRVdEQ1BZRDMzVkppNmg4cFNoODVDNTBqSGdRbzJXajBCTFJ4QTF6Tjdqdm8zaUFHd2hHdloxaE5ySEUyOEV1Mzk?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-30T05:16:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 25 Aug 2026 12:37:00 GMT",
+          "source": "Time Out Worldwide"
+        }
+      ]
+    },
+    {
+      "id": "4dde8a1b7c0b",
+      "title": "The romance cools: mainland tourists turn their backs on the Maspalomas Dunes - Maspalomas 24h",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUk9LazNCelNiMDFZWm1MeFR1aWJOV2thR0Y4cXRteTZ0WHFHb19RQ1BxUTB3b1V1amR5TUM5V0dVc3k1Q0V3MEJOSlBkdjFCUWdYQ0l3VHRqc3cxSjVSbzhkZFQxYXJpeFlxYnFYb2RROVl0a1VBQllfemY3VVFXRVNQVzhsUEtpOEhkd0ZXUGFUOG9O?oc=5\" target=\"_blank\">The rom",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUk9LazNCelNiMDFZWm1MeFR1aWJOV2thR0Y4cXRteTZ0WHFHb19RQ1BxUTB3b1V1amR5TUM5V0dVc3k1Q0V3MEJOSlBkdjFCUWdYQ0l3VHRqc3cxSjVSbzhkZFQxYXJpeFlxYnFYb2RROVl0a1VBQllfemY3VVFXRVNQVzhsUEtpOEhkd0ZXUGFUOG9O?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-30T05:16:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 30 Aug 2026 00:40:49 GMT",
+          "source": "Maspalomas 24h"
+        }
+      ]
+    },
+    {
+      "id": "d2e10ee7d0ca",
+      "title": "FOREST PREVIEW | REDS TRAVEL TO LIVERPOOL FOR FIRST AWAY MATCH - Nottingham Forest FC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjFKenpOa1FpWTh6YU03djJIZzM3NXNfU0ZaYWkzV3RuVGNMX3E1M0Y1X2E4QUVOMThsU2FoSUFpc1k0WG9fTWVnMmhtU0pfWjYwNUhPaTBKNG0tZFUzMGxQcXpsNmRrS204ellqU3JucTNGSTBmSVA5MTFyUm1zZkxXUkJmalhqeW8tSktsQ1hwRjFFY19NN19WZzc1aGoyYU1iMG8xWXNTWl",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjFKenpOa1FpWTh6YU03djJIZzM3NXNfU0ZaYWkzV3RuVGNMX3E1M0Y1X2E4QUVOMThsU2FoSUFpc1k0WG9fTWVnMmhtU0pfWjYwNUhPaTBKNG0tZFUzMGxQcXpsNmRrS204ellqU3JucTNGSTBmSVA5MTFyUm1zZkxXUkJmalhqeW8tSktsQ1hwRjFFY19NN19WZzc1aGoyYU1iMG8xWXNTWlV5NXJkNmZUZUhlTHBoS3c?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,11 +138,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 25 Aug 2026 12:37:00 GMT",
-          "source": "Time Out Worldwide"
+          "published": "Sat, 29 Aug 2026 08:24:54 GMT",
+          "source": "Nottingham Forest FC"
         }
       ]
     },
@@ -158,7 +158,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
           "published": "Thu, 27 Aug 2026 16:17:58 GMT",
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
           "published": "Fri, 28 Aug 2026 09:00:00 GMT",
@@ -187,10 +187,10 @@
       ]
     },
     {
-      "id": "c6661ef09736",
-      "title": "Disabled Nottingham residents lose early free bus travel after turning 66 - West Bridgford Wire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmxic2o3clR1LTNTWm5oeEkxN3ZXbUFmZ1NDMXF2eXduZ00xQ25UZzZNTko5b3ktS0FaN0JrbFJJVkRzRXZpZ1BrazZvZlQtU3Zlbl80bXM3a2tZTjZpUkMtZXZjS1pod0NrOGw0RFRRMUt3RUtGYmRDOFJjejRmNWV3SDUwN0hvM0Q5SXRHTHhmX0loZ2ZmN3lYbmN5SDNm?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmxic2o3clR1LTNTWm5oeEkxN3ZXbUFmZ1NDMXF2eXduZ00xQ25UZzZNTko5b3ktS0FaN0JrbFJJVkRzRXZpZ1BrazZvZlQtU3Zlbl80bXM3a2tZTjZpUkMtZXZjS1pod0NrOGw0RFRRMUt3RUtGYmRDOFJjejRmNWV3SDUwN0hvM0Q5SXRHTHhmX0loZ2ZmN3lYbmN5SDNm?oc=5",
+      "id": "e9415d7ab849",
+      "title": "Somerset hotel named one of UK’s top spots for a summer relaxation break - Somerset County Gazette",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXplTWxxaGJ5emtsdUZGQlJkR1BRRzlKQmVmT09QVHRCTXdPOUM2NGZqNi1acTNJY2ZUb3FMeVUxaGpVdzlKbFowNDlWd082WExMUTJ2N1RleXd1TVlGZnV5RTdfUjFDSHZLTkRPT3JzbDhlbC1BandSNThTbjdReC1XOVhaR25GYUJRamE0dmJKM0NFbmpZQW1nLVk1Qk4yZ2dqYkNB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXplTWxxaGJ5emtsdUZGQlJkR1BRRzlKQmVmT09QVHRCTXdPOUM2NGZqNi1acTNJY2ZUb3FMeVUxaGpVdzlKbFowNDlWd082WExMUTJ2N1RleXd1TVlGZnV5RTdfUjFDSHZLTkRPT3JzbDhlbC1BandSNThTbjdReC1XOVhaR25GYUJRamE0dmJKM0NFbmpZQW1nLVk1Qk4yZ2dqYkNB?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +198,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 29 Aug 2026 13:58:29 GMT",
-          "source": "West Bridgford Wire"
+          "published": "Sun, 30 Aug 2026 04:00:00 GMT",
+          "source": "Somerset County Gazette"
         }
       ]
     },
     {
-      "id": "1adedece6029",
-      "title": "Interstellar Travel V: Warp Drives, Wormholes, and Halo Drives - Universe Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmFWY2NNVGtIczBGYzl1blIyUmt5Q2R5aE5uQW05RnZSZU1yU1U3TE1sM01US2tNYlJxbU5oeHAxVzBTaklkcFNZMGpINmZiMU1kXzRhbzdrdy1Qd013UkJEbkFKQVZWRklhUmVPaVJrWWxYTlYzYmR6LUNIcE9yQ0dCeGVCOFpQSGMxcXBKWFhTYU42TjFRdUozTmlyLTQ?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmFWY2NNVGtIczBGYzl1blIyUmt5Q2R5aE5uQW05RnZSZU1yU1U3TE1sM01US2tNYlJxbU5oeHAxVzBTaklkcFNZMGpINmZiMU1kXzRhbzdrdy1Qd013UkJEbkFKQVZWRklhUmVPaVJrWWxYTlYzYmR6LUNIcE9yQ0dCeGVCOFpQSGMxcXBKWFhTYU42TjFRdUozTmlyLTQ?oc=5",
+      "id": "dd8a7c81adce",
+      "title": "I’m a travel expert and these are my favourite places for some last-blast summer sun - HELLO! Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTQzY1o1VFRMaEw2Y0xHMHQ3aERIV21ZR3R2RzJKN2hkOHRsOUVZQXItUVg1ZGM0VzczYzBjZ3FhbzgxTm5UcUlvNnVHQUFocmJJX04wWGxkMVRJYUR1Q0FrbjZ2S0FPZU1rSGppM0g5QmwtSExMSzBoaUtMa1JQX0k1VmhOYUVIM1FHdVFaUmxjaDVT?oc=5\" target=\"_blank\">I’m a t",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTQzY1o1VFRMaEw2Y0xHMHQ3aERIV21ZR3R2RzJKN2hkOHRsOUVZQXItUVg1ZGM0VzczYzBjZ3FhbzgxTm5UcUlvNnVHQUFocmJJX04wWGxkMVRJYUR1Q0FrbjZ2S0FPZU1rSGppM0g5QmwtSExMSzBoaUtMa1JQX0k1VmhOYUVIM1FHdVFaUmxjaDVT?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 29 Aug 2026 03:27:00 GMT",
-          "source": "Universe Today"
+          "published": "Sun, 30 Aug 2026 05:00:00 GMT",
+          "source": "HELLO! Magazine"
         }
       ]
     },
     {
-      "id": "23b282606ba6",
-      "title": "The Italian pastry that’s caused a frenzy - CNN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5JRzlINllkQms2UDNIYTlWR1IxWmJhLUtEU0FNN1dmTmdZcHRoUFYzQ25meHNsZElNc0J4OFBhazZ4WEJucmc2aGp1bTlGN1RYYThTMngtSVZrWGRwZUs0Y29BOTNnX3JRcXBmWUVUR01pWTh4S1pCS21BMA?oc=5\" target=\"_blank\">The Italian pastry that’s caused a frenzy",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JRzlINllkQms2UDNIYTlWR1IxWmJhLUtEU0FNN1dmTmdZcHRoUFYzQ25meHNsZElNc0J4OFBhazZ4WEJucmc2aGp1bTlGN1RYYThTMngtSVZrWGRwZUs0Y29BOTNnX3JRcXBmWUVUR01pWTh4S1pCS21BMA?oc=5",
+      "id": "3c340c571efa",
+      "title": "Wittering based Travel Counsellor Emma Savage on where to go for winter sun if you’re already missing the hot weather - LincsOnline",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQbi1EVFpVei1nV3YxM24wenpLYXplajB1Z255RWQ0aURyeFlzMEhQLTh0VnBYQ3dQWGFCOW8tX2JLZGtvcmNWQmlIajVqUWRFa1NxWWZiRkg1eE95UENLdm9KU09MdUg1RGZHQ0x6U0tMc3BVeU1xb3gyWkx0UjhxaHVZUEdkelVlUW0tRWpvOFNLMUh1WHZtRUZjOGxsZnRyTE9fa1RWLS0tdz",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbi1EVFpVei1nV3YxM24wenpLYXplajB1Z255RWQ0aURyeFlzMEhQLTh0VnBYQ3dQWGFCOW8tX2JLZGtvcmNWQmlIajVqUWRFa1NxWWZiRkg1eE95UENLdm9KU09MdUg1RGZHQ0x6U0tMc3BVeU1xb3gyWkx0UjhxaHVZUEdkelVlUW0tRWpvOFNLMUh1WHZtRUZjOGxsZnRyTE9fa1RWLS0tdzJzcEI4UGxrS0dSQQ?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,71 +238,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 29 Aug 2026 11:00:29 GMT",
-          "source": "CNN"
-        }
-      ]
-    },
-    {
-      "id": "8c47b226e49f",
-      "title": "What I learned from my 15-hour summer travel nightmare - The Washington Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOV0RLeDNkRVVyQ3VyWFY0M2xPc2N2emtoaXBES0I2R3VaWHRTd1R3VEk3SzBwMW1PcmtWZFhTZEJEOWVpTXczS1F1cVFsZ2oyRmowTEd5b28tQlhyQm5mQWs3OHFBNkZzZlBCYmx1Tmxtdk1reEJsZEhWanJqS0xZQlFnSTJaUGVNVjBZd21wdTFtbnlsYk5zczJpdU1uU3Z6?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV0RLeDNkRVVyQ3VyWFY0M2xPc2N2emtoaXBES0I2R3VaWHRTd1R3VEk3SzBwMW1PcmtWZFhTZEJEOWVpTXczS1F1cVFsZ2oyRmowTEd5b28tQlhyQm5mQWs3OHFBNkZzZlBCYmx1Tmxtdk1reEJsZEhWanJqS0xZQlFnSTJaUGVNVjBZd21wdTFtbnlsYk5zczJpdU1uU3Z6?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 29 Aug 2026 17:00:01 GMT",
-          "source": "The Washington Post"
-        }
-      ]
-    },
-    {
-      "id": "d93288475f70",
-      "title": "Waste facility fire affects Tube and train travel - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mWTl5b3Y4WFFjTGFnMXZpRjE2QmRaeXhCZDNMSjhSU1FyeEFKeXg3Q184WFRCWmZEdHZGMmtqZGVGZ0ppZ1F4bnhuQVpoMjlwb20tRjFuOFFZQQ?oc=5\" target=\"_blank\">Waste facility fire affects Tube and train travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mWTl5b3Y4WFFjTGFnMXZpRjE2QmRaeXhCZDNMSjhSU1FyeEFKeXg3Q184WFRCWmZEdHZGMmtqZGVGZ0ppZ1F4bnhuQVpoMjlwb20tRjFuOFFZQQ?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 29 Aug 2026 11:30:03 GMT",
-          "source": "BBC"
-        }
-      ]
-    },
-    {
-      "id": "7bda01be4b56",
-      "title": "‘Shocking’ housing situation and huge travel costs – the challenges of island life for young people - Shetland News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjNtaVVaaHZOSFpWVk5mdlFGczQ5dmVoelZoNWZPR0VBRlN0WWxpT1RMQmxvLXFVRGVXVllzZkFDQVFsa3ZJbWtmVnhqbl9CMzh6cEVOUEZFanUxRDZhN2FrTk1QZ2c2WjY5XzFLbGZpTV9TN2VoaW5YT0ZOWWJ1M2lzSQ?oc=5\" target=\"_blank\">‘Shocking’ housing situation ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjNtaVVaaHZOSFpWVk5mdlFGczQ5dmVoelZoNWZPR0VBRlN0WWxpT1RMQmxvLXFVRGVXVllzZkFDQVFsa3ZJbWtmVnhqbl9CMzh6cEVOUEZFanUxRDZhN2FrTk1QZ2c2WjY5XzFLbGZpTV9TN2VoaW5YT0ZOWWJ1M2lzSQ?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 29 Aug 2026 12:00:00 GMT",
-          "source": "Shetland News"
+          "published": "Sun, 30 Aug 2026 04:00:00 GMT",
+          "source": "LincsOnline"
         }
       ]
     },
@@ -311,14 +251,14 @@
       "title": "UK weather: Yellow warning as thunderstorms could lead to flooding and travel disruption - Sky News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGpveXlVMDFTd0l2Q1JmMEdPUWhMYnRkVE1CdkFiWkUySy1tMjJOR2xyVnliSXBnemN6NDB4bjAwZDBRNlZPNVVzem84MEs5ME5yYTB4eWxpdmVKdkotTkl1R2NWRlpyVFU5bHFzZWZyYzdPRGJPckxVM3VSbUZ4aF9lZEdfT05Od0MyUktPR2ZXVDFQcUttaUl5eGRvcjMtWUNOc0NyWHh6U1",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGpveXlVMDFTd0l2Q1JmMEdPUWhMYnRkVE1CdkFiWkUySy1tMjJOR2xyVnliSXBnemN6NDB4bjAwZDBRNlZPNVVzem84MEs5ME5yYTB4eWxpdmVKdkotTkl1R2NWRlpyVFU5bHFzZWZyYzdPRGJPckxVM3VSbUZ4aF9lZEdfT05Od0MyUktPR2ZXVDFQcUttaUl5eGRvcjMtWUNOc0NyWHh6U1NjX09fOHpDX09xTU9iMmhuUWxCNk0?oc=5",
-      "score": 36.0,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
           "published": "Fri, 28 Aug 2026 16:05:13 GMT",
@@ -327,42 +267,62 @@
       ]
     },
     {
-      "id": "114ff612adef",
-      "title": "Five things to look out for when Fulham travel to Sunderland - Fulhamish",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4wRlduOUU4d2tnbFNWd185Qk9lZ3JFTlVYdGE3TmJTQndMblhRSkNIajN1eVI2RkF0R3cwOVMzUjltdy11VUN0eUdyNTYyZW9JUnF6MWx5TDE0MUlIQnNnNEZnOGp4aTQxNmNvbVhJUQ?oc=5\" target=\"_blank\">Five things to look out for when Fulham travel to Sunderl",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wRlduOUU4d2tnbFNWd185Qk9lZ3JFTlVYdGE3TmJTQndMblhRSkNIajN1eVI2RkF0R3cwOVMzUjltdy11VUN0eUdyNTYyZW9JUnF6MWx5TDE0MUlIQnNnNEZnOGp4aTQxNmNvbVhJUQ?oc=5",
-      "score": 32.4,
+      "id": "facbecbd6dbb",
+      "title": "How to get to Naples: Best ways for Arsenal fans to travel for the Napoli Champions League clash - Football Ground Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUEdZaWVXTzNON2pVeXR6NnNuU1VZdkJUTlFCdXZXVHp4LTBnRm00bGNMdlJ1WnJzZF83d2NQaktkb2NlbVZEV0Q4YnY1NmNxTUdETmFqM1prdFZKN3dTand2Um5PaVptc0xiSHQ5ekt5U0t0eGdKeHQ0NEg0SDJ4VDFMd3JkeXlCay0wQkVIUkZBUUZ3SkowWHNJTDdNMi15Rlg4VWFDU2pFUE",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUEdZaWVXTzNON2pVeXR6NnNuU1VZdkJUTlFCdXZXVHp4LTBnRm00bGNMdlJ1WnJzZF83d2NQaktkb2NlbVZEV0Q4YnY1NmNxTUdETmFqM1prdFZKN3dTand2Um5PaVptc0xiSHQ5ekt5U0t0eGdKeHQ0NEg0SDJ4VDFMd3JkeXlCay0wQkVIUkZBUUZ3SkowWHNJTDdNMi15Rlg4VWFDU2pFUEVtdlBHcFExanhmMG4yMG9Ta1c3Q1JQbGZlMVNTa0tYeWRoNUZQUEJVUA?oc=5",
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 29 Aug 2026 08:01:29 GMT",
-          "source": "Fulhamish"
+          "published": "Sat, 29 Aug 2026 22:35:50 GMT",
+          "source": "Football Ground Guide"
         }
       ]
     },
     {
-      "id": "599060e58eab",
-      "title": "Travel For Aircraft Bookshelf - Mentor to the Rising Sun: Britain's role in founding Japan's Naval Air Service by Dick Wise - Vintage Aviation News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNRGVJVzNRMXM1bEhfeGlIUGNNMzdWQ2FqbktrQjZ2NW9kbDJZNnRlNzlCcGFyUmZkZXdlc2dRUWdrekpqVTFJblJ3WEp3WC1GRWhWQk54elVIcVNuVHhPUXZDLXhZNkN2NkVfazlWOHRHajNuMWp6eGdZaktMYVYtblFueDVJZmpMb3h1azFzbkZOOUIwczZrNGdhMjBYank2NERrN0Z0TFRNa1",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRGVJVzNRMXM1bEhfeGlIUGNNMzdWQ2FqbktrQjZ2NW9kbDJZNnRlNzlCcGFyUmZkZXdlc2dRUWdrekpqVTFJblJ3WEp3WC1GRWhWQk54elVIcVNuVHhPUXZDLXhZNkN2NkVfazlWOHRHajNuMWp6eGdZaktMYVYtblFueDVJZmpMb3h1azFzbkZOOUIwczZrNGdhMjBYank2NERrN0Z0TFRNa1ZkVDV2M2IyVGJ3MnpvenhZWWRBVXFRa2NkeTh4dFk0RVFlVmpxQk5ybDlJbjNfaV9yQlBvM1VlZlJ4R2RSTEo4U3JmblFfdGI5amtZUmxNS1hTbTNpZ1E?oc=5",
-      "score": 28.8,
+      "id": "23b282606ba6",
+      "title": "The Italian pastry that’s caused a frenzy - CNN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5JRzlINllkQms2UDNIYTlWR1IxWmJhLUtEU0FNN1dmTmdZcHRoUFYzQ25meHNsZElNc0J4OFBhazZ4WEJucmc2aGp1bTlGN1RYYThTMngtSVZrWGRwZUs0Y29BOTNnX3JRcXBmWUVUR01pWTh4S1pCS21BMA?oc=5\" target=\"_blank\">The Italian pastry that’s caused a frenzy",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JRzlINllkQms2UDNIYTlWR1IxWmJhLUtEU0FNN1dmTmdZcHRoUFYzQ25meHNsZElNc0J4OFBhazZ4WEJucmc2aGp1bTlGN1RYYThTMngtSVZrWGRwZUs0Y29BOTNnX3JRcXBmWUVUR01pWTh4S1pCS21BMA?oc=5",
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 29 Aug 2026 14:17:31 GMT",
-          "source": "Vintage Aviation News"
+          "published": "Sat, 29 Aug 2026 11:00:29 GMT",
+          "source": "CNN"
+        }
+      ]
+    },
+    {
+      "id": "b2a6749f7247",
+      "title": "Girl faces six-month recovery after 'freak accident' bus crash on Turkey holiday - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGbjlacVhSSUZPTnhsVFd5Y1lLVUlTM0xiTVdPczRrdjdtYlRsM0tLcUxVWGp0Qkd4bGVCVGh3cC1OaE9pdEo5LXJhWTdiRXFhRUFPNUhqOXZTZw?oc=5\" target=\"_blank\">Girl faces six-month recovery after 'freak accident' bus crash on Turkey holiday</a>&",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGbjlacVhSSUZPTnhsVFd5Y1lLVUlTM0xiTVdPczRrdjdtYlRsM0tLcUxVWGp0Qkd4bGVCVGh3cC1OaE9pdEo5LXJhWTdiRXFhRUFPNUhqOXZTZw?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-30T05:16:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 29 Aug 2026 20:38:02 GMT",
+          "source": "BBC"
         }
       ]
     },
@@ -371,14 +331,14 @@
       "title": "In South Korea, it is illegal to travel to dangerous countries. Journalists say it’s making their work impossible - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOajduMWFiR2JhQ0luUW9sMVBFYU0yNmVEQ09QWUFyLTFfTDBicmpPcVU1TEN5N2RtU1FWYnFhbWgtTTBLcXBDN1lRZ0Z5a3N4Zy1pQUhyS0dUUDVOV2ZjZjJOUWVCZ1hCamFJMmdVdVloaGdoUUlOdXhWOHZXb1RKMDRxWl9LM0VBQmhGNy1RYXJ1TnhjLXVxeXdGdDJTMEpNWmtocDhIWVRvc3",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOajduMWFiR2JhQ0luUW9sMVBFYU0yNmVEQ09QWUFyLTFfTDBicmpPcVU1TEN5N2RtU1FWYnFhbWgtTTBLcXBDN1lRZ0Z5a3N4Zy1pQUhyS0dUUDVOV2ZjZjJOUWVCZ1hCamFJMmdVdVloaGdoUUlOdXhWOHZXb1RKMDRxWl9LM0VBQmhGNy1RYXJ1TnhjLXVxeXdGdDJTMEpNWmtocDhIWVRvc3I5VHFab1FwY3d6T2hIbklfelNyYm8zVnh5R3l5UUQyOUk2VnNlNjZBbExNMlFBbDBfMHNmMDZ3?oc=5",
-      "score": 25.2,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
           "published": "Sat, 29 Aug 2026 00:01:00 GMT",
@@ -391,6 +351,46 @@
       "title": "Council to vote on under-18s free travel scheme - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xQW4xUjNRdGRKU3hKZUlVRVVWWkN2MTdRMld0VXdVZXlJNE9xR1BFdEw2NENkYnFBUGlFRHIzeGEzU05JOUhkZzlxM2NYRjR4MTlsM0pVdFNNTDBY?oc=5\" target=\"_blank\">Council to vote on under-18s free travel scheme</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xQW4xUjNRdGRKU3hKZUlVRVVWWkN2MTdRMld0VXdVZXlJNE9xR1BFdEw2NENkYnFBUGlFRHIzeGEzU05JOUhkZzlxM2NYRjR4MTlsM0pVdFNNTDBY?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-30T05:16:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 28 Aug 2026 05:12:41 GMT",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "7e4c52997459",
+      "title": "Thailand transforms TAGTHAi into one-stop national tourism platform - Travel Daily Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVIyTVNaOEFBTzZidUhQbGlCRGVxN215WXBPLUJkUmMzTjdTMnBOTzkzZzFFR1lBRkxreVpFUWVWT0xHOVlEMVRqaHFzaGFsWDh4N2pCU1BkdnozRS1sVnFMOGpZVzhZNUxJZjlsbzRBbVA4X0YwY2pXa2Z6d3VIa1pNc0QwM3ZqMEFSN3ZYbFJPZkUxNEtic2RkMjRvVHczX0lr?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVIyTVNaOEFBTzZidUhQbGlCRGVxN215WXBPLUJkUmMzTjdTMnBOTzkzZzFFR1lBRkxreVpFUWVWT0xHOVlEMVRqaHFzaGFsWDh4N2pCU1BkdnozRS1sVnFMOGpZVzhZNUxJZjlsbzRBbVA4X0YwY2pXa2Z6d3VIa1pNc0QwM3ZqMEFSN3ZYbFJPZkUxNEtic2RkMjRvVHczX0lr?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-08-30T05:16:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 29 Aug 2026 23:03:02 GMT",
+          "source": "Travel Daily Media"
+        }
+      ]
+    },
+    {
+      "id": "7c6ec2b89147",
+      "title": "Stunning Cornwall beach with golden sand among UK's must-visit destinations - Cornwall Live",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWElwbGl4WTFKMHA2UFR1T1ZHWUZjVVNZaXBwU01CaXI0eUJRYWJiSEFzdGpuc2VaY2l2T1kwcVk2dXhxbEhfbFd0Vml6Y2tfa0JwaWl6ODhBcUxNNjVlRHF5YjcwZ2p4dmFTUmVnbGR6YUliZlhZRUtYV0Y2MVZyNlk5ODFfd3IydHU1WHBwWGFiY3dFNURj0gGcAUFVX3lxTE5yaWM5dFRBU1",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWElwbGl4WTFKMHA2UFR1T1ZHWUZjVVNZaXBwU01CaXI0eUJRYWJiSEFzdGpuc2VaY2l2T1kwcVk2dXhxbEhfbFd0Vml6Y2tfa0JwaWl6ODhBcUxNNjVlRHF5YjcwZ2p4dmFTUmVnbGR6YUliZlhZRUtYV0Y2MVZyNlk5ODFfd3IydHU1WHBwWGFiY3dFNURj0gGcAUFVX3lxTE5yaWM5dFRBU1hISlFzajljcTlkYlFvRjVmZDJ3dlJqS3Bjb2M4Ty1tQXg2Z0g4clIyd2V1aUViYU9ybm51UVJiWTRPb2p3T1VmNFgxX3BjRGJ6SHRjQVczeFc0OVlYWFI0NmY2OENBNW1RQXZ6TjQzUVVmSlZkMDhsUG0tcy1GZUFUU3A5aTJCYzU1WDdQWGJkYVhMdQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-08-29T20:52:27+00:00",
+      "first_seen": "2026-08-30T05:16:37+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 28 Aug 2026 05:12:41 GMT",
-          "source": "BBC"
+          "published": "Sun, 30 Aug 2026 05:01:12 GMT",
+          "source": "Cornwall Live"
         }
       ]
     }
