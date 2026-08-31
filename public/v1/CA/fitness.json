@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "CA",
-  "generated_at": "2026-08-30T21:08:43+00:00",
+  "generated_at": "2026-08-31T05:32:51+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "75b5faeb73a9",
-      "title": "Mandatory daily gym class coming to Manitoba public schools - Global News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBQS19oc2NSMGV6WG1rYjdCaVlSbTAzLWFpUWdlVDBrbk1vSmRXaGlZanVkLTdfYXhmR2hjdklUR2hyOFNZVXU2b0F6ZENVTTBmZFVBM1JIbEhpWlVJaUtwQUlnd0o4QU1DZlZfRUoxUVdrNzRDZ0RUMzZFNA?oc=5\" target=\"_blank\">Mandatory daily gym class coming to Manit",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQS19oc2NSMGV6WG1rYjdCaVlSbTAzLWFpUWdlVDBrbk1vSmRXaGlZanVkLTdfYXhmR2hjdklUR2hyOFNZVXU2b0F6ZENVTTBmZFVBM1JIbEhpWlVJaUtwQUlnd0o4QU1DZlZfRUoxUVdrNzRDZ0RUMzZFNA?oc=5",
+      "id": "b4ec3de21aa1",
+      "title": "Team Makarov captures 2026 Kirkness Cup presented by Motion Fitness - Canadian Hockey League",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEl0T3BMLXhEVl9xRzVtR3NQdktWOHRyWS1pUWJXc2hhcXJGM2haaGVya04zWkFtcWFfLWNYQ0daWk12Y0IycVp6ZkZFcG5xdUFsUjhmWmlzYXdKVXVIQ252SkhjeWFGYlFiNjJFN1pOT0hfR0hmVjZlWDBJV0ZlNWRaYWpvdE96U0lkcmRVdFBfSzJQb2ZZdWd4WnRJOTNBTmRR?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEl0T3BMLXhEVl9xRzVtR3NQdktWOHRyWS1pUWJXc2hhcXJGM2haaGVya04zWkFtcWFfLWNYQ0daWk12Y0IycVp6ZkZFcG5xdUFsUjhmWmlzYXdKVXVIQ252SkhjeWFGYlFiNjJFN1pOT0hfR0hmVjZlWDBJV0ZlNWRaYWpvdE96U0lkcmRVdFBfSzJQb2ZZdWd4WnRJOTNBTmRR?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,11 +18,35 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 30 Aug 2026 20:39:54 GMT",
+          "source": "Canadian Hockey League"
+        }
+      ]
+    },
+    {
+      "id": "75b5faeb73a9",
+      "title": "Mandatory daily gym class coming to Manitoba public schools - Global News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBQS19oc2NSMGV6WG1rYjdCaVlSbTAzLWFpUWdlVDBrbk1vSmRXaGlZanVkLTdfYXhmR2hjdklUR2hyOFNZVXU2b0F6ZENVTTBmZFVBM1JIbEhpWlVJaUtwQUlnd0o4QU1DZlZfRUoxUVdrNzRDZ0RUMzZFNA?oc=5\" target=\"_blank\">Mandatory daily gym class coming to Manit",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQS19oc2NSMGV6WG1rYjdCaVlSbTAzLWFpUWdlVDBrbk1vSmRXaGlZanVkLTdfYXhmR2hjdklUR2hyOFNZVXU2b0F6ZENVTTBmZFVBM1JIbEhpWlVJaUtwQUlnd0o4QU1DZlZfRUoxUVdrNzRDZ0RUMzZFNA?oc=5",
+      "score": 84.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
           "published": "Thu, 27 Aug 2026 21:28:51 GMT",
           "source": "Global News"
+        },
+        {
+          "published": "Mon, 31 Aug 2026 04:01:23 GMT",
+          "source": "Education News Canada"
         }
       ]
     },
@@ -31,46 +55,6 @@
       "title": "Fitness: The secret to healthy knees and hips - Montreal Gazette",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3dBVm9md0ZKU2FxWDNMZUVGREZUNDhUN2k1bUNTZ2xybG5Xd2Vla1hxUUVTdnVwTFR1V3lGd3dMY0RfdjY5bmRmU2V2aU1tNENZZ0lVRE1fdlZ1MzItZjFpVlpzbnRaMWdjREQ2cnNPcm93T09FVXBLQkMyZEpWLU5OMHgtX1N3TXg2bllrcGo0Z0tmR2Vn?oc=5\" target=\"_blank\">Fit",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3dBVm9md0ZKU2FxWDNMZUVGREZUNDhUN2k1bUNTZ2xybG5Xd2Vla1hxUUVTdnVwTFR1V3lGd3dMY0RfdjY5bmRmU2V2aU1tNENZZ0lVRE1fdlZ1MzItZjFpVlpzbnRaMWdjREQ2cnNPcm93T09FVXBLQkMyZEpWLU5OMHgtX1N3TXg2bllrcGo0Z0tmR2Vn?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 30 Aug 2026 10:05:00 GMT",
-          "source": "Montreal Gazette"
-        }
-      ]
-    },
-    {
-      "id": "319baf61fa9e",
-      "title": "Job Gym sets up shop at two Fort Erie library branches this fall - Fort Erie Radio",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1N6aWc1bEtKOExpcmpSTE5pMzFnMDZOTmlncTVfNXF2X2EzRV9zd21zTjh1NHV3SC1iTEJ3cGZYN3laZlRWUHdabjQzQW5EcXpUVVNEWVhZbHMwTkV0N01vRlVZb01IcDY1TngxWGVIRW01ZHgwT0xQLXUyemdoR2dwdUVIOVN4b3phY1pBODNKcUhs?oc=5\" target=\"_blank\">Job Gym",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1N6aWc1bEtKOExpcmpSTE5pMzFnMDZOTmlncTVfNXF2X2EzRV9zd21zTjh1NHV3SC1iTEJ3cGZYN3laZlRWUHdabjQzQW5EcXpUVVNEWVhZbHMwTkV0N01vRlVZb01IcDY1TngxWGVIRW01ZHgwT0xQLXUyemdoR2dwdUVIOVN4b3phY1pBODNKcUhs?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 30 Aug 2026 12:30:20 GMT",
-          "source": "Fort Erie Radio"
-        }
-      ]
-    },
-    {
-      "id": "be1adf2a635b",
-      "title": "The Boutique Fitness Boom Is Ending. What Comes Next? - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFZDT3gxTjQ3WHkzeUVrU01uelZ2d0xUN1d5WmtXLThHTzQ3R3FQN3B1QVNrdllVeTk1dFdiU0JMVHdkYmotTm9keC1oMEtyaHRZeXM5LXBMY1pieFJ1MF9kekRtUVhsNVhOLXFjUi0tS21saUhKMmVQZHktd1hUMTV6bGRVM0FSal9EUjFLWVVQWVE?oc=5\" target=\"_blank\">The Bout",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFZDT3gxTjQ3WHkzeUVrU01uelZ2d0xUN1d5WmtXLThHTzQ3R3FQN3B1QVNrdllVeTk1dFdiU0JMVHdkYmotTm9keC1oMEtyaHRZeXM5LXBMY1pieFJ1MF9kekRtUVhsNVhOLXFjUi0tS21saUhKMmVQZHktd1hUMTV6bGRVM0FSal9EUjFLWVVQWVE?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,11 +62,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 30 Aug 2026 13:00:00 GMT",
-          "source": "Women's Health"
+          "published": "Sun, 30 Aug 2026 10:05:00 GMT",
+          "source": "Montreal Gazette"
         }
       ]
     },
@@ -98,7 +82,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
           "published": "Mon, 24 Aug 2026 13:15:15 GMT",
@@ -107,10 +91,10 @@
       ]
     },
     {
-      "id": "2fdc1d998cf6",
-      "title": "Bronstein, Gewirtz & Grossman LLC Urges Planet Fitness, - GlobeNewswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPWEY2dDhuemRoZ1Z0Y2wxeW9HbDlWSkh2NTdsZ01jaFloekE2cVZrcThGeGV4VnhMbUdIZlJFa1p2Z1FGbzRSbG9TYWNPakFMNjgzQlJSR3VBYUtRQkxVTmlET0dlcmZRU3VSbjBoT21hRDdFSXFfeEh4Um9fUTNwTjlEa0d1X2JHb2FZZl9NZi1SVjVzM1BzS2swZGNlaThtMnlWcERYN1hkNH",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWEY2dDhuemRoZ1Z0Y2wxeW9HbDlWSkh2NTdsZ01jaFloekE2cVZrcThGeGV4VnhMbUdIZlJFa1p2Z1FGbzRSbG9TYWNPakFMNjgzQlJSR3VBYUtRQkxVTmlET0dlcmZRU3VSbjBoT21hRDdFSXFfeEh4Um9fUTNwTjlEa0d1X2JHb2FZZl9NZi1SVjVzM1BzS2swZGNlaThtMnlWcERYN1hkNHV3T04zZDk0NVBHcWhBcU8xSFVmOVZGYjlCdmpyRXZjTi1rN1ZBbzZTT0otNXJYYnBiOTdSRF9WVkw3bG9sTklnS0pySGlhS0pmajdJNGNmYnFabFhvU2E2Vm1EUloyQUluRXIwRkExZVVUUHFF?oc=5",
+      "id": "be1adf2a635b",
+      "title": "The Boutique Fitness Boom Is Ending. What Comes Next? - Women's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFZDT3gxTjQ3WHkzeUVrU01uelZ2d0xUN1d5WmtXLThHTzQ3R3FQN3B1QVNrdllVeTk1dFdiU0JMVHdkYmotTm9keC1oMEtyaHRZeXM5LXBMY1pieFJ1MF9kekRtUVhsNVhOLXFjUi0tS21saUhKMmVQZHktd1hUMTV6bGRVM0FSal9EUjFLWVVQWVE?oc=5\" target=\"_blank\">The Bout",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFZDT3gxTjQ3WHkzeUVrU01uelZ2d0xUN1d5WmtXLThHTzQ3R3FQN3B1QVNrdllVeTk1dFdiU0JMVHdkYmotTm9keC1oMEtyaHRZeXM5LXBMY1pieFJ1MF9kekRtUVhsNVhOLXFjUi0tS21saUhKMmVQZHktd1hUMTV6bGRVM0FSal9EUjFLWVVQWVE?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,19 +102,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 30 Aug 2026 16:00:00 GMT",
-          "source": "GlobeNewswire"
+          "published": "Sun, 30 Aug 2026 13:00:00 GMT",
+          "source": "Women's Health"
         }
       ]
     },
     {
-      "id": "8c88b440ba03",
-      "title": "Celtic must 'hang in there' until fitness returns - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU29uR3JDOHVfdEdyTkxpUXRuTXh0eE9aSDU5U0FpXzFjMnF2aV9kbTIwVllUS0VwWWdJd05hNGlVTlg2WmxCY3FFRmVJRkVvLWItWjlVZ0tNQ25rdlVGRjkwZjVnYjhBWWJkRU9VeEdlUVZzNHk1S2JJdWhyZHpGSmlXR2xXSG5mSkJPblo3cVNXbnFTa0JkOUJXaEV6eHhuTjFTbnNJVU1pT0",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU29uR3JDOHVfdEdyTkxpUXRuTXh0eE9aSDU5U0FpXzFjMnF2aV9kbTIwVllUS0VwWWdJd05hNGlVTlg2WmxCY3FFRmVJRkVvLWItWjlVZ0tNQ25rdlVGRjkwZjVnYjhBWWJkRU9VeEdlUVZzNHk1S2JJdWhyZHpGSmlXR2xXSG5mSkJPblo3cVNXbnFTa0JkOUJXaEV6eHhuTjFTbnNJVU1pT01ZS1M1ZHlpRWd5U210Yi04bVJsRWk3cFh1VERmaWpEQXU0TTdFamFlTnpKeDRrakh5SlBSbE05MXo?oc=5",
+      "id": "3887e1cfb298",
+      "title": "A fitness specialist shares how he finally mastered the Romanian deadlift and how he teaches clients to do the same - Fit&Well",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYlRva0I2NDdhLWZ4WmdvTHFvTVh1Z1U2LVpSVkJyWUtJWjhtSUlXRXlaR2d4Yy14RV81VDhEcnFLaXhaa1Zsc0o3YS1IYjVuMkpIbUVORmQzTzFWcHhlUnVOMWk2cmo4VzdHaHJtMDNOYjBUUGs3bTFwcEFlbTQ5VzkzNGk4RVV0SnhlSDlwWmJnS0JaVjUyT1hyRUhnOEJURFdfRjBwVkVqaE",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYlRva0I2NDdhLWZ4WmdvTHFvTVh1Z1U2LVpSVkJyWUtJWjhtSUlXRXlaR2d4Yy14RV81VDhEcnFLaXhaa1Zsc0o3YS1IYjVuMkpIbUVORmQzTzFWcHhlUnVOMWk2cmo4VzdHaHJtMDNOYjBUUGs3bTFwcEFlbTQ5VzkzNGk4RVV0SnhlSDlwWmJnS0JaVjUyT1hyRUhnOEJURFdfRjBwVkVqaExZREJ3alpkcTBsQjJHeWhQczBwTVFodzZkRkI5N19JbHBVZFdjb3pLSG5wMlFYRllwMVpqemhULWtQSUJmVllwcXNqT2pzNUxkLTJVSHJDTE91UQ?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,11 +122,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 30 Aug 2026 17:34:12 GMT",
-          "source": "BBC"
+          "published": "Mon, 31 Aug 2026 04:00:00 GMT",
+          "source": "Fit&Well"
         }
       ]
     },
@@ -158,7 +142,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
           "published": "Fri, 28 Aug 2026 09:00:08 GMT",
@@ -178,7 +162,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:55+00:00",
+      "first_seen": "2026-08-31T05:26:07+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -201,7 +185,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:56+00:00",
+      "first_seen": "2026-08-31T05:26:08+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -224,7 +208,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:57+00:00",
+      "first_seen": "2026-08-31T05:26:10+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -247,7 +231,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
           "published": "Sat, 29 Aug 2026 03:09:53 GMT",
@@ -267,7 +251,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:55+00:00",
+      "first_seen": "2026-08-31T05:26:07+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -290,7 +274,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:56+00:00",
+      "first_seen": "2026-08-31T05:26:08+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -313,7 +297,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:57+00:00",
+      "first_seen": "2026-08-31T05:26:10+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -336,7 +320,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
           "published": "Fri, 28 Aug 2026 12:13:03 GMT",
@@ -356,7 +340,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:55+00:00",
+      "first_seen": "2026-08-31T05:26:07+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -379,7 +363,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:57+00:00",
+      "first_seen": "2026-08-31T05:26:10+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -402,7 +386,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:57+00:00",
+      "first_seen": "2026-08-31T05:26:10+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -414,10 +398,10 @@
       "is_global": true
     },
     {
-      "id": "bc7db0217fdf",
-      "title": "What Planet Fitness (PLNT)'s Marketing Pivot, Guidance Cut and Lawsuit Mean For Shareholders - simplywall.st",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb3VaZ0hDV1FxOERsazRFaDlqVEFoSklqUDRaN1Uwa0kyNGNWbDY1bnFVTDd6eXQ4aV96SFcwYTlaYnJCbFFDZ1IyOTlWME9oUWZnOHZVWjg4VkdMeFNYWGE1WGFhWF9LTERxM1VZS3N5b1NPX3AyNkdoQm5oRVpGRUc0TDM5b3NNRnB0RkpiR0FjRHdBZ2VHNktoZlJZTHpWdTY2TjVlc29CRD",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb3VaZ0hDV1FxOERsazRFaDlqVEFoSklqUDRaN1Uwa0kyNGNWbDY1bnFVTDd6eXQ4aV96SFcwYTlaYnJCbFFDZ1IyOTlWME9oUWZnOHZVWjg4VkdMeFNYWGE1WGFhWF9LTERxM1VZS3N5b1NPX3AyNkdoQm5oRVpGRUc0TDM5b3NNRnB0RkpiR0FjRHdBZ2VHNktoZlJZTHpWdTY2TjVlc29CRDFVMTJ1RFdPWVR3Z3RZVXVxcVR0bEE0VG5sYzhPdnpGOWs0bjQ2SmU0XzNPRdIB3AFBVV95cUxOUXQ3ajhRbzBmTjFYQXlUbnMzMHJFOTZVUWg0RkllSV9ycUV1bE9vSXYzc0wtdEU1YjV0eFlEdG9TV2s4Q1BlNGwza0lTbktLcG9TekxvcVpwU0tqZnNxZ093aVVjelFlN1JmWXRITmZaTEpUbm9ZajRQVnd2NjN5Q0JTTXlzVTQxUkVmZGpjekloeGZtUDlaeXR4U3ZoSE1YSy12S1dfRXV1M0xCQ25qQkxob2tJRnRTNXlWSEtOWmpKT2NxNFRib2dXUllOMDdYNnlXZnNmQ3g0R2Zw?oc=5",
+      "id": "2fdc54d53fc9",
+      "title": "Hogging weights, loud grunting and sweaty benches: 11 gym dos and don’ts from fitness experts - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTZnR3c0YTg2Vi1YR0RjQ25aY05lZkpnVDBLa1doNFVteVJTYm5CWnFzaHU5WjliX3VlS21fZkxjZ3ZlOEthN3lBMVh2Z0I2enMzSEU1NzNxRDFqS2Jnd3BEdTZQU0NBUWNNbEYtQk44Q2ptMUNjV05HNkJQanhnNWszaGZkTGxYSmlnUERCSQ?oc=5\" target=\"_blank\">Hogging weigh",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTZnR3c0YTg2Vi1YR0RjQ25aY05lZkpnVDBLa1doNFVteVJTYm5CWnFzaHU5WjliX3VlS21fZkxjZ3ZlOEthN3lBMVh2Z0I2enMzSEU1NzNxRDFqS2Jnd3BEdTZQU0NBUWNNbEYtQk44Q2ptMUNjV05HNkJQanhnNWszaGZkTGxYSmlnUERCSQ?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -425,11 +409,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 30 Aug 2026 17:27:01 GMT",
-          "source": "simplywall.st"
+          "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
@@ -445,7 +429,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:57+00:00",
+      "first_seen": "2026-08-31T05:26:10+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -457,10 +441,10 @@
       "is_global": true
     },
     {
-      "id": "2fdc54d53fc9",
-      "title": "Hogging weights, loud grunting and sweaty benches: 11 gym dos and don’ts from fitness experts - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTZnR3c0YTg2Vi1YR0RjQ25aY05lZkpnVDBLa1doNFVteVJTYm5CWnFzaHU5WjliX3VlS21fZkxjZ3ZlOEthN3lBMVh2Z0I2enMzSEU1NzNxRDFqS2Jnd3BEdTZQU0NBUWNNbEYtQk44Q2ptMUNjV05HNkJQanhnNWszaGZkTGxYSmlnUERCSQ?oc=5\" target=\"_blank\">Hogging weigh",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTZnR3c0YTg2Vi1YR0RjQ25aY05lZkpnVDBLa1doNFVteVJTYm5CWnFzaHU5WjliX3VlS21fZkxjZ3ZlOEthN3lBMVh2Z0I2enMzSEU1NzNxRDFqS2Jnd3BEdTZQU0NBUWNNbEYtQk44Q2ptMUNjV05HNkJQanhnNWszaGZkTGxYSmlnUERCSQ?oc=5",
+      "id": "9d8786eb28a2",
+      "title": "Fairmont Chateau Whistler to host Dance Fitness for Life fundraiser - Pique Newsmagazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUdPWU1SZkRWTkZhb1hKM05haS1EU2p3Yk9xUnczOHBsRHk5OHpvN25fRGhEUzlVbUVVNkhhSFpNa3c5QV9fSjgxbEZmZHlnUlV5eFRWY2pwNjEteFhlRTd2WUJBalpHbFZKOVZKRHVJNFZrTVNRdU1ncVNlcENhQ1k3OUlqb2d2V21aNUpzaFVxM2hINGxFdmZyaDhScTZMUGFPUU9JWTFMcU",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUdPWU1SZkRWTkZhb1hKM05haS1EU2p3Yk9xUnczOHBsRHk5OHpvN25fRGhEUzlVbUVVNkhhSFpNa3c5QV9fSjgxbEZmZHlnUlV5eFRWY2pwNjEteFhlRTd2WUJBalpHbFZKOVZKRHVJNFZrTVNRdU1ncVNlcENhQ1k3OUlqb2d2V21aNUpzaFVxM2hINGxFdmZyaDhScTZMUGFPUU9JWTFMcU9la3pUVlR5T1B2cl9FNGVwN0xn?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -468,11 +452,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-          "source": "The Guardian"
+          "published": "Fri, 28 Aug 2026 19:00:00 GMT",
+          "source": "Pique Newsmagazine"
         }
       ]
     },
@@ -488,7 +472,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:57+00:00",
+      "first_seen": "2026-08-31T05:26:10+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -511,7 +495,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-08-30T21:01:57+00:00",
+      "first_seen": "2026-08-31T05:26:10+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -523,10 +507,10 @@
       "is_global": true
     },
     {
-      "id": "9d8786eb28a2",
-      "title": "Fairmont Chateau Whistler to host Dance Fitness for Life fundraiser - Pique Newsmagazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUdPWU1SZkRWTkZhb1hKM05haS1EU2p3Yk9xUnczOHBsRHk5OHpvN25fRGhEUzlVbUVVNkhhSFpNa3c5QV9fSjgxbEZmZHlnUlV5eFRWY2pwNjEteFhlRTd2WUJBalpHbFZKOVZKRHVJNFZrTVNRdU1ncVNlcENhQ1k3OUlqb2d2V21aNUpzaFVxM2hINGxFdmZyaDhScTZMUGFPUU9JWTFMcU",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUdPWU1SZkRWTkZhb1hKM05haS1EU2p3Yk9xUnczOHBsRHk5OHpvN25fRGhEUzlVbUVVNkhhSFpNa3c5QV9fSjgxbEZmZHlnUlV5eFRWY2pwNjEteFhlRTd2WUJBalpHbFZKOVZKRHVJNFZrTVNRdU1ncVNlcENhQ1k3OUlqb2d2V21aNUpzaFVxM2hINGxFdmZyaDhScTZMUGFPUU9JWTFMcU9la3pUVlR5T1B2cl9FNGVwN0xn?oc=5",
+      "id": "1c5773b1d3b0",
+      "title": "Scotia Parkette New Fitness Area - City of Toronto",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYzE0TmtURFA3NVZBQ1FjOFA2bnlFanR1aVYtVWFNbXlHV3pKa2xUc3Y1WVE5eHZMWllwTno2TS1nR2pTZmxkSS1RanlGMHpkaVdKR0hxVG1wOXhocFI1WGJ6NGs4Ykp5czhzU3ZGQ1A4TkY0c0gzMWotQ2VRTlUtblZDVGVrM1MtaTRyMkZKYmg5SWJzd3BUMUc4ckdPUTdod1Z4a29fNzhvbk",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYzE0TmtURFA3NVZBQ1FjOFA2bnlFanR1aVYtVWFNbXlHV3pKa2xUc3Y1WVE5eHZMWllwTno2TS1nR2pTZmxkSS1RanlGMHpkaVdKR0hxVG1wOXhocFI1WGJ6NGs4Ykp5czhzU3ZGQ1A4TkY0c0gzMWotQ2VRTlUtblZDVGVrM1MtaTRyMkZKYmg5SWJzd3BUMUc4ckdPUTdod1Z4a29fNzhvbkpRcHluOW1jOE5WTzR4SnB6S2NSalJ0Wk5oaXI2SkYtNzBVNTBzb2tnVVI0NVlZQzN6?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -534,13 +518,36 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-08-30T20:59:33+00:00",
+      "first_seen": "2026-08-31T05:23:45+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 28 Aug 2026 19:00:00 GMT",
-          "source": "Pique Newsmagazine"
+          "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+          "source": "City of Toronto"
         }
       ]
+    },
+    {
+      "id": "d492dcda6ade",
+      "title": "Looking Better Can Heal You",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
+      "url": "https://www.youtube.com/shorts/XUMImRd65tY",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-08-31T05:26:10+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "XUMImRd65tY",
+          "published": "2026-08-24T20:04:36+00:00"
+        }
+      ],
+      "is_global": true
     }
   ]
 }
