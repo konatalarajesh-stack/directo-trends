@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "CA",
-  "generated_at": "2026-08-31T22:55:25+00:00",
+  "generated_at": "2026-09-01T05:07:23+00:00",
   "cache_ttl_hours": 6,
-  "count": 25,
+  "count": 20,
   "trends": [
     {
       "id": "0d5d0c6bff80",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Sun, 30 Aug 2026 04:50:00 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "d447d70557dc",
-      "title": "Fashion firm Shein readies for long-awaited stock market float - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1JTTXFMQkVmZklUaHN0UVBFUVdLQ1Y1ekFDNjI2V0cyaEVDR1dGU0UzY0dMSjNlQnpaQ3luQ0FEWHBaNkgxZUFnWEVKOTRuTFh1cS1nR01WN00xcDNaQjhBTDdKOThIazd0bS1WZFphTzRKTlJFeUlnaV9zamJsOE83TEN0T2s?oc=5\" target=\"_blank\">Fashion firm Shein readi",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1JTTXFMQkVmZklUaHN0UVBFUVdLQ1Y1ekFDNjI2V0cyaEVDR1dGU0UzY0dMSjNlQnpaQ3luQ0FEWHBaNkgxZUFnWEVKOTRuTFh1cS1nR01WN00xcDNaQjhBTDdKOThIazd0bS1WZFphTzRKTlJFeUlnaV9zamJsOE83TEN0T2s?oc=5",
+      "id": "d51b09d5678b",
+      "title": "Investing in ETFs: Does timing matter? - Moneycontrol.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1poZnZONTFwU2NvY0h1NjF0VWpSeFRqSE5JaWdxTE5zTXdMdmNIYk1rVDdHdzFZYks0M3E1NmhXRUQ3cG5MX3pzWW12eTJCTjhueTNQWGJDaVl2eFBzWVU4dEFuaXhvT2VocGRXU1JvUFJTaEg3eVFJY0JzN0MtYmtzcDFTdGhmN1NHcjFJZWdPYVFCa0lGQVFkRGFoWmdWdnhfNzRYa0U4V0",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1poZnZONTFwU2NvY0h1NjF0VWpSeFRqSE5JaWdxTE5zTXdMdmNIYk1rVDdHdzFZYks0M3E1NmhXRUQ3cG5MX3pzWW12eTJCTjhueTNQWGJDaVl2eFBzWVU4dEFuaXhvT2VocGRXU1JvUFJTaEg3eVFJY0JzN0MtYmtzcDFTdGhmN1NHcjFJZWdPYVFCa0lGQVFkRGFoWmdWdnhfNzRYa0U4V0c5UmVvd01DdXc?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 01 Sep 2026 04:24:25 GMT",
+          "source": "Moneycontrol.com"
+        }
+      ]
+    },
+    {
+      "id": "d447d70557dc",
+      "title": "Fashion firm Shein readies for long-awaited stock market float - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1JTTXFMQkVmZklUaHN0UVBFUVdLQ1Y1ekFDNjI2V0cyaEVDR1dGU0UzY0dMSjNlQnpaQ3luQ0FEWHBaNkgxZUFnWEVKOTRuTFh1cS1nR01WN00xcDNaQjhBTDdKOThIazd0bS1WZFphTzRKTlJFeUlnaV9zamJsOE83TEN0T2s?oc=5\" target=\"_blank\">Fashion firm Shein readi",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1JTTXFMQkVmZklUaHN0UVBFUVdLQ1Y1ekFDNjI2V0cyaEVDR1dGU0UzY0dMSjNlQnpaQ3luQ0FEWHBaNkgxZUFnWEVKOTRuTFh1cS1nR01WN00xcDNaQjhBTDdKOThIazd0bS1WZFphTzRKTlJFeUlnaV9zamJsOE83TEN0T2s?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Mon, 31 Aug 2026 08:00:43 GMT",
@@ -51,14 +71,14 @@
       "title": "Can This Consumer Stock Defy the Spending Squeeze and Surprise the Market? - Kalkine",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDFEbXFwaUNfYk1PVk9WTDJLSnhWTmlwM2JMMmlhMEpxaGZRVGVRbnpVWDZsZU1MbjlWX2E2T2Z4bUx0YVcwcjRxYno0ZHJ3QTBSSGs3RFZqaHRVUW9OY2VWVkFZUlA0OFgzN21MNGdNSWlxb0VBNTNRMzUtOHNRbmIxMG9tZl9zczJSRFdVZEpxajlkOWd2VktCZ01icG9jT1h1TmFhNVduX0",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDFEbXFwaUNfYk1PVk9WTDJLSnhWTmlwM2JMMmlhMEpxaGZRVGVRbnpVWDZsZU1MbjlWX2E2T2Z4bUx0YVcwcjRxYno0ZHJ3QTBSSGs3RFZqaHRVUW9OY2VWVkFZUlA0OFgzN21MNGdNSWlxb0VBNTNRMzUtOHNRbmIxMG9tZl9zczJSRFdVZEpxajlkOWd2VktCZ01icG9jT1h1TmFhNVduX0NMNTBV?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Mon, 31 Aug 2026 11:46:00 GMT",
@@ -67,30 +87,10 @@
       ]
     },
     {
-      "id": "5cd1d8966737",
-      "title": "How to grow $700k to $5.4m – and why panic selling could halve returns - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhpSFRWeDd2ZjFOdmpfc3VQRXlPS3ZXVHlNM0pSQTlVWjR6R00ycXJQd0l4R0FiNnFZVVA5VUN1XzlLX2cwWElJMFVRbFhGMHpJSW5IM3puREdFWmptZEVJSnBRRThJcXZNeGlRZlBaZWpjUjgxSHhyUDJtX3J4U19aSDFYeFZSUGFuWDVoc0lUMUwtNXp2dktjNGhDME5reC1uT2FHYVZLcG",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhpSFRWeDd2ZjFOdmpfc3VQRXlPS3ZXVHlNM0pSQTlVWjR6R00ycXJQd0l4R0FiNnFZVVA5VUN1XzlLX2cwWElJMFVRbFhGMHpJSW5IM3puREdFWmptZEVJSnBRRThJcXZNeGlRZlBaZWpjUjgxSHhyUDJtX3J4U19aSDFYeFZSUGFuWDVoc0lUMUwtNXp2dktjNGhDME5reC1uT2FHYVZLcGE1RVdqMmZYQnBiQk01NUxoMTBjN2l0b0xq?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 31 Aug 2026 19:03:38 GMT",
-          "source": "AFR"
-        }
-      ]
-    },
-    {
-      "id": "65f34bf19dee",
-      "title": "1 Consumer Stock for Long-Term Investors and 2 We Question - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRjlBUl9Xc3NpTnNMUU1uS25ZWlAzZXRoMFBlOVZRQ0tjaDVUQVAzYXV6YUdPNk5TTTdwV1pUcGpXUlRxdklDczVKczE2MTRHSEdJNTZCSzdhdFVRM05fcVJndzB6R0VFM0hmUXdtcFVrYzVJYUtfZjg2eG9zUUJseW1ray1FazN2Wll3VGkwZ0FTd09QV2g0bXZOdXMwaklMMUszZ3ZTTWt2aG",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRjlBUl9Xc3NpTnNMUU1uS25ZWlAzZXRoMFBlOVZRQ0tjaDVUQVAzYXV6YUdPNk5TTTdwV1pUcGpXUlRxdklDczVKczE2MTRHSEdJNTZCSzdhdFVRM05fcVJndzB6R0VFM0hmUXdtcFVrYzVJYUtfZjg2eG9zUUJseW1ray1FazN2Wll3VGkwZ0FTd09QV2g0bXZOdXMwaklMMUszZ3ZTTWt2aGg3Rk1iemxVM0JKcDVUQWFWSnRKYUlmdHFNLWZ6bFhDaW82OUZVcGlMMFhZQnU?oc=5",
+      "id": "6b7d1111a08e",
+      "title": "Why are so many people struggling financially while the stock market is soaring? - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmc21weDY4QWJ0TnNHMlRhbDNETGEteGRuWGRGS0RhdlI2Wlg1blVWWklReTFMRkhLVHlualB5ZkZ6ZkFHNzFSUmNTVFVSOV90dFI5OXVOaHhUQQ?oc=5\" target=\"_blank\">Why are so many people struggling financially while the stock market is soaring?</a>&",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmc21weDY4QWJ0TnNHMlRhbDNETGEteGRuWGRGS0RhdlI2Wlg1blVWWklReTFMRkhLVHlualB5ZkZ6ZkFHNzFSUmNTVFVSOV90dFI5OXVOaHhUQQ?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,11 +98,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 25 Aug 2026 04:35:00 GMT",
-          "source": "The Globe and Mail"
+          "published": "Fri, 29 May 2026 07:00:00 GMT",
+          "source": "CBC"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Sun, 30 Aug 2026 04:50:00 GMT",
@@ -127,10 +127,10 @@
       ]
     },
     {
-      "id": "6b7d1111a08e",
-      "title": "Why are so many people struggling financially while the stock market is soaring? - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmc21weDY4QWJ0TnNHMlRhbDNETGEteGRuWGRGS0RhdlI2Wlg1blVWWklReTFMRkhLVHlualB5ZkZ6ZkFHNzFSUmNTVFVSOV90dFI5OXVOaHhUQQ?oc=5\" target=\"_blank\">Why are so many people struggling financially while the stock market is soaring?</a>&",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmc21weDY4QWJ0TnNHMlRhbDNETGEteGRuWGRGS0RhdlI2Wlg1blVWWklReTFMRkhLVHlualB5ZkZ6ZkFHNzFSUmNTVFVSOV90dFI5OXVOaHhUQQ?oc=5",
+      "id": "65f34bf19dee",
+      "title": "1 Consumer Stock for Long-Term Investors and 2 We Question - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRjlBUl9Xc3NpTnNMUU1uS25ZWlAzZXRoMFBlOVZRQ0tjaDVUQVAzYXV6YUdPNk5TTTdwV1pUcGpXUlRxdklDczVKczE2MTRHSEdJNTZCSzdhdFVRM05fcVJndzB6R0VFM0hmUXdtcFVrYzVJYUtfZjg2eG9zUUJseW1ray1FazN2Wll3VGkwZ0FTd09QV2g0bXZOdXMwaklMMUszZ3ZTTWt2aG",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRjlBUl9Xc3NpTnNMUU1uS25ZWlAzZXRoMFBlOVZRQ0tjaDVUQVAzYXV6YUdPNk5TTTdwV1pUcGpXUlRxdklDczVKczE2MTRHSEdJNTZCSzdhdFVRM05fcVJndzB6R0VFM0hmUXdtcFVrYzVJYUtfZjg2eG9zUUJseW1ray1FazN2Wll3VGkwZ0FTd09QV2g0bXZOdXMwaklMMUszZ3ZTTWt2aGg3Rk1iemxVM0JKcDVUQWFWSnRKYUlmdHFNLWZ6bFhDaW82OUZVcGlMMFhZQnU?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,11 +138,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 29 May 2026 07:00:00 GMT",
-          "source": "CBC"
+          "published": "Tue, 25 Aug 2026 04:35:00 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
@@ -158,59 +158,13 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Wed, 12 Aug 2026 07:00:00 GMT",
           "source": "WSJ"
         }
       ]
-    },
-    {
-      "id": "99b9114c19a9",
-      "title": "Is Elon Musk TOO Rich? 🤔",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/wOLEDqj_HKg",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-31T22:48:36+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "wOLEDqj_HKg",
-          "published": "2026-08-31T18:00:06+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "a81db7098e57",
-      "title": "Canada-US Trade Deal Falls Apart",
-      "summary": "Video on 50% US Tariffs (Section 338): https://youtu.be/YgbbI_nRF2A?si=KZF_BgWgPgR5kVli\n\nFollowing weeks of negotiations, trade talks abruptly fell apart between Canada and the US last week. Today's video breaks down what happened, and what it means for the two countries.\n\nDISCLA",
-      "url": "https://www.youtube.com/watch?v=-VWZ3pDm94c",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-31T22:48:37+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
-          "channel_title": "The Plain Bagel",
-          "video_id": "-VWZ3pDm94c",
-          "published": "2026-08-28T21:13:23+00:00"
-        }
-      ],
-      "is_global": true
     },
     {
       "id": "b6d5a445530f",
@@ -224,36 +178,13 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Mon, 09 Mar 2026 07:00:00 GMT",
           "source": "Montreal Gazette"
         }
       ]
-    },
-    {
-      "id": "f1b89aebbbcf",
-      "title": "This Millionaire Only Owns 5 Shirts...",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/hr2SZTf1EAc",
-      "score": 59.29,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-31T22:48:36+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "hr2SZTf1EAc",
-          "published": "2026-08-30T17:00:32+00:00"
-        }
-      ],
-      "is_global": true
     },
     {
       "id": "fadaeae1807f",
@@ -267,7 +198,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Mon, 29 Dec 2025 08:00:00 GMT",
@@ -276,56 +207,10 @@
       ]
     },
     {
-      "id": "413bd0aff45f",
-      "title": "Why Clavicular Pays His GF $6k/MO 🫠",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/Q2mw1ihGoOM",
-      "score": 56.98,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-31T22:48:36+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "Q2mw1ihGoOM",
-          "published": "2026-08-29T17:30:05+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "9ebb8d0ae397",
-      "title": "True Cost Of A $5M Yacht...",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/x8KNm_9Bs88",
-      "score": 54.669999999999995,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-31T22:48:36+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "x8KNm_9Bs88",
-          "published": "2026-08-27T16:00:17+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "ff57b3b75182",
-      "title": "The investor trap that nearly crashed an entire market - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5",
+      "id": "5cd1d8966737",
+      "title": "How to grow $700k to $5.4m – and why panic selling could halve returns - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhpSFRWeDd2ZjFOdmpfc3VQRXlPS3ZXVHlNM0pSQTlVWjR6R00ycXJQd0l4R0FiNnFZVVA5VUN1XzlLX2cwWElJMFVRbFhGMHpJSW5IM3puREdFWmptZEVJSnBRRThJcXZNeGlRZlBaZWpjUjgxSHhyUDJtX3J4U19aSDFYeFZSUGFuWDVoc0lUMUwtNXp2dktjNGhDME5reC1uT2FHYVZLcG",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhpSFRWeDd2ZjFOdmpfc3VQRXlPS3ZXVHlNM0pSQTlVWjR6R00ycXJQd0l4R0FiNnFZVVA5VUN1XzlLX2cwWElJMFVRbFhGMHpJSW5IM3puREdFWmptZEVJSnBRRThJcXZNeGlRZlBaZWpjUjgxSHhyUDJtX3J4U19aSDFYeFZSUGFuWDVoc0lUMUwtNXp2dktjNGhDME5reC1uT2FHYVZLcGE1RVdqMmZYQnBiQk01NUxoMTBjN2l0b0xq?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -333,36 +218,13 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 26 Aug 2026 23:01:18 GMT",
-          "source": "Morningstar Australia"
+          "published": "Mon, 31 Aug 2026 19:00:00 GMT",
+          "source": "AFR"
         }
       ]
-    },
-    {
-      "id": "794969d7d9cd",
-      "title": "Why Clavicular Spends $2.2k/MO On \"Looksmaxing\" 🤦‍♂️",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/HJtPuC9S2d4",
-      "score": 52.35999999999999,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-31T22:48:36+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "HJtPuC9S2d4",
-          "published": "2026-08-26T16:00:17+00:00"
-        }
-      ],
-      "is_global": true
     },
     {
       "id": "62ba93eab310",
@@ -376,7 +238,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Sat, 29 Aug 2026 07:44:52 GMT",
@@ -385,56 +247,10 @@
       ]
     },
     {
-      "id": "b83cb69773d4",
-      "title": "BREAKING: The Bond Market Is Collapsing - Massive Bailout Has Begun!",
-      "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: https://sofi.com/graham | Let's discuss the bond market bailout and whether or not we're in a stock market bubble - Enjoy! Add me on Instagram: GPStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER",
-      "url": "https://www.youtube.com/watch?v=mV1iw0aN9uo",
-      "score": 50.05,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-31T22:48:36+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "mV1iw0aN9uo",
-          "published": "2026-08-25T20:00:08+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "144cbbd4a309",
-      "title": "Avoid THIS Credit Card Scam...",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/Mio5TtQg0sA",
-      "score": 47.74,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-31T22:48:36+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "Mio5TtQg0sA",
-          "published": "2026-08-20T16:00:21+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "dbf74161de6c",
-      "title": "Who’s afraid of the big, bad bull market? - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGxDZFVqRzhnMXoxNzNnRmRJYTdOMVh5OTV3djVRUjBLNG5tVHdzVm11MXAxYmhnQkRtUWZHY0lmdHc4SzR2aU9QMm5EUU5FMkJ1VVZjd2JzeElJNVB1MG1jc3B5bHVGc19XSzV3dml6d3BXVjJyWk9QTlFaY1lEOGpxRTd1M245aFlGYW13TnUxN2RZZzJfb0VOMlI4b05CN2ZIaTJlbHpRUQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGxDZFVqRzhnMXoxNzNnRmRJYTdOMVh5OTV3djVRUjBLNG5tVHdzVm11MXAxYmhnQkRtUWZHY0lmdHc4SzR2aU9QMm5EUU5FMkJ1VVZjd2JzeElJNVB1MG1jc3B5bHVGc19XSzV3dml6d3BXVjJyWk9QTlFaY1lEOGpxRTd1M245aFlGYW13TnUxN2RZZzJfb0VOMlI4b05CN2ZIaTJlbHpRUQ?oc=5",
+      "id": "ff57b3b75182",
+      "title": "The investor trap that nearly crashed an entire market - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -442,7 +258,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 26 Aug 2026 23:01:18 GMT",
+          "source": "Morningstar Australia"
+        }
+      ]
+    },
+    {
+      "id": "dbf74161de6c",
+      "title": "Who’s afraid of the big, bad bull market? - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGxDZFVqRzhnMXoxNzNnRmRJYTdOMVh5OTV3djVRUjBLNG5tVHdzVm11MXAxYmhnQkRtUWZHY0lmdHc4SzR2aU9QMm5EUU5FMkJ1VVZjd2JzeElJNVB1MG1jc3B5bHVGc19XSzV3dml6d3BXVjJyWk9QTlFaY1lEOGpxRTd1M245aFlGYW13TnUxN2RZZzJfb0VOMlI4b05CN2ZIaTJlbHpRUQ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGxDZFVqRzhnMXoxNzNnRmRJYTdOMVh5OTV3djVRUjBLNG5tVHdzVm11MXAxYmhnQkRtUWZHY0lmdHc4SzR2aU9QMm5EUU5FMkJ1VVZjd2JzeElJNVB1MG1jc3B5bHVGc19XSzV3dml6d3BXVjJyWk9QTlFaY1lEOGpxRTd1M245aFlGYW13TnUxN2RZZzJfb0VOMlI4b05CN2ZIaTJlbHpRUQ?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Sun, 09 Aug 2026 07:00:00 GMT",
@@ -451,41 +287,18 @@
       ]
     },
     {
-      "id": "81f364fb9de9",
-      "title": "Buying A House In Cash?!",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/OiSZT6xESdA",
-      "score": 45.43,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-08-31T22:48:36+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "OiSZT6xESdA",
-          "published": "2026-08-18T17:00:22+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
       "id": "59649eff98f0",
       "title": "How to protect your money as Mideast turmoil fuels market volatility - Yahoo Finance",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWRqVDFHVFBZMHZMMTA4d3ZmN1NjNFZsZ2lGNG9SZTAyXzNRamJXZFBXOERNVF90Vmp4UVdjeHk2eWZ4WnBEQ2RxeWFmZU5YbUFweG5PRlhYQnJiYzVndjlCTnJEUUFPTWlxY2xuZHgtV3UzQlJib2szbHRIOGF4TjZCQ3VWQ3hGaW9JU0dRWm9WOVpfUW5tWmxhczRpU2pvWDc3dUpNQkdTaX",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWRqVDFHVFBZMHZMMTA4d3ZmN1NjNFZsZ2lGNG9SZTAyXzNRamJXZFBXOERNVF90Vmp4UVdjeHk2eWZ4WnBEQ2RxeWFmZU5YbUFweG5PRlhYQnJiYzVndjlCTnJEUUFPTWlxY2xuZHgtV3UzQlJib2szbHRIOGF4TjZCQ3VWQ3hGaW9JU0dRWm9WOVpfUW5tWmxhczRpU2pvWDc3dUpNQkdTaXJ3T1lGLXNZUDJQanczM3FibnNXczVkNmhYbjlBdXVMSmx4OU1jc29xXzBnZzdYNWFG?oc=5",
-      "score": 43.2,
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Thu, 05 Mar 2026 08:00:00 GMT",
@@ -498,14 +311,14 @@
       "title": "Looking for a financial adviser? Here's what to seek out, and red flags to avoid - Financial Post",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTJXdDJTbzFXUVNEQ1ZiTkMxcTFJWEkwQ3NBWEdwT0hCd0h4TzJRTWhYSEZ2SWlTYVl3VUV5Q2czVzZSaWNteDFoaElyZHhrckdpTnBRR3ZnYlNvNk9KVHF4ajhoSHNGR1ZPUWl5ZENfeG9SWENJUVAteGRtMFBYMFVsSXhSQURnSTVRQldnSQ?oc=5\" target=\"_blank\">Looking for a",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTJXdDJTbzFXUVNEQ1ZiTkMxcTFJWEkwQ3NBWEdwT0hCd0h4TzJRTWhYSEZ2SWlTYVl3VUV5Q2czVzZSaWNteDFoaElyZHhrckdpTnBRR3ZnYlNvNk9KVHF4ajhoSHNGR1ZPUWl5ZENfeG9SWENJUVAteGRtMFBYMFVsSXhSQURnSTVRQldnSQ?oc=5",
-      "score": 39.6,
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Thu, 11 Jun 2026 07:00:00 GMT",
@@ -518,18 +331,78 @@
       "title": "Retirees Love Dividends, but the Stock Market Surge Is Making Them Think Again - WSJ",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHRhMlVkajlMWE1EZGJucHc5ZzAwUm5GNWpGd2gzc2Nfc3NsbXBVRTFEZENyb2l6Nm11TEpmaDV0NFk3bkNyU0t4bXJWemNjdWdEQWV4cGpHNTgzTWZROE1kRWtjWkE5UE03WWhzMUhCNEdWeXcwSGI4YmdiVmE2a2hBWWxNOE40YlNPMGVUSERueDZxcmdreHpWYmhQMWl3UmVDVUxnYkozbm",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHRhMlVkajlMWE1EZGJucHc5ZzAwUm5GNWpGd2gzc2Nfc3NsbXBVRTFEZENyb2l6Nm11TEpmaDV0NFk3bkNyU0t4bXJWemNjdWdEQWV4cGpHNTgzTWZROE1kRWtjWkE5UE03WWhzMUhCNEdWeXcwSGI4YmdiVmE2a2hBWWxNOE40YlNPMGVUSERueDZxcmdreHpWYmhQMWl3UmVDVUxnYkozbmJtQmV5VWRrX3o5UW55N0c0LXNwSVo?oc=5",
-      "score": 36.0,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-08-31T22:46:15+00:00",
+      "first_seen": "2026-09-01T04:58:13+00:00",
       "raw_samples": [
         {
           "published": "Thu, 06 Aug 2026 07:00:00 GMT",
           "source": "WSJ"
+        }
+      ]
+    },
+    {
+      "id": "f1dfc873af4c",
+      "title": "Does this 84-year-old suffer from the 'Multimillionaire’s Dilemma?' - Financial Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTJ4OURQWDlDSjFMeU5rUW5KQ3ZCU2xnU3Rid2Z2Q3p5S0FLSWhuRlRySEZsR1VmN2YyU1diQmlFdUlUck4yRFpqd3p2VEtscHA4Wk1CdkhUUTF5MDFXV2o5bFNPZ1dxSGNiOTFxcXdwdHBwZFV3NGFQbE90OWlKTUVTQTdpQjhIVlZJSC1fYWFaTy1WNXhYLWYyWHlxWlV2T09JTTM3X3dQUG",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTJ4OURQWDlDSjFMeU5rUW5KQ3ZCU2xnU3Rid2Z2Q3p5S0FLSWhuRlRySEZsR1VmN2YyU1diQmlFdUlUck4yRFpqd3p2VEtscHA4Wk1CdkhUUTF5MDFXV2o5bFNPZ1dxSGNiOTFxcXdwdHBwZFV3NGFQbE90OWlKTUVTQTdpQjhIVlZJSC1fYWFaTy1WNXhYLWYyWHlxWlV2T09JTTM3X3dQUG8?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-09-01T04:58:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 06 May 2026 07:00:00 GMT",
+          "source": "Financial Post"
+        }
+      ]
+    },
+    {
+      "id": "2191fe8bf90e",
+      "title": "Despite the global turmoil, you need stock market exposure for your retirement - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NPb1I1czNBRlFMTS1fYTlMTXVvamdvREY0bVNBdlNBY2JDZmpiM2gzTXhXSUJQb2M4OXdCdzY2b2dwWm5vMlZvYXpIV3Y4VGhZcno1Q2hHRVFleTRwZG9PeXZKV1NmSU9PWGhmNVRJMkY4algyMmtYYzlNMUtSdjBGX00tcV9MRjBiUnhVUDY0ZGNKUUt5Um5HZkZqX0o5WVN2RUxhNmhuZV",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NPb1I1czNBRlFMTS1fYTlMTXVvamdvREY0bVNBdlNBY2JDZmpiM2gzTXhXSUJQb2M4OXdCdzY2b2dwWm5vMlZvYXpIV3Y4VGhZcno1Q2hHRVFleTRwZG9PeXZKV1NmSU9PWGhmNVRJMkY4algyMmtYYzlNMUtSdjBGX00tcV9MRjBiUnhVUDY0ZGNKUUt5Um5HZkZqX0o5WVN2RUxhNmhuZVBQLUVVZkR3aU9EbkkwQmo1WTdfVXdjbkszeFVqdmNzX3pxdmc?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-09-01T04:58:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 08 Mar 2026 08:00:00 GMT",
+          "source": "The Globe and Mail"
+        }
+      ]
+    },
+    {
+      "id": "5671be2f4d31",
+      "title": "ETFs are gobbling up our money. And the trend is accelerating in a big way - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWxYZ0hISWpwNFFsc0ktVnVFSjZTVnlYVlEzOGZqYUEyUFB3V3dOcTVpTllXNzdaSjJpUERFOUo4M2duOU95dDhrUWZIckxyZFFldS1XWFBOQjh1NTJyVjR6MWVOZ2FFYzI5QTNBMWZ2OHdkTi1HRXlKTWVBckZlTUFCSzVnc2o0QU82bXZnTEZvaHZjVWdMSGQxNDhpU2RJS0lKeWdZQ080em",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWxYZ0hISWpwNFFsc0ktVnVFSjZTVnlYVlEzOGZqYUEyUFB3V3dOcTVpTllXNzdaSjJpUERFOUo4M2duOU95dDhrUWZIckxyZFFldS1XWFBOQjh1NTJyVjR6MWVOZ2FFYzI5QTNBMWZ2OHdkTi1HRXlKTWVBckZlTUFCSzVnc2o0QU82bXZnTEZvaHZjVWdMSGQxNDhpU2RJS0lKeWdZQ080emc?oc=5",
+      "score": 21.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-09-01T04:58:13+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 20 Jan 2026 08:00:00 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     }
