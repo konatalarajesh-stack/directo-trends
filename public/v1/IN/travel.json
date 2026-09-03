@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "IN",
-  "generated_at": "2026-09-02T21:08:22+00:00",
+  "generated_at": "2026-09-03T04:24:24+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "bb4e6e23f064",
-      "title": "India’s Tourism Paradox - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVU0aWNZemxYbnpydm51LVpzcE1WU0JkWGxYUGgyb1hpd3JuMVZaMjl5cXhzUDdJWXFuMkU5V2kxTEUtREFVNXhjWW40bm5oZUtrV0dXTFhCcFJpZERmMFkzMVlGdVMxZGtYMEdpeVZSUGc2VkpTWVlMYV9KTFZkZkF5dkNkUG8zNVJ4MWxmSDdvZm5naHhta3RDN1NNZ2gxMUhQSGxVV2dnX0",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVU0aWNZemxYbnpydm51LVpzcE1WU0JkWGxYUGgyb1hpd3JuMVZaMjl5cXhzUDdJWXFuMkU5V2kxTEUtREFVNXhjWW40bm5oZUtrV0dXTFhCcFJpZERmMFkzMVlGdVMxZGtYMEdpeVZSUGc2VkpTWVlMYV9KTFZkZkF5dkNkUG8zNVJ4MWxmSDdvZm5naHhta3RDN1NNZ2gxMUhQSGxVV2dnX0FQN3dsNg?oc=5",
+      "id": "2e9643f77676",
+      "title": "Travel industry presses Trump to target 100 million international visitors in Oval Office meeting - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHpmbDlkY1ZWR2pIcFZVN2k0d092c1dyaTJ6dTR3aFRZdVBla0pRYm5KWUpzNU1GeGVNZFpKREJiUHd4TVUwcVBBWkRKa081TGpnYXdYUmoxU3VDWng3bVhxYjEwa3BUanJxMlNVbUwzaDRaY1pHUkw2WjMzRzhhLVVNS1NwZEs4QmpWYllSdk83YnFFNW1F0gGcAUFVX3lxTFBibUtPcmxEdj",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHpmbDlkY1ZWR2pIcFZVN2k0d092c1dyaTJ6dTR3aFRZdVBla0pRYm5KWUpzNU1GeGVNZFpKREJiUHd4TVUwcVBBWkRKa081TGpnYXdYUmoxU3VDWng3bVhxYjEwa3BUanJxMlNVbUwzaDRaY1pHUkw2WjMzRzhhLVVNS1NwZEs4QmpWYllSdk83YnFFNW1F0gGcAUFVX3lxTFBibUtPcmxEdjU4ZUFJNTAyZ0k0TkJaTlhZMnRycEdVX1ZLbnEtZm9DZnoybnZOQjZCMzdnUzJzUTVRZ3JNV0E5XzhBVnNyZUlwWFFKeXZNUnQ4R2FkYmkwZVJlMk9HbTc0ZEYwUUI3SmZnYzE2ekRZeWRtelBFN2MtVTFZQXphWVlNSklzVlUxeDJKanA1NktYWlFVNg?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 02 Sep 2026 15:16:25 GMT",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "id": "bb4e6e23f064",
+      "title": "India’s Tourism Paradox - Bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVU0aWNZemxYbnpydm51LVpzcE1WU0JkWGxYUGgyb1hpd3JuMVZaMjl5cXhzUDdJWXFuMkU5V2kxTEUtREFVNXhjWW40bm5oZUtrV0dXTFhCcFJpZERmMFkzMVlGdVMxZGtYMEdpeVZSUGc2VkpTWVlMYV9KTFZkZkF5dkNkUG8zNVJ4MWxmSDdvZm5naHhta3RDN1NNZ2gxMUhQSGxVV2dnX0",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVU0aWNZemxYbnpydm51LVpzcE1WU0JkWGxYUGgyb1hpd3JuMVZaMjl5cXhzUDdJWXFuMkU5V2kxTEUtREFVNXhjWW40bm5oZUtrV0dXTFhCcFJpZERmMFkzMVlGdVMxZGtYMEdpeVZSUGc2VkpTWVlMYV9KTFZkZkF5dkNkUG8zNVJ4MWxmSDdvZm5naHhta3RDN1NNZ2gxMUhQSGxVV2dnX0FQN3dsNg?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
           "published": "Mon, 31 Aug 2026 01:30:00 GMT",
@@ -27,18 +47,58 @@
       ]
     },
     {
-      "id": "ffe0ea199042",
-      "title": "From India, for the world: Why the next generation of hospitality thinking may begin here - hospitality.economictimes.indiatimes.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNElsN2pMSGNlTWR4ekRXNUtyMjQ5dFF0TzVmNEt3TUpTZ2EwWHVwVU9ELUM5azd1S3dLVFh3MDV0LVlLUFpPRVV0b0FkOTY1TEU1ZG55dFdMaUJrQXZ0NV9YUVlRS3hnUjFHeHNXMFhoMlpLYmtzNjlXQUZpY2RWVGZmNWx2S0pTZWNCV01QSUpKX2xmOFVhMGxrZWhsMjljcncwWnUwdDhOWD",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNElsN2pMSGNlTWR4ekRXNUtyMjQ5dFF0TzVmNEt3TUpTZ2EwWHVwVU9ELUM5azd1S3dLVFh3MDV0LVlLUFpPRVV0b0FkOTY1TEU1ZG55dFdMaUJrQXZ0NV9YUVlRS3hnUjFHeHNXMFhoMlpLYmtzNjlXQUZpY2RWVGZmNWx2S0pTZWNCV01QSUpKX2xmOFVhMGxrZWhsMjljcncwWnUwdDhOWDZJazBIQ3M5Z21CYW9oaVVGXy1WOHEtU0xCZm15N19Lbzk4WjAyeWl0WUluOWdGOV95MEplLWZaeW8yX2pSUURXRmxza0M3M2hFSWxIckdn0gH-AUFVX3lxTE5fVEYzSEQ4WjdzRzBxdkNNT1E1NzFvaDJEdnZqb0FjQVI5YWY0UFYtQWpvUUNMbEg0c0gtUjdZYjBRRmNCUFNCeHpyX253UkE0Qzd0QVltbUw4N3F3c0RwX25BdmdmLW82ZTFQb0JIN2xFa0kwQjdxMmRyOTdENWF6X3gyaTBPVWFRX1l5aFhCTWpiemFpenZMMEVyT1VTaXFxd1FQWi1ybjg5MkRmMjZSZG05TjZiVHBBRXJYaEg5V3R1bHJzY01WUzRlaXNWWTFPRlNZUm9CNDZqend4cXRSeDQ2TkxWUlUxdk51R2l2U2pmYUdfUjloTnJRTldB?oc=5",
-      "score": 86.4,
+      "id": "dd4e2f3e3f23",
+      "title": "Travel Watch: Swiss Military launches Alpine Club with 36 new luggage options for Indian travellers | Travel - Hindustan Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMnlVbmFfWk13MU1QZl9ETXd3RFV0RmhjNGppZUdJUlRTNk96Z21WVzJ3anVfUjRZSllMYjVXaEJqLWxfTHFLZ3JMeVp4SWdublZtTGllb0hQcGxYQnhKTFNOaVRnX01YWHo5SDZrSGd0TUwtWExHM1lpb2ZST0k1Ymo3MGlTMDJpclQ1VVhSbHE1QVMxd0g5MUtwR0ZLejM5c3pBWGVrdUh0aU",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMnlVbmFfWk13MU1QZl9ETXd3RFV0RmhjNGppZUdJUlRTNk96Z21WVzJ3anVfUjRZSllMYjVXaEJqLWxfTHFLZ3JMeVp4SWdublZtTGllb0hQcGxYQnhKTFNOaVRnX01YWHo5SDZrSGd0TUwtWExHM1lpb2ZST0k1Ymo3MGlTMDJpclQ1VVhSbHE1QVMxd0g5MUtwR0ZLejM5c3pBWGVrdUh0aUZBdU5sbXFxZDk5OUlpelRwTFozaXVJWXdhSmdqTTVGZVRyTEVoVEZ0b2t0ZG5nVDR2alJtSS1vc0gyQ0dFSXJVT2x2b2YxUF9ELU5KSjFvVdIBgAJBVV95cUxNTnRVTTdHc0VPVUo3SVJoZHJEZGtaUjR3cDBmeHQtQjZfTkFZYjdhcnVBRlhWdFp3ZTFncWJncWl3VmQ1d0J0dGRxMDE2clJYS1d3SDRMMFppYlc1ZUh1aUNwWFdKVFVRWXN0Z2M4LU1LbF9JTkdiZTc5Y0VjZ2Ntc2RiTnZPbXh4VWlFOWh4X09Vc21uVTVPSXdPd3N2eThCR2twckRGOVRvX1JyWk5pWFdWTWk1cUpwdHJzY3FIcUItWDczT3JXc3ZVLTdmU0Y0MzNDYTVMbFdsZFRNY2RQUXFfdVdpYXotTWU5b3hJd0FGU04xNzJjbTNldXdGZGN1?oc=5",
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 03 Sep 2026 03:30:25 GMT",
+          "source": "Hindustan Times"
+        }
+      ]
+    },
+    {
+      "id": "51fb94b0145b",
+      "title": "Minister Jupally: Telangana tourism gets 22K cr investment proposals - The New Indian Express",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTJYNWhqengyZ3hkU3JvWWFyWE9Xb1R2R1N1LVlVTDRkTTNhUnhGU1JSbkNQcklNMnlNT241OXBwRl85aVZBOVN2S3doVzdtUjl6NzBkc3JWZFVZek5nVUhLWnF4cmlJZXNiRU4waC1NOEFzUDJwVGFIcVJTakpsU0dJWGd2djNlNzJBaU9EdUFVWXRoTzFVeG1jNFNRTnhteDhzOXhkNzJKdU",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTJYNWhqengyZ3hkU3JvWWFyWE9Xb1R2R1N1LVlVTDRkTTNhUnhGU1JSbkNQcklNMnlNT241OXBwRl85aVZBOVN2S3doVzdtUjl6NzBkc3JWZFVZek5nVUhLWnF4cmlJZXNiRU4waC1NOEFzUDJwVGFIcVJTakpsU0dJWGd2djNlNzJBaU9EdUFVWXRoTzFVeG1jNFNRTnhteDhzOXhkNzJKdUdvb1FGY3N5a3VzRVRTM0VNLWtuVkhYTHJlSXU5dNIB1gFBVV95cUxQNHFxZnhGSUMxT3BDaVpLWmpranFmMWUtZE5Vb2F5a1d1QkNBQWREZnlqdDhOcFFRejRhQW0xVy1yX3lHR3BDVWFjSkwzeV9lUmYzNmh4bHZFa0p4WllKX1NqeXpRbGFEbW5XN2lLSE9DZHBmcGo4ZWd0b0theUc2M0ZQYmUySEFPMVdNOC1xbW5pSGlpb2N0QlljQk9QdTJlNmVoSDBMMTdVMDRDRFl3aEVjTEZHSVZNb2ZVMTVNUzNGZUF0M2xjX3FQYWNUbUV6Z3R6VlhR?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-03T04:15:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 03 Sep 2026 02:48:14 GMT",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    {
+      "id": "ffe0ea199042",
+      "title": "From India, for the world: Why the next generation of hospitality thinking may begin here - hospitality.economictimes.indiatimes.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNElsN2pMSGNlTWR4ekRXNUtyMjQ5dFF0TzVmNEt3TUpTZ2EwWHVwVU9ELUM5azd1S3dLVFh3MDV0LVlLUFpPRVV0b0FkOTY1TEU1ZG55dFdMaUJrQXZ0NV9YUVlRS3hnUjFHeHNXMFhoMlpLYmtzNjlXQUZpY2RWVGZmNWx2S0pTZWNCV01QSUpKX2xmOFVhMGxrZWhsMjljcncwWnUwdDhOWD",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNElsN2pMSGNlTWR4ekRXNUtyMjQ5dFF0TzVmNEt3TUpTZ2EwWHVwVU9ELUM5azd1S3dLVFh3MDV0LVlLUFpPRVV0b0FkOTY1TEU1ZG55dFdMaUJrQXZ0NV9YUVlRS3hnUjFHeHNXMFhoMlpLYmtzNjlXQUZpY2RWVGZmNWx2S0pTZWNCV01QSUpKX2xmOFVhMGxrZWhsMjljcncwWnUwdDhOWDZJazBIQ3M5Z21CYW9oaVVGXy1WOHEtU0xCZm15N19Lbzk4WjAyeWl0WUluOWdGOV95MEplLWZaeW8yX2pSUURXRmxza0M3M2hFSWxIckdn0gH-AUFVX3lxTE5fVEYzSEQ4WjdzRzBxdkNNT1E1NzFvaDJEdnZqb0FjQVI5YWY0UFYtQWpvUUNMbEg0c0gtUjdZYjBRRmNCUFNCeHpyX253UkE0Qzd0QVltbUw4N3F3c0RwX25BdmdmLW82ZTFQb0JIN2xFa0kwQjdxMmRyOTdENWF6X3gyaTBPVWFRX1l5aFhCTWpiemFpenZMMEVyT1VTaXFxd1FQWi1ybjg5MkRmMjZSZG05TjZiVHBBRXJYaEg5V3R1bHJzY01WUzRlaXNWWTFPRlNZUm9CNDZqend4cXRSeDQ2TkxWUlUxdk51R2l2U2pmYUdfUjloTnJRTldB?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
           "published": "Wed, 02 Sep 2026 16:56:49 GMT",
@@ -47,70 +107,10 @@
       ]
     },
     {
-      "id": "aa9f219b93f8",
-      "title": "Where The World Blooms: 7 Destinations To Visit This September - Elle India",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB5emd3QnRmNEFLSzdyRFlZZUYwMnE1b1ZkOXVRem1NdHVNck9UZ1JXTEJIbXBuU0NSQ3lqNEZPQ2d5MzlnUFhvM19RNV81SjNLZGpaSUVyQzBoeHVWV3lGZGtRTUNtOWlFNGpYSGtlM2VRZVFublBLeVRn?oc=5\" target=\"_blank\">Where The World Blooms: 7 Destinations To V",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5emd3QnRmNEFLSzdyRFlZZUYwMnE1b1ZkOXVRem1NdHVNck9UZ1JXTEJIbXBuU0NSQ3lqNEZPQ2d5MzlnUFhvM19RNV81SjNLZGpaSUVyQzBoeHVWV3lGZGtRTUNtOWlFNGpYSGtlM2VRZVFublBLeVRn?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 02 Sep 2026 12:12:17 GMT",
-          "source": "Elle India"
-        }
-      ]
-    },
-    {
-      "id": "e51952f0af69",
-      "title": "SCO names Lahore as its ‘Tourism and Cultural capital’ - The Hindu",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0M1UXhnQWlRNUZUNjFfQnJQeUFvU0Y3TTZTUmhpZGdCaFdRbHZaT192Z1R0cVUwSUxoZ0tjZnFuT09qeTlzYy04MFlYOHJ2X2tRWFd5TXdCNHFESFhod09Ja1IwRUJVZ1l3Y2pzc0J3NnJZZjYwUi0xZTVIOExHeGhIblQ2dnV2bmtGVU1ZRFRubk4zNlZXUWo1TnlselJFWHVZaHBIZzUwSX",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0M1UXhnQWlRNUZUNjFfQnJQeUFvU0Y3TTZTUmhpZGdCaFdRbHZaT192Z1R0cVUwSUxoZ0tjZnFuT09qeTlzYy04MFlYOHJ2X2tRWFd5TXdCNHFESFhod09Ja1IwRUJVZ1l3Y2pzc0J3NnJZZjYwUi0xZTVIOExHeGhIblQ2dnV2bmtGVU1ZRFRubk4zNlZXUWo1TnlselJFWHVZaHBIZzUwSXpNd0NZVGJwalBLa0HSAb4BQVVfeXFMUHNrRWotdnVPcThkUVFCX0dnVkJiYjRkN05DcXFsZ2lZTzlXZjltYUc5WnJFdC0yNC1qZll4aVh5eUU1SDV2R2ZKZ0VjODg2VjAwTXQyZHZrVU9FY1pTcTdZYXFfcmt0Vmk1YVlwa2lfZHFlNHpNRHpNcGpsWjlJU3VlVWl0RDBEc016anBkV08tQ2NicW92M3lORXJIVVRybmhmYml0R05JVmwzMDVSaEtJcWhfelRvRnctZnFwdw?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 02 Sep 2026 06:48:58 GMT",
-          "source": "The Hindu"
-        }
-      ]
-    },
-    {
-      "id": "f44bb5ddf6ff",
-      "title": "Negative online comments about Goa tourism have come down significantly, says state govt - ThePrint",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWR6ZVhLa3d6bmxmT2R2STRxTjZRTXN2SGZJTWRHcFdaVWNBTGlzNGg3U1kwRG14ZlM0MzRXUUhaOUhOTTFLVWNXc256M1l5M1JMRG9EcmtHUTR4Vk4tdjdQWGRQWnBRSFBYRXlHakFaNmxhell5R1NfLTRhVlZhTmdPejhIbmM5TUkxSUwwRlliT1g4MHMzSTZLU2t1UEV2VHppNk5rdDZRTG",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWR6ZVhLa3d6bmxmT2R2STRxTjZRTXN2SGZJTWRHcFdaVWNBTGlzNGg3U1kwRG14ZlM0MzRXUUhaOUhOTTFLVWNXc256M1l5M1JMRG9EcmtHUTR4Vk4tdjdQWGRQWnBRSFBYRXlHakFaNmxhell5R1NfLTRhVlZhTmdPejhIbmM5TUkxSUwwRlliT1g4MHMzSTZLU2t1UEV2VHppNk5rdDZRTGJXV25wbi1DZGNPNWRXXzN3TEZzMNIBxAFBVV95cUxNS2N0R1RaSllrbVRTQ2hwYWFKMFhiRmxoUWgtalROVU9jSDUzR3VfTEUwLWlPcjlpc19xMWtoUnZfQm9pSVBhU2FXUUlDWklHUkE1QTJLdTMyUzVaTDJUOWptS1ExdnRhdXk2ZmNJcGhIazdKLUtvWkdETFNCajkxNW5LNnVCcGJ5dzR6SmV4UEU1eUhhejRpN0xfZk9oQXU1S0hKZm5VeGpiWS11X0x1cmFseVg4M1dYNTBjNlJFUGplcDFT?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 02 Sep 2026 16:50:49 GMT",
-          "source": "ThePrint"
-        }
-      ]
-    },
-    {
-      "id": "03c5e80ac3bd",
-      "title": "Jaipur dominates Rajasthan’s international tourism surge - travelmole.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEFXeDNia1VkQ1dyXy00V19xNUJpUy1ib2Z2QUlMd2h6VGFLTWdoa29PV2pYMTBnMkRlTkN1N0JwdDNPYURPQWNuS2FtaVI2bW40RHlXcGNYM2pZbW14RW9sbEluQ0d3NjRnYXIyMUVMakc4OUpZNEZ0Ui1OOEMxWXNMdEY3QXdodTlzMlNWcmdfY1U?oc=5\" target=\"_blank\">Jaipur d",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEFXeDNia1VkQ1dyXy00V19xNUJpUy1ib2Z2QUlMd2h6VGFLTWdoa29PV2pYMTBnMkRlTkN1N0JwdDNPYURPQWNuS2FtaVI2bW40RHlXcGNYM2pZbW14RW9sbEluQ0d3NjRnYXIyMUVMakc4OUpZNEZ0Ui1OOEMxWXNMdEY3QXdodTlzMlNWcmdfY1U?oc=5",
+      "id": "ed1d7995aa1d",
+      "title": "Travel agencies required to register tours to China - Taipei Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBNd18tdEYtREdCWG90WnZRYVA2cjVOQjhkcXdGNjBrM2FvX2ZuQzkzMVlLSlEwY09sMFpkdlhuUWpGYXRtU04yQ254M0hHWWNuZ1FfNDRfY2pMNE9qRTctSHlTWUhzT3dwQjk4U1dlOFhiZjBJeWFGd3N3?oc=5\" target=\"_blank\">Travel agencies required to register tours ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNd18tdEYtREdCWG90WnZRYVA2cjVOQjhkcXdGNjBrM2FvX2ZuQzkzMVlLSlEwY09sMFpkdlhuUWpGYXRtU04yQ254M0hHWWNuZ1FfNDRfY2pMNE9qRTctSHlTWUhzT3dwQjk4U1dlOFhiZjBJeWFGd3N3?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,18 +118,18 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 15:36:09 GMT",
-          "source": "travelmole.com"
+          "published": "Thu, 03 Sep 2026 02:30:53 GMT",
+          "source": "Taipei Times"
         }
       ]
     },
     {
-      "id": "d0d6df1a3cf0",
-      "title": "Trump to meet with travel industry CEOs on tourism push - Reuters",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1B1alZrajJXcUVxcXZrWGpibk5aZXZWa3ZRTk9VUE0wVFdZS0FSZ0ZwYU1zVkNsQW5IN1NXQkxuQjZ4N1I0Q2g4ODd2MVRlLXlDUEdocEw5bXVPaWFfVEJDejd0aEljMGw0eXdfSVpKcXFZQkwzYURxbXc0RWRuX09kRkEyNGpx?oc=5\" target=\"_blank\">Trump to meet with trav",
+      "id": "e78c7e287388",
+      "title": "Trump meets with travel industry CEOs on push to boost foreign tourism - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1B1alZrajJXcUVxcXZrWGpibk5aZXZWa3ZRTk9VUE0wVFdZS0FSZ0ZwYU1zVkNsQW5IN1NXQkxuQjZ4N1I0Q2g4ODd2MVRlLXlDUEdocEw5bXVPaWFfVEJDejd0aEljMGw0eXdfSVpKcXFZQkwzYURxbXc0RWRuX09kRkEyNGpx?oc=5\" target=\"_blank\">Trump meets with travel",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1B1alZrajJXcUVxcXZrWGpibk5aZXZWa3ZRTk9VUE0wVFdZS0FSZ0ZwYU1zVkNsQW5IN1NXQkxuQjZ4N1I0Q2g4ODd2MVRlLXlDUEdocEw5bXVPaWFfVEJDejd0aEljMGw0eXdfSVpKcXFZQkwzYURxbXc0RWRuX09kRkEyNGpx?oc=5",
       "score": 68.4,
       "sources": [
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 15:29:13 GMT",
+          "published": "Wed, 02 Sep 2026 21:12:10 GMT",
           "source": "Reuters"
         }
       ]
     },
     {
-      "id": "1c9a21d22c1c",
-      "title": "Nagaland tourism stakeholders exposure trip to Arunachal Pradesh - MorungExpress",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEVkUG5xblN2RzhJS1ZIU2p5R3NSaTE1WkYxeG5DcnkzMk8zWl8xQkdBeHRYZktYSklpc3d1c3NMTlVPWDlEYlFJcVRVOWhOZ1NMQ3VtMjY2SFgxNzlBenpxZUc3c21LaEpiVlI3QkZZdjFPdDR1TlB1OC05QUJEZTRyX2VUUkctSk1PSkczMWRVMXd1?oc=5\" target=\"_blank\">Nagalan",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEVkUG5xblN2RzhJS1ZIU2p5R3NSaTE1WkYxeG5DcnkzMk8zWl8xQkdBeHRYZktYSklpc3d1c3NMTlVPWDlEYlFJcVRVOWhOZ1NMQ3VtMjY2SFgxNzlBenpxZUc3c21LaEpiVlI3QkZZdjFPdDR1TlB1OC05QUJEZTRyX2VUUkctSk1PSkczMWRVMXd1?oc=5",
+      "id": "4b74b739d03e",
+      "title": "Mystery of missing foreign tourists: Why India struggles to attract global travellers - Telegraph India",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQngxVlgxSU1GUEd2MnhYNUxHTjFYa0xOV19aTDgxNnNXTTZ1a05aV1JpMEpneXV4cC1BTi1Sd3pDRFBBVnhGYk83dFkyYVhRMkpsQ1B5SjlLRlEta3lIS3ZkU1VUNjh0bFhFQmkwUWtwOHhLdE9RMkpKZDh5SWdhTmVfZ29uLV85dWdYYjg5Q3B4QXRWdXo4Ujhhb1hSTmxlX1NrR3dwY0RNSV",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQngxVlgxSU1GUEd2MnhYNUxHTjFYa0xOV19aTDgxNnNXTTZ1a05aV1JpMEpneXV4cC1BTi1Sd3pDRFBBVnhGYk83dFkyYVhRMkpsQ1B5SjlLRlEta3lIS3ZkU1VUNjh0bFhFQmkwUWtwOHhLdE9RMkpKZDh5SWdhTmVfZ29uLV85dWdYYjg5Q3B4QXRWdXo4Ujhhb1hSTmxlX1NrR3dwY0RNSVU0VlBRMkxjVjliTWZZZkpHdGtsS2FveEVpZTRMdE05R2Z0bUpOQjFCVlVSMUJhd9IB3wFBVV95cUxQWGRLR3Vlc1ZQcHE3QlNtNTVOM21fYXpQcnpHbnRfWUl4X3FRaTBSU2pnVG45QzBYQ19xZVp6WEhfcEpxUDJmVkhGaUdYd0cxX3Utc1BEaTZuZW5faGd4Y0oza2pDWTYzcmpzWU9KZTY2WUVxQ0tiTGNickRjOEtwZFd1THo1MXRuVmUtVGFWcmJrTkd0aFRVWmZSbjBYRzQyUkJpU0lyd2lMaWI3Z0xjRHB0QVBQTnNpR0pydm5JYVBqS3lTaGxLcXc0VS1WMjc0aExlTGdLZHVIOG5acUkw?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 14:50:08 GMT",
-          "source": "MorungExpress"
+          "published": "Thu, 03 Sep 2026 00:09:27 GMT",
+          "source": "Telegraph India"
         }
       ]
     },
     {
-      "id": "966df2ef0518",
-      "title": "Pakistan assumes SCO chairmanship for 2026-27 - Manorama Yearbook",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1xWWl5dzVQT2VIS0R0T204SW9GU1NWampRbjNhUV8xejJCLU10NlpuS3hOYnZnb2pzZllJa055WjlObWlScjc5UU5zbnQxNWlLc1ZMcU9PdnpvaU1GXzJZY2ZnQTI2VmJvVVVBNzZzRjVYZmFZZ1ZlVWxyRUdNMW44RVpMX2pwb0x1VVpITk52a0ZyU3FNUzhCNU9fYnpkNlJFckRKY0ozcn",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1xWWl5dzVQT2VIS0R0T204SW9GU1NWampRbjNhUV8xejJCLU10NlpuS3hOYnZnb2pzZllJa055WjlObWlScjc5UU5zbnQxNWlLc1ZMcU9PdnpvaU1GXzJZY2ZnQTI2VmJvVVVBNzZzRjVYZmFZZ1ZlVWxyRUdNMW44RVpMX2pwb0x1VVpITk52a0ZyU3FNUzhCNU9fYnpkNlJFckRKY0ozcnM?oc=5",
+      "id": "aa9f219b93f8",
+      "title": "Where The World Blooms: 7 Destinations To Visit This September - Elle India",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB5emd3QnRmNEFLSzdyRFlZZUYwMnE1b1ZkOXVRem1NdHVNck9UZ1JXTEJIbXBuU0NSQ3lqNEZPQ2d5MzlnUFhvM19RNV81SjNLZGpaSUVyQzBoeHVWV3lGZGtRTUNtOWlFNGpYSGtlM2VRZVFublBLeVRn?oc=5\" target=\"_blank\">Where The World Blooms: 7 Destinations To V",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5emd3QnRmNEFLSzdyRFlZZUYwMnE1b1ZkOXVRem1NdHVNck9UZ1JXTEJIbXBuU0NSQ3lqNEZPQ2d5MzlnUFhvM19RNV81SjNLZGpaSUVyQzBoeHVWV3lGZGtRTUNtOWlFNGpYSGtlM2VRZVFublBLeVRn?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,19 +178,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 09:27:21 GMT",
-          "source": "Manorama Yearbook"
+          "published": "Wed, 02 Sep 2026 12:12:17 GMT",
+          "source": "Elle India"
         }
       ]
     },
     {
-      "id": "1df20d08b1cb",
-      "title": "NMA says major Himalayan destinations remain open for autumn season - The Tourism Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEpJd0VGR1c0ZTZaTmU0a3Fac0RuelZWVmRaZ3NXdl9GZFR1WVZMOVlnakViRU1sVTBLX2NscEVacW1uVlY1NUx0THVZYXB0dWxnVFZjbUdNSWJmYTlINDZySDhYSFdHYU56bWloRGx0UHJaSEZNTDE3Q3pJdXB3NWdWVGtET3VRTWJzWFZBdUN4NVM1VC10Yi1ibDQxU0dwNDJvaDAtcF9tai",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEpJd0VGR1c0ZTZaTmU0a3Fac0RuelZWVmRaZ3NXdl9GZFR1WVZMOVlnakViRU1sVTBLX2NscEVacW1uVlY1NUx0THVZYXB0dWxnVFZjbUdNSWJmYTlINDZySDhYSFdHYU56bWloRGx0UHJaSEZNTDE3Q3pJdXB3NWdWVGtET3VRTWJzWFZBdUN4NVM1VC10Yi1ibDQxU0dwNDJvaDAtcF9tai11WGc?oc=5",
+      "id": "db1215adc537",
+      "title": "US judge blocks Trump's latest bid to curb birthright citizenship - India Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdll2V01rYl9tN2ZYT2h4QWVQNktJZUNHMEp2ZmlEV0dEU2dubzktZmpQblFERDdGekQ2M1lpTE1DejlFSk1Ub29YQWRJdTRXUW93TC1WYzJ0QmRVMW9vSmhqUWJCa3dNT3lwVmhqRXp6NmkyQUtHSlhaN3AtU0N2Y3lLS2dXYVdYeGVUeXRWcWVGQmpkUUIwRkkxamdOQ0FueUQ2VTk5eWk0d0",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdll2V01rYl9tN2ZYT2h4QWVQNktJZUNHMEp2ZmlEV0dEU2dubzktZmpQblFERDdGekQ2M1lpTE1DejlFSk1Ub29YQWRJdTRXUW93TC1WYzJ0QmRVMW9vSmhqUWJCa3dNT3lwVmhqRXp6NmkyQUtHSlhaN3AtU0N2Y3lLS2dXYVdYeGVUeXRWcWVGQmpkUUIwRkkxamdOQ0FueUQ2VTk5eWk0d0YwS3R1MXRSOUhLczFXRkluRmU2SkVZY0x5Ujd2cHQ3ckVGNjdjRUHSAdcBQVVfeXFMT29xbjd5RFpPajlHR19Ea1lXQ3NEdXdOcHpQRXh1OUtNRW4tb3I0Um81MW9NMTFJUlBOaEVkWGJIRnJZODJwSG5EbXllNVhfVGlDbDNOajhlb2V3dXNMWmlZeHNvMldVZGp4Tzl3bHRFY0ZBSkwyNkRBbnRnazlmWVhiQXNXd2wwUVluc094cS04WU5pYmpwTnpXaURTYktFWDZiTjJUUVFyYzg0Z1JITmhqQlh6U1RXNktDT2JIN0oyUC1EV09yc1JiUzlraDFENFlNbk4tMWM?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,71 +198,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 14:35:00 GMT",
-          "source": "The Tourism Times"
-        }
-      ]
-    },
-    {
-      "id": "66ba518096e4",
-      "title": "Telangana Expands Water Tourism With Floating Restaurants, Houseboats - Deccan Chronicle",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVliUVE3cU5fVE44VDRESFl3cGU0bENKdElpZnMwWGR6WkVSZmo0U2hseUZRZzM0U2hNN0NXcXUzR0EyT09Tdy1RemdrYnlONHpzU2FsaWhTRnpMU3gyUFVwTll3WGVfVTRvNk9xVWQyakhkZmNmRE5JQUNmSGdHNG91TzkyRGJFZkhicHFFbmJNamE4VnZIUzFXaUdZenFTTjViZEFTRGw1eG",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVliUVE3cU5fVE44VDRESFl3cGU0bENKdElpZnMwWGR6WkVSZmo0U2hseUZRZzM0U2hNN0NXcXUzR0EyT09Tdy1RemdrYnlONHpzU2FsaWhTRnpMU3gyUFVwTll3WGVfVTRvNk9xVWQyakhkZmNmRE5JQUNmSGdHNG91TzkyRGJFZkhicHFFbmJNamE4VnZIUzFXaUdZenFTTjViZEFTRGw1eG9zSU5lRmVwem11eExvNDhQQXVtYzZpYjRVMy1Dbmh3bDBGM2fSAdQBQVVfeXFMTW4wRjhub2ZTRy1uY1hVQjZZU043RDZVSWV0MTEzU1oyak1YNVRRZ21JX0RtMWMtQ3VMN2ZKX0QzblhPTHk0T2tuS21tNWRlMXZpRmVIR3JpYkVaTnJuSU1IbzhucVlsWDAzWko0M2wwU2pKV1FoUUF1a2lXWGhJMEZxbE8wa0NTYndvNVZQTHdJYzEtREg5V0Y1U0dDVUxxeHFvQjluMnEyemMxVFpNS2kxcG5OZTdkTG43ZW1zd3RUMkQ4Y0wybVFoN2x5dmpvRU9MZTE?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 02 Sep 2026 18:12:57 GMT",
-          "source": "Deccan Chronicle"
-        }
-      ]
-    },
-    {
-      "id": "c7ee66aa8695",
-      "title": "Medical tourism & hospitality: Building India’s next global advantage - Hotelier India",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1VoQXgzUDFra2c4WVVqMmVKVllyS3ZJSTJTaS1NVVV3RHRhVXVlZ21lNDcxbkQ4SUwwRjFtSV9CMG9jdDFhNTJPd1ZhMHZkWU5YU1dBMk1IYTJvbUdwZnpTTjg2dDdacG1qVkdFRGRjMHViQm1JNnJycVYxZGdhSEFjZW51SmxjdG5wTUN4RVM2NVJLMXZXVFk2c2xCbWJiVFQ1THV3eWJ0UQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1VoQXgzUDFra2c4WVVqMmVKVllyS3ZJSTJTaS1NVVV3RHRhVXVlZ21lNDcxbkQ4SUwwRjFtSV9CMG9jdDFhNTJPd1ZhMHZkWU5YU1dBMk1IYTJvbUdwZnpTTjg2dDdacG1qVkdFRGRjMHViQm1JNnJycVYxZGdhSEFjZW51SmxjdG5wTUN4RVM2NVJLMXZXVFk2c2xCbWJiVFQ1THV3eWJ0UQ?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 02 Sep 2026 05:00:00 GMT",
-          "source": "Hotelier India"
-        }
-      ]
-    },
-    {
-      "id": "0960f78518b1",
-      "title": "United launches industry-first automated standby feature to ease travel disruptions - Travel Trends Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlVCUm9ta1d0MUJrVDRKSUVBUEdsTkpPdUtGelg0aUNBbmpzdUFtZENITVBmak9LNU9NVVFjWm9ERHdtNzVaZlVOYTZlekhSZVZjUkc3VXM4UkZ2Vk5jUDRZenhuZ3ZBS3FxOWpMQVlyRWtOQWdBRGtrV0VkRld0eWlpb2VZTE90eVhyWFQ0NnJxOUFWcGNjTW1LZl9jR3ZQMDhOQVhkc2U5Qn",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlVCUm9ta1d0MUJrVDRKSUVBUEdsTkpPdUtGelg0aUNBbmpzdUFtZENITVBmak9LNU9NVVFjWm9ERHdtNzVaZlVOYTZlekhSZVZjUkc3VXM4UkZ2Vk5jUDRZenhuZ3ZBS3FxOWpMQVlyRWtOQWdBRGtrV0VkRld0eWlpb2VZTE90eVhyWFQ0NnJxOUFWcGNjTW1LZl9jR3ZQMDhOQVhkc2U5QnFFNXRtZnBJNGQ0SFU?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 02 Sep 2026 13:06:13 GMT",
-          "source": "Travel Trends Today"
+          "published": "Thu, 03 Sep 2026 02:56:27 GMT",
+          "source": "India Today"
         }
       ]
     },
@@ -271,14 +211,14 @@
       "title": "As GDP Grows, PM Says \"Don't Travel Abroad Or Buy Gold, No Foreign Weddings\" - NDTV",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5",
-      "score": 43.2,
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
           "published": "Tue, 01 Sep 2026 04:38:09 GMT",
@@ -287,41 +227,21 @@
       ]
     },
     {
-      "id": "184ab95c474f",
-      "title": "Madhya Pradesh Tourism Enters a New Phase of International Growth, Says Dr. Abhay Arvind Bedekar - The National Law Review",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNalNlajhJeWNiX0E3Q3E3b3c5M2NCd3ZQdkJmajFPeEVZcFg4ZVVHQjVDWV9SXy1pYWM3OERoaGV2RGRCby1MNkdFc2lSd3l2RlZJb09ldVpZTmtKNHFscUhjSkFCQUZKMUhaYTZ4V0JRZUM1NXJMa1pCLUQ5bE9tb3lPVWxpYmVacTd5LVlhTWdvczhHTlpRQnBNVDN6WlBCbVdQWmRpUzFkVE",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalNlajhJeWNiX0E3Q3E3b3c5M2NCd3ZQdkJmajFPeEVZcFg4ZVVHQjVDWV9SXy1pYWM3OERoaGV2RGRCby1MNkdFc2lSd3l2RlZJb09ldVpZTmtKNHFscUhjSkFCQUZKMUhaYTZ4V0JRZUM1NXJMa1pCLUQ5bE9tb3lPVWxpYmVacTd5LVlhTWdvczhHTlpRQnBNVDN6WlBCbVdQWmRpUzFkVEhYWlRPSW1wN3g?oc=5",
-      "score": 39.6,
+      "id": "f44bb5ddf6ff",
+      "title": "Negative online comments about Goa tourism have come down significantly, says state govt - ThePrint",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWR6ZVhLa3d6bmxmT2R2STRxTjZRTXN2SGZJTWRHcFdaVWNBTGlzNGg3U1kwRG14ZlM0MzRXUUhaOUhOTTFLVWNXc256M1l5M1JMRG9EcmtHUTR4Vk4tdjdQWGRQWnBRSFBYRXlHakFaNmxhell5R1NfLTRhVlZhTmdPejhIbmM5TUkxSUwwRlliT1g4MHMzSTZLU2t1UEV2VHppNk5rdDZRTG",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWR6ZVhLa3d6bmxmT2R2STRxTjZRTXN2SGZJTWRHcFdaVWNBTGlzNGg3U1kwRG14ZlM0MzRXUUhaOUhOTTFLVWNXc256M1l5M1JMRG9EcmtHUTR4Vk4tdjdQWGRQWnBRSFBYRXlHakFaNmxhell5R1NfLTRhVlZhTmdPejhIbmM5TUkxSUwwRlliT1g4MHMzSTZLU2t1UEV2VHppNk5rdDZRTGJXV25wbi1DZGNPNWRXXzN3TEZzMNIBxAFBVV95cUxNS2N0R1RaSllrbVRTQ2hwYWFKMFhiRmxoUWgtalROVU9jSDUzR3VfTEUwLWlPcjlpc19xMWtoUnZfQm9pSVBhU2FXUUlDWklHUkE1QTJLdTMyUzVaTDJUOWptS1ExdnRhdXk2ZmNJcGhIazdKLUtvWkdETFNCajkxNW5LNnVCcGJ5dzR6SmV4UEU1eUhhejRpN0xfZk9oQXU1S0hKZm5VeGpiWS11X0x1cmFseVg4M1dYNTBjNlJFUGplcDFT?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 08:55:53 GMT",
-          "source": "The National Law Review"
-        }
-      ]
-    },
-    {
-      "id": "aa8d48834a38",
-      "title": "From Kyrgyzstan, PM Modi urges Indians to curb overseas travel for leisure, bats for ‘wed in India’ - ThePrint",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcGc3ZTFCWlg5NGZjbEpkeGM1d1RWLURXOWpfUGRzZ0lIQ25mZGExZmFPeVJiSjZaRWRfcGxLMnQycEE1NWFYdi01UEFLdy1BTXppZ0gxeUdIYXJpMzZydjhvNHB0N0FBWTJhUVBTN1RQN1FhWlBxUTVSRFBEUk14VHFFTXVRZ0RNSFZVSDYzakE1WUtmSS13ZTVhTXA2a3Fqb2NVd3NybGpTZF",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcGc3ZTFCWlg5NGZjbEpkeGM1d1RWLURXOWpfUGRzZ0lIQ25mZGExZmFPeVJiSjZaRWRfcGxLMnQycEE1NWFYdi01UEFLdy1BTXppZ0gxeUdIYXJpMzZydjhvNHB0N0FBWTJhUVBTN1RQN1FhWlBxUTVSRFBEUk14VHFFTXVRZ0RNSFZVSDYzakE1WUtmSS13ZTVhTXA2a3Fqb2NVd3NybGpTZFdUOGxrN1FyUi04MW5aZExjNTIwSFV2ZWFZLWhJU1VITHZ5ZWvSAdQBQVVfeXFMT3JMdFl4LWo2SkdrOTdQREZxRmpfZkFmeWtOQTB2M3p6azA2b2pZWjhoUjcxTmctTXYyQ1piLXNsN3B1TzdHbHFQQ3FGZTNtdkxzWVI4bFRCS0phUnhFZ3B3SmtudVlNMDFRRFo2WXpJekJ0WlRtal9lWnJUb1M1bnpFYkdaUXRFYW8tQUZRM0szOTF5LXRzcjZLLW1PUnowX3RDajBCVlJ4ZmtBLVR2aXNGQ255TG9RVGdfN0lVY1JKWENTMDN5Zm40TG1aVlpuUGt3bWk?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 01 Sep 2026 09:29:13 GMT",
+          "published": "Wed, 02 Sep 2026 16:50:49 GMT",
           "source": "ThePrint"
         }
       ]
@@ -331,14 +251,14 @@
       "title": "Puligundu set for transformation into adventure, spiritual, eco tourism hub - The Hindu",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNd0cydHRhQzM3YVhxWFJxbExTMmUxVE91Q0ZTSDBiekVGNnY5Z2JVcFB6ZURxeHBBVHVjcl9YRk11aUlHVUQtWm55LU5MRmFNN1d2VXNZa1FiTklfYWE2N2JtUFR6M1hMdjlsX0Nmd1RpWXhEYVk0UWdTZU9XcXVneC1xTGxXV1pCUVcyQm1NTi1KSnRTaHJ5b09iZ2lhNEhRVGNvSnhuaUJDNT",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNd0cydHRhQzM3YVhxWFJxbExTMmUxVE91Q0ZTSDBiekVGNnY5Z2JVcFB6ZURxeHBBVHVjcl9YRk11aUlHVUQtWm55LU5MRmFNN1d2VXNZa1FiTklfYWE2N2JtUFR6M1hMdjlsX0Nmd1RpWXhEYVk0UWdTZU9XcXVneC1xTGxXV1pCUVcyQm1NTi1KSnRTaHJ5b09iZ2lhNEhRVGNvSnhuaUJDNTY4T2Q3aXdBUWZPa1cyOHotYnZfbXNfVVdlc3VDMUpMNjdEcHJvVWxlWkcwZTRBcTZoRkZnTlZPVkVYQno1bHVtYmlVdEVkTE1nc0hHU3dla0FDVmdmYkFON0tCZnjSAY8CQVVfeXFMTmNsZTZQeDJHUERxMERZTllVV1VuZ2UyZ2tWZjNKbGhrR0t2VHBCMXFTY1JERWlpMzNram9GdXVBel9rb3NIVC1NcjZWUDJzRzFJRjB1WExhdkRIMHhMX2N5NTBhMnBqUWZHajJYNzJwSnpTLTBzRmxNWGttVXpBQXlXaEg4bTBtV2RyMDd3THJTdnN1WTVpR0NyWHo0TnhLSzRKWUJmczJORjcxQVVQRGtDU1F5ekxvVGxKWkZqd0pWYm1sOFFheml3M0Z3UUdfT2xpMDF2S0c5bFdYQjRzX3RqTnk4QUxodEFmdDA0UU5kYkFtX1RmNGFUMmw3bjdRblZkTVBnZlE3Tk5SZWF5RQ?oc=5",
-      "score": 32.4,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
           "published": "Wed, 02 Sep 2026 11:33:41 GMT",
@@ -347,10 +267,90 @@
       ]
     },
     {
-      "id": "986e764f31e7",
-      "title": "LG Saxena flags off Ladakh bike week to boost adventure tourism - ET TravelWorld",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2oxYTdsaVQzbzZpNTQ1LUgtOVczbDB4cDdzeE9aQVVYU1p1V2F3dkpnZTBQRk5Zb0M1VTlBV3NVZnpKWm96aGhrUXhfeHJDcV9VNm9BeGRVR3N4eWJ2UXkxWWEzR2dwdDZ2cVNOSC1BOHdNc185MFRGWnRNWXJOem5aV3A5cGdHeS0zMW4xZG5PUnZadU5GRmJrTUNiUFp1SUxoVzdRUUtzc2",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2oxYTdsaVQzbzZpNTQ1LUgtOVczbDB4cDdzeE9aQVVYU1p1V2F3dkpnZTBQRk5Zb0M1VTlBV3NVZnpKWm96aGhrUXhfeHJDcV9VNm9BeGRVR3N4eWJ2UXkxWWEzR2dwdDZ2cVNOSC1BOHdNc185MFRGWnRNWXJOem5aV3A5cGdHeS0zMW4xZG5PUnZadU5GRmJrTUNiUFp1SUxoVzdRUUtzc2xvOWtheDRkYVJadVlOTGhaa2RNbXdDeGpUM3NLM0Q3N0lyR3k4a1NGLW1QWdIB2wFBVV95cUxPN0x5eXVKOFQ0QkRuVFZhZzRCV1d4eTJnckhTVUIyMmJVRm4yYi1ZdDY1b2FnWEt6UzZzTGg5azluUE5zSDhvMGc4bjh0TVNieC1aVjBpWFVmM0RNQmlmaGtDakEzaVNVa0FsWmJZQzVpUE5qcHFYREt1Z2JJalFqNXFiZzJpRXlLc1R5TmNGNEVZdFUyRU1zVEZiQVJsdVMybGJHZ1lRWTh0blRJTDE2LVAwUWlocnM0RmFsbU4wUWd6TzBmWllvRmU2bHRXZHNCUU9kMDJYRFEzb3M?oc=5",
+      "id": "9f53039cab1f",
+      "title": "“Lisa Effect” turns Thailand’s travel dreams into real search demand - Asia News Network",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEp2dTBlMjh4MDlRSXZQQzExb0g2eWpCT1l3elFFeHBNMGR0N0VtNmx6Qm5laHdGZ1RNTHNQVnhNWUtKc3RTTVQ4Y3B6ZVlYRzR0VzZZeXdQa05ZVzQySGxKQm43eDFMaExYUXlCUHkzMzJtSWdtWDBJVGZrM0RFNi1aVDJ1S1MwNWpXVXI4eFd6UDN2d3c?oc=5\" target=\"_blank\">“Lis",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEp2dTBlMjh4MDlRSXZQQzExb0g2eWpCT1l3elFFeHBNMGR0N0VtNmx6Qm5laHdGZ1RNTHNQVnhNWUtKc3RTTVQ4Y3B6ZVlYRzR0VzZZeXdQa05ZVzQySGxKQm43eDFMaExYUXlCUHkzMzJtSWdtWDBJVGZrM0RFNi1aVDJ1S1MwNWpXVXI4eFd6UDN2d3c?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-03T04:15:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 03 Sep 2026 03:05:40 GMT",
+          "source": "Asia News Network"
+        }
+      ]
+    },
+    {
+      "id": "1df20d08b1cb",
+      "title": "NMA says major Himalayan destinations remain open for autumn season - The Tourism Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEpJd0VGR1c0ZTZaTmU0a3Fac0RuelZWVmRaZ3NXdl9GZFR1WVZMOVlnakViRU1sVTBLX2NscEVacW1uVlY1NUx0THVZYXB0dWxnVFZjbUdNSWJmYTlINDZySDhYSFdHYU56bWloRGx0UHJaSEZNTDE3Q3pJdXB3NWdWVGtET3VRTWJzWFZBdUN4NVM1VC10Yi1ibDQxU0dwNDJvaDAtcF9tai",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEpJd0VGR1c0ZTZaTmU0a3Fac0RuelZWVmRaZ3NXdl9GZFR1WVZMOVlnakViRU1sVTBLX2NscEVacW1uVlY1NUx0THVZYXB0dWxnVFZjbUdNSWJmYTlINDZySDhYSFdHYU56bWloRGx0UHJaSEZNTDE3Q3pJdXB3NWdWVGtET3VRTWJzWFZBdUN4NVM1VC10Yi1ibDQxU0dwNDJvaDAtcF9tai11WGc?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-03T04:15:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 02 Sep 2026 14:35:00 GMT",
+          "source": "The Tourism Times"
+        }
+      ]
+    },
+    {
+      "id": "1c9a21d22c1c",
+      "title": "Nagaland tourism stakeholders exposure trip to Arunachal Pradesh - MorungExpress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEVkUG5xblN2RzhJS1ZIU2p5R3NSaTE1WkYxeG5DcnkzMk8zWl8xQkdBeHRYZktYSklpc3d1c3NMTlVPWDlEYlFJcVRVOWhOZ1NMQ3VtMjY2SFgxNzlBenpxZUc3c21LaEpiVlI3QkZZdjFPdDR1TlB1OC05QUJEZTRyX2VUUkctSk1PSkczMWRVMXd1?oc=5\" target=\"_blank\">Nagalan",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEVkUG5xblN2RzhJS1ZIU2p5R3NSaTE1WkYxeG5DcnkzMk8zWl8xQkdBeHRYZktYSklpc3d1c3NMTlVPWDlEYlFJcVRVOWhOZ1NMQ3VtMjY2SFgxNzlBenpxZUc3c21LaEpiVlI3QkZZdjFPdDR1TlB1OC05QUJEZTRyX2VUUkctSk1PSkczMWRVMXd1?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-03T04:15:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 02 Sep 2026 14:50:08 GMT",
+          "source": "MorungExpress"
+        }
+      ]
+    },
+    {
+      "id": "13a1dcad92ef",
+      "title": "Why Hilton calls this Asian country the fastest-growing tourism market - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1lYbWQxSkF2eXJQTVZna3dSZjV1SVpjYmJOV24xcWt5SHZ2TlBDbktfZ0VqSFBtaG9RUUlmamp2LVpEWm4yckxmOVZhSm12eFlXT2tCN0doTnVBX2VBYU5PR1U1ZHRuNGVmVkNUT1Z1OTBHYkt4UFg2RW5SUEJsRmpIU3JuQmx0MnVSTXVyUGt1NkFHcVJwX9IBngFBVV95cUxQQm9vcHNNYj",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1lYbWQxSkF2eXJQTVZna3dSZjV1SVpjYmJOV24xcWt5SHZ2TlBDbktfZ0VqSFBtaG9RUUlmamp2LVpEWm4yckxmOVZhSm12eFlXT2tCN0doTnVBX2VBYU5PR1U1ZHRuNGVmVkNUT1Z1OTBHYkt4UFg2RW5SUEJsRmpIU3JuQmx0MnVSTXVyUGt1NkFHcVJwX9IBngFBVV95cUxQQm9vcHNNYjdYNE9USUxGb2FwYUxMWDhOakIwRkRtblQ5WG5yOE4td1pZV2J3ODY4YWdrWEZ3aUpFa19sVVNacEtZaDZFRXB1UTZ1WG5rbW4wOTRaT3MzU1Q3Q0hjTWFfVmZ6ME5FUmdhakw0eG5EUXRhMmNqUF9NY2hLQmZxWnVOR3pSYUxKMWRXOTdHNmtWZTR4NmROQQ?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-03T04:15:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 03 Sep 2026 00:13:00 GMT",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "id": "311b9cbc766b",
+      "title": "SCO names Lahore as its 'Tourism and Cultural capital' - travel.economictimes.indiatimes.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQX1UtcTFvOTRtMUpEcEp0cWYxTUtCRzY2d0VrcmxIT0s3Yk5LNXd5bV9CVTd0ajB0MElrTU1haHI4Vk1nN1RXakNtMUxSV0RwM1NHa2s1bDRVVm5pdHFTU3pUZ2YzV01wRnZHUEdPU0gyZTl2R0lXb2UzaV9mUEc2RHFSa0hFN29GVWU0TFNQT1lRci1NY2JsMHpUMDNlQWRwai16ZWN1SEQzOG",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX1UtcTFvOTRtMUpEcEp0cWYxTUtCRzY2d0VrcmxIT0s3Yk5LNXd5bV9CVTd0ajB0MElrTU1haHI4Vk1nN1RXakNtMUxSV0RwM1NHa2s1bDRVVm5pdHFTU3pUZ2YzV01wRnZHUEdPU0gyZTl2R0lXb2UzaV9mUEc2RHFSa0hFN29GVWU0TFNQT1lRci1NY2JsMHpUMDNlQWRwai16ZWN1SEQzOGczdlJIaTNqMmpWdHgzbGxrNjJ0ME85QmJsalp5S0p3?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 10:30:00 GMT",
-          "source": "ET TravelWorld"
+          "published": "Wed, 02 Sep 2026 17:27:50 GMT",
+          "source": "travel.economictimes.indiatimes.com"
         }
       ]
     },
     {
-      "id": "ff0c8b40b867",
-      "title": "Why Nepal Wants Tourists To Visit Despite Devastating Floods - NDTV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdVVpSU9xVGZ3S3BaY0p5UTFGNzhtalVlWFRkbWxBRnYzT2o5NF8xRk5vZ0xaM18xX01QVmlUY08ta2ItLW44bXBjRnJ2am1MWjdoSUpBR2ZqRmlKbWJ0TUo1QnluTDZqd2dRZGVxc0EwbWFDS2RCVGNuRXRFQ0hkR1haZW9QbThNVTRrR25LLVdYcUlKSzNVcFBHSzBtZ9IBpgFBVV95cUxQVT",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVVpSU9xVGZ3S3BaY0p5UTFGNzhtalVlWFRkbWxBRnYzT2o5NF8xRk5vZ0xaM18xX01QVmlUY08ta2ItLW44bXBjRnJ2am1MWjdoSUpBR2ZqRmlKbWJ0TUo1QnluTDZqd2dRZGVxc0EwbWFDS2RCVGNuRXRFQ0hkR1haZW9QbThNVTRrR25LLVdYcUlKSzNVcFBHSzBtZ9IBpgFBVV95cUxQVTJoNk9zZktZQS1nbFJQUXhreTliaXpBOFNEX09uN3JjMFJ6X0xaRFROcm5LZzF6aE96MEgwbEg1NVhlVUFQSjA5SzJvdWRnTzh5TWQwOVd6RGdTSG94NHMwVjFMeUF5VE53SE5Da3FFdTRKNlIycWc1Q0RqSDZFVG5wUjNZV0hRN1pudVZobXZSdE5kbTlkNzFDMk5MVk56YkRtTXh3?oc=5",
+      "id": "9a0da3215599",
+      "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUh6eXdBUXQtbHBseDljUjZFNU5xbE1yMDN0eV9NbDVfUjUzVzVUa051V2tfYm91RGhXaDV0cW9nTWloYW5fVVlMb2ZOaDgtdUIxNGFnUF83WmowaVdxTDRFMzl5TE8yVWxSN0Z4Z1VxR0RndnhPNlpNSjBYX0NpY3k4TnIycDcw0gGOAUFVX3lxTE9QRlZob3lWZDZnR0wzYkZYenhZcWdnZU",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUh6eXdBUXQtbHBseDljUjZFNU5xbE1yMDN0eV9NbDVfUjUzVzVUa051V2tfYm91RGhXaDV0cW9nTWloYW5fVVlMb2ZOaDgtdUIxNGFnUF83WmowaVdxTDRFMzl5TE8yVWxSN0Z4Z1VxR0RndnhPNlpNSjBYX0NpY3k4TnIycDcw0gGOAUFVX3lxTE9QRlZob3lWZDZnR0wzYkZYenhZcWdnZUdiVTZpRTVvNWFMeC1VUGNZa3ZLc1g4akZ1Q3R1cjdnUWVkNmJiWVVqRVN1bjVfU0xzR2x6WENWclBIOUhCUTVKTWRlN2w5N25vZUxocTc4QVZvdXhpNnZWQTEyOEpsRlBfaUxOWWpPdEhIbW9pdFE?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 04:04:39 GMT",
-          "source": "NDTV"
+          "published": "Wed, 02 Sep 2026 09:22:29 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
-      "id": "809ac77e8e57",
-      "title": "“Our mountain trails are still waiting for you”: Nepal's Tourism Minister urges travellers to visit, call - The Times of India",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxORURBNVlBWmY4YlJJQm5fVEhGREJ1cWx2Q1h0UEZVaTFkT2lsVWhFLWdjQjM0UXByaEdPUHZib0VFY21kdlhSd3EwYkdVczdLbnd6TTlUaFlWRVBYZ3B4bDJCV2l2aVk2SXFLNVhtNGRnb3pMclE2dzNJX3Zwa3FGbXhSWFpCWkQxN0VOY2MxT1BVVW9fQnVZOGpyVWh5RkVtM1VxZDJPZllUOE",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxORURBNVlBWmY4YlJJQm5fVEhGREJ1cWx2Q1h0UEZVaTFkT2lsVWhFLWdjQjM0UXByaEdPUHZib0VFY21kdlhSd3EwYkdVczdLbnd6TTlUaFlWRVBYZ3B4bDJCV2l2aVk2SXFLNVhtNGRnb3pMclE2dzNJX3Zwa3FGbXhSWFpCWkQxN0VOY2MxT1BVVW9fQnVZOGpyVWh5RkVtM1VxZDJPZllUOE9LVzFpSEh1enBTWlJLZjRCLTJUYjcxU3NCY3RkVkx3YTRuWjJHZ3F0RTNaRWRLRmpKc1dFdXJ3bnRnX29rRk9Fb1FJNHpXRk50b3d0d0k3T0dVeElidEFIUjA0S2RFblhScjYzTFgzYnQtUkNJQVM4RmZCM29KbzUwRHdTLTNJRG1jTndjOThPdjQ3RUM0QUZobFI1QUFsQUppUkJkeUJDd1lFZjJKc25oUEFhTV9XaTl2R1ZNdUYwWkFZWdIB7AJBVV95cUxPRXplR1hHN0VmaVo1VVI3U0ttV1VyUGY1cEh1UDhnVER3OGJVRW5Vc1dwZVlQTW1iTHdnOGZmaDgxMXFfY3RBTXNJUURmQ0RENFJLODJ3VkFfdzJPRDZ6RE5TUEwtbGhrdElrakhzcWpNSEoteTNyUFRrSEI2bTQwUjhuRV85dWtIWUIzd1VFX194VUI0VHJwOWk4Q3dMaDJBR2xkTmJFYUtZaHlkR01pekFuRmhBTTlnSTZPRjNxZEhBLThVdEIwZ3pJMTJQQTN1dDl3c2dpU3pyOGRBZ2FxTWxWS0R5MDNfUXBWbXdSUzE0MGpmZG1GMmhZa29mSEdYeXFLSmtQWWVCT0ZDSS1saEY3eWh6d21PUVk5TmZJcXJKYko3SVIwaVRicWgzVmlpaTdIVXdvVVBpTHdrN1B6aXJ4RUp3N3EzS09VcUpLeU82TXpfOUh6YmxMYS1BcFhyQmdkX2xyLUxtMXNo?oc=5",
+      "id": "d1e099485d80",
+      "title": "LG Saxena flags off Ladakh bike week to boost adventure tourism - travel.economictimes.indiatimes.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2oxYTdsaVQzbzZpNTQ1LUgtOVczbDB4cDdzeE9aQVVYU1p1V2F3dkpnZTBQRk5Zb0M1VTlBV3NVZnpKWm96aGhrUXhfeHJDcV9VNm9BeGRVR3N4eWJ2UXkxWWEzR2dwdDZ2cVNOSC1BOHdNc185MFRGWnRNWXJOem5aV3A5cGdHeS0zMW4xZG5PUnZadU5GRmJrTUNiUFp1SUxoVzdRUUtzc2",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2oxYTdsaVQzbzZpNTQ1LUgtOVczbDB4cDdzeE9aQVVYU1p1V2F3dkpnZTBQRk5Zb0M1VTlBV3NVZnpKWm96aGhrUXhfeHJDcV9VNm9BeGRVR3N4eWJ2UXkxWWEzR2dwdDZ2cVNOSC1BOHdNc185MFRGWnRNWXJOem5aV3A5cGdHeS0zMW4xZG5PUnZadU5GRmJrTUNiUFp1SUxoVzdRUUtzc2xvOWtheDRkYVJadVlOTGhaa2RNbXdDeGpUM3NLM0Q3N0lyR3k4a1NGLW1QWdIB2wFBVV95cUxPN0x5eXVKOFQ0QkRuVFZhZzRCV1d4eTJnckhTVUIyMmJVRm4yYi1ZdDY1b2FnWEt6UzZzTGg5azluUE5zSDhvMGc4bjh0TVNieC1aVjBpWFVmM0RNQmlmaGtDakEzaVNVa0FsWmJZQzVpUE5qcHFYREt1Z2JJalFqNXFiZzJpRXlLc1R5TmNGNEVZdFUyRU1zVEZiQVJsdVMybGJHZ1lRWTh0blRJTDE2LVAwUWlocnM0RmFsbU4wUWd6TzBmWllvRmU2bHRXZHNCUU9kMDJYRFEzb3M?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-02T20:59:17+00:00",
+      "first_seen": "2026-09-03T04:15:34+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 05:28:00 GMT",
-          "source": "The Times of India"
+          "published": "Wed, 02 Sep 2026 10:30:00 GMT",
+          "source": "travel.economictimes.indiatimes.com"
         }
       ]
     }
