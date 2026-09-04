@@ -2,15 +2,35 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-09-04T16:26:02+00:00",
+  "generated_at": "2026-09-04T20:52:09+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
-      "id": "e2317a21fee9",
-      "title": "Saracens Announce Partnership with Saint Lucia Tourism Authority - Saracens",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWJ5SVZRMVVQRmxDLVFPUHBoYXpKWlplS0F0NXVoemdLaDdPUEJwQUh5b3R2VGhHMGxfOFJlcTY1SHB4R0dPOXdhakVmVElCaUhrcnpSbFFlNjhma3JvX3k2R1U4T1BRTGhQcGp5N2xZeV9TeXBMQWxfZndIRHZfRnJXTXdTNlhqYkd2TWF6aw?oc=5\" target=\"_blank\">Saracens Anno",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWJ5SVZRMVVQRmxDLVFPUHBoYXpKWlplS0F0NXVoemdLaDdPUEJwQUh5b3R2VGhHMGxfOFJlcTY1SHB4R0dPOXdhakVmVElCaUhrcnpSbFFlNjhma3JvX3k2R1U4T1BRTGhQcGp5N2xZeV9TeXBMQWxfZndIRHZfRnJXTXdTNlhqYkd2TWF6aw?oc=5",
+      "id": "c69d550526c3",
+      "title": "Ticketless train travel trial extended by East Midlands Railway - bbc.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RTlCQVp0Smk3Rm1WWjRPNHFHZDB4T0ZaanZQeTRjLWhtcmNLX3huRUpwc212T05rMG42VVZXUVp4c2lrdzZ5R29DMGFUWW9EbHF6STd3clYxZw?oc=5\" target=\"_blank\">Ticketless train travel trial extended by East Midlands Railway</a>&nbsp;&nbsp;<font ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RTlCQVp0Smk3Rm1WWjRPNHFHZDB4T0ZaanZQeTRjLWhtcmNLX3huRUpwc212T05rMG42VVZXUVp4c2lrdzZ5R29DMGFUWW9EbHF6STd3clYxZw?oc=5",
+      "score": 90.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 15:01:03 GMT",
+          "source": "bbc.com"
+        }
+      ]
+    },
+    {
+      "id": "e02c86fcd533",
+      "title": "Popular UK travel company suspends all holidays ‘until further notice’ - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXZCWkdLOEVaNnV0RGhNLUJYOW5DZWhONm9qZWFSdUw0SlA1Vkltc1FtZjB1eWFEOVVnT09HSHFWRk80TDJkT2tPNFFKRVpIckEtcGhxdGs1MUtXbmZzUVcxYkxVM00wbUVmRmprX3g0NWkxZms3eC1ydkJhT3RYcjNLVjZ1RmF1dlhUVHh1ck82U0luQ1A4Z3ZQSzlGZm5GQVZOaA?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXZCWkdLOEVaNnV0RGhNLUJYOW5DZWhONm9qZWFSdUw0SlA1Vkltc1FtZjB1eWFEOVVnT09HSHFWRk80TDJkT2tPNFFKRVpIckEtcGhxdGs1MUtXbmZzUVcxYkxVM00wbUVmRmprX3g0NWkxZms3eC1ydkJhT3RYcjNLVjZ1RmF1dlhUVHh1ck82U0luQ1A4Z3ZQSzlGZm5GQVZOaA?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -18,7 +38,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 10:47:00 GMT",
+          "source": "The Independent"
+        }
+      ]
+    },
+    {
+      "id": "e2317a21fee9",
+      "title": "Saracens Announce Partnership with Saint Lucia Tourism Authority - Saracens",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWJ5SVZRMVVQRmxDLVFPUHBoYXpKWlplS0F0NXVoemdLaDdPUEJwQUh5b3R2VGhHMGxfOFJlcTY1SHB4R0dPOXdhakVmVElCaUhrcnpSbFFlNjhma3JvX3k2R1U4T1BRTGhQcGp5N2xZeV9TeXBMQWxfZndIRHZfRnJXTXdTNlhqYkd2TWF6aw?oc=5\" target=\"_blank\">Saracens Anno",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWJ5SVZRMVVQRmxDLVFPUHBoYXpKWlplS0F0NXVoemdLaDdPUEJwQUh5b3R2VGhHMGxfOFJlcTY1SHB4R0dPOXdhakVmVElCaUhrcnpSbFFlNjhma3JvX3k2R1U4T1BRTGhQcGp5N2xZeV9TeXBMQWxfZndIRHZfRnJXTXdTNlhqYkd2TWF6aw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 13:00:00 GMT",
@@ -31,50 +71,6 @@
       "title": "Links Travel and Tours joins Aito to bolster trade relationships - Travel Weekly - Home",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGFqbm1IWE8tanU3SkVMSUw2akxBMWRjbzYyYi0wNnE3azJYeDUxVm8wUDkyZXZReUxFSnZIelloUFFaa1BlNEpoQzU2TFlJc1JfMjQtbTVVNmZsTGxBa3hKV3VjUkM5S2tLdWlyNzFzaG9IRGhacnl1S3NGMUhhQXlfcDdLVFBaZHNudDFTWGFvS3NXcEo0N1hNTWE?oc=5\" target=\"_bla",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGFqbm1IWE8tanU3SkVMSUw2akxBMWRjbzYyYi0wNnE3azJYeDUxVm8wUDkyZXZReUxFSnZIelloUFFaa1BlNEpoQzU2TFlJc1JfMjQtbTVVNmZsTGxBa3hKV3VjUkM5S2tLdWlyNzFzaG9IRGhacnl1S3NGMUhhQXlfcDdLVFBaZHNudDFTWGFvS3NXcEo0N1hNTWE?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 13:19:00 GMT",
-          "source": "Travel Weekly - Home"
-        }
-      ]
-    },
-    {
-      "id": "e02c86fcd533",
-      "title": "Popular UK travel company suspends all holidays ‘until further notice’ - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXZCWkdLOEVaNnV0RGhNLUJYOW5DZWhONm9qZWFSdUw0SlA1Vkltc1FtZjB1eWFEOVVnT09HSHFWRk80TDJkT2tPNFFKRVpIckEtcGhxdGs1MUtXbmZzUVcxYkxVM00wbUVmRmprX3g0NWkxZms3eC1ydkJhT3RYcjNLVjZ1RmF1dlhUVHh1ck82U0luQ1A4Z3ZQSzlGZm5GQVZOaA?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXZCWkdLOEVaNnV0RGhNLUJYOW5DZWhONm9qZWFSdUw0SlA1Vkltc1FtZjB1eWFEOVVnT09HSHFWRk80TDJkT2tPNFFKRVpIckEtcGhxdGs1MUtXbmZzUVcxYkxVM00wbUVmRmprX3g0NWkxZms3eC1ydkJhT3RYcjNLVjZ1RmF1dlhUVHh1ck82U0luQ1A4Z3ZQSzlGZm5GQVZOaA?oc=5",
-      "score": 81.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 10:47:00 GMT",
-          "source": "The Independent"
-        },
-        {
-          "published": "Fri, 04 Sep 2026 12:18:00 GMT",
-          "source": "Insider Media Ltd"
-        }
-      ]
-    },
-    {
-      "id": "6a9d0bd32587",
-      "title": "Reading fraudster jailed over £300k travel insurance claims - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTWVIUXV5dFpDaDRWTkNFTGdtSUxXUG9DVTVsZjl1OEpOQmdTaTdNVTdBUEltQUlVelY4X0N5S0kwV2xIRWtzUkJqenVSM053TlR1SldudHhqdw?oc=5\" target=\"_blank\">Reading fraudster jailed over £300k travel insurance claims</a>&nbsp;&nbsp;<font colo",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTWVIUXV5dFpDaDRWTkNFTGdtSUxXUG9DVTVsZjl1OEpOQmdTaTdNVTdBUEltQUlVelY4X0N5S0kwV2xIRWtzUkJqenVSM053TlR1SldudHhqdw?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -82,11 +78,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 13:05:58 GMT",
-          "source": "BBC"
+          "published": "Fri, 04 Sep 2026 13:19:00 GMT",
+          "source": "Travel Weekly - Home"
         }
       ]
     },
@@ -102,11 +98,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
           "published": "Thu, 03 Sep 2026 10:08:41 GMT",
           "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "91ec89bb5bdf",
+      "title": "Kenya Grew Up While I Was Away - traveldudes.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PRUoydURDa1NveTZtUi1EMGplTEwtNnd0a3otMUZ1RGx0NzlnanU2UENURGxLVHBaTld5QlhaTXhvbk9MbUpLM1N4akp4eXJjdTBVbk9RQlNTZXN1dy1UYkhDTjlOQQ?oc=5\" target=\"_blank\">Kenya Grew Up While I Was Away</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">t",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PRUoydURDa1NveTZtUi1EMGplTEwtNnd0a3otMUZ1RGx0NzlnanU2UENURGxLVHBaTld5QlhaTXhvbk9MbUpLM1N4akp4eXJjdTBVbk9RQlNTZXN1dy1UYkhDTjlOQQ?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 11:56:54 GMT",
+          "source": "traveldudes.com"
         }
       ]
     },
@@ -122,7 +138,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 14:00:09 GMT",
@@ -142,7 +158,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 09:30:00 GMT",
@@ -151,10 +167,10 @@
       ]
     },
     {
-      "id": "8e90a2b6c663",
-      "title": "Sustainable travel app gets another funding boost - South Lanarkshire View",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWJxSERndHFUV1laVnp4NEZoRmZfWTdmU0hOYWowbFFvZ3ZfaEFoMDF2S1lTX3BoN0NTSFVzSkJjbWpfajhhY3ZVcG1BN016MGh1SVc4Q0kycHc5RkoyVmlQUFN5VkRmOFZaSk1SN2haT0YwS1F4R3BxYWJkZzg4amY1TUV0czJQdk5lV3ZiVEd6cGtlc01PRGJzZ1NqcjNMTXFCSUhPN0o?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWJxSERndHFUV1laVnp4NEZoRmZfWTdmU0hOYWowbFFvZ3ZfaEFoMDF2S1lTX3BoN0NTSFVzSkJjbWpfajhhY3ZVcG1BN016MGh1SVc4Q0kycHc5RkoyVmlQUFN5VkRmOFZaSk1SN2haT0YwS1F4R3BxYWJkZzg4amY1TUV0czJQdk5lV3ZiVEd6cGtlc01PRGJzZ1NqcjNMTXFCSUhPN0o?oc=5",
+      "id": "d4e3fbe1cc52",
+      "title": "Hutton welcomes relocation of Bogside tourism signposts - Derry Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYU5IRjlFUEJxR3hHYlZBV2NNejZSWG5wU0ViTzhNVDgySzNMYVNRem4wN3R2Q0pmZVNzTTN3RkJLNVdjaGtmUktmbDJsVlBHLVZ5di1wRnRNa1hYdWtLdGxieEtTT3ktWnpxMlFaRkU2Q2lhdjN1TllOb2lkVGJsSF9jYTRXTEw3Nkh0TndERkhSbk1URjJ1RlZ6NG1wWTlHVnBSbktQYzlacj",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYU5IRjlFUEJxR3hHYlZBV2NNejZSWG5wU0ViTzhNVDgySzNMYVNRem4wN3R2Q0pmZVNzTTN3RkJLNVdjaGtmUktmbDJsVlBHLVZ5di1wRnRNa1hYdWtLdGxieEtTT3ktWnpxMlFaRkU2Q2lhdjN1TllOb2lkVGJsSF9jYTRXTEw3Nkh0TndERkhSbk1URjJ1RlZ6NG1wWTlHVnBSbktQYzlacjMtaGc?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -162,107 +178,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 10:54:06 GMT",
-          "source": "South Lanarkshire View"
-        }
-      ]
-    },
-    {
-      "id": "ff94caa11439",
-      "title": "Kenya Grew Up While I Was Away - Travel Dudes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PRUoydURDa1NveTZtUi1EMGplTEwtNnd0a3otMUZ1RGx0NzlnanU2UENURGxLVHBaTld5QlhaTXhvbk9MbUpLM1N4akp4eXJjdTBVbk9RQlNTZXN1dy1UYkhDTjlOQQ?oc=5\" target=\"_blank\">Kenya Grew Up While I Was Away</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PRUoydURDa1NveTZtUi1EMGplTEwtNnd0a3otMUZ1RGx0NzlnanU2UENURGxLVHBaTld5QlhaTXhvbk9MbUpLM1N4akp4eXJjdTBVbk9RQlNTZXN1dy1UYkhDTjlOQQ?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 11:56:54 GMT",
-          "source": "Travel Dudes"
-        }
-      ]
-    },
-    {
-      "id": "952c45a176d9",
-      "title": "I’m A Travel Editor And This All-In-One Backpack Is By Far The Best Bag I’ve Ever Flown With - Southern Living",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA1MUFmeHUwWEFNQy1QNFdJZTN1eU9vbGtVVmptLVFZc3BPcTJxNkJjSk43Wnh5WnQ3ZUJRcTRSVHJRS3FmM3lNelJnR1hiUUVHeHJ1UlduQXEtZU82eF9fUWdyNjdjU3kwLUlTUEMxdWVKclQ5dFJ2Yg?oc=5\" target=\"_blank\">I’m A Travel Editor And This All-In-One Backp",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1MUFmeHUwWEFNQy1QNFdJZTN1eU9vbGtVVmptLVFZc3BPcTJxNkJjSk43Wnh5WnQ3ZUJRcTRSVHJRS3FmM3lNelJnR1hiUUVHeHJ1UlduQXEtZU82eF9fUWdyNjdjU3kwLUlTUEMxdWVKclQ5dFJ2Yg?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 12:40:00 GMT",
-          "source": "Southern Living"
-        }
-      ]
-    },
-    {
-      "id": "e3e1cd5786f4",
-      "title": "France tourism proves resilient despite heat and wildfires - but the holiday map is changing - The Connexion",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFRmNkY5cHFERXJNZGRxMW94QV9DMTRNaDc2OE1HNl9UanZnMmJyU0MydWRTNEVrOFVmM2hGT2Q4eWg1Zmg3OW5rYjNHMWlZekhOZzZaV3JqWllSUkk3dmVxVHB4VUlQVHpJVXhHbWttdHpFMHJVZkppSnBUTUkyUmQ3bEpBSkRzT0t4YUtlSnhVV01mdDU2aUZMM2dpYjJKWEphd1ZCcFFUcU",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFRmNkY5cHFERXJNZGRxMW94QV9DMTRNaDc2OE1HNl9UanZnMmJyU0MydWRTNEVrOFVmM2hGT2Q4eWg1Zmg3OW5rYjNHMWlZekhOZzZaV3JqWllSUkk3dmVxVHB4VUlQVHpJVXhHbWttdHpFMHJVZkppSnBUTUkyUmQ3bEpBSkRzT0t4YUtlSnhVV01mdDU2aUZMM2dpYjJKWEphd1ZCcFFUcUMyMTdDX3dULXlxZzJRWkcxbHZQRHZoc1NrdjF6LXUyRERMT0U?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 12:58:42 GMT",
-          "source": "The Connexion"
-        }
-      ]
-    },
-    {
-      "id": "933b4855c60f",
-      "title": "Nashville, Tennessee – Travel Review - Yorkshire Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1iNTdlMHhleDFYV0R0T3VHNXJvdTBWM05aUmhCYTM4QWZLSHJiNkFzRzdQZThNYjFjdFc4TmZ1WXdPajA1d1FHcG5ZVzFZRkdBVkpHTmFrc1JtaUNDSHVZUHNxcEdGb0JaUHpoSG5scGVVZw?oc=5\" target=\"_blank\">Nashville, Tennessee – Travel Review</a>&nbsp;&nbsp;<",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iNTdlMHhleDFYV0R0T3VHNXJvdTBWM05aUmhCYTM4QWZLSHJiNkFzRzdQZThNYjFjdFc4TmZ1WXdPajA1d1FHcG5ZVzFZRkdBVkpHTmFrc1JtaUNDSHVZUHNxcEdGb0JaUHpoSG5scGVVZw?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 07:48:52 GMT",
-          "source": "Yorkshire Magazine"
-        }
-      ]
-    },
-    {
-      "id": "d4e3fbe1cc52",
-      "title": "Hutton welcomes relocation of Bogside tourism signposts - Derry Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYU5IRjlFUEJxR3hHYlZBV2NNejZSWG5wU0ViTzhNVDgySzNMYVNRem4wN3R2Q0pmZVNzTTN3RkJLNVdjaGtmUktmbDJsVlBHLVZ5di1wRnRNa1hYdWtLdGxieEtTT3ktWnpxMlFaRkU2Q2lhdjN1TllOb2lkVGJsSF9jYTRXTEw3Nkh0TndERkhSbk1URjJ1RlZ6NG1wWTlHVnBSbktQYzlacj",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYU5IRjlFUEJxR3hHYlZBV2NNejZSWG5wU0ViTzhNVDgySzNMYVNRem4wN3R2Q0pmZVNzTTN3RkJLNVdjaGtmUktmbDJsVlBHLVZ5di1wRnRNa1hYdWtLdGxieEtTT3ktWnpxMlFaRkU2Q2lhdjN1TllOb2lkVGJsSF9jYTRXTEw3Nkh0TndERkhSbk1URjJ1RlZ6NG1wWTlHVnBSbktQYzlacjMtaGc?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 15:56:00 GMT",
@@ -271,10 +187,110 @@
       ]
     },
     {
-      "id": "ba9a3ce181a6",
-      "title": "The masses have discovered shoulder-season holidays – and prices are soaring - The Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDZ6dnFxVm54bWp3d09VeWNnV3hXU2dlNEkzaWNoTy1LMDdsM0VnT0pnLW5FNDFXaHZSdVFKWV82a3h3ejQ2UVRNVHdMVUVGc3QtMll1a3k4ZFhjUVJCR21YMnF3VmxwMzlOY3JXNnZpc0x3SnFwMW5XVmdUcmhWVEgzck9MWlE?oc=5\" target=\"_blank\">The masses have discover",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDZ6dnFxVm54bWp3d09VeWNnV3hXU2dlNEkzaWNoTy1LMDdsM0VnT0pnLW5FNDFXaHZSdVFKWV82a3h3ejQ2UVRNVHdMVUVGc3QtMll1a3k4ZFhjUVJCR21YMnF3VmxwMzlOY3JXNnZpc0x3SnFwMW5XVmdUcmhWVEgzck9MWlE?oc=5",
+      "id": "952c45a176d9",
+      "title": "I’m A Travel Editor And This All-In-One Backpack Is By Far The Best Bag I’ve Ever Flown With - Southern Living",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA1MUFmeHUwWEFNQy1QNFdJZTN1eU9vbGtVVmptLVFZc3BPcTJxNkJjSk43Wnh5WnQ3ZUJRcTRSVHJRS3FmM3lNelJnR1hiUUVHeHJ1UlduQXEtZU82eF9fUWdyNjdjU3kwLUlTUEMxdWVKclQ5dFJ2Yg?oc=5\" target=\"_blank\">I’m A Travel Editor And This All-In-One Backp",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1MUFmeHUwWEFNQy1QNFdJZTN1eU9vbGtVVmptLVFZc3BPcTJxNkJjSk43Wnh5WnQ3ZUJRcTRSVHJRS3FmM3lNelJnR1hiUUVHeHJ1UlduQXEtZU82eF9fUWdyNjdjU3kwLUlTUEMxdWVKclQ5dFJ2Yg?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 12:40:00 GMT",
+          "source": "Southern Living"
+        }
+      ]
+    },
+    {
+      "id": "d25c2d9b0be9",
+      "title": "Wayfairer Travel suspends services as customer protection arrangements activated - itij.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPemZCWENXZUtwUVVkTGU4SVdDX3h5UFhVR2hHbXZuWHpiZEx6S0NLMzBxd21Ec0l5TEN0SU1SWlVzQTQ1RWQ2TlZGdF81STZDM0VlaGlXVEg1UlRSN0NEaUNNdlU4dlRxTDQ1TDJoX043VjZjM0ZyTEI1dWIxR0FwNVVPRzBNQVczRzVieHlqd0xReDFhWE9wT3p0bW0zSTlTQ2g1aDhiZWswaD",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPemZCWENXZUtwUVVkTGU4SVdDX3h5UFhVR2hHbXZuWHpiZEx6S0NLMzBxd21Ec0l5TEN0SU1SWlVzQTQ1RWQ2TlZGdF81STZDM0VlaGlXVEg1UlRSN0NEaUNNdlU4dlRxTDQ1TDJoX043VjZjM0ZyTEI1dWIxR0FwNVVPRzBNQVczRzVieHlqd0xReDFhWE9wT3p0bW0zSTlTQ2g1aDhiZWswaDhIcEww?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 16:29:19 GMT",
+          "source": "itij.com"
+        }
+      ]
+    },
+    {
+      "id": "933b4855c60f",
+      "title": "Nashville, Tennessee – Travel Review - Yorkshire Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1iNTdlMHhleDFYV0R0T3VHNXJvdTBWM05aUmhCYTM4QWZLSHJiNkFzRzdQZThNYjFjdFc4TmZ1WXdPajA1d1FHcG5ZVzFZRkdBVkpHTmFrc1JtaUNDSHVZUHNxcEdGb0JaUHpoSG5scGVVZw?oc=5\" target=\"_blank\">Nashville, Tennessee – Travel Review</a>&nbsp;&nbsp;<",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iNTdlMHhleDFYV0R0T3VHNXJvdTBWM05aUmhCYTM4QWZLSHJiNkFzRzdQZThNYjFjdFc4TmZ1WXdPajA1d1FHcG5ZVzFZRkdBVkpHTmFrc1JtaUNDSHVZUHNxcEdGb0JaUHpoSG5scGVVZw?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 07:48:52 GMT",
+          "source": "Yorkshire Magazine"
+        }
+      ]
+    },
+    {
+      "id": "ff0967f41d76",
+      "title": "France’s tourism season strong despite heatwaves and wildfires - The Connexion",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFRmNkY5cHFERXJNZGRxMW94QV9DMTRNaDc2OE1HNl9UanZnMmJyU0MydWRTNEVrOFVmM2hGT2Q4eWg1Zmg3OW5rYjNHMWlZekhOZzZaV3JqWllSUkk3dmVxVHB4VUlQVHpJVXhHbWttdHpFMHJVZkppSnBUTUkyUmQ3bEpBSkRzT0t4YUtlSnhVV01mdDU2aUZMM2dpYjJKWEphd1ZCcFFUcU",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFRmNkY5cHFERXJNZGRxMW94QV9DMTRNaDc2OE1HNl9UanZnMmJyU0MydWRTNEVrOFVmM2hGT2Q4eWg1Zmg3OW5rYjNHMWlZekhOZzZaV3JqWllSUkk3dmVxVHB4VUlQVHpJVXhHbWttdHpFMHJVZkppSnBUTUkyUmQ3bEpBSkRzT0t4YUtlSnhVV01mdDU2aUZMM2dpYjJKWEphd1ZCcFFUcUMyMTdDX3dULXlxZzJRWkcxbHZQRHZoc1NrdjF6LXUyRERMT0U?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 12:58:42 GMT",
+          "source": "The Connexion"
+        }
+      ]
+    },
+    {
+      "id": "1f1d02a0e75a",
+      "title": "How I Packed for Two Destinations in Spain—With Just One Carry-On - Marie Claire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0xM0ZpZzVTdVd3SWlJaF9mR3pCSTBPSExIblhWMGxZSktlS1gyZnN2Q1AzS0FkWWdySUFyR3lWWnJLODJzX2cwOE9zU0gzOVpEekJ0WnZKdkZ5UmI0a1RsZkZ4MDVHVTNKTWRra2JrWGF2dw?oc=5\" target=\"_blank\">How I Packed for Two Destinations in Spain—With Just ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xM0ZpZzVTdVd3SWlJaF9mR3pCSTBPSExIblhWMGxZSktlS1gyZnN2Q1AzS0FkWWdySUFyR3lWWnJLODJzX2cwOE9zU0gzOVpEekJ0WnZKdkZ5UmI0a1RsZkZ4MDVHVTNKTWRra2JrWGF2dw?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 12:57:22 GMT",
+          "source": "Marie Claire"
+        }
+      ]
+    },
+    {
+      "id": "5f73f27a9567",
+      "title": "Asia specialist Links Travel and Tours joins AITO - Travel Gossip",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVG0ybm5COTdlTGZVTW5fWGE0RHFSaGI0VW9ocjlHeDhsNS1VaGlUeXg0TXREQU11LU1wLWVBZnFiMTZzeTVabWJ2Q0o2MEtEbVduQW5CWnBwczRqcmtMRndMbWdKbUFITmUtYnIxRk52V0diYWN0MUtLb1lta3pxa2ZiQ2NiS3p4SjFBUTVjY01tUQ?oc=5\" target=\"_blank\">Asia spec",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVG0ybm5COTdlTGZVTW5fWGE0RHFSaGI0VW9ocjlHeDhsNS1VaGlUeXg0TXREQU11LU1wLWVBZnFiMTZzeTVabWJ2Q0o2MEtEbVduQW5CWnBwczRqcmtMRndMbWdKbUFITmUtYnIxRk52V0diYWN0MUtLb1lta3pxa2ZiQ2NiS3p4SjFBUTVjY01tUQ?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -282,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 12:00:00 GMT",
-          "source": "The Telegraph"
+          "published": "Fri, 04 Sep 2026 14:00:49 GMT",
+          "source": "Travel Gossip"
         }
       ]
     },
     {
-      "id": "cb0ce048f595",
-      "title": "Northern Ireland tourism: Mixed picture for businesses - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kV3pFSmViS05GR054N3paV0hJd25TT2ZaSHI3amRaNDNIT3JwelpxbEpSVVMzWlVNYkdVZ19JOEhtM2dyNmtKa281SEp2aXk1ZmEtM05RSlBVN0U4?oc=5\" target=\"_blank\">Northern Ireland tourism: Mixed picture for businesses</a>&nbsp;&nbsp;<font color=\"",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kV3pFSmViS05GR054N3paV0hJd25TT2ZaSHI3amRaNDNIT3JwelpxbEpSVVMzWlVNYkdVZ19JOEhtM2dyNmtKa281SEp2aXk1ZmEtM05RSlBVN0U4?oc=5",
+      "id": "d0b1ddf6bc31",
+      "title": "Reading fraudster jailed over £300k travel insurance claims - bbc.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTWVIUXV5dFpDaDRWTkNFTGdtSUxXUG9DVTVsZjl1OEpOQmdTaTdNVTdBUEltQUlVelY4X0N5S0kwV2xIRWtzUkJqenVSM053TlR1SldudHhqdw?oc=5\" target=\"_blank\">Reading fraudster jailed over £300k travel insurance claims</a>&nbsp;&nbsp;<font colo",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTWVIUXV5dFpDaDRWTkNFTGdtSUxXUG9DVTVsZjl1OEpOQmdTaTdNVTdBUEltQUlVelY4X0N5S0kwV2xIRWtzUkJqenVSM053TlR1SldudHhqdw?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -302,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 05:13:07 GMT",
-          "source": "BBC"
+          "published": "Fri, 04 Sep 2026 13:05:58 GMT",
+          "source": "bbc.com"
         }
       ]
     },
     {
-      "id": "3e4264267a57",
-      "title": "Ticketless train travel trial extended by East Midlands Railway - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RTlCQVp0Smk3Rm1WWjRPNHFHZDB4T0ZaanZQeTRjLWhtcmNLX3huRUpwc212T05rMG42VVZXUVp4c2lrdzZ5R29DMGFUWW9EbHF6STd3clYxZw?oc=5\" target=\"_blank\">Ticketless train travel trial extended by East Midlands Railway</a>&nbsp;&nbsp;<font ",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RTlCQVp0Smk3Rm1WWjRPNHFHZDB4T0ZaanZQeTRjLWhtcmNLX3huRUpwc212T05rMG42VVZXUVp4c2lrdzZ5R29DMGFUWW9EbHF6STd3clYxZw?oc=5",
+      "id": "7b4e6ea4d6a7",
+      "title": "Holidaymakers told ‘do not travel’ as company suspends all services - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1oxeGVfb2ZSdmdQY0pNZDdyc0FWS05vT1Y3dlB1WUc3WTVPNDhjYWdVZGJmRkpVMWN3VHV1aklraENnYjcwdUlOZ0FOR2M5azZHenpwaURNT1Y3d0NJZl8xcTdOVGs5ZGwwR0wtbE9VYnBMWEE1NGM5YWNIMHFSbWlGMEt5TGJWNXhQUUJybWZFVW1XN3VDVTlmTUtXcUN0dnN4TEZGdWUyQV",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1oxeGVfb2ZSdmdQY0pNZDdyc0FWS05vT1Y3dlB1WUc3WTVPNDhjYWdVZGJmRkpVMWN3VHV1aklraENnYjcwdUlOZ0FOR2M5azZHenpwaURNT1Y3d0NJZl8xcTdOVGs5ZGwwR0wtbE9VYnBMWEE1NGM5YWNIMHFSbWlGMEt5TGJWNXhQUUJybWZFVW1XN3VDVTlmTUtXcUN0dnN4TEZGdWUyQVMzQzJiVkNGX1RXQmRKYzN3dElCMHJ0dw?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -322,50 +338,10 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 15:01:03 GMT",
-          "source": "BBC"
-        }
-      ]
-    },
-    {
-      "id": "8fda390da860",
-      "title": "Co-op Travel rebrands as TravelCoop - Travel Weekly - Home",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4zUzIyeDZyeVpfNjhzR29OVUU4SmpLTlBua1g2SXZJcWRWbUI4Y2ZXeXV5YkhUa2dfby1mTHpmcThPMXI4STJFaWo1T2xqLWhyemNWLXRYYU85SmVUdG1Sb1BBVVdUV05VRnc0VFlVMHVxWmZpTXc?oc=5\" target=\"_blank\">Co-op Travel rebrands as TravelCoop</a>&nbsp;&nb",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zUzIyeDZyeVpfNjhzR29OVUU4SmpLTlBua1g2SXZJcWRWbUI4Y2ZXeXV5YkhUa2dfby1mTHpmcThPMXI4STJFaWo1T2xqLWhyemNWLXRYYU85SmVUdG1Sb1BBVVdUV05VRnc0VFlVMHVxWmZpTXc?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 10:15:00 GMT",
-          "source": "Travel Weekly - Home"
-        }
-      ]
-    },
-    {
-      "id": "309e42c7359c",
-      "title": "I live in Thailand and Pattaya shows the worst of our tourism – but also the best - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTVma201eEgybTlBWi1nMWtyLTlsSE1BcjBPd1FnOG9hc1dYSTFMYjM3bVZhUmRoa3daSTRid3dQaTA0elVMWUtUZVhQOFpHdm1XT2NrdWlRZUZKbjMyQ3dQMWE1MTRaRjVKa2QxWVpGU0dXUWtFVG5nVHBuUWo3VDZmdGpoQzJSZ2VURC1IeFc0ald2dFBYYkx5cEZkRkhCUXRuTkhDVQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTVma201eEgybTlBWi1nMWtyLTlsSE1BcjBPd1FnOG9hc1dYSTFMYjM3bVZhUmRoa3daSTRid3dQaTA0elVMWUtUZVhQOFpHdm1XT2NrdWlRZUZKbjMyQ3dQMWE1MTRaRjVKa2QxWVpGU0dXUWtFVG5nVHBuUWo3VDZmdGpoQzJSZ2VURC1IeFc0ald2dFBYYkx5cEZkRkhCUXRuTkhDVQ?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 14:07:00 GMT",
+          "published": "Fri, 04 Sep 2026 17:24:00 GMT",
           "source": "The Independent"
         }
       ]
@@ -375,6 +351,46 @@
       "title": "Ipswich Town fans face travel delays to game due to gas works - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hVl9vbWpOM0JGZEFNd1V0OEt5V1E5R1B0MFVfdnZGTE1jbFU3eUFxR0pzcVM4U2NScU44SlE1YS15djhyamRBSkthTGVrX0NJeVhtTWROalpndkVZ?oc=5\" target=\"_blank\">Ipswich Town fans face travel delays to game due to gas works</a>&nbsp;&nbsp;<font ",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hVl9vbWpOM0JGZEFNd1V0OEt5V1E5R1B0MFVfdnZGTE1jbFU3eUFxR0pzcVM4U2NScU44SlE1YS15djhyamRBSkthTGVrX0NJeVhtTWROalpndkVZ?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 14:26:45 GMT",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "e880715dd946",
+      "title": "Northern Ireland tourism: Mixed picture for businesses - bbc.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcVVlUGtlMVl0enE3aUZ5Q1R5N1l5LW1UcFJuZHN0bUkyc3Z1OXRsQlc5R0VhZGd3bFh4VTZ0XzBESFpLX0p3SklpOGU2NUwtZHJicnU5YW05Zw?oc=5\" target=\"_blank\">Northern Ireland tourism: Mixed picture for businesses</a>&nbsp;&nbsp;<font color=\"#6",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcVVlUGtlMVl0enE3aUZ5Q1R5N1l5LW1UcFJuZHN0bUkyc3Z1OXRsQlc5R0VhZGd3bFh4VTZ0XzBESFpLX0p3SklpOGU2NUwtZHJicnU5YW05Zw?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-04T20:43:11+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 05:13:07 GMT",
+          "source": "bbc.com"
+        }
+      ]
+    },
+    {
+      "id": "309e42c7359c",
+      "title": "I live in Thailand and Pattaya shows the worst of our tourism – but also the best - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTVma201eEgybTlBWi1nMWtyLTlsSE1BcjBPd1FnOG9hc1dYSTFMYjM3bVZhUmRoa3daSTRid3dQaTA0elVMWUtUZVhQOFpHdm1XT2NrdWlRZUZKbjMyQ3dQMWE1MTRaRjVKa2QxWVpGU0dXUWtFVG5nVHBuUWo3VDZmdGpoQzJSZ2VURC1IeFc0ald2dFBYYkx5cEZkRkhCUXRuTkhDVQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTVma201eEgybTlBWi1nMWtyLTlsSE1BcjBPd1FnOG9hc1dYSTFMYjM3bVZhUmRoa3daSTRid3dQaTA0elVMWUtUZVhQOFpHdm1XT2NrdWlRZUZKbjMyQ3dQMWE1MTRaRjVKa2QxWVpGU0dXUWtFVG5nVHBuUWo3VDZmdGpoQzJSZ2VURC1IeFc0ald2dFBYYkx5cEZkRkhCUXRuTkhDVQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-04T16:17:09+00:00",
+      "first_seen": "2026-09-04T20:43:11+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 14:26:45 GMT",
-          "source": "BBC"
+          "published": "Fri, 04 Sep 2026 14:07:00 GMT",
+          "source": "The Independent"
         }
       ]
     }

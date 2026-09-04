@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "US",
-  "generated_at": "2026-09-04T16:26:02+00:00",
+  "generated_at": "2026-09-04T20:52:09+00:00",
   "cache_ttl_hours": 6,
-  "count": 21,
+  "count": 22,
   "trends": [
     {
       "id": "52a045a6af6b",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Tue, 01 Sep 2026 00:22:59 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Thu, 03 Sep 2026 13:08:54 GMT",
@@ -47,8 +47,28 @@
       ]
     },
     {
-      "id": "3315c23535e1",
-      "title": "The Biggest Food Trends of 2026 So Far - Taste of Home",
+      "id": "3a2690eb4b37",
+      "title": "Exploring U.S. Open food trends, beyond the Honey Deuce - CBS News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5JVEROZnIxSktTRFpjTjRCVnNDaTBhNllWVTU5NEY5aXByb29wSXpXRHlzSEswUnpiMDNGUzhuTTRlTDlid0J3OGlRZktWSHcwV0J4cWZ2SWNRS0lsUXJPR3pLUzhRcnFlQWJWdkN3?oc=5\" target=\"_blank\">Exploring U.S. Open food trends, beyond the Honey Deuce</a>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JVEROZnIxSktTRFpjTjRCVnNDaTBhNllWVTU5NEY5aXByb29wSXpXRHlzSEswUnpiMDNGUzhuTTRlTDlid0J3OGlRZktWSHcwV0J4cWZ2SWNRS0lsUXJPR3pLUzhRcnFlQWJWdkN3?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-09-04T20:43:04+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 02 Sep 2026 13:51:00 GMT",
+          "source": "CBS News"
+        }
+      ]
+    },
+    {
+      "id": "e28bfbbae22a",
+      "title": "The Biggest Food Trends of 2026 So Far - tasteofhome.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5\" target=\"_blank\">The Biggest Food Trends of 2026 So Far</a>&nbsp;&nbsp;<font color=\"#",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5",
       "score": 79.2,
@@ -58,11 +78,31 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-          "source": "Taste of Home"
+          "source": "tasteofhome.com"
+        }
+      ]
+    },
+    {
+      "id": "c18a2403636e",
+      "title": "5 Trends Transforming Trade Show Food Service - Trade Show News Network",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmRnd2wtaTNINTRvb3FyQm85ai02Y2ZON3FIeXBjbXUwbWlKUXBXQUhnUngyX1JWWUhSUUNZaUNJVDhsOEs0R05LbmEwM3JOU1psYWNubm1RaDAyYnZNV2hyRnZqQ3NzY0RuRFJtM2l2TGtUbTd3cUQxU0YwdXJ6MUhwc1Brek9UUTJKZTNhYmM?oc=5\" target=\"_blank\">5 Trends Tra",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmRnd2wtaTNINTRvb3FyQm85ai02Y2ZON3FIeXBjbXUwbWlKUXBXQUhnUngyX1JWWUhSUUNZaUNJVDhsOEs0R05LbmEwM3JOU1psYWNubm1RaDAyYnZNV2hyRnZqQ3NzY0RuRFJtM2l2TGtUbTd3cUQxU0YwdXJ6MUhwc1Brek9UUTJKZTNhYmM?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-09-04T20:43:04+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 31 Aug 2026 14:23:27 GMT",
+          "source": "Trade Show News Network"
         }
       ]
     },
@@ -71,14 +111,14 @@
       "title": "Food delivery is booming at the movie theater - Restaurant Business Magazine",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjZrR2FvTFN6bHByOHlHb0NNZXZIanJQd2dxdE02aDV1T0cxMG0wVi1pOWt5X2l6WDBtVVdSMFJpUEpjMUpFTkZQV1NPVXFRUk1XeWQwTGFoNUkzWmlRNHBZQ3hJZk03WjIybzhFMHpfcG1pemh0cUlCcHNabVBHYWRZTWtNOWFpZ2VTREpnczV2QQ?oc=5\" target=\"_blank\">Food deli",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjZrR2FvTFN6bHByOHlHb0NNZXZIanJQd2dxdE02aDV1T0cxMG0wVi1pOWt5X2l6WDBtVVdSMFJpUEpjMUpFTkZQV1NPVXFRUk1XeWQwTGFoNUkzWmlRNHBZQ3hJZk03WjIybzhFMHpfcG1pemh0cUlCcHNabVBHYWRZTWtNOWFpZ2VTREpnczV2QQ?oc=5",
-      "score": 75.6,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Thu, 03 Sep 2026 17:15:19 GMT",
@@ -87,42 +127,18 @@
       ]
     },
     {
-      "id": "3a2690eb4b37",
-      "title": "Exploring U.S. Open food trends, beyond the Honey Deuce - CBS News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5JVEROZnIxSktTRFpjTjRCVnNDaTBhNllWVTU5NEY5aXByb29wSXpXRHlzSEswUnpiMDNGUzhuTTRlTDlid0J3OGlRZktWSHcwV0J4cWZ2SWNRS0lsUXJPR3pLUzhRcnFlQWJWdkN3?oc=5\" target=\"_blank\">Exploring U.S. Open food trends, beyond the Honey Deuce</a>",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JVEROZnIxSktTRFpjTjRCVnNDaTBhNllWVTU5NEY5aXByb29wSXpXRHlzSEswUnpiMDNGUzhuTTRlTDlid0J3OGlRZktWSHcwV0J4cWZ2SWNRS0lsUXJPR3pLUzhRcnFlQWJWdkN3?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 02 Sep 2026 13:51:00 GMT",
-          "source": "CBS News"
-        },
-        {
-          "published": "Wed, 02 Sep 2026 16:29:49 GMT",
-          "source": "Modern Ghana"
-        }
-      ]
-    },
-    {
       "id": "f335ab6e6aa8",
       "title": "Grandmacore cooking trends explained: how TikTok is getting Gen Z into the kitchen - Sacramento Bee",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE04a2FNRURydWVpQXZPTWpyWUwxSEdzSVJTSVNtVHpLd2JGc0tWWHJiV0hRaHBzVHBnUUU1ZWU2NFVNQnp2SWtoR29kdG16UnN1ZnpLVnZKdnp0c29Na0hMRXNELVlvVUNpY2VpT1I0SVozRmfSAXNBVV95cUxPa2I2WXg4ZlNEbGdmQkFtalZUZVpGdFRoWEoyMXdCTkpSQ2ZRUUJhNWFQWC0zdm",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04a2FNRURydWVpQXZPTWpyWUwxSEdzSVJTSVNtVHpLd2JGc0tWWHJiV0hRaHBzVHBnUUU1ZWU2NFVNQnp2SWtoR29kdG16UnN1ZnpLVnZKdnp0c29Na0hMRXNELVlvVUNpY2VpT1I0SVozRmfSAXNBVV95cUxPa2I2WXg4ZlNEbGdmQkFtalZUZVpGdFRoWEoyMXdCTkpSQ2ZRUUJhNWFQWC0zdmV0bE5XZ0pXZ0ltc3BFdXF4bUFwdXg5d2Q3NmhZQUN2dzhjV3o5SElCOEpHMVJHX2kzUUl5WkVYcmRfenZB?oc=5",
-      "score": 72.0,
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Thu, 03 Sep 2026 14:00:31 GMT",
@@ -135,26 +151,6 @@
       "title": "Flexibility, Variety, Taste: Senior Living Operators Adapt to New Food Trends - Senior Housing News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHN3Ui1aZmJRcmZPRUV5R1FIQUUtOWVlaFJCVExsQ2lzYnl2RFZkOVliSElESV81NEo3OWM4WGRNTUxwbU1xd1FpRXA2Nm1SLVBXOTdRWFNUdFZJZTlQODhVelNrdGNaVkpndm1lam9zVTFWRVZudUYwaExqaGJEUnRxaUZlZXdFUi1rZzMyc2Zvb1dwd1ZzQXA4ZHZnbVVrNy1jRHkxM3h1UD",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHN3Ui1aZmJRcmZPRUV5R1FIQUUtOWVlaFJCVExsQ2lzYnl2RFZkOVliSElESV81NEo3OWM4WGRNTUxwbU1xd1FpRXA2Nm1SLVBXOTdRWFNUdFZJZTlQODhVelNrdGNaVkpndm1lam9zVTFWRVZudUYwaExqaGJEUnRxaUZlZXdFUi1rZzMyc2Zvb1dwd1ZzQXA4ZHZnbVVrNy1jRHkxM3h1UDlQa2RONDFZcGc2cVE?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-          "source": "Senior Housing News"
-        }
-      ]
-    },
-    {
-      "id": "8e6b72240e29",
-      "title": "How influencers and restaurants power Dearborn's food scene - Detroit Free Press",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY19neldyWFhTbUVwamZWT0t0Ym41SDhRejB4dmVhXzlDbGF4Sms4WlZGSmxjeWRILWxVTXB5eTYxTVo5TUdWRFBkX3VzRTFNd0xsM2pJMVdoNEt0SS01OGppU3g3eVFFdmlJUnZVRE9XR2ctVFY1V1VQQWpxdUdXbE5wUmxJVm9IN1dLMkRabmd1bWhQOW44a2pZc1ktVHdzSFh6bFU4aXMwNX",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY19neldyWFhTbUVwamZWT0t0Ym41SDhRejB4dmVhXzlDbGF4Sms4WlZGSmxjeWRILWxVTXB5eTYxTVo5TUdWRFBkX3VzRTFNd0xsM2pJMVdoNEt0SS01OGppU3g3eVFFdmlJUnZVRE9XR2ctVFY1V1VQQWpxdUdXbE5wUmxJVm9IN1dLMkRabmd1bWhQOW44a2pZc1ktVHdzSFh6bFU4aXMwNXhHZGViajlyTXFib0wwZGt3QkxDX2xOalFITXpoeA?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -162,11 +158,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 30 Aug 2026 14:12:00 GMT",
-          "source": "Detroit Free Press"
+          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+          "source": "Senior Housing News"
         }
       ]
     },
@@ -182,7 +178,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-09-04T16:19:22+00:00",
+      "first_seen": "2026-09-04T20:45:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -192,6 +188,26 @@
         }
       ],
       "is_global": true
+    },
+    {
+      "id": "8e6b72240e29",
+      "title": "How influencers and restaurants power Dearborn's food scene - Detroit Free Press",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY19neldyWFhTbUVwamZWT0t0Ym41SDhRejB4dmVhXzlDbGF4Sms4WlZGSmxjeWRILWxVTXB5eTYxTVo5TUdWRFBkX3VzRTFNd0xsM2pJMVdoNEt0SS01OGppU3g3eVFFdmlJUnZVRE9XR2ctVFY1V1VQQWpxdUdXbE5wUmxJVm9IN1dLMkRabmd1bWhQOW44a2pZc1ktVHdzSFh6bFU4aXMwNX",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY19neldyWFhTbUVwamZWT0t0Ym41SDhRejB4dmVhXzlDbGF4Sms4WlZGSmxjeWRILWxVTXB5eTYxTVo5TUdWRFBkX3VzRTFNd0xsM2pJMVdoNEt0SS01OGppU3g3eVFFdmlJUnZVRE9XR2ctVFY1V1VQQWpxdUdXbE5wUmxJVm9IN1dLMkRabmd1bWhQOW44a2pZc1ktVHdzSFh6bFU4aXMwNXhHZGViajlyTXFib0wwZGt3QkxDX2xOalFITXpoeA?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-09-04T20:43:04+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 30 Aug 2026 14:12:00 GMT",
+          "source": "Detroit Free Press"
+        }
+      ]
     },
     {
       "id": "ef98bfa7e19c",
@@ -205,7 +221,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-09-04T16:19:22+00:00",
+      "first_seen": "2026-09-04T20:45:26+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -217,10 +233,10 @@
       "is_global": true
     },
     {
-      "id": "fcb64df15bbf",
-      "title": "GLP-1 users shift toward protein-rich snacks and smaller meals - Vending Market Watch",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOakdXdllsdTBHakc4Qi1tM0U1UUwySGJ2SnlIM2F3QzBRN3pyUVdVNUVSeGRJVldYNHBhTVN3NjRLOEtaeEtJR1dPQUd0dmxOUmVaTV9IVDZnV1lVTkFKVDRXeDVkY29EWlVYcXhoaEpsYVB4aG5hbkdaUjJScDh2NXBqcEktdDIzRW1tNldGN2ZMa2djN2xWSnB3aVZsei1ETVVzU0lBckVFcW",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakdXdllsdTBHakc4Qi1tM0U1UUwySGJ2SnlIM2F3QzBRN3pyUVdVNUVSeGRJVldYNHBhTVN3NjRLOEtaeEtJR1dPQUd0dmxOUmVaTV9IVDZnV1lVTkFKVDRXeDVkY29EWlVYcXhoaEpsYVB4aG5hbkdaUjJScDh2NXBqcEktdDIzRW1tNldGN2ZMa2djN2xWSnB3aVZsei1ETVVzU0lBckVFcWY3bnRDRERaWmVJYmp5ejlzNw?oc=5",
+      "id": "62812c1b078c",
+      "title": "Sous-Vide Cooking Bags Market - Future Market Insights",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNjJ6MWhrOUwwQXRaNHl4WERfOHNNSVQtOU80YUJqclpYZUM1LW1kLTJHYldlRk5melVheVNvTDBVZnhfU1FkUFFoYXpKdy11c2dSTkVzWTJrQUhSTmN6N0VzclRRcThwTk1Ra0dqdGZlVjYtYjRYVzZGbzRka0U?oc=5\" target=\"_blank\">Sous-Vide Cooking Bags Market</a>&nb",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNjJ6MWhrOUwwQXRaNHl4WERfOHNNSVQtOU80YUJqclpYZUM1LW1kLTJHYldlRk5melVheVNvTDBVZnhfU1FkUFFoYXpKdy11c2dSTkVzWTJrQUhSTmN6N0VzclRRcThwTk1Ra0dqdGZlVjYtYjRYVzZGbzRka0U?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -228,19 +244,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 01 Sep 2026 22:05:48 GMT",
-          "source": "Vending Market Watch"
+          "published": "Thu, 03 Sep 2026 14:43:11 GMT",
+          "source": "Future Market Insights"
         }
       ]
     },
     {
-      "id": "eee4a4b04037",
-      "title": "Sous-Vide Cooking Bags Market - futuremarketinsights.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNjJ6MWhrOUwwQXRaNHl4WERfOHNNSVQtOU80YUJqclpYZUM1LW1kLTJHYldlRk5melVheVNvTDBVZnhfU1FkUFFoYXpKdy11c2dSTkVzWTJrQUhSTmN6N0VzclRRcThwTk1Ra0dqdGZlVjYtYjRYVzZGbzRka0U?oc=5\" target=\"_blank\">Sous-Vide Cooking Bags Market</a>&nb",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNjJ6MWhrOUwwQXRaNHl4WERfOHNNSVQtOU80YUJqclpYZUM1LW1kLTJHYldlRk5melVheVNvTDBVZnhfU1FkUFFoYXpKdy11c2dSTkVzWTJrQUhSTmN6N0VzclRRcThwTk1Ra0dqdGZlVjYtYjRYVzZGbzRka0U?oc=5",
+      "id": "fcb64df15bbf",
+      "title": "GLP-1 users shift toward protein-rich snacks and smaller meals - Vending Market Watch",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOakdXdllsdTBHakc4Qi1tM0U1UUwySGJ2SnlIM2F3QzBRN3pyUVdVNUVSeGRJVldYNHBhTVN3NjRLOEtaeEtJR1dPQUd0dmxOUmVaTV9IVDZnV1lVTkFKVDRXeDVkY29EWlVYcXhoaEpsYVB4aG5hbkdaUjJScDh2NXBqcEktdDIzRW1tNldGN2ZMa2djN2xWSnB3aVZsei1ETVVzU0lBckVFcW",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakdXdllsdTBHakc4Qi1tM0U1UUwySGJ2SnlIM2F3QzBRN3pyUVdVNUVSeGRJVldYNHBhTVN3NjRLOEtaeEtJR1dPQUd0dmxOUmVaTV9IVDZnV1lVTkFKVDRXeDVkY29EWlVYcXhoaEpsYVB4aG5hbkdaUjJScDh2NXBqcEktdDIzRW1tNldGN2ZMa2djN2xWSnB3aVZsei1ETVVzU0lBckVFcWY3bnRDRERaWmVJYmp5ejlzNw?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -248,11 +264,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 03 Sep 2026 14:43:11 GMT",
-          "source": "futuremarketinsights.com"
+          "published": "Tue, 01 Sep 2026 22:05:48 GMT",
+          "source": "Vending Market Watch"
         }
       ]
     },
@@ -268,7 +284,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Sat, 25 Jul 2026 14:11:08 GMT",
@@ -288,7 +304,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Wed, 11 Mar 2026 07:00:00 GMT",
@@ -297,10 +313,10 @@
       ]
     },
     {
-      "id": "a5dabf6f94c2",
-      "title": "Which food trends are big in Africa? - foodnavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUV85RGVXU0J1UkRLajUwZ2hjbF9nbFMyak1hbmZzOVNYZFJDbmpKbG1nbjBwLURtUmhTQUpZWjEyS08tbkZtWGRCZm5ZU216dDV2M3l5LWlUWlJTUjRWX3YzVlNRTUVoQ2x0cUNnZW9RbHVMeEpHc2d2MkRtYlZVcg?oc=5\" target=\"_blank\">Which food trends are big in Afri",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUV85RGVXU0J1UkRLajUwZ2hjbF9nbFMyak1hbmZzOVNYZFJDbmpKbG1nbjBwLURtUmhTQUpZWjEyS08tbkZtWGRCZm5ZU216dDV2M3l5LWlUWlJTUjRWX3YzVlNRTUVoQ2x0cUNnZW9RbHVMeEpHc2d2MkRtYlZVcg?oc=5",
+      "id": "bf6def17a116",
+      "title": "Gen Z Food Trends Are Creating Fresh Consumer Staples Stock Ideas - simplywall.st",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajV4YUFyOWMyUXB2c05HNVlxUFJqalJBODh2c2FGeC1rLWxaVEVKTndNT19jZmdIOERfcmZ3cmlaYVhYRzJYVkd1czh3QXBHY2JMc3lUYVBPbFJ2el9xclU2UXlfTGcyTHlKRDJiY2hsMjZzVlFZa0htaXNEX3p1OWxiY2l2Z2hhdDc5LWU1MF92bXRpMjQyMFFHU2NBc1FkVFFmODdsLXB0WF",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajV4YUFyOWMyUXB2c05HNVlxUFJqalJBODh2c2FGeC1rLWxaVEVKTndNT19jZmdIOERfcmZ3cmlaYVhYRzJYVkd1czh3QXBHY2JMc3lUYVBPbFJ2el9xclU2UXlfTGcyTHlKRDJiY2hsMjZzVlFZa0htaXNEX3p1OWxiY2l2Z2hhdDc5LWU1MF92bXRpMjQyMFFHU2NBc1FkVFFmODdsLXB0WFBUN3VqYW1UcWJhVWF0YXNoaXJET2l0eDI0Z0lUSEtrbkxXRi1sSlc4YkFBd1pBZ9IB3wFBVV95cUxQd1hNVFc5MHk2by1pNWxfclFSYlBYSzRfUnZybGwtUG1vMmJxRjFFd05wNUtoczdXZWV3b0hLbzlqOWVBeURaYlhOT0NhTXBYdUxaVXZqazVjdVFZcXhVbXN5bnlhYllqLXlabmhDSzk1a0RMUVpJaWVWTnpkZVNpbTc0MWdFUXhaaUgxeDg0VmZrV19NTW9Ya1UyOTZBZ0ZqUDhMNDcwV0U2OFozM3k2by1qaXVFZVM4WEtnVXhOYkJqLS1iMlAzaVVjVlhSTjJ5UF9fSjRXWEFSZVdOYm1V?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -308,11 +324,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "source": "foodnavigator.com"
+          "published": "Sun, 30 Aug 2026 21:36:24 GMT",
+          "source": "simplywall.st"
         }
       ]
     },
@@ -328,7 +344,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Sun, 12 Apr 2026 07:00:00 GMT",
@@ -337,10 +353,10 @@
       ]
     },
     {
-      "id": "55ed3ce97127",
-      "title": "Specialty Food Association’s Trendspotter Panel Shares Top Trends from the 2026 Summer Fancy Food Show - brewbound.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa282MjJTS0g3d1JzOWgza3lhMGZrSUpGM1JEaFZsaDBCZnJwRzBwYU5VU1lHTnpCazZqTXdEdlNlZGdvclVlckNfVXdqczc3VFpzZVdzakU3Nk1ObEJJQktBbFI0bzBhcEI4T2htRW5HQ2YxLS1jb0ktZk9OWUw3M3RfUHVZQWVSX0pVSEFETS1hQ1Y0YUV3QmlQM2t5THlJYUZzZ0RYR19ZcS",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa282MjJTS0g3d1JzOWgza3lhMGZrSUpGM1JEaFZsaDBCZnJwRzBwYU5VU1lHTnpCazZqTXdEdlNlZGdvclVlckNfVXdqczc3VFpzZVdzakU3Nk1ObEJJQktBbFI0bzBhcEI4T2htRW5HQ2YxLS1jb0ktZk9OWUw3M3RfUHVZQWVSX0pVSEFETS1hQ1Y0YUV3QmlQM2t5THlJYUZzZ0RYR19ZcS12WGIzREU1M240N25nekdzY1hPRzNFU0pZRThpUENFZ3B6Z2NxenN0VEthWVM?oc=5",
+      "id": "a5dabf6f94c2",
+      "title": "Which food trends are big in Africa? - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUV85RGVXU0J1UkRLajUwZ2hjbF9nbFMyak1hbmZzOVNYZFJDbmpKbG1nbjBwLURtUmhTQUpZWjEyS08tbkZtWGRCZm5ZU216dDV2M3l5LWlUWlJTUjRWX3YzVlNRTUVoQ2x0cUNnZW9RbHVMeEpHc2d2MkRtYlZVcg?oc=5\" target=\"_blank\">Which food trends are big in Afri",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUV85RGVXU0J1UkRLajUwZ2hjbF9nbFMyak1hbmZzOVNYZFJDbmpKbG1nbjBwLURtUmhTQUpZWjEyS08tbkZtWGRCZm5ZU216dDV2M3l5LWlUWlJTUjRWX3YzVlNRTUVoQ2x0cUNnZW9RbHVMeEpHc2d2MkRtYlZVcg?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -348,11 +364,31 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+          "source": "FoodNavigator.com"
+        }
+      ]
+    },
+    {
+      "id": "eda5faf35c31",
+      "title": "Specialty Food Association’s Trendspotter Panel Shares Top Trends from the 2026 Summer Fancy Food Show - Brewbound",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa282MjJTS0g3d1JzOWgza3lhMGZrSUpGM1JEaFZsaDBCZnJwRzBwYU5VU1lHTnpCazZqTXdEdlNlZGdvclVlckNfVXdqczc3VFpzZVdzakU3Nk1ObEJJQktBbFI0bzBhcEI4T2htRW5HQ2YxLS1jb0ktZk9OWUw3M3RfUHVZQWVSX0pVSEFETS1hQ1Y0YUV3QmlQM2t5THlJYUZzZ0RYR19ZcS",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa282MjJTS0g3d1JzOWgza3lhMGZrSUpGM1JEaFZsaDBCZnJwRzBwYU5VU1lHTnpCazZqTXdEdlNlZGdvclVlckNfVXdqczc3VFpzZVdzakU3Nk1ObEJJQktBbFI0bzBhcEI4T2htRW5HQ2YxLS1jb0ktZk9OWUw3M3RfUHVZQWVSX0pVSEFETS1hQ1Y0YUV3QmlQM2t5THlJYUZzZ0RYR19ZcS12WGIzREU1M240N25nekdzY1hPRzNFU0pZRThpUENFZ3B6Z2NxenN0VEthWVM?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-          "source": "brewbound.com"
+          "source": "Brewbound"
         }
       ]
     },
@@ -361,26 +397,6 @@
       "title": "People Are Sharing The Food Trends They Would Love To See Disappear - BuzzFeed",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1ydnhRMDgyMnhFRExKdmpfYVRRMV9yVDJpbXZqcllQckE2Nnh0b3RmWEt3QnI5Tk45eDFuZGkwaVRJV0dNcFpfbmVoN3hWZ1loa2pia0dmZC04T0gtUlQybDJyZkJ4WHZyYUwxQmZxSzBfNVU?oc=5\" target=\"_blank\">People Are Sharing The Food Trends They Would Love T",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ydnhRMDgyMnhFRExKdmpfYVRRMV9yVDJpbXZqcllQckE2Nnh0b3RmWEt3QnI5Tk45eDFuZGkwaVRJV0dNcFpfbmVoN3hWZ1loa2pia0dmZC04T0gtUlQybDJyZkJ4WHZyYUwxQmZxSzBfNVU?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 07 Mar 2026 08:00:00 GMT",
-          "source": "BuzzFeed"
-        }
-      ]
-    },
-    {
-      "id": "559b2c81f269",
-      "title": "Chartwells Higher Ed Reveals Top 5 Campus Food Trends for Fall - The Food Institute",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWURFaDZhczNaZm9KYV9pOTh0X2Rsamxpd2ZxYjFwRGlNeVdPNDJHLWdNdjVRZ3BvdzJTcHRVcWgzaUZZMFdqVTRZN3p2NXlsdm5UNHI1NDFaTlVObGJ1NW5vbU9fNmd6cERiUGNRMHlyQk91TmlYMkxBNzhqdFJHc0VRNlhMdnVwSHJ4SUJXbFpvLWJkX2JPZw?oc=5\" target=\"_blank\">C",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWURFaDZhczNaZm9KYV9pOTh0X2Rsamxpd2ZxYjFwRGlNeVdPNDJHLWdNdjVRZ3BvdzJTcHRVcWgzaUZZMFdqVTRZN3p2NXlsdm5UNHI1NDFaTlVObGJ1NW5vbU9fNmd6cERiUGNRMHlyQk91TmlYMkxBNzhqdFJHc0VRNlhMdnVwSHJ4SUJXbFpvLWJkX2JPZw?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -388,11 +404,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 25 Aug 2026 14:54:03 GMT",
-          "source": "The Food Institute"
+          "published": "Sat, 07 Mar 2026 08:00:00 GMT",
+          "source": "BuzzFeed"
         }
       ]
     },
@@ -408,7 +424,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
           "published": "Sun, 30 Aug 2026 10:51:00 GMT",
@@ -417,10 +433,10 @@
       ]
     },
     {
-      "id": "0721fc377fc5",
-      "title": "SNAP Tracker: People Are Losing Food Assistance as the Harmful 2025 Republican Reconciliation Law Is Implemented - Center on Budget and Policy Priorities",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZV9vc0U1TUd5ZmszckVZaDJpeWpOM0wteE9jeHN3S3BodERjWW1ra0Joa1pKaVRhSXdtako3bEpMZkprQTZGVXRkbkxQazNlcHdYS2tncUxiWXFEdS1GcFlKNkFVam5WdDN0NExjc3d4NXVMeDlGN1ZiM2s3VHNUUHVURm5CbkVsbWdZdWtkblJpcVZ0TE5TMXFXcWw3OTZpcC11eW1OYVlRR1",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZV9vc0U1TUd5ZmszckVZaDJpeWpOM0wteE9jeHN3S3BodERjWW1ra0Joa1pKaVRhSXdtako3bEpMZkprQTZGVXRkbkxQazNlcHdYS2tncUxiWXFEdS1GcFlKNkFVam5WdDN0NExjc3d4NXVMeDlGN1ZiM2s3VHNUUHVURm5CbkVsbWdZdWtkblJpcVZ0TE5TMXFXcWw3OTZpcC11eW1OYVlRR1JqTUlqdmljR1FmbGhYNkQ4?oc=5",
+      "id": "559b2c81f269",
+      "title": "Chartwells Higher Ed Reveals Top 5 Campus Food Trends for Fall - The Food Institute",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWURFaDZhczNaZm9KYV9pOTh0X2Rsamxpd2ZxYjFwRGlNeVdPNDJHLWdNdjVRZ3BvdzJTcHRVcWgzaUZZMFdqVTRZN3p2NXlsdm5UNHI1NDFaTlVObGJ1NW5vbU9fNmd6cERiUGNRMHlyQk91TmlYMkxBNzhqdFJHc0VRNlhMdnVwSHJ4SUJXbFpvLWJkX2JPZw?oc=5\" target=\"_blank\">C",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWURFaDZhczNaZm9KYV9pOTh0X2Rsamxpd2ZxYjFwRGlNeVdPNDJHLWdNdjVRZ3BvdzJTcHRVcWgzaUZZMFdqVTRZN3p2NXlsdm5UNHI1NDFaTlVObGJ1NW5vbU9fNmd6cERiUGNRMHlyQk91TmlYMkxBNzhqdFJHc0VRNlhMdnVwSHJ4SUJXbFpvLWJkX2JPZw?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -428,11 +444,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-04T16:17:02+00:00",
+      "first_seen": "2026-09-04T20:43:04+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "source": "Center on Budget and Policy Priorities"
+          "published": "Tue, 25 Aug 2026 14:54:03 GMT",
+          "source": "The Food Institute"
         }
       ]
     }
