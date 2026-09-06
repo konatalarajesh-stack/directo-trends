@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-09-06T10:58:43+00:00",
+  "generated_at": "2026-09-06T15:33:04+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "f3aa6f29f62e",
-      "title": "Saudi, Welcome to Arabia Showcases Saudi's Growing Tourism Offering at WTM Spotlight Riyadh - PA Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRGhIRHZ6d3ZnLVAyS0NyVnFTOV9HSWZWSEdmNGVTVVo2LVBnQmg0eWNkcUJuazlxNTI0ZTBycmRfMDA2cFFEcnU4T2pOdEFPUGYzbnhITVRzSDlZRHY5cHBPUXRWWl9fTVo5QjBERE5SRlBKcGhjQmN3SjR5WHhVY1N2Z0pNTW10ZFFBTG83WUlzTWtEejE5Um1mTG1MTUYzMWhpM25tdzFmcT",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRGhIRHZ6d3ZnLVAyS0NyVnFTOV9HSWZWSEdmNGVTVVo2LVBnQmg0eWNkcUJuazlxNTI0ZTBycmRfMDA2cFFEcnU4T2pOdEFPUGYzbnhITVRzSDlZRHY5cHBPUXRWWl9fTVo5QjBERE5SRlBKcGhjQmN3SjR5WHhVY1N2Z0pNTW10ZFFBTG83WUlzTWtEejE5Um1mTG1MTUYzMWhpM25tdzFmcTNCcElBSHktTjdIQ3hMVFNDWGstOTdFcjlmdmwyaUFLNnF3ak5OTXhzY1dnRWc?oc=5",
+      "id": "e43872cebd80",
+      "title": "Swinney suggests Scots will not travel further for health care under reforms - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE16Z0hXM2g2dUV0aWxQZXlGT0FIT0Z0ZGxoU211MU9FdmNFYWZzMklLNmZWNVNGbTBNeENpMUdITTdvOGxTSFB6QVBuUnEwazBPWnotbU0yOF9ETVVr?oc=5\" target=\"_blank\">Swinney suggests Scots will not travel further for health care under reforms</a>&nb",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16Z0hXM2g2dUV0aWxQZXlGT0FIT0Z0ZGxoU211MU9FdmNFYWZzMklLNmZWNVNGbTBNeENpMUdITTdvOGxTSFB6QVBuUnEwazBPWnotbU0yOF9ETVVr?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 11:30:14 GMT",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "e02c86fcd533",
+      "title": "Popular UK travel company suspends all holidays ‘until further notice’ - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEF5aWFnLWVGY1N1am92TGE0WVBGYkNCeU9YQVNwY0NZMmZDSWtsRGlVM2JfbEVNbnpNZ2NaTXJwU2thQW5scGxJOUE0cVA3OGRkYkk4MUFSSEVXSEJ5Ri1MRlVYWHZvOEk4dlE4aHBJVy1kU0lYcUNKZzRjVWRHUlE3SlJtYUlaOWZ3UXdtcXRwcTNCdDZicWtLMGpDdWFMTzcxVmNYeTRLTn",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEF5aWFnLWVGY1N1am92TGE0WVBGYkNCeU9YQVNwY0NZMmZDSWtsRGlVM2JfbEVNbnpNZ2NaTXJwU2thQW5scGxJOUE0cVA3OGRkYkk4MUFSSEVXSEJ5Ri1MRlVYWHZvOEk4dlE4aHBJVy1kU0lYcUNKZzRjVWRHUlE3SlJtYUlaOWZ3UXdtcXRwcTNCdDZicWtLMGpDdWFMTzcxVmNYeTRLTnA4N0E?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 07:38:00 GMT",
+          "source": "The Independent"
+        }
+      ]
+    },
+    {
+      "id": "f3aa6f29f62e",
+      "title": "Saudi, Welcome to Arabia Showcases Saudi's Growing Tourism Offering at WTM Spotlight Riyadh - PA Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRGhIRHZ6d3ZnLVAyS0NyVnFTOV9HSWZWSEdmNGVTVVo2LVBnQmg0eWNkcUJuazlxNTI0ZTBycmRfMDA2cFFEcnU4T2pOdEFPUGYzbnhITVRzSDlZRHY5cHBPUXRWWl9fTVo5QjBERE5SRlBKcGhjQmN3SjR5WHhVY1N2Z0pNTW10ZFFBTG83WUlzTWtEejE5Um1mTG1MTUYzMWhpM25tdzFmcT",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRGhIRHZ6d3ZnLVAyS0NyVnFTOV9HSWZWSEdmNGVTVVo2LVBnQmg0eWNkcUJuazlxNTI0ZTBycmRfMDA2cFFEcnU4T2pOdEFPUGYzbnhITVRzSDlZRHY5cHBPUXRWWl9fTVo5QjBERE5SRlBKcGhjQmN3SjR5WHhVY1N2Z0pNTW10ZFFBTG83WUlzTWtEejE5Um1mTG1MTUYzMWhpM25tdzFmcTNCcElBSHktTjdIQ3hMVFNDWGstOTdFcjlmdmwyaUFLNnF3ak5OTXhzY1dnRWc?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
       "raw_samples": [
         {
           "published": "Sun, 06 Sep 2026 10:37:25 GMT",
@@ -31,14 +71,14 @@
       "title": "The Times and Sunday Times Travel Awards 2026: vote to win £34,500 worth of prizes - The Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2xCYUdIMUNBTlg3Z1RVaDJRcDdEN3pfMkl4Vk1jTk1mSDBpQ216amthdmIyeTZ3a19TTkc3bHVpR2c0aGdUdWFHRXVvZy1ZSEdSSFF3cWpFdGxvSzRMdDlQVUxZTFFfNUxYck9sNHhUcW96RTBRS2VLZ0Fxdl9QNXVUbjdpT2ZNWjdONkpNTWI3ZEpXR2VPYWh3NzZzaExI?oc=5\" target=",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2xCYUdIMUNBTlg3Z1RVaDJRcDdEN3pfMkl4Vk1jTk1mSDBpQ216amthdmIyeTZ3a19TTkc3bHVpR2c0aGdUdWFHRXVvZy1ZSEdSSFF3cWpFdGxvSzRMdDlQVUxZTFFfNUxYck9sNHhUcW96RTBRS2VLZ0Fxdl9QNXVUbjdpT2ZNWjdONkpNTWI3ZEpXR2VPYWh3NzZzaExI?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
+      "first_seen": "2026-09-06T15:24:15+00:00",
       "raw_samples": [
         {
           "published": "Sat, 05 Sep 2026 04:00:00 GMT",
@@ -47,50 +87,10 @@
       ]
     },
     {
-      "id": "4669b9441028",
-      "title": "I didn’t think solo travel was for me, then I went to Mongolia alone - inews.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkgzY09hc01XNE91YUxvNk9TQlBienpiQnVrUGIwWFBPME1XOHRvclBwOWl0S0tpWmxCUi15NjZsbTdDVVJvMS02R20wRzBMaVIxTVlnWWhuUjlCNmFabjBfQlUwamVDVjVIRmtCWnEyM1J0VlZYNm9xTHU2ZGdHbG1uZ2xsMmliU2taTWd6WE9QaElPQndGVW5LRHpmRUpPMlo4ck9UWQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkgzY09hc01XNE91YUxvNk9TQlBienpiQnVrUGIwWFBPME1XOHRvclBwOWl0S0tpWmxCUi15NjZsbTdDVVJvMS02R20wRzBMaVIxTVlnWWhuUjlCNmFabjBfQlUwamVDVjVIRmtCWnEyM1J0VlZYNm9xTHU2ZGdHbG1uZ2xsMmliU2taTWd6WE9QaElPQndGVW5LRHpmRUpPMlo4ck9UWQ?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 05 Sep 2026 06:00:00 GMT",
-          "source": "inews.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "88e7e131d180",
-      "title": "Travel company suspends service with holidaymakers told 'do not travel' - Bristol Live",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2M3M2FXUTJ3LUZKUWNpX21QOTgtWlo4ZUtCVXBrbFlPLTMyeENsaDN2YTltNU1sbkgzeHMwU090N1paQlFYUjNwTHpjeGtoOWlYRmVwRHZqQjhnUDFWb2tYdUZOWVZCdlIzeDJDLWhqTzFxeVU1OGdRaUJYOVBTVzRCaXE1a1djUUdvdE43R2p2dm9sWWZrTGp6emdiRWVPeG5neg?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2M3M2FXUTJ3LUZKUWNpX21QOTgtWlo4ZUtCVXBrbFlPLTMyeENsaDN2YTltNU1sbkgzeHMwU090N1paQlFYUjNwTHpjeGtoOWlYRmVwRHZqQjhnUDFWb2tYdUZOWVZCdlIzeDJDLWhqTzFxeVU1OGdRaUJYOVBTVzRCaXE1a1djUUdvdE43R2p2dm9sWWZrTGp6emdiRWVPeG5neg?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 05 Sep 2026 12:11:00 GMT",
-          "source": "Bristol Live"
-        }
-      ]
-    },
-    {
-      "id": "4bda00b29604",
-      "title": "Agoda Unveils South Korean Travelers' Top Domestic and International Destinations for Chuseok Holiday - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlFWYktPMlE1b2VJYzM2dGM3N1FhcUZJaUVUUDZsODJRZWRXT3MzWENRUVpvUmZJRkdFN2FqOUlyTlJlaVFkSVdWUTNwVFF6eFg5UlZUanVFb2lJLTNMVDFITkpTeVZ3M2gxY0dpeXRodG1lMmxzQ3h1bG5QeHd1SUNFbTJ1bWVXY2NzQ2ZB?oc=5\" target=\"_blank\">Agoda Unveils S",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlFWYktPMlE1b2VJYzM2dGM3N1FhcUZJaUVUUDZsODJRZWRXT3MzWENRUVpvUmZJRkdFN2FqOUlyTlJlaVFkSVdWUTNwVFF6eFg5UlZUanVFb2lJLTNMVDFITkpTeVZ3M2gxY0dpeXRodG1lMmxzQ3h1bG5QeHd1SUNFbTJ1bWVXY2NzQ2ZB?oc=5",
+      "id": "644a9e543296",
+      "title": "Will Scots have to travel further for NHS care? - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tYlJXd282VFdtdzJMM1dnMG5paTdvT2Z3NWZhcUZEQndvMlg4NGxuMFFyME1YXzhWbjk5cExKcnZJR3FWRjlRaEtlamdqem1tTXctUlBNUQ?oc=5\" target=\"_blank\">Will Scots have to travel further for NHS care?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC<",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tYlJXd282VFdtdzJMM1dnMG5paTdvT2Z3NWZhcUZEQndvMlg4NGxuMFFyME1YXzhWbjk5cExKcnZJR3FWRjlRaEtlamdqem1tTXctUlBNUQ?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,31 +98,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
+      "first_seen": "2026-09-06T15:24:15+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 06 Sep 2026 00:00:00 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
-    },
-    {
-      "id": "22501538f39c",
-      "title": "The autumn travel bucket list: Our top picks for holidays in Europe - Euronews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDVBVTNfdnNuSFhFQkxmUnFkRVA2Nm5DSndYaDJFN1pKeERpRjdNWjBQZ0tRclZVS2s2aGJPRTdWNEIzSDQ2Zm93SDRLZ1RMSUw0Q29OOTJQSEdDWGZ1OGxJUWZ3OGZjQzZKNDF6Vmt6cjdxQ2xGZkRObm1NTHhvOVlRVWVwNUxjWmJSRmtfU3hIRDRvdlVhQTc3d3VaMjVTeVVib0ZfM1VyT0",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDVBVTNfdnNuSFhFQkxmUnFkRVA2Nm5DSndYaDJFN1pKeERpRjdNWjBQZ0tRclZVS2s2aGJPRTdWNEIzSDQ2Zm93SDRLZ1RMSUw0Q29OOTJQSEdDWGZ1OGxJUWZ3OGZjQzZKNDF6Vmt6cjdxQ2xGZkRObm1NTHhvOVlRVWVwNUxjWmJSRmtfU3hIRDRvdlVhQTc3d3VaMjVTeVVib0ZfM1VyT0RfUXBKVTlmMEdOam82bnc?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 06 Sep 2026 05:00:35 GMT",
-          "source": "Euronews.com"
+          "published": "Sun, 06 Sep 2026 11:37:33 GMT",
+          "source": "BBC"
         }
       ]
     },
@@ -131,14 +111,14 @@
       "title": "Road closure report - National Highways",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVZoVTRhTkdxSDAwcW5wQUZjdDc1MVMwNkRyZ085dlN6N3pJd29ZMl9UWXJscGtmOHNXOFZyMFpqc0FDVWZheXhEZXFPUFd6b3pqZmpsSFBPSXJhclNjcHU4dEkzbHlkZGc4cHlJaW5mVF9sRmNzekdZNURHVURzVFExdzNRTnd6dGk2QVV2ZERHQQ?oc=5\" target=\"_blank\">Road clos",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVZoVTRhTkdxSDAwcW5wQUZjdDc1MVMwNkRyZ085dlN6N3pJd29ZMl9UWXJscGtmOHNXOFZyMFpqc0FDVWZheXhEZXFPUFd6b3pqZmpsSFBPSXJhclNjcHU4dEkzbHlkZGc4cHlJaW5mVF9sRmNzekdZNURHVURzVFExdzNRTnd6dGk2QVV2ZERHQQ?oc=5",
-      "score": 68.4,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
+      "first_seen": "2026-09-06T15:24:15+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 07:00:00 GMT",
@@ -147,10 +127,30 @@
       ]
     },
     {
-      "id": "e02c86fcd533",
-      "title": "Popular UK travel company suspends all holidays ‘until further notice’ - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEF5aWFnLWVGY1N1am92TGE0WVBGYkNCeU9YQVNwY0NZMmZDSWtsRGlVM2JfbEVNbnpNZ2NaTXJwU2thQW5scGxJOUE0cVA3OGRkYkk4MUFSSEVXSEJ5Ri1MRlVYWHZvOEk4dlE4aHBJVy1kU0lYcUNKZzRjVWRHUlE3SlJtYUlaOWZ3UXdtcXRwcTNCdDZicWtLMGpDdWFMTzcxVmNYeTRLTn",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEF5aWFnLWVGY1N1am92TGE0WVBGYkNCeU9YQVNwY0NZMmZDSWtsRGlVM2JfbEVNbnpNZ2NaTXJwU2thQW5scGxJOUE0cVA3OGRkYkk4MUFSSEVXSEJ5Ri1MRlVYWHZvOEk4dlE4aHBJVy1kU0lYcUNKZzRjVWRHUlE3SlJtYUlaOWZ3UXdtcXRwcTNCdDZicWtLMGpDdWFMTzcxVmNYeTRLTnA4N0E?oc=5",
+      "id": "06e236a94f91",
+      "title": "I’ve Tested Many, Many Laptop Backpacks. These Are the Ones I’d Buy - WIRED",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FZWFvaXVyWGJ0QnRhXzFMc19IVlJXaFJFNEU1UmNuZ2l2RldOOUdkbzBLdkhtSElrWmhPR2ZUYlM0eEt0dG5NU2lkVlhYOHdCbjE5eEJZemZpWWVqWHdJ?oc=5\" target=\"_blank\">I’ve Tested Many, Many Laptop Backpacks. These Are the Ones I’d Buy</a>&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FZWFvaXVyWGJ0QnRhXzFMc19IVlJXaFJFNEU1UmNuZ2l2RldOOUdkbzBLdkhtSElrWmhPR2ZUYlM0eEt0dG5NU2lkVlhYOHdCbjE5eEJZemZpWWVqWHdJ?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 11:30:00 GMT",
+          "source": "WIRED"
+        }
+      ]
+    },
+    {
+      "id": "22501538f39c",
+      "title": "The autumn travel bucket list: Our top picks for holidays in Europe - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDVBVTNfdnNuSFhFQkxmUnFkRVA2Nm5DSndYaDJFN1pKeERpRjdNWjBQZ0tRclZVS2s2aGJPRTdWNEIzSDQ2Zm93SDRLZ1RMSUw0Q29OOTJQSEdDWGZ1OGxJUWZ3OGZjQzZKNDF6Vmt6cjdxQ2xGZkRObm1NTHhvOVlRVWVwNUxjWmJSRmtfU3hIRDRvdlVhQTc3d3VaMjVTeVVib0ZfM1VyT0",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDVBVTNfdnNuSFhFQkxmUnFkRVA2Nm5DSndYaDJFN1pKeERpRjdNWjBQZ0tRclZVS2s2aGJPRTdWNEIzSDQ2Zm93SDRLZ1RMSUw0Q29OOTJQSEdDWGZ1OGxJUWZ3OGZjQzZKNDF6Vmt6cjdxQ2xGZkRObm1NTHhvOVlRVWVwNUxjWmJSRmtfU3hIRDRvdlVhQTc3d3VaMjVTeVVib0ZfM1VyT0RfUXBKVTlmMEdOam82bnc?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,10 +158,170 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
+      "first_seen": "2026-09-06T15:24:15+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 06 Sep 2026 07:38:00 GMT",
+          "published": "Sun, 06 Sep 2026 05:00:35 GMT",
+          "source": "Euronews.com"
+        }
+      ]
+    },
+    {
+      "id": "ba9a3ce181a6",
+      "title": "The masses have discovered shoulder-season holidays – and prices are soaring - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDZ6dnFxVm54bWp3d09VeWNnV3hXU2dlNEkzaWNoTy1LMDdsM0VnT0pnLW5FNDFXaHZSdVFKWV82a3h3ejQ2UVRNVHdMVUVGc3QtMll1a3k4ZFhjUVJCR21YMnF3VmxwMzlOY3JXNnZpc0x3SnFwMW5XVmdUcmhWVEgzck9MWlE?oc=5\" target=\"_blank\">The masses have discover",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDZ6dnFxVm54bWp3d09VeWNnV3hXU2dlNEkzaWNoTy1LMDdsM0VnT0pnLW5FNDFXaHZSdVFKWV82a3h3ejQ2UVRNVHdMVUVGc3QtMll1a3k4ZFhjUVJCR21YMnF3VmxwMzlOY3JXNnZpc0x3SnFwMW5XVmdUcmhWVEgzck9MWlE?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 12:00:00 GMT",
+          "source": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "id": "61755267e97d",
+      "title": "Reform UK councillors call for tourism tax in Conwy to be ruled out completely - North Wales Pioneer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdzlXSURMb2tVUU1JdktFNDdXS0FrZDc0eUM3TzdHZjk0TDRyQUNBcmpaOFRlem1VNmZlNm8wUlVCQTdENjBGVXJYcVBBOU5qWWFDZ1Fxcjg0QlFmd3A0ZFVuV3VZR0tTX212OGZ6MzU1UFdzenU1c2x5aWt1cXB4cDF5LTBhMU9Rcnk0WDZnMXRmYjFCczltQmo2RFBWdw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzlXSURMb2tVUU1JdktFNDdXS0FrZDc0eUM3TzdHZjk0TDRyQUNBcmpaOFRlem1VNmZlNm8wUlVCQTdENjBGVXJYcVBBOU5qWWFDZ1Fxcjg0QlFmd3A0ZFVuV3VZR0tTX212OGZ6MzU1UFdzenU1c2x5aWt1cXB4cDF5LTBhMU9Rcnk0WDZnMXRmYjFCczltQmo2RFBWdw?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 12:00:00 GMT",
+          "source": "North Wales Pioneer"
+        }
+      ]
+    },
+    {
+      "id": "7a31832baf8b",
+      "title": "Travel chaos as trains cancelled after huge fire sees 40 firefighters respond - Reading Chronicle",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0xjM2RVTFVZX3poVFRaTUpYdjlFSTk4Ny1jaWNJMWJqM0ZBeFFyWW84SGtpT25CMFNNM2I3cXlGVWdrSjF1dG90eGJHaUhtSUtncEtYNEtNVFlXTDZKc0ttelV2bUFJT2ZTbExoREcyczJRUXNuMnNMSEVIUW5nVG12SE16ZUtEMVpTYnJiVWpNa3hZRk1FSkg0MUd1U3RaT05JZUlTZ3c?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0xjM2RVTFVZX3poVFRaTUpYdjlFSTk4Ny1jaWNJMWJqM0ZBeFFyWW84SGtpT25CMFNNM2I3cXlGVWdrSjF1dG90eGJHaUhtSUtncEtYNEtNVFlXTDZKc0ttelV2bUFJT2ZTbExoREcyczJRUXNuMnNMSEVIUW5nVG12SE16ZUtEMVpTYnJiVWpNa3hZRk1FSkg0MUd1U3RaT05JZUlTZ3c?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 11:22:22 GMT",
+          "source": "Reading Chronicle"
+        }
+      ]
+    },
+    {
+      "id": "876e1a00839d",
+      "title": "DW News. . An eruption of Indonesia's Anak Krakatau volcano has disrupted air travel across the country, grounding all flights at Jakarta's main airport as well as domestic airstrips, as volcanic ash spreads across western Indonesia. #dwnews - facebook.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMjBRNkVmbndnSERPYVRWZXE1RmVRV1RWLTVXel9YNXhmV0tLSDB5eXlsMVpwNlMwV1d5OElZLVRTNk1rZ0h1R0pZMDVVb2VNRjAzam9QdUdjQjZ6VmVsU256dkRUNE5taDUzUXQ0RDNqVXVEX2xxblFYTXRMaHF6UjAxMFMyZVl4WXRzUjV1ZUZFR0V2QUYyZ1VoNXM5Y25qUVVCdDdSNjlYWk",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMjBRNkVmbndnSERPYVRWZXE1RmVRV1RWLTVXel9YNXhmV0tLSDB5eXlsMVpwNlMwV1d5OElZLVRTNk1rZ0h1R0pZMDVVb2VNRjAzam9QdUdjQjZ6VmVsU256dkRUNE5taDUzUXQ0RDNqVXVEX2xxblFYTXRMaHF6UjAxMFMyZVl4WXRzUjV1ZUZFR0V2QUYyZ1VoNXM5Y25qUVVCdDdSNjlYWktGeWZkMDlTbXpOcEFUUXMtVm5VTy1QOG5reVVYZV81aVhqYWhRZnhabVVFR28tcVN1TElFbDhn?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 14:00:49 GMT",
+          "source": "facebook.com"
+        }
+      ]
+    },
+    {
+      "id": "313abb3a4b4c",
+      "title": "WTM Spotlight Riyadh unveils conference agenda - Breaking Travel News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOYTh6OGNDbnc0bkRlVy1DLUhNNS1FS2lrVXAwQ2Zwdm9HTzRsX0JDMFZZMW5sRjBEMUQyNTFlbGRsUTEyNlhnbkFOWWJULUJDdjREcG1kVkNrcl9TSXRPdmh6TU5YODdQUjE2WFhzSWQtb3dWTkwteHpyN3lvbzZmZGo3S0NQeG5qU3pLeXZhSFpuTE9ZN0FWNUZoUQ?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYTh6OGNDbnc0bkRlVy1DLUhNNS1FS2lrVXAwQ2Zwdm9HTzRsX0JDMFZZMW5sRjBEMUQyNTFlbGRsUTEyNlhnbkFOWWJULUJDdjREcG1kVkNrcl9TSXRPdmh6TU5YODdQUjE2WFhzSWQtb3dWTkwteHpyN3lvbzZmZGo3S0NQeG5qU3pLeXZhSFpuTE9ZN0FWNUZoUQ?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 12:04:20 GMT",
+          "source": "Breaking Travel News"
+        }
+      ]
+    },
+    {
+      "id": "da10063c7896",
+      "title": "Travel experts explain free Ryanair and easyJet tip for extra legroom - Glasgow Live",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlQ2eHVqQjZ0TkxBcHFkZXRBQnlCM0pEbDNPcG1CUFktY0l5dFJTVUYwUjEtQkxRQ2FMbFlEMnVOb2JsdGU5cFk1bkdsMWtWYm1rT1VfTXJOaldITW5pS2FFTW1aYlllMDZSOVJqVVhRLTNzLWczTldMY29iWGlEQUd0d2xoZUpzLVZXRVBPRFU2OEg30gGaAUFVX3lxTFAyMFJ2VGpvNFJnbT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlQ2eHVqQjZ0TkxBcHFkZXRBQnlCM0pEbDNPcG1CUFktY0l5dFJTVUYwUjEtQkxRQ2FMbFlEMnVOb2JsdGU5cFk1bkdsMWtWYm1rT1VfTXJOaldITW5pS2FFTW1aYlllMDZSOVJqVVhRLTNzLWczTldMY29iWGlEQUd0d2xoZUpzLVZXRVBPRFU2OEg30gGaAUFVX3lxTFAyMFJ2VGpvNFJnbTRPY2NNeEhWMUo5UGwtellLTHVLdVE0X2JDU1pHbUoxandfWDdHRXIya1NpeTZ1ZDNwc3hQSk1FcEowbFBDcTBIYVdPNEFvNVExZXE5VTdRQzBjazlibXNPd0NHVmVadHdqV3hXZXRFN08zMG9wVXNEZnY0QzVaSnktbk9pZ19ZbzRvUzlNMFE?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 12:22:00 GMT",
+          "source": "Glasgow Live"
+        }
+      ]
+    },
+    {
+      "id": "89a755782664",
+      "title": "How next stage of upgrade works at Huddersfield station will affect train travel through Leeds - Yorkshire Evening Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXFGcURBRU56bExGYVdiNlYzb1FiUnhsUkV6TUViQjVsclg2cGRMOGFEMmNaallHNENHQnVkX3pWRmRCRzBNS19TdVJyY3BrQXNIcEJXLUY1SzJkSGtnZHdXdnRrTjNOVnFRb1BLblZqa1JTRWwyeWZNYmFvZVAtSnBGWEZBN3JBdkw3Z181UEdnYUg3V1BRWndfYTM2cVROOXZhSEs1ZGJXM0",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXFGcURBRU56bExGYVdiNlYzb1FiUnhsUkV6TUViQjVsclg2cGRMOGFEMmNaallHNENHQnVkX3pWRmRCRzBNS19TdVJyY3BrQXNIcEJXLUY1SzJkSGtnZHdXdnRrTjNOVnFRb1BLblZqa1JTRWwyeWZNYmFvZVAtSnBGWEZBN3JBdkw3Z181UEdnYUg3V1BRWndfYTM2cVROOXZhSEs1ZGJXM0hyVm9xZF9hN0xDUQ?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 03:30:00 GMT",
+          "source": "Yorkshire Evening Post"
+        }
+      ]
+    },
+    {
+      "id": "5c000eebca47",
+      "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn't helping - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNanp3WTRHQTJUVWo0bkV5TGRZMVF3UGU2bHhBQzg3WHlLVVI2WWNRbmc2Q18ydWVfNVNZQWxKZG5LUHF6NnBGSXNVdkREUVB6MmxpQU9IOTBfZlFJYTE1UEpQM0xGQ3FpeVZOX013Qm5wai16M1VHbHBhQ3JxU3ZGd1cwUFFSaXNLbHVYUWs5WDgtUEs3R0habXR1eWFsWmtJMnhUMnp1bUpWYj",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNanp3WTRHQTJUVWo0bkV5TGRZMVF3UGU2bHhBQzg3WHlLVVI2WWNRbmc2Q18ydWVfNVNZQWxKZG5LUHF6NnBGSXNVdkREUVB6MmxpQU9IOTBfZlFJYTE1UEpQM0xGQ3FpeVZOX013Qm5wai16M1VHbHBhQ3JxU3ZGd1cwUFFSaXNLbHVYUWs5WDgtUEs3R0habXR1eWFsWmtJMnhUMnp1bUpWYjJpUlhaNHcxeHdwUWpBSnkxMw?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 11:42:00 GMT",
           "source": "The Independent"
         }
       ]
@@ -171,14 +331,14 @@
       "title": "Northern Ireland tourism: Mixed picture for businesses - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kV3pFSmViS05GR054N3paV0hJd25TT2ZaSHI3amRaNDNIT3JwelpxbEpSVVMzWlVNYkdVZ19JOEhtM2dyNmtKa281SEp2aXk1ZmEtM05RSlBVN0U4?oc=5\" target=\"_blank\">Northern Ireland tourism: Mixed picture for businesses</a>&nbsp;&nbsp;<font color=\"",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kV3pFSmViS05GR054N3paV0hJd25TT2ZaSHI3amRaNDNIT3JwelpxbEpSVVMzWlVNYkdVZ19JOEhtM2dyNmtKa281SEp2aXk1ZmEtM05RSlBVN0U4?oc=5",
-      "score": 61.2,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
+      "first_seen": "2026-09-06T15:24:15+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 05:13:07 GMT",
@@ -187,170 +347,10 @@
       ]
     },
     {
-      "id": "ba9a3ce181a6",
-      "title": "The masses have discovered shoulder-season holidays – and prices are soaring - The Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDZ6dnFxVm54bWp3d09VeWNnV3hXU2dlNEkzaWNoTy1LMDdsM0VnT0pnLW5FNDFXaHZSdVFKWV82a3h3ejQ2UVRNVHdMVUVGc3QtMll1a3k4ZFhjUVJCR21YMnF3VmxwMzlOY3JXNnZpc0x3SnFwMW5XVmdUcmhWVEgzck9MWlE?oc=5\" target=\"_blank\">The masses have discover",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDZ6dnFxVm54bWp3d09VeWNnV3hXU2dlNEkzaWNoTy1LMDdsM0VnT0pnLW5FNDFXaHZSdVFKWV82a3h3ejQ2UVRNVHdMVUVGc3QtMll1a3k4ZFhjUVJCR21YMnF3VmxwMzlOY3JXNnZpc0x3SnFwMW5XVmdUcmhWVEgzck9MWlE?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 12:00:00 GMT",
-          "source": "The Telegraph"
-        }
-      ]
-    },
-    {
-      "id": "5b08831986ad",
-      "title": "Travel experts explain free Ryanair and easyJet tip for extra legroom - Liverpool Echo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2lDdnBESDdEenFpbHR0RHF0bHBYZGRuZUhuR0E0LW9qLXFpUW80dlFQTlFxdUhpT2liRHYydm5PZ2V1WUNlMmpjNHhsTEZqSlZsdmJkVnFOaFluVE5xdkpaWXN0MFNkMnZBWFgzUzZYZXEwZFdqMXhSdG1zcG1TUTRfTDJ5Mm5NNHln0gGQAUFVX3lxTE1UOEJUN3plY1MwN0lqa0pRM0pnUE",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2lDdnBESDdEenFpbHR0RHF0bHBYZGRuZUhuR0E0LW9qLXFpUW80dlFQTlFxdUhpT2liRHYydm5PZ2V1WUNlMmpjNHhsTEZqSlZsdmJkVnFOaFluVE5xdkpaWXN0MFNkMnZBWFgzUzZYZXEwZFdqMXhSdG1zcG1TUTRfTDJ5Mm5NNHln0gGQAUFVX3lxTE1UOEJUN3plY1MwN0lqa0pRM0pnUEJpVGFleHJMSDZHczNfWEsxZnRZTnVRY3REZHVuc0Z1LWZtazMzd2Z1VTVuUUpsS2dQeHh3THFsQmJBU2ZsWWxxZjBRV2R1NzlBTTFwbkE2WGRmdHJCMUdPekVNakJ4b2hPckgxdFEtM1dXRWNuVzFYQklLRQ?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 06 Sep 2026 05:07:00 GMT",
-          "source": "Liverpool Echo"
-        }
-      ]
-    },
-    {
-      "id": "89a755782664",
-      "title": "How next stage of upgrade works at Huddersfield station will affect train travel through Leeds - Yorkshire Evening Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXFGcURBRU56bExGYVdiNlYzb1FiUnhsUkV6TUViQjVsclg2cGRMOGFEMmNaallHNENHQnVkX3pWRmRCRzBNS19TdVJyY3BrQXNIcEJXLUY1SzJkSGtnZHdXdnRrTjNOVnFRb1BLblZqa1JTRWwyeWZNYmFvZVAtSnBGWEZBN3JBdkw3Z181UEdnYUg3V1BRWndfYTM2cVROOXZhSEs1ZGJXM0",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXFGcURBRU56bExGYVdiNlYzb1FiUnhsUkV6TUViQjVsclg2cGRMOGFEMmNaallHNENHQnVkX3pWRmRCRzBNS19TdVJyY3BrQXNIcEJXLUY1SzJkSGtnZHdXdnRrTjNOVnFRb1BLblZqa1JTRWwyeWZNYmFvZVAtSnBGWEZBN3JBdkw3Z181UEdnYUg3V1BRWndfYTM2cVROOXZhSEs1ZGJXM0hyVm9xZF9hN0xDUQ?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 06 Sep 2026 03:30:00 GMT",
-          "source": "Yorkshire Evening Post"
-        }
-      ]
-    },
-    {
-      "id": "fed5b88f7a91",
-      "title": "Isle of Wight road closures and travel updates this Sunday - countypress.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWm5fV01BNmJPU2dxVXJlRnJTSmFFNW12THM2Vi1GWm1rMWJrbTAxWDZIVmlFZmdjNmF5NTVNekNPSk8xcjZDZ0tIWG1hMzVkd1lCRl9lOG0xNTNZcUdTdUZsbkdLOTZqZDV3OXJScGZ0TFZCTGlScGZsSUtaSnFYRGk2N1RrbjZFSWNJNmFaVXp6TVhqSlE?oc=5\" target=\"_blank\">Isle",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWm5fV01BNmJPU2dxVXJlRnJTSmFFNW12THM2Vi1GWm1rMWJrbTAxWDZIVmlFZmdjNmF5NTVNekNPSk8xcjZDZ0tIWG1hMzVkd1lCRl9lOG0xNTNZcUdTdUZsbkdLOTZqZDV3OXJScGZ0TFZCTGlScGZsSUtaSnFYRGk2N1RrbjZFSWNJNmFaVXp6TVhqSlE?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 06 Sep 2026 06:55:52 GMT",
-          "source": "countypress.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "8488adf208c5",
-      "title": "\"Not a boom for everyone\": Devon tourism bosses reveal winner and loser spots of summer - Devon Live",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXpIWHVqdW5haXdBXzdHSGZrbGM5RnRaelMxOVVWeC1BcUk2QWlXNDBIMVdpNkJVSE1xVUJyY24zSV80cW1vUVAzRmZLU3pyN3lwMm9DOXFIR3E4M2lHNmRwTXhsOW9UR21pWm1TZ01YcXQtVWdpdVlwQW1kRHRxZkFaT2w3NWJwa2c?oc=5\" target=\"_blank\">\"Not a boom for ever",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXpIWHVqdW5haXdBXzdHSGZrbGM5RnRaelMxOVVWeC1BcUk2QWlXNDBIMVdpNkJVSE1xVUJyY24zSV80cW1vUVAzRmZLU3pyN3lwMm9DOXFIR3E4M2lHNmRwTXhsOW9UR21pWm1TZ01YcXQtVWdpdVlwQW1kRHRxZkFaT2w3NWJwa2c?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 06 Sep 2026 05:17:45 GMT",
-          "source": "Devon Live"
-        }
-      ]
-    },
-    {
-      "id": "c89bd7cbf959",
-      "title": "Want to Spend the Holidays at Your Favorite 5-Star? Be Prepared to Stay There Two Weeks. - Robb Report",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2lXcDY5TUZsdmJxVklIOXJQVlR2TmtNWmk4WkVTOEVvOVJmTk5aSlJ4ZkZvR3lBREE4QktUaG1mOVpmd3cxeXJjN2VZWkY3ZGtrZDZWdGp3M1NEWDRja2ZFSXRidTA5TUk1Z2JXLTJoWGlHcmotLWdEVkRkYjJUdlQzMTNSMHFfeHpRZThKYVl0aDg?oc=5\" target=\"_blank\">Want to ",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2lXcDY5TUZsdmJxVklIOXJQVlR2TmtNWmk4WkVTOEVvOVJmTk5aSlJ4ZkZvR3lBREE4QktUaG1mOVpmd3cxeXJjN2VZWkY3ZGtrZDZWdGp3M1NEWDRja2ZFSXRidTA5TUk1Z2JXLTJoWGlHcmotLWdEVkRkYjJUdlQzMTNSMHFfeHpRZThKYVl0aDg?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 05 Sep 2026 19:00:00 GMT",
-          "source": "Robb Report"
-        }
-      ]
-    },
-    {
-      "id": "7dd9f2a49141",
-      "title": "Tourist complaints in Korea hit record high amid travel boom - koreatimes.co.kr",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpWNkk1ZGV4bmxiTlFlWGVqTE9WaTVYNVUxcjU1V0t4WGpoUlR0eDJaMWZWWUVBOWxoX0N2RXEtb2NnSE9xMHlJS3ZzenJIb29nWTk2VTduVzZpT2dLVVA4cXprTHBxZGljTWRsLXBmVE16M0dOdGxYaWJsM1JleUpUYzBPWUNyemJxQ25jdkRvU1lFc2otNmxvZHFITWVIMV91UGc4aWI2Wn",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpWNkk1ZGV4bmxiTlFlWGVqTE9WaTVYNVUxcjU1V0t4WGpoUlR0eDJaMWZWWUVBOWxoX0N2RXEtb2NnSE9xMHlJS3ZzenJIb29nWTk2VTduVzZpT2dLVVA4cXprTHBxZGljTWRsLXBmVE16M0dOdGxYaWJsM1JleUpUYzBPWUNyemJxQ25jdkRvU1lFc2otNmxvZHFITWVIMV91UGc4aWI2Wnk0b3fSAbMBQVVfeXFMUFdCNGlPTUg4RGNTYWZuelp0T3VIcFlqQ1M2VTJDdnVFQy1WcXZiLWxzRHd1by14VHg3ZHNrbVpaNFQzSDRiVXFGVFdPcXp0LTFsb3lnR2p6QTlHc2tnSEJKcU9uS2w0MlQ2UEpxR0lydkZ1aXVoamxGVFRQLURkWXF6OWhPNWlpRkNmMzRQSjllc0Y3c0tMdWF2RXVSR1FZMWNibzNFaFg5Yk81bGU0cWMtdlE?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 06 Sep 2026 01:53:03 GMT",
-          "source": "koreatimes.co.kr"
-        }
-      ]
-    },
-    {
-      "id": "fdf00150dd0b",
-      "title": "Dear Annie: The smart way to splurge on travel - dailyrepublic.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOUFdkQWlyb3U0YnVWVE1zSFZqUnJHWUNmTUZWRGNRMFF4TWdUcEMxejdnNnpxMTZRYWVteC1FMVU0NkMtS2dQWXBHdjkwVTItWG1XTWxRa1RwWDgyT2YwUzd0VDNYTlFpYTJmUktmNTlCNGhGRW5VS3lVR0otS2RieU1JbllWcTU5NWdlUnZvVlRPUmxWb3o2VXg5d1owQld2SzRqYjYyTV9QOF",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUFdkQWlyb3U0YnVWVE1zSFZqUnJHWUNmTUZWRGNRMFF4TWdUcEMxejdnNnpxMTZRYWVteC1FMVU0NkMtS2dQWXBHdjkwVTItWG1XTWxRa1RwWDgyT2YwUzd0VDNYTlFpYTJmUktmNTlCNGhGRW5VS3lVR0otS2RieU1JbllWcTU5NWdlUnZvVlRPUmxWb3o2VXg5d1owQld2SzRqYjYyTV9QOFRSd0VETXRhNU9SRy1EQzNNMVZWa05VcVd1VmUwQ3hlLXZVQ0x0LVp1cWI5SkhmLXU0Y0N0Z0R0OTl3Y0Nxd0RSSTRSaktxaGJZcWktdXFWbVNrc3J2?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 06 Sep 2026 08:00:00 GMT",
-          "source": "dailyrepublic.com"
-        }
-      ]
-    },
-    {
-      "id": "3941e34a1306",
-      "title": "Passport for a newborn: Birth tourism is reshaping Russian emigration - Euronews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQdnl2ZW5SbDBhcWl2TzFKUTdxRVM4Y2VBSTJGS1QtTjBCRWVQM203UXV0YndHYVh2WVRCTzFBMFloNkFsdXA4NXVaYXB5QkJoWXZPU01oOWoxWjRqbG54LUJNNFVWdThxZzhTWHRxRTZLR2JpTEh6TnBzNmVhT01EZjVON0lZUGlJdXVhTWJPMy1oc2xvZ1o1OHVUMnR4amF2QVA5Yk5qMkFsSm",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdnl2ZW5SbDBhcWl2TzFKUTdxRVM4Y2VBSTJGS1QtTjBCRWVQM203UXV0YndHYVh2WVRCTzFBMFloNkFsdXA4NXVaYXB5QkJoWXZPU01oOWoxWjRqbG54LUJNNFVWdThxZzhTWHRxRTZLR2JpTEh6TnBzNmVhT01EZjVON0lZUGlJdXVhTWJPMy1oc2xvZ1o1OHVUMnR4amF2QVA5Yk5qMkFsSmd6cWhYWUpEdFZUVlE?oc=5",
+      "id": "904b954db205",
+      "title": "The best restaurants and bars in Sölden - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1NsNm5BQ3FKN0tuaVNoZENaS2tpdEptUzFXTko5YWpPQ09kdHNKNzI2a1g5YnZYOWNvZ3JrSlAxUzNfVWREWlA0ZTRJZlRLU2JsYXVjQS1XTWFkUi1jWnVLaXJtYUMtbEd5dDJzSUI3aGxxWHVWODZ1TnotTlp0RmdLM1lXcjBp?oc=5\" target=\"_blank\">The best restaurants an",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1NsNm5BQ3FKN0tuaVNoZENaS2tpdEptUzFXTko5YWpPQ09kdHNKNzI2a1g5YnZYOWNvZ3JrSlAxUzNfVWREWlA0ZTRJZlRLU2JsYXVjQS1XTWFkUi1jWnVLaXJtYUMtbEd5dDJzSUI3aGxxWHVWODZ1TnotTlp0RmdLM1lXcjBp?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,31 +358,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
+      "first_seen": "2026-09-06T15:24:15+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 15:05:53 GMT",
-          "source": "Euronews.com"
-        }
-      ]
-    },
-    {
-      "id": "ed7b370f2116",
-      "title": "Travel warning over city road closure for works - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jeUExVXZGUk9NYXRXZmQxTHFZVVVCNjNTT0ludEpuLWlXMXNmWmZCRm9mQ1l4NDZBRTNETVYwNl9zdTlSbkd5aTFMS0dhdENRb2xheG0yUkRCVmtD?oc=5\" target=\"_blank\">Travel warning over city road closure for works</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jeUExVXZGUk9NYXRXZmQxTHFZVVVCNjNTT0ludEpuLWlXMXNmWmZCRm9mQ1l4NDZBRTNETVYwNl9zdTlSbkd5aTFMS0dhdENRb2xheG0yUkRCVmtD?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 05 Sep 2026 14:03:31 GMT",
-          "source": "BBC"
+          "published": "Sun, 06 Sep 2026 15:00:00 GMT",
+          "source": "The Telegraph"
         }
       ]
     },
@@ -391,6 +371,26 @@
       "title": "Ticketless train travel trial extended by East Midlands Railway - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRVVuVEw2ejZsRjVpX0ZXZ0VHdDRzSC1sNk93OTc3WGlscVk3cmdETkJ4YmZpa0pVRHlUYjRmVW83Y0ZuRUxabTM2T1RPQVU4ZDFqazR4Ym5Bb2pB?oc=5\" target=\"_blank\">Ticketless train travel trial extended by East Midlands Railway</a>&nbsp;&nbsp;<fon",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRVVuVEw2ejZsRjVpX0ZXZ0VHdDRzSC1sNk93OTc3WGlscVk3cmdETkJ4YmZpa0pVRHlUYjRmVW83Y0ZuRUxabTM2T1RPQVU4ZDFqazR4Ym5Bb2pB?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-06T15:24:15+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 04 Sep 2026 15:01:03 GMT",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "59ead586044f",
+      "title": "Brits warned to avoid all travel to parts of Indonesia after volcanic eruption - The Northern Echo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHdTN0x0SzV5SnN6T0hETzdzdExmb09PT2xkbFJxenF4R2VWbXdBbTN6eW5BUGltS21xS2Rwc053Qm9WcTZ3WXBQR3l4VThLODhLNGJxeU1MS3Q1RzRxa0g0U2tPcUpQNGMtSmlCUk1yWVhzSWcybnJmdGNLUy1WaHE3dDAxWnhYN0xYZm1xdmktQzFrMlBEOTliOVY3VFE?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHdTN0x0SzV5SnN6T0hETzdzdExmb09PT2xkbFJxenF4R2VWbXdBbTN6eW5BUGltS21xS2Rwc053Qm9WcTZ3WXBQR3l4VThLODhLNGJxeU1MS3Q1RzRxa0g0U2tPcUpQNGMtSmlCUk1yWVhzSWcybnJmdGNLUy1WaHE3dDAxWnhYN0xYZm1xdmktQzFrMlBEOTliOVY3VFE?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-06T10:49:46+00:00",
+      "first_seen": "2026-09-06T15:24:15+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 15:01:03 GMT",
-          "source": "BBC"
+          "published": "Sun, 06 Sep 2026 13:14:26 GMT",
+          "source": "The Northern Echo"
         }
       ]
     }

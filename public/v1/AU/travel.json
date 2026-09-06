@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "AU",
-  "generated_at": "2026-09-06T10:58:43+00:00",
+  "generated_at": "2026-09-06T15:33:04+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
       "id": "1ea6ac371464",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
           "published": "Sun, 06 Sep 2026 05:08:31 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "1fbc52234e71",
-      "title": "Noosa invite to join Tourism Week - Noosa Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTluY0RWWVR6cGxFYTZFYlR0M0hJQU5vNXFTb1dUSlE0UUc4NWx3cHhUZy1abHl2U0tyQUhPZ3U5NUNLOXFWb0tGQVdhQlRIcTdzVlNRTW5xcUEyeGlBNV8xX2tUOTVBUzNtVGRMQUVwZDhzakxvbG80cXlSamRsa2hB?oc=5\" target=\"_blank\">Noosa invite to join Tourism We",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTluY0RWWVR6cGxFYTZFYlR0M0hJQU5vNXFTb1dUSlE0UUc4NWx3cHhUZy1abHl2U0tyQUhPZ3U5NUNLOXFWb0tGQVdhQlRIcTdzVlNRTW5xcUEyeGlBNV8xX2tUOTVBUzNtVGRMQUVwZDhzakxvbG80cXlSamRsa2hB?oc=5",
+      "id": "fdb75bf882a9",
+      "title": "How Australia hopes to help the nation that's accused China of 'weaponising tourism' - SBS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTNuTlpDUGI2dGFMVXp3czZYTmtBaUhSR1B6TFRSYzdoZENoX1djdWdoYVNrUG5CY1pxSjJZM3ZDVHVsdVFPbWxOU1E0V3hYLWtUNDFsSGhPd29mUTJZRm1vWjhQdFFzOG51dE5IOWdkcjk5ZDNIcFduS05SSHRDMWJqNW5lQkMzSVBvRHYwQXNpTkY5Y3plMFgtVC1XTkpSZkRmSk44Q2JXVV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTNuTlpDUGI2dGFMVXp3czZYTmtBaUhSR1B6TFRSYzdoZENoX1djdWdoYVNrUG5CY1pxSjJZM3ZDVHVsdVFPbWxOU1E0V3hYLWtUNDFsSGhPd29mUTJZRm1vWjhQdFFzOG51dE5IOWdkcjk5ZDNIcFduS05SSHRDMWJqNW5lQkMzSVBvRHYwQXNpTkY5Y3plMFgtVC1XTkpSZkRmSk44Q2JXVVJNVk5PQW5qOHViYnI1YlE?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,11 +38,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 04:47:24 GMT",
+          "source": "SBS"
+        }
+      ]
+    },
+    {
+      "id": "ae992f7af385",
+      "title": "Noosa invite to join Tourism Week - noosatoday.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTluY0RWWVR6cGxFYTZFYlR0M0hJQU5vNXFTb1dUSlE0UUc4NWx3cHhUZy1abHl2U0tyQUhPZ3U5NUNLOXFWb0tGQVdhQlRIcTdzVlNRTW5xcUEyeGlBNV8xX2tUOTVBUzNtVGRMQUVwZDhzakxvbG80cXlSamRsa2hB?oc=5\" target=\"_blank\">Noosa invite to join Tourism We",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTluY0RWWVR6cGxFYTZFYlR0M0hJQU5vNXFTb1dUSlE0UUc4NWx3cHhUZy1abHl2U0tyQUhPZ3U5NUNLOXFWb0tGQVdhQlRIcTdzVlNRTW5xcUEyeGlBNV8xX2tUOTVBUzNtVGRMQUVwZDhzakxvbG80cXlSamRsa2hB?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
           "published": "Sun, 06 Sep 2026 03:01:39 GMT",
-          "source": "Noosa Today"
+          "source": "noosatoday.com.au"
         }
       ]
     },
@@ -51,17 +71,17 @@
       "title": "This clever travel trend offers better value and far richer local experiences - The Canberra Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVpheU1qREhQS1dYNWVtbkltMm9jSWhIRmF3UFNWSFRLZmhTcHdQTTMzMUJveUVwa0tBMDI2QWZsQnNxcjRrczlwbk9nOW5xOFczSEVsQXBxN0hVNDFPZC1SY1VoYktQRGY2eE5wWGtzdFhsTlpybHNHcWs3US1GZlBESkFFTzUtbnNQdU9LWmt1ZG54S1NOakU5WTdfUXdyYzZHSnRnTlQ?oc",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVpheU1qREhQS1dYNWVtbkltMm9jSWhIRmF3UFNWSFRLZmhTcHdQTTMzMUJveUVwa0tBMDI2QWZsQnNxcjRrczlwbk9nOW5xOFczSEVsQXBxN0hVNDFPZC1SY1VoYktQRGY2eE5wWGtzdFhsTlpybHNHcWs3US1GZlBESkFFTzUtbnNQdU9LWmt1ZG54S1NOakU5WTdfUXdyYzZHSnRnTlQ?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 06 Sep 2026 07:01:08 GMT",
+          "published": "Sun, 06 Sep 2026 07:02:23 GMT",
           "source": "The Canberra Times"
         }
       ]
@@ -71,14 +91,14 @@
       "title": "Australians offered $500 incentive to ‘take the road less travelled’ - Nine.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLUJubFdSQl85UGEtRmR6cGRiZkpUNW4wYkZ0MWFBQkpvNWltdElpX19KVkFYRlpMb2lobkFXZlhEWHRXWUltZEVSQ0NpSTNmZmlQRS1vTVRzdzZ2LVM2OHZVMkRjNzNLbXpSMEF5SDVBRENaZDFQc1Q3bmJ2dk9ZajFtbFRNd05EVkNyZ0ZITF90NklFaUxidGhYNUpzSWN6c2pWM2F0WVZsOH",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLUJubFdSQl85UGEtRmR6cGRiZkpUNW4wYkZ0MWFBQkpvNWltdElpX19KVkFYRlpMb2lobkFXZlhEWHRXWUltZEVSQ0NpSTNmZmlQRS1vTVRzdzZ2LVM2OHZVMkRjNzNLbXpSMEF5SDVBRENaZDFQc1Q3bmJ2dk9ZajFtbFRNd05EVkNyZ0ZITF90NklFaUxidGhYNUpzSWN6c2pWM2F0WVZsOHpSemd3MzhSOEl5YjJ6QVd2MXI0Z0hxOHh3VkUwY0ljdWdFS2lmVTBhelhkZDl6VXZRVU5FNm5sVHd4dGxxYjgtTXRzN1pVZw?oc=5",
-      "score": 79.2,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
           "published": "Sat, 05 Sep 2026 21:35:20 GMT",
@@ -87,30 +107,10 @@
       ]
     },
     {
-      "id": "e6f5f6d748c0",
-      "title": "The unexpected way China is accused of exerting influence in the Pacific - SBS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTNuTlpDUGI2dGFMVXp3czZYTmtBaUhSR1B6TFRSYzdoZENoX1djdWdoYVNrUG5CY1pxSjJZM3ZDVHVsdVFPbWxOU1E0V3hYLWtUNDFsSGhPd29mUTJZRm1vWjhQdFFzOG51dE5IOWdkcjk5ZDNIcFduS05SSHRDMWJqNW5lQkMzSVBvRHYwQXNpTkY5Y3plMFgtVC1XTkpSZkRmSk44Q2JXVV",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTNuTlpDUGI2dGFMVXp3czZYTmtBaUhSR1B6TFRSYzdoZENoX1djdWdoYVNrUG5CY1pxSjJZM3ZDVHVsdVFPbWxOU1E0V3hYLWtUNDFsSGhPd29mUTJZRm1vWjhQdFFzOG51dE5IOWdkcjk5ZDNIcFduS05SSHRDMWJqNW5lQkMzSVBvRHYwQXNpTkY5Y3plMFgtVC1XTkpSZkRmSk44Q2JXVVJNVk5PQW5qOHViYnI1YlE?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 06 Sep 2026 04:47:24 GMT",
-          "source": "SBS"
-        }
-      ]
-    },
-    {
-      "id": "85227b5a3921",
-      "title": "Corporate Travel poised for ASX return after filing annual results - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHZKbDNZbnRsajZCOG5iYnktUWYxVzgwb1lEbHVQb2pGRzFUZkxhUGNsSkxJTGJkV1BQSUI5ZnkwYjg4WThHVU1hWGVKYi1wNThVNWpmRWNoQXhjdThXUFpSZXBaaDlWczVRTUtBbFZHX2RWQ2ZDQTFUbkRJUkZmem81UFFnRWRGeTZ3dzhqMHpBdmh0TFloNVpXdld3aDlBa2JjRTdaVjNZND",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHZKbDNZbnRsajZCOG5iYnktUWYxVzgwb1lEbHVQb2pGRzFUZkxhUGNsSkxJTGJkV1BQSUI5ZnkwYjg4WThHVU1hWGVKYi1wNThVNWpmRWNoQXhjdThXUFpSZXBaaDlWczVRTUtBbFZHX2RWQ2ZDQTFUbkRJUkZmem81UFFnRWRGeTZ3dzhqMHpBdmh0TFloNVpXdld3aDlBa2JjRTdaVjNZNDdCVzhiQVpqT1FHbWlUN3F2MEtMRFBJUkE?oc=5",
+      "id": "fbcc2420bdb6",
+      "title": "Banks pull travel insurance deals on major credit cards as Aussies urged to do a review - Yahoo Finance Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUREYXJocFJrNzAwQWVDZWJWWTFnUnJKVXQ0VnE4OG41VGM2Ri1UVDBUYlFBZ3FaZGtXbDBncmtZSHlJbTJFMnNSVW5yV09lZ0U0TGk5eVI2cHhGWFlxQ1o1NlowRklpYUJBSFM2Y0tLakM2OUpDWndTdVNOOWd4M0tuenctSHlnTnhncUZkeUxKbndDQjVSWVpyZy1MSGFRTXRFdjlPZkxZej",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUREYXJocFJrNzAwQWVDZWJWWTFnUnJKVXQ0VnE4OG41VGM2Ri1UVDBUYlFBZ3FaZGtXbDBncmtZSHlJbTJFMnNSVW5yV09lZ0U0TGk5eVI2cHhGWFlxQ1o1NlowRklpYUJBSFM2Y0tLakM2OUpDWndTdVNOOWd4M0tuenctSHlnTnhncUZkeUxKbndDQjVSWVpyZy1MSGFRTXRFdjlPZkxZejRDbXhjeXlldl8wSW5tZ0JFUzFQMVJvUTdyWENiV3c2WFJ5R2ZRMHc?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,47 +118,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 02 Sep 2026 01:43:00 GMT",
-          "source": "AFR"
-        }
-      ]
-    },
-    {
-      "id": "782562e51f63",
-      "title": "I try to visit new destinations, but I like my old favourites better - SMH.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUN2bW92YTEyUEptWlVyMzcwX3FVQXVhUDhZV2FWMjNYQjNOcm5hemVORllQN1BsSmE3VkhGbFAxVjRYYUxzT2trYXRQZmhhUGc1bU5sNHpocDdJclJtM0JiSDV5cmRuTkdMMjEwNmFyREFQZV9hU3VGLUJ1N2oyNFI3aFZVczJEd0ExdFY2cUhwbTdSdzNwQVQ2Y3ZxVjFDd0FsaER2b0hsdX",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUN2bW92YTEyUEptWlVyMzcwX3FVQXVhUDhZV2FWMjNYQjNOcm5hemVORllQN1BsSmE3VkhGbFAxVjRYYUxzT2trYXRQZmhhUGc1bU5sNHpocDdJclJtM0JiSDV5cmRuTkdMMjEwNmFyREFQZV9hU3VGLUJ1N2oyNFI3aFZVczJEd0ExdFY2cUhwbTdSdzNwQVQ2Y3ZxVjFDd0FsaER2b0hsdXo0aGdMa1ZpTDRiVi1YWmV5WmVKbWpNSDEwUHk5LXRLRGNrR2U3OEdlTjlCWQ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 03 Sep 2026 19:00:00 GMT",
-          "source": "SMH.com.au"
-        }
-      ]
-    },
-    {
-      "id": "fbcc2420bdb6",
-      "title": "Banks pull travel insurance deals on major credit cards as Aussies urged to do a review - Yahoo Finance Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUREYXJocFJrNzAwQWVDZWJWWTFnUnJKVXQ0VnE4OG41VGM2Ri1UVDBUYlFBZ3FaZGtXbDBncmtZSHlJbTJFMnNSVW5yV09lZ0U0TGk5eVI2cHhGWFlxQ1o1NlowRklpYUJBSFM2Y0tLakM2OUpDWndTdVNOOWd4M0tuenctSHlnTnhncUZkeUxKbndDQjVSWVpyZy1MSGFRTXRFdjlPZkxZej",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUREYXJocFJrNzAwQWVDZWJWWTFnUnJKVXQ0VnE4OG41VGM2Ri1UVDBUYlFBZ3FaZGtXbDBncmtZSHlJbTJFMnNSVW5yV09lZ0U0TGk5eVI2cHhGWFlxQ1o1NlowRklpYUJBSFM2Y0tLakM2OUpDWndTdVNOOWd4M0tuenctSHlnTnhncUZkeUxKbndDQjVSWVpyZy1MSGFRTXRFdjlPZkxZejRDbXhjeXlldl8wSW5tZ0JFUzFQMVJvUTdyWENiV3c2WFJ5R2ZRMHc?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
           "published": "Sun, 06 Sep 2026 06:00:00 GMT",
@@ -167,10 +127,50 @@
       ]
     },
     {
-      "id": "37fb8f4c124f",
-      "title": "The world has 328 cruise ships and none want to come to Australia - The Australian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZU1tU091ZTNxSWxQTGduQm4xb1EtLUhpMEJocndzM2E2RVBiUHdlem9jUk1peVkwVzJWMnh2eG15bzFVRVBrZGY3X29FSUJWeFdtXzlSb1htZFNjMlc5TnkwUks5Y1JCaTAxX1NYVGVDWW43b0Y3VzFKdU9NejNJNG1ZRmxMM1lFMGItRDBGVTlIQ1ZYYWxPWG1rdGdQQTlEcUs5N1FoNkZNTT",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZU1tU091ZTNxSWxQTGduQm4xb1EtLUhpMEJocndzM2E2RVBiUHdlem9jUk1peVkwVzJWMnh2eG15bzFVRVBrZGY3X29FSUJWeFdtXzlSb1htZFNjMlc5TnkwUks5Y1JCaTAxX1NYVGVDWW43b0Y3VzFKdU9NejNJNG1ZRmxMM1lFMGItRDBGVTlIQ1ZYYWxPWG1rdGdQQTlEcUs5N1FoNkZNTThoUU91ZHJMcnpoU2pFTDJuUV85RmlCQzVNOGgyOUZTZGNyOHZPWXZacVFZalBVMWVNWC03X0cxYlhvNjZwa25TTlpLblNYeGfSAfgBQVVfeXFMTUw2QU4tSm4tb2pybDRiWjdZem1fYU1ESUlYM1ZEZGVyQ2t3alZFaDhCbkZaM0pvbW9mekVJdktaUFZtUDd4UWVWcVZTYlAzeE80eXRvaFhVa0xzWUhaXy1RVHc2c3NpTzBMMTB0MFBuWXhwRjM5T1B1YXZPdjlCSmgtdW1pRzMzWjhaUkNBM3c0RmJFMF9KNjJ0YmxlYnRWWHdhX1BPN29KS01HOGc5dm4zeVB6dDVINERBMndfY0V3akwtU2VYTUJrejdtNFV2RHY1QTNZbU5YTnhOTEVtUlJaRjJHaWZXNUlIOHFXbkxNMlJ5S2FSTU0?oc=5",
+      "id": "dc27d03c7edb",
+      "title": "Corporate Travel pitches reset after shares crash 80pc on ASX return - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWndic2V1dkM3UG9OYWZ5ZXBjVThOdEtQOVRaZ0JsV2c4Wm11MFdlblBCbkZoSUc1a2hfUjBPWHRIWVRVSzNQdzhiTUcySVBCVVgybUhWRGJQSUlWSERRVFdVeFJwdUtGcFZXM2JiUGhCME1rc0oyV1l4T21YUzdHOUVhYXMzSlEyZk1hZkM1WXhsUnR4TFctWVk5Zm4ydWd5T2gtSm1HdkxWYn",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWndic2V1dkM3UG9OYWZ5ZXBjVThOdEtQOVRaZ0JsV2c4Wm11MFdlblBCbkZoSUc1a2hfUjBPWHRIWVRVSzNQdzhiTUcySVBCVVgybUhWRGJQSUlWSERRVFdVeFJwdUtGcFZXM2JiUGhCME1rc0oyV1l4T21YUzdHOUVhYXMzSlEyZk1hZkM1WXhsUnR4TFctWVk5Zm4ydWd5T2gtSm1HdkxWYnQ3MFdNckU5UGFhRE1peGNPTUhqZE9GeDhN?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-06T15:24:17+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 03 Sep 2026 07:26:00 GMT",
+          "source": "AFR"
+        }
+      ]
+    },
+    {
+      "id": "782562e51f63",
+      "title": "I try to visit new destinations, but I like my old favourites better - smh.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUN2bW92YTEyUEptWlVyMzcwX3FVQXVhUDhZV2FWMjNYQjNOcm5hemVORllQN1BsSmE3VkhGbFAxVjRYYUxzT2trYXRQZmhhUGc1bU5sNHpocDdJclJtM0JiSDV5cmRuTkdMMjEwNmFyREFQZV9hU3VGLUJ1N2oyNFI3aFZVczJEd0ExdFY2cUhwbTdSdzNwQVQ2Y3ZxVjFDd0FsaER2b0hsdX",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUN2bW92YTEyUEptWlVyMzcwX3FVQXVhUDhZV2FWMjNYQjNOcm5hemVORllQN1BsSmE3VkhGbFAxVjRYYUxzT2trYXRQZmhhUGc1bU5sNHpocDdJclJtM0JiSDV5cmRuTkdMMjEwNmFyREFQZV9hU3VGLUJ1N2oyNFI3aFZVczJEd0ExdFY2cUhwbTdSdzNwQVQ2Y3ZxVjFDd0FsaER2b0hsdXo0aGdMa1ZpTDRiVi1YWmV5WmVKbWpNSDEwUHk5LXRLRGNrR2U3OEdlTjlCWQ?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-06T15:24:17+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 03 Sep 2026 19:00:00 GMT",
+          "source": "smh.com.au"
+        }
+      ]
+    },
+    {
+      "id": "3c6fb52cfb0d",
+      "title": "28 destinations that are even better in the off-season | Travel Insider - Qantas",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQW1ERzJpRVdTZ2k2STZfS0F5SHlvdGFLbTFOc3F1NWl4dXZSTWg4eEtlZzR5SnUzN3ZVZTltczhMVmNkcUNOU2VVYWJpSE9BLUNPWnZMMDFfcmNjd0wwODkycXpnbjdIZEtVVlpkRnhMV3cxc3NLZU9oMXFjamhVMmZycjd3SE1mQjEtVjFLTnRTcjdLSkVF?oc=5\" target=\"_blank\">28 ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQW1ERzJpRVdTZ2k2STZfS0F5SHlvdGFLbTFOc3F1NWl4dXZSTWg4eEtlZzR5SnUzN3ZVZTltczhMVmNkcUNOU2VVYWJpSE9BLUNPWnZMMDFfcmNjd0wwODkycXpnbjdIZEtVVlpkRnhMV3cxc3NLZU9oMXFjamhVMmZycjd3SE1mQjEtVjFLTnRTcjdLSkVF?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,10 +178,50 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 06 Sep 2026 07:09:59 GMT",
+          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+          "source": "Qantas"
+        }
+      ]
+    },
+    {
+      "id": "1326ad9d2fd2",
+      "title": "He wasn’t cut out for space travel. He explored Antarctica instead. - The Japan Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVFiNUh3LTU3VF9uWjdXbGdSbnAtVTdzRE5OZXE3VVVOTjZNdWJCdW5EX2FYZ3h5MlF3R2xRTDlQS2JTekxWZWdlcG1LTUNSVmtfMThNNDVMeWdJcEh1UkxTQUVNVWdpdFAydHNMeXk4UzN1WUhjc2phNHB4akR5VTlPZUxseUZPQi1HNzFMb19FYlRzNHdsT1RMYzFJckJzLVljV3Y5UQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVFiNUh3LTU3VF9uWjdXbGdSbnAtVTdzRE5OZXE3VVVOTjZNdWJCdW5EX2FYZ3h5MlF3R2xRTDlQS2JTekxWZWdlcG1LTUNSVmtfMThNNDVMeWdJcEh1UkxTQUVNVWdpdFAydHNMeXk4UzN1WUhjc2phNHB4akR5VTlPZUxseUZPQi1HNzFMb19FYlRzNHdsT1RMYzFJckJzLVljV3Y5UQ?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-06T15:24:17+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 08:00:00 GMT",
+          "source": "The Japan Times"
+        }
+      ]
+    },
+    {
+      "id": "37fb8f4c124f",
+      "title": "The world has 328 cruise ships and none want to come to Australia - The Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZU1tU091ZTNxSWxQTGduQm4xb1EtLUhpMEJocndzM2E2RVBiUHdlem9jUk1peVkwVzJWMnh2eG15bzFVRVBrZGY3X29FSUJWeFdtXzlSb1htZFNjMlc5TnkwUks5Y1JCaTAxX1NYVGVDWW43b0Y3VzFKdU9NejNJNG1ZRmxMM1lFMGItRDBGVTlIQ1ZYYWxPWG1rdGdQQTlEcUs5N1FoNkZNTT",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZU1tU091ZTNxSWxQTGduQm4xb1EtLUhpMEJocndzM2E2RVBiUHdlem9jUk1peVkwVzJWMnh2eG15bzFVRVBrZGY3X29FSUJWeFdtXzlSb1htZFNjMlc5TnkwUks5Y1JCaTAxX1NYVGVDWW43b0Y3VzFKdU9NejNJNG1ZRmxMM1lFMGItRDBGVTlIQ1ZYYWxPWG1rdGdQQTlEcUs5N1FoNkZNTThoUU91ZHJMcnpoU2pFTDJuUV85RmlCQzVNOGgyOUZTZGNyOHZPWXZacVFZalBVMWVNWC03X0cxYlhvNjZwa25TTlpLblNYeGfSAfgBQVVfeXFMTUw2QU4tSm4tb2pybDRiWjdZem1fYU1ESUlYM1ZEZGVyQ2t3alZFaDhCbkZaM0pvbW9mekVJdktaUFZtUDd4UWVWcVZTYlAzeE80eXRvaFhVa0xzWUhaXy1RVHc2c3NpTzBMMTB0MFBuWXhwRjM5T1B1YXZPdjlCSmgtdW1pRzMzWjhaUkNBM3c0RmJFMF9KNjJ0YmxlYnRWWHdhX1BPN29KS01HOGc5dm4zeVB6dDVINERBMndfY0V3akwtU2VYTUJrejdtNFV2RHY1QTNZbU5YTnhOTEVtUlJaRjJHaWZXNUlIOHFXbkxNMlJ5S2FSTU0?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-06T15:24:17+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 06 Sep 2026 06:11:58 GMT",
           "source": "The Australian"
         }
       ]
@@ -191,14 +231,14 @@
       "title": "'This Maldives hack makes getting there faster (and more achievable) for a girls trip.' - Mamamia",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB1djFWZ2ljUm5SbXdnTFo2QlZ3TGV3RjRIZjRBbjc2WkVjVEN3ZjJlOE9FSk1hQUhlU3QxMTlxTnNXMDVHdlZ3Vm9PSjBjUEJRWW1kNHoxblVWLVJxSHZPVk5qbXRVaEhBWUE?oc=5\" target=\"_blank\">'This Maldives hack makes getting there faster (and more achieva",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1djFWZ2ljUm5SbXdnTFo2QlZ3TGV3RjRIZjRBbjc2WkVjVEN3ZjJlOE9FSk1hQUhlU3QxMTlxTnNXMDVHdlZ3Vm9PSjBjUEJRWW1kNHoxblVWLVJxSHZPVk5qbXRVaEhBWUE?oc=5",
-      "score": 57.6,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
           "published": "Sat, 05 Sep 2026 23:20:44 GMT",
@@ -207,38 +247,18 @@
       ]
     },
     {
-      "id": "3c6fb52cfb0d",
-      "title": "28 destinations that are even better in the off-season | Travel Insider - Qantas",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQW1ERzJpRVdTZ2k2STZfS0F5SHlvdGFLbTFOc3F1NWl4dXZSTWg4eEtlZzR5SnUzN3ZVZTltczhMVmNkcUNOU2VVYWJpSE9BLUNPWnZMMDFfcmNjd0wwODkycXpnbjdIZEtVVlpkRnhMV3cxc3NLZU9oMXFjamhVMmZycjd3SE1mQjEtVjFLTnRTcjdLSkVF?oc=5\" target=\"_blank\">28 ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQW1ERzJpRVdTZ2k2STZfS0F5SHlvdGFLbTFOc3F1NWl4dXZSTWg4eEtlZzR5SnUzN3ZVZTltczhMVmNkcUNOU2VVYWJpSE9BLUNPWnZMMDFfcmNjd0wwODkycXpnbjdIZEtVVlpkRnhMV3cxc3NLZU9oMXFjamhVMmZycjd3SE1mQjEtVjFLTnRTcjdLSkVF?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "source": "Qantas"
-        }
-      ]
-    },
-    {
       "id": "6a8b7fd218da",
       "title": "How the 49ers, NFL made 'seamless' travel plan to Australia - ESPN",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3hyOEVoWThybWd5UGJUU0lySkhuRWk0TUdVa2c0dDdhTTV5VkExXzdKMjJJRk5jc1RpUlNSRC1iNFAxSE5VTWh2cV8wV0hmWTg2OXhCcUJKQ2FucGVqX25VU0pkeUoyazhkWHRmdTRueUZZMXNWU2ZzVmMxMmlWUmpfY0NUUWFPUzhjeVpkZGhzQW1sYjV5emFUemJuVGtOLWhRbDN0Smtkd3",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3hyOEVoWThybWd5UGJUU0lySkhuRWk0TUdVa2c0dDdhTTV5VkExXzdKMjJJRk5jc1RpUlNSRC1iNFAxSE5VTWh2cV8wV0hmWTg2OXhCcUJKQ2FucGVqX25VU0pkeUoyazhkWHRmdTRueUZZMXNWU2ZzVmMxMmlWUmpfY0NUUWFPUzhjeVpkZGhzQW1sYjV5emFUemJuVGtOLWhRbDN0Smtkd3dkTzhaQWM3c1RnVms?oc=5",
-      "score": 50.4,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
           "published": "Thu, 03 Sep 2026 22:12:59 GMT",
@@ -247,26 +267,22 @@
       ]
     },
     {
-      "id": "e959e302667d",
-      "title": "Tourist complaints in Korea hit record high amid travel boom - The Korea Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpWNkk1ZGV4bmxiTlFlWGVqTE9WaTVYNVUxcjU1V0t4WGpoUlR0eDJaMWZWWUVBOWxoX0N2RXEtb2NnSE9xMHlJS3ZzenJIb29nWTk2VTduVzZpT2dLVVA4cXprTHBxZGljTWRsLXBmVE16M0dOdGxYaWJsM1JleUpUYzBPWUNyemJxQ25jdkRvU1lFc2otNmxvZHFITWVIMV91UGc4aWI2Wn",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpWNkk1ZGV4bmxiTlFlWGVqTE9WaTVYNVUxcjU1V0t4WGpoUlR0eDJaMWZWWUVBOWxoX0N2RXEtb2NnSE9xMHlJS3ZzenJIb29nWTk2VTduVzZpT2dLVVA4cXprTHBxZGljTWRsLXBmVE16M0dOdGxYaWJsM1JleUpUYzBPWUNyemJxQ25jdkRvU1lFc2otNmxvZHFITWVIMV91UGc4aWI2Wnk0b3fSAbMBQVVfeXFMUFdCNGlPTUg4RGNTYWZuelp0T3VIcFlqQ1M2VTJDdnVFQy1WcXZiLWxzRHd1by14VHg3ZHNrbVpaNFQzSDRiVXFGVFdPcXp0LTFsb3lnR2p6QTlHc2tnSEJKcU9uS2w0MlQ2UEpxR0lydkZ1aXVoamxGVFRQLURkWXF6OWhPNWlpRkNmMzRQSjllc0Y3c0tMdWF2RXVSR1FZMWNibzNFaFg5Yk81bGU0cWMtdlE?oc=5",
-      "score": 45.0,
+      "id": "81298fc6ccd5",
+      "title": "Perth traveller pain as eruption cancels Indonesia flights - PerthNow",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcjRtbUVaczQwc2Z3Qk5Ed0xOc3gwNGlKZzV2UEZZakN5TVp2bTVjV3JIbDQwMjNFeHdKVkxiOHhFSVd5aFIycFlVd0szX1kxckZpMy0wb2lSRk9IeU5jNmdudFlOUkJqSEVzQmVNb3kwNUJSUUtESXQxenhBcTl0YlpLSk9TdmpYWVlNU3JpTkY0enpGcDRXd0RkOTVEeGRPd0M4OHlZQ1QxZV",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcjRtbUVaczQwc2Z3Qk5Ed0xOc3gwNGlKZzV2UEZZakN5TVp2bTVjV3JIbDQwMjNFeHdKVkxiOHhFSVd5aFIycFlVd0szX1kxckZpMy0wb2lSRk9IeU5jNmdudFlOUkJqSEVzQmVNb3kwNUJSUUtESXQxenhBcTl0YlpLSk9TdmpYWVlNU3JpTkY0enpGcDRXd0RkOTVEeGRPd0M4OHlZQ1QxZVZGSUFmSDUyb3BQV2toekNJTTl3aXg5bGVQT01jbE93c1lPXzJF?oc=5",
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 06 Sep 2026 01:53:03 GMT",
-          "source": "The Korea Times"
-        },
-        {
-          "published": "Sun, 06 Sep 2026 03:12:16 GMT",
-          "source": "Korea JoongAng Daily"
+          "published": "Sun, 06 Sep 2026 11:04:00 GMT",
+          "source": "PerthNow"
         }
       ]
     },
@@ -282,7 +298,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
           "published": "Thu, 03 Sep 2026 12:22:41 GMT",
@@ -291,10 +307,10 @@
       ]
     },
     {
-      "id": "9d8b9d7a8f27",
-      "title": "It doesn't look dangerous, but this sneaky snail causes enormous damage - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2Q4bmE4MUttTW5sSWwtYlhyQ1lOcVh3WmFIS1RodWtOUDl4Tl9vcG5jdzN0QUxlZDNEU0hrNFh2ZXU0UXh0VVk4N3NYSFdMNmR2dERsSm1BRG9VVDQ0UEUtVHhVMFlQMjZ2OHRxdnI1bUx1MXhOWDN5amV3STJRWEpITWVUM0FyN0IyMXoxM1o3YTRoRFJEZGdvN08tbF80RVNMSkJ5RmNZMT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2Q4bmE4MUttTW5sSWwtYlhyQ1lOcVh3WmFIS1RodWtOUDl4Tl9vcG5jdzN0QUxlZDNEU0hrNFh2ZXU0UXh0VVk4N3NYSFdMNmR2dERsSm1BRG9VVDQ0UEUtVHhVMFlQMjZ2OHRxdnI1bUx1MXhOWDN5amV3STJRWEpITWVUM0FyN0IyMXoxM1o3YTRoRFJEZGdvN08tbF80RVNMSkJ5RmNZMTZ1X0E?oc=5",
+      "id": "85227b5a3921",
+      "title": "Corporate Travel poised for ASX return after filing annual results - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHZKbDNZbnRsajZCOG5iYnktUWYxVzgwb1lEbHVQb2pGRzFUZkxhUGNsSkxJTGJkV1BQSUI5ZnkwYjg4WThHVU1hWGVKYi1wNThVNWpmRWNoQXhjdThXUFpSZXBaaDlWczVRTUtBbFZHX2RWQ2ZDQTFUbkRJUkZmem81UFFnRWRGeTZ3dzhqMHpBdmh0TFloNVpXdld3aDlBa2JjRTdaVjNZND",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHZKbDNZbnRsajZCOG5iYnktUWYxVzgwb1lEbHVQb2pGRzFUZkxhUGNsSkxJTGJkV1BQSUI5ZnkwYjg4WThHVU1hWGVKYi1wNThVNWpmRWNoQXhjdThXUFpSZXBaaDlWczVRTUtBbFZHX2RWQ2ZDQTFUbkRJUkZmem81UFFnRWRGeTZ3dzhqMHpBdmh0TFloNVpXdld3aDlBa2JjRTdaVjNZNDdCVzhiQVpqT1FHbWlUN3F2MEtMRFBJUkE?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -302,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 05 Sep 2026 22:28:53 GMT",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+          "published": "Wed, 02 Sep 2026 01:43:00 GMT",
+          "source": "AFR"
         }
       ]
     },
     {
-      "id": "dc27d03c7edb",
-      "title": "Corporate Travel pitches reset after shares crash 80pc on ASX return - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWndic2V1dkM3UG9OYWZ5ZXBjVThOdEtQOVRaZ0JsV2c4Wm11MFdlblBCbkZoSUc1a2hfUjBPWHRIWVRVSzNQdzhiTUcySVBCVVgybUhWRGJQSUlWSERRVFdVeFJwdUtGcFZXM2JiUGhCME1rc0oyV1l4T21YUzdHOUVhYXMzSlEyZk1hZkM1WXhsUnR4TFctWVk5Zm4ydWd5T2gtSm1HdkxWYn",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWndic2V1dkM3UG9OYWZ5ZXBjVThOdEtQOVRaZ0JsV2c4Wm11MFdlblBCbkZoSUc1a2hfUjBPWHRIWVRVSzNQdzhiTUcySVBCVVgybUhWRGJQSUlWSERRVFdVeFJwdUtGcFZXM2JiUGhCME1rc0oyV1l4T21YUzdHOUVhYXMzSlEyZk1hZkM1WXhsUnR4TFctWVk5Zm4ydWd5T2gtSm1HdkxWYnQ3MFdNckU5UGFhRE1peGNPTUhqZE9GeDhN?oc=5",
+      "id": "9d8b9d7a8f27",
+      "title": "It doesn't look dangerous, but this sneaky snail causes enormous damage - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2Q4bmE4MUttTW5sSWwtYlhyQ1lOcVh3WmFIS1RodWtOUDl4Tl9vcG5jdzN0QUxlZDNEU0hrNFh2ZXU0UXh0VVk4N3NYSFdMNmR2dERsSm1BRG9VVDQ0UEUtVHhVMFlQMjZ2OHRxdnI1bUx1MXhOWDN5amV3STJRWEpITWVUM0FyN0IyMXoxM1o3YTRoRFJEZGdvN08tbF80RVNMSkJ5RmNZMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2Q4bmE4MUttTW5sSWwtYlhyQ1lOcVh3WmFIS1RodWtOUDl4Tl9vcG5jdzN0QUxlZDNEU0hrNFh2ZXU0UXh0VVk4N3NYSFdMNmR2dERsSm1BRG9VVDQ0UEUtVHhVMFlQMjZ2OHRxdnI1bUx1MXhOWDN5amV3STJRWEpITWVUM0FyN0IyMXoxM1o3YTRoRFJEZGdvN08tbF80RVNMSkJ5RmNZMTZ1X0E?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -322,11 +338,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 03 Sep 2026 07:26:00 GMT",
-          "source": "AFR"
+          "published": "Sat, 05 Sep 2026 22:28:53 GMT",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
         }
       ]
     },
@@ -342,10 +358,10 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 06 Sep 2026 02:42:40 GMT",
+          "published": "Sun, 06 Sep 2026 02:40:44 GMT",
           "source": "Nine.com.au"
         }
       ]
@@ -362,7 +378,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 23:35:41 GMT",
@@ -382,7 +398,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-06T10:49:48+00:00",
+      "first_seen": "2026-09-06T15:24:17+00:00",
       "raw_samples": [
         {
           "published": "Thu, 03 Sep 2026 02:24:00 GMT",
