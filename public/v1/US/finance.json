@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "US",
-  "generated_at": "2026-09-07T12:30:49+00:00",
+  "generated_at": "2026-09-07T21:37:10+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "c0f0ca4eabd3",
-      "title": "September US Stock Market Outlook: How to Position Your Portfolio During a Risky Stage - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbU4tR0FJTGY2LWY3Z3NUN2RNWUtOSVdWOUJxTEJUYnZVX1hNZGdHbVFqM1ZGVTV4TVdOYjhvSVZKdnA3RDRDUEUtQVkxQVNwMmoyZE5TZ2FFc0xiNGNEem53VTZoU1lHQzhqVF82bngxVTFYOTh2WjZIaG9IbmhHQl82TVFSM2V3UndhNDFyUTVseFlmbXVlYXBpTjdhd2ZGTDJqUWljVGJCNz",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbU4tR0FJTGY2LWY3Z3NUN2RNWUtOSVdWOUJxTEJUYnZVX1hNZGdHbVFqM1ZGVTV4TVdOYjhvSVZKdnA3RDRDUEUtQVkxQVNwMmoyZE5TZ2FFc0xiNGNEem53VTZoU1lHQzhqVF82bngxVTFYOTh2WjZIaG9IbmhHQl82TVFSM2V3UndhNDFyUTVseFlmbXVlYXBpTjdhd2ZGTDJqUWljVGJCNzJLaEdyLXNVakExaEpsRllEYjQtU1JlZw?oc=5",
+      "id": "07cc2670e27a",
+      "title": "Is the stock market open on Labor Day? - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEk5Y1dsRFdDNXBxZ1hFN1pFQ1QtUGN4YUhvMWJsUjdIMVBieGdaRFp0a0d6U0dPQW4ySkdNR3pVVmRobkp2VEhzMl93OFVoREUxZ1lLck9EWHA0ZWhZR2F0QTJZb1VQZUVxTEM5eXJGa1hrZzh1V1J6QVpzYmZmYmhyeW0xTmdwaHc0SVNzV2VQRDJGRXNnaGt2WG9xS0FOMWZ0RFNTZFA0bG",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEk5Y1dsRFdDNXBxZ1hFN1pFQ1QtUGN4YUhvMWJsUjdIMVBieGdaRFp0a0d6U0dPQW4ySkdNR3pVVmRobkp2VEhzMl93OFVoREUxZ1lLck9EWHA0ZWhZR2F0QTJZb1VQZUVxTEM5eXJGa1hrZzh1V1J6QVpzYmZmYmhyeW0xTmdwaHc0SVNzV2VQRDJGRXNnaGt2WG9xS0FOMWZ0RFNTZFA0bGx0Rmt4V1FuMA?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
+      "first_seen": "2026-09-07T21:27:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 07 Sep 2026 16:28:05 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "c0f0ca4eabd3",
+      "title": "September US Stock Market Outlook: How to Position Your Portfolio During a Risky Stage - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbU4tR0FJTGY2LWY3Z3NUN2RNWUtOSVdWOUJxTEJUYnZVX1hNZGdHbVFqM1ZGVTV4TVdOYjhvSVZKdnA3RDRDUEUtQVkxQVNwMmoyZE5TZ2FFc0xiNGNEem53VTZoU1lHQzhqVF82bngxVTFYOTh2WjZIaG9IbmhHQl82TVFSM2V3UndhNDFyUTVseFlmbXVlYXBpTjdhd2ZGTDJqUWljVGJCNz",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbU4tR0FJTGY2LWY3Z3NUN2RNWUtOSVdWOUJxTEJUYnZVX1hNZGdHbVFqM1ZGVTV4TVdOYjhvSVZKdnA3RDRDUEUtQVkxQVNwMmoyZE5TZ2FFc0xiNGNEem53VTZoU1lHQzhqVF82bngxVTFYOTh2WjZIaG9IbmhHQl82TVFSM2V3UndhNDFyUTVseFlmbXVlYXBpTjdhd2ZGTDJqUWljVGJCNzJLaEdyLXNVakExaEpsRllEYjQtU1JlZw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-09-07T21:27:54+00:00",
       "raw_samples": [
         {
           "published": "Mon, 07 Sep 2026 09:16:06 GMT",
@@ -31,14 +51,14 @@
       "title": "For Gen Z, Building Wealth Is in the Stock Market, Not the Housing Market - The New York Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5\" target=\"_blank\">For Gen Z, Building Wealth Is in the Stoc",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
+      "first_seen": "2026-09-07T21:27:54+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 07:00:00 GMT",
@@ -47,42 +67,62 @@
       ]
     },
     {
-      "id": "9923ab2d54c9",
-      "title": "Is the stock market open on Labor Day? Here's the holiday trading schedule for 2026. - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc0prbV9vWFZlT21YN0ZDNnlSa3JMTHcyVmRZVHdsMXJWZ05LT2J6QjVCZl9xeHZaV3B1ejc2UnFScmxiaGNOQ0o3XzdQTkVvVGVhMVBqN2h3QmxTNmtIRzU4V3BHa2dzZk1nVldha2tjMERSZXpjUkdXdXFxLXNiam1wdTZfZG9saUx3blN0NGVlMWdYS3VIZ25KOHdIcUdiQ0xxamNSbjhJWj",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc0prbV9vWFZlT21YN0ZDNnlSa3JMTHcyVmRZVHdsMXJWZ05LT2J6QjVCZl9xeHZaV3B1ejc2UnFScmxiaGNOQ0o3XzdQTkVvVGVhMVBqN2h3QmxTNmtIRzU4V3BHa2dzZk1nVldha2tjMERSZXpjUkdXdXFxLXNiam1wdTZfZG9saUx3blN0NGVlMWdYS3VIZ25KOHdIcUdiQ0xxamNSbjhJWjQ1SzN5YkY3TjA1N29jUXhRVlFNV2N1Qlh5cE9IR3pmcnlJa0FOSFVIVXBxYVhFQUMycUVHYjRNZFdYb3NVU1Y3dEhB?oc=5",
-      "score": 82.8,
+      "id": "1c3f11247786",
+      "title": "Uncertainty builds around inflation, stock market. What could be next. - Detroit Free Press - Breaking news, sports, business, entertainment",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0NUMTc0VGc4QjNrOEhUdVdIRWJVb3F4cnRTbXBIdG5QblE1U2hFaS1fNlpZdXNKMGRKcWs2WGc5a1lTT2xUU0Fv?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
+      "first_seen": "2026-09-07T21:27:54+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 13:00:00 GMT",
+          "published": "Tue, 01 Sep 2026 21:12:00 GMT",
+          "source": "Detroit Free Press - Breaking news, sports, business, entertainment"
+        }
+      ]
+    },
+    {
+      "id": "6fa00f98671f",
+      "title": "Airbnb vs. Shopify: Which Consumer Stock Is a Better Buy in 2026? - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOaEcxdEZCVUZlRzVhanFCYVczY3dOeUV0bE9wR1lIUjJKYWVTUVBFUEs5LXczRDkzY0dXQ0xlRVFWN2JTMWxJLU1XUlo4R2dHbDk0WE9uSUc2b1dPUFZ2Vy1QQXk2bzRCVVY0ZDByRzROS0N0bDlKMzdud21BVUZtaGV4TTkxcW03ZzBwQXNnU3FMQTI0V0ZITUtaQ2Z6QQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEcxdEZCVUZlRzVhanFCYVczY3dOeUV0bE9wR1lIUjJKYWVTUVBFUEs5LXczRDkzY0dXQ0xlRVFWN2JTMWxJLU1XUlo4R2dHbDk0WE9uSUc2b1dPUFZ2Vy1QQXk2bzRCVVY0ZDByRzROS0N0bDlKMzdud21BVUZtaGV4TTkxcW03ZzBwQXNnU3FMQTI0V0ZITUtaQ2Z6QQ?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-09-07T21:27:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 07 Sep 2026 15:00:01 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
-      "id": "8ff8e78794e6",
-      "title": "Uncertainty builds around inflation, stock market. What could be next. - Detroit Free Press",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0NUMTc0VGc4QjNrOEhUdVdIRWJVb3F4cnRTbXBIdG5QblE1U2hFaS1fNlpZdXNKMGRKcWs2WGc5a1lTT2xUU0Fv?oc=5",
-      "score": 75.6,
+      "id": "479b1197ebe2",
+      "title": "Wealth Management Has a $3 Trillion Problem: Investors Are Keeping Too Much Cash - WSJ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmZreXptREpFOVRKTEUydUQ4akczQ0N0V1FvdXNzalZmYkFJU1JBdVI2UDlrbjhOUmppaENvQjlwT3pYWTljQVdXMmw1X1M5MFpIamc3U1doRWtSZS1lbDNzdzVzb25FQVZOMzVEZ3BkZVNsYXdoSS02TlBtbC1iMTNaTzJGV3dHODVGMUtETVd3Tzc5X2VORjcybTNLczZoWE9uR2ZaQmdUY0",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmZreXptREpFOVRKTEUydUQ4akczQ0N0V1FvdXNzalZmYkFJU1JBdVI2UDlrbjhOUmppaENvQjlwT3pYWTljQVdXMmw1X1M5MFpIamc3U1doRWtSZS1lbDNzdzVzb25FQVZOMzVEZ3BkZVNsYXdoSS02TlBtbC1iMTNaTzJGV3dHODVGMUtETVd3Tzc5X2VORjcybTNLczZoWE9uR2ZaQmdUY0ZIWDlpLWNRTkJEZ0Q0dWdfN0pydlBwZw?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
+      "first_seen": "2026-09-07T21:27:54+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 01 Sep 2026 21:12:00 GMT",
-          "source": "Detroit Free Press"
+          "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+          "source": "WSJ"
         }
       ]
     },
@@ -91,14 +131,14 @@
       "title": "Stocks Turn Down as Warsh Talks Up Rates: Stock Market Today - Kiplinger",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHBJYVNLdGlXY3VrUm9jNFVaa0lYbThpV2pEckdPb3M4bmZYUENqNVZYUGowUW91bXRQd3dBeGFqUmpBemhHUEIyTTZOdG1UbTZWSHo2djNBRDZ4aDRKUmZpZ1JpQmt2NEF2WGVmejFQQmIyV0ZrbXdrZEE0NjIwM1BTTEtxcHliZkU0VmpOUFBzdldrWXczVGdVUGtia2cySFdrNg?oc=5\" t",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHBJYVNLdGlXY3VrUm9jNFVaa0lYbThpV2pEckdPb3M4bmZYUENqNVZYUGowUW91bXRQd3dBeGFqUmpBemhHUEIyTTZOdG1UbTZWSHo2djNBRDZ4aDRKUmZpZ1JpQmt2NEF2WGVmejFQQmIyV0ZrbXdrZEE0NjIwM1BTTEtxcHliZkU0VmpOUFBzdldrWXczVGdVUGtia2cySFdrNg?oc=5",
-      "score": 72.0,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
+      "first_seen": "2026-09-07T21:27:54+00:00",
       "raw_samples": [
         {
           "published": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -107,74 +147,10 @@
       ]
     },
     {
-      "id": "4d2498075e3b",
-      "title": "Watch: 2026 Midyear Market Outlook: Five shifts reshaping markets - T. Rowe Price",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdmNvdjBQdVhGYlVxZnFfWjQ2S2F4RUdFOG8teFRKeXIxWW1DWTNwelQySTktWVduTldKMnkxNm5VRW40ZVVaa3hwMXl5YkhkY1NSeXdjMWx0QVF1a05yZ2ZsVGwyTklBYXhPbnZZZkJxYXFkYWR3LVFLNl9PYWdMTlAyS1cyY1V4Q1QydWk3SDA2dw?oc=5\" target=\"_blank\">Watch: 20",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdmNvdjBQdVhGYlVxZnFfWjQ2S2F4RUdFOG8teFRKeXIxWW1DWTNwelQySTktWVduTldKMnkxNm5VRW40ZVVaa3hwMXl5YkhkY1NSeXdjMWx0QVF1a05yZ2ZsVGwyTklBYXhPbnZZZkJxYXFkYWR3LVFLNl9PYWdMTlAyS1cyY1V4Q1QydWk3SDA2dw?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-          "source": "T. Rowe Price"
-        }
-      ]
-    },
-    {
-      "id": "7fb546a9cd5d",
-      "title": "Investing vs. trading vs. gambling - Britannica",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE8xNkYyV2ZUQ3pOX1pEdVFMM3gzWTZUdDRuX0ZsX3h0elduTnhfa3lQTHA5cVE4OGtJUlFEVlNQOV90a3pJOWdwOEszNkIycmFWajlfLXpzcnNIbzhlNVR2ZnRzUDNXTFF1RldZNHZzUzFvQjQ?oc=5\" target=\"_blank\">Investing vs. trading vs. gambling</a>&nbsp;&nbsp;<f",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xNkYyV2ZUQ3pOX1pEdVFMM3gzWTZUdDRuX0ZsX3h0elduTnhfa3lQTHA5cVE4OGtJUlFEVlNQOV90a3pJOWdwOEszNkIycmFWajlfLXpzcnNIbzhlNVR2ZnRzUDNXTFF1RldZNHZzUzFvQjQ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 31 Aug 2026 22:37:00 GMT",
-          "source": "Britannica"
-        }
-      ]
-    },
-    {
-      "id": "6fc7735dcff2",
-      "title": "The Best Index Funds and How to Start Investing - NerdWallet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNS1vM2JCWkxacmVGYWdFRzVyZE1oeUR3MlZ3MTk3eDlneUFiR1B6R21pXzNHSGFTdEdCQlNNMmVCZ2FST0N4UERvVkY3ZWZFMVQweW9XWS0wbEMyd1hJVDZydC1BLXNHbV83TTJKUnhPYjA1ZU9WSUpQcw?oc=5\" target=\"_blank\">The Best Index Funds and How to Start Inv",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNS1vM2JCWkxacmVGYWdFRzVyZE1oeUR3MlZ3MTk3eDlneUFiR1B6R21pXzNHSGFTdEdCQlNNMmVCZ2FST0N4UERvVkY3ZWZFMVQweW9XWS0wbEMyd1hJVDZydC1BLXNHbV83TTJKUnhPYjA1ZU9WSUpQcw?oc=5",
-      "score": 63.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "source": "NerdWallet"
-        },
-        {
-          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-          "source": "NerdWallet"
-        }
-      ]
-    },
-    {
-      "id": "f2fed7821f77",
-      "title": "Every Finance Tiktok Ever 🤣",
+      "id": "065d15dafd2e",
+      "title": "Cost Of Living In A $30M Mansion 🤯",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/wziVT5df5S8",
+      "url": "https://www.youtube.com/shorts/MuRrs7NNAek",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -182,13 +158,13 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
+      "first_seen": "2026-09-07T21:30:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
           "channel_title": "Graham Stephan",
-          "video_id": "wziVT5df5S8",
-          "published": "2026-09-06T18:00:20+00:00"
+          "video_id": "MuRrs7NNAek",
+          "published": "2026-09-07T19:00:11+00:00"
         }
       ],
       "is_global": true
@@ -205,7 +181,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:47+00:00",
+      "first_seen": "2026-09-07T21:30:21+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -217,10 +193,10 @@
       "is_global": true
     },
     {
-      "id": "479b1197ebe2",
-      "title": "Wealth Management Has a $3 Trillion Problem: Investors Are Keeping Too Much Cash - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmZreXptREpFOVRKTEUydUQ4akczQ0N0V1FvdXNzalZmYkFJU1JBdVI2UDlrbjhOUmppaENvQjlwT3pYWTljQVdXMmw1X1M5MFpIamc3U1doRWtSZS1lbDNzdzVzb25FQVZOMzVEZ3BkZVNsYXdoSS02TlBtbC1iMTNaTzJGV3dHODVGMUtETVd3Tzc5X2VORjcybTNLczZoWE9uR2ZaQmdUY0",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmZreXptREpFOVRKTEUydUQ4akczQ0N0V1FvdXNzalZmYkFJU1JBdVI2UDlrbjhOUmppaENvQjlwT3pYWTljQVdXMmw1X1M5MFpIamc3U1doRWtSZS1lbDNzdzVzb25FQVZOMzVEZ3BkZVNsYXdoSS02TlBtbC1iMTNaTzJGV3dHODVGMUtETVd3Tzc5X2VORjcybTNLczZoWE9uR2ZaQmdUY0ZIWDlpLWNRTkJEZ0Q0dWdfN0pydlBwZw?oc=5",
+      "id": "6fc7735dcff2",
+      "title": "The Best Index Funds and How to Start Investing - NerdWallet",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNS1vM2JCWkxacmVGYWdFRzVyZE1oeUR3MlZ3MTk3eDlneUFiR1B6R21pXzNHSGFTdEdCQlNNMmVCZ2FST0N4UERvVkY3ZWZFMVQweW9XWS0wbEMyd1hJVDZydC1BLXNHbV83TTJKUnhPYjA1ZU9WSUpQcw?oc=5\" target=\"_blank\">The Best Index Funds and How to Start Inv",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNS1vM2JCWkxacmVGYWdFRzVyZE1oeUR3MlZ3MTk3eDlneUFiR1B6R21pXzNHSGFTdEdCQlNNMmVCZ2FST0N4UERvVkY3ZWZFMVQweW9XWS0wbEMyd1hJVDZydC1BLXNHbV83TTJKUnhPYjA1ZU9WSUpQcw?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -228,11 +204,78 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
+      "first_seen": "2026-09-07T21:27:54+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-          "source": "WSJ"
+          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+          "source": "NerdWallet"
+        },
+        {
+          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+          "source": "NerdWallet"
+        }
+      ]
+    },
+    {
+      "id": "93129e164b51",
+      "title": "California students must soon learn personal finance to graduate. Here’s how it will be taught - EdSource",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5CbWhqX2RWWWU4enpoNUtUZHREeFlaTnBtZDlqNzhJT2MwRG8xVUNUWVJNZEZjMUxYR2ZFcjVsSklqRUVxMHhnY3ZYQkNBcWFaaTlMbTFXZmVwak9wc08tQ3NEV2JCVW1aRnp3YVRlRFk1b19ZWjFMMDVR0gGCAUFVX3lxTFBUQ0l0RFRVR3hjNjgzWjd5aVEwdTVsYVFrc21TbzJxTlRlTEk2Q1",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CbWhqX2RWWWU4enpoNUtUZHREeFlaTnBtZDlqNzhJT2MwRG8xVUNUWVJNZEZjMUxYR2ZFcjVsSklqRUVxMHhnY3ZYQkNBcWFaaTlMbTFXZmVwak9wc08tQ3NEV2JCVW1aRnp3YVRlRFk1b19ZWjFMMDVR0gGCAUFVX3lxTFBUQ0l0RFRVR3hjNjgzWjd5aVEwdTVsYVFrc21TbzJxTlRlTEk2Q1pMLTRTVzVISm94RVF0c2hUT0JYS1d1ak00anpHVHo0OUxjbk03c1Q3cFJKRk54ZUM5cEp4SFJveGtPRnJyTTgxcktBX0xDRmNDeUlTZjNWWEM2SkE?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-09-07T21:27:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 08 Jun 2026 07:00:00 GMT",
+          "source": "EdSource"
+        }
+      ]
+    },
+    {
+      "id": "f2fed7821f77",
+      "title": "Every Finance Tiktok Ever 🤣",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/wziVT5df5S8",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-07T21:30:20+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "wziVT5df5S8",
+          "published": "2026-09-06T18:00:20+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "4d2498075e3b",
+      "title": "Watch: 2026 Midyear Market Outlook: Five shifts reshaping markets - T. Rowe Price",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdmNvdjBQdVhGYlVxZnFfWjQ2S2F4RUdFOG8teFRKeXIxWW1DWTNwelQySTktWVduTldKMnkxNm5VRW40ZVVaa3hwMXl5YkhkY1NSeXdjMWx0QVF1a05yZ2ZsVGwyTklBYXhPbnZZZkJxYXFkYWR3LVFLNl9PYWdMTlAyS1cyY1V4Q1QydWk3SDA2dw?oc=5\" target=\"_blank\">Watch: 20",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdmNvdjBQdVhGYlVxZnFfWjQ2S2F4RUdFOG8teFRKeXIxWW1DWTNwelQySTktWVduTldKMnkxNm5VRW40ZVVaa3hwMXl5YkhkY1NSeXdjMWx0QVF1a05yZ2ZsVGwyTklBYXhPbnZZZkJxYXFkYWR3LVFLNl9PYWdMTlAyS1cyY1V4Q1QydWk3SDA2dw?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-09-07T21:27:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+          "source": "T. Rowe Price"
         }
       ]
     },
@@ -241,14 +284,14 @@
       "title": "Girlfriend's Debt Takes 26 Years To Pay Off 🤦‍♂️",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/yP_I2BN8aeI",
-      "score": 59.29,
+      "score": 56.98,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
+      "first_seen": "2026-09-07T21:30:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -260,38 +303,18 @@
       "is_global": true
     },
     {
-      "id": "7e7399a838f8",
-      "title": "How soaring Treasury yields could hit your finances - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOT09fdFlYQ2tEY1ZOTkZjUUM3RVdKaldYVFBOcWdGb1o2NGJLSUlXVUFPTUlXTVFVTHhwRnRiWlBWd05fUlpEZDhxbWE4Z1pRR2lfLW1SSFRadlI0TlNyYnJWLUNFT0pXczRTcV9vLUNpYS1DR013TXZ2NmtobkxGZXdwdV9QdG1GcExxMzRWVEdhRlhYeWxZLTZNTkZaMF84dllMOVNycXRyWT",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT09fdFlYQ2tEY1ZOTkZjUUM3RVdKaldYVFBOcWdGb1o2NGJLSUlXVUFPTUlXTVFVTHhwRnRiWlBWd05fUlpEZDhxbWE4Z1pRR2lfLW1SSFRadlI0TlNyYnJWLUNFT0pXczRTcV9vLUNpYS1DR013TXZ2NmtobkxGZXdwdV9QdG1GcExxMzRWVEdhRlhYeWxZLTZNTkZaMF84dllMOVNycXRyWTJyQVRRRC1jZ3NfTXpfRFljczZZYkJpRERuNkE?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 01 Sep 2026 15:29:14 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
       "id": "4f9610c2d2b2",
       "title": "How Much It Costs To Live In Miami",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/t7W5Ntcg6h0",
-      "score": 56.98,
+      "score": 54.669999999999995,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
+      "first_seen": "2026-09-07T21:30:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -303,18 +326,38 @@
       "is_global": true
     },
     {
+      "id": "7fb546a9cd5d",
+      "title": "Investing vs. trading vs. gambling - Britannica",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE8xNkYyV2ZUQ3pOX1pEdVFMM3gzWTZUdDRuX0ZsX3h0elduTnhfa3lQTHA5cVE4OGtJUlFEVlNQOV90a3pJOWdwOEszNkIycmFWajlfLXpzcnNIbzhlNVR2ZnRzUDNXTFF1RldZNHZzUzFvQjQ?oc=5\" target=\"_blank\">Investing vs. trading vs. gambling</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xNkYyV2ZUQ3pOX1pEdVFMM3gzWTZUdDRuX0ZsX3h0elduTnhfa3lQTHA5cVE4OGtJUlFEVlNQOV90a3pJOWdwOEszNkIycmFWajlfLXpzcnNIbzhlNVR2ZnRzUDNXTFF1RldZNHZzUzFvQjQ?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-09-07T21:27:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 31 Aug 2026 22:37:00 GMT",
+          "source": "Britannica"
+        }
+      ]
+    },
+    {
       "id": "aed3f45ead76",
       "title": "It Started: America’s Bond Market Is Secretly Collapsing",
       "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: https://sofi.com/graham | Let's talk about the Bond Market Bailout and rising interest rates at the next Federal Reserve Meeting - Add me on Instagram: GPStephan\n\nSTART BUILDING WEALTH WITH MY FREE NE",
       "url": "https://www.youtube.com/watch?v=eKzS_xzqYNw",
-      "score": 54.669999999999995,
+      "score": 52.35999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
+      "first_seen": "2026-09-07T21:30:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -326,22 +369,22 @@
       "is_global": true
     },
     {
-      "id": "9f74e811c1f1",
-      "title": "The states with the highest (and lowest) stock market participation - KVIA",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzJia2pMQ2c1VGxuVFlaYTFVVm1uYmRXTGU5VkE3dDVYckxhWlN3Rkt0X1VPaEl4Wk9pOGx4WFlIY1NYQmlsSmJmMGhCWmhuWHlWRFl6NldqTklyMHN5VVVzWjA3MWdYelBOYTV0YXNCYmh4WnM1MGo0emVBR1FRM2RsT1p5TldMWWVUR1lYeVY3OUhrakJzSUhjTDdCck9vRExxekxoRERpVT",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzJia2pMQ2c1VGxuVFlaYTFVVm1uYmRXTGU5VkE3dDVYckxhWlN3Rkt0X1VPaEl4Wk9pOGx4WFlIY1NYQmlsSmJmMGhCWmhuWHlWRFl6NldqTklyMHN5VVVzWjA3MWdYelBOYTV0YXNCYmh4WnM1MGo0emVBR1FRM2RsT1p5TldMWWVUR1lYeVY3OUhrakJzSUhjTDdCck9vRExxekxoRERpVTd3UUN6Q3Z6U0pjV2tQWjFHVTdGbjN4ODdvMXpQZQ?oc=5",
-      "score": 54.0,
+      "id": "15fac3ea2597",
+      "title": "Tesla: Shares Fall as Market Disappointed With Cybercab Launch Event - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3Z1VlV1aGNMc3dTSGx2VWo0Uk5zZkN5LUtzOUNJWlhoRXBCTHFNRmt3SzluY1RrUFpSZmpPY1NBOGVUWW8wV3ExQUxBTUFoSENCVWJVRDcxWjBra2pscFVxeUVaYmNLTGJURGdWUEI5cXBoakY3dWptZnZiUE83dW5DQV8xQ21vdUFlY25tRFpfektYQVQ4bnNzLW1LLTMyemhPR1NMV1lTaT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3Z1VlV1aGNMc3dTSGx2VWo0Uk5zZkN5LUtzOUNJWlhoRXBCTHFNRmt3SzluY1RrUFpSZmpPY1NBOGVUWW8wV3ExQUxBTUFoSENCVWJVRDcxWjBra2pscFVxeUVaYmNLTGJURGdWUEI5cXBoakY3dWptZnZiUE83dW5DQV8xQ21vdUFlY25tRFpfektYQVQ4bnNzLW1LLTMyemhPR1NMV1lTaTRN?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
+      "first_seen": "2026-09-07T21:27:54+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 28 Aug 2026 16:38:16 GMT",
-          "source": "KVIA"
+          "published": "Mon, 07 Sep 2026 16:17:08 GMT",
+          "source": "Morningstar"
         }
       ]
     },
@@ -350,14 +393,14 @@
       "title": "Is Elon Musk TOO Rich? 🤔",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/wOLEDqj_HKg",
-      "score": 52.35999999999999,
+      "score": 50.05,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
+      "first_seen": "2026-09-07T21:30:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -369,38 +412,18 @@
       "is_global": true
     },
     {
-      "id": "7035f8685fb9",
-      "title": "The Best-Performing ETFs for UK Investors - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdVR0bVpXS1c5RzhXS0Nhd2VqbkhSTG9Sc2d0NmxycFUxMGJhZWZScFBHNDkzYy1YOEtEcG8xVzVNTDE4VjdEYlV1LXpBbnBrRTR4RDVlQ3pFdTF1T0lWcTJZOEdMbnJzM054OUhvWkU1UVVDaTVhMWFadThmcnUyaQ?oc=5\" target=\"_blank\">The Best-Performing ETFs for UK I",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdVR0bVpXS1c5RzhXS0Nhd2VqbkhSTG9Sc2d0NmxycFUxMGJhZWZScFBHNDkzYy1YOEtEcG8xVzVNTDE4VjdEYlV1LXpBbnBrRTR4RDVlQ3pFdTF1T0lWcTJZOEdMbnJzM054OUhvWkU1UVVDaTVhMWFadThmcnUyaQ?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "source": "Morningstar"
-        }
-      ]
-    },
-    {
       "id": "f1b89aebbbcf",
       "title": "This Millionaire Only Owns 5 Shirts...",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/hr2SZTf1EAc",
-      "score": 50.05,
+      "score": 47.74,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
+      "first_seen": "2026-09-07T21:30:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -416,14 +439,14 @@
       "title": "Why Clavicular Pays His GF $6k/MO 🫠",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/Q2mw1ihGoOM",
-      "score": 47.74,
+      "score": 45.43,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
+      "first_seen": "2026-09-07T21:30:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -435,18 +458,38 @@
       "is_global": true
     },
     {
+      "id": "7e7399a838f8",
+      "title": "How soaring Treasury yields could hit your finances - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOT09fdFlYQ2tEY1ZOTkZjUUM3RVdKaldYVFBOcWdGb1o2NGJLSUlXVUFPTUlXTVFVTHhwRnRiWlBWd05fUlpEZDhxbWE4Z1pRR2lfLW1SSFRadlI0TlNyYnJWLUNFT0pXczRTcV9vLUNpYS1DR013TXZ2NmtobkxGZXdwdV9QdG1GcExxMzRWVEdhRlhYeWxZLTZNTkZaMF84dllMOVNycXRyWT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT09fdFlYQ2tEY1ZOTkZjUUM3RVdKaldYVFBOcWdGb1o2NGJLSUlXVUFPTUlXTVFVTHhwRnRiWlBWd05fUlpEZDhxbWE4Z1pRR2lfLW1SSFRadlI0TlNyYnJWLUNFT0pXczRTcV9vLUNpYS1DR013TXZ2NmtobkxGZXdwdV9QdG1GcExxMzRWVEdhRlhYeWxZLTZNTkZaMF84dllMOVNycXRyWTJyQVRRRC1jZ3NfTXpfRFljczZZYkJpRERuNkE?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-09-07T21:27:54+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 01 Sep 2026 15:29:14 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
       "id": "9ebb8d0ae397",
       "title": "True Cost Of A $5M Yacht...",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/x8KNm_9Bs88",
-      "score": 45.43,
+      "score": 43.12,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
+      "first_seen": "2026-09-07T21:30:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -458,53 +501,10 @@
       "is_global": true
     },
     {
-      "id": "59556b74568b",
-      "title": "Stocks Rise as Nvidia Ends Losing Streak: Stock Market Today - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUhPOUFMSkJUemlBalF6dDk3c1AwVzNweUtJZi1ZU184d2ktNDRXNUkwVXl4bDc5enUtTzZxNjdVUkN3X1VEbUVUTWJYd2h2SVRMRlZCcmk5NXlLNm1Odjk4dXQtOU9pcHY5MXR0REZHTE9qdTYzQm5fSEVBQ2dRZmZRMjR3UGNJamp6bmdfZjJCOUpCUC01Q1h1ZFJ5UTZVeXZaTw?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUhPOUFMSkJUemlBalF6dDk3c1AwVzNweUtJZi1ZU184d2ktNDRXNUkwVXl4bDc5enUtTzZxNjdVUkN3X1VEbUVUTWJYd2h2SVRMRlZCcmk5NXlLNm1Odjk4dXQtOU9pcHY5MXR0REZHTE9qdTYzQm5fSEVBQ2dRZmZRMjR3UGNJamp6bmdfZjJCOUpCUC01Q1h1ZFJ5UTZVeXZaTw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-          "source": "Kiplinger"
-        }
-      ]
-    },
-    {
       "id": "794969d7d9cd",
       "title": "Why Clavicular Spends $2.2k/MO On \"Looksmaxing\" 🤦‍♂️",
       "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
       "url": "https://www.youtube.com/shorts/HJtPuC9S2d4",
-      "score": 43.12,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "HJtPuC9S2d4",
-          "published": "2026-08-26T16:00:17+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "b83cb69773d4",
-      "title": "BREAKING: The Bond Market Is Collapsing - Massive Bailout Has Begun!",
-      "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: https://sofi.com/graham | Let's discuss the bond market bailout and whether or not we're in a stock market bubble - Enjoy! Add me on Instagram: GPStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER",
-      "url": "https://www.youtube.com/watch?v=mV1iw0aN9uo",
       "score": 40.809999999999995,
       "sources": [
         "youtube"
@@ -512,13 +512,13 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-07T12:22:46+00:00",
+      "first_seen": "2026-09-07T21:30:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
           "channel_title": "Graham Stephan",
-          "video_id": "mV1iw0aN9uo",
-          "published": "2026-08-25T20:00:08+00:00"
+          "video_id": "HJtPuC9S2d4",
+          "published": "2026-08-26T16:00:17+00:00"
         }
       ],
       "is_global": true
@@ -535,7 +535,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-09-07T12:20:25+00:00",
+      "first_seen": "2026-09-07T21:27:54+00:00",
       "raw_samples": [
         {
           "published": "Tue, 01 Sep 2026 07:00:00 GMT",
