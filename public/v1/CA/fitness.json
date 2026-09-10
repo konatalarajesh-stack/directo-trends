@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "CA",
-  "generated_at": "2026-09-10T04:40:23+00:00",
+  "generated_at": "2026-09-10T11:19:50+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 25,
   "trends": [
     {
-      "id": "8f522bdcfdf2",
-      "title": "Apple advances health and fitness capabilities using Apple Intelligence - Apple",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2xITGZpaTNEMy1OYnAtZlVkdnZWbHF4blJhRXVwY0dUN2tfc3hidGkzREMxamZzRk45QWlwVFFrQUVIQlZ0OW1WbnQ5M0p5UW5mdVY3RXFJYUQ2aXVEeXdXaHFNWTFWb2Z5MGFOblZ4TjF6UUxmbjZadUpQQjlTemwyOXNLazVtU1ZlOTA2VnIzN3FWcG80YUhiWUQ3aFZGa2FaWEY3eVVyVj",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2xITGZpaTNEMy1OYnAtZlVkdnZWbHF4blJhRXVwY0dUN2tfc3hidGkzREMxamZzRk45QWlwVFFrQUVIQlZ0OW1WbnQ5M0p5UW5mdVY3RXFJYUQ2aXVEeXdXaHFNWTFWb2Z5MGFOblZ4TjF6UUxmbjZadUpQQjlTemwyOXNLazVtU1ZlOTA2VnIzN3FWcG80YUhiWUQ3aFZGa2FaWEY3eVVyVjVJYnoxUA?oc=5",
+      "id": "20ff538f5617",
+      "title": "Workout or nap? Either can help your sleepless brain, study finds - McGill University",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcndwSjBReXhLeUJmVnBVYjlXS3I1ZDU2OUZRa0xCVlU3SmNVMktHMEt2WHNDUmhkcEJwaDVVSXVhZUM3QjU4NDNRei15ckVUWUVNcXBJS3BPeGM1OG5abTZjM2tWM0VOaDVFZE5UV1VJcHpFZjFYamhBSHZuSDNaaF94N0hEUTMzVjBFMV94Vk1PenlaQ0w3bm1EcmFIWlNKVUhUM24tMV8xbU",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcndwSjBReXhLeUJmVnBVYjlXS3I1ZDU2OUZRa0xCVlU3SmNVMktHMEt2WHNDUmhkcEJwaDVVSXVhZUM3QjU4NDNRei15ckVUWUVNcXBJS3BPeGM1OG5abTZjM2tWM0VOaDVFZE5UV1VJcHpFZjFYamhBSHZuSDNaaF94N0hEUTMzVjBFMV94Vk1PenlaQ0w3bm1EcmFIWlNKVUhUM24tMV8xbUM4TmVpdDdnRTJRZw?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+          "source": "McGill University"
+        }
+      ]
+    },
+    {
+      "id": "bc245f24e584",
+      "title": "6 Best Fitness Trackers in 2026 for Heart Rate, Calories and Step Tracking - CNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE02S29uS1pHZTk3ZjBXd3VOV2pXZDViWTdHT25DLXduaU1ZT2hBeGtGemN3Wkx3bnlCR2RXMkJFZV9IUUNxWDJWQUxIc2dXTUlFak1RbWdtVjFERkI4N1pDQnFWakNIYXlWM2sxSg?oc=5\" target=\"_blank\">6 Best Fitness Trackers in 2026 for Heart Rate, Calories and ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02S29uS1pHZTk3ZjBXd3VOV2pXZDViWTdHT25DLXduaU1ZT2hBeGtGemN3Wkx3bnlCR2RXMkJFZV9IUUNxWDJWQUxIc2dXTUlFak1RbWdtVjFERkI4N1pDQnFWakNIYXlWM2sxSg?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-09-10T11:10:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 10 Sep 2026 00:22:00 GMT",
+          "source": "CNET"
+        }
+      ]
+    },
+    {
+      "id": "8f522bdcfdf2",
+      "title": "Apple advances health and fitness capabilities using Apple Intelligence - Apple",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2xITGZpaTNEMy1OYnAtZlVkdnZWbHF4blJhRXVwY0dUN2tfc3hidGkzREMxamZzRk45QWlwVFFrQUVIQlZ0OW1WbnQ5M0p5UW5mdVY3RXFJYUQ2aXVEeXdXaHFNWTFWb2Z5MGFOblZ4TjF6UUxmbjZadUpQQjlTemwyOXNLazVtU1ZlOTA2VnIzN3FWcG80YUhiWUQ3aFZGa2FaWEY3eVVyVj",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2xITGZpaTNEMy1OYnAtZlVkdnZWbHF4blJhRXVwY0dUN2tfc3hidGkzREMxamZzRk45QWlwVFFrQUVIQlZ0OW1WbnQ5M0p5UW5mdVY3RXFJYUQ2aXVEeXdXaHFNWTFWb2Z5MGFOblZ4TjF6UUxmbjZadUpQQjlTemwyOXNLazVtU1ZlOTA2VnIzN3FWcG80YUhiWUQ3aFZGa2FaWEY3eVVyVjVJYnoxUA?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 09 Sep 2026 17:55:39 GMT",
@@ -27,50 +67,10 @@
       ]
     },
     {
-      "id": "6847fcb7975a",
-      "title": "How Helena Christensen, 57, built lifelong fitness with 'most important' strength training and NEAT - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1NSMHlsVnJMbzcwcG1qZS10aGZnZHJ5dTFPVzRqQ19xUXVsRUdLSC1qWVJURjhhSU91c0hDQlJFS1VyQnhNY211NURHLWhWaHB4eFVuRUYyQjlXMjI5TVNFLWhKdFNhaFZ0aU03dkk3Y3oyWDY3WUdnQms2aVVTQWRPeG56V0k0cGt3Q1htcF9BVDZjWjJOaDFqT0xnRHBPelA0NWhaOW5uQQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1NSMHlsVnJMbzcwcG1qZS10aGZnZHJ5dTFPVzRqQ19xUXVsRUdLSC1qWVJURjhhSU91c0hDQlJFS1VyQnhNY211NURHLWhWaHB4eFVuRUYyQjlXMjI5TVNFLWhKdFNhaFZ0aU03dkk3Y3oyWDY3WUdnQms2aVVTQWRPeG56V0k0cGt3Q1htcF9BVDZjWjJOaDFqT0xnRHBPelA0NWhaOW5uQQ?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 09 Sep 2026 16:34:15 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "01885d0a365d",
-      "title": "FN-Fitness-Athletics-defibdonation - Energeticcity",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeUc3blhUSzdyNWZxdTlhTi1ZVExrYlcxMmh1ZVp3eGxIMHhENHZlUVRQTjA5Nm1jMm1nUUc5SmpFS1FrRFZPZENnTTFWNlhjRnhSUzRJeVZPbzA2YXFjWnRMaC0yU2ViME1yMDZGVDhUZ3hsWUtGWkJRdk1PX2FZLTRKODJpc092dDE0N3hSSW9iMm93elhFcldBbmZlRWlnTFlYRENDcnRGeU",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeUc3blhUSzdyNWZxdTlhTi1ZVExrYlcxMmh1ZVp3eGxIMHhENHZlUVRQTjA5Nm1jMm1nUUc5SmpFS1FrRFZPZENnTTFWNlhjRnhSUzRJeVZPbzA2YXFjWnRMaC0yU2ViME1yMDZGVDhUZ3hsWUtGWkJRdk1PX2FZLTRKODJpc092dDE0N3hSSW9iMm93elhFcldBbmZlRWlnTFlYRENDcnRGeUxTUllWUzJyc1BfbjJDZF96aTVqMkhQZFd3QmdQdlJkUXRmanJWVHQzQm9raHZrZGVXOG1tTlgzSjdtSEVsNnZkR1VSNzk?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 10 Sep 2026 02:53:23 GMT",
-          "source": "Energeticcity"
-        }
-      ]
-    },
-    {
-      "id": "8db8d8d84f84",
-      "title": "Column | Scientists compared 3- and 90-minute workouts. The result may surprise you. - The Washington Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNY09IRFNwUmJZWmtQT1FBNTFTMGtMRjl2UXRFUHZyNW5FUzd0QkNPMnpYRDF6dEd6djFuTHZXTVBvUXk1VTNydGdDN3dZTFpDakZlVFZfMFgwVDZJdjNEMjd6WXR5NjN2UU9XT0R1eUhOMFh0TXRsZ3F5M3l6OTF6LTRTc05BR21lcmZISXpGZ1o2alV1aTAyMll3T29ValhYN0JKa29XbzlVLW",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY09IRFNwUmJZWmtQT1FBNTFTMGtMRjl2UXRFUHZyNW5FUzd0QkNPMnpYRDF6dEd6djFuTHZXTVBvUXk1VTNydGdDN3dZTFpDakZlVFZfMFgwVDZJdjNEMjd6WXR5NjN2UU9XT0R1eUhOMFh0TXRsZ3F5M3l6OTF6LTRTc05BR21lcmZISXpGZ1o2alV1aTAyMll3T29ValhYN0JKa29XbzlVLWZjNmhTeQ?oc=5",
+      "id": "230d6e2d2a07",
+      "title": "‘For mental and physical fitness, it really is good for this age group’: 55-Plus BC Games underway in Kamloops - CFJC Today Kamloops",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOTBwNi0yQVozNktaUS0tMXhxUTNVTUpjT3ZuZ2V3VkY5ckQzRG1UbDR6X1NJQjhDT203RnR3MmVsVmlLOWJ4c3FDOWk0R1d2UmxJb05vdF94Z0s4RkxCdUhnY0tSeHViakExcjM4WVZKOXdRZHlYRTY5czhCUlFTbkhNMHY2OHBMaXhMTTdic285YnhGUmxCaUJHanctNTVhVVdZbkFMQmFXYW",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOTBwNi0yQVozNktaUS0tMXhxUTNVTUpjT3ZuZ2V3VkY5ckQzRG1UbDR6X1NJQjhDT203RnR3MmVsVmlLOWJ4c3FDOWk0R1d2UmxJb05vdF94Z0s4RkxCdUhnY0tSeHViakExcjM4WVZKOXdRZHlYRTY5czhCUlFTbkhNMHY2OHBMaXhMTTdic285YnhGUmxCaUJHanctNTVhVVdZbkFMQmFXYWtPeWg3bGZVSHJPQTYtWnNRQzE3NTFNbEJONnZoOE9YS2plbDFtQXhRUFJYaw?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,19 +78,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 09 Sep 2026 16:00:00 GMT",
-          "source": "The Washington Post"
+          "published": "Thu, 10 Sep 2026 01:37:35 GMT",
+          "source": "CFJC Today Kamloops"
         }
       ]
     },
     {
-      "id": "230d6e2d2a07",
-      "title": "‘For mental and physical fitness, it really is good for this age group’: 55-Plus BC Games underway in Kamloops - CFJC Today Kamloops",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOTBwNi0yQVozNktaUS0tMXhxUTNVTUpjT3ZuZ2V3VkY5ckQzRG1UbDR6X1NJQjhDT203RnR3MmVsVmlLOWJ4c3FDOWk0R1d2UmxJb05vdF94Z0s4RkxCdUhnY0tSeHViakExcjM4WVZKOXdRZHlYRTY5czhCUlFTbkhNMHY2OHBMaXhMTTdic285YnhGUmxCaUJHanctNTVhVVdZbkFMQmFXYW",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOTBwNi0yQVozNktaUS0tMXhxUTNVTUpjT3ZuZ2V3VkY5ckQzRG1UbDR6X1NJQjhDT203RnR3MmVsVmlLOWJ4c3FDOWk0R1d2UmxJb05vdF94Z0s4RkxCdUhnY0tSeHViakExcjM4WVZKOXdRZHlYRTY5czhCUlFTbkhNMHY2OHBMaXhMTTdic285YnhGUmxCaUJHanctNTVhVVdZbkFMQmFXYWtPeWg3bGZVSHJPQTYtWnNRQzE3NTFNbEJONnZoOE9YS2plbDFtQXhRUFJYaw?oc=5",
+      "id": "09e3f0e646af",
+      "title": "After-school fitness classes offered to preteens in Oliver - Castanet",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPelhsSEVYdXUtZ0kxeklHaVliYjdYQTlVaDlSc3N4TlFfd1c2OFVqZ3N4VHlPdG5kMGNsa1d5ZTBWNmVZRmNjUGJmZWRqM2dWeXJQbEdlY1VheGZGYkcyT1BrU3RWc3dNeTQxRVVoNjczNkdENXZpcDE3VV81d2tSZk01Z21pQ29qaHJQQ25uZE5FSURSNFlJN3dUX244eE1uUkxnSm9EY3ZEaz",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelhsSEVYdXUtZ0kxeklHaVliYjdYQTlVaDlSc3N4TlFfd1c2OFVqZ3N4VHlPdG5kMGNsa1d5ZTBWNmVZRmNjUGJmZWRqM2dWeXJQbEdlY1VheGZGYkcyT1BrU3RWc3dNeTQxRVVoNjczNkdENXZpcDE3VV81d2tSZk01Z21pQ29qaHJQQ25uZE5FSURSNFlJN3dUX244eE1uUkxnSm9EY3ZEazNiTVdZ?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +98,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 10 Sep 2026 01:33:04 GMT",
-          "source": "CFJC Today Kamloops"
+          "published": "Thu, 10 Sep 2026 02:00:00 GMT",
+          "source": "Castanet"
         }
       ]
     },
     {
-      "id": "dd3f0ef9c117",
-      "title": "After-school fitness classes offered to preteens in Oliver - castanet.net",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPelhsSEVYdXUtZ0kxeklHaVliYjdYQTlVaDlSc3N4TlFfd1c2OFVqZ3N4VHlPdG5kMGNsa1d5ZTBWNmVZRmNjUGJmZWRqM2dWeXJQbEdlY1VheGZGYkcyT1BrU3RWc3dNeTQxRVVoNjczNkdENXZpcDE3VV81d2tSZk01Z21pQ29qaHJQQ25uZE5FSURSNFlJN3dUX244eE1uUkxnSm9EY3ZEaz",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelhsSEVYdXUtZ0kxeklHaVliYjdYQTlVaDlSc3N4TlFfd1c2OFVqZ3N4VHlPdG5kMGNsa1d5ZTBWNmVZRmNjUGJmZWRqM2dWeXJQbEdlY1VheGZGYkcyT1BrU3RWc3dNeTQxRVVoNjczNkdENXZpcDE3VV81d2tSZk01Z21pQ29qaHJQQ25uZE5FSURSNFlJN3dUX244eE1uUkxnSm9EY3ZEazNiTVdZ?oc=5",
+      "id": "6847fcb7975a",
+      "title": "How Helena Christensen, 57, built lifelong fitness with 'most important' strength training and NEAT - Women's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1NSMHlsVnJMbzcwcG1qZS10aGZnZHJ5dTFPVzRqQ19xUXVsRUdLSC1qWVJURjhhSU91c0hDQlJFS1VyQnhNY211NURHLWhWaHB4eFVuRUYyQjlXMjI5TVNFLWhKdFNhaFZ0aU03dkk3Y3oyWDY3WUdnQms2aVVTQWRPeG56V0k0cGt3Q1htcF9BVDZjWjJOaDFqT0xnRHBPelA0NWhaOW5uQQ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1NSMHlsVnJMbzcwcG1qZS10aGZnZHJ5dTFPVzRqQ19xUXVsRUdLSC1qWVJURjhhSU91c0hDQlJFS1VyQnhNY211NURHLWhWaHB4eFVuRUYyQjlXMjI5TVNFLWhKdFNhaFZ0aU03dkk3Y3oyWDY3WUdnQms2aVVTQWRPeG56V0k0cGt3Q1htcF9BVDZjWjJOaDFqT0xnRHBPelA0NWhaOW5uQQ?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,11 +118,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 10 Sep 2026 02:00:00 GMT",
-          "source": "castanet.net"
+          "published": "Wed, 09 Sep 2026 16:34:15 GMT",
+          "source": "Women's Health"
         }
       ]
     },
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 09 Sep 2026 17:48:46 GMT",
+          "published": "Wed, 09 Sep 2026 19:14:48 GMT",
           "source": "Men's Health"
         }
       ]
     },
     {
-      "id": "bc245f24e584",
-      "title": "6 Best Fitness Trackers in 2026 for Heart Rate, Calories and Step Tracking - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE02S29uS1pHZTk3ZjBXd3VOV2pXZDViWTdHT25DLXduaU1ZT2hBeGtGemN3Wkx3bnlCR2RXMkJFZV9IUUNxWDJWQUxIc2dXTUlFak1RbWdtVjFERkI4N1pDQnFWakNIYXlWM2sxSg?oc=5\" target=\"_blank\">6 Best Fitness Trackers in 2026 for Heart Rate, Calories and ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02S29uS1pHZTk3ZjBXd3VOV2pXZDViWTdHT25DLXduaU1ZT2hBeGtGemN3Wkx3bnlCR2RXMkJFZV9IUUNxWDJWQUxIc2dXTUlFak1RbWdtVjFERkI4N1pDQnFWakNIYXlWM2sxSg?oc=5",
+      "id": "8db8d8d84f84",
+      "title": "Column | Scientists compared 3- and 90-minute workouts. The result may surprise you. - The Washington Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNY09IRFNwUmJZWmtQT1FBNTFTMGtMRjl2UXRFUHZyNW5FUzd0QkNPMnpYRDF6dEd6djFuTHZXTVBvUXk1VTNydGdDN3dZTFpDakZlVFZfMFgwVDZJdjNEMjd6WXR5NjN2UU9XT0R1eUhOMFh0TXRsZ3F5M3l6OTF6LTRTc05BR21lcmZISXpGZ1o2alV1aTAyMll3T29ValhYN0JKa29XbzlVLW",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY09IRFNwUmJZWmtQT1FBNTFTMGtMRjl2UXRFUHZyNW5FUzd0QkNPMnpYRDF6dEd6djFuTHZXTVBvUXk1VTNydGdDN3dZTFpDakZlVFZfMFgwVDZJdjNEMjd6WXR5NjN2UU9XT0R1eUhOMFh0TXRsZ3F5M3l6OTF6LTRTc05BR21lcmZISXpGZ1o2alV1aTAyMll3T29ValhYN0JKa29XbzlVLWZjNmhTeQ?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,65 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 10 Sep 2026 00:22:00 GMT",
-          "source": "CNET"
+          "published": "Wed, 09 Sep 2026 16:00:00 GMT",
+          "source": "The Washington Post"
         }
       ]
     },
     {
-      "id": "119873daca56",
-      "title": "Gym, health pilot program rolls out as Manitoba children go back to school - winnipegfreepress.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPX2xBdENiazM1eDdkTXdYWi1tUzE5N005SGQ1dndoZ2RFQll4dUVGR3VfMlV2Um9zNEZmc3NHeklXX0tuTHBEQkxuQUY3QmptMUhFMzFpLURfYWstUUFndHRYaVNUZ1FkNF91eVAtdTlxX2QwX1ZvbVg1bDVFdmk3clRjdGNBUTZXdzhrVGVSRnZDNHF4alZnZ0RfbTV5UHg4Rm14NTlLdThxLT",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX2xBdENiazM1eDdkTXdYWi1tUzE5N005SGQ1dndoZ2RFQll4dUVGR3VfMlV2Um9zNEZmc3NHeklXX0tuTHBEQkxuQUY3QmptMUhFMzFpLURfYWstUUFndHRYaVNUZ1FkNF91eVAtdTlxX2QwX1ZvbVg1bDVFdmk3clRjdGNBUTZXdzhrVGVSRnZDNHF4alZnZ0RfbTV5UHg4Rm14NTlLdThxLTNndnpEcHN2U0VZT29vZnZHa0JwRTQwZ01raXc2SFl3RQ?oc=5",
+      "id": "03a97909256b",
+      "title": "The Worst \"Triceps Overhead Extension\" Advice I've Ever Heard | Yes... it's AI SLOP",
+      "summary": "🏆 GET MY FREE PROGRAM NOW:  https://muscularstrength.com/guaranteed_gains_sign_up_FREE \n\n📨 Join My MAILING LIST: https://muscularstrength.com/mailing-list\n\n💪🏻 CHECK OUT MY HOME & GYM WORKOUT PROGRAMS: https://muscularstrength.com/program-selector \n\n💯🏋️ONLINE COACHING: https://mus",
+      "url": "https://www.youtube.com/shorts/Y0TRgYen4vk",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
+          "channel_title": "ScottHermanFitness",
+          "video_id": "Y0TRgYen4vk",
+          "published": "2026-09-08T02:27:43+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "81030bf649b6",
+      "title": "Joe Rogan Was Right About Bread?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/Bw_wrasD8Yk",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "Bw_wrasD8Yk",
+          "published": "2026-09-09T19:00:19+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "ddcd975107a7",
+      "title": "Fort Nelson-based gym ‘incredibly grateful’ for Fort Nelson Fire Department’s AED donation - Energeticcity",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE5jV0dQMGFFenluaXJUams2Vkp3ZWtCZ2M4SnZfSTlvb0RWT0Z2d3hUR0RtZzl4dFVhVHdGQVNLRHVyTmk0Ymk2MjlXR19TTzlIZk9Zc2wyemhRTTEycVUwRHNQNy1CbXlBeHAwWC1zQk1tOUhkYW4tWHdOTjR0M1pFVlFHbHYxZWRNcHZhLWE2UkgtZExuM2pTaVJ4c1NFeHlocjNDdk5vSW",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE5jV0dQMGFFenluaXJUams2Vkp3ZWtCZ2M4SnZfSTlvb0RWT0Z2d3hUR0RtZzl4dFVhVHdGQVNLRHVyTmk0Ymk2MjlXR19TTzlIZk9Zc2wyemhRTTEycVUwRHNQNy1CbXlBeHAwWC1zQk1tOUhkYW4tWHdOTjR0M1pFVlFHbHYxZWRNcHZhLWE2UkgtZExuM2pTaVJ4c1NFeHlocjNDdk5vSWJXcEtqN1JEOXhnTjE1TV95TE41MFkzQQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,19 +224,94 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 09 Sep 2026 16:31:05 GMT",
-          "source": "winnipegfreepress.com"
+          "published": "Wed, 09 Sep 2026 23:42:11 GMT",
+          "source": "Energeticcity"
         }
       ]
     },
     {
-      "id": "727559208bbc",
-      "title": "New study finds fitness watches consistently overestimated calories burned - Scripps News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWZGbG5YWld1aUNLdnBJOEljZFpUNVJrdm1sc21yU1hVSGQ1VFpCc0VYSnJYMUZVTkJNR2RyUzdZMVFkRzJXaHZ6alo0cHJWalhMOW5xYXh6anR3YlNSdm11Z1pfR0R1SGRmZU0xM05BNWZvT184dG9VeTdiQnBZU2psQmpzTE9JNmJ1bF9IUGRRMDNpU3pJelFhdjAyN2RRX2Zpb1JEbDROM0",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWZGbG5YWld1aUNLdnBJOEljZFpUNVJrdm1sc21yU1hVSGQ1VFpCc0VYSnJYMUZVTkJNR2RyUzdZMVFkRzJXaHZ6alo0cHJWalhMOW5xYXh6anR3YlNSdm11Z1pfR0R1SGRmZU0xM05BNWZvT184dG9VeTdiQnBZU2psQmpzTE9JNmJ1bF9IUGRRMDNpU3pJelFhdjAyN2RRX2Zpb1JEbDROM0JocFE?oc=5",
+      "id": "d93bc7f3d59f",
+      "title": "STOP, You're Training Your Biceps All Wrong!",
+      "summary": "If you want to know how to build bigger biceps, how to get bigger biceps, or how to build big biceps that look thicker from every angle, this video shows you why simply doing more curls may not be the answer. You can perform barbell curls, dumbbell curls, preacher curls, hammer c",
+      "url": "https://www.youtube.com/watch?v=BJ6UVAUUJIs",
+      "score": 60.41,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:02+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "BJ6UVAUUJIs",
+          "published": "2026-09-06T17:15:16+00:00"
+        },
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "avvv8uCrft8",
+          "published": "2026-08-30T18:19:03+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "f4e4f60c15c9",
+      "title": "The WORST \"Cable Biceps Curl\" Advice I've Ever Heard | (Yes... he was serious...)",
+      "summary": "🏆 GET MY FREE PROGRAM NOW:  https://muscularstrength.com/guaranteed_gains_sign_up_FREE \n\n📨 Join My MAILING LIST: https://muscularstrength.com/mailing-list\n\n💪🏻 CHECK OUT MY HOME & GYM WORKOUT PROGRAMS: https://muscularstrength.com/program-selector \n\n💯🏋️ONLINE COACHING: https://mus",
+      "url": "https://www.youtube.com/shorts/rHyfz-1vRZU",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:03+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
+          "channel_title": "ScottHermanFitness",
+          "video_id": "rHyfz-1vRZU",
+          "published": "2026-09-02T17:31:15+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "93cf12db08b3",
+      "title": "Stop Letting Your Grip Limit Your Back Work",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/jyx3TGX84kA",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "jyx3TGX84kA",
+          "published": "2026-09-09T13:00:04+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "17d8740229f3",
+      "title": "Why Fitness Operators Are Finding Growth in Community, Not Competition - Athletech News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVpLOGU2a2JCcVZvM2pMOGprb0taNWdZdjRMR0hETVVFTWtLNVpGdDh5eTNTUEhSNFdnME8xbWJiMkVCNlN5azRMaW5VNjVMVDJjN0lPT1FybkRwZGtzOG8tM3FYNWpvMmhlTlNXU1BEVnk2T2FSQ3gzWlYxQ3h3MjdqTXU2dWhlaWRacmNBTUdyT1NGYWpRZGV0MmE?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVpLOGU2a2JCcVZvM2pMOGprb0taNWdZdjRMR0hETVVFTWtLNVpGdDh5eTNTUEhSNFdnME8xbWJiMkVCNlN5azRMaW5VNjVMVDJjN0lPT1FybkRwZGtzOG8tM3FYNWpvMmhlTlNXU1BEVnk2T2FSQ3gzWlYxQ3h3MjdqTXU2dWhlaWRacmNBTUdyT1NGYWpRZGV0MmE?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,13 +319,59 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 09 Sep 2026 22:35:53 GMT",
-          "source": "Scripps News"
+          "published": "Thu, 10 Sep 2026 09:15:39 GMT",
+          "source": "Athletech News"
         }
       ]
+    },
+    {
+      "id": "865c2e4175ae",
+      "title": "Eddie Hall Punches Twice as Hard as a Pro Boxer?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/R1Nih0VcxNA",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "R1Nih0VcxNA",
+          "published": "2026-09-08T19:00:02+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "8256ac71d8cc",
+      "title": "You’re Training the Wrong Muscles to Attract Women (According to Science)",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/rphypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike",
+      "url": "https://www.youtube.com/watch?v=_65DPfOIdLk",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "_65DPfOIdLk",
+          "published": "2026-09-08T16:00:33+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "9d6de99b3876",
@@ -218,7 +385,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 15:45:37 GMT",
@@ -227,10 +394,33 @@
       ]
     },
     {
-      "id": "a955c1daec6b",
-      "title": "No Time to Work Out? 42 Easy Ways to Move More Without Going to the Gym - The Everygirl",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE52YlNwYW90cjYyNGJHYk5rM1JsTlZjR254NlRxWWpRdU1zS2VlNmZXRVByQ0k0ZlpjQmE2UklBTDlQX3Z1d3FST1oxTGd2TjVodjhfS3NTaVFNMWN4WFJmb2Ywc3kwLUVSLTAwNGkzNGxzN3d5?oc=5\" target=\"_blank\">No Time to Work Out? 42 Easy Ways to Move More With",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52YlNwYW90cjYyNGJHYk5rM1JsTlZjR254NlRxWWpRdU1zS2VlNmZXRVByQ0k0ZlpjQmE2UklBTDlQX3Z1d3FST1oxTGd2TjVodjhfS3NTaVFNMWN4WFJmb2Ywc3kwLUVSLTAwNGkzNGxzN3d5?oc=5",
+      "id": "27f00b775a0e",
+      "title": "Mike O’Hearn Called Dr. Mike “The Little Fat Guy”",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/-jbSjHPV9K4",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "-jbSjHPV9K4",
+          "published": "2026-09-08T13:00:25+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "e0807917ba83",
+      "title": "Resistance bands are 'just as good' as dumbbells, PT says - here's a 10-minute workout to build strength and mobility - Woman & Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFRhXzViRktkSzVpbHY5NUc0UC1KaTNRLTk5MG9xUDZ0all3RW1uMm9HUWZRYkhkMkZ5N1RnRnBiTjV5TmpLbjdnYmJyQlhOVVJUVDdrcEdaVlVtclVpN2RPbEpsd2FRZnI5dGVsRmNOX0VBV2szV0dyNTRqSUVtajZ2QWZhRFN5YUhKRE5MVnFOdw?oc=5\" target=\"_blank\">Resistanc",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFRhXzViRktkSzVpbHY5NUc0UC1KaTNRLTk5MG9xUDZ0all3RW1uMm9HUWZRYkhkMkZ5N1RnRnBiTjV5TmpLbjdnYmJyQlhOVVJUVDdrcEdaVlVtclVpN2RPbEpsd2FRZnI5dGVsRmNOX0VBV2szV0dyNTRqSUVtajZ2QWZhRFN5YUhKRE5MVnFOdw?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +428,65 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 09 Sep 2026 21:04:57 GMT",
-          "source": "The Everygirl"
+          "published": "Thu, 10 Sep 2026 06:00:00 GMT",
+          "source": "Woman & Home"
         }
       ]
     },
     {
-      "id": "0ae77ad7d39b",
-      "title": "I tried bungee fitness at Get Fit Together in Concord. - Axios",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTJMT1RURE1TMU44RllPbHVjWU4zZ2xyTm5nY09oNUhYNU1xOWQ4SlVPVTRuR0pYb1VyVGliNlNNM0p4V1F1WkpZMl9OT2RSbDE5djc0N0w5NEJTREJYMGhqRFFPblIxNk82SlJSRGdBRjJSdE5VUjJWVV9BelE1TWRmTHYwbXRpcFptdzV2ZWtnVjd4c3hHM3hIbGxRSkE?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTJMT1RURE1TMU44RllPbHVjWU4zZ2xyTm5nY09oNUhYNU1xOWQ4SlVPVTRuR0pYb1VyVGliNlNNM0p4V1F1WkpZMl9OT2RSbDE5djc0N0w5NEJTREJYMGhqRFFPblIxNk82SlJSRGdBRjJSdE5VUjJWVV9BelE1TWRmTHYwbXRpcFptdzV2ZWtnVjd4c3hHM3hIbGxRSkE?oc=5",
+      "id": "4a9905e4c963",
+      "title": "Dr. Mike Calls Steroids Poison... But Still Takes Them",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/j83bF92zR-g",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "j83bF92zR-g",
+          "published": "2026-09-07T19:00:16+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "2ef3f5de799f",
+      "title": "Mike O'Hearn is TOO BIG for Health",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/trbkS6Vfyfg",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "trbkS6Vfyfg",
+          "published": "2026-09-07T13:00:23+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "727559208bbc",
+      "title": "New study finds fitness watches consistently overestimated calories burned - Scripps News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWZGbG5YWld1aUNLdnBJOEljZFpUNVJrdm1sc21yU1hVSGQ1VFpCc0VYSnJYMUZVTkJNR2RyUzdZMVFkRzJXaHZ6alo0cHJWalhMOW5xYXh6anR3YlNSdm11Z1pfR0R1SGRmZU0xM05BNWZvT184dG9VeTdiQnBZU2psQmpzTE9JNmJ1bF9IUGRRMDNpU3pJelFhdjAyN2RRX2Zpb1JEbDROM0",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWZGbG5YWld1aUNLdnBJOEljZFpUNVJrdm1sc21yU1hVSGQ1VFpCc0VYSnJYMUZVTkJNR2RyUzdZMVFkRzJXaHZ6alo0cHJWalhMOW5xYXh6anR3YlNSdm11Z1pfR0R1SGRmZU0xM05BNWZvT184dG9VeTdiQnBZU2psQmpzTE9JNmJ1bF9IUGRRMDNpU3pJelFhdjAyN2RRX2Zpb1JEbDROM0JocFE?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +494,42 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 09 Sep 2026 18:21:17 GMT",
-          "source": "Axios"
+          "published": "Wed, 09 Sep 2026 22:35:53 GMT",
+          "source": "Scripps News"
         }
       ]
     },
     {
-      "id": "5017eb65707e",
-      "title": "P.E.I. couple hoping to bring mobile dog gym to the Island - PNI Atlantic News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNcllyMUpzRFNmWmJINmg1d0pzQThoTTdjU09QS01UYkVLZVZJT2x1UEhHclZRZy1wN1pRaDdYOVdVTWVaSzZTUGY5aGw3dlFUY1piaUpaNDUzVHJCcTVqSU1nd2hrTDNIOVdMWURhaW9tdzRiLVJDUUo3ODVTNnNaREsycjVXWlZZOWVfcWZVcEdqUUxjT2VaTHBrZUhzUQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcllyMUpzRFNmWmJINmg1d0pzQThoTTdjU09QS01UYkVLZVZJT2x1UEhHclZRZy1wN1pRaDdYOVdVTWVaSzZTUGY5aGw3dlFUY1piaUpaNDUzVHJCcTVqSU1nd2hrTDNIOVdMWURhaW9tdzRiLVJDUUo3ODVTNnNaREsycjVXWlZZOWVfcWZVcEdqUUxjT2VaTHBrZUhzUQ?oc=5",
+      "id": "354705a4e212",
+      "title": "Women Lift With Better Technique, Here's Why",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/vXgPyEOp2fc",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-10T11:13:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "vXgPyEOp2fc",
+          "published": "2026-09-06T19:00:05+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "a65473d553bd",
+      "title": "Gym, health pilot program rolls out as Manitoba children go back to school - Winnipeg Free Press",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPX2xBdENiazM1eDdkTXdYWi1tUzE5N005SGQ1dndoZ2RFQll4dUVGR3VfMlV2Um9zNEZmc3NHeklXX0tuTHBEQkxuQUY3QmptMUhFMzFpLURfYWstUUFndHRYaVNUZ1FkNF91eVAtdTlxX2QwX1ZvbVg1bDVFdmk3clRjdGNBUTZXdzhrVGVSRnZDNHF4alZnZ0RfbTV5UHg4Rm14NTlLdThxLT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX2xBdENiazM1eDdkTXdYWi1tUzE5N005SGQ1dndoZ2RFQll4dUVGR3VfMlV2Um9zNEZmc3NHeklXX0tuTHBEQkxuQUY3QmptMUhFMzFpLURfYWstUUFndHRYaVNUZ1FkNF91eVAtdTlxX2QwX1ZvbVg1bDVFdmk3clRjdGNBUTZXdzhrVGVSRnZDNHF4alZnZ0RfbTV5UHg4Rm14NTlLdThxLTNndnpEcHN2U0VZT29vZnZHa0JwRTQwZ01raXc2SFl3RQ?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,131 +537,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
+      "first_seen": "2026-09-10T11:10:41+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 08 Sep 2026 12:21:16 GMT",
-          "source": "PNI Atlantic News"
-        }
-      ]
-    },
-    {
-      "id": "a4a41cf7ef9d",
-      "title": "Workout Wednesday: Exercises you can do at home - ABC30 Fresno",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9DZXVmZ2QySFpZUWZvY2hVYkZ0R1Y5TndobXpCUkRDYVNIaVc0U3RtakwtMjFoSmVNS1R2UkRhR3FtMXg0RUF1bXc3RXlMekdTc2RHdkRkX1ZHZWd2Zm10cU1DbXpkaFlMMHI1cUQ2NHhtUVlsRV81ZURTVVLSAYIBQVVfeXFMT1Z1R05valA0YW13dE1QZE1LaXRxMzVsNVZ6aHVuYmJIR1pZUn",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DZXVmZ2QySFpZUWZvY2hVYkZ0R1Y5TndobXpCUkRDYVNIaVc0U3RtakwtMjFoSmVNS1R2UkRhR3FtMXg0RUF1bXc3RXlMekdTc2RHdkRkX1ZHZWd2Zm10cU1DbXpkaFlMMHI1cUQ2NHhtUVlsRV81ZURTVVLSAYIBQVVfeXFMT1Z1R05valA0YW13dE1QZE1LaXRxMzVsNVZ6aHVuYmJIR1pZUnoyWHJjWG1KWi10SThsMngtd2hSR2VyT0EzN1Y1ZFB5LWhxUUVmbDhmbmpSbGxBdWhMWWIwNVdleGZTS0l3NWNDR0JjMGVOdG1fUURuMnJrS0c3NG9zUQ?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 09 Sep 2026 13:18:28 GMT",
-          "source": "ABC30 Fresno"
-        }
-      ]
-    },
-    {
-      "id": "20ff538f5617",
-      "title": "Workout or nap? Either can help your sleepless brain, study finds - McGill University",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcndwSjBReXhLeUJmVnBVYjlXS3I1ZDU2OUZRa0xCVlU3SmNVMktHMEt2WHNDUmhkcEJwaDVVSXVhZUM3QjU4NDNRei15ckVUWUVNcXBJS3BPeGM1OG5abTZjM2tWM0VOaDVFZE5UV1VJcHpFZjFYamhBSHZuSDNaaF94N0hEUTMzVjBFMV94Vk1PenlaQ0w3bm1EcmFIWlNKVUhUM24tMV8xbU",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcndwSjBReXhLeUJmVnBVYjlXS3I1ZDU2OUZRa0xCVlU3SmNVMktHMEt2WHNDUmhkcEJwaDVVSXVhZUM3QjU4NDNRei15ckVUWUVNcXBJS3BPeGM1OG5abTZjM2tWM0VOaDVFZE5UV1VJcHpFZjFYamhBSHZuSDNaaF94N0hEUTMzVjBFMV94Vk1PenlaQ0w3bm1EcmFIWlNKVUhUM24tMV8xbUM4TmVpdDdnRTJRZw?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "source": "McGill University"
-        }
-      ]
-    },
-    {
-      "id": "ddcd975107a7",
-      "title": "Fort Nelson-based gym ‘incredibly grateful’ for Fort Nelson Fire Department’s AED donation - Energeticcity",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE5jV0dQMGFFenluaXJUams2Vkp3ZWtCZ2M4SnZfSTlvb0RWT0Z2d3hUR0RtZzl4dFVhVHdGQVNLRHVyTmk0Ymk2MjlXR19TTzlIZk9Zc2wyemhRTTEycVUwRHNQNy1CbXlBeHAwWC1zQk1tOUhkYW4tWHdOTjR0M1pFVlFHbHYxZWRNcHZhLWE2UkgtZExuM2pTaVJ4c1NFeHlocjNDdk5vSW",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE5jV0dQMGFFenluaXJUams2Vkp3ZWtCZ2M4SnZfSTlvb0RWT0Z2d3hUR0RtZzl4dFVhVHdGQVNLRHVyTmk0Ymk2MjlXR19TTzlIZk9Zc2wyemhRTTEycVUwRHNQNy1CbXlBeHAwWC1zQk1tOUhkYW4tWHdOTjR0M1pFVlFHbHYxZWRNcHZhLWE2UkgtZExuM2pTaVJ4c1NFeHlocjNDdk5vSWJXcEtqN1JEOXhnTjE1TV95TE41MFkzQQ?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 09 Sep 2026 23:42:11 GMT",
-          "source": "Energeticcity"
-        }
-      ]
-    },
-    {
-      "id": "8554a0bf540e",
-      "title": "Chelsea Handler, 51, swears by these 2 longevity exercises for stronger legs and a more stable core - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2FKZjZDd3N4X2lIcTJtUXNTeEJyUDkta1YzVVB6Tzk3WjUySVgyNkpXOWVxRzV1N2d3Z1UxWnA0T05lU25zU0MxZFNXRU15NnlXQWliN3h4dmxLbjJScC0wVkhWUGtUamtnVFpWRnJXZlBkMnFuOHV3Vjh2bDVsRHNSbWhjZFVCODcxRldHcmZKSXcxa2JJLS1oMm9uX0QyQVNmWjl1bw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2FKZjZDd3N4X2lIcTJtUXNTeEJyUDkta1YzVVB6Tzk3WjUySVgyNkpXOWVxRzV1N2d3Z1UxWnA0T05lU25zU0MxZFNXRU15NnlXQWliN3h4dmxLbjJScC0wVkhWUGtUamtnVFpWRnJXZlBkMnFuOHV3Vjh2bDVsRHNSbWhjZFVCODcxRldHcmZKSXcxa2JJLS1oMm9uX0QyQVNmWjl1bw?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 09 Sep 2026 17:04:15 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "04db45025f62",
-      "title": "How Carol Vorderman, 65, builds real strength that lasts – one Romanian deadlift at a time - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2FxTmxmR1J5TlhHcUZEcWw5bXZta1N6WUwzSzhaY1FkV3JZVnBkamJQMXdhV3FFeTFlTndVNExNQ3ljTU1ad1UyQ3Y5WnlicmJvT1l5QWh3ZFNJQVBsT0k2bnlsdXFVN1RkQ0F5NXctVDlQOXdRc1pDRmhTZ041NGFmNjBrZ2V5aHl5T3BGc1cxU2JyN2FFcEdxUEEzRHdTUmtJaUFjUzVGRF",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2FxTmxmR1J5TlhHcUZEcWw5bXZta1N6WUwzSzhaY1FkV3JZVnBkamJQMXdhV3FFeTFlTndVNExNQ3ljTU1ad1UyQ3Y5WnlicmJvT1l5QWh3ZFNJQVBsT0k2bnlsdXFVN1RkQ0F5NXctVDlQOXdRc1pDRmhTZ041NGFmNjBrZ2V5aHl5T3BGc1cxU2JyN2FFcEdxUEEzRHdTUmtJaUFjUzVGRFp6d1E?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 10 Sep 2026 04:02:25 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "9d5a7587ca35",
-      "title": "'I'm stronger than ever at 70 – if you're between 30 and 60, do these 5 things to stay independent at my age' - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmJtRXk3WUVGQzh2VU9KRXdjeVluS1RiYncyQkpvTGFYUmd1dmhmaXJyS00takNiMHFJNjJGOVhvNGZ6NXVHcy13REFDQm1KQ2NCeWdUYXlhYmd6LTZ3MVN5emJibHZ5dGdWTWxyUFRkM2VkUlVUU3N3RFBfczVsRTlfX0hxcFpfTGhldTlKV0lXdkFabGZuRXhnYUJIT1c5a203NXV6c2x0bG",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmJtRXk3WUVGQzh2VU9KRXdjeVluS1RiYncyQkpvTGFYUmd1dmhmaXJyS00takNiMHFJNjJGOVhvNGZ6NXVHcy13REFDQm1KQ2NCeWdUYXlhYmd6LTZ3MVN5emJibHZ5dGdWTWxyUFRkM2VkUlVUU3N3RFBfczVsRTlfX0hxcFpfTGhldTlKV0lXdkFabGZuRXhnYUJIT1c5a203NXV6c2x0bGdsUEU2R1JxdFJPTzQ?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-09-10T04:31:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 09 Sep 2026 04:08:42 GMT",
-          "source": "Women's Health"
+          "published": "Wed, 09 Sep 2026 16:31:05 GMT",
+          "source": "Winnipeg Free Press"
         }
       ]
     }
