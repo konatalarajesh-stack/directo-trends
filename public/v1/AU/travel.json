@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "AU",
-  "generated_at": "2026-09-12T15:37:12+00:00",
+  "generated_at": "2026-09-12T20:39:01+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "fa7f63bcbbfd",
-      "title": "Escape the crowds with the new ‘not hot’ list - The Australian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUHlUdkFOQmtsTEJqMG8zeVdMSXZPQTUtYS1aN2hENzFRUk14WlBacFlZN3UwVUZ5QnJHdHNkWGRzU1c3bmVOdW8xYWE1MUVKUUNhLWZ3OUNCa2dRS1hEWERtRzVHWXkwakF6Q3B1c3o3SmhwS2RfWFV4RURWQmNVZHdDLWpPTFhnR3NMQWtqT085YnNsaHlGWERfZWZwQkhqVHBxTVNaWDZOY2",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUHlUdkFOQmtsTEJqMG8zeVdMSXZPQTUtYS1aN2hENzFRUk14WlBacFlZN3UwVUZ5QnJHdHNkWGRzU1c3bmVOdW8xYWE1MUVKUUNhLWZ3OUNCa2dRS1hEWERtRzVHWXkwakF6Q3B1c3o3SmhwS2RfWFV4RURWQmNVZHdDLWpPTFhnR3NMQWtqT085YnNsaHlGWERfZWZwQkhqVHBxTVNaWDZOY2dZMEZHUmZjMlN0b2xIcUM0Tjk0UzhmTEc1SjJ6aFUwOUlIYmRxQ3lwN25LaVdoR2dZVFF0NmhrSFU?oc=5",
+      "id": "75fe017261db",
+      "title": "Travel tips: The ‘single biggest source of delays’ at the check in counter and how to avoid it - Nine.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUk9lUE96QkZMRWFKUnVUZFVFQkZfYVowbC13Vm1SczFtTms1a19TYmZ5clFleXJxWkg1bDZFT2J3Rnp4SjNCM3d4UlFkbnotcHlSM0VhQXU3bjNUZlF6THBZYnltZ2RVT3piTzhqRGIyMEFhbUxMYVgxTk8tYm00SGg5ZmxpcTJPRXdxRXBaNVlqTDB1b2JYd3c4TTl6eWJOaHlqRHlXRXVheG",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUk9lUE96QkZMRWFKUnVUZFVFQkZfYVowbC13Vm1SczFtTms1a19TYmZ5clFleXJxWkg1bDZFT2J3Rnp4SjNCM3d4UlFkbnotcHlSM0VhQXU3bjNUZlF6THBZYnltZ2RVT3piTzhqRGIyMEFhbUxMYVgxTk8tYm00SGg5ZmxpcTJPRXdxRXBaNVlqTDB1b2JYd3c4TTl6eWJOaHlqRHlXRXVheG8yQl90NGh0bF9SR1hDU2ZjUXhfeXRJVlpVTUZ5Vw?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 12 Sep 2026 19:00:00 GMT",
+          "source": "Nine.com.au"
+        }
+      ]
+    },
+    {
+      "id": "fa7f63bcbbfd",
+      "title": "Escape the crowds with the new ‘not hot’ list - The Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUHlUdkFOQmtsTEJqMG8zeVdMSXZPQTUtYS1aN2hENzFRUk14WlBacFlZN3UwVUZ5QnJHdHNkWGRzU1c3bmVOdW8xYWE1MUVKUUNhLWZ3OUNCa2dRS1hEWERtRzVHWXkwakF6Q3B1c3o3SmhwS2RfWFV4RURWQmNVZHdDLWpPTFhnR3NMQWtqT085YnNsaHlGWERfZWZwQkhqVHBxTVNaWDZOY2",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUHlUdkFOQmtsTEJqMG8zeVdMSXZPQTUtYS1aN2hENzFRUk14WlBacFlZN3UwVUZ5QnJHdHNkWGRzU1c3bmVOdW8xYWE1MUVKUUNhLWZ3OUNCa2dRS1hEWERtRzVHWXkwakF6Q3B1c3o3SmhwS2RfWFV4RURWQmNVZHdDLWpPTFhnR3NMQWtqT085YnNsaHlGWERfZWZwQkhqVHBxTVNaWDZOY2dZMEZHUmZjMlN0b2xIcUM0Tjk0UzhmTEc1SjJ6aFUwOUlIYmRxQ3lwN25LaVdoR2dZVFF0NmhrSFU?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Sat, 12 Sep 2026 14:08:12 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "0756c44ba566",
-      "title": "‘I’d heard bad stories about San Francisco. This trip totally changed my mind’ - nine.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTJLZ1Jsa1hCVmJkcjh6Sm5FTWxjYjcwRzBjQXZrX2cxWGt1QmFoMU4zWGhMYllobUF0R3hnLU8yQlQzMnJjdFNORWhWbFNfanJWZm1fRGg1dmxBdkJ3ZV83Y3Z0a0hybHN1U0RYWUZCQ0Zna05fTTdER1ZGVG1XaDl4Uk1SOWpodzNfRmF3eGVLLXA3eTFIRVc5cUV0U2xtVGczSWFEdUlIR2",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTJLZ1Jsa1hCVmJkcjh6Sm5FTWxjYjcwRzBjQXZrX2cxWGt1QmFoMU4zWGhMYllobUF0R3hnLU8yQlQzMnJjdFNORWhWbFNfanJWZm1fRGg1dmxBdkJ3ZV83Y3Z0a0hybHN1U0RYWUZCQ0Zna05fTTdER1ZGVG1XaDl4Uk1SOWpodzNfRmF3eGVLLXA3eTFIRVc5cUV0U2xtVGczSWFEdUlIR2pkU0ZVUUVnNUh3ZFZRREdKVWRKS2ZOd2VEY3Z4SG9kZGkwZTF5dWc?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 11 Sep 2026 19:00:00 GMT",
-          "source": "nine.com.au"
-        }
-      ]
-    },
-    {
-      "id": "9466def36135",
-      "title": "Obsession: I Found This Backpack in Osaka—Now I Can’t Travel Without It - ELLE Decor",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOalJxQlRkbW9lei1RWkFucTZ4U21zZlBSYW1qbmFXb1BVU2ZQQ2NtOEZQdUlDVFJYR0RkUERnSFBMRW1TYzIwc3pmUmZBTFNLSFhpR0xIbGFLWnNHdFY0c2JFRDJKQmdPazRVS1k5UFQxNFZlcFM3bDZtQ1hfS3c5c0l3MA?oc=5\" target=\"_blank\">Obsession: I Found This Backp",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOalJxQlRkbW9lei1RWkFucTZ4U21zZlBSYW1qbmFXb1BVU2ZQQ2NtOEZQdUlDVFJYR0RkUERnSFBMRW1TYzIwc3pmUmZBTFNLSFhpR0xIbGFLWnNHdFY0c2JFRDJKQmdPazRVS1k5UFQxNFZlcFM3bDZtQ1hfS3c5c0l3MA?oc=5",
+      "id": "57a96063aeaf",
+      "title": "Warm ski season a warning of bleak future for Australia’s snow tourism: ‘So this is our new normal’ - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcURaNGhOeWtna3doQWFfWDhMQ3BLUWR0LXhkb05uS0N3a1pGSl9CaUFDUThpcWpFMW55dHFYWG9YZWNDVHZWcmx4RDRIcFdvUDV4ZU0tTms1b1p3bWNTWUJRcXZYajJ4LXNxM0xTVG9SMVNEalRiR0UyNmxscHdKMUdBbk1VYVRkWkJvakhFd013eHBXMFlpSnN3SDZEVjlfc2dvOHhJYno5Qk",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcURaNGhOeWtna3doQWFfWDhMQ3BLUWR0LXhkb05uS0N3a1pGSl9CaUFDUThpcWpFMW55dHFYWG9YZWNDVHZWcmx4RDRIcFdvUDV4ZU0tTms1b1p3bWNTWUJRcXZYajJ4LXNxM0xTVG9SMVNEalRiR0UyNmxscHdKMUdBbk1VYVRkWkJvakhFd013eHBXMFlpSnN3SDZEVjlfc2dvOHhJYno5QkpZaUc5OE9Rc09SZjlvTkowTzJFdURqSGRSd2FDYnk5UW5DVk9tOTBWMGE1d0JqVDB2QVdHbWllX0Q?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,11 +58,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 11 Sep 2026 22:47:45 GMT",
-          "source": "ELLE Decor"
+          "published": "Sat, 12 Sep 2026 20:02:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Tue, 08 Sep 2026 04:07:00 GMT",
@@ -98,7 +98,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Fri, 11 Sep 2026 13:17:52 GMT",
@@ -107,10 +107,10 @@
       ]
     },
     {
-      "id": "66f76a6f0c75",
-      "title": "‘Nothing stopping us’: Couple’s wild life - News.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxONEd3bERUWWVmTmxSSEs3U2J2R080QWpUM01MMGE2MWhlWnh6WThCZC1FMzRSd0Y4MjRJNTAxSGRmOEQ2UGtvQmhlb09xZksyTVJDd3g0cVFlSURFYjBuSDVFaVBVZWVrNmk5YU1rUXlXQkt5YVVtemhmMTluMVY4VFg0enR0c1RWMkxHZkpIMjN3NUlIUllpQlNhRHlCMWg1V2h5aWRXWXppZk",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONEd3bERUWWVmTmxSSEs3U2J2R080QWpUM01MMGE2MWhlWnh6WThCZC1FMzRSd0Y4MjRJNTAxSGRmOEQ2UGtvQmhlb09xZksyTVJDd3g0cVFlSURFYjBuSDVFaVBVZWVrNmk5YU1rUXlXQkt5YVVtemhmMTluMVY4VFg0enR0c1RWMkxHZkpIMjN3NUlIUllpQlNhRHlCMWg1V2h5aWRXWXppZkg3aENLdnlkUXhZeDY4U3Y1UlFyMU0xakpnLTVjdVFZZ0hVSjUwV05YTERTUGowQTVnYUNLUHNKX29oTExTQXfSAe8BQVVfeXFMT0xlU3dlZmdldExyTEd6OU04YndNZG1lMmYyY1pWUVZSSGg4QkttX3lTU0JqOHRSZmxSeU45aWZJTkhUT0FMdmJRcnIyaUctTHpCVVhnN0lNMVBmaGUyQjQ2WDV5Z2NTemg0TklsSkI5azRwal9FRHlxaDROakRsSVJDRGRtX3Z1VVNjaUoyMU4xNVZvSlRvNUtwb2Q0MFJGeUxGMUJWSzh3NXdQR1IzNTlpbThyUWZpMFNldXhGd0NFTEw3aG5WYlEwa1hfUnJSdGo5Rm5kVkJ5TGd3dlFhNW05alMtQjVta25LU2szNlE?oc=5",
+      "id": "39a5d9e2a788",
+      "title": "Weighing on the pros and cons of 49ers', Rams' Melbourne travel - ESPN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkVMN2p6UjJhb2pvbEM1OWV2V0dpLVFHYzJLN3Y2VVJZdzNsWnQ1dU5sREdsUGl0OXFfUGw2V21aNlRjU1JJcklyM1lnMFJJZGRRYnYxYzJZOVlqOWlpSVZMb1BJMURwSmI0UHhhdEJfdkZuUTdlMlVjcEVNZ2RZVmRsNVJQQ2JOdWpOenN4OVhUTVMzbGUzczlsVjd6aGJ1RFo4d1pIQjgtVF",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkVMN2p6UjJhb2pvbEM1OWV2V0dpLVFHYzJLN3Y2VVJZdzNsWnQ1dU5sREdsUGl0OXFfUGw2V21aNlRjU1JJcklyM1lnMFJJZGRRYnYxYzJZOVlqOWlpSVZMb1BJMURwSmI0UHhhdEJfdkZuUTdlMlVjcEVNZ2RZVmRsNVJQQ2JOdWpOenN4OVhUTVMzbGUzczlsVjd6aGJ1RFo4d1pIQjgtVFJma1h4azhlSFRnMUgyczVRYkdaZFZlb05FOEVJ?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,27 +118,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 11 Sep 2026 20:55:18 GMT",
-          "source": "News.com.au"
-        }
-      ]
-    },
-    {
-      "id": "39a5d9e2a788",
-      "title": "Weighing on the pros and cons of 49ers', Rams' Melbourne travel - ESPN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkVMN2p6UjJhb2pvbEM1OWV2V0dpLVFHYzJLN3Y2VVJZdzNsWnQ1dU5sREdsUGl0OXFfUGw2V21aNlRjU1JJcklyM1lnMFJJZGRRYnYxYzJZOVlqOWlpSVZMb1BJMURwSmI0UHhhdEJfdkZuUTdlMlVjcEVNZ2RZVmRsNVJQQ2JOdWpOenN4OVhUTVMzbGUzczlsVjd6aGJ1RFo4d1pIQjgtVF",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkVMN2p6UjJhb2pvbEM1OWV2V0dpLVFHYzJLN3Y2VVJZdzNsWnQ1dU5sREdsUGl0OXFfUGw2V21aNlRjU1JJcklyM1lnMFJJZGRRYnYxYzJZOVlqOWlpSVZMb1BJMURwSmI0UHhhdEJfdkZuUTdlMlVjcEVNZ2RZVmRsNVJQQ2JOdWpOenN4OVhUTVMzbGUzczlsVjd6aGJ1RFo4d1pIQjgtVFJma1h4azhlSFRnMUgyczVRYkdaZFZlb05FOEVJ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Wed, 09 Sep 2026 13:20:15 GMT",
@@ -147,42 +127,22 @@
       ]
     },
     {
-      "id": "c05df0e06dea",
-      "title": "DPP's intensified control over travel to the mainland draws criticism - news.cgtn.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0wzZW95ZUY4cWRFUW9FbG54dUNrdllkQ1ZvTlVQMFlDdGdhWWdoWHZSZ19QdkZSRUJCSnpCWURtOTczVGtBUnBCWVpoRUFpOUNSR2dUM3VWN0hiZHpKY0RoLWpFQmNubTJENGpfdmZnTFoyQ1BWODUyYjFzdkZxWWtqUTJJUE9UZzdjQlZ6RjBUMm02aXpNb0lOYUQ4czd5c0FfU3dVbUtTdX",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0wzZW95ZUY4cWRFUW9FbG54dUNrdllkQ1ZvTlVQMFlDdGdhWWdoWHZSZ19QdkZSRUJCSnpCWURtOTczVGtBUnBCWVpoRUFpOUNSR2dUM3VWN0hiZHpKY0RoLWpFQmNubTJENGpfdmZnTFoyQ1BWODUyYjFzdkZxWWtqUTJJUE9UZzdjQlZ6RjBUMm02aXpNb0lOYUQ4czd5c0FfU3dVbUtTdXhPM2xHTnVrRVQwYnFudG8wd1pvak1jbmN1?oc=5",
-      "score": 64.8,
+      "id": "00baf8a570c8",
+      "title": "Rams say travel isn't to blame for their Australia debacle - NBC Los Angeles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFFweHZxa3k2N3NFLWFHUnVEU25OTkVTa3BDV0lCRkVBMlM3U21zbXlxdXFhZHFqQ2U2Vk9hT21URURvVXd0NnMxdkVEYmk2TE5RTC0zS1lMdjlOUi1oRk5rMFdjUTYzOUQ0TzR2NlVMMFc1b2J3NXMzTVB2bEdrbXFxQlnSAYwBQVVfeXFMTm53bElyRHBzdjRKdFhCSkYyWmVycFRjcGtmcW",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFFweHZxa3k2N3NFLWFHUnVEU25OTkVTa3BDV0lCRkVBMlM3U21zbXlxdXFhZHFqQ2U2Vk9hT21URURvVXd0NnMxdkVEYmk2TE5RTC0zS1lMdjlOUi1oRk5rMFdjUTYzOUQ0TzR2NlVMMFc1b2J3NXMzTVB2bEdrbXFxQlnSAYwBQVVfeXFMTm53bElyRHBzdjRKdFhCSkYyWmVycFRjcGtmcWh4RDM3Zll3NkZTcC1TSWhWcHVFQ05SY3IwOURYWWE1LU1NR053RV84dVNoSW1DaTNxYTRxSlZnUUhOLTlyU2ZVR3VpME5Nam5JOUd2MTEtR2hEU2lpVS04V1ZBRllCY0ZEOFJhZW5aelo?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 12 Sep 2026 10:34:29 GMT",
-          "source": "news.cgtn.com"
-        }
-      ]
-    },
-    {
-      "id": "162796ec842c",
-      "title": "Taking a professional approach to travel health - The West Australian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVpfY29XNW9Ud1F6NU1nRG4wd2RCbVhLT2xfWmVPQ2NiLWYtb0ZPRjBkMEdRbGxOSkc3c0h1RHFpRUdFczVRZW1pSWdhcS10TTJSZFVyMFp3T0F1Sk5NajJ4V2FhMkgzdDB6cGVIbUJCNG9RMjI2SUpna2RGTEw0R3RCOFVYX3pWWkMyZU4yQThHZw?oc=5\" target=\"_blank\">Taking a ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVpfY29XNW9Ud1F6NU1nRG4wd2RCbVhLT2xfWmVPQ2NiLWYtb0ZPRjBkMEdRbGxOSkc3c0h1RHFpRUdFczVRZW1pSWdhcS10TTJSZFVyMFp3T0F1Sk5NajJ4V2FhMkgzdDB6cGVIbUJCNG9RMjI2SUpna2RGTEw0R3RCOFVYX3pWWkMyZU4yQThHZw?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 12 Sep 2026 05:46:00 GMT",
-          "source": "The West Australian"
+          "published": "Sat, 12 Sep 2026 17:57:49 GMT",
+          "source": "NBC Los Angeles"
         }
       ]
     },
@@ -191,14 +151,14 @@
       "title": "How a luxury travel experience accidentally made me a better driver - drive.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVE5rQkZsOVZ2c0dPNU8yWmh1bElYdDdBZDZHYzh0UmlDby1lVzFYRHVGbm9LeXd2UHFNcUtEM0lEcHdoN21zOURPYWJsTV9Nbzhtb3Ztd0RnR0xnTU9EdUY2dC0wbmxRVGhNWlh1YkxjdktXYVFwaTVQd2ZmTFBHMU9XVVJDczNBUGM1NmZiWkpIeHd2MlZWandENV8?oc=5\" target=\"_bla",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVE5rQkZsOVZ2c0dPNU8yWmh1bElYdDdBZDZHYzh0UmlDby1lVzFYRHVGbm9LeXd2UHFNcUtEM0lEcHdoN21zOURPYWJsTV9Nbzhtb3Ztd0RnR0xnTU9EdUY2dC0wbmxRVGhNWlh1YkxjdktXYVFwaTVQd2ZmTFBHMU9XVVJDczNBUGM1NmZiWkpIeHd2MlZWandENV8?oc=5",
-      "score": 57.6,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Thu, 10 Sep 2026 06:40:58 GMT",
@@ -207,22 +167,22 @@
       ]
     },
     {
-      "id": "22f0d89045d5",
-      "title": "Winter Travel Insurance: How To Protect Your Holiday Flight - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1NSX3NjNkJCVjZ3VDUwdlRsZlJTS1IwLUlZSVFicVJNS3VBTGNxeXlZTk9ZVHllVFNnd3ptbDg1cUotNFU3OEZwaFNZX1FUOHB2bkhIWDBzaXNJMndLenp5R2czTS1nRU5hM1BlYUNjTWRwblFubnNGMXFnbExGYkN4aGY1RVZEYlB2YU0taVZzbmN3T0tGbGwtUE9ZVFZ0dy1VSC1HMHBYZn",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1NSX3NjNkJCVjZ3VDUwdlRsZlJTS1IwLUlZSVFicVJNS3VBTGNxeXlZTk9ZVHllVFNnd3ptbDg1cUotNFU3OEZwaFNZX1FUOHB2bkhIWDBzaXNJMndLenp5R2czTS1nRU5hM1BlYUNjTWRwblFubnNGMXFnbExGYkN4aGY1RVZEYlB2YU0taVZzbmN3T0tGbGwtUE9ZVFZ0dy1VSC1HMHBYZnliREZaVktWN2NkY2N4TlE?oc=5",
-      "score": 54.0,
+      "id": "c05df0e06dea",
+      "title": "DPP's intensified control over travel to the mainland draws criticism - news.cgtn.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0wzZW95ZUY4cWRFUW9FbG54dUNrdllkQ1ZvTlVQMFlDdGdhWWdoWHZSZ19QdkZSRUJCSnpCWURtOTczVGtBUnBCWVpoRUFpOUNSR2dUM3VWN0hiZHpKY0RoLWpFQmNubTJENGpfdmZnTFoyQ1BWODUyYjFzdkZxWWtqUTJJUE9UZzdjQlZ6RjBUMm02aXpNb0lOYUQ4czd5c0FfU3dVbUtTdX",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0wzZW95ZUY4cWRFUW9FbG54dUNrdllkQ1ZvTlVQMFlDdGdhWWdoWHZSZ19QdkZSRUJCSnpCWURtOTczVGtBUnBCWVpoRUFpOUNSR2dUM3VWN0hiZHpKY0RoLWpFQmNubTJENGpfdmZnTFoyQ1BWODUyYjFzdkZxWWtqUTJJUE9UZzdjQlZ6RjBUMm02aXpNb0lOYUQ4czd5c0FfU3dVbUtTdXhPM2xHTnVrRVQwYnFudG8wd1pvak1jbmN1?oc=5",
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 12 Sep 2026 03:44:07 GMT",
-          "source": "Forbes"
+          "published": "Sat, 12 Sep 2026 10:34:29 GMT",
+          "source": "news.cgtn.com"
         }
       ]
     },
@@ -231,14 +191,14 @@
       "title": "Free canola field lets tourists take selfies without trampling crops - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTEwSnNvLXhmS3RCd0RRRXlETjFoVEZET3N2T0FkSmwzamx1WGRsNGRJelJoZ05wRUxUaUlNa1RRWFR2cGdkSkE2VVQ3RFcyb3RiS3Q0QkpIRWZneWNBWEFYZkF6LUhmQWh6VGlqZFVPcFVUMmFZVDJHN0RESHhreVJxaTJsOUx1dFc3NHBEaUxyN2M?oc=5\" target=\"_blank\">Free can",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTEwSnNvLXhmS3RCd0RRRXlETjFoVEZET3N2T0FkSmwzamx1WGRsNGRJelJoZ05wRUxUaUlNa1RRWFR2cGdkSkE2VVQ3RFcyb3RiS3Q0QkpIRWZneWNBWEFYZkF6LUhmQWh6VGlqZFVPcFVUMmFZVDJHN0RESHhreVJxaTJsOUx1dFc3NHBEaUxyN2M?oc=5",
-      "score": 50.4,
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Thu, 10 Sep 2026 19:25:48 GMT",
@@ -247,42 +207,42 @@
       ]
     },
     {
-      "id": "c2d3b41f4258",
-      "title": "More travel, more sensitivity. | 2027 Manitou Mezzer LT Pro G2 - Freehub Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE41OUgyYkxJSzBxSTBma2QtcDdIRFlZVDBKUEFydG9IcVBfakphdjM1NnNCMTJ6VlJEcHR2RUpRXzZhMmx2ZEdEX09JVjJMQmsydW1zUHdCWl9pTjZqWjhtMWlSRncxWGU1?oc=5\" target=\"_blank\">More travel, more sensitivity. | 2027 Manitou Mezzer LT Pro G2</a>&",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41OUgyYkxJSzBxSTBma2QtcDdIRFlZVDBKUEFydG9IcVBfakphdjM1NnNCMTJ6VlJEcHR2RUpRXzZhMmx2ZEdEX09JVjJMQmsydW1zUHdCWl9pTjZqWjhtMWlSRncxWGU1?oc=5",
-      "score": 46.8,
+      "id": "9466def36135",
+      "title": "Obsession: I Found This Backpack in Osaka—Now I Can’t Travel Without It - ELLE Decor",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOalJxQlRkbW9lei1RWkFucTZ4U21zZlBSYW1qbmFXb1BVU2ZQQ2NtOEZQdUlDVFJYR0RkUERnSFBMRW1TYzIwc3pmUmZBTFNLSFhpR0xIbGFLWnNHdFY0c2JFRDJKQmdPazRVS1k5UFQxNFZlcFM3bDZtQ1hfS3c5c0l3MA?oc=5\" target=\"_blank\">Obsession: I Found This Backp",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOalJxQlRkbW9lei1RWkFucTZ4U21zZlBSYW1qbmFXb1BVU2ZQQ2NtOEZQdUlDVFJYR0RkUERnSFBMRW1TYzIwc3pmUmZBTFNLSFhpR0xIbGFLWnNHdFY0c2JFRDJKQmdPazRVS1k5UFQxNFZlcFM3bDZtQ1hfS3c5c0l3MA?oc=5",
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 11 Sep 2026 16:25:16 GMT",
-          "source": "Freehub Magazine"
+          "published": "Fri, 11 Sep 2026 22:47:45 GMT",
+          "source": "ELLE Decor"
         }
       ]
     },
     {
-      "id": "bfa497d45660",
-      "title": "49ers coach Kyle Shanahan cool on NFL return to Australia: ‘I just don’t like to travel’ - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3RBLVViZGliSnVpME5BOHNhX0NvRkUzc09UVTh0X3hHdVFlcVl6SjVVWUlqTXB4T2dkeTBMSFhzRFdBTkN0NGN4RWZ4ZUxRaHNGMVlZNm1tRjdQLTZFSGU3aUYyMzFpbjE5dW54a1k0YWhJQWJ6ejNMSFJRMy1nSEgtRGpkcHhXLUR4M0ZCbEZWMml2bjRjVjhES1dEUjBu?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3RBLVViZGliSnVpME5BOHNhX0NvRkUzc09UVTh0X3hHdVFlcVl6SjVVWUlqTXB4T2dkeTBMSFhzRFdBTkN0NGN4RWZ4ZUxRaHNGMVlZNm1tRjdQLTZFSGU3aUYyMzFpbjE5dW54a1k0YWhJQWJ6ejNMSFJRMy1nSEgtRGpkcHhXLUR4M0ZCbEZWMml2bjRjVjhES1dEUjBu?oc=5",
-      "score": 43.2,
+      "id": "162796ec842c",
+      "title": "Taking a professional approach to travel health - The West Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVpfY29XNW9Ud1F6NU1nRG4wd2RCbVhLT2xfWmVPQ2NiLWYtb0ZPRjBkMEdRbGxOSkc3c0h1RHFpRUdFczVRZW1pSWdhcS10TTJSZFVyMFp3T0F1Sk5NajJ4V2FhMkgzdDB6cGVIbUJCNG9RMjI2SUpna2RGTEw0R3RCOFVYX3pWWkMyZU4yQThHZw?oc=5\" target=\"_blank\">Taking a ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVpfY29XNW9Ud1F6NU1nRG4wd2RCbVhLT2xfWmVPQ2NiLWYtb0ZPRjBkMEdRbGxOSkc3c0h1RHFpRUdFczVRZW1pSWdhcS10TTJSZFVyMFp3T0F1Sk5NajJ4V2FhMkgzdDB6cGVIbUJCNG9RMjI2SUpna2RGTEw0R3RCOFVYX3pWWkMyZU4yQThHZw?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 11 Sep 2026 07:04:00 GMT",
-          "source": "The Guardian"
+          "published": "Sat, 12 Sep 2026 05:46:00 GMT",
+          "source": "The West Australian"
         }
       ]
     },
@@ -291,14 +251,14 @@
       "title": "Virgin Australia takes off with its Travel Media Network, appoints Suddenly to manage sales - Virgin Australia",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWp5ZHI2NU1KTjYzalZLdE1MUEJldTluWmg4Wl9mTGt6QXFFeElhQy1ORUIyRzI3QXZHa0Y3UlNMSVNTRmZhNWNUY2pNWVp1aGNqS3RTSTF6ZkgzT2c5OVdCUVVDNzNTZEdPOVZlZkJaMmFZaUNKeWhKd3lSV1FHNlhOVUNvT2hTNElXVEl3Qy1ZcXE1ZWE4OEYySTR3Ym9FTlI4R3VxZDhDZz",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWp5ZHI2NU1KTjYzalZLdE1MUEJldTluWmg4Wl9mTGt6QXFFeElhQy1ORUIyRzI3QXZHa0Y3UlNMSVNTRmZhNWNUY2pNWVp1aGNqS3RTSTF6ZkgzT2c5OVdCUVVDNzNTZEdPOVZlZkJaMmFZaUNKeWhKd3lSV1FHNlhOVUNvT2hTNElXVEl3Qy1ZcXE1ZWE4OEYySTR3Ym9FTlI4R3VxZDhDZzFzcUFYNg?oc=5",
-      "score": 39.6,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Thu, 10 Sep 2026 11:37:54 GMT",
@@ -307,18 +267,38 @@
       ]
     },
     {
-      "id": "e62e61f5ae29",
-      "title": "I went to Bali with my toddler and saw travel nannies everywhere - The Australian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcXdKM1ZjR1RHUDlybWJnOFFZRl96U3JTdHdDQ2tKVWI0bnRSRmhkZ1E3RmtxSm5rSVZILTV6UmFyQXFqRnFXcXNMRzNKanFpYm14Mm9CRnJucDhwM2dScFRGZWJ6c0RQVFpDVUQxbVdPS3REbUl5b2YtQW9UMlljWlpOX0o1bU5Bcnk5dHByWERsN0RMT1phT3RDZjYtTmVvaEFDUjNBMXc1WG",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcXdKM1ZjR1RHUDlybWJnOFFZRl96U3JTdHdDQ2tKVWI0bnRSRmhkZ1E3RmtxSm5rSVZILTV6UmFyQXFqRnFXcXNMRzNKanFpYm14Mm9CRnJucDhwM2dScFRGZWJ6c0RQVFpDVUQxbVdPS3REbUl5b2YtQW9UMlljWlpOX0o1bU5Bcnk5dHByWERsN0RMT1phT3RDZjYtTmVvaEFDUjNBMXc1WG50U21Nc1ZsRlRiMkFBekFZR3FBdERUOE53czRqcXJEWXE2NlV4dTlRUnBQUHlEVnlBUHY3TGVrZnpoY1ZtNGfSAe8BQVVfeXFMTnY5cmtjS1VJanFyRjhOYUhkcjF6emxqNU5ubkJ2VS12OHVENjJLeUd4dlFvUzc2R21OQnpsamhMZ3FtdGNqREdMQk9Ld1N5Y0FSVFV5STAwMDB5WEd5RFlMN2xKZTZoSllVdHBvOGlTQy1Jb0RKdldBNklhWTA4SmZpS0dUdVU3ZXc2cFBERkdXWVZUUjRmTFZFODJsVFFxQUxKSGwzYUNhWTVRTjdtcEgwTk10MGVrT3V2ckw2c04wLUU2T3Flb1ZSTF9SOTdHdmN6UVhwZ2FmX2ZDbTVWcndjR1YyMGJhRy1PbXloYlE?oc=5",
-      "score": 36.0,
+      "id": "c2d3b41f4258",
+      "title": "More travel, more sensitivity. | 2027 Manitou Mezzer LT Pro G2 - Freehub Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE41OUgyYkxJSzBxSTBma2QtcDdIRFlZVDBKUEFydG9IcVBfakphdjM1NnNCMTJ6VlJEcHR2RUpRXzZhMmx2ZEdEX09JVjJMQmsydW1zUHdCWl9pTjZqWjhtMWlSRncxWGU1?oc=5\" target=\"_blank\">More travel, more sensitivity. | 2027 Manitou Mezzer LT Pro G2</a>&",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41OUgyYkxJSzBxSTBma2QtcDdIRFlZVDBKUEFydG9IcVBfakphdjM1NnNCMTJ6VlJEcHR2RUpRXzZhMmx2ZEdEX09JVjJMQmsydW1zUHdCWl9pTjZqWjhtMWlSRncxWGU1?oc=5",
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 11 Sep 2026 16:25:16 GMT",
+          "source": "Freehub Magazine"
+        }
+      ]
+    },
+    {
+      "id": "e62e61f5ae29",
+      "title": "I went to Bali with my toddler and saw travel nannies everywhere - The Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcXdKM1ZjR1RHUDlybWJnOFFZRl96U3JTdHdDQ2tKVWI0bnRSRmhkZ1E3RmtxSm5rSVZILTV6UmFyQXFqRnFXcXNMRzNKanFpYm14Mm9CRnJucDhwM2dScFRGZWJ6c0RQVFpDVUQxbVdPS3REbUl5b2YtQW9UMlljWlpOX0o1bU5Bcnk5dHByWERsN0RMT1phT3RDZjYtTmVvaEFDUjNBMXc1WG",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcXdKM1ZjR1RHUDlybWJnOFFZRl96U3JTdHdDQ2tKVWI0bnRSRmhkZ1E3RmtxSm5rSVZILTV6UmFyQXFqRnFXcXNMRzNKanFpYm14Mm9CRnJucDhwM2dScFRGZWJ6c0RQVFpDVUQxbVdPS3REbUl5b2YtQW9UMlljWlpOX0o1bU5Bcnk5dHByWERsN0RMT1phT3RDZjYtTmVvaEFDUjNBMXc1WG50U21Nc1ZsRlRiMkFBekFZR3FBdERUOE53czRqcXJEWXE2NlV4dTlRUnBQUHlEVnlBUHY3TGVrZnpoY1ZtNGfSAe8BQVVfeXFMTnY5cmtjS1VJanFyRjhOYUhkcjF6emxqNU5ubkJ2VS12OHVENjJLeUd4dlFvUzc2R21OQnpsamhMZ3FtdGNqREdMQk9Ld1N5Y0FSVFV5STAwMDB5WEd5RFlMN2xKZTZoSllVdHBvOGlTQy1Jb0RKdldBNklhWTA4SmZpS0dUdVU3ZXc2cFBERkdXWVZUUjRmTFZFODJsVFFxQUxKSGwzYUNhWTVRTjdtcEgwTk10MGVrT3V2ckw2c04wLUU2T3Flb1ZSTF9SOTdHdmN6UVhwZ2FmX2ZDbTVWcndjR1YyMGJhRy1PbXloYlE?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Wed, 09 Sep 2026 19:08:32 GMT",
@@ -328,21 +308,21 @@
     },
     {
       "id": "1ced7bb2e85b",
-      "title": "The little-known Southeast Asian paradise set to take off in 2027 - nine.com.au",
+      "title": "The little-known Southeast Asian paradise set to take off in 2027 - Nine.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZmMxYUd6UDI2eHFPOGdBNEk1RUxYNVNqM2lsbHNzY3VFckRRTm1pQ2hHRzVIVklLTmhWWW1xVXRqVlVFaDlET2Z3aEpmQXJzZU1YSUQwd1FaZWZGa1pSOFdHcWhudFhFZnQ3dzB0RkdicFdzTEJTSFZRMHUxUHM3NmFqamNna2ZoX2g0S2p2OWJxSHNweUx2ZVg2UHhnQ3R0cWF5bnFwZnhmcE",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZmMxYUd6UDI2eHFPOGdBNEk1RUxYNVNqM2lsbHNzY3VFckRRTm1pQ2hHRzVIVklLTmhWWW1xVXRqVlVFaDlET2Z3aEpmQXJzZU1YSUQwd1FaZWZGa1pSOFdHcWhudFhFZnQ3dzB0RkdicFdzTEJTSFZRMHUxUHM3NmFqamNna2ZoX2g0S2p2OWJxSHNweUx2ZVg2UHhnQ3R0cWF5bnFwZnhmcEpMLXhNRDZZbk5nTXZYYXZHOG44RVBiSjN5ZXBFajBlLWFDUQ?oc=5",
-      "score": 32.4,
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Thu, 10 Sep 2026 19:00:00 GMT",
-          "source": "nine.com.au"
+          "source": "Nine.com.au"
         }
       ]
     },
@@ -351,14 +331,14 @@
       "title": "The tourism industry is slowly waking up to solo travelers’ needs - The Conversation",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTM3NmNSTGo2WVJBakh0eGNkeUNURFdiM3RXX3JDbkJvU1J2X2VpczFrc2tSVWJwclZUZkxPanFfdURDSjhpdmdmN0VzTEJ1dUFZWFVUTVFHT3VtVk5tbUpEamVVUV9XU2IzOTluZVpiNDE5VnBLLU12aGljekNVMC1xMmdjemQtcWdaZEZPUHI2b3BlWmtBTW5fbldlT2RQ?oc=5\" target=",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTM3NmNSTGo2WVJBakh0eGNkeUNURFdiM3RXX3JDbkJvU1J2X2VpczFrc2tSVWJwclZUZkxPanFfdURDSjhpdmdmN0VzTEJ1dUFZWFVUTVFHT3VtVk5tbUpEamVVUV9XU2IzOTluZVpiNDE5VnBLLU12aGljekNVMC1xMmdjemQtcWdaZEZPUHI2b3BlWmtBTW5fbldlT2RQ?oc=5",
-      "score": 28.8,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Thu, 10 Sep 2026 12:44:09 GMT",
@@ -371,6 +351,26 @@
       "title": "Have you made one of these six travel mistakes? - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVRiMXdEcUNPLW56WklOcGRJWl9oSVRobkY3aHBJQ1NfTk10NGtiaEdBenhqN1FPU21GVW5EaWJ5ZzdUSk50LUl6b21sRUdhMHpVNEVRUE1ZY1lTTjdHYWN2WUFuOWRPVHpHaUQ5QjNJckhLdmtiTUxPTjEwTkF4cWNqbnZzVzRxYkp4QXE0YzdGR0pEOXBSRG9B?oc=5\" target=\"_blank\"",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVRiMXdEcUNPLW56WklOcGRJWl9oSVRobkY3aHBJQ1NfTk10NGtiaEdBenhqN1FPU21GVW5EaWJ5ZzdUSk50LUl6b21sRUdhMHpVNEVRUE1ZY1lTTjdHYWN2WUFuOWRPVHpHaUQ5QjNJckhLdmtiTUxPTjEwTkF4cWNqbnZzVzRxYkp4QXE0YzdGR0pEOXBSRG9B?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-12T20:30:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 10 Sep 2026 02:02:06 GMT",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ]
+    },
+    {
+      "id": "0756c44ba566",
+      "title": "‘I’d heard bad stories about San Francisco. This trip totally changed my mind’ - Nine.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTJLZ1Jsa1hCVmJkcjh6Sm5FTWxjYjcwRzBjQXZrX2cxWGt1QmFoMU4zWGhMYllobUF0R3hnLU8yQlQzMnJjdFNORWhWbFNfanJWZm1fRGg1dmxBdkJ3ZV83Y3Z0a0hybHN1U0RYWUZCQ0Zna05fTTdER1ZGVG1XaDl4Uk1SOWpodzNfRmF3eGVLLXA3eTFIRVc5cUV0U2xtVGczSWFEdUlIR2",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTJLZ1Jsa1hCVmJkcjh6Sm5FTWxjYjcwRzBjQXZrX2cxWGt1QmFoMU4zWGhMYllobUF0R3hnLU8yQlQzMnJjdFNORWhWbFNfanJWZm1fRGg1dmxBdkJ3ZV83Y3Z0a0hybHN1U0RYWUZCQ0Zna05fTTdER1ZGVG1XaDl4Uk1SOWpodzNfRmF3eGVLLXA3eTFIRVc5cUV0U2xtVGczSWFEdUlIR2pkU0ZVUUVnNUh3ZFZRREdKVWRKS2ZOd2VEY3Z4SG9kZGkwZTF5dWc?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,11 +378,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 10 Sep 2026 02:02:06 GMT",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+          "published": "Fri, 11 Sep 2026 19:00:00 GMT",
+          "source": "Nine.com.au"
         }
       ]
     },
@@ -398,7 +398,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-12T15:28:20+00:00",
+      "first_seen": "2026-09-12T20:30:06+00:00",
       "raw_samples": [
         {
           "published": "Thu, 10 Sep 2026 04:43:00 GMT",
