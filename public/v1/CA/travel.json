@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-09-13T04:48:07+00:00",
+  "generated_at": "2026-09-13T11:51:33+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "4de377ec0e82",
-      "title": "A deeply personal travel journey to Germany to trace where two Auschwitz survivors married decades ago - Toronto.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNdkhaTFE1RjNsRjhoc2t1RTM1cTk3SGZ4djFKZlJnZjNFZkIxZkFmc0NqcWlqUWxOVnZyS1J1OE1tN25weFJOc0NCbjd6WUdaVmFRdVlodFg0T1ptTlk0MjVxNmZPeHc2cUVVZWtlWWxBWWJQVW1yTlN3ZkhST0M0MEJNS3Y5RXNUcXpiZzBkR2FmbWM0bF9XN1V0Snh5bkdvRGRGU3hZdnlhNV",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdkhaTFE1RjNsRjhoc2t1RTM1cTk3SGZ4djFKZlJnZjNFZkIxZkFmc0NqcWlqUWxOVnZyS1J1OE1tN25weFJOc0NCbjd6WUdaVmFRdVlodFg0T1ptTlk0MjVxNmZPeHc2cUVVZWtlWWxBWWJQVW1yTlN3ZkhST0M0MEJNS3Y5RXNUcXpiZzBkR2FmbWM0bF9XN1V0Snh5bkdvRGRGU3hZdnlhNVdJZmlFTUt0V3RYSUFkZTBfQ3hobTY0OHVsUjNxWll2TEVJc2dxcWQ1eVdXUWJRYndfMXBfMlVtVlg5WFB6aU1CS1ZXeWpveFQtanZma2ktWkNUSG9PRWEwN2JrU1h6U0FLazE2dlNVSERwRTBUSlkwdg?oc=5",
+      "id": "ffd11e4c0a9f",
+      "title": "Tourism Department Looks Back on Stunning Iceberg Season - VOCM",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTFxaUd6LVlqY0VpR0wxXzRDSFlFWUdMNFN3c1BjZDV1amFELVJkbmdNOU41dnNwaDk3bnlnV3ZDQk5zTG1PcDFtaHUxQk83T2VyZldSUVNxNVg4X3Y4Vk84STYyZ0NCYjE3aUFuQUNoNzRhQ0ZUQkFKR08ydFNLTkl4R2hLU0thU2VieDlR?oc=5\" target=\"_blank\">Tourism Departm",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTFxaUd6LVlqY0VpR0wxXzRDSFlFWUdMNFN3c1BjZDV1amFELVJkbmdNOU41dnNwaDk3bnlnV3ZDQk5zTG1PcDFtaHUxQk83T2VyZldSUVNxNVg4X3Y4Vk84STYyZ0NCYjE3aUFuQUNoNzRhQ0ZUQkFKR08ydFNLTkl4R2hLU0thU2VieDlR?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,11 +18,51 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 13 Sep 2026 10:37:00 GMT",
+          "source": "VOCM"
+        }
+      ]
+    },
+    {
+      "id": "4de377ec0e82",
+      "title": "A deeply personal travel journey to Germany to trace where two Auschwitz survivors married decades ago - toronto.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNdkhaTFE1RjNsRjhoc2t1RTM1cTk3SGZ4djFKZlJnZjNFZkIxZkFmc0NqcWlqUWxOVnZyS1J1OE1tN25weFJOc0NCbjd6WUdaVmFRdVlodFg0T1ptTlk0MjVxNmZPeHc2cUVVZWtlWWxBWWJQVW1yTlN3ZkhST0M0MEJNS3Y5RXNUcXpiZzBkR2FmbWM0bF9XN1V0Snh5bkdvRGRGU3hZdnlhNV",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdkhaTFE1RjNsRjhoc2t1RTM1cTk3SGZ4djFKZlJnZjNFZkIxZkFmc0NqcWlqUWxOVnZyS1J1OE1tN25weFJOc0NCbjd6WUdaVmFRdVlodFg0T1ptTlk0MjVxNmZPeHc2cUVVZWtlWWxBWWJQVW1yTlN3ZkhST0M0MEJNS3Y5RXNUcXpiZzBkR2FmbWM0bF9XN1V0Snh5bkdvRGRGU3hZdnlhNVdJZmlFTUt0V3RYSUFkZTBfQ3hobTY0OHVsUjNxWll2TEVJc2dxcWQ1eVdXUWJRYndfMXBfMlVtVlg5WFB6aU1CS1ZXeWpveFQtanZma2ktWkNUSG9PRWEwN2JrU1h6U0FLazE2dlNVSERwRTBUSlkwdg?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
           "published": "Fri, 11 Sep 2026 09:00:00 GMT",
-          "source": "Toronto.com"
+          "source": "toronto.com"
+        }
+      ]
+    },
+    {
+      "id": "de075fae8d3a",
+      "title": "Does Travel Insurance Help In A Crisis? Here’s What You Need To Know - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkx0bVFzOWR1c2dQemNxOUlWZXU0bHNFQ0lYOTZVal9OamVGWndxcVV6anVQeFdiNVVHdnowckYzblh0YTYyVXJtVkhfOHRpMHhZU1c3aFYwdlJpa2YyOXBQSDZkQ2RlazFCZnotdTJSLTRpUHFyYjQ4MlFXSk1qZVNPTGoxMEg0bjZEeHpkU3hhZk9IUkFZMHYzSUJNajV6TERRcWI4OVZ3Ql",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkx0bVFzOWR1c2dQemNxOUlWZXU0bHNFQ0lYOTZVal9OamVGWndxcVV6anVQeFdiNVVHdnowckYzblh0YTYyVXJtVkhfOHRpMHhZU1c3aFYwdlJpa2YyOXBQSDZkQ2RlazFCZnotdTJSLTRpUHFyYjQ4MlFXSk1qZVNPTGoxMEg0bjZEeHpkU3hhZk9IUkFZMHYzSUJNajV6TERRcWI4OVZ3Qld3VGRHLUliZUtJMW1kdExWSDM2WnhoZlZo?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-13T11:42:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 13 Sep 2026 04:36:55 GMT",
+          "source": "Forbes"
         }
       ]
     },
@@ -31,14 +71,14 @@
       "title": "Travel nurse agency sues N.L. health authority over info release, contract bid results - CBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3N3R3UwNUQ2YU93SU9yVFFyZGp5SktKamljYWJKXzNhTDA3WnN1OUNEUzIyUnhLSFJTWHhmd1QwZ0FrNHhscnBLYzdUWmo0N1lYNkJDdnBUejlNd1lPN0JxYXRPdnZJWkRJdldaZFNrSjBXM0RkMjl6WFZpdG9tSHBGb0lZRVVneUdLUHJ1Zk51YUpwR0JWTFl0M2ljOGZV?oc=5\" target=",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3N3R3UwNUQ2YU93SU9yVFFyZGp5SktKamljYWJKXzNhTDA3WnN1OUNEUzIyUnhLSFJTWHhmd1QwZ0FrNHhscnBLYzdUWmo0N1lYNkJDdnBUejlNd1lPN0JxYXRPdnZJWkRJdldaZFNrSjBXM0RkMjl6WFZpdG9tSHBGb0lZRVVneUdLUHJ1Zk51YUpwR0JWTFl0M2ljOGZV?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
           "published": "Sat, 12 Sep 2026 08:30:00 GMT",
@@ -47,50 +87,10 @@
       ]
     },
     {
-      "id": "79bafbf4ef69",
-      "title": "Travel Lakeland names Cold Lake as tourism hub - LakelandToday.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXhBVHRnellEMEJqRGNBZEdSWDRVajhCOVRXVG5ES0pIWGFiNFBJTmh4TUM3QXBnQUpJVERNTWM3M0o0Q3Z6OHhuZmItRkNidS1uSWVKa25SUGIzTW1uRVNYY1J0S3J4Y2dsVjhqT3ZaZzB5b2JWeDNma3ZxS3JXcXlPVy1MeXVxTFUzdzZqbjkxTlJITG02bVJIdHNfSmxD?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXhBVHRnellEMEJqRGNBZEdSWDRVajhCOVRXVG5ES0pIWGFiNFBJTmh4TUM3QXBnQUpJVERNTWM3M0o0Q3Z6OHhuZmItRkNidS1uSWVKa25SUGIzTW1uRVNYY1J0S3J4Y2dsVjhqT3ZaZzB5b2JWeDNma3ZxS3JXcXlPVy1MeXVxTFUzdzZqbjkxTlJITG02bVJIdHNfSmxD?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 12 Sep 2026 15:00:00 GMT",
-          "source": "LakelandToday.ca"
-        }
-      ]
-    },
-    {
-      "id": "fa2e0fbdfb4f",
-      "title": "Montrealers travel to Paris for Céline Dion’s big comeback - montreal.citynews.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFFQZDZsdDdPaFh0cDlYT3pKRW00ZHc3SllKYjNrc1ZTRHVQUTl1UGE2TjlGYzl4SEdpd2xvOWNucGRacmdMc2UzRXlmNDYwQVctYlFqbXJlM0NROGd0RWNSNnp1S2dnRVNONDZUUWtaTC1JOVJldHd2dk52N2NSUTFhbl9XME1XbWc?oc=5\" target=\"_blank\">Montrealers travel t",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFFQZDZsdDdPaFh0cDlYT3pKRW00ZHc3SllKYjNrc1ZTRHVQUTl1UGE2TjlGYzl4SEdpd2xvOWNucGRacmdMc2UzRXlmNDYwQVctYlFqbXJlM0NROGd0RWNSNnp1S2dnRVNONDZUUWtaTC1JOVJldHd2dk52N2NSUTFhbl9XME1XbWc?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 12 Sep 2026 17:05:11 GMT",
-          "source": "montreal.citynews.ca"
-        }
-      ]
-    },
-    {
-      "id": "0a1a8695dd73",
-      "title": "More travel, more sensitivity. | 2027 Manitou Mezzer LT Pro G2 - Freehub Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE41OUgyYkxJSzBxSTBma2QtcDdIRFlZVDBKUEFydG9IcVBfakphdjM1NnNCMTJ6VlJEcHR2RUpRXzZhMmx2ZEdEX09JVjJMQmsydW1zUHdCWl9pTjZqWjhtMWlSRncxWGU1?oc=5\" target=\"_blank\">More travel, more sensitivity. | 2027 Manitou Mezzer LT Pro G2</a>&",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41OUgyYkxJSzBxSTBma2QtcDdIRFlZVDBKUEFydG9IcVBfakphdjM1NnNCMTJ6VlJEcHR2RUpRXzZhMmx2ZEdEX09JVjJMQmsydW1zUHdCWl9pTjZqWjhtMWlSRncxWGU1?oc=5",
+      "id": "bdbd42ab8313",
+      "title": "Travel between Canada and U.S. was going up before trade talks collapsed - Global News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0ozaTJENF92TlZ6LVVRc0ROMFRHSUtEQnJHMVJOdmdmMXA4bjJ3STNHRVJmZW5XVWxMS3psX3N2b1lOQVdKSEVueUdCN2FEaWgybS1TZUhwYjZrZW96R2l0SkRPRXhUZkRIWV9WZEpZelJ1NC1iNTk0UTc4clJkcA?oc=5\" target=\"_blank\">Travel between Canada and U.S. wa",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0ozaTJENF92TlZ6LVVRc0ROMFRHSUtEQnJHMVJOdmdmMXA4bjJ3STNHRVJmZW5XVWxMS3psX3N2b1lOQVdKSEVueUdCN2FEaWgybS1TZUhwYjZrZW96R2l0SkRPRXhUZkRIWV9WZEpZelJ1NC1iNTk0UTc4clJkcA?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,11 +98,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 11 Sep 2026 16:25:16 GMT",
-          "source": "Freehub Magazine"
+          "published": "Fri, 11 Sep 2026 15:40:49 GMT",
+          "source": "Global News"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
           "published": "Fri, 11 Sep 2026 22:47:45 GMT",
@@ -127,10 +127,10 @@
       ]
     },
     {
-      "id": "47e03de50a86",
-      "title": "Bereaved armed forces families granted free rail travel for Remembrance weekend - Yahoo News Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU9BbFdsVjdvdzdfMkFZc01nME0xTy1FVlVmVnhZYmdtRjlVREhESmIyeTlkMnJsYmRIckhXQVhxcEItZVZyaGNJSm5zZGdmdUh2b2RCYTBwR1dZTFdkUUhMcWpKcFZWQkZzR2xOZnFzWWxYcUNIWDNvcE43Q1NDQy1TckQxdw?oc=5\" target=\"_blank\">Bereaved armed forces fam",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU9BbFdsVjdvdzdfMkFZc01nME0xTy1FVlVmVnhZYmdtRjlVREhESmIyeTlkMnJsYmRIckhXQVhxcEItZVZyaGNJSm5zZGdmdUh2b2RCYTBwR1dZTFdkUUhMcWpKcFZWQkZzR2xOZnFzWWxYcUNIWDNvcE43Q1NDQy1TckQxdw?oc=5",
+      "id": "2e1cb0f98bdd",
+      "title": "What’s happening in Ottawa - Ottawa Tourism",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5\" target=\"_blank\">What’s happening in Ottawa</a>&nbsp;&nbsp;<font",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,27 +138,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 12 Sep 2026 21:30:01 GMT",
-          "source": "Yahoo News Canada"
-        }
-      ]
-    },
-    {
-      "id": "2e1cb0f98bdd",
-      "title": "What’s happening in Ottawa - Ottawa Tourism",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5\" target=\"_blank\">What’s happening in Ottawa</a>&nbsp;&nbsp;<font",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
           "published": "Thu, 10 Sep 2026 12:00:00 GMT",
@@ -167,10 +147,30 @@
       ]
     },
     {
-      "id": "c6814c08979f",
-      "title": "Travel between Canada and U.S. was going up before trade talks collapsed - globalnews.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0ozaTJENF92TlZ6LVVRc0ROMFRHSUtEQnJHMVJOdmdmMXA4bjJ3STNHRVJmZW5XVWxMS3psX3N2b1lOQVdKSEVueUdCN2FEaWgybS1TZUhwYjZrZW96R2l0SkRPRXhUZkRIWV9WZEpZelJ1NC1iNTk0UTc4clJkcA?oc=5\" target=\"_blank\">Travel between Canada and U.S. wa",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0ozaTJENF92TlZ6LVVRc0ROMFRHSUtEQnJHMVJOdmdmMXA4bjJ3STNHRVJmZW5XVWxMS3psX3N2b1lOQVdKSEVueUdCN2FEaWgybS1TZUhwYjZrZW96R2l0SkRPRXhUZkRIWV9WZEpZelJ1NC1iNTk0UTc4clJkcA?oc=5",
+      "id": "118688d3f7c4",
+      "title": "The White House’s Midterm-Travel Sweepstakes - The Atlantic",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXd3anpMTlF1RkI4UFBMbUdwYndVQXluNHViM2ZqclFnbzJNUUxiTFc0UW1MaDlzVE9iTjBwRlN0OTdnWTRoU1dVY0FNWkNYbFZIcXAtbVkteFlPVk5Qcy1RZ2RTN2g0YkhycVlMOHJhYjhmeURYcHpRdGVTVy1hc0NFZ0libkw0YVE?oc=5\" target=\"_blank\">The White House’s Mi",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXd3anpMTlF1RkI4UFBMbUdwYndVQXluNHViM2ZqclFnbzJNUUxiTFc0UW1MaDlzVE9iTjBwRlN0OTdnWTRoU1dVY0FNWkNYbFZIcXAtbVkteFlPVk5Qcy1RZ2RTN2g0YkhycVlMOHJhYjhmeURYcHpRdGVTVy1hc0NFZ0libkw0YVE?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-13T11:42:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 13 Sep 2026 10:00:00 GMT",
+          "source": "The Atlantic"
+        }
+      ]
+    },
+    {
+      "id": "05f83449545f",
+      "title": "Finding Your Edge: Why Some Travel Advisors Specialize in Exotic Niches - TravelPulse",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWFxakFvNDV2TUtkVllfaXFMWGFLMFVsZlhBWUFlU2k1RnN4U2hRZ0sxWVYxeTNFYnV6Mm5oRFA0QUI5cnNjd0lMYTRDVVJadE5qY25pQm51N1BOaGEyYXR5RmI4QnlJenFSbHdkZERubXZaTVplMVc4ZGRWR2tiY3BXLTZ5ZnpwZlNPMUNNZlNIWm1TdjlvVmR2RjVBMFZ5X2p0S1VIaWYxak",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWFxakFvNDV2TUtkVllfaXFMWGFLMFVsZlhBWUFlU2k1RnN4U2hRZ0sxWVYxeTNFYnV6Mm5oRFA0QUI5cnNjd0lMYTRDVVJadE5qY25pQm51N1BOaGEyYXR5RmI4QnlJenFSbHdkZERubXZaTVplMVc4ZGRWR2tiY3BXLTZ5ZnpwZlNPMUNNZlNIWm1TdjlvVmR2RjVBMFZ5X2p0S1VIaWYxakpsRTVB?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,11 +178,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 11 Sep 2026 15:40:49 GMT",
-          "source": "globalnews.ca"
+          "published": "Sun, 13 Sep 2026 11:00:00 GMT",
+          "source": "TravelPulse"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
           "published": "Wed, 26 Aug 2026 07:00:00 GMT",
@@ -218,7 +218,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
           "published": "Fri, 11 Sep 2026 13:35:00 GMT",
@@ -227,10 +227,10 @@
       ]
     },
     {
-      "id": "381eb831b6a9",
-      "title": "Rand Paul and his staff travel by private jet with taxpayer dollars while preaching fiscal restraint - Politico",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5EQ1FfVXIyTUNBSjZFdGpKSE9OVzZSam1LMWRrT3pQa19MY29kaXpZWW5MTUkwSHhZVzk2VGNOaTM5NExxQUhzNTZkS1lWVElDWmVTWUU2NC1STkthQUFxaGZnTVdDUlp1b2xBRDFVZFRGaUxYRzZoZ3JMSmg?oc=5\" target=\"_blank\">Rand Paul and his staff travel by privat",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EQ1FfVXIyTUNBSjZFdGpKSE9OVzZSam1LMWRrT3pQa19MY29kaXpZWW5MTUkwSHhZVzk2VGNOaTM5NExxQUhzNTZkS1lWVElDWmVTWUU2NC1STkthQUFxaGZnTVdDUlp1b2xBRDFVZFRGaUxYRzZoZ3JMSmg?oc=5",
+      "id": "47e03de50a86",
+      "title": "Bereaved armed forces families granted free rail travel for Remembrance weekend - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU9BbFdsVjdvdzdfMkFZc01nME0xTy1FVlVmVnhZYmdtRjlVREhESmIyeTlkMnJsYmRIckhXQVhxcEItZVZyaGNJSm5zZGdmdUh2b2RCYTBwR1dZTFdkUUhMcWpKcFZWQkZzR2xOZnFzWWxYcUNIWDNvcE43Q1NDQy1TckQxdw?oc=5\" target=\"_blank\">Bereaved armed forces fam",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU9BbFdsVjdvdzdfMkFZc01nME0xTy1FVlVmVnhZYmdtRjlVREhESmIyeTlkMnJsYmRIckhXQVhxcEItZVZyaGNJSm5zZGdmdUh2b2RCYTBwR1dZTFdkUUhMcWpKcFZWQkZzR2xOZnFzWWxYcUNIWDNvcE43Q1NDQy1TckQxdw?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,7 +238,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 12 Sep 2026 21:30:01 GMT",
+          "source": "Yahoo News Canada"
+        }
+      ]
+    },
+    {
+      "id": "381eb831b6a9",
+      "title": "Rand Paul and his staff travel by private jet with taxpayer dollars while preaching fiscal restraint - Politico",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5EQ1FfVXIyTUNBSjZFdGpKSE9OVzZSam1LMWRrT3pQa19MY29kaXpZWW5MTUkwSHhZVzk2VGNOaTM5NExxQUhzNTZkS1lWVElDWmVTWUU2NC1STkthQUFxaGZnTVdDUlp1b2xBRDFVZFRGaUxYRzZoZ3JMSmg?oc=5\" target=\"_blank\">Rand Paul and his staff travel by privat",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EQ1FfVXIyTUNBSjZFdGpKSE9OVzZSam1LMWRrT3pQa19MY29kaXpZWW5MTUkwSHhZVzk2VGNOaTM5NExxQUhzNTZkS1lWVElDWmVTWUU2NC1STkthQUFxaGZnTVdDUlp1b2xBRDFVZFRGaUxYRzZoZ3JMSmg?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
           "published": "Fri, 11 Sep 2026 08:45:00 GMT",
@@ -247,30 +267,10 @@
       ]
     },
     {
-      "id": "34043baeb8c7",
-      "title": "Peak Design Travel Tripod: Compact Enough for Carry-On? - Fstoppers",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5BVTk5Q1ctUjRXa2pDWnA3VGtxNDJjUEVrWnJJZURHRXVNeXhIMVN1NG1kRDNhOVVlTlJ1Z190c004dHlBQTlUWklTdTFIWXlSamRpUU5rbnVmX0M0NndvaTdidDgtWkJ1S3dBNWdwSmlNOUFyTFc1eTZlV1I2aEk?oc=5\" target=\"_blank\">Peak Design Travel Tripod: Compact E",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BVTk5Q1ctUjRXa2pDWnA3VGtxNDJjUEVrWnJJZURHRXVNeXhIMVN1NG1kRDNhOVVlTlJ1Z190c004dHlBQTlUWklTdTFIWXlSamRpUU5rbnVmX0M0NndvaTdidDgtWkJ1S3dBNWdwSmlNOUFyTFc1eTZlV1I2aEk?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 10 Sep 2026 16:03:02 GMT",
-          "source": "Fstoppers"
-        }
-      ]
-    },
-    {
-      "id": "62a1dd91c21d",
-      "title": "Airfare Prices Surge as Travel Costs Push Inflation Higher - TravelPulse",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmZIR2lmMTZaOW1nXzJhaTkydXhzOGN5eExGYjVobk1rX1BBdUZvam1KRzYtcURfY1JHNlRiR1UyaHJka0llZ3l3YUtPb0VSOTZpd2RFTExsTG92RzJUX1YzSTMzd0EtM2JrLWxhQVM2dnNOVG44dEMtdVA5TlZzRk1yLThNbHQ2OEFHWUhYZ2U1dERhQk9TUDh3TU0zakUtTGY1aVZXWkdJVj",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmZIR2lmMTZaOW1nXzJhaTkydXhzOGN5eExGYjVobk1rX1BBdUZvam1KRzYtcURfY1JHNlRiR1UyaHJka0llZ3l3YUtPb0VSOTZpd2RFTExsTG92RzJUX1YzSTMzd0EtM2JrLWxhQVM2dnNOVG44dEMtdVA5TlZzRk1yLThNbHQ2OEFHWUhYZ2U1dERhQk9TUDh3TU0zakUtTGY1aVZXWkdJVjNn?oc=5",
+      "id": "1b7ceb4d35f8",
+      "title": "I Love My Ugly New Travel Backpack - New York Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBKYkFtNkdZNFRDcDdKMXl5U0pKR01RN0xXUm5vVDF2emtnZElHeF81MDA1T2VZZ3JVSzNkVDNXdG1OTUhjMFM1eEtHeWFBZ194SDNGbXpzaWFMUmI5NHMweWZvLWdTZkNCb3pfaGlSTmU0N0JieE9UeHBn?oc=5\" target=\"_blank\">I Love My Ugly New Travel Backpack</a>&nbsp",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKYkFtNkdZNFRDcDdKMXl5U0pKR01RN0xXUm5vVDF2emtnZElHeF81MDA1T2VZZ3JVSzNkVDNXdG1OTUhjMFM1eEtHeWFBZ194SDNGbXpzaWFMUmI5NHMweWZvLWdTZkNCb3pfaGlSTmU0N0JieE9UeHBn?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 12 Sep 2026 11:40:00 GMT",
-          "source": "TravelPulse"
+          "published": "Fri, 11 Sep 2026 15:56:01 GMT",
+          "source": "New York Magazine"
         }
       ]
     },
     {
-      "id": "869105af7b64",
-      "title": "Take a Sleeper Train to This Sustainable French Ski Resort - National Geographic",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHd4QkR1aml3bmMwN0EyTUNKODVZVzZEU0VHSFNBcnRqZDJyY3pBU0lDcXB2YUJqb1E0a3VzcXhlM21HOUtDb1BzQkUxemQ2bS1zS2NCRHdZQ18zalV2aGdSalV5cVgxbXVGbmZTNzhwbE5DTHljZFlzcXV3Rm9HUXpBOUc3SHlDZWdDcXA4My1DaVpLZGJWN01kTkJKb1l4djRzbmh2SXNJYz",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHd4QkR1aml3bmMwN0EyTUNKODVZVzZEU0VHSFNBcnRqZDJyY3pBU0lDcXB2YUJqb1E0a3VzcXhlM21HOUtDb1BzQkUxemQ2bS1zS2NCRHdZQ18zalV2aGdSalV5cVgxbXVGbmZTNzhwbE5DTHljZFlzcXV3Rm9HUXpBOUc3SHlDZWdDcXA4My1DaVpLZGJWN01kTkJKb1l4djRzbmh2SXNJYzlBTVdPTmVNbmlwR3ZWMXc?oc=5",
+      "id": "6d304b06089e",
+      "title": "Despite U.S. trade tensions, Canadian workers are still travelling south: data - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmxmVTBXNEh0QWdJNTAwVWhqeG1Fd0pseEFXbU9MeTQ1VmdpWExhVkZhc3dmS2tTT21LZTQ2eWpyblptTTh5VHA3XzRCMzh1X2U0T1pVQnY3cC10b25RT1lnNm51SkgtdVFFS2U2djREbmZ4am90QWZPdTJPNmJpVG5HSXJVRERXOHowNi1qd3BwM3lKQmI4eHVZZ2RLLU9iSVRWOXBHSTh2el",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmxmVTBXNEh0QWdJNTAwVWhqeG1Fd0pseEFXbU9MeTQ1VmdpWExhVkZhc3dmS2tTT21LZTQ2eWpyblptTTh5VHA3XzRCMzh1X2U0T1pVQnY3cC10b25RT1lnNm51SkgtdVFFS2U2djREbmZ4am90QWZPdTJPNmJpVG5HSXJVRERXOHowNi1qd3BwM3lKQmI4eHVZZ2RLLU9iSVRWOXBHSTh2ellXNkt1bS05d2JLTC0wTUZVUkE3OWgwODk2OEE?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,11 +298,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 12 Sep 2026 23:14:15 GMT",
-          "source": "National Geographic"
+          "published": "Fri, 11 Sep 2026 09:00:00 GMT",
+          "source": "CTV News"
         }
       ]
     },
@@ -318,7 +318,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
           "published": "Thu, 10 Sep 2026 18:37:43 GMT",
@@ -338,7 +338,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
           "published": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -347,10 +347,10 @@
       ]
     },
     {
-      "id": "80959cbca299",
-      "title": "The Rams’ travel plans to Australia make absolutely no sense - SB Nation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlExdmtZSFNiWWszZnpHYUJ0Q2NMYzJqeTBBZ2pMS3lJbEFoSkxBTlJoSnhockRpOWt3cmlyYThuZF9Jc2RZSkZuVlRnelp2NnE3QjJSSDBxZ2xoSS1BM3lNcmVxSmQ2em1jV3ZqNjZzTkJUTmVIY3c0VkxrS1VDQktzSUNJWEJUWTI5UWh3ZW82N2tMZUhfdmU1VTI?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlExdmtZSFNiWWszZnpHYUJ0Q2NMYzJqeTBBZ2pMS3lJbEFoSkxBTlJoSnhockRpOWt3cmlyYThuZF9Jc2RZSkZuVlRnelp2NnE3QjJSSDBxZ2xoSS1BM3lNcmVxSmQ2em1jV3ZqNjZzTkJUTmVIY3c0VkxrS1VDQktzSUNJWEJUWTI5UWh3ZW82N2tMZUhfdmU1VTI?oc=5",
+      "id": "3517db52658f",
+      "title": "10 Little-Known Destinations Awaiting Travelers in 2027 - Visit Ukraine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXk4a1hybHNReVBoRXFVM1lkS3h3d1FRSTd2SlpMNjFWdkhGRVUwdGw1SUN5NE50dmZ1RzJscmRmVnBRY1gwb3hnSy1EUlAtQzk3NGl5aFZ5V0VPTVdPaHJuSlZudThYTjVXeWpnMVRTT2E1SUhrd01zaFlYaWNNUGZzM1BqOEZQSUhpb0doM1Y3dmVxcjdr?oc=5\" target=\"_blank\">10 ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXk4a1hybHNReVBoRXFVM1lkS3h3d1FRSTd2SlpMNjFWdkhGRVUwdGw1SUN5NE50dmZ1RzJscmRmVnBRY1gwb3hnSy1EUlAtQzk3NGl5aFZ5V0VPTVdPaHJuSlZudThYTjVXeWpnMVRTT2E1SUhrd01zaFlYaWNNUGZzM1BqOEZQSUhpb0doM1Y3dmVxcjdr?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 10 Sep 2026 14:51:40 GMT",
-          "source": "SB Nation"
+          "published": "Sun, 13 Sep 2026 09:26:38 GMT",
+          "source": "Visit Ukraine"
         }
       ]
     },
     {
-      "id": "467e26880bcd",
-      "title": "7 Best Travel Headphones in 2026 (100+ Flight Hrs Tested) - RecordingNOW.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVVnNxc2NIRTVFUXZoc0hYQmFncWRxdmVBeG9fS29rSFRaQnR4UnNvLV9tOEZQZ2IyVzNodGl1R0tJd284bVV5NUJVbHFsRkhndUFWTUVTOGxRR2FVSmt0VkM0bw?oc=5\" target=\"_blank\">7 Best Travel Headphones in 2026 (100+ Flight Hrs Tested)</a>&nbsp;&nbsp;",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVVnNxc2NIRTVFUXZoc0hYQmFncWRxdmVBeG9fS29rSFRaQnR4UnNvLV9tOEZQZ2IyVzNodGl1R0tJd284bVV5NUJVbHFsRkhndUFWTUVTOGxRR2FVSmt0VkM0bw?oc=5",
+      "id": "9570709a330f",
+      "title": "I Travel Every Month, and I Can Fit 3 Days’ Worth of Clothes and More in This Small but Mighty Backpack - Travel + Leisure",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPeDZ1OFNscUstZUozbTdwME9fNDN0aDZpTHdTdDlxWkZ1Vmw3bjM2bGJCcjRzLW1zQjZqc00wV0xjQzUyN0dIdDZ0T284Q0lweUpHRDJjX0s2bGhlbXJQNUc5T1JBN01fb3BEOGJ1ZFNGZnFBZHVEWC0zX1ZYQVNPSC1rZERUdw?oc=5\" target=\"_blank\">I Travel Every Month, and",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeDZ1OFNscUstZUozbTdwME9fNDN0aDZpTHdTdDlxWkZ1Vmw3bjM2bGJCcjRzLW1zQjZqc00wV0xjQzUyN0dIdDZ0T284Q0lweUpHRDJjX0s2bGhlbXJQNUc5T1JBN01fb3BEOGJ1ZFNGZnFBZHVEWC0zX1ZYQVNPSC1rZERUdw?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 12 Sep 2026 22:56:32 GMT",
-          "source": "RecordingNOW.com"
+          "published": "Sun, 13 Sep 2026 08:30:00 GMT",
+          "source": "Travel + Leisure"
         }
       ]
     },
     {
-      "id": "fb58bf787377",
-      "title": "Workshop explores economic impact of hosting sport events in Lac La Biche - LakelandToday.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEM2M21YbWZoQS1BVFFaRk15NW9HbUR4aG5fMDhCTkxFUTVRWDN4ZFF6UGdkVHZpeHpwM0lrdUlsTVI2akRoNm9QQmdYZDRyMmtOWEFjWkFmbl9KQjF1czNQMGNCQTJXckdEX3d1MktsZXg1VVM5bWUzVVRlSmg3MDZYcVc3RmNjYlMwNmRieVJtLWszYjJnVEJQNzFvQk9zT3l4WVFIZ3Y4Yl",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEM2M21YbWZoQS1BVFFaRk15NW9HbUR4aG5fMDhCTkxFUTVRWDN4ZFF6UGdkVHZpeHpwM0lrdUlsTVI2akRoNm9QQmdYZDRyMmtOWEFjWkFmbl9KQjF1czNQMGNCQTJXckdEX3d1MktsZXg1VVM5bWUzVVRlSmg3MDZYcVc3RmNjYlMwNmRieVJtLWszYjJnVEJQNzFvQk9zT3l4WVFIZ3Y4Yl9WdnhJZG5IUVRzSVlhdDFCUkxwd1ctSERiTmVOZw?oc=5",
+      "id": "b5047235600a",
+      "title": "Erling Haaland Treats Himself to \"Sick\" Limited-Edition Airstream Supreme Travel Trailer - autoevolution",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxONWR1ekFPSWFvRkVSMWEzT2xxS09JUzZTSFhGVXdiOWtBUGJyZU9kaWdpZk5mSUdsQXBwa2ZGOUQwZzVBcy12VUdGSGJZazlsX044TGZZdjZxdTN0dS1LSzF2QWdXVk9lYW8zSDJXV3I0RXFndi02RzRiZEhqRU8tNEVGSFFMcnd4YnhXX0I4MkRUUzk3VEpFVXFZZk9TaHhpeENSZDZ5OE5zS0",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWR1ekFPSWFvRkVSMWEzT2xxS09JUzZTSFhGVXdiOWtBUGJyZU9kaWdpZk5mSUdsQXBwa2ZGOUQwZzVBcy12VUdGSGJZazlsX044TGZZdjZxdTN0dS1LSzF2QWdXVk9lYW8zSDJXV3I0RXFndi02RzRiZEhqRU8tNEVGSFFMcnd4YnhXX0I4MkRUUzk3VEpFVXFZZk9TaHhpeENSZDZ5OE5zS05ISG9Wb0oyOTBZd2VkS2U1TlpwQVA5cEFOMzdqMVdWRlFqQQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-13T04:39:05+00:00",
+      "first_seen": "2026-09-13T11:42:37+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 12 Sep 2026 20:00:00 GMT",
-          "source": "LakelandToday.ca"
+          "published": "Sun, 13 Sep 2026 10:37:56 GMT",
+          "source": "autoevolution"
         }
       ]
     }
