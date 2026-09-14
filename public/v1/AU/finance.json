@@ -2,13 +2,13 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "AU",
-  "generated_at": "2026-09-14T04:56:18+00:00",
+  "generated_at": "2026-09-14T12:45:25+00:00",
   "cache_ttl_hours": 6,
-  "count": 21,
+  "count": 25,
   "trends": [
     {
-      "id": "5d5424bef4c6",
-      "title": "How to grow $700k to $5.4m – and why panic selling could halve returns - AFR",
+      "id": "d08a6cf51848",
+      "title": "How to grow $700k to $5.4m – and why panic selling could halve returns - afr.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhpSFRWeDd2ZjFOdmpfc3VQRXlPS3ZXVHlNM0pSQTlVWjR6R00ycXJQd0l4R0FiNnFZVVA5VUN1XzlLX2cwWElJMFVRbFhGMHpJSW5IM3puREdFWmptZEVJSnBRRThJcXZNeGlRZlBaZWpjUjgxSHhyUDJtX3J4U19aSDFYeFZSUGFuWDVoc0lUMUwtNXp2dktjNGhDME5reC1uT2FHYVZLcG",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhpSFRWeDd2ZjFOdmpfc3VQRXlPS3ZXVHlNM0pSQTlVWjR6R00ycXJQd0l4R0FiNnFZVVA5VUN1XzlLX2cwWElJMFVRbFhGMHpJSW5IM3puREdFWmptZEVJSnBRRThJcXZNeGlRZlBaZWpjUjgxSHhyUDJtX3J4U19aSDFYeFZSUGFuWDVoc0lUMUwtNXp2dktjNGhDME5reC1uT2FHYVZLcGE1RVdqMmZYQnBiQk01NUxoMTBjN2l0b0xq?oc=5",
       "score": 90.0,
@@ -18,11 +18,51 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
           "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-          "source": "AFR"
+          "source": "afr.com"
+        }
+      ]
+    },
+    {
+      "id": "bfc04d7f9de9",
+      "title": "Rs 1 Crore Corpus: How Much Can A Market Crash Take Away From Your Wealth? - NDTV Profit",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2x1V3NtNThsRWNaMzlHMnBVUDlfa1JtcmRhc1RtaTRnbWp5TFh6RUN4UjAwY3NXNkdFSmZ2bWx5VHBMZElZa3gyYjIyY2RWVi1pNkJmRTQyV3hzRktaZDBQeVZzb24yc3BUSDhSVXM5dWRlSFdOOUd2M1M3SWF2cVpsUWRMWm5TOWw4cDVfZ0h0bGxXWVI0ZkRadVNVVzZNZmxMX2d5bHpOMX",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2x1V3NtNThsRWNaMzlHMnBVUDlfa1JtcmRhc1RtaTRnbWp5TFh6RUN4UjAwY3NXNkdFSmZ2bWx5VHBMZElZa3gyYjIyY2RWVi1pNkJmRTQyV3hzRktaZDBQeVZzb24yc3BUSDhSVXM5dWRlSFdOOUd2M1M3SWF2cVpsUWRMWm5TOWw4cDVfZ0h0bGxXWVI0ZkRadVNVVzZNZmxMX2d5bHpOMXVxRmRBeGg4THlTdjRuOVRlWXE2aU9MZWfSAcsBQVVfeXFMTkRIRzdnZXRZTHFrR1doZXdISlAxWDcwd0JQeHZtRGpORDAxNW93VUU2OW5XQXJXXzBwdmwxQzNra3dDLUFwS3gweHR0Nm9mU3Y2T2FoeDhLOTRob0R5WVprX2RLdWpwMlZrc1hsc1kyNnl0ZGpPT0gwREx4UzY4Nk1icUJuazhqeGlBbExfeHJxSnFSY04wNk9CSDhsajBWcV93aWlDVjIyLV9DX2dTajRDSVE5c2RzbWhDRVlkcEtwOFNLM1N4d0k4QTQ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-09-14T12:36:26+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 14 Sep 2026 11:57:54 GMT",
+          "source": "NDTV Profit"
+        }
+      ]
+    },
+    {
+      "id": "bf184933d947",
+      "title": "Market Minute: Investing with stocks at record highs - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUU3SDhTT0t6OWJwN1FnZU1QTG5uMEJISDEtMllkZDgyZkhNNDRUbi1CdVdaWFJiRTItYjBVdnZtV09ZUFBOMWFHVFhkNWU4NjlLVTBIQi1aOUV1T2U2dXRnUkt6aEpYdVU0OE9IU2RBcllFZnpVdXRPRGFqaUhuQl8zRk9EZ0FQcUh6LS1HQmw?oc=5\" target=\"_blank\">Market Minut",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUU3SDhTT0t6OWJwN1FnZU1QTG5uMEJISDEtMllkZDgyZkhNNDRUbi1CdVdaWFJiRTItYjBVdnZtV09ZUFBOMWFHVFhkNWU4NjlLVTBIQi1aOUV1T2U2dXRnUkt6aEpYdVU0OE9IU2RBcllFZnpVdXRPRGFqaUhuQl8zRk9EZ0FQcUh6LS1HQmw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-09-14T12:36:26+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 18 Aug 2026 03:42:42 GMT",
+          "source": "Morningstar Australia"
         }
       ]
     },
@@ -31,46 +71,6 @@
       "title": "What to know about the trend of betting in prediction markets - The Week",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxON2RDbEo4MDhmTnhia1k1cnVlWW9taWFhaWUwcGNMZk42RUE1c2MwRFV5LXhfTUxwRkNaX3BqYmJHY3FGNDlwbFhqLUstLUFqUzZtZFNydC1JRWMxbTYyamk4MEQtNUZIQkdQNHJZdHJzNkc1SndLckF3LU5IUENKb083S1IxQQ?oc=5\" target=\"_blank\">What to know about the tr",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON2RDbEo4MDhmTnhia1k1cnVlWW9taWFhaWUwcGNMZk42RUE1c2MwRFV5LXhfTUxwRkNaX3BqYmJHY3FGNDlwbFhqLUstLUFqUzZtZFNydC1JRWMxbTYyamk4MEQtNUZIQkdQNHJZdHJzNkc1SndLckF3LU5IUENKb083S1IxQQ?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 11 Sep 2026 17:43:28 GMT",
-          "source": "The Week"
-        }
-      ]
-    },
-    {
-      "id": "3c03c77986d5",
-      "title": "If oil stays above $100, here’s 1 stock market winner and 1 loser - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5xVkYzOVRDYWNzMHJfY19YaFBkZ05RQkVGeFZzOHVOaUpPRFAwTDBJQ3JyMHo0WGM3TVFKNnhFbWRYdlhyRDliQWtIZ3ZrTlF2RUhqVTl6cFd4UlFyT25SZkYzMk5jY3NhNjQ4SzBiZWVKRUdrbHV2Q1pR?oc=5\" target=\"_blank\">If oil stays above $100, here’s 1 stock mar",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xVkYzOVRDYWNzMHJfY19YaFBkZ05RQkVGeFZzOHVOaUpPRFAwTDBJQ3JyMHo0WGM3TVFKNnhFbWRYdlhyRDliQWtIZ3ZrTlF2RUhqVTl6cFd4UlFyT25SZkYzMk5jY3NhNjQ4SzBiZWVKRUdrbHV2Q1pR?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 11 Sep 2026 10:38:49 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
-    },
-    {
-      "id": "ba31370a1152",
-      "title": "Donald Trump Stocks: 8 Stocks Owned by the President | Investing - US News Money",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1OM0theVZwbDJHb2Y5M2txNkxtajIwaVFMNk55ZlRuWjR0cnVOTEwyRk9CMU9NbnpLSHRtXzc4N1VrR2ZfZkdnTDhEVzVobThVWVZaNURmTExwNGVEMzEtZmkzMS11VTVFWkFPWHBaSlNaemk3T3RzdzNTclk?oc=5\" target=\"_blank\">Donald Trump Stocks: 8 Stocks Owned by t",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OM0theVZwbDJHb2Y5M2txNkxtajIwaVFMNk55ZlRuWjR0cnVOTEwyRk9CMU9NbnpLSHRtXzc4N1VrR2ZfZkdnTDhEVzVobThVWVZaNURmTExwNGVEMzEtZmkzMS11VTVFWkFPWHBaSlNaemk3T3RzdzNTclk?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,11 +78,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 08 Sep 2026 18:49:00 GMT",
-          "source": "US News Money"
+          "published": "Fri, 11 Sep 2026 17:43:28 GMT",
+          "source": "The Week"
         }
       ]
     },
@@ -98,7 +98,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
           "published": "Mon, 31 Aug 2026 07:00:00 GMT",
@@ -107,10 +107,10 @@
       ]
     },
     {
-      "id": "cfb767e68d96",
-      "title": "Canada Personal Finance 2026: $3.25 Trillion Household Debt and Rising Market Risks - kalkine.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3NJYUJoMzhmLTFuNWhiRjRsNUxWYlJCY0JXNUJnTmdXT21hcHJlUlBKMHk4OFI2QnVhMExvV1hSelZOU1hPcFZoRFQybmk2R09udk5hUVF0YjE4X3ljbWpWcm04Q1ZqVmtKbFB3bi1hNlJxZTg1NUVZXzEwdXdwOXZ0bnpzMlV6YTgweEsxSXVqaXU5LS00RC1CVU9Sck9jQjVkUS1wT2U1em",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3NJYUJoMzhmLTFuNWhiRjRsNUxWYlJCY0JXNUJnTmdXT21hcHJlUlBKMHk4OFI2QnVhMExvV1hSelZOU1hPcFZoRFQybmk2R09udk5hUVF0YjE4X3ljbWpWcm04Q1ZqVmtKbFB3bi1hNlJxZTg1NUVZXzEwdXdwOXZ0bnpzMlV6YTgweEsxSXVqaXU5LS00RC1CVU9Sck9jQjVkUS1wT2U1emN4cndmWnBPaDl0OEh2QjZ1d1VHU0hDTEhq?oc=5",
+      "id": "ba31370a1152",
+      "title": "Donald Trump Stocks: 8 Stocks Owned by the President | Investing - US News Money",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1OM0theVZwbDJHb2Y5M2txNkxtajIwaVFMNk55ZlRuWjR0cnVOTEwyRk9CMU9NbnpLSHRtXzc4N1VrR2ZfZkdnTDhEVzVobThVWVZaNURmTExwNGVEMzEtZmkzMS11VTVFWkFPWHBaSlNaemk3T3RzdzNTclk?oc=5\" target=\"_blank\">Donald Trump Stocks: 8 Stocks Owned by t",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OM0theVZwbDJHb2Y5M2txNkxtajIwaVFMNk55ZlRuWjR0cnVOTEwyRk9CMU9NbnpLSHRtXzc4N1VrR2ZfZkdnTDhEVzVobThVWVZaNURmTExwNGVEMzEtZmkzMS11VTVFWkFPWHBaSlNaemk3T3RzdzNTclk?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,19 +118,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 13 Sep 2026 06:50:00 GMT",
-          "source": "kalkine.ca"
+          "published": "Tue, 08 Sep 2026 18:49:00 GMT",
+          "source": "US News Money"
         }
       ]
     },
     {
-      "id": "068bfd8fff85",
-      "title": "Why you shouldn’t take tips from professional investors - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPQXVwcWVUNHhvd0NJS2ozMVRXSFE1ckVoRi1Ddy11U0NqUk9hZlRZWk5SU29RY3hOeGE5eVhVeFViRWpZLV9ESC01Y3RrMXBtRUw0ODhMVWFLX21UWGYydHNvMkNfUkNOdmhLQ0xRVmV6ZTk3Y1pJVVFaV2FubUQ3a1VVV1laRGM1WHR0c0VQV3FjU3p0LUYtTm4wYTVTQQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXVwcWVUNHhvd0NJS2ozMVRXSFE1ckVoRi1Ddy11U0NqUk9hZlRZWk5SU29RY3hOeGE5eVhVeFViRWpZLV9ESC01Y3RrMXBtRUw0ODhMVWFLX21UWGYydHNvMkNfUkNOdmhLQ0xRVmV6ZTk3Y1pJVVFaV2FubUQ3a1VVV1laRGM1WHR0c0VQV3FjU3p0LUYtTm4wYTVTQQ?oc=5",
+      "id": "436e36b4f78f",
+      "title": "Blunt superannuation warning as billionaire investor fears stock market crash: ‘Rubbish’ - Yahoo Finance Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1Mta3NQYkNjY0lPTUdfbVFVMTU5bUNZclVMRE1BZXMxN1JnXzd1WC1oTHBobnRRZzVIRkJ4dF8yb1lzUThvMDdNSTR4NGRaVHFWMHJIYnhJeUJPYjJweHhwX3hDU3JrZ01TWWQ1Zjd6UkNzRHBYUDJxNEEyOUZ5cnluVWE1amlSeWZENk00aGk0cTJOT2dOcWNkMmlvdFI4cUNRYnZZbWNlME",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1Mta3NQYkNjY0lPTUdfbVFVMTU5bUNZclVMRE1BZXMxN1JnXzd1WC1oTHBobnRRZzVIRkJ4dF8yb1lzUThvMDdNSTR4NGRaVHFWMHJIYnhJeUJPYjJweHhwX3hDU3JrZ01TWWQ1Zjd6UkNzRHBYUDJxNEEyOUZ5cnluVWE1amlSeWZENk00aGk0cTJOT2dOcWNkMmlvdFI4cUNRYnZZbWNlMExoZkdYZ0lIWTU5cmRlcE5vcWNrYTd2OF9aTWZoemhXLVI5YWc?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 12 May 2026 07:00:00 GMT",
-          "source": "Morningstar Australia"
+          "published": "Sun, 19 Jul 2026 07:00:00 GMT",
+          "source": "Yahoo Finance Australia"
         }
       ]
     },
     {
-      "id": "51c5ef9992a5",
-      "title": "For Gen Z, Building Wealth Is in the Stock Market, Not the Housing Market - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5\" target=\"_blank\">For Gen Z, Building Wealth Is in the Stoc",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5",
+      "id": "dc583bef7354",
+      "title": "Readers Share How Much Cash They’re Keeping in Their Portfolios - WSJ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNMG9wc2xwMXFqQmFuZUNvNUdGbmF6dWVVdGFoTmt1bzk5bjBRZ084a1RYOXc1UjZWeGdZQUdERmlJWkxTVE1yeHpOTVY3WUU2TUdmcXVpenNrT0g2cHhUb1ZwbW1EemNoRmc3THBBcXl0b0llRzZYSlBrMnhLeURLaUh1dkhEZUNjOXhMZzZvS1FJbVpSMVJaeW10SnF6OTZ1VmU2QktXYllUTn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMG9wc2xwMXFqQmFuZUNvNUdGbmF6dWVVdGFoTmt1bzk5bjBRZ084a1RYOXc1UjZWeGdZQUdERmlJWkxTVE1yeHpOTVY3WUU2TUdmcXVpenNrT0g2cHhUb1ZwbW1EemNoRmc3THBBcXl0b0llRzZYSlBrMnhLeURLaUh1dkhEZUNjOXhMZzZvS1FJbVpSMVJaeW10SnF6OTZ1VmU2QktXYllUTnFM?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,13 +158,36 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "source": "The New York Times"
+          "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+          "source": "WSJ"
         }
       ]
+    },
+    {
+      "id": "2dfa562d4ecf",
+      "title": "Ben Mallah Talks To Homeless Before Property Inspection 😭",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/LnRBvTVIXu4",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "LnRBvTVIXu4",
+          "published": "2026-09-12T19:00:14+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "27ee761bc849",
@@ -178,7 +201,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-14T04:49:38+00:00",
+      "first_seen": "2026-09-14T12:38:45+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -190,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "f8510aa120ee",
-      "title": "Five stock market scams that prey on investor’s greed - BusinessLine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2Q3TlhFNVdUMnl4ajFZY3VsOVBrbTlKN05yZ0NnTnZpVUM5VWhMcExNUHRBZHZ2NllpLTNlZUdXcnBZbDdGY1A1NDB4aEVDdkFqSmE2Tl9mVkN1ampCenhXb1BkeUxqbkpGalhFRnd5aXI5UEFTWTR1OWxFdkpxMllGdmhxTkZvNTdvY0dJRjZOM1hteXhfM0lyeG1zbFFhOTk4c3JKbmo3WV",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2Q3TlhFNVdUMnl4ajFZY3VsOVBrbTlKN05yZ0NnTnZpVUM5VWhMcExNUHRBZHZ2NllpLTNlZUdXcnBZbDdGY1A1NDB4aEVDdkFqSmE2Tl9mVkN1ampCenhXb1BkeUxqbkpGalhFRnd5aXI5UEFTWTR1OWxFdkpxMllGdmhxTkZvNTdvY0dJRjZOM1hteXhfM0lyeG1zbFFhOTk4c3JKbmo3WVNUdmhLYzYwamV2Q3A1bUhkRlY2WkdwRUhyWG1tcXYyN2NHTXZNRlHSAdgBQVVfeXFMUHpJZ0tTZDRtZHExOEI2YVJTZklJME1MWktuVVYwSS1DYmJCSGt4SE4wTmxSc185UVRVWGd5dDdxdnNBeXdyQ1FKMnVwRjJUaUpUZ284RWYwMG5wdEFfM2FPbjdSbXpTN3YweS1ZcUk2WXJRam9Hd084WURpQTdZY3RNcF85TVJuLTY2V1JidDBscWN1X09Jcld5ejhrXzBKRUlnX29LY3Iybjl3T1BhSWhWNGlJTzUtVklISFJCa0xYNGFsT3NFQ2dsOHh4UUdTQnpnY3BiakZX?oc=5",
+      "id": "068bfd8fff85",
+      "title": "Why you shouldn’t take tips from professional investors - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPQXVwcWVUNHhvd0NJS2ozMVRXSFE1ckVoRi1Ddy11U0NqUk9hZlRZWk5SU29RY3hOeGE5eVhVeFViRWpZLV9ESC01Y3RrMXBtRUw0ODhMVWFLX21UWGYydHNvMkNfUkNOdmhLQ0xRVmV6ZTk3Y1pJVVFaV2FubUQ3a1VVV1laRGM1WHR0c0VQV3FjU3p0LUYtTm4wYTVTQQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXVwcWVUNHhvd0NJS2ozMVRXSFE1ckVoRi1Ddy11U0NqUk9hZlRZWk5SU29RY3hOeGE5eVhVeFViRWpZLV9ESC01Y3RrMXBtRUw0ODhMVWFLX21UWGYydHNvMkNfUkNOdmhLQ0xRVmV6ZTk3Y1pJVVFaV2FubUQ3a1VVV1laRGM1WHR0c0VQV3FjU3p0LUYtTm4wYTVTQQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -201,19 +224,42 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 12 Sep 2026 15:23:03 GMT",
-          "source": "BusinessLine"
+          "published": "Tue, 12 May 2026 07:00:00 GMT",
+          "source": "Morningstar Australia"
         }
       ]
     },
     {
-      "id": "dc583bef7354",
-      "title": "Readers Share How Much Cash They’re Keeping in Their Portfolios - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNMG9wc2xwMXFqQmFuZUNvNUdGbmF6dWVVdGFoTmt1bzk5bjBRZ084a1RYOXc1UjZWeGdZQUdERmlJWkxTVE1yeHpOTVY3WUU2TUdmcXVpenNrT0g2cHhUb1ZwbW1EemNoRmc3THBBcXl0b0llRzZYSlBrMnhLeURLaUh1dkhEZUNjOXhMZzZvS1FJbVpSMVJaeW10SnF6OTZ1VmU2QktXYllUTn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMG9wc2xwMXFqQmFuZUNvNUdGbmF6dWVVdGFoTmt1bzk5bjBRZ084a1RYOXc1UjZWeGdZQUdERmlJWkxTVE1yeHpOTVY3WUU2TUdmcXVpenNrT0g2cHhUb1ZwbW1EemNoRmc3THBBcXl0b0llRzZYSlBrMnhLeURLaUh1dkhEZUNjOXhMZzZvS1FJbVpSMVJaeW10SnF6OTZ1VmU2QktXYllUTnFM?oc=5",
+      "id": "18f54f932419",
+      "title": "Ben Mallah's Private Jet Disaster...",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/xCb3Ljx3uJ0",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "xCb3Ljx3uJ0",
+          "published": "2026-09-12T00:00:25+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "01c03fa75858",
+      "title": "The big risk lurking in 30 years of market data - afr.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RTWmdZdDVpMUNHU3hlcGpuTkFkY2hHMUkwczM5OGNSOGc2NXNnelN4eThSSUEwYkRFRU9xM2FXZ3lDWDBkckRjRnltVGZoMmJnTVl4aWNqUUFMNmxETGVkcExnSkpZbG9wT3NaSi1kc2xMR25xZ2Roc3lQOHFNYnR0NDg2YUdTRC10anNNVlNSSTJnMUE5a3dVeGtsOHpZQ0prMTZydzhzdm",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RTWmdZdDVpMUNHU3hlcGpuTkFkY2hHMUkwczM5OGNSOGc2NXNnelN4eThSSUEwYkRFRU9xM2FXZ3lDWDBkckRjRnltVGZoMmJnTVl4aWNqUUFMNmxETGVkcExnSkpZbG9wT3NaSi1kc2xMR25xZ2Roc3lQOHFNYnR0NDg2YUdTRC10anNNVlNSSTJnMUE5a3dVeGtsOHpZQ0prMTZydzhzdmM?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -221,19 +267,65 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-          "source": "WSJ"
+          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+          "source": "afr.com"
         }
       ]
     },
     {
-      "id": "253c77507bc4",
-      "title": "Consumer confidence improves slightly, but faith in stock market weakens - Focus Taiwan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZGEyYTU0OVZJMTJqY1JScFN3dS1LNnhFTnEyYnJuLThlTGxyMTZrdE1WRDRZWHZ4ZGJGWXMyR1hIVnVvYnhKNFJuRjhLbGdLQXNxMFdRYw?oc=5\" target=\"_blank\">Consumer confidence improves slightly, but faith in stock market weakens</a>&nbsp;&nbsp;<",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZGEyYTU0OVZJMTJqY1JScFN3dS1LNnhFTnEyYnJuLThlTGxyMTZrdE1WRDRZWHZ4ZGJGWXMyR1hIVnVvYnhKNFJuRjhLbGdLQXNxMFdRYw?oc=5",
+      "id": "27c30e483134",
+      "title": "I Paid Off My 2.875% Mortgage…Dave Ramsey Was Right",
+      "summary": "Get free life insurance quotes from America's top insurers and start saving today with Policygenius: https://policygenius.com/graham Thanks to Policygenius for sponsoring this video! | Let's talk about paying off your mortgage and the benefits of being debt free | Add me on Insta",
+      "url": "https://www.youtube.com/watch?v=9TwzN5wak8A",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "9TwzN5wak8A",
+          "published": "2026-09-09T20:00:15+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "7f72ebe62a4e",
+      "title": "I Got Audited by AI",
+      "summary": "Go download the new @muse app from @meta and try it out today!\n#metapartner \n__________ \n\nBusinesses and products shown are AI-generated suggestions, not sponsored, endorsed by, or affiliated with Meta.",
+      "url": "https://www.youtube.com/shorts/Cvaf1phzEOw",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "Cvaf1phzEOw",
+          "published": "2026-09-08T21:15:22+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "3631cf277a2c",
+      "title": "Unconventional wisdom: The simple way to beat the market - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVDhUTzIzOVdWejB1YWVxZWZhZjd0SngtT2MyS1lodzM0dncyM3ZQWXlIUnVXaE1fV1g1QjhXZzF5SVpLamZYdldQWGROZTBFTndkc1RGVGF6cGsxcUF6OTd3cUF5eGFmRWRSWWZ5Qm1iN2FsZzhKMDdhS0ZFdEJtekJ1WHVQTEdJVnhrRWVHM1VqamtLNHp3?oc=5\" target=\"_blank\">Unc",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVDhUTzIzOVdWejB1YWVxZWZhZjd0SngtT2MyS1lodzM0dncyM3ZQWXlIUnVXaE1fV1g1QjhXZzF5SVpLamZYdldQWGROZTBFTndkc1RGVGF6cGsxcUF6OTd3cUF5eGFmRWRSWWZ5Qm1iN2FsZzhKMDdhS0ZFdEJtekJ1WHVQTEdJVnhrRWVHM1VqamtLNHp3?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -241,19 +333,42 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-          "source": "Focus Taiwan"
+          "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+          "source": "Morningstar Australia"
         }
       ]
     },
     {
-      "id": "4d835bcdde20",
-      "title": "The 10 Best Companies to Invest in Now - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5yVFU2Q0VPQU9JSXU2b0NyQzBSMnZMYmdPNmdWa1ZmQy00ZUcwX09iOVcwREVXZWZrZU9oOHc1ME9ub0dFbEFlak9TazB1cENHWU52bkNfMkIxVEdydnphTGhSMERuV09lMWJwVmhhd0k?oc=5\" target=\"_blank\">The 10 Best Companies to Invest in Now</a>&nbsp;&nbsp;<f",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yVFU2Q0VPQU9JSXU2b0NyQzBSMnZMYmdPNmdWa1ZmQy00ZUcwX09iOVcwREVXZWZrZU9oOHc1ME9ub0dFbEFlak9TazB1cENHWU52bkNfMkIxVEdydnphTGhSMERuV09lMWJwVmhhd0k?oc=5",
+      "id": "065d15dafd2e",
+      "title": "Cost Of Living In A $30M Mansion 🤯",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/MuRrs7NNAek",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "MuRrs7NNAek",
+          "published": "2026-09-07T19:00:11+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "7f8395579404",
+      "title": "This high-octane corner of the ETF market must be handed with care - afr.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGlGbk12Z3J1MlRNbXdzenBwcTNDVmVFRFNvTGhqd29rSXdQV2lsamJhMWhIZE93UG5aakVJV2xNNkFWWWpCaWZ5Wk02RWR1S2dWRENKTWxxSVdKTlV2UTJyN1h5dlQxTUVzVV9zei1Zb1RmNDJhNlE1V090WjdsRFRWNlFBYzBSN01XenRDU2tNNXk0ZlJZWk5CNDhXejAwVlVUdEl4ZFlSaE",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGlGbk12Z3J1MlRNbXdzenBwcTNDVmVFRFNvTGhqd29rSXdQV2lsamJhMWhIZE93UG5aakVJV2xNNkFWWWpCaWZ5Wk02RWR1S2dWRENKTWxxSVdKTlV2UTJyN1h5dlQxTUVzVV9zei1Zb1RmNDJhNlE1V090WjdsRFRWNlFBYzBSN01XenRDU2tNNXk0ZlJZWk5CNDhXejAwVlVUdEl4ZFlSaEN1YmFNcGF2empEeks4eE42T2RINA?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -261,19 +376,65 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "source": "Morningstar"
+          "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "source": "afr.com"
         }
       ]
     },
     {
-      "id": "b3e6780c42c2",
-      "title": "The big risk lurking in 30 years of market data - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RTWmdZdDVpMUNHU3hlcGpuTkFkY2hHMUkwczM5OGNSOGc2NXNnelN4eThSSUEwYkRFRU9xM2FXZ3lDWDBkckRjRnltVGZoMmJnTVl4aWNqUUFMNmxETGVkcExnSkpZbG9wT3NaSi1kc2xMR25xZ2Roc3lQOHFNYnR0NDg2YUdTRC10anNNVlNSSTJnMUE5a3dVeGtsOHpZQ0prMTZydzhzdm",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RTWmdZdDVpMUNHU3hlcGpuTkFkY2hHMUkwczM5OGNSOGc2NXNnelN4eThSSUEwYkRFRU9xM2FXZ3lDWDBkckRjRnltVGZoMmJnTVl4aWNqUUFMNmxETGVkcExnSkpZbG9wT3NaSi1kc2xMR25xZ2Roc3lQOHFNYnR0NDg2YUdTRC10anNNVlNSSTJnMUE5a3dVeGtsOHpZQ0prMTZydzhzdmM?oc=5",
+      "id": "f2fed7821f77",
+      "title": "Every Finance Tiktok Ever 🤣",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/wziVT5df5S8",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "wziVT5df5S8",
+          "published": "2026-09-06T18:00:20+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "6705ee8acaea",
+      "title": "Girlfriend's Debt Takes 26 Years To Pay Off 🤦‍♂️",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/yP_I2BN8aeI",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "yP_I2BN8aeI",
+          "published": "2026-09-05T17:00:03+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "2be30fe923ec",
+      "title": "3 underappreciated benefits of cash - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObVh2YzM1RThUcWxITXNaeTY5LVo4dk16S0xRcmsyMGJEYzJiSE4yTF9fZ3d6NXcyLTRhUWpvemwxT3dzUk9wRnVIS3lNZE4tUHA0ZU1DWmZJNkpHdUJBTWxlMG9ib01PNkNnQm1idmpWeTJNbGEtOF9SdTZHemFqcE1qcFJyLUE?oc=5\" target=\"_blank\">3 underappreciated benef",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVh2YzM1RThUcWxITXNaeTY5LVo4dk16S0xRcmsyMGJEYzJiSE4yTF9fZ3d6NXcyLTRhUWpvemwxT3dzUk9wRnVIS3lNZE4tUHA0ZU1DWmZJNkpHdUJBTWxlMG9ib01PNkNnQm1idmpWeTJNbGEtOF9SdTZHemFqcE1qcFJyLUE?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -281,19 +442,42 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-          "source": "AFR"
+          "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+          "source": "Morningstar Australia"
         }
       ]
     },
     {
-      "id": "ba1955577c0f",
-      "title": "Is the stock market open on Labor Day? - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEk5Y1dsRFdDNXBxZ1hFN1pFQ1QtUGN4YUhvMWJsUjdIMVBieGdaRFp0a0d6U0dPQW4ySkdNR3pVVmRobkp2VEhzMl93OFVoREUxZ1lLck9EWHA0ZWhZR2F0QTJZb1VQZUVxTEM5eXJGa1hrZzh1V1J6QVpzYmZmYmhyeW0xTmdwaHc0SVNzV2VQRDJGRXNnaGt2WG9xS0FOMWZ0RFNTZFA0bG",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEk5Y1dsRFdDNXBxZ1hFN1pFQ1QtUGN4YUhvMWJsUjdIMVBieGdaRFp0a0d6U0dPQW4ySkdNR3pVVmRobkp2VEhzMl93OFVoREUxZ1lLck9EWHA0ZWhZR2F0QTJZb1VQZUVxTEM5eXJGa1hrZzh1V1J6QVpzYmZmYmhyeW0xTmdwaHc0SVNzV2VQRDJGRXNnaGt2WG9xS0FOMWZ0RFNTZFA0bGx0Rmt4V1FuMA?oc=5",
+      "id": "4f9610c2d2b2",
+      "title": "How Much It Costs To Live In Miami",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/t7W5Ntcg6h0",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "t7W5Ntcg6h0",
+          "published": "2026-09-04T17:30:01+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "89f968b7a8e8",
+      "title": "Even the worst possible market timing beats staying in cash - afr.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWljN2hzRnR5c3lnRFQ0blB3dlBiZ1JOTmNXbWo5UUJZclI4Ul9YZHQyUW1hblAzaW1qTktxTzRjZlVOQUdUZy1QaWFvSGQ4R0ZZRlhORGVhZE55VFhWM1pQLUNjLU5iWHFhQnU4eXJxOEVGUVR5MVl6S2kwVTlHaVdfa1hadHd3LVdlNGFyUjRxcWZTVVIxTHp5b0tOdVZ5R0JRT3dYUGp4b3",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWljN2hzRnR5c3lnRFQ0blB3dlBiZ1JOTmNXbWo5UUJZclI4Ul9YZHQyUW1hblAzaW1qTktxTzRjZlVOQUdUZy1QaWFvSGQ4R0ZZRlhORGVhZE55VFhWM1pQLUNjLU5iWHFhQnU4eXJxOEVGUVR5MVl6S2kwVTlHaVdfa1hadHd3LVdlNGFyUjRxcWZTVVIxTHp5b0tOdVZ5R0JRT3dYUGp4b3d4dXpDay1LczVZeXc0OTVn?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -301,133 +485,59 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 07 Sep 2026 16:28:05 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "0119ebdb4e3e",
-      "title": "Investing after the Budget - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5Fd3FGbHRlbDBCLVNybTFXR2hIcGVRNFRpUFBsMUtGVHhvOWpUNHl5dXNjaUE3YTVvSFpITk04TkNEWXBBbFdMZnRZYkE1NU5MdUV6N2hHSFpEaURlWEsxQWpLS3ZoWWNTa29UUll2SC1jSXY2SnJzaDBR?oc=5\" target=\"_blank\">Investing after the Budget</a>&nbsp;&nbsp;<",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Fd3FGbHRlbDBCLVNybTFXR2hIcGVRNFRpUFBsMUtGVHhvOWpUNHl5dXNjaUE3YTVvSFpITk04TkNEWXBBbFdMZnRZYkE1NU5MdUV6N2hHSFpEaURlWEsxQWpLS3ZoWWNTa29UUll2SC1jSXY2SnJzaDBR?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 04 Jun 2026 07:00:00 GMT",
-          "source": "Morningstar Australia"
-        }
-      ]
-    },
-    {
-      "id": "024ad9357e85",
-      "title": "How soaring Treasury yields could hit your finances - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOT09fdFlYQ2tEY1ZOTkZjUUM3RVdKaldYVFBOcWdGb1o2NGJLSUlXVUFPTUlXTVFVTHhwRnRiWlBWd05fUlpEZDhxbWE4Z1pRR2lfLW1SSFRadlI0TlNyYnJWLUNFT0pXczRTcV9vLUNpYS1DR013TXZ2NmtobkxGZXdwdV9QdG1GcExxMzRWVEdhRlhYeWxZLTZNTkZaMF84dllMOVNycXRyWT",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT09fdFlYQ2tEY1ZOTkZjUUM3RVdKaldYVFBOcWdGb1o2NGJLSUlXVUFPTUlXTVFVTHhwRnRiWlBWd05fUlpEZDhxbWE4Z1pRR2lfLW1SSFRadlI0TlNyYnJWLUNFT0pXczRTcV9vLUNpYS1DR013TXZ2NmtobkxGZXdwdV9QdG1GcExxMzRWVEdhRlhYeWxZLTZNTkZaMF84dllMOVNycXRyWTJyQVRRRC1jZ3NfTXpfRFljczZZYkJpRERuNkE?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "f0f1c0fec109",
-      "title": "This high-octane corner of the ETF market must be handed with care - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGlGbk12Z3J1MlRNbXdzenBwcTNDVmVFRFNvTGhqd29rSXdQV2lsamJhMWhIZE93UG5aakVJV2xNNkFWWWpCaWZ5Wk02RWR1S2dWRENKTWxxSVdKTlV2UTJyN1h5dlQxTUVzVV9zei1Zb1RmNDJhNlE1V090WjdsRFRWNlFBYzBSN01XenRDU2tNNXk0ZlJZWk5CNDhXejAwVlVUdEl4ZFlSaE",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGlGbk12Z3J1MlRNbXdzenBwcTNDVmVFRFNvTGhqd29rSXdQV2lsamJhMWhIZE93UG5aakVJV2xNNkFWWWpCaWZ5Wk02RWR1S2dWRENKTWxxSVdKTlV2UTJyN1h5dlQxTUVzVV9zei1Zb1RmNDJhNlE1V090WjdsRFRWNlFBYzBSN01XenRDU2tNNXk0ZlJZWk5CNDhXejAwVlVUdEl4ZFlSaEN1YmFNcGF2empEeks4eE42T2RINA?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-          "source": "AFR"
-        }
-      ]
-    },
-    {
-      "id": "b6ff88ab1e88",
-      "title": "Even the worst possible market timing beats staying in cash - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWljN2hzRnR5c3lnRFQ0blB3dlBiZ1JOTmNXbWo5UUJZclI4Ul9YZHQyUW1hblAzaW1qTktxTzRjZlVOQUdUZy1QaWFvSGQ4R0ZZRlhORGVhZE55VFhWM1pQLUNjLU5iWHFhQnU4eXJxOEVGUVR5MVl6S2kwVTlHaVdfa1hadHd3LVdlNGFyUjRxcWZTVVIxTHp5b0tOdVZ5R0JRT3dYUGp4b3",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWljN2hzRnR5c3lnRFQ0blB3dlBiZ1JOTmNXbWo5UUJZclI4Ul9YZHQyUW1hblAzaW1qTktxTzRjZlVOQUdUZy1QaWFvSGQ4R0ZZRlhORGVhZE55VFhWM1pQLUNjLU5iWHFhQnU4eXJxOEVGUVR5MVl6S2kwVTlHaVdfa1hadHd3LVdlNGFyUjRxcWZTVVIxTHp5b0tOdVZ5R0JRT3dYUGp4b3d4dXpDay1LczVZeXc0OTVn?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "first_seen": "2026-09-14T12:36:26+00:00",
       "raw_samples": [
         {
           "published": "Wed, 13 May 2026 07:00:00 GMT",
-          "source": "AFR"
+          "source": "afr.com"
         }
       ]
     },
     {
-      "id": "49dafac0d3f5",
-      "title": "Why a crash may be coming — and what you should do - The Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUGdnOC1CVGxuU0RicTFBUTJzNllNWXZmamhEOTZKbFRxcGhYRXRLVVp1SW14M24xNFowb195ckk5V3g0VjVuNTl0ODN0M2loZFRqdktWRUhfY01hUWtjNE53N0pwanF3b0h3YXk2TllkT2kzU2tQMDJlT1NvaERKX2ZSWDNuSFFzTE5V?oc=5\" target=\"_blank\">Why a crash may be ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUGdnOC1CVGxuU0RicTFBUTJzNllNWXZmamhEOTZKbFRxcGhYRXRLVVp1SW14M24xNFowb195ckk5V3g0VjVuNTl0ODN0M2loZFRqdktWRUhfY01hUWtjNE53N0pwanF3b0h3YXk2TllkT2kzU2tQMDJlT1NvaERKX2ZSWDNuSFFzTE5V?oc=5",
-      "score": 25.2,
+      "id": "aed3f45ead76",
+      "title": "It Started: America’s Bond Market Is Secretly Collapsing",
+      "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: https://sofi.com/graham | Let's talk about the Bond Market Bailout and rising interest rates at the next Federal Reserve Meeting - Add me on Instagram: GPStephan\n\nSTART BUILDING WEALTH WITH MY FREE NE",
+      "url": "https://www.youtube.com/watch?v=eKzS_xzqYNw",
+      "score": 43.12,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-          "source": "The Times"
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "eKzS_xzqYNw",
+          "published": "2026-09-03T18:00:14+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "38613d6bc1b0",
-      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "score": 21.6,
+      "id": "99b9114c19a9",
+      "title": "Is Elon Musk TOO Rich? 🤔",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/wOLEDqj_HKg",
+      "score": 40.809999999999995,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-09-14T04:47:20+00:00",
+      "region": "global",
+      "first_seen": "2026-09-14T12:38:44+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "source": "U.S. Bank"
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "wOLEDqj_HKg",
+          "published": "2026-08-31T18:00:06+00:00"
         }
-      ]
+      ],
+      "is_global": true
     }
   ]
 }
