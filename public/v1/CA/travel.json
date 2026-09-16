@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-09-15T21:24:36+00:00",
+  "generated_at": "2026-09-16T04:51:33+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 18,
   "trends": [
     {
-      "id": "55fd39c02200",
-      "title": "The Travel Essentials Edit: Problem-Solving Finds I’m Packing Now - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEV0QXRfVjdHcGVLc1VkN0JyclZPMm10TmRTMHBrcEdTOFY2NkE1WFUxSjMtZS1wVDhkenZoekhCelVmRU1KSFhBdzJBUVJZRGtFZUM2YWlkTExzRFI1ZVlNLVozZzNJTklBRlFGSi1RZWV3Z2JpWmdBd0tkcnh2cEdTeDA3Q1JEWmVSZlFERGt5Nk1aM01OSVN4VTVtTWdId0NIVXVEZ05QY2",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEV0QXRfVjdHcGVLc1VkN0JyclZPMm10TmRTMHBrcEdTOFY2NkE1WFUxSjMtZS1wVDhkenZoekhCelVmRU1KSFhBdzJBUVJZRGtFZUM2YWlkTExzRFI1ZVlNLVozZzNJTklBRlFGSi1RZWV3Z2JpWmdBd0tkcnh2cEdTeDA3Q1JEWmVSZlFERGt5Nk1aM01OSVN4VTVtTWdId0NIVXVEZ05QY2pjOTZBX1dFVVFHdw?oc=5",
+      "id": "681303eb315d",
+      "title": "Visa-free travel to be part of Canada-EU talks, Carney says - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWW0wc2xxNUpJZVpCOVA3ZHRsTXRjU25kRG1GMTc2UHVkc2JZTzhiMUNVOE9xTDFtTUFPSDhlTUFHNkZ5VGtnQ1lFUy1pR3JwN3FUUEpSOU9SSl9RX3Z4TGJva25NbzBuV3g5RWpjWklDdWNtTTFCTkhLLUlrMWNLN0RyVEpua0xpQVU3RXYzYXJiT2ZmaUJqUlZsaWJiQ0J5Vk9RMk5Nd0pkUk",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWW0wc2xxNUpJZVpCOVA3ZHRsTXRjU25kRG1GMTc2UHVkc2JZTzhiMUNVOE9xTDFtTUFPSDhlTUFHNkZ5VGtnQ1lFUy1pR3JwN3FUUEpSOU9SSl9RX3Z4TGJva25NbzBuV3g5RWpjWklDdWNtTTFCTkhLLUlrMWNLN0RyVEpua0xpQVU3RXYzYXJiT2ZmaUJqUlZsaWJiQ0J5Vk9RMk5Nd0pkUkZtRWM3Rw?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 15 Sep 2026 19:32:03 GMT",
+          "source": "The Globe and Mail"
+        }
+      ]
+    },
+    {
+      "id": "6ac27febd32b",
+      "title": "Ottawa, Outaouais tourism rises again this summer - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzF2cU9LM21raHgteTEtN1RTdV9JaGc5VzFvV2xYRkFUYmlJLWF0Um45OUUteS1lYXJldUpIcUE4NWtCX3VJMGdNbUpNeXRsOV96NkVDdThHNFE2QXIyUGRkQ3pkOW43VDNLNG1xbGl3UkFkN1ZxNG01LVMyLXotM2VMcmUyQ0tYdWF0UC14dHh3N3g2?oc=5\" target=\"_blank\">Ottawa,",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzF2cU9LM21raHgteTEtN1RTdV9JaGc5VzFvV2xYRkFUYmlJLWF0Um45OUUteS1lYXJldUpIcUE4NWtCX3VJMGdNbUpNeXRsOV96NkVDdThHNFE2QXIyUGRkQ3pkOW43VDNLNG1xbGl3UkFkN1ZxNG01LVMyLXotM2VMcmUyQ0tYdWF0UC14dHh3N3g2?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-16T04:42:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 15 Sep 2026 21:18:43 GMT",
+          "source": "CBC"
+        }
+      ]
+    },
+    {
+      "id": "55fd39c02200",
+      "title": "The Travel Essentials Edit: Problem-Solving Finds I’m Packing Now - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEV0QXRfVjdHcGVLc1VkN0JyclZPMm10TmRTMHBrcEdTOFY2NkE1WFUxSjMtZS1wVDhkenZoekhCelVmRU1KSFhBdzJBUVJZRGtFZUM2YWlkTExzRFI1ZVlNLVozZzNJTklBRlFGSi1RZWV3Z2JpWmdBd0tkcnh2cEdTeDA3Q1JEWmVSZlFERGt5Nk1aM01OSVN4VTVtTWdId0NIVXVEZ05QY2",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEV0QXRfVjdHcGVLc1VkN0JyclZPMm10TmRTMHBrcEdTOFY2NkE1WFUxSjMtZS1wVDhkenZoekhCelVmRU1KSFhBdzJBUVJZRGtFZUM2YWlkTExzRFI1ZVlNLVozZzNJTklBRlFGSi1RZWV3Z2JpWmdBd0tkcnh2cEdTeDA3Q1JEWmVSZlFERGt5Nk1aM01OSVN4VTVtTWdId0NIVXVEZ05QY2pjOTZBX1dFVVFHdw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
           "published": "Tue, 15 Sep 2026 19:22:03 GMT",
@@ -31,46 +71,6 @@
       "title": "Why fall tourism growth is considered key in Atlantic Canada | PNI Atlantic News - PNI Atlantic News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1DYUs4SWxRaFlyMUx4T0tNdkRCbVdUblpfanRKLWtPY3dfRHhmbEtqc3NnRFVJRmtWX3VOcmRmRDFBWW52azQyQ3ZMTmlzd1g0clhwa3ZPblJNYVFyWHpHaXdiR1d2MVpjVUtwajdENXhFZk1F?oc=5\" target=\"_blank\">Why fall tourism growth is considered key in Atlant",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DYUs4SWxRaFlyMUx4T0tNdkRCbVdUblpfanRKLWtPY3dfRHhmbEtqc3NnRFVJRmtWX3VOcmRmRDFBWW52azQyQ3ZMTmlzd1g0clhwa3ZPblJNYVFyWHpHaXdiR1d2MVpjVUtwajdENXhFZk1F?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 18:30:28 GMT",
-          "source": "PNI Atlantic News"
-        }
-      ]
-    },
-    {
-      "id": "6ac27febd32b",
-      "title": "Ottawa, Outaouais tourism rises again this summer - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzF2cU9LM21raHgteTEtN1RTdV9JaGc5VzFvV2xYRkFUYmlJLWF0Um45OUUteS1lYXJldUpIcUE4NWtCX3VJMGdNbUpNeXRsOV96NkVDdThHNFE2QXIyUGRkQ3pkOW43VDNLNG1xbGl3UkFkN1ZxNG01LVMyLXotM2VMcmUyQ0tYdWF0UC14dHh3N3g2?oc=5\" target=\"_blank\">Ottawa,",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzF2cU9LM21raHgteTEtN1RTdV9JaGc5VzFvV2xYRkFUYmlJLWF0Um45OUUteS1lYXJldUpIcUE4NWtCX3VJMGdNbUpNeXRsOV96NkVDdThHNFE2QXIyUGRkQ3pkOW43VDNLNG1xbGl3UkFkN1ZxNG01LVMyLXotM2VMcmUyQ0tYdWF0UC14dHh3N3g2?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 18:58:23 GMT",
-          "source": "CBC"
-        }
-      ]
-    },
-    {
-      "id": "14b23487b02e",
-      "title": "Visa-free travel be part of Canada-EU talks, Carney says - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWW0wc2xxNUpJZVpCOVA3ZHRsTXRjU25kRG1GMTc2UHVkc2JZTzhiMUNVOE9xTDFtTUFPSDhlTUFHNkZ5VGtnQ1lFUy1pR3JwN3FUUEpSOU9SSl9RX3Z4TGJva25NbzBuV3g5RWpjWklDdWNtTTFCTkhLLUlrMWNLN0RyVEpua0xpQVU3RXYzYXJiT2ZmaUJqUlZsaWJiQ0J5Vk9RMk5Nd0pkUk",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWW0wc2xxNUpJZVpCOVA3ZHRsTXRjU25kRG1GMTc2UHVkc2JZTzhiMUNVOE9xTDFtTUFPSDhlTUFHNkZ5VGtnQ1lFUy1pR3JwN3FUUEpSOU9SSl9RX3Z4TGJva25NbzBuV3g5RWpjWklDdWNtTTFCTkhLLUlrMWNLN0RyVEpua0xpQVU3RXYzYXJiT2ZmaUJqUlZsaWJiQ0J5Vk9RMk5Nd0pkUkZtRWM3Rw?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,19 +78,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 15 Sep 2026 19:32:03 GMT",
-          "source": "The Globe and Mail"
+          "published": "Tue, 15 Sep 2026 18:23:30 GMT",
+          "source": "PNI Atlantic News"
         }
       ]
     },
     {
-      "id": "3584466c94ef",
-      "title": "Exoticca celebrates its travel advisors partners at 2026 Fall Fling in YYZ - TravelPress",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2UxcXhhVWtoUWU3S2ltVVI1TW1wWFBkTGI1WE90a2xNUmFYNy1xRlJxOXpULURkeXp3cERLb081TS1ZU0VyNlVIVDhhY3BNcVlKZzJhcVQyV2FxS2RUTVBQS0dWeE1rajd0anVZUXJQNmFETlVsNTFiclh4d0RMazFiWGR6MTVpZ21YU0Fjb2RrV2xBMVJDN0c5aVF0VXA4V0NWbHRR?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2UxcXhhVWtoUWU3S2ltVVI1TW1wWFBkTGI1WE90a2xNUmFYNy1xRlJxOXpULURkeXp3cERLb081TS1ZU0VyNlVIVDhhY3BNcVlKZzJhcVQyV2FxS2RUTVBQS0dWeE1rajd0anVZUXJQNmFETlVsNTFiclh4d0RMazFiWGR6MTVpZ21YU0Fjb2RrV2xBMVJDN0c5aVF0VXA4V0NWbHRR?oc=5",
+      "id": "af68a65c0050",
+      "title": "Ottawa and the Outaouais had strong summer tourism season, data suggests - Ottawa Business Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUNxci1HRTNGRm84b3oybnhYNHRBWjlWN1lTYjNuWDFMaHVtbS05dmlXTXFSaUVDeWRCY0FxQmVaZWgwblpJSU5sVnZsQ2MxNUN6VUhlUmNWMllQVkNYUWs3M3l6NW9zRmd3dzhxVmljcG9vbHpWeUsyeDRSaXFkSw?oc=5\" target=\"_blank\">Ottawa and the Outaouais had stro",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUNxci1HRTNGRm84b3oybnhYNHRBWjlWN1lTYjNuWDFMaHVtbS05dmlXTXFSaUVDeWRCY0FxQmVaZWgwblpJSU5sVnZsQ2MxNUN6VUhlUmNWMllQVkNYUWs3M3l6NW9zRmd3dzhxVmljcG9vbHpWeUsyeDRSaXFkSw?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,71 +98,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 15 Sep 2026 18:52:49 GMT",
-          "source": "TravelPress"
-        }
-      ]
-    },
-    {
-      "id": "eeda06853139",
-      "title": "Travel Trends Summit V3 asks ‘What’s Beyond AI?’ with 40+ industry leaders - Travelweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbnBtT25QT3dId2tqNTZGY2t2S1V0TS11SGh4NHBjM0c4WUNsRlVxdWJLZGdkek9aVDNCNHE2RWw5VEdMbDYwSzl4RW9PaVJSVXIwZlhmLWNFRldCd2s1NVpuT2l3aUllcWJKQW5LUWEyT0JiWU1scG5xdnFKbWZtSmxZM21EbTFwU0xuMlpiVmVqX215SmRKQ1Nac3AzN1ZHMXFfWVdkRk8tZz",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbnBtT25QT3dId2tqNTZGY2t2S1V0TS11SGh4NHBjM0c4WUNsRlVxdWJLZGdkek9aVDNCNHE2RWw5VEdMbDYwSzl4RW9PaVJSVXIwZlhmLWNFRldCd2s1NVpuT2l3aUllcWJKQW5LUWEyT0JiWU1scG5xdnFKbWZtSmxZM21EbTFwU0xuMlpiVmVqX215SmRKQ1Nac3AzN1ZHMXFfWVdkRk8tZzNxa2RySzVOTQ?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 15:06:12 GMT",
-          "source": "Travelweek"
-        }
-      ]
-    },
-    {
-      "id": "976c8ed907de",
-      "title": "Okanagan businesses hoping for tourism rebound after devastating wildfire season - CityNews Vancouver",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1JnZk9UdWxHekRDWHdKRU1NOV9MeWhWdVgya1BQMm1DdTJhVkU0NDlMVG9QcWpjZnBEaXNaQmFxQ0x4QW52SDVVT0tMLWpKM3BJa2xPSnBPZTUwZ0FkY3JWQkMzb2U4cnBoTWhPblpyMzZJRERDb3VuTG9WNGR0dUZhNmJnMnBvUXE5LUR1WUFzMzZoeEdkTnJXUDFOVVZlR0tDSjR2Vk1tbH",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1JnZk9UdWxHekRDWHdKRU1NOV9MeWhWdVgya1BQMm1DdTJhVkU0NDlMVG9QcWpjZnBEaXNaQmFxQ0x4QW52SDVVT0tMLWpKM3BJa2xPSnBPZTUwZ0FkY3JWQkMzb2U4cnBoTWhPblpyMzZJRERDb3VuTG9WNGR0dUZhNmJnMnBvUXE5LUR1WUFzMzZoeEdkTnJXUDFOVVZlR0tDSjR2Vk1tbHZOdFEyY0FSaDhhNHplZmJiSmhsWQ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 14:51:28 GMT",
-          "source": "CityNews Vancouver"
-        }
-      ]
-    },
-    {
-      "id": "28c3b6db903c",
-      "title": "Flair expands travel trade reach with SIREV launch - Pax News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTdDMnJrSjFVaENlQk5DUUhCZjc3a3I4dkhRdU5HWkxNNUFINC04c3c2VlJfcl9ndzNOMlF1YXdfOGRzRFFXZ3NBTWV3bV9qS0RES21mNUphX2tuR3pWajBwQmljak1OWFNVNEc4V3B5V2tuM0lKMTB4R3ZHcjRzclpIYW40TXhIOXc?oc=5\" target=\"_blank\">Flair expands travel",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTdDMnJrSjFVaENlQk5DUUhCZjc3a3I4dkhRdU5HWkxNNUFINC04c3c2VlJfcl9ndzNOMlF1YXdfOGRzRFFXZ3NBTWV3bV9qS0RES21mNUphX2tuR3pWajBwQmljak1OWFNVNEc4V3B5V2tuM0lKMTB4R3ZHcjRzclpIYW40TXhIOXc?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 16:31:34 GMT",
-          "source": "Pax News"
+          "published": "Tue, 15 Sep 2026 17:23:31 GMT",
+          "source": "Ottawa Business Journal"
         }
       ]
     },
@@ -171,14 +111,14 @@
       "title": "She's Planning a Group Trip and Doesn't Want to Travel Cheap Like Before — Because One Friend Can't Afford More - TwistedSifter",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmNpUFo2WlRTNUNnZ3NtTUY1WnpsU3V5SHo3VDhqTE55clJrWnFnWEtaNkZxZURRRTd3c3ZtdVBod0pweEU3RW1HOThqYm8zUnFjSTNiaVZ4OFlpZmU0TVhpWXRsSzlhN180QkpOSUlXRW5kM0VPVEZrbmRsMVhUeHRUdDloX3lXMmpoMVRDbVR1RFhDZGxDWjU1aWdkLXVvNVJjbkZvNDVGdD",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmNpUFo2WlRTNUNnZ3NtTUY1WnpsU3V5SHo3VDhqTE55clJrWnFnWEtaNkZxZURRRTd3c3ZtdVBod0pweEU3RW1HOThqYm8zUnFjSTNiaVZ4OFlpZmU0TVhpWXRsSzlhN180QkpOSUlXRW5kM0VPVEZrbmRsMVhUeHRUdDloX3lXMmpoMVRDbVR1RFhDZGxDWjU1aWdkLXVvNVJjbkZvNDVGdDgyY292a3dYazBQTWlnVHd1aFBaZWVSLVNYRlZhWFpyUnJDazZNTmQ1UjZEb1I?oc=5",
-      "score": 61.2,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
           "published": "Tue, 15 Sep 2026 13:36:48 GMT",
@@ -187,10 +127,58 @@
       ]
     },
     {
-      "id": "ce9c65b64f1f",
-      "title": "Kidnap and ransom insurance demand has broadened well beyond high-risk travel - Insurance Business",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR1JSQXMzclBmYnJYYkFybUxtSXBXNUFjc3NoTUF1YmdjMzlQS3NkSGZoM1dWSlRKd0tlSEFDcVA0Nmo4SC1kdU5MZlhBek9PaXJXQmNaSF9QNlU4OHJPLWNUaTVEczFjUHFoYTd0WE5RTFRBLS1LVFI0bVZYSHhaMGZOVWU0T0xITU8tdDQ5VWtHVFBZV1RnLWFkekhIMWgwaW1oVkNDUlBNZl",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR1JSQXMzclBmYnJYYkFybUxtSXBXNUFjc3NoTUF1YmdjMzlQS3NkSGZoM1dWSlRKd0tlSEFDcVA0Nmo4SC1kdU5MZlhBek9PaXJXQmNaSF9QNlU4OHJPLWNUaTVEczFjUHFoYTd0WE5RTFRBLS1LVFI0bVZYSHhaMGZOVWU0T0xITU8tdDQ5VWtHVFBZV1RnLWFkekhIMWgwaW1oVkNDUlBNZlFUNHEwZGVLaWVVV2h6a2xFY0IwQy1vbVo4dm1TRThsTDExRVJKcXpZclVMSQ?oc=5",
+      "id": "b99aeca523ca",
+      "title": "Visa travel rules part of talks with European Union, Carney says - Toronto Star",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWnhQOGRjQjNqTDhqOHItVmlWYno0NlFGNW5JVm9QMFZHZERTN1FCaHEzeHd4bTJ6c1pzajlaWWoySW9QY1FXM0p6NEFFQzkzalVnVFZ4QlRMejQ4MWxIbGZkNnBCV1V3LUVybG5TY2Iyc1RxZUhMM1l5Q3c0QUJ1NFkwZVdCY2pFQXN5dXlXVWRiMlh2aG1Hc2I0aUdOdl84MUQxVXpGT0FGbj",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWnhQOGRjQjNqTDhqOHItVmlWYno0NlFGNW5JVm9QMFZHZERTN1FCaHEzeHd4bTJ6c1pzajlaWWoySW9QY1FXM0p6NEFFQzkzalVnVFZ4QlRMejQ4MWxIbGZkNnBCV1V3LUVybG5TY2Iyc1RxZUhMM1l5Q3c0QUJ1NFkwZVdCY2pFQXN5dXlXVWRiMlh2aG1Hc2I0aUdOdl84MUQxVXpGT0FGbjJFeW8zdEltVC1FVHVyaE5uYjl1TkpzajRmck1ZWnpKUmQwdHRVdEp3NkFZaHRXcWw0REFNQjhYUQ?oc=5",
+      "score": 62.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-16T04:42:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 15 Sep 2026 21:26:51 GMT",
+          "source": "Toronto Star"
+        },
+        {
+          "published": "Tue, 15 Sep 2026 22:25:45 GMT",
+          "source": "CFJC Today Kamloops"
+        },
+        {
+          "published": "Tue, 15 Sep 2026 17:31:00 GMT",
+          "source": "CityNews Toronto"
+        }
+      ]
+    },
+    {
+      "id": "4d84ec9a2aeb",
+      "title": "Travel Day Jitters - The Trek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CVzZPZV84MngwRVllQXVwODBUQnpYaGpPTWRCMnNaYWVCN0lHLTdreDlIcFhqdWZjd1ZFVGlqNWgzY1dMUFV2UnJTWHFqV0k?oc=5\" target=\"_blank\">Travel Day Jitters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Trek</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CVzZPZV84MngwRVllQXVwODBUQnpYaGpPTWRCMnNaYWVCN0lHLTdreDlIcFhqdWZjd1ZFVGlqNWgzY1dMUFV2UnJTWHFqV0k?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-16T04:42:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 15 Sep 2026 21:19:59 GMT",
+          "source": "The Trek"
+        }
+      ]
+    },
+    {
+      "id": "4de377ec0e82",
+      "title": "A deeply personal travel journey to Germany to trace where two Auschwitz survivors married decades ago - toronto.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNdkhaTFE1RjNsRjhoc2t1RTM1cTk3SGZ4djFKZlJnZjNFZkIxZkFmc0NqcWlqUWxOVnZyS1J1OE1tN25weFJOc0NCbjd6WUdaVmFRdVlodFg0T1ptTlk0MjVxNmZPeHc2cUVVZWtlWWxBWWJQVW1yTlN3ZkhST0M0MEJNS3Y5RXNUcXpiZzBkR2FmbWM0bF9XN1V0Snh5bkdvRGRGU3hZdnlhNV",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdkhaTFE1RjNsRjhoc2t1RTM1cTk3SGZ4djFKZlJnZjNFZkIxZkFmc0NqcWlqUWxOVnZyS1J1OE1tN25weFJOc0NCbjd6WUdaVmFRdVlodFg0T1ptTlk0MjVxNmZPeHc2cUVVZWtlWWxBWWJQVW1yTlN3ZkhST0M0MEJNS3Y5RXNUcXpiZzBkR2FmbWM0bF9XN1V0Snh5bkdvRGRGU3hZdnlhNVdJZmlFTUt0V3RYSUFkZTBfQ3hobTY0OHVsUjNxWll2TEVJc2dxcWQ1eVdXUWJRYndfMXBfMlVtVlg5WFB6aU1CS1ZXeWpveFQtanZma2ktWkNUSG9PRWEwN2JrU1h6U0FLazE2dlNVSERwRTBUSlkwdg?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,111 +186,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 15 Sep 2026 12:07:57 GMT",
-          "source": "Insurance Business"
-        }
-      ]
-    },
-    {
-      "id": "eeee18dd15b9",
-      "title": "Too Hot to Handle? Intrepid CEO James Thornton on Overtourism & the ‘Not Hot List’ - TravelPulse Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZU5hRG5ZOW9FZk1Oc3l2Mm9iY1c0ZS1DX05vamJmWjVxb0lZOVVSOWhTVWRtT1lnWGZ4MWFIdUhOUzNqSXdZb1FUdjJKWE9PVkdJSjRjc29tMWJFQlMyY3dmYlNYRXhPLWJZS2lWenZNcDRmU0cxakF2NXpsbFNFTjJCZWpoZ294eUd4VnpVdkRpZ3U5ZGNPZ0Rab0dSMGtZQmhOdDluTFBPTF",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZU5hRG5ZOW9FZk1Oc3l2Mm9iY1c0ZS1DX05vamJmWjVxb0lZOVVSOWhTVWRtT1lnWGZ4MWFIdUhOUzNqSXdZb1FUdjJKWE9PVkdJSjRjc29tMWJFQlMyY3dmYlNYRXhPLWJZS2lWenZNcDRmU0cxakF2NXpsbFNFTjJCZWpoZ294eUd4VnpVdkRpZ3U5ZGNPZ0Rab0dSMGtZQmhOdDluTFBPTFF0emk4MEZ2Vzd4ekdPNFZHU3M2VGRRUkgzNkk4?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 18:56:31 GMT",
-          "source": "TravelPulse Canada"
-        }
-      ]
-    },
-    {
-      "id": "c8045335bb1e",
-      "title": "Visa travel rules part of talks with European Union, Carney says - Castanet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlBmMVVkMUhCeWhQNDFGQXg0b3pNNDVIUnI3RHlzSlJjRW5QT1lyVDVXRHlPODhWdjllbkVQcGZnb2w1cmttRWw4ZkdzZXVUcTBhMkNCS01QazdmUGs0M29uMnZmRXpOV2huMHJxRzJtYmozek1XUGJzcUpQRVMzS0ZCeHktVnA0SGRzeU9MZzdBLUFrMHNacy1YOVBhVWtUS0RpWkxGSHU3T1",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlBmMVVkMUhCeWhQNDFGQXg0b3pNNDVIUnI3RHlzSlJjRW5QT1lyVDVXRHlPODhWdjllbkVQcGZnb2w1cmttRWw4ZkdzZXVUcTBhMkNCS01QazdmUGs0M29uMnZmRXpOV2huMHJxRzJtYmozek1XUGJzcUpQRVMzS0ZCeHktVnA0SGRzeU9MZzdBLUFrMHNacy1YOVBhVWtUS0RpWkxGSHU3T1U?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 17:38:00 GMT",
-          "source": "Castanet"
-        }
-      ]
-    },
-    {
-      "id": "fca09e11d0a7",
-      "title": "The Travel Lady: See Italy your way with “independent” travel in Rome, Florence and Venice - Global News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMElLdWdzdUVNa1lWYmhZd1lRNVVnN1ZPVWs1djZiZ011MGxzNkRrSldGb0JKd21HRE9YVGYyYll6RDM4bTZxOFluTDhtLWwybzc3UUZQaWNwWlVuVXdydTRmaUx2cVBnc1JjdFlRVDh4UWhoQm83QVFsVkFFRnFubUJFeXpDZ2tQRHd4TkszZXZZZFBqTmRQQ0ZDVkRjVTZQRjZ3SEd0TS1WRj",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMElLdWdzdUVNa1lWYmhZd1lRNVVnN1ZPVWs1djZiZ011MGxzNkRrSldGb0JKd21HRE9YVGYyYll6RDM4bTZxOFluTDhtLWwybzc3UUZQaWNwWlVuVXdydTRmaUx2cVBnc1JjdFlRVDh4UWhoQm83QVFsVkFFRnFubUJFeXpDZ2tQRHd4TkszZXZZZFBqTmRQQ0ZDVkRjVTZQRjZ3SEd0TS1WRjNZYlBvZngxSW80U29FSzcwc2hsQWJrdw?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 14:33:49 GMT",
-          "source": "Global News"
-        }
-      ]
-    },
-    {
-      "id": "fe434e53bfaf",
-      "title": "China tightens travel restrictions for citizens - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HN2R0OGJtZHhZNXdSNnZQNGtKcGgyTGpJY1JxWEZWckNfQ0NIX1J5Y0lFNkZnV3lncXEzZFhEY1Q2aGJpMEcyVVIwdENwTWwtcl9JRTIzQ2lGek0?oc=5\" target=\"_blank\">China tightens travel restrictions for citizens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HN2R0OGJtZHhZNXdSNnZQNGtKcGgyTGpJY1JxWEZWckNfQ0NIX1J5Y0lFNkZnV3lncXEzZFhEY1Q2aGJpMEcyVVIwdENwTWwtcl9JRTIzQ2lGek0?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 06:43:09 GMT",
-          "source": "BBC"
-        }
-      ]
-    },
-    {
-      "id": "5b0c57bdd2a0",
-      "title": "Highway 3 Tourism Corridor moves on to next phase of project - CHAT News Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZjRkZ0tIaEpNemRTalQybWQ1U2lRbzNRaWxxMVBYaDdMYkMtWWJPSXZsLTBUaml6Skdkc0hOaTVualJZekZQM19tbWx4Q1FLMFlad3BsTjBEdThGdzQ0YW52eU9JZDl0N3dSM3IwSlplbUNxVkkxa3dSd1ZuS3R1OVNwY2JhUU9pT1hxRDh5SmlNa1JuZERid1oyNkVZQQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjRkZ0tIaEpNemRTalQybWQ1U2lRbzNRaWxxMVBYaDdMYkMtWWJPSXZsLTBUaml6Skdkc0hOaTVualJZekZQM19tbWx4Q1FLMFlad3BsTjBEdThGdzQ0YW52eU9JZDl0N3dSM3IwSlplbUNxVkkxa3dSd1ZuS3R1OVNwY2JhUU9pT1hxRDh5SmlNa1JuZERid1oyNkVZQQ?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 15 Sep 2026 13:21:25 GMT",
-          "source": "CHAT News Today"
+          "published": "Fri, 11 Sep 2026 09:00:00 GMT",
+          "source": "toronto.com"
         }
       ]
     },
@@ -311,14 +199,14 @@
       "title": "B.C. summer travel pivots away from U.S. by land and air - Business in Vancouver",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNckhqalUtbGhJdmtTTS01Y0lDclM3U0duWktfWEJJbVNZRnBsMTlVRkpHYUtZR0tISnJHMl9zS2lJOEE5S0ttRWdERFNWdTdEM3J0ZjhhVklQMm5nbzVKMEd4ZUhFV2JmMDRYdXI2c3NGQVJ5S2ZETzJHeUoxUVl6VHA0VGhfcXRhYl9WUFJHUGJMa0FrU2JOb2dhVVg4NTF0VG5F?oc=5\" tar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNckhqalUtbGhJdmtTTS01Y0lDclM3U0duWktfWEJJbVNZRnBsMTlVRkpHYUtZR0tISnJHMl9zS2lJOEE5S0ttRWdERFNWdTdEM3J0ZjhhVklQMm5nbzVKMEd4ZUhFV2JmMDRYdXI2c3NGQVJ5S2ZETzJHeUoxUVl6VHA0VGhfcXRhYl9WUFJHUGJMa0FrU2JOb2dhVVg4NTF0VG5F?oc=5",
-      "score": 36.0,
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
           "published": "Mon, 14 Sep 2026 22:00:00 GMT",
@@ -327,10 +215,90 @@
       ]
     },
     {
-      "id": "ef4441245e4a",
-      "title": "Hotel demand up 3% in Ottawa during ‘strong summer tourism season’ - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmxfYU5vbGtyUUNWaTA5Z3BScUF1U3pORE15SDhGN1k3Wm9kSk9TLW1pM0N4ZXJOTUJicGRTc1pTZUJUZGRQWnBSbTJLaUFpT2cxQ1piXy1RWmxRelM5ckVkVC1JT3Z5TVM2dEJIQ0Vzamp5ZzdWeDhvM1hKQjNfTU0wbG42X0Zwek5DNE9NS0NJU3RhTlBZbHhYR0hLZVpjMXpMeQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmxfYU5vbGtyUUNWaTA5Z3BScUF1U3pORE15SDhGN1k3Wm9kSk9TLW1pM0N4ZXJOTUJicGRTc1pTZUJUZGRQWnBSbTJLaUFpT2cxQ1piXy1RWmxRelM5ckVkVC1JT3Z5TVM2dEJIQ0Vzamp5ZzdWeDhvM1hKQjNfTU0wbG42X0Zwek5DNE9NS0NJU3RhTlBZbHhYR0hLZVpjMXpMeQ?oc=5",
+      "id": "295dd234b1e2",
+      "title": "Niagara Falls eyes Marineland and other key sites for tourism boost - CHCH",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUtxOFZaaXZQanQ2R2Q3TEhiamR5SlRBNlVlaGgwbXFfSzdYZnIzTHNHc3NDd2RsbEFPNVJsYi1oT1VLU0xZUUd6cUhiWmRhemhCNDRTU29IbnAxaHN1LWxSSzBseGxabldrSWdCMjZLWXVCYlYzN25pS2xtejZaekE5Z1Z2RWZlNVZMNHIxbFBNeDN0RkZuS21DNTV4NWQ2?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUtxOFZaaXZQanQ2R2Q3TEhiamR5SlRBNlVlaGgwbXFfSzdYZnIzTHNHc3NDd2RsbEFPNVJsYi1oT1VLU0xZUUd6cUhiWmRhemhCNDRTU29IbnAxaHN1LWxSSzBseGxabldrSWdCMjZLWXVCYlYzN25pS2xtejZaekE5Z1Z2RWZlNVZMNHIxbFBNeDN0RkZuS21DNTV4NWQ2?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-16T04:42:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 15 Sep 2026 23:55:01 GMT",
+          "source": "CHCH"
+        }
+      ]
+    },
+    {
+      "id": "da7d2766077d",
+      "title": "Opinion | Growing tourism by going green - The Peterborough Examiner",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUmFKRHhwZUl2bmllRjJFQy1ZUWdFZlJvaURVcmg0c2hreE9TWkhhTTZLa3gyRGE1Zm1NVnpfUmpXWkFqVzRwaEREMHZ1bjk0UkFmY1JwWUFiaDZydWZVbXloVHFnazNIUEY3RDJQZDFHQzNhc21rWGc3REVXajVnQ21NSllKdWNYSmprY2UtTnZFY1Nrb0hac01Md1VGQl9zTmhCNE9lajVYci",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUmFKRHhwZUl2bmllRjJFQy1ZUWdFZlJvaURVcmg0c2hreE9TWkhhTTZLa3gyRGE1Zm1NVnpfUmpXWkFqVzRwaEREMHZ1bjk0UkFmY1JwWUFiaDZydWZVbXloVHFnazNIUEY3RDJQZDFHQzNhc21rWGc3REVXajVnQ21NSllKdWNYSmprY2UtTnZFY1Nrb0hac01Md1VGQl9zTmhCNE9lajVYci1welh1VE4walRJTHRqRGdHdjFGZndKTXdGbUZHaXNIZHA1dkg1b2ZoWmU4NUw?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-16T04:42:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 15 Sep 2026 11:45:10 GMT",
+          "source": "The Peterborough Examiner"
+        }
+      ]
+    },
+    {
+      "id": "d75e18b85e28",
+      "title": "China imposes new travel restrictions over tech security - dw.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjRfQ05GUUxvbG9PVjVQYVJOeTlIWGxGQzlHRDg1RnNEQUxKeXpnTVdrbjRGdEZBcG90R3duYjVLNkFtQ1RYQTNlSlRTU3ZvNS1jc09GaDF5RWZubUY1NkhjV3J3YXdEdFUydHM5NlRtaEJSNmdHa2U0MXBqZXM2R0h2R0JjUdIBhgFBVV95cUxQOURVekRwZjVxVlB5LVdNVjkxSENpUnlKMD",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjRfQ05GUUxvbG9PVjVQYVJOeTlIWGxGQzlHRDg1RnNEQUxKeXpnTVdrbjRGdEZBcG90R3duYjVLNkFtQ1RYQTNlSlRTU3ZvNS1jc09GaDF5RWZubUY1NkhjV3J3YXdEdFUydHM5NlRtaEJSNmdHa2U0MXBqZXM2R0h2R0JjUdIBhgFBVV95cUxQOURVekRwZjVxVlB5LVdNVjkxSENpUnlKMDNtdUhUVVQyVXpTYnhqcWNzV3E2NV9iVzJrbGwzZ3R0MHhyWWpEcDhzd18yRUlBaHBvQ0xUZ3hzZTA4aGl2Q0tRVE9RQlZIM3MwSlNVZGFHaWxHMGVzR3YtbkJvSVhibVlXSC1zQQ?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-16T04:42:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 15 Sep 2026 13:22:50 GMT",
+          "source": "dw.com"
+        }
+      ]
+    },
+    {
+      "id": "bff94014e508",
+      "title": "Canada updates travel warning for major European destination - blogTO",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1VyOHJCdjNHTWpKWE92YVdIaTdCXzNGbWxrYzVZX1pTXzVZd1RTMUFMTmhjZ2hVRzdEaGxvemgycm5HdWNRZVIzWXp3MTBYTFZWek1QMlRpM0puN0VhWTR0eGxVeHNqcFJWZUdvWWNydnF6LXBUSWRqb0ZBTnBsMDRvYjBUd2ZlSlI5a0JmT251Qjg?oc=5\" target=\"_blank\">Canada u",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1VyOHJCdjNHTWpKWE92YVdIaTdCXzNGbWxrYzVZX1pTXzVZd1RTMUFMTmhjZ2hVRzdEaGxvemgycm5HdWNRZVIzWXp3MTBYTFZWek1QMlRpM0puN0VhWTR0eGxVeHNqcFJWZUdvWWNydnF6LXBUSWRqb0ZBTnBsMDRvYjBUd2ZlSlI5a0JmT251Qjg?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-16T04:42:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 15 Sep 2026 16:21:58 GMT",
+          "source": "blogTO"
+        }
+      ]
+    },
+    {
+      "id": "fe434e53bfaf",
+      "title": "China tightens travel restrictions for citizens - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HN2R0OGJtZHhZNXdSNnZQNGtKcGgyTGpJY1JxWEZWckNfQ0NIX1J5Y0lFNkZnV3lncXEzZFhEY1Q2aGJpMEcyVVIwdENwTWwtcl9JRTIzQ2lGek0?oc=5\" target=\"_blank\">China tightens travel restrictions for citizens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HN2R0OGJtZHhZNXdSNnZQNGtKcGgyTGpJY1JxWEZWckNfQ0NIX1J5Y0lFNkZnV3lncXEzZFhEY1Q2aGJpMEcyVVIwdENwTWwtcl9JRTIzQ2lGek0?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +306,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 15 Sep 2026 12:17:43 GMT",
-          "source": "CTV News"
+          "published": "Tue, 15 Sep 2026 06:43:09 GMT",
+          "source": "BBC"
         }
       ]
     },
     {
-      "id": "012fa5136dc3",
-      "title": "From ‘quiet tourism’ to Keys Season: The Florida Keys & Key West keep courting Canadians - Travelweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTXByVFo5S3Bpb2Ezc2FMTkRkY0VZQ1NlMlU1M1VlU2VWMFJOYjlmYl8wQWdxanE5YkhpOHpDUm1MeXR5d0NvUGpHTW5fOHI3R0hhbVJ4X25JcGJxTjFrSmhYanVLQzl0eG00eS16bEhGOWtaandNS0U2YzdLRzBkZVYwaHpza0lId0xRelFrOF8tMWE2ZXpDRHU4cDRCX0xtVU03aEJTZ1VmNj",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTXByVFo5S3Bpb2Ezc2FMTkRkY0VZQ1NlMlU1M1VlU2VWMFJOYjlmYl8wQWdxanE5YkhpOHpDUm1MeXR5d0NvUGpHTW5fOHI3R0hhbVJ4X25JcGJxTjFrSmhYanVLQzl0eG00eS16bEhGOWtaandNS0U2YzdLRzBkZVYwaHpza0lId0xRelFrOF8tMWE2ZXpDRHU4cDRCX0xtVU03aEJTZ1VmNjZFS2pQRGt0cjdBd0lLNnlMSUNmZThyX1ZIeVNJ?oc=5",
+      "id": "d988006ac67c",
+      "title": "JSX Founder Alex Wilcox On Why The Ultimate Luxury In Air Travel Is Time - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1A2VTlCNkdrbUJJa2pXQmhGMTJhUnhnRDFvUUxiNXhDWGQtMXRvOF9Pc3RDV0lQNFQzZmY3ZWZ6a29LdjFNYmM5ZjVlM3NPR01CNjNoYTZLbGZaLWthY0FzNlNBVHRXeGc0OTg4eGE5MUljeHhYbk5tcjVjdWRGRmpmOWdjelZNNXJzUlEzMVdsZllXLUlRdGYxS2VMR3p3OGpCbzF2SUhQOG",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1A2VTlCNkdrbUJJa2pXQmhGMTJhUnhnRDFvUUxiNXhDWGQtMXRvOF9Pc3RDV0lQNFQzZmY3ZWZ6a29LdjFNYmM5ZjVlM3NPR01CNjNoYTZLbGZaLWthY0FzNlNBVHRXeGc0OTg4eGE5MUljeHhYbk5tcjVjdWRGRmpmOWdjelZNNXJzUlEzMVdsZllXLUlRdGYxS2VMR3p3OGpCbzF2SUhQOGFra0RaQldIZVhSY0pKQWVjekxadmxTQQ?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +326,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 15 Sep 2026 15:06:12 GMT",
-          "source": "Travelweek"
+          "published": "Tue, 15 Sep 2026 17:59:12 GMT",
+          "source": "Forbes"
         }
       ]
     },
     {
-      "id": "618baa5b30f8",
-      "title": "Travel talk takes off: Ellison Travel Expo draws 800+ in London, ON - Pax News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVNPaHZOT0xzOHpweHJWV0FoTlNWdUswV3dDYjlzQUM2UXBRbWJIbG03Ym4zR3RGRGU5cG91LThjbERFTnhJM29sYlBBRWViV1Z2eG9Dc3VRN2JBcWR5cW1jNzY5VlF0SHpteU1tdk5qS1pLdU5tYlduRVFVbGlSNzRiNXhNWlktTUlyREFyb05HWmdH?oc=5\" target=\"_blank\">Travel ",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVNPaHZOT0xzOHpweHJWV0FoTlNWdUswV3dDYjlzQUM2UXBRbWJIbG03Ym4zR3RGRGU5cG91LThjbERFTnhJM29sYlBBRWViV1Z2eG9Dc3VRN2JBcWR5cW1jNzY5VlF0SHpteU1tdk5qS1pLdU5tYlduRVFVbGlSNzRiNXhNWlktTUlyREFyb05HWmdH?oc=5",
+      "id": "8903373f42f7",
+      "title": "The tourism industry is slowly waking up to solo travelers’ needs - Japan Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0VTamlBSmFMeUQtcVVpTHMxVnlpZEFVRjdSRi1zaHFlT251ZU1YcnlFRHo4ZUYwUklBS3kyT0VCSm5TODhBRW5wcFFsVWlMdDNEeVJ2cUpvVG9FTi1VTURHdXRlWms5U09GRktrdjJMcjBsRFktMkJKaldBQ3FtNjFRVEExRUduSC1CVkwtUHFaUl9Da3A5a3NvLUJabjFZMDctVkJNRkR4Tm",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0VTamlBSmFMeUQtcVVpTHMxVnlpZEFVRjdSRi1zaHFlT251ZU1YcnlFRHo4ZUYwUklBS3kyT0VCSm5TODhBRW5wcFFsVWlMdDNEeVJ2cUpvVG9FTi1VTURHdXRlWms5U09GRktrdjJMcjBsRFktMkJKaldBQ3FtNjFRVEExRUduSC1CVkwtUHFaUl9Da3A5a3NvLUJabjFZMDctVkJNRkR4Tm1ob0xxWlNSZFAxOFpRdnBJRTN3?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +346,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 15 Sep 2026 12:56:23 GMT",
-          "source": "Pax News"
+          "published": "Tue, 15 Sep 2026 20:10:00 GMT",
+          "source": "Japan Today"
         }
       ]
     },
     {
-      "id": "5a9552061a66",
-      "title": "Cochrane Tourism Association applies for new Alberta designation - Cochrane Eagle",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1Q0Y1pDZ2xfUHRyNlhWQzBWeXdIczk1YUxleTNHVEJJSUQ1R0d4ZHBZYzd1UkZKRnlYT08tZTl2WFlOQWNqOXhMYkdicDJhRlFmZ0pJemZveHliQUNIWGxuR1NxNl9fM3VqYlpLTnZXVDhkbUx1aGdLT3V1RE5GVmV2NWdMeWJqcERFa1NGV0JYMjg2WUxXakpVMUxTU0lTQ2ZpNF91U05FNU",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1Q0Y1pDZ2xfUHRyNlhWQzBWeXdIczk1YUxleTNHVEJJSUQ1R0d4ZHBZYzd1UkZKRnlYT08tZTl2WFlOQWNqOXhMYkdicDJhRlFmZ0pJemZveHliQUNIWGxuR1NxNl9fM3VqYlpLTnZXVDhkbUx1aGdLT3V1RE5GVmV2NWdMeWJqcERFa1NGV0JYMjg2WUxXakpVMUxTU0lTQ2ZpNF91U05FNUhU?oc=5",
+      "id": "fc9efb44bd1b",
+      "title": "Softvoyage Back Up and Running - Open Jaw",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5LY2kwMzJxb0NHdUs2dU83VldWRmY3cldyaGtKdEt5eDRWUmtNcjdxaEhsSTE1VzFlZnE5ZzR6QVV5S2FHRUVCNzNBZ0UzRGhxWldOQlFCbjhLOGNJSFJiOTFQSXVyNnZUMGJORnp3bHIxQkpXS1VYUW9ocw?oc=5\" target=\"_blank\">Softvoyage Back Up and Running</a>&nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LY2kwMzJxb0NHdUs2dU83VldWRmY3cldyaGtKdEt5eDRWUmtNcjdxaEhsSTE1VzFlZnE5ZzR6QVV5S2FHRUVCNzNBZ0UzRGhxWldOQlFCbjhLOGNJSFJiOTFQSXVyNnZUMGJORnp3bHIxQkpXS1VYUW9ocw?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +366,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-15T21:15:41+00:00",
+      "first_seen": "2026-09-16T04:42:36+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 15 Sep 2026 15:30:00 GMT",
-          "source": "Cochrane Eagle"
+          "published": "Tue, 15 Sep 2026 23:09:18 GMT",
+          "source": "Open Jaw"
         }
       ]
     }
