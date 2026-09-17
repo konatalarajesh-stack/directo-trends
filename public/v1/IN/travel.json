@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "IN",
-  "generated_at": "2026-09-16T21:23:25+00:00",
+  "generated_at": "2026-09-17T04:54:43+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 19,
   "trends": [
     {
       "id": "c3b2c74a3c75",
@@ -18,11 +18,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
+      "first_seen": "2026-09-17T04:45:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 16 Sep 2026 21:04:49 GMT",
           "source": "ET TravelWorld"
+        }
+      ]
+    },
+    {
+      "id": "bf2ad61ab893",
+      "title": "TNIE Tourism Summit 2026: An exploration of embedded beauty - The New Indian Express",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0gwV3BWRW1ucVpaWnlTU19MOF9sVHFZVEFNdFl5VEcyQXdJLTBUMEN5UG5HQ0N3Q214Q29ZMU9nNG1oXzRLYVVvTWRERUdDNlFtWEdrYks0czBvWS0xUUY1QUZlSlNKWVExbkpRN05kMnZUbnpscUNHOHk5YjB4dThRWVA2ZEdXWmxhdEttOHNNR1BNYjFUTVA2MS0zb21oVHJzRzU2Qkc4Y1",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0gwV3BWRW1ucVpaWnlTU19MOF9sVHFZVEFNdFl5VEcyQXdJLTBUMEN5UG5HQ0N3Q214Q29ZMU9nNG1oXzRLYVVvTWRERUdDNlFtWEdrYks0czBvWS0xUUY1QUZlSlNKWVExbkpRN05kMnZUbnpscUNHOHk5YjB4dThRWVA2ZEdXWmxhdEttOHNNR1BNYjFUTVA2MS0zb21oVHJzRzU2Qkc4Y1ZIQVk1VmxtRGE4TGRsbFHSAccBQVVfeXFMTUhYUDZfZHdyejhXMlkzS0tzYkFDZGNMU0FLU2QxQTdOMGQ1TENvZ0RyMnRYVVo2NW9KOFdKNkljS2NtRjVxUU5QRmFTcFdrcUxCcE1nMXBoM0Y5WUhBR3phZy1PYk9LNjFtT1ZaUGxpVFA1ZlBYb0J1OW14VkVMZUdzZ2laLU85YlhNNFJPQkF3R2xqWXRhTVltSzB1VlR6V1dpNUNoSldzQ3R0NlRtTmRNWk51VEZyYXdteVpNYXJzZDMtT0oxdw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 00:50:00 GMT",
+          "source": "The New Indian Express"
         }
       ]
     },
@@ -31,14 +51,14 @@
       "title": "ATM 2026 Travel Trends Report - World Travel Market Events",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3FQNFNVUVEzYTZULXNYMjVJTG1FM2FsSUt4T1JJaVVmYnRuVjBCdDJhRnJBUTBTa3ZIZlhKbEFzaVNTNF9DNnlyUng2bUY5aTZjaFZxbEVwVWJJQ3BPeDdQcnVDQ1lqY0lXUk9jd0x3OVRJY1FHMmlQVXlsRldaY0NyRlJOOGxxc1hRUVBOR2NaSzE3?oc=5\" target=\"_blank\">ATM 202",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3FQNFNVUVEzYTZULXNYMjVJTG1FM2FsSUt4T1JJaVVmYnRuVjBCdDJhRnJBUTBTa3ZIZlhKbEFzaVNTNF9DNnlyUng2bUY5aTZjaFZxbEVwVWJJQ3BPeDdQcnVDQ1lqY0lXUk9jd0x3OVRJY1FHMmlQVXlsRldaY0NyRlJOOGxxc1hRUVBOR2NaSzE3?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
+      "first_seen": "2026-09-17T04:45:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 16 Sep 2026 09:17:04 GMT",
@@ -47,18 +67,58 @@
       ]
     },
     {
-      "id": "07d72b376de2",
-      "title": "Egypt, India, Saudi Arabia Remain Top Travel Choices For Middle Eastern Travellers - NDTV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnRSV3B2eC1ldFV1NjFzbDRPamRPbzktdHk1N2FkUkR1UFpGSl9HdC1pWkxBd1IxaWswVlE5R2JfNURqb25hNFJqYjVNSi1yWDFNb3FyaDJFaXVzT2VfbHh4cmxEb25CdE9yWW9Gb0lrM05TQi1vTU1Zb29vcU5FTjJ1LUg0NFdRZHVtbkFSam9wNTdaekVJbjFFTFY2Q216MzcwSjJNOC16dW",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnRSV3B2eC1ldFV1NjFzbDRPamRPbzktdHk1N2FkUkR1UFpGSl9HdC1pWkxBd1IxaWswVlE5R2JfNURqb25hNFJqYjVNSi1yWDFNb3FyaDJFaXVzT2VfbHh4cmxEb25CdE9yWW9Gb0lrM05TQi1vTU1Zb29vcU5FTjJ1LUg0NFdRZHVtbkFSam9wNTdaekVJbjFFTFY2Q216MzcwSjJNOC16dWlUd3prbXFjYmZzcnNt0gHAAUFVX3lxTFBKMzlIcXlWZWdHM2cwZjdRcmppdTR0OXl4SzIzVHNSakdkdUQ2ajNMNk1vX000UkZGWlZqYzhGSEZieEFjbW1hcUpjcTdFTG1yeW5HbHh3bDAycXgwb2w2eFJKRkNEU00wVWxQdzFEdGhDaU0yWTR5RGhwdE91MzdZRDhaY0RLV0JGbTc5WGFZUkx4NmdMNUNzcVQ0TEdmVjNPNzVhZU5HUHJRZmxvbDFVOEx4S1A1N0VySGlqMWhDYw?oc=5",
-      "score": 82.8,
+      "id": "55556e3ce85e",
+      "title": "Cleartrip’s New Loyalty Program Is About Reducing ‘Travel Anxiety’ - Skift",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVg2MWJaTmt6MmVyVGZFRF9mRkVuaXhocFRveHh5LTZSbjZEMktCWG1ZekwxbjNtZFZ5M2lubWlNcVQxLXZJQXVQTVpXOUkwNWNLTGhjS0xNRGdLTEJ5RDZyWl9XQVJWeXFmNEtLNlNOT1hyYVducXFiTlFWeThjNk9mV1lVd05VQm5LbHVqVVRDcllSWnpDdA?oc=5\" target=\"_blank\">C",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVg2MWJaTmt6MmVyVGZFRF9mRkVuaXhocFRveHh5LTZSbjZEMktCWG1ZekwxbjNtZFZ5M2lubWlNcVQxLXZJQXVQTVpXOUkwNWNLTGhjS0xNRGdLTEJ5RDZyWl9XQVJWeXFmNEtLNlNOT1hyYVducXFiTlFWeThjNk9mV1lVd05VQm5LbHVqVVRDcllSWnpDdA?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 02:28:36 GMT",
+          "source": "Skift"
+        }
+      ]
+    },
+    {
+      "id": "386bea39e94b",
+      "title": "Banihal-Gool emerging hub of development, tourism, heritage: MLA Sajjad Shaheen - Greater Kashmir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYm5CSFFZNVBrYTV0OUZnMlZINnFEdVU1MUtXcFZTV3pmc2hobXlJem4xQmNuN25icEh5QkRnRWRQUmVrWlViU2ZPNHpPTFB5TjNiLVVyVDdjc0I5SXFWVFgwVnZXY1lpMG9GOTRiS18tTHlvYmx1QVFUM3lMQUctR2wwR2NfaUQ1eUNpZnZXWlpsRE1XYlFVZG9vZkFLcWlQS3hQdW1HTDdLej",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYm5CSFFZNVBrYTV0OUZnMlZINnFEdVU1MUtXcFZTV3pmc2hobXlJem4xQmNuN25icEh5QkRnRWRQUmVrWlViU2ZPNHpPTFB5TjNiLVVyVDdjc0I5SXFWVFgwVnZXY1lpMG9GOTRiS18tTHlvYmx1QVFUM3lMQUctR2wwR2NfaUQ1eUNpZnZXWlpsRE1XYlFVZG9vZkFLcWlQS3hQdW1HTDdLejRuN0UzQm5FYWhjUW5sVG9SY3Z4WVM3djjSAcgBQVVfeXFMTTJJcjY0azlQaHlPSVlWcmhjR3pETWRmdURtVDhudlJhalJYY0tvYXZzcGN2UU5HaHBOclJEN00yalZxSS13NmpTWFZYbUlJWVRQWDlKdU9ELWFqd3dvRW5JSVdHVmRCUW1hZC1ncjNBNVhBN2JPVWlSYzR4eHZJQ202enl6NUxRVEN5aUl2d09zRUtKMnBUS0VIdXBUZjE1N2JJOXFvZ3BKUFQxbDJOYjBqRkY3YndBazV1dFBRZzV0cGFOcEs4ME4?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 01:32:19 GMT",
+          "source": "Greater Kashmir"
+        }
+      ]
+    },
+    {
+      "id": "07d72b376de2",
+      "title": "Egypt, India, Saudi Arabia Remain Top Travel Choices For Middle Eastern Travellers - NDTV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnRSV3B2eC1ldFV1NjFzbDRPamRPbzktdHk1N2FkUkR1UFpGSl9HdC1pWkxBd1IxaWswVlE5R2JfNURqb25hNFJqYjVNSi1yWDFNb3FyaDJFaXVzT2VfbHh4cmxEb25CdE9yWW9Gb0lrM05TQi1vTU1Zb29vcU5FTjJ1LUg0NFdRZHVtbkFSam9wNTdaekVJbjFFTFY2Q216MzcwSjJNOC16dW",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnRSV3B2eC1ldFV1NjFzbDRPamRPbzktdHk1N2FkUkR1UFpGSl9HdC1pWkxBd1IxaWswVlE5R2JfNURqb25hNFJqYjVNSi1yWDFNb3FyaDJFaXVzT2VfbHh4cmxEb25CdE9yWW9Gb0lrM05TQi1vTU1Zb29vcU5FTjJ1LUg0NFdRZHVtbkFSam9wNTdaekVJbjFFTFY2Q216MzcwSjJNOC16dWlUd3prbXFjYmZzcnNt0gHAAUFVX3lxTFBKMzlIcXlWZWdHM2cwZjdRcmppdTR0OXl4SzIzVHNSakdkdUQ2ajNMNk1vX000UkZGWlZqYzhGSEZieEFjbW1hcUpjcTdFTG1yeW5HbHh3bDAycXgwb2w2eFJKRkNEU00wVWxQdzFEdGhDaU0yWTR5RGhwdE91MzdZRDhaY0RLV0JGbTc5WGFZUkx4NmdMNUNzcVQ0TEdmVjNPNzVhZU5HUHJRZmxvbDFVOEx4S1A1N0VySGlqMWhDYw?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 16 Sep 2026 17:10:52 GMT",
@@ -67,42 +127,126 @@
       ]
     },
     {
-      "id": "05994e9f4095",
-      "title": "US imposes travel curbs on South African officials over anti-white claims - India Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQOG9ERkhaQWx0bWxjWUpmbmN1NUtsUW9MZDJRNWVwZkV0OHN5dUVqTFZCd0Uxd2FGR3JLWndxSmVVck14UXBveWZMTTRxYUtkS1R6WVF5RktnM0JFd0FWZndpa3JoS1VxWDNaYUxJel9UdXpyczdVMS0yRmJzYTZvd3h4cS0xenBiR3ZqV1RTYzRPYVlSMVJuN1pJbG9nWWlYbjZGZTRadTdqQV",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOG9ERkhaQWx0bWxjWUpmbmN1NUtsUW9MZDJRNWVwZkV0OHN5dUVqTFZCd0Uxd2FGR3JLWndxSmVVck14UXBveWZMTTRxYUtkS1R6WVF5RktnM0JFd0FWZndpa3JoS1VxWDNaYUxJel9UdXpyczdVMS0yRmJzYTZvd3h4cS0xenBiR3ZqV1RTYzRPYVlSMVJuN1pJbG9nWWlYbjZGZTRadTdqQVg4T1lmUWttNk5NemtZdnlYUW12WdIBxAFBVV95cUxOUlB4czQzbU9mX3J5b0NmcVBiT283MzVCdlhYbkdnSnRQQ3BKV1lxaHloYkNkYnJEalNUVklMdkxjUllLZkd0THk1b1dMaW1VM0JEMW16X0tyR1lpU1RfQmhYbGE5OElpd1k5X3hXcy1Zb2d1SW0xcDJQOUFvNmhDWjVQb1JWRkJ6U2M4bnVMUVI2TjJTNHBnaUVOZ0ZTQlFQakNfQk9KYmdSU3FVNGh4dkc5d0dIRTN3ZTRzNzB4MVJqb2lS?oc=5",
-      "score": 79.2,
+      "id": "52d0d1697f90",
+      "title": "Luxury travel expert Olivia Ferney charges $100K and says billionaires are easier to work with - Fortune",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOGd3QUsxdHlKMXlxa1VlWGdrMFM5eHdLVTdiWVIwQlNDOEQ0bnVOOVhTUFViX3BPYk8wNVlCRUpjWTk4c2UwZkZSem14dFd0MldRY21SdEhCMzY2OU1vYkRocUpHUmRCVHkxSUVZd2Zmbnc1YV9nczM0V1A?oc=5\" target=\"_blank\">Luxury travel expert Olivia Ferney charg",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOGd3QUsxdHlKMXlxa1VlWGdrMFM5eHdLVTdiWVIwQlNDOEQ0bnVOOVhTUFViX3BPYk8wNVlCRUpjWTk4c2UwZkZSem14dFd0MldRY21SdEhCMzY2OU1vYkRocUpHUmRCVHkxSUVZd2Zmbnc1YV9nczM0V1A?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
+      "first_seen": "2026-09-17T04:45:41+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 16 Sep 2026 18:12:43 GMT",
-          "source": "India Today"
+          "published": "Wed, 16 Sep 2026 18:32:00 GMT",
+          "source": "Fortune"
         }
       ]
     },
     {
-      "id": "ca5affc624bb",
-      "title": "El Niño is returning – here's how it could affect your travel plans - cntraveller.in",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUy11dklJVXBYcFd6RjdYQVJOYks2VzJZX1B6UDU5LU1zV29fQzNfMldiRE9INHY2TXNCN1JkUFhGck5ETXJrcHM0N3pNc3pBTF8tODdGcmFQbEQxTEdkX0VJS1ZtY0lMQ0pUX04tRXFkRkpvWl9rcHRIaFBMQll2MlBxdkRMR3NjSHBCMDRDdlFZdlpDMTFhYUlXN1gyWE0?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUy11dklJVXBYcFd6RjdYQVJOYks2VzJZX1B6UDU5LU1zV29fQzNfMldiRE9INHY2TXNCN1JkUFhGck5ETXJrcHM0N3pNc3pBTF8tODdGcmFQbEQxTEdkX0VJS1ZtY0lMQ0pUX04tRXFkRkpvWl9rcHRIaFBMQll2MlBxdkRMR3NjSHBCMDRDdlFZdlpDMTFhYUlXN1gyWE0?oc=5",
-      "score": 75.6,
+      "id": "d5e5447985e8",
+      "title": "Free bus travel for differently-abled - Rising Kashmir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDY5SlpRM2pocEdSMS1OVHd5NGMySEhjUGxDVVU2U0lPenFNZExYcmdRZlF1Y05LNVlRXzdsMFpSWEpsa1lPT0MxUHdiQW1MRmNpWG1pRC0xRExQbjdtNzMtcmpaZnpSOHRkZ1dYcW5KTTRMalY4ZWs5emVrb050cjVUc1FyajVGdlAxRw?oc=5\" target=\"_blank\">Free bus travel f",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDY5SlpRM2pocEdSMS1OVHd5NGMySEhjUGxDVVU2U0lPenFNZExYcmdRZlF1Y05LNVlRXzdsMFpSWEpsa1lPT0MxUHdiQW1MRmNpWG1pRC0xRExQbjdtNzMtcmpaZnpSOHRkZ1dYcW5KTTRMalY4ZWs5emVrb050cjVUc1FyajVGdlAxRw?oc=5",
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 16 Sep 2026 22:00:37 GMT",
+          "source": "Rising Kashmir"
+        }
+      ]
+    },
+    {
+      "id": "5248946ad48e",
+      "title": "Opinion | Homestays: Kashmir’s Quite Tourism Revolution Connecting tourists with Local Culture & Traditions - globalkashmir.net",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNazZOMWhBRFFVbzJEY0tXdktWVEJoTkhaVXA2eTVTTlpvSm5sRU0ybENLTmpmMzk2Si1LVnpyd2QzZjFNU2VTQng4REtaN0hrRFNoLVllVTVCeWZJTDZRc0RhRnRQQnYwNy04Um5SOHA1LVFhODlZYlFNeUMzdGNwMFJFUS14Ty1VUmNsT2cxN2lzbGlRTHhIUDZCb2pfbWJoNjI2WkYtcmhVND",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazZOMWhBRFFVbzJEY0tXdktWVEJoTkhaVXA2eTVTTlpvSm5sRU0ybENLTmpmMzk2Si1LVnpyd2QzZjFNU2VTQng4REtaN0hrRFNoLVllVTVCeWZJTDZRc0RhRnRQQnYwNy04Um5SOHA1LVFhODlZYlFNeUMzdGNwMFJFUS14Ty1VUmNsT2cxN2lzbGlRTHhIUDZCb2pfbWJoNjI2WkYtcmhVNDFOa2FhOXppSktReFNXd0hWWndmSUFCek95aElz?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 03:23:49 GMT",
+          "source": "globalkashmir.net"
+        }
+      ]
+    },
+    {
+      "id": "6c2b042fe127",
+      "title": "El Niño is returning – here's how it could affect your travel plans - Condé Nast Traveller India",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUy11dklJVXBYcFd6RjdYQVJOYks2VzJZX1B6UDU5LU1zV29fQzNfMldiRE9INHY2TXNCN1JkUFhGck5ETXJrcHM0N3pNc3pBTF8tODdGcmFQbEQxTEdkX0VJS1ZtY0lMQ0pUX04tRXFkRkpvWl9rcHRIaFBMQll2MlBxdkRMR3NjSHBCMDRDdlFZdlpDMTFhYUlXN1gyWE0?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUy11dklJVXBYcFd6RjdYQVJOYks2VzJZX1B6UDU5LU1zV29fQzNfMldiRE9INHY2TXNCN1JkUFhGck5ETXJrcHM0N3pNc3pBTF8tODdGcmFQbEQxTEdkX0VJS1ZtY0lMQ0pUX04tRXFkRkpvWl9rcHRIaFBMQll2MlBxdkRMR3NjSHBCMDRDdlFZdlpDMTFhYUlXN1gyWE0?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 16 Sep 2026 10:30:00 GMT",
-          "source": "cntraveller.in"
+          "source": "Condé Nast Traveller India"
+        }
+      ]
+    },
+    {
+      "id": "05994e9f4095",
+      "title": "US imposes travel curbs on South African officials over anti-white claims - India Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQOG9ERkhaQWx0bWxjWUpmbmN1NUtsUW9MZDJRNWVwZkV0OHN5dUVqTFZCd0Uxd2FGR3JLWndxSmVVck14UXBveWZMTTRxYUtkS1R6WVF5RktnM0JFd0FWZndpa3JoS1VxWDNaYUxJel9UdXpyczdVMS0yRmJzYTZvd3h4cS0xenBiR3ZqV1RTYzRPYVlSMVJuN1pJbG9nWWlYbjZGZTRadTdqQV",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOG9ERkhaQWx0bWxjWUpmbmN1NUtsUW9MZDJRNWVwZkV0OHN5dUVqTFZCd0Uxd2FGR3JLWndxSmVVck14UXBveWZMTTRxYUtkS1R6WVF5RktnM0JFd0FWZndpa3JoS1VxWDNaYUxJel9UdXpyczdVMS0yRmJzYTZvd3h4cS0xenBiR3ZqV1RTYzRPYVlSMVJuN1pJbG9nWWlYbjZGZTRadTdqQVg4T1lmUWttNk5NemtZdnlYUW12WdIBxAFBVV95cUxOUlB4czQzbU9mX3J5b0NmcVBiT283MzVCdlhYbkdnSnRQQ3BKV1lxaHloYkNkYnJEalNUVklMdkxjUllLZkd0THk1b1dMaW1VM0JEMW16X0tyR1lpU1RfQmhYbGE5OElpd1k5X3hXcy1Zb2d1SW0xcDJQOUFvNmhDWjVQb1JWRkJ6U2M4bnVMUVI2TjJTNHBnaUVOZ0ZTQlFQakNfQk9KYmdSU3FVNGh4dkc5d0dIRTN3ZTRzNzB4MVJqb2lS?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 16 Sep 2026 18:12:43 GMT",
+          "source": "India Today"
+        },
+        {
+          "published": "Wed, 16 Sep 2026 19:57:00 GMT",
+          "source": "ANI News"
+        }
+      ]
+    },
+    {
+      "id": "e6c896a865c9",
+      "title": "Why you should add these curated destinations to your Europe itinerary - Architectural Digest India",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNXRkRnl0RUxKSGxyTV9iWkpJcEk2UlYwTjNCbkxFVUxkMUR1Mm50d3pLM2NHZndQQ1RwWFlwRXJTRENLc1JNelNCam9fODZJaDhBMms4MGlST0tkNTNNZXREYWdoWXBQZEZqeWhhNUNTUF92ZmRMMWdRUm51bDNZYktQSGdfeUpXcUJZdlFvOUhIUWhrOThZRWQ3Ul8wUEtjTFN4ZlNob1l0X2",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNXRkRnl0RUxKSGxyTV9iWkpJcEk2UlYwTjNCbkxFVUxkMUR1Mm50d3pLM2NHZndQQ1RwWFlwRXJTRENLc1JNelNCam9fODZJaDhBMms4MGlST0tkNTNNZXREYWdoWXBQZEZqeWhhNUNTUF92ZmRMMWdRUm51bDNZYktQSGdfeUpXcUJZdlFvOUhIUWhrOThZRWQ3Ul8wUEtjTFN4ZlNob1l0X2tkY3VRdWlkb3dZcVFNbGkyTGxUNA?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 16 Sep 2026 10:17:57 GMT",
+          "source": "Architectural Digest India"
         }
       ]
     },
@@ -111,14 +255,14 @@
       "title": "The rise of industrial tourism in China - The Hindu",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDBiblVVclUwTmZfUWREcm5OUkJRMUhIbGF0R2I5QU84UTRRdmQ3NmNxbWh4YU5pam5Qb3RRUHRlclpwLWMzM0VuMnI3anpBOU9xRTVpNlZVaUd0MlBfM0V2RVJLeXF0aFBYQjhrMUtEOG12VkVDZ0dpX1U3NW95ZlNXdGFiT20xOGhIZ3U4SjN3czFfY1dnelgtbmEzSVdxdzdFMzVB0gGsAU",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDBiblVVclUwTmZfUWREcm5OUkJRMUhIbGF0R2I5QU84UTRRdmQ3NmNxbWh4YU5pam5Qb3RRUHRlclpwLWMzM0VuMnI3anpBOU9xRTVpNlZVaUd0MlBfM0V2RVJLeXF0aFBYQjhrMUtEOG12VkVDZ0dpX1U3NW95ZlNXdGFiT20xOGhIZ3U4SjN3czFfY1dnelgtbmEzSVdxdzdFMzVB0gGsAUFVX3lxTE55WEhXazd5bWFSeVRpa1lyeF9DNWd4d1E1aFhvY0tOTHB5ZWp1MnM1QUJfZFczY2ZYWnpmV3UtX2d5MHZTR3FwWW1tVEN0M0NvU19VM1hmbGZBdXRYMERodTBpUFpoMHd0dDhMck9scGFsZmNVUEQtT2g3aHBZU2xkQm1vdGJYR1h0TDlWMjNiQ1dWNlUwd1lNdDctemJ6VGtaUGUteUZKYi13SVA?oc=5",
-      "score": 72.0,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
+      "first_seen": "2026-09-17T04:45:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 16 Sep 2026 02:00:00 GMT",
@@ -127,138 +271,18 @@
       ]
     },
     {
-      "id": "d3e7ee44805e",
-      "title": "How This Senior Travel Company Is Helping Over 350 Seniors Travel With Confidence - The Better India",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSDNBeFpKRTZSZ21pMEJtc0FFNWpFV2dESFZxanhkc2c1Ni02RHVXbFdiN2hYbEMtaFhwY0JXdnZpblV2S0JGbU96NEFET01JOWs3QjlNS1dEaDRCUFBDdGVGM2dGUllaX3JVUHhDSmEwazVSNmgzWDB5NXlJbFczdkl5b0xvejFVQnoyNkx1TTlYWS1wLXh5UVQ2VzBqUXJMczJLLUtuMGRlUm",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSDNBeFpKRTZSZ21pMEJtc0FFNWpFV2dESFZxanhkc2c1Ni02RHVXbFdiN2hYbEMtaFhwY0JXdnZpblV2S0JGbU96NEFET01JOWs3QjlNS1dEaDRCUFBDdGVGM2dGUllaX3JVUHhDSmEwazVSNmgzWDB5NXlJbFczdkl5b0xvejFVQnoyNkx1TTlYWS1wLXh5UVQ2VzBqUXJMczJLLUtuMGRlUmkwUHF5VFBYVV9YMHFNbW5PNmFzZVVWUWRTSWdRZ1Q4OXdNWGhOQXZESGJGeGtDRUVLd09LQkZMcHVQazRjZkNSd0U3bkxtZ9IB9wFBVV95cUxOaFJsb19yMmRQdGloOGZWeWFJcWNxaGVqT09PdUIyTEVlZmZrbmFyTENPd1IySUNwUzktTzJzM3R6bjFjZldWYm1xRW1QcURTV2lMaDRxVXJkcXR2Z19vSVFpaEpiNUduQk00MVZkZTJyelRPOU9FVnl3TFhCb2Z4eURpT2RmR0Q2c1VkLUZ5M1JzUmxxb2FKNlJvYTBNRnFvMjYzMk9RX3FrYi0wNnNWV3FoN2kzakJESW9uQVRSQW5XY3M3TnU4bWVqOWpUZ2ttWHdKaUtLOGpsdXFIaHlrQmxTZG1yLWt2ZDZaQkhseS02TkFZRmJF?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 02:30:37 GMT",
-          "source": "The Better India"
-        }
-      ]
-    },
-    {
-      "id": "d54532d46a96",
-      "title": "Kenya partners with Emirates & Qatar Airways to drive Middle East tourism growth - Travel Trends Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTQtZjNJc1hTV3VRWjdHU2tTMzI4dXB5ekNveERabEpmY3NwTkJ6MU9jVHA2eHd0dU0wemlpeC1uNklnemFHaDJYOVpYY3p1SDVtU2VabUtjZ2RwYTVaQ1FpcERTcDJTSTFJbHIyVWZvTHFDT2otMFJuM3NJWUtQOVhEY1djLWdmN3NtaTFjY1d1emZqNENaOU9IWG9kVURZRlJNcm9ZeTBCbW",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTQtZjNJc1hTV3VRWjdHU2tTMzI4dXB5ekNveERabEpmY3NwTkJ6MU9jVHA2eHd0dU0wemlpeC1uNklnemFHaDJYOVpYY3p1SDVtU2VabUtjZ2RwYTVaQ1FpcERTcDJTSTFJbHIyVWZvTHFDT2otMFJuM3NJWUtQOVhEY1djLWdmN3NtaTFjY1d1emZqNENaOU9IWG9kVURZRlJNcm9ZeTBCbWZwNXNzZw?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 12:33:35 GMT",
-          "source": "Travel Trends Today"
-        }
-      ]
-    },
-    {
-      "id": "3e3180027c6b",
-      "title": "Banihal-Gool Fast Emerging as a Hub of Development, Tourism and Heritage: MLA Sajjad Shaheen - Rising Kashmir",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkpvWV9FTm5JVjhTOE9NSDExR3ppRTV0T1FKdEdXeDdOYmR0azEzQ1VWTXAtdVpiTnRFNXcwRHRiRWlXVkJ1TC1QaUtPT0JVa2J6bmQ5dnVOQlZtY0FDaVR2cEpJX0xFYTk2NjZCa3h4SFhaNjhqYzJSa1BNM185d0xVaDFETkVseXc?oc=5\" target=\"_blank\">Banihal-Gool Fast Em",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkpvWV9FTm5JVjhTOE9NSDExR3ppRTV0T1FKdEdXeDdOYmR0azEzQ1VWTXAtdVpiTnRFNXcwRHRiRWlXVkJ1TC1QaUtPT0JVa2J6bmQ5dnVOQlZtY0FDaVR2cEpJX0xFYTk2NjZCa3h4SFhaNjhqYzJSa1BNM185d0xVaDFETkVseXc?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 11:09:13 GMT",
-          "source": "Rising Kashmir"
-        }
-      ]
-    },
-    {
-      "id": "7079495a7010",
-      "title": "Bengal tourism dept plans makeover of 135 heritage sites - The Statesman",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHJ5clRsRHNHQWhPSFk2S3o1N0xrNGw0SERwaDdvOUhMbUVlVWdlZ3hPOTFvS3kyOU45R2VsVDhNaGtJNEhaek9QZnRVYzJ4cFJfRktxZVBIUkpoRWIzYkExbkZFbDZFYjRPZURUdHVZLUJ5MG1MSmlKNGxLVEJtMVFnM2YwUUZXT08tSDlTNHBtcWlCMmlNLWRuN1ZLNVRrQXZDUnNrdkNxME",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHJ5clRsRHNHQWhPSFk2S3o1N0xrNGw0SERwaDdvOUhMbUVlVWdlZ3hPOTFvS3kyOU45R2VsVDhNaGtJNEhaek9QZnRVYzJ4cFJfRktxZVBIUkpoRWIzYkExbkZFbDZFYjRPZURUdHVZLUJ5MG1MSmlKNGxLVEJtMVFnM2YwUUZXT08tSDlTNHBtcWlCMmlNLWRuN1ZLNVRrQXZDUnNrdkNxMEZEOEluc3FLajJGNzDSAbwBQVVfeXFMUGZKYmZDaC1iVzZYZXNWZ0pYak85MG1kbndFWURoeGNyc1R2WE8wV3VTMDJRa295TkdERHppYU1VZUc1MUJ1c3o4eVRxNVpWME1ycVJrVjN3UFptZTNOY3FwNVVVa3haNy15QlRHM1FNS05ZdURRNE50VWJMeHJjM3Mtd3M2VGk2Q0V1NjdqZExrQlkxalVIbGp3UlhMRVBIUFN1NmtycEFDT2xIeDY3aldRZl9HdmRSNHJxcUI?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 16:47:00 GMT",
-          "source": "The Statesman"
-        }
-      ]
-    },
-    {
-      "id": "d643c8f52cc5",
-      "title": "Photography exhibition ‘Time travel to Nagaland, 1979’ inaugurated at Kohima - Nagaland Tribune",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3kwbXVlM3BpcjJZdk8wVWlDTkpqSWNxSUhfczRxZmxTaDVfWGJBTVJpamlrNGtkaUtnb3ZBUUd6TmpBbEF6MlBtdVk3bWlqc2ZqdzdLa000RXh0a21XM0JfRjlUWjNGc051RFN3Q1RBUHpNQlpmbEc3TTRnRVktNUY3YUtKTVAzeGVZdnJ2Y2xzZkhYMEktbG1rRFFrNmZSYjR3?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3kwbXVlM3BpcjJZdk8wVWlDTkpqSWNxSUhfczRxZmxTaDVfWGJBTVJpamlrNGtkaUtnb3ZBUUd6TmpBbEF6MlBtdVk3bWlqc2ZqdzdLa000RXh0a21XM0JfRjlUWjNGc051RFN3Q1RBUHpNQlpmbEc3TTRnRVktNUY3YUtKTVAzeGVZdnJ2Y2xzZkhYMEktbG1rRFFrNmZSYjR3?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 14:23:39 GMT",
-          "source": "Nagaland Tribune"
-        }
-      ]
-    },
-    {
-      "id": "5302542c8763",
-      "title": "When Tax Appeal Backfires: How Far Can 'No Reformatio in Peius' Travel Under GST? - Live Law",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmhvdVV0SjQxa29NUWdQZWN4aGVvdmpsb3pFWVBpUUpKRXFsOVduT3pvUnlSc1FLMUprdVlReEdtVDZtZGt2RDg5THFnZXBnOVdrUW9tQzJ1bVNENlVxaVBsbmNBYjA2OHZDOVp1cktQNG9oWnRRZWRpcjlKNk5BdFl2NzJIaEd4dWYtX0MtSHpLVTNHTV8tOdIBngFBVV95cUxQenlIUUFZTV",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmhvdVV0SjQxa29NUWdQZWN4aGVvdmpsb3pFWVBpUUpKRXFsOVduT3pvUnlSc1FLMUprdVlReEdtVDZtZGt2RDg5THFnZXBnOVdrUW9tQzJ1bVNENlVxaVBsbmNBYjA2OHZDOVp1cktQNG9oWnRRZWRpcjlKNk5BdFl2NzJIaEd4dWYtX0MtSHpLVTNHTV8tOdIBngFBVV95cUxQenlIUUFZTVFNb3otNFpIcWZMaThmalk5Q2FwNC1JdHNCVS1aRVM2QUs2b2ZwaEZmRHJMdEZtXzhVbERlWEU5ZEdiamFzamxydllHTk0tbFdkTWNOQ3luYmd0NmlDSlN1WWx4bi1BVXN6QzNuQkcxcV8wWnNCeldoODVIYWcxc0k2eW9CLU94RjRuVHlkOWd4Ri1jeGlSdw?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 14:30:38 GMT",
-          "source": "Live Law"
-        }
-      ]
-    },
-    {
       "id": "814f102a8fd3",
       "title": "Ras Al Khaimah Tourism Development Authority partners with Emirates to boost visitor arrivals - ET TravelWorld",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOZWFXMVdMdFRBY3R3d0JILU8tb29nWDdkVWk5Q1dqRUdudTR1TmQzMkdRa1dha096aVVDUUEycVpIUWhCRTRMRHJ2MDgwV2M1ZjBRY2tLS2lwQi01V0NZcERNQ3FSQzBGQy1xdXMtLU9VeVBsNlk1allpbU03TVNpempYZllmRXdQQkR0VjlZMnZkRmNjY3dic01GNjE3YnpMejRrSVluTTRlbG",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZWFXMVdMdFRBY3R3d0JILU8tb29nWDdkVWk5Q1dqRUdudTR1TmQzMkdRa1dha096aVVDUUEycVpIUWhCRTRMRHJ2MDgwV2M1ZjBRY2tLS2lwQi01V0NZcERNQ3FSQzBGQy1xdXMtLU9VeVBsNlk1allpbU03TVNpempYZllmRXdQQkR0VjlZMnZkRmNjY3dic01GNjE3YnpMejRrSVluTTRlbGJXNXFYWDVIelBJcFVyaDVYQ3NrTlF0WWpzQ2J6S292a21qTjd4Z1MxRm9EMWZiUmp5blBtSVZKMlJFd3lnbUhJZW4wa05Db2daOUVZWk5SZmt0UGRZ0gGEAkFVX3lxTE1mcEthN3NXUHVSZmd6SE16NGNOdXVGNWw1SDUzdEJwTHpnNXl3WkdqU2M4alNRMVVTT2VBcEw2SS15ZG84S0g4aTctQ1dLaDBZMUtUc3BySFQyX3hxMlMwR2U1Zl9QSkdoVXFPZHZhalVxWGJ4RzNoQVlqeWlkdUJoSE1jcDJLcTNJNXB5TGNJVTl6XzlvX3o4dFNMdGpFZE10TzJpOWpEZzdLWmhNQURwWldLdXpwR2tGWXo0blNzQVhQMFVMaUNNMXlqTl85V3VrT0syUnVaMjN4eDl3M3RJSUx1YjRlSmE0cU5JSVhaYUdzRnFOMGppeXZhQW5KXzFzQTFo?oc=5",
-      "score": 46.8,
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
+      "first_seen": "2026-09-17T04:45:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 16 Sep 2026 21:04:49 GMT",
@@ -267,18 +291,78 @@
       ]
     },
     {
-      "id": "9fb4f168d3c4",
-      "title": "Traveller Shares Clever Hacks To Make Your Next Trip Easier - NDTV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3BvS0NGd2Q0MlhhX1BGcFlJdGQteE42bHV1ekd6OGdSWVNfbV9DSzVEZ01BX0FRbnhQbFl1NzJScE1ZcEpwYktpd3UxYUpLci05WktndzlBNnFfY05KeE1KQ0VDdW81UE9uZ1lPV2xoNHNKY0lreVo3cjQyaEpuYTNLcTJrYVNfWVFPcXZ6SFY2Z9IBmgFBVV95cUxQNzZVQW1DdEdzZllMcU",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3BvS0NGd2Q0MlhhX1BGcFlJdGQteE42bHV1ekd6OGdSWVNfbV9DSzVEZ01BX0FRbnhQbFl1NzJScE1ZcEpwYktpd3UxYUpLci05WktndzlBNnFfY05KeE1KQ0VDdW81UE9uZ1lPV2xoNHNKY0lreVo3cjQyaEpuYTNLcTJrYVNfWVFPcXZ6SFY2Z9IBmgFBVV95cUxQNzZVQW1DdEdzZllMcU80UGh2OWhzd1Nfb1lzWGo1ckZVYkN5Z3VUOHpfWmUtWW5xb1piYV9RUUdETW5HeExyQzR3SUp4M2dmaGJacnJGd042QWYzRF9IT1g1Qy1ySnpmbmVTNTVSbTBuV3FwRmVySXd5ZHNka0xZWWdfdWNJX0JoVkxPc0Y1NFZUazVLWE5JR2l3?oc=5",
-      "score": 43.2,
+      "id": "0af7382bf89d",
+      "title": "Line doubling to cut travel time, add trains between Bengaluru and southern TN - The New Indian Express",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeXpLQ0JqeF9vd0JBVkVnSUpueVlSMHQ0ZEVSMUtyZFYxT1RTckthMTBGYjdsb01haTRRbU5sMFdCR2dFZlczNS1SWGJGNGpLR0dBOUw2X1JwZ01pMW93cUp5eFJaUWR1TUg5WnNBM0Y4c2VwQVNWeGFyTk56S0lWTmhndTFKWE5fVTVuUFJFeVRVcnYtdVd5WTRBUGhaLVZkczB4S2dhZXpDTz",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeXpLQ0JqeF9vd0JBVkVnSUpueVlSMHQ0ZEVSMUtyZFYxT1RTckthMTBGYjdsb01haTRRbU5sMFdCR2dFZlczNS1SWGJGNGpLR0dBOUw2X1JwZ01pMW93cUp5eFJaUWR1TUg5WnNBM0Y4c2VwQVNWeGFyTk56S0lWTmhndTFKWE5fVTVuUFJFeVRVcnYtdVd5WTRBUGhaLVZkczB4S2dhZXpDTzE4OFR2T1lzZG82V1J1VFBzZHd1Yk5Hdnl0TXZzZkxEeko1U0ZGbzh3ZFprNNIB5AFBVV95cUxNU21ubXI5NUNaVUZteDVCRFpQaUlIQnAzYWNnbUZCTFRzYzJnb0piNTM2YS1UXzBlMGxQa0tJRUJCRlRiUFB2SXZkZ2JyR0M2eTdza09xRDlPRURJc0ItT1drVUhWMXBrSDRYZE9TWUtvekk2dHJQdE1hT19xeVhITnp4VzZPUXpkeEdkQXdGZ3V3bFhmUFc2ZkN2UFh3aVRaeWRaYWRUT2VySmFjVlBpRldWckRKREp0a3JKVjBiazdaZUxKS1RFSEh3ZUFsX2FnV0Qwdjg0amM2US1uM1BZcWN6RnA?oc=5",
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 02:29:43 GMT",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    {
+      "id": "191d7f7576c7",
+      "title": "Video: Foreign Creator Checks Into Dhaka's $1 Floating Hotel, Internet Can't Believe The Conditions - NDTV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1lDNEJCNnRScGlRM1RhVGhjb3lXOGZZSTdLM0VWUmVsSTgwTUVQOEVaN1lGV0FYeXRxVGJaMDE3bGZoTzZDMHpRQmlYQ1RfSnJlZkRMOGoxWGNRdTN4cFduMkJUWVY4WTl5b1ZPcVJDYlp5T3VCNjFLZV9LNnVibmxNRGV2Wk1icm0wWUFfNldQblBUbUE4TVpJVUZvd21PRVlabWVCRDdtWn",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1lDNEJCNnRScGlRM1RhVGhjb3lXOGZZSTdLM0VWUmVsSTgwTUVQOEVaN1lGV0FYeXRxVGJaMDE3bGZoTzZDMHpRQmlYQ1RfSnJlZkRMOGoxWGNRdTN4cFduMkJUWVY4WTl5b1ZPcVJDYlp5T3VCNjFLZV9LNnVibmxNRGV2Wk1icm0wWUFfNldQblBUbUE4TVpJVUZvd21PRVlabWVCRDdtWndDVGdwM3pGVFo5YWRDT1ZMMm5HTmZNR0htMHNQSmVJVdIB0wFBVV95cUxNOWpXLXZqejJ6NjFjVUJNa09wemI0c1VWS3hLZHVLRXR0S09rdlo1XzB3aTNHRFZPX1pWSU5xejVGbW43eXBwUlVLX0VCYTM5c1NPRmE1NGNwWG5mSjhrTVhuZ0V6WnB2UUN5RW9rd1lBb2VUd0VGVmpWTmN0TmlqcHUyREF6Z1pZaGZDdkl3cHdOZlAySDJlYXdlZ2NFdTMzUkY2eVlUbExnQ1ZzeUFKUXFYVEhjSlVRLVZfemZlMmJlU2hRWS04RUVZdVhOdGx1WFNJ?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 01:50:50 GMT",
+          "source": "NDTV"
+        }
+      ]
+    },
+    {
+      "id": "edd1bc55df9a",
+      "title": "KSRTC expands travel horizons to Lakshadweep - The New Indian Express",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmJoYWZWS2ljMGhYOEg4TmRoX24wcGxwWDlvX194bHNZaWs0WF9EU2JTempIYjBxRERvSFN4ZE1nNnNueEhpZ2FYVnVMQU5GNkVaZEhNNFJ6NVp5N0RlMHZtenBmQ1FZRG9Yd1E3WExNSDdsT0VKblBJREg1SDVmWlJKcUw3V3k4dkN3aVJGdjc4aXBYSGxWaGh4MVp4YWhSR3NkYU9n0gGzAU",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmJoYWZWS2ljMGhYOEg4TmRoX24wcGxwWDlvX194bHNZaWs0WF9EU2JTempIYjBxRERvSFN4ZE1nNnNueEhpZ2FYVnVMQU5GNkVaZEhNNFJ6NVp5N0RlMHZtenBmQ1FZRG9Yd1E3WExNSDdsT0VKblBJREg1SDVmWlJKcUw3V3k4dkN3aVJGdjc4aXBYSGxWaGh4MVp4YWhSR3NkYU9n0gGzAUFVX3lxTE1jckRJek8wcHA0LUdNU3dZS3RmUWhGM2dXR1hwT2Y0bXNlbVhkWEN1ZVZsN2EySW9qZ3BzQ3d0ZGJzQTV6WFBOUkRKZUZpOGtveDAtX2R6MjNOR1h6R3BQWVpkQXFPLWFwUkVvaFRBSktiLXdCS2psSTdFWmdjZEl6a0pvRF9BUS1EWU93RzlfeXlNc0NlZ2dPanMtcWpCWllZZ3RFSnozWTN0ZjJpajZVemNn?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 02:29:44 GMT",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    {
+      "id": "9fb4f168d3c4",
+      "title": "Traveller Shares Clever Hacks To Make Your Next Trip Easier - NDTV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3BvS0NGd2Q0MlhhX1BGcFlJdGQteE42bHV1ekd6OGdSWVNfbV9DSzVEZ01BX0FRbnhQbFl1NzJScE1ZcEpwYktpd3UxYUpLci05WktndzlBNnFfY05KeE1KQ0VDdW81UE9uZ1lPV2xoNHNKY0lreVo3cjQyaEpuYTNLcTJrYVNfWVFPcXZ6SFY2Z9IBmgFBVV95cUxQNzZVQW1DdEdzZllMcU",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3BvS0NGd2Q0MlhhX1BGcFlJdGQteE42bHV1ekd6OGdSWVNfbV9DSzVEZ01BX0FRbnhQbFl1NzJScE1ZcEpwYktpd3UxYUpLci05WktndzlBNnFfY05KeE1KQ0VDdW81UE9uZ1lPV2xoNHNKY0lreVo3cjQyaEpuYTNLcTJrYVNfWVFPcXZ6SFY2Z9IBmgFBVV95cUxQNzZVQW1DdEdzZllMcU80UGh2OWhzd1Nfb1lzWGo1ckZVYkN5Z3VUOHpfWmUtWW5xb1piYV9RUUdETW5HeExyQzR3SUp4M2dmaGJacnJGd042QWYzRF9IT1g1Qy1ySnpmbmVTNTVSbTBuV3FwRmVySXd5ZHNka0xZWWdfdWNJX0JoVkxPc0Y1NFZUazVLWE5JR2l3?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "IN",
+      "first_seen": "2026-09-17T04:45:41+00:00",
       "raw_samples": [
         {
           "published": "Wed, 16 Sep 2026 16:56:49 GMT",
@@ -287,110 +371,10 @@
       ]
     },
     {
-      "id": "6612516b0e1e",
-      "title": "Sept-Oct emerges as a prime travel window for Indians: Thomas Cook - Travel Trends Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQd05NLXRiMkVlNmFKbGNxVndKcFEwOUNSWEpBLTdMaWpScG1pV1NJb0t6aEoxVnJCUGtyMzdZNVlTRDB1bm5XYjZGWDBKNzI1M1RPellHaWd0cWVWcVV3cHFES2V5LUxfTldOemFHMVIxSnc1a2dBNVoxZTFFcVRwVFJuTVJ3a0xmVkVYWXM5MnItcWtFNUYwejJkWEM2MW8?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd05NLXRiMkVlNmFKbGNxVndKcFEwOUNSWEpBLTdMaWpScG1pV1NJb0t6aEoxVnJCUGtyMzdZNVlTRDB1bm5XYjZGWDBKNzI1M1RPellHaWd0cWVWcVV3cHFES2V5LUxfTldOemFHMVIxSnc1a2dBNVoxZTFFcVRwVFJuTVJ3a0xmVkVYWXM5MnItcWtFNUYwejJkWEM2MW8?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 09:11:16 GMT",
-          "source": "Travel Trends Today"
-        }
-      ]
-    },
-    {
-      "id": "01c128c1acbc",
-      "title": "US warns against travel to Saudi Arabia amid risk of Iranian drone, missile attacks - India Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdXBtT2xzLW83NUtaOVE0ZmpNTEYySXF6c0g3enVLLWZKY2F0aVctX3FkUXFybzFEb2pnNGYwUFBDWEJObGpEbWFJZG5GdWxYWm5yYTVKTl93akx0dWhDRkNIY1MtRjZ6bUN2R29EUXdLcldra2N0V3BlLWljMnViOHV2UGV0QXVrX2VQWm1maE1pMm5DbFYtVng1bHZaVW9vbmhadkVmMGJwTG",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdXBtT2xzLW83NUtaOVE0ZmpNTEYySXF6c0g3enVLLWZKY2F0aVctX3FkUXFybzFEb2pnNGYwUFBDWEJObGpEbWFJZG5GdWxYWm5yYTVKTl93akx0dWhDRkNIY1MtRjZ6bUN2R29EUXdLcldra2N0V3BlLWljMnViOHV2UGV0QXVrX2VQWm1maE1pMm5DbFYtVng1bHZaVW9vbmhadkVmMGJwTGVwaXlHR1JhSmpqcHRLWm5ETElCanFsb0pPa0NtX3hsME0yQ09fUDJtTjZB0gHbAUFVX3lxTE1rSlk4OGdYRjg5T2hyYTFweDJPNnNLaVVkS0tjWkxndDhUNzl3SjlaVFJKaHIzTm4xbkJfTHhVUVdPdjFoRGk1Sk9ycVVjN1Rxc2dzLWNTOXBrMzAwVjhGMVNZOGNFOEFadXZkQ2ZkX3hmN2F3a3o0QnFjMk02N2taRTBsMGlmN1pTSkQzYWtMbEx0ZElkb1BJS2ZsTWZGSWdQOUd4NUhLdzE4ZWdYNHZCel81RkR3ejY5UHRXUkh5eHkxLW5BWU9ZZG5tcWFrWXQ3Y2ExN2pZdHBXOA?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 08:28:22 GMT",
-          "source": "India Today"
-        }
-      ]
-    },
-    {
-      "id": "6af9f6e2dd34",
-      "title": "Travel companies protect AI investments amid economic uncertainty: Sabre study - ET TravelWorld",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVVHaHNIWE9vSldTVmF1TXhOb2h5OUROMUpvaDZwUzc4bTVZa0JxWFREOFdDdFg1LXI4WFVtdEhHY1o5RTBwOTU0NXlELXdJLXVENE1BN2FqR3pSdEJSMWk3RVQ3R0pmaFNHNDNobXh1WEd6LWZNRDhwWHJTUkFRbEFrbHhvVkhHZHA0VzRGN0gtTW90SWp4S25pbTAzQjBzVkJQazh5ZlkyWU",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTVVHaHNIWE9vSldTVmF1TXhOb2h5OUROMUpvaDZwUzc4bTVZa0JxWFREOFdDdFg1LXI4WFVtdEhHY1o5RTBwOTU0NXlELXdJLXVENE1BN2FqR3pSdEJSMWk3RVQ3R0pmaFNHNDNobXh1WEd6LWZNRDhwWHJTUkFRbEFrbHhvVkhHZHA0VzRGN0gtTW90SWp4S25pbTAzQjBzVkJQazh5ZlkyWUxnMVhwX21rdE9ibW5PVndlNHktQmltamRLdkttQ1MwRW54RW9SR0NFN0pxM1lma0NHRW1kadIB5AFBVV95cUxNanVad3JESFluREpRd3diaEtoZXpQTWdzWDl2MldqQ2xjUWdqZmgwUjJLRXlubHBaX2hhOFVtRWh0LVd6UEwyTjFyX3BDWU02LWN3azFMSmd0anhRcll3Z0tlbkRpWWQ0WS1aUkZYMzdES0FmemRaRFFPWnZKb1k0Z29OdXFDOHJVTzZjTklCeW1VYmxrYjl0MlQ3c1ZHTHhsY0puU3E3QVR2TU9IdWdGb2Z1OTZOVk5pajZYdmhJcndjVnZ0czdtYl9VNXpJYTA0dUhGX3RFSGhYNWpZOGZNbDhRazA?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 10:52:44 GMT",
-          "source": "ET TravelWorld"
-        }
-      ]
-    },
-    {
-      "id": "8891fd50f185",
-      "title": "Etihad Escapes to be launched soon; to provide integrated travel experience with flights & more services - Travel Trends Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkIxWWhzUjMtNlR3cF9BYzhWS1pkMmxiRHB0cWxXSUs2amluSXFob2NFenQtMm1EOTUxRC00enhRZTJDdGtCbDRYV0xGVFM4SUFRYXVMdGtvTUZyX2owM09mMEV1QjVWU2xPbDdRQWhrQ2p5cUYwRmtUWjUyWHh5ZnNpaTd1TmxkaG1pMElkWHhsaExSLUtEd3JvTFlpQUt3SktaekRCNkx3Zk",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkIxWWhzUjMtNlR3cF9BYzhWS1pkMmxiRHB0cWxXSUs2amluSXFob2NFenQtMm1EOTUxRC00enhRZTJDdGtCbDRYV0xGVFM4SUFRYXVMdGtvTUZyX2owM09mMEV1QjVWU2xPbDdRQWhrQ2p5cUYwRmtUWjUyWHh5ZnNpaTd1TmxkaG1pMElkWHhsaExSLUtEd3JvTFlpQUt3SktaekRCNkx3ZkhPc3JvdkNXSnFIVGlWVEZubjlxaGNiQ1ZJRWgxUnNsZU5XUmM?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 12:33:35 GMT",
-          "source": "Travel Trends Today"
-        }
-      ]
-    },
-    {
-      "id": "cfc77513080a",
-      "title": "US warns citizens to ‘reconsider travel’ to Saudi Arabia amid Houthi attacks, issues Level 3 advisory - The Times of India",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV3hka1hsSVNuTkR0Nkd5QVk5VFM1cnZDS3BpRHloQm96dWJCZ0xVbG9yTU1OZnh6Und0WXhTenowNHN4eU9uS09JWEoxNXFfakJyemR0dXNKTlFrbzFwSTRuZkk5eUVTdEVxbkExMVJTRHBBRGxTV2h5Q3lLbkN3ak5IVlZ3ekNaaEdINWg3MGhuSnFhVEkwb2E4YnlKZUdSS0VJQU1TUm81OE",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV3hka1hsSVNuTkR0Nkd5QVk5VFM1cnZDS3BpRHloQm96dWJCZ0xVbG9yTU1OZnh6Und0WXhTenowNHN4eU9uS09JWEoxNXFfakJyemR0dXNKTlFrbzFwSTRuZkk5eUVTdEVxbkExMVJTRHBBRGxTV2h5Q3lLbkN3ak5IVlZ3ekNaaEdINWg3MGhuSnFhVEkwb2E4YnlKZUdSS0VJQU1TUm81OEwycW5yaFgwUTJ1amo2VlhYS2pZaUUwaWRlT29yZWFaTkxKOFV0S01xSGVKUV9aMjlyVTBWNGQ0SzN0TzlUU0FXQVlaYjE1RER6Q3dHS3I3Zl9vZ9IBgwJBVV95cUxNV3RyVzBka1BaUW5CNlNqZnVRQjhkeFRRako1LU4ta0tBa1libU9iSmhiUHVoQ2Zxa0VFOGFHRmN5SjMyRnRNb2sxdFMxTTRoTjFhT3lhMlpqcEtnRE81WXFHYTZ5U2w5N19VczMxaHhPTV9PNHROdW9WeXN6d2s4ak81VHN1YW1lcGU0QUNxU1F0NHJMN1NaS0lkRWhndWhuQWZ0QzdVdnN5dGJ1aVVHdGkyRGxGbnI3blM2Q29nY0tYM1hCOFpkMWg5YWpsX3RycnBiMnBEWlJ4emkzb3FqYmJYMkowQmJGWVNSTW5MWU5TRmVueWlDNTVxdmlTcFA1OGRV?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 10:02:00 GMT",
-          "source": "The Times of India"
-        }
-      ]
-    },
-    {
-      "id": "025ee4681e0d",
-      "title": "300 tour operators, 700 tourism units to drive domestic travel mart - The Times of India",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUtWUHcycWlBQ0NFcXU2c2J4VlhrLXlXeVh2V2RaVVNMaG5xNFYtTm9tV2Nnc0hpRThxVHAyanB1MGVNVEJxWU9IUVNld185QVlKMEc2eFN6WHUxNHlsZUwxSnVOZnBRZ3NTXzRlQ0dRY0V5VHlJWi10MnlUM0gxWmtiVGpEaFBGWHEwMFRoNGxZX3JQSGJMTU90emdkUW1HOXBOWVBaWER3cU",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUtWUHcycWlBQ0NFcXU2c2J4VlhrLXlXeVh2V2RaVVNMaG5xNFYtTm9tV2Nnc0hpRThxVHAyanB1MGVNVEJxWU9IUVNld185QVlKMEc2eFN6WHUxNHlsZUwxSnVOZnBRZ3NTXzRlQ0dRY0V5VHlJWi10MnlUM0gxWmtiVGpEaFBGWHEwMFRoNGxZX3JQSGJMTU90emdkUW1HOXBOWVBaWER3cURxYS1LbVVONlpfMjZmMUYzMG9HMW9LcmRMRVNIdy1BczZKZEQtSy1YZjA4c9IB3AFBVV95cUxOVmpmd0dJeEQzdHpTYl9LMkgtOTIyZlNGREY0S0NCWmRlVm9RX2VHZEg4N2s4eDdMYUhtUFZnVVZxeV82blA2YnNEMTM1a09MVUdJalp0SWs0VloyMEo1LXQ1M0xOZFlUWEVROU1vYkZtc2ppY1N4ajdFdHZ2VXNTVENzOGducF9LUU5qMGtvTy02TkxKRnlLYUpaaWMtenF2aE1fWl9fV1RCVEtDOF91OWtXM3JjRE9aS3BBZTJFZE5TZ2pLZm1idEgzaEhveG5vMWc5dDYySzloNWxk?oc=5",
+      "id": "dc2b5166d56c",
+      "title": "Capricorn Horoscope Today, September 17, 2026: Delay travel plans and avoid major property decisions - The Times of India",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxORmFtdUtEZXF0T01VejRtUG9rbVlVcnFfNmpoUy1WZ3NFMWE4M2pXeVBTRUJjOW9vcDlrSms2cnh0azRxWjc2amJJT1hMZ0RvdDFCVzdjU0lNbTZ3M3NyOVh3R3E2amk1RU92dnl5ZXJPcUUwbk1DVDhqSkRjUHlBWVY3T0stMVhRZEI0bkE2RWJ4QmoxeFhCWUtKNmRqTnNNcTRpdXJwcnRUZ2",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORmFtdUtEZXF0T01VejRtUG9rbVlVcnFfNmpoUy1WZ3NFMWE4M2pXeVBTRUJjOW9vcDlrSms2cnh0azRxWjc2amJJT1hMZ0RvdDFCVzdjU0lNbTZ3M3NyOVh3R3E2amk1RU92dnl5ZXJPcUUwbk1DVDhqSkRjUHlBWVY3T0stMVhRZEI0bkE2RWJ4QmoxeFhCWUtKNmRqTnNNcTRpdXJwcnRUZ25sZEZodGs2Sm90ODZUX21pWXJnX0lzZGlqX3hBeVR6NzlJMXA4RlM0SERpSHMzYm5ibmhLaldubzJ3SWRfWnJaeHVBVUNtYTEzNEFJZ2ZIZDlPQmJaVEFWdzlsMlZVeEHSAZACQVVfeXFMUE05Q2trYWxTT3ljaWI5d3FwdVBxQTRXUTVBdDFiVEdBR09UN203aFZlTkZtcGJiOGhNLWhTbS1MSHk2Zm8zS3h3MjVPV2ZtbUFhV1YwUTFQVWItcjhVSjhlYk9wMTBvdm1DUDNpWWl3bEtBeTlwa2traTdJel83Y3ZZRUFORzhMZ3Fldk1ocWk2Qmk0Z19DbW8xSTRlRFkxQk4yeVM1WWZpRmRKSEtFVzdhVEVlRXNGZGllcG9BUUdVWm5GbHFhbUxWaGNuUWRnaUk2TUk2SzdOR2RlbzdVRlgtTjVKLXRwWHJid1A0UFpOV0FFREtsQ08xTE1nemNEaHRoVTkwUm1mdTRESk1wMTc?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,10 +382,10 @@
       "source_count": 1,
       "niche": "travel",
       "region": "IN",
-      "first_seen": "2026-09-16T21:14:33+00:00",
+      "first_seen": "2026-09-17T04:45:41+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 16 Sep 2026 17:53:00 GMT",
+          "published": "Wed, 16 Sep 2026 23:30:00 GMT",
           "source": "The Times of India"
         }
       ]
