@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "AU",
-  "generated_at": "2026-09-18T11:15:02+00:00",
+  "generated_at": "2026-09-18T16:29:00+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "446c20dc6f84",
-      "title": "‘Unfair’: Anytime Fitness in the crosshairs over hidden cost to ‘any gym’ promise - SMH.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOOC15Zjdhdk9mWGpGN2F5QVJYX0d0TW0xb1h3ZjBCbnVwaTZSRlVCWTZoV2FpR1FqeVNVOGlVblZ4cnR1WnRpN3RUdFFBMlJ3aXZqeTd1UGFqUHJ0SXQtQTgwUzBxbHBsOWFaQlJlcGlETWZuZjJpRDJ0QWhteWlGNlZ0algyQUZBUUxrS3pmLVl2OVk3Q3V2cWtDYzJqdUVpTzU0SXhRZkFlam",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOC15Zjdhdk9mWGpGN2F5QVJYX0d0TW0xb1h3ZjBCbnVwaTZSRlVCWTZoV2FpR1FqeVNVOGlVblZ4cnR1WnRpN3RUdFFBMlJ3aXZqeTd1UGFqUHJ0SXQtQTgwUzBxbHBsOWFaQlJlcGlETWZuZjJpRDJ0QWhteWlGNlZ0algyQUZBUUxrS3pmLVl2OVk3Q3V2cWtDYzJqdUVpTzU0SXhRZkFlamhOTUNuaV8tb05Udw?oc=5",
+      "id": "1a800f055036",
+      "title": "‘Tainted’: Gym buffs abandoning HYROX after poo incident - The Nightly",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYmFoNTE1YTN1VWlPQ2lXVkd3akZxUzRpc3lyZVFfYjBGOWJNNmpqSXVnaUdiZmRNUzMxZTZTREt0c3NWVkdrRWhTMG5mUjlua183ZkdvNFo5NUFzUmJWMExnczd6ZFpFdXg3aTVwazY2LUtMT0wwSENVei0ybGxiX1hNQ0w2aDl4alA3M1FrX0Z6S3BPU2ZaZUVEM0hZQkNmbXQ4SWtEUFN1cF",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYmFoNTE1YTN1VWlPQ2lXVkd3akZxUzRpc3lyZVFfYjBGOWJNNmpqSXVnaUdiZmRNUzMxZTZTREt0c3NWVkdrRWhTMG5mUjlua183ZkdvNFo5NUFzUmJWMExnczd6ZFpFdXg3aTVwazY2LUtMT0wwSENVei0ybGxiX1hNQ0w2aDl4alA3M1FrX0Z6S3BPU2ZaZUVEM0hZQkNmbXQ4SWtEUFN1cFBObER6WTJTS3BxamUwTW5GOEZvNG1FRnZYN2ZBR2FlXzVXYVptRkZJMmF1RGpaNGxaREFv?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
+      "first_seen": "2026-09-18T16:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 18 Sep 2026 14:18:28 GMT",
+          "source": "The Nightly"
+        }
+      ]
+    },
+    {
+      "id": "446c20dc6f84",
+      "title": "‘Unfair’: Anytime Fitness in the crosshairs over hidden cost to ‘any gym’ promise - SMH.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOOC15Zjdhdk9mWGpGN2F5QVJYX0d0TW0xb1h3ZjBCbnVwaTZSRlVCWTZoV2FpR1FqeVNVOGlVblZ4cnR1WnRpN3RUdFFBMlJ3aXZqeTd1UGFqUHJ0SXQtQTgwUzBxbHBsOWFaQlJlcGlETWZuZjJpRDJ0QWhteWlGNlZ0algyQUZBUUxrS3pmLVl2OVk3Q3V2cWtDYzJqdUVpTzU0SXhRZkFlam",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOC15Zjdhdk9mWGpGN2F5QVJYX0d0TW0xb1h3ZjBCbnVwaTZSRlVCWTZoV2FpR1FqeVNVOGlVblZ4cnR1WnRpN3RUdFFBMlJ3aXZqeTd1UGFqUHJ0SXQtQTgwUzBxbHBsOWFaQlJlcGlETWZuZjJpRDJ0QWhteWlGNlZ0algyQUZBUUxrS3pmLVl2OVk3Q3V2cWtDYzJqdUVpTzU0SXhRZkFlamhOTUNuaV8tb05Udw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-09-18T16:19:52+00:00",
       "raw_samples": [
         {
           "published": "Tue, 15 Sep 2026 05:58:17 GMT",
@@ -27,22 +47,42 @@
       ]
     },
     {
-      "id": "fcb6d156e7eb",
-      "title": "Tribunal finds Anytime Fitness' 'any gym' marketing misleading over membership transfers - Australasian Leisure Management Magazine",
+      "id": "f01457d52c01",
+      "title": "Tribunal finds Anytime Fitness' 'any gym' marketing misleading over membership transfers - ausleisure.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkJhT3REbDdZQTRzN1lsU2U1emdsc2ZBUFowaTNaZEttUUJ4SUF5SmlpdmJvdGQ2SnJDQ1I1VWYxQklUTmtObXV3WFIycWc5Qmo4T0d5NjdGTkNaYk1yZXpjdVlsVlVFSEpjUFpuTllfQTg4TlI5OHlSczlwMWZEM2ZUdWFfSFplU1pXcGV0a1VrZjhqaEtzdGlTY0gxWTVRT3FLeGF4ZHFIWH",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkJhT3REbDdZQTRzN1lsU2U1emdsc2ZBUFowaTNaZEttUUJ4SUF5SmlpdmJvdGQ2SnJDQ1I1VWYxQklUTmtObXV3WFIycWc5Qmo4T0d5NjdGTkNaYk1yZXpjdVlsVlVFSEpjUFpuTllfQTg4TlI5OHlSczlwMWZEM2ZUdWFfSFplU1pXcGV0a1VrZjhqaEtzdGlTY0gxWTVRT3FLeGF4ZHFIWHBpMnVvT0FxLXNJLTFkT0NfXw?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
+      "first_seen": "2026-09-18T16:19:52+00:00",
       "raw_samples": [
         {
           "published": "Fri, 18 Sep 2026 02:57:27 GMT",
-          "source": "Australasian Leisure Management Magazine"
+          "source": "ausleisure.com.au"
+        }
+      ]
+    },
+    {
+      "id": "40553cd1c42b",
+      "title": "My son’s death during a college football workout was preventable. Lessons must be learned - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmc5TnRPNHROaVVBOUx3WU1uNXotVU5NTEpXTkFuMFRqQzFjOWR5ZXVnaDZkZFRaUG15X0drUERZcmdZYVNVOVZyMHMzTXlrTXY0WVg4MkpvNTdWaUpkSk5fbFV4dlFRT3AwVzVwN2Q2Tm1Cd0Z6SW5FNjNVcVI3QXMtWWtNUnZGY0dia0tPTWIxZ2xvQjVwOU5CX053ODU4a1E?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmc5TnRPNHROaVVBOUx3WU1uNXotVU5NTEpXTkFuMFRqQzFjOWR5ZXVnaDZkZFRaUG15X0drUERZcmdZYVNVOVZyMHMzTXlrTXY0WVg4MkpvNTdWaUpkSk5fbFV4dlFRT3AwVzVwN2Q2Tm1Cd0Z6SW5FNjNVcVI3QXMtWWtNUnZGY0dia0tPTWIxZ2xvQjVwOU5CX053ODU4a1E?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-09-18T16:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 18 Sep 2026 14:10:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
@@ -51,14 +91,14 @@
       "title": "Better fitness was linked to healthier brain structure, but not better memory - News-Medical",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGZHSklGVWlqR1Q0OG5PZVM5SVpFTmJSc2ZPdnN4MVFCSjJsRlY1Ync1aThxYzFMTWgyS1VrWlJHdVRHRGhnZFJSbko5YW4weTlkWjhvZG9FTUtkcExJMFo4YV91ei1KY0RNSmt6UDZHSVpNcW5tZGRheDh3V3Mtc2UtbFN5X0N4RmZ1WWZCaTVvSTRkdk1QSVktVjZGak5RT2RQVFNsancwR0",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGZHSklGVWlqR1Q0OG5PZVM5SVpFTmJSc2ZPdnN4MVFCSjJsRlY1Ync1aThxYzFMTWgyS1VrWlJHdVRHRGhnZFJSbko5YW4weTlkWjhvZG9FTUtkcExJMFo4YV91ei1KY0RNSmt6UDZHSVpNcW5tZGRheDh3V3Mtc2UtbFN5X0N4RmZ1WWZCaTVvSTRkdk1QSVktVjZGak5RT2RQVFNsancwR0Q5TXo3Wk44ckJUbjYydV9GUFl5TFE5dw?oc=5",
-      "score": 82.8,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
+      "first_seen": "2026-09-18T16:19:52+00:00",
       "raw_samples": [
         {
           "published": "Fri, 18 Sep 2026 04:16:00 GMT",
@@ -67,38 +107,18 @@
       ]
     },
     {
-      "id": "d14110157aca",
-      "title": "From yiayia's fridge to the gym: How Greek yoghurt became the protein and weight-loss food of 2026 - neoskosmos.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYzRIbldXMGdDOHZEbFFVM3V2ckdHSkdFaUZJajBCUVE3cjZBeUwzRnRrYVY3YUVjSzNyQ2xyVzJ6c3BtREMzMEVqTkQ3bG50aUJPMXhDNmEydk83QWozN0t0c3Q3Ry1VZTUtcHlWMV9ZaFNTOHZKdTZ5WE1NZXk3N3FnWmIwajdDZkI5VHRSOVVsM3kxSXVHQktqaVFqaGhVQlRRbXZIWkdqbF",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYzRIbldXMGdDOHZEbFFVM3V2ckdHSkdFaUZJajBCUVE3cjZBeUwzRnRrYVY3YUVjSzNyQ2xyVzJ6c3BtREMzMEVqTkQ3bG50aUJPMXhDNmEydk83QWozN0t0c3Q3Ry1VZTUtcHlWMV9ZaFNTOHZKdTZ5WE1NZXk3N3FnWmIwajdDZkI5VHRSOVVsM3kxSXVHQktqaVFqaGhVQlRRbXZIWkdqbFpqR0dlWGhHVE1mVklCQVlSOEVSb18xZHNXZnlDVFh1SVVxWTdWSG8wS0xmVmRvNnpZY1p4V3lndVo?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 18 Sep 2026 06:42:45 GMT",
-          "source": "neoskosmos.com"
-        }
-      ]
-    },
-    {
       "id": "1b4ff6fd970f",
       "title": "Gym auditor questions 24/7 model as weightlifter recovers from crushing - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2QxYy1MaUlVbTZhVjR0NXNnWDdqaXViTndxTnNaNkRIdGdSWS1OM0tzY0g5WEM3UmJRSDhfMnpKQ1NwZ3FSVG9Ubm1uMWpkbmEzTTVYYnJFUDk0SzVpeTF3MUxnckdZVlZGSjNZSUJOX0VRb1JEd3NraVhjR2JaUzFENUIxdngwYkY3amJVTXpET3ZMYkJJczJPM0xJRjFUalV2T25vTUxLUH",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2QxYy1MaUlVbTZhVjR0NXNnWDdqaXViTndxTnNaNkRIdGdSWS1OM0tzY0g5WEM3UmJRSDhfMnpKQ1NwZ3FSVG9Ubm1uMWpkbmEzTTVYYnJFUDk0SzVpeTF3MUxnckdZVlZGSjNZSUJOX0VRb1JEd3NraVhjR2JaUzFENUIxdngwYkY3amJVTXpET3ZMYkJJczJPM0xJRjFUalV2T25vTUxLUHM?oc=5",
-      "score": 75.6,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
+      "first_seen": "2026-09-18T16:19:52+00:00",
       "raw_samples": [
         {
           "published": "Mon, 24 Aug 2026 07:00:00 GMT",
@@ -111,14 +131,14 @@
       "title": "Snap Fitness to continue support as club partner for the NBL27 and NBL28 seasons. - Melbourne United",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQam1JLUtlNkVjVGpYWG5iX0NlOXp1c0JqZWNESEtndFRUdGFkbl9PVV8zRU9PNmFUVDlhcEpXbDBjNWRoZ0NmN2k0NVZXbXp3dWVNLU15eWdFZFRqd09aZlZsSE1xak5yMXNST3BqS2hYSnlxZmhIZnJrVC11YXpDd0ZmcWozWm5IM0Z6WlVBSk9MWHBlYzRMV3dSbjU4aDl5LXZFc0g5OFJnSl",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQam1JLUtlNkVjVGpYWG5iX0NlOXp1c0JqZWNESEtndFRUdGFkbl9PVV8zRU9PNmFUVDlhcEpXbDBjNWRoZ0NmN2k0NVZXbXp3dWVNLU15eWdFZFRqd09aZlZsSE1xak5yMXNST3BqS2hYSnlxZmhIZnJrVC11YXpDd0ZmcWozWm5IM0Z6WlVBSk9MWHBlYzRMV3dSbjU4aDl5LXZFc0g5OFJnSlRDWE9sS2daVy1FNHR1?oc=5",
-      "score": 72.0,
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
+      "first_seen": "2026-09-18T16:19:52+00:00",
       "raw_samples": [
         {
           "published": "Tue, 15 Sep 2026 22:41:42 GMT",
@@ -131,26 +151,6 @@
       "title": "Helen Mirren shares the 12-minute military workout she's done to stay fit for 60 years - Woman & Home",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNR21GZ3lKRkI2TDVUcDhfUFhmclFqQ21wZDM4NVAyNUVObGR6VWtjbFk1ZmxpQzNxaURqSzVoSVNnUE5sc2Jpdm5QMmM2WDlHV1dUZWpJbGdMYUh2eE9LZFlQNlo3Y0F2aXlhUHYyVW4ybkdjeEV2TWU3RnRGRmY2N25RczlKNkxMWFdCSmdraTY2dTBEMF9vUGNUSmVzSWNkdEIwOFFHRHBJYj",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR21GZ3lKRkI2TDVUcDhfUFhmclFqQ21wZDM4NVAyNUVObGR6VWtjbFk1ZmxpQzNxaURqSzVoSVNnUE5sc2Jpdm5QMmM2WDlHV1dUZWpJbGdMYUh2eE9LZFlQNlo3Y0F2aXlhUHYyVW4ybkdjeEV2TWU3RnRGRmY2N25RczlKNkxMWFdCSmdraTY2dTBEMF9vUGNUSmVzSWNkdEIwOFFHRHBJYjVT?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 18 Sep 2026 11:00:00 GMT",
-          "source": "Woman & Home"
-        }
-      ]
-    },
-    {
-      "id": "0f53b5730024",
-      "title": "Fitness icon Joan MacDonald, 80, swears by this simple exercise to build a strong core – no gym required - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEl1c2FEVFo4enRteWZ0Zmpybmo4OW5QSkxtOTNWNFZUdjdaTXhQN2xNclVxLWRpU0tZRmNpOGtDNXllZ25tTU1ZTFFDUEdFZ2N6MmVpZjhodW1kQlVHQlJuWWk1aVJxS0IwS2FjanM3akoxakhuRVFnem14cGdkNmo5dm9vWUpFUEl0aHpucmRJOGNlSnlUWGV3STlzRlo0VXZ1ZnNTMA?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEl1c2FEVFo4enRteWZ0Zmpybmo4OW5QSkxtOTNWNFZUdjdaTXhQN2xNclVxLWRpU0tZRmNpOGtDNXllZ25tTU1ZTFFDUEdFZ2N6MmVpZjhodW1kQlVHQlJuWWk1aVJxS0IwS2FjanM3akoxakhuRVFnem14cGdkNmo5dm9vWUpFUEl0aHpucmRJOGNlSnlUWGV3STlzRlo0VXZ1ZnNTMA?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
+      "first_seen": "2026-09-18T16:19:52+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 18 Sep 2026 05:01:23 GMT",
-          "source": "Women's Health"
+          "published": "Fri, 18 Sep 2026 11:00:00 GMT",
+          "source": "Woman & Home"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:23+00:00",
+      "first_seen": "2026-09-18T16:22:14+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -190,10 +190,10 @@
       "is_global": true
     },
     {
-      "id": "49d6ce584a83",
-      "title": "The #1 Muscle Growth Limiter... Sucks",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/ZZEhsx2E_Mk",
+      "id": "e713d64cd736",
+      "title": "Exercise Scientist Critiques the Kardashians’ Workout Nonsense",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hype\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isra",
+      "url": "https://www.youtube.com/watch?v=Pp-PMuu4ddQ",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -201,13 +201,13 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:24+00:00",
+      "first_seen": "2026-09-18T16:22:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
           "channel_title": "Renaissance Periodization",
-          "video_id": "ZZEhsx2E_Mk",
-          "published": "2026-09-17T19:00:19+00:00"
+          "video_id": "Pp-PMuu4ddQ",
+          "published": "2026-09-18T16:00:31+00:00"
         }
       ],
       "is_global": true
@@ -224,7 +224,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
+      "first_seen": "2026-09-18T16:19:52+00:00",
       "raw_samples": [
         {
           "published": "Fri, 18 Sep 2026 07:00:00 GMT",
@@ -244,7 +244,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:22+00:00",
+      "first_seen": "2026-09-18T16:22:13+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -262,10 +262,10 @@
       "is_global": true
     },
     {
-      "id": "3d5f7d22f5ca",
-      "title": "The Real Problem With Home Workouts",
+      "id": "49d6ce584a83",
+      "title": "The #1 Muscle Growth Limiter... Sucks",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/9iKTRmLYOSQ",
+      "url": "https://www.youtube.com/shorts/ZZEhsx2E_Mk",
       "score": 59.29,
       "sources": [
         "youtube"
@@ -273,7 +273,50 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:24+00:00",
+      "first_seen": "2026-09-18T16:22:16+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "ZZEhsx2E_Mk",
+          "published": "2026-09-17T19:00:19+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "855f7fa71260",
+      "title": "JackJumpers race the clock to prove fitness - NBL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVlJmWTNfczVWbmttX055bmFJYUhUcV9WMVpuU29WYnJGaXJYLTN6RUV3N2dWYl9PaWlKWmtyT21LVmJhcEk3OTJYakhNVFc4RUVOSnhKZVl5VXpWRm9FUEgtY1piakE?oc=5\" target=\"_blank\">JackJumpers race the clock to prove fitness</a>&nbsp;&nbsp;<font col",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVlJmWTNfczVWbmttX055bmFJYUhUcV9WMVpuU29WYnJGaXJYLTN6RUV3N2dWYl9PaWlKWmtyT21LVmJhcEk3OTJYakhNVFc4RUVOSnhKZVl5VXpWRm9FUEgtY1piakE?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-09-18T16:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 11:08:06 GMT",
+          "source": "NBL"
+        }
+      ]
+    },
+    {
+      "id": "3d5f7d22f5ca",
+      "title": "The Real Problem With Home Workouts",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/9iKTRmLYOSQ",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-18T16:22:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -285,38 +328,18 @@
       "is_global": true
     },
     {
-      "id": "77fbbf8b2d38",
-      "title": "How Pierce Brosnan, 73, Stays Fit Without The Gym – His 5 Go-To Workouts - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGxIX3NHSjR6SHhYM1E2TnppNDlPME1YamFnUEpRZUpYaE5ZREhRWFZ1cGY0bGc1T2JIX183bkdmYnZ0cmcxVE1NelNSWExLNDAyUFJ4RzJGd081QUdHb2Z5M202VWh3WmM1M0VkV1RTdV9iaktzbGJvT0JmSTVXbE9mOXltZ3R5V2c?oc=5\" target=\"_blank\">How Pierce Brosnan, ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGxIX3NHSjR6SHhYM1E2TnppNDlPME1YamFnUEpRZUpYaE5ZREhRWFZ1cGY0bGc1T2JIX183bkdmYnZ0cmcxVE1NelNSWExLNDAyUFJ4RzJGd081QUdHb2Z5M202VWh3WmM1M0VkV1RTdV9iaktzbGJvT0JmSTVXbE9mOXltZ3R5V2c?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 18 Sep 2026 05:08:37 GMT",
-          "source": "Men's Health"
-        }
-      ]
-    },
-    {
       "id": "988904806a00",
       "title": "Mike O’Hearn Was 275lbs in 9th Grade",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/54FX84dbKvw",
-      "score": 56.98,
+      "score": 54.669999999999995,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:24+00:00",
+      "first_seen": "2026-09-18T16:22:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -328,18 +351,38 @@
       "is_global": true
     },
     {
+      "id": "77fbbf8b2d38",
+      "title": "How Pierce Brosnan, 73, Stays Fit Without The Gym – His 5 Go-To Workouts - Men's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGxIX3NHSjR6SHhYM1E2TnppNDlPME1YamFnUEpRZUpYaE5ZREhRWFZ1cGY0bGc1T2JIX183bkdmYnZ0cmcxVE1NelNSWExLNDAyUFJ4RzJGd081QUdHb2Z5M202VWh3WmM1M0VkV1RTdV9iaktzbGJvT0JmSTVXbE9mOXltZ3R5V2c?oc=5\" target=\"_blank\">How Pierce Brosnan, ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGxIX3NHSjR6SHhYM1E2TnppNDlPME1YamFnUEpRZUpYaE5ZREhRWFZ1cGY0bGc1T2JIX183bkdmYnZ0cmcxVE1NelNSWExLNDAyUFJ4RzJGd081QUdHb2Z5M202VWh3WmM1M0VkV1RTdV9iaktzbGJvT0JmSTVXbE9mOXltZ3R5V2c?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-09-18T16:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 18 Sep 2026 05:08:37 GMT",
+          "source": "Men's Health"
+        }
+      ]
+    },
+    {
       "id": "6f1719eb789d",
       "title": "The Carnivore Diet Is Worse Than We Thought (ugly new data)",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
       "url": "https://www.youtube.com/watch?v=VK1DzepXmKc",
-      "score": 54.669999999999995,
+      "score": 52.35999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:24+00:00",
+      "first_seen": "2026-09-18T16:22:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -351,22 +394,22 @@
       "is_global": true
     },
     {
-      "id": "9b68e7e36c40",
-      "title": "Friends, fitness and coffee – this Women’s Triathlon Training Program is the ultimate sweet spot to get you moving - HerCanberra",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQk9QTzRmN09EbVpsY2RjVFpZY21zU09LanRQaXh6X3lqYXhlQWFEbGRLbHM3UlN5QlB5QWdUSG5IRzJOUThRZmVOTTRaSlJnNTN1LWFERTZjckEzMzByVHNkUkhLZWN1NkdadFFOM2ZOelpUZFFNbG9yblFGOUVQUDhPbXE1c0xhTGlJV0JHTDY2RUM1X2pOZmtaYw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQk9QTzRmN09EbVpsY2RjVFpZY21zU09LanRQaXh6X3lqYXhlQWFEbGRLbHM3UlN5QlB5QWdUSG5IRzJOUThRZmVOTTRaSlJnNTN1LWFERTZjckEzMzByVHNkUkhLZWN1NkdadFFOM2ZOelpUZFFNbG9yblFGOUVQUDhPbXE1c0xhTGlJV0JHTDY2RUM1X2pOZmtaYw?oc=5",
-      "score": 54.0,
+      "id": "0f53b5730024",
+      "title": "Fitness icon Joan MacDonald, 80, swears by this simple exercise to build a strong core – no gym required - Women's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEl1c2FEVFo4enRteWZ0Zmpybmo4OW5QSkxtOTNWNFZUdjdaTXhQN2xNclVxLWRpU0tZRmNpOGtDNXllZ25tTU1ZTFFDUEdFZ2N6MmVpZjhodW1kQlVHQlJuWWk1aVJxS0IwS2FjanM3akoxakhuRVFnem14cGdkNmo5dm9vWUpFUEl0aHpucmRJOGNlSnlUWGV3STlzRlo0VXZ1ZnNTMA?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEl1c2FEVFo4enRteWZ0Zmpybmo4OW5QSkxtOTNWNFZUdjdaTXhQN2xNclVxLWRpU0tZRmNpOGtDNXllZ25tTU1ZTFFDUEdFZ2N6MmVpZjhodW1kQlVHQlJuWWk1aVJxS0IwS2FjanM3akoxakhuRVFnem14cGdkNmo5dm9vWUpFUEl0aHpucmRJOGNlSnlUWGV3STlzRlo0VXZ1ZnNTMA?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
+      "first_seen": "2026-09-18T16:19:52+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 17 Sep 2026 20:16:43 GMT",
-          "source": "HerCanberra"
+          "published": "Fri, 18 Sep 2026 05:01:23 GMT",
+          "source": "Women's Health"
         }
       ]
     },
@@ -375,14 +418,14 @@
       "title": "How Much Alcohol Actually Hurts Your Gains",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/lRmhFkC-rxY",
-      "score": 52.35999999999999,
+      "score": 50.05,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:24+00:00",
+      "first_seen": "2026-09-18T16:22:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -394,38 +437,18 @@
       "is_global": true
     },
     {
-      "id": "855f7fa71260",
-      "title": "JackJumpers race the clock to prove fitness - NBL",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVlJmWTNfczVWbmttX055bmFJYUhUcV9WMVpuU29WYnJGaXJYLTN6RUV3N2dWYl9PaWlKWmtyT21LVmJhcEk3OTJYakhNVFc4RUVOSnhKZVl5VXpWRm9FUEgtY1piakE?oc=5\" target=\"_blank\">JackJumpers race the clock to prove fitness</a>&nbsp;&nbsp;<font col",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVlJmWTNfczVWbmttX055bmFJYUhUcV9WMVpuU29WYnJGaXJYLTN6RUV3N2dWYl9PaWlKWmtyT21LVmJhcEk3OTJYakhNVFc4RUVOSnhKZVl5VXpWRm9FUEgtY1piakE?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 17 Sep 2026 11:08:06 GMT",
-          "source": "NBL"
-        }
-      ]
-    },
-    {
       "id": "1346e54dfc2b",
       "title": "Dr. Mike's Protein Puff Meal",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/Mxr8EMz9YO4",
-      "score": 50.05,
+      "score": 47.74,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:24+00:00",
+      "first_seen": "2026-09-18T16:22:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -437,18 +460,38 @@
       "is_global": true
     },
     {
+      "id": "533358e49cb7",
+      "title": "Hugh Jackman’s two-move leg workout is a masterclass in keeping your lower body strong and powerful close to 60 - t3.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9PNGJkdEp0TmVFejB0OUJuUl9SbWFETnRCWXhieldiVVFJR3E5cEtLSUVNWTZVSVRwM21BaUI1b3U5TmlGUXdGeG03Tk90OGNrTFZfX2IyU1Y3R21CQnZvQjk4MmR4aE5Ici1XQjFjMmxoUW11dHltaHlOOXpLaE0?oc=5\" target=\"_blank\">Hugh Jackman’s two-move leg workout ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PNGJkdEp0TmVFejB0OUJuUl9SbWFETnRCWXhieldiVVFJR3E5cEtLSUVNWTZVSVRwM21BaUI1b3U5TmlGUXdGeG03Tk90OGNrTFZfX2IyU1Y3R21CQnZvQjk4MmR4aE5Ici1XQjFjMmxoUW11dHltaHlOOXpLaE0?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-09-18T16:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 18 Sep 2026 10:00:00 GMT",
+          "source": "t3.com"
+        }
+      ]
+    },
+    {
       "id": "b63399c0e9a9",
       "title": "Mike O’Hearn \"Doesn't Know\" What TRT Is For",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/5T5DfKC9p4I",
-      "score": 47.74,
+      "score": 45.43,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:24+00:00",
+      "first_seen": "2026-09-18T16:22:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -460,22 +503,22 @@
       "is_global": true
     },
     {
-      "id": "1a800f055036",
-      "title": "‘Tainted’: Gym buffs abandoning HYROX after poo incident - The Nightly",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYmFoNTE1YTN1VWlPQ2lXVkd3akZxUzRpc3lyZVFfYjBGOWJNNmpqSXVnaUdiZmRNUzMxZTZTREt0c3NWVkdrRWhTMG5mUjlua183ZkdvNFo5NUFzUmJWMExnczd6ZFpFdXg3aTVwazY2LUtMT0wwSENVei0ybGxiX1hNQ0w2aDl4alA3M1FrX0Z6S3BPU2ZaZUVEM0hZQkNmbXQ4SWtEUFN1cF",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYmFoNTE1YTN1VWlPQ2lXVkd3akZxUzRpc3lyZVFfYjBGOWJNNmpqSXVnaUdiZmRNUzMxZTZTREt0c3NWVkdrRWhTMG5mUjlua183ZkdvNFo5NUFzUmJWMExnczd6ZFpFdXg3aTVwazY2LUtMT0wwSENVei0ybGxiX1hNQ0w2aDl4alA3M1FrX0Z6S3BPU2ZaZUVEM0hZQkNmbXQ4SWtEUFN1cFBObER6WTJTS3BxamUwTW5GOEZvNG1FRnZYN2ZBR2FlXzVXYVptRkZJMmF1RGpaNGxaREFv?oc=5",
-      "score": 46.8,
+      "id": "1096030aa9ad",
+      "title": "Is Your Gym a Sellable Asset? - Athletech News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSUlQVzZHR0p3ekJWa1VsRXpVYVEtOG1LcUdMdWFETXkxZFhMVWJEY3RaNm9LeWI0aTFHR044TUphOGFhTVEtRDhfM0xpblNUZ3hjN2pUOWxfM2RyZFFYeG1EX3lxUQ?oc=5\" target=\"_blank\">Is Your Gym a Sellable Asset?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">At",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSUlQVzZHR0p3ekJWa1VsRXpVYVEtOG1LcUdMdWFETXkxZFhMVWJEY3RaNm9LeWI0aTFHR044TUphOGFhTVEtRDhfM0xpblNUZ3hjN2pUOWxfM2RyZFFYeG1EX3lxUQ?oc=5",
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
+      "first_seen": "2026-09-18T16:19:52+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 16 Sep 2026 11:24:19 GMT",
-          "source": "The Nightly"
+          "published": "Fri, 18 Sep 2026 12:01:57 GMT",
+          "source": "Athletech News"
         }
       ]
     },
@@ -484,49 +527,6 @@
       "title": "Dr. Mike on Being More Positive",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/lLajpUJjaCs",
-      "score": 45.43,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-09-18T11:08:24+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
-          "channel_title": "Renaissance Periodization",
-          "video_id": "lLajpUJjaCs",
-          "published": "2026-09-14T19:00:41+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "da5410046db7",
-      "title": "Joanna Wietrzyk finished the Hyrox indoor fitness race last weekend with excrement on her legs and shoes, continuing to use the mats and equipment. | via ANC 24/7 Link to the full story in the comments section. - facebook.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWhZZEVNbjNRbGt5Z0xXMG00cHFiMV9RUnFrb0l0UmlFUDdqRUNHRGswTmoweGl6Y05vWnZTSWlfX2h3RVBOUXRibFB3UkYxZnF1dHZsWFJyNG5Vb3FQaVpwOE5Sa3p2WUd2bWhOXzV6T3pmSURIOVpMTFZ4a21JeXR2RWZlU1M0aGM1VFVHWFltSDdDZHhJQ0U2azFRQml2cVU3VlJINDVfR2",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWhZZEVNbjNRbGt5Z0xXMG00cHFiMV9RUnFrb0l0UmlFUDdqRUNHRGswTmoweGl6Y05vWnZTSWlfX2h3RVBOUXRibFB3UkYxZnF1dHZsWFJyNG5Vb3FQaVpwOE5Sa3p2WUd2bWhOXzV6T3pmSURIOVpMTFZ4a21JeXR2RWZlU1M0aGM1VFVHWFltSDdDZHhJQ0U2azFRQml2cVU3VlJINDVfR2ZtSFlMZVpkX3RuTWFJWTN2bFh5dkFLbG95dGVodHYwNy11VGt2V2x0VWpJZw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-09-18T11:06:02+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 18 Sep 2026 08:00:55 GMT",
-          "source": "facebook.com"
-        }
-      ]
-    },
-    {
-      "id": "26ff3ef8fad0",
-      "title": "We Created the Official Gym Bro Strength Standard ft. Jesse James West",
-      "summary": "@JesseJamesWest  joins Dr. Mike and Jared to take the official Gym Bro Strength Standard and find out who ranks as the strongest gym bro.\n\nThe UPDATED RP HYPERTROPHY APP:https://rpstrength.com/rphypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exc",
-      "url": "https://www.youtube.com/watch?v=vInDwSr86lE",
       "score": 43.12,
       "sources": [
         "youtube"
@@ -534,13 +534,13 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-18T11:08:24+00:00",
+      "first_seen": "2026-09-18T16:22:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
           "channel_title": "Renaissance Periodization",
-          "video_id": "vInDwSr86lE",
-          "published": "2026-09-14T16:00:06+00:00"
+          "video_id": "lLajpUJjaCs",
+          "published": "2026-09-14T19:00:41+00:00"
         }
       ],
       "is_global": true
