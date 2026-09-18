@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "UK",
-  "generated_at": "2026-09-18T04:42:58+00:00",
+  "generated_at": "2026-09-18T11:15:02+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 17 Sep 2026 15:17:44 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
           "published": "Sat, 05 Sep 2026 07:00:00 GMT",
@@ -47,10 +47,10 @@
       ]
     },
     {
-      "id": "ced026592b8a",
-      "title": "Stocks Soar as Fed Uncertainty Fades: Stock Market Today - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmhpNFJfZVZDWEpwekFvQWNnUHRGU042c0s0ZVRIRVdZcV81MHpYTU01dC1EdVNtT0ZjVG9nY25Ed2tRX0YwSEVvcWNwRFJzbXJLb2RYNUF6RXBvZERZU1d3bWc1V2VYVWxWa0ozOTA3ejdpWmhvVnVZdVh2RmpubHF1bVY4Z2R4UFRDeW5YT0VqbUdveFlDUnpwSExPNnc?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmhpNFJfZVZDWEpwekFvQWNnUHRGU042c0s0ZVRIRVdZcV81MHpYTU01dC1EdVNtT0ZjVG9nY25Ed2tRX0YwSEVvcWNwRFJzbXJLb2RYNUF6RXBvZERZU1d3bWc1V2VYVWxWa0ozOTA3ejdpWmhvVnVZdVh2RmpubHF1bVY4Z2R4UFRDeW5YT0VqbUdveFlDUnpwSExPNnc?oc=5",
+      "id": "345a4e29633b",
+      "title": "Market news - investments.halifax.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOd015NG9XcU5TcWMteHVwbGlVejM0WjhZbWJMV3Q0V0VydGlLa0tQQzNiTlh1a0wxSEpLOVNwS2lTb1RwMHFNbnNEMGxOUjR1dlFxNHNULU1BbGxQODJRYWRVeG9FSmZsM3Z1NUJSbWlMRlloRXNqMlA5NW51TXFmVTlzZjRXRk5uT2xGSmZKX0lsREZ2ZVpGeVBlSQ?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd015NG9XcU5TcWMteHVwbGlVejM0WjhZbWJMV3Q0V0VydGlLa0tQQzNiTlh1a0wxSEpLOVNwS2lTb1RwMHFNbnNEMGxOUjR1dlFxNHNULU1BbGxQODJRYWRVeG9FSmZsM3Z1NUJSbWlMRlloRXNqMlA5NW51TXFmVTlzZjRXRk5uT2xGSmZKX0lsREZ2ZVpGeVBlSQ?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,27 +58,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 17 Sep 2026 20:11:35 GMT",
-          "source": "Kiplinger"
-        }
-      ]
-    },
-    {
-      "id": "345a4e29633b",
-      "title": "Market news - investments.halifax.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOd015NG9XcU5TcWMteHVwbGlVejM0WjhZbWJMV3Q0V0VydGlLa0tQQzNiTlh1a0wxSEpLOVNwS2lTb1RwMHFNbnNEMGxOUjR1dlFxNHNULU1BbGxQODJRYWRVeG9FSmZsM3Z1NUJSbWlMRlloRXNqMlA5NW51TXFmVTlzZjRXRk5uT2xGSmZKX0lsREZ2ZVpGeVBlSQ?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd015NG9XcU5TcWMteHVwbGlVejM0WjhZbWJMV3Q0V0VydGlLa0tQQzNiTlh1a0wxSEpLOVNwS2lTb1RwMHFNbnNEMGxOUjR1dlFxNHNULU1BbGxQODJRYWRVeG9FSmZsM3Z1NUJSbWlMRlloRXNqMlA5NW51TXFmVTlzZjRXRk5uT2xGSmZKX0lsREZ2ZVpGeVBlSQ?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 30 Apr 2026 07:51:03 GMT",
@@ -91,14 +71,14 @@
       "title": "Where This Schroders Fund Manager Sees Opportunities in the UK Stock Market - Morningstar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXlfemtZTE1FelZYeVBPS2JxMXNEa1NkcTZ6THc5azNVMDh2eEZRNklVUFVPOWxCTDMwMzVxek92eExnWF96MGRNVi1aYW1iNmNOREFubnJua2c1ZlJFdTcweEVERVljQ3hVSGpZQVBHZEw3RGxSLVJzTTE4djF2aEh1SFFDd2JJSXdMTnZzQ05kTUFhZlA3RUJBd3FpdUVra2g1R1hGS0xOMD",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXlfemtZTE1FelZYeVBPS2JxMXNEa1NkcTZ6THc5azNVMDh2eEZRNklVUFVPOWxCTDMwMzVxek92eExnWF96MGRNVi1aYW1iNmNOREFubnJua2c1ZlJFdTcweEVERVljQ3hVSGpZQVBHZEw3RGxSLVJzTTE4djF2aEh1SFFDd2JJSXdMTnZzQ05kTUFhZlA3RUJBd3FpdUVra2g1R1hGS0xOMDVJYXpkeHh2bw?oc=5",
-      "score": 75.6,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
           "published": "Tue, 25 Aug 2026 07:00:00 GMT",
@@ -111,14 +91,14 @@
       "title": "Best Trading Platforms For UK Investors In 2026 - Forbes",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2NONjR5N2VPSVA1V0xqVG51YWpwYnViQUIwdGx5OU5vQThoT3dONURsM05tOW5JQmt4RVcweGNISkh3SkxDR3lVNXl3VU4xYXlCMUx1bWZSRGl6TVM4UnhMLWVjLU5pM1VqSEFmekJkcDh4aEE?oc=5\" target=\"_blank\">Best Trading Platforms For UK Investors In 2026<",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2NONjR5N2VPSVA1V0xqVG51YWpwYnViQUIwdGx5OU5vQThoT3dONURsM05tOW5JQmt4RVcweGNISkh3SkxDR3lVNXl3VU4xYXlCMUx1bWZSRGl6TVM4UnhMLWVjLU5pM1VqSEFmekJkcDh4aEE?oc=5",
-      "score": 72.0,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
           "published": "Tue, 01 Sep 2026 07:00:00 GMT",
@@ -131,14 +111,14 @@
       "title": "The UK stock market isn’t ‘weak’ – it’s just built differently (and that’s good) - Yahoo Finance UK",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVmZkOGRMOVBnSThLRll3RkxMTGJ3TEpxaXVpd0RWQUtfb0UwNm1vdEdVVFVCd0oycTZyVEw5S25FYkxvZTRVRWFNZkJCeVVwWTdqYXAyY243TFFlWVhUaUtaMEJPYmdyb01WR18zM1F4WDMyTVdTbGp3?oc=5\" target=\"_blank\">The UK stock market isn’t ‘weak’ – it’s jus",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVmZkOGRMOVBnSThLRll3RkxMTGJ3TEpxaXVpd0RWQUtfb0UwNm1vdEdVVFVCd0oycTZyVEw5S25FYkxvZTRVRWFNZkJCeVVwWTdqYXAyY243TFFlWVhUaUtaMEJPYmdyb01WR18zM1F4WDMyTVdTbGp3?oc=5",
-      "score": 68.4,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
           "published": "Sat, 12 Sep 2026 12:45:00 GMT",
@@ -147,8 +127,28 @@
       ]
     },
     {
-      "id": "432d8fc045ef",
-      "title": "5 Things to Know Before the Stock Market Opens on Thursday - Investopedia",
+      "id": "52a06c59a1d8",
+      "title": "Worried About a Stock Market Bubble? Here Are 5 Ways to Stay Invested - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmV3MU5OTVdCQjR5UUhid2JSVWlYdmdJNmVUZkZ6ZUlmY3hiSV9BMjNYbkJMWjlUaTdLczZEOThIeEdBSWdqX1VPbjA3dUxHLWVxNWVYdk4weDJlVjFubGxGMkhYa0VIUmlYc29hTFZxZjYwYjVibGJ2RGRZbm9HQzVNbms2Um96M0FTREVQbUd0RWozU0R5YkpBUE4yS21XNUxoYXowYmdBUW",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmV3MU5OTVdCQjR5UUhid2JSVWlYdmdJNmVUZkZ6ZUlmY3hiSV9BMjNYbkJMWjlUaTdLczZEOThIeEdBSWdqX1VPbjA3dUxHLWVxNWVYdk4weDJlVjFubGxGMkhYa0VIUmlYc29hTFZxZjYwYjVibGJ2RGRZbm9HQzVNbms2Um96M0FTREVQbUd0RWozU0R5YkpBUE4yS21XNUxoYXowYmdBUWM?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-09-18T11:06:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "source": "Morningstar"
+        }
+      ]
+    },
+    {
+      "id": "644402744a32",
+      "title": "5 Things to Know Before the Stock Market Opens on Thursday - investopedia.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWpkQVc3dGtDR1pycnVUTkcyYkNQRXJ4Y2tNcmoyUGtGZnlRaFVuODNuWkJraVhmcUFsZzRJb3B2Zm5xX3FwV3JEWkpySjE0OE96WGdzSTZkQ1l3alhuMXRVMGVscEhxTFFJTWZoaVVpRUVwclM0a0EtZnNrdExxWk50MUR3NjN3SXdSNGs1aHlSeFBKNzBmckdQdDE3UGhVOFpnVl80TWhwTU",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWpkQVc3dGtDR1pycnVUTkcyYkNQRXJ4Y2tNcmoyUGtGZnlRaFVuODNuWkJraVhmcUFsZzRJb3B2Zm5xX3FwV3JEWkpySjE0OE96WGdzSTZkQ1l3alhuMXRVMGVscEhxTFFJTWZoaVVpRUVwclM0a0EtZnNrdExxWk50MUR3NjN3SXdSNGs1aHlSeFBKNzBmckdQdDE3UGhVOFpnVl80TWhwTU1ZNmVZY2F6STU?oc=5",
       "score": 64.8,
@@ -158,11 +158,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 17 Sep 2026 12:16:08 GMT",
-          "source": "Investopedia"
+          "source": "investopedia.com"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -190,10 +190,33 @@
       "is_global": true
     },
     {
-      "id": "52a06c59a1d8",
-      "title": "Worried About a Stock Market Bubble? Here Are 5 Ways to Stay Invested - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmV3MU5OTVdCQjR5UUhid2JSVWlYdmdJNmVUZkZ6ZUlmY3hiSV9BMjNYbkJMWjlUaTdLczZEOThIeEdBSWdqX1VPbjA3dUxHLWVxNWVYdk4weDJlVjFubGxGMkhYa0VIUmlYc29hTFZxZjYwYjVibGJ2RGRZbm9HQzVNbms2Um96M0FTREVQbUd0RWozU0R5YkpBUE4yS21XNUxoYXowYmdBUW",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmV3MU5OTVdCQjR5UUhid2JSVWlYdmdJNmVUZkZ6ZUlmY3hiSV9BMjNYbkJMWjlUaTdLczZEOThIeEdBSWdqX1VPbjA3dUxHLWVxNWVYdk4weDJlVjFubGxGMkhYa0VIUmlYc29hTFZxZjYwYjVibGJ2RGRZbm9HQzVNbms2Um96M0FTREVQbUd0RWozU0R5YkpBUE4yS21XNUxoYXowYmdBUWM?oc=5",
+      "id": "27ee761bc849",
+      "title": "AI's Hidden Debt Problem Explained",
+      "summary": "Disclosure: Richard has ETF exposure to all the companies mentioned in the video, and directly owns shares of Alphabet, Meta and Microsoft.\n\nLink to spreadsheet: https://docs.google.com/spreadsheets/d/1MLIF4L3p8AzvIbITtO4acHlJzCvB-gNGPH7lALTFmK0/edit?usp=sharing\n\n00:00 - Introduc",
+      "url": "https://www.youtube.com/watch?v=v824SHV6COE",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-18T11:08:26+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+          "channel_title": "The Plain Bagel",
+          "video_id": "v824SHV6COE",
+          "published": "2026-09-11T17:23:15+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "861d13f52c4d",
+      "title": "As September starts, should I fear a stock market crash? - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTg3dHdvSGRrVXlkcXVNa0hFRm92VGc0dm5LUEcxU0lCaVg5S0hMaDVnMVdCNXVXNWUweERFU0pnZ082WmZkbXZYRUl6M29ENUJZUTFDTVBybjVRRVVUdERIZkNob1MxaHVJZDJTaUtBT0k2S3pNTzJ5cVdrZkNDTU9JenlreG1HXzlV?oc=5\" target=\"_blank\">As September starts",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTg3dHdvSGRrVXlkcXVNa0hFRm92VGc0dm5LUEcxU0lCaVg5S0hMaDVnMVdCNXVXNWUweERFU0pnZ082WmZkbXZYRUl6M29ENUJZUTFDTVBybjVRRVVUdERIZkNob1MxaHVJZDJTaUtBT0k2S3pNTzJ5cVdrZkNDTU9JenlreG1HXzlV?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -201,11 +224,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "source": "Morningstar"
+          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+          "source": "Yahoo Finance UK"
         }
       ]
     },
@@ -221,7 +244,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -233,10 +256,10 @@
       "is_global": true
     },
     {
-      "id": "861d13f52c4d",
-      "title": "As September starts, should I fear a stock market crash? - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTg3dHdvSGRrVXlkcXVNa0hFRm92VGc0dm5LUEcxU0lCaVg5S0hMaDVnMVdCNXVXNWUweERFU0pnZ082WmZkbXZYRUl6M29ENUJZUTFDTVBybjVRRVVUdERIZkNob1MxaHVJZDJTaUtBT0k2S3pNTzJ5cVdrZkNDTU9JenlreG1HXzlV?oc=5\" target=\"_blank\">As September starts",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTg3dHdvSGRrVXlkcXVNa0hFRm92VGc0dm5LUEcxU0lCaVg5S0hMaDVnMVdCNXVXNWUweERFU0pnZ082WmZkbXZYRUl6M29ENUJZUTFDTVBybjVRRVVUdERIZkNob1MxaHVJZDJTaUtBT0k2S3pNTzJ5cVdrZkNDTU9JenlreG1HXzlV?oc=5",
+      "id": "b476d4eea8b9",
+      "title": "Why do women beat men at investing in the stock market? - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTFFib2hqTjFDTDg4OEs4bGtUY1lvMVVQeHRSU1VOcVcxbG1lTlZoUnAzb2o1cjVvMEItRHV3clRCeVJ2MXNVTWViZW1JM2pHR2xuM1E3dXlPRHJUdTQ3aG1IdnRlWE12ZlYwY1RDRjkxbTM3aFV2UHk3VTJuaXNTU0VpRQ?oc=5\" target=\"_blank\">Why do women beat men at inve",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTFFib2hqTjFDTDg4OEs4bGtUY1lvMVVQeHRSU1VOcVcxbG1lTlZoUnAzb2o1cjVvMEItRHV3clRCeVJ2MXNVTWViZW1JM2pHR2xuM1E3dXlPRHJUdTQ3aG1IdnRlWE12ZlYwY1RDRjkxbTM3aFV2UHk3VTJuaXNTU0VpRQ?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -244,10 +267,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
           "source": "Yahoo Finance UK"
         }
       ]
@@ -264,7 +287,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -287,7 +310,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -299,10 +322,10 @@
       "is_global": true
     },
     {
-      "id": "b476d4eea8b9",
-      "title": "Why do women beat men at investing in the stock market? - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTFFib2hqTjFDTDg4OEs4bGtUY1lvMVVQeHRSU1VOcVcxbG1lTlZoUnAzb2o1cjVvMEItRHV3clRCeVJ2MXNVTWViZW1JM2pHR2xuM1E3dXlPRHJUdTQ3aG1IdnRlWE12ZlYwY1RDRjkxbTM3aFV2UHk3VTJuaXNTU0VpRQ?oc=5\" target=\"_blank\">Why do women beat men at inve",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTFFib2hqTjFDTDg4OEs4bGtUY1lvMVVQeHRSU1VOcVcxbG1lTlZoUnAzb2o1cjVvMEItRHV3clRCeVJ2MXNVTWViZW1JM2pHR2xuM1E3dXlPRHJUdTQ3aG1IdnRlWE12ZlYwY1RDRjkxbTM3aFV2UHk3VTJuaXNTU0VpRQ?oc=5",
+      "id": "07c6351c4368",
+      "title": "Fashion firm Shein readies for long-awaited stock market float - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1JTTXFMQkVmZklUaHN0UVBFUVdLQ1Y1ekFDNjI2V0cyaEVDR1dGU0UzY0dMSjNlQnpaQ3luQ0FEWHBaNkgxZUFnWEVKOTRuTFh1cS1nR01WN00xcDNaQjhBTDdKOThIazd0bS1WZFphTzRKTlJFeUlnaV9zamJsOE83TEN0T2s?oc=5\" target=\"_blank\">Fashion firm Shein readi",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1JTTXFMQkVmZklUaHN0UVBFUVdLQ1Y1ekFDNjI2V0cyaEVDR1dGU0UzY0dMSjNlQnpaQ3luQ0FEWHBaNkgxZUFnWEVKOTRuTFh1cS1nR01WN00xcDNaQjhBTDdKOThIazd0bS1WZFphTzRKTlJFeUlnaV9zamJsOE83TEN0T2s?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -310,10 +333,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
           "source": "Yahoo Finance UK"
         }
       ]
@@ -330,7 +353,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -342,10 +365,10 @@
       "is_global": true
     },
     {
-      "id": "07c6351c4368",
-      "title": "Fashion firm Shein readies for long-awaited stock market float - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1JTTXFMQkVmZklUaHN0UVBFUVdLQ1Y1ekFDNjI2V0cyaEVDR1dGU0UzY0dMSjNlQnpaQ3luQ0FEWHBaNkgxZUFnWEVKOTRuTFh1cS1nR01WN00xcDNaQjhBTDdKOThIazd0bS1WZFphTzRKTlJFeUlnaV9zamJsOE83TEN0T2s?oc=5\" target=\"_blank\">Fashion firm Shein readi",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1JTTXFMQkVmZklUaHN0UVBFUVdLQ1Y1ekFDNjI2V0cyaEVDR1dGU0UzY0dMSjNlQnpaQ3luQ0FEWHBaNkgxZUFnWEVKOTRuTFh1cS1nR01WN00xcDNaQjhBTDdKOThIazd0bS1WZFphTzRKTlJFeUlnaV9zamJsOE83TEN0T2s?oc=5",
+      "id": "bb74872cc731",
+      "title": "5 things not to do in a stock market crash - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUUw3cU5UNW1aSDlhelJoZ1UyNHo1TnRwa2p1Z1FUU3g0d19ZSmFQdGtDMUFiek50WEJWTWJPem9QRGVoejlpbUtGMlFyU2xyazFRQlJhMVhvNVlDX1BNLVA5QkRQMnQ1VUtydmRENWN1UU56bE1KWXI4akp3QW8?oc=5\" target=\"_blank\">5 things not to do in a stock market",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUUw3cU5UNW1aSDlhelJoZ1UyNHo1TnRwa2p1Z1FUU3g0d19ZSmFQdGtDMUFiek50WEJWTWJPem9QRGVoejlpbUtGMlFyU2xyazFRQlJhMVhvNVlDX1BNLVA5QkRQMnQ1VUtydmRENWN1UU56bE1KWXI4akp3QW8?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -353,10 +376,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+          "published": "Sun, 02 Aug 2026 07:00:00 GMT",
           "source": "Yahoo Finance UK"
         }
       ]
@@ -373,7 +396,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -396,7 +419,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -408,10 +431,10 @@
       "is_global": true
     },
     {
-      "id": "bb74872cc731",
-      "title": "5 things not to do in a stock market crash - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUUw3cU5UNW1aSDlhelJoZ1UyNHo1TnRwa2p1Z1FUU3g0d19ZSmFQdGtDMUFiek50WEJWTWJPem9QRGVoejlpbUtGMlFyU2xyazFRQlJhMVhvNVlDX1BNLVA5QkRQMnQ1VUtydmRENWN1UU56bE1KWXI4akp3QW8?oc=5\" target=\"_blank\">5 things not to do in a stock market",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUUw3cU5UNW1aSDlhelJoZ1UyNHo1TnRwa2p1Z1FUU3g0d19ZSmFQdGtDMUFiek50WEJWTWJPem9QRGVoejlpbUtGMlFyU2xyazFRQlJhMVhvNVlDX1BNLVA5QkRQMnQ1VUtydmRENWN1UU56bE1KWXI4akp3QW8?oc=5",
+      "id": "7e7afb3a8253",
+      "title": "Shein shares fall after stock market debut in Hong Kong - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ25xeXlXZ3k0d2p6TnkxMWRBc0FaTjhWcnJ3dEU5eU5ZcUpNbXM0WTJpUl80eG1mWDRKek5VSk1QRVhiaFV3b2VUc3JQYUNXaThZN3lNb2NOWUx2Y3hZMXFkdU11VTM3cjJ1S3FJX1dZQjRHeXcwdm5mTE5PZHBWZXBoVklaQQ?oc=5\" target=\"_blank\">Shein shares fall after s",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ25xeXlXZ3k0d2p6TnkxMWRBc0FaTjhWcnJ3dEU5eU5ZcUpNbXM0WTJpUl80eG1mWDRKek5VSk1QRVhiaFV3b2VUc3JQYUNXaThZN3lNb2NOWUx2Y3hZMXFkdU11VTM3cjJ1S3FJX1dZQjRHeXcwdm5mTE5PZHBWZXBoVklaQQ?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -419,10 +442,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 02 Aug 2026 07:00:00 GMT",
+          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
           "source": "Yahoo Finance UK"
         }
       ]
@@ -439,7 +462,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -451,10 +474,10 @@
       "is_global": true
     },
     {
-      "id": "7e7afb3a8253",
-      "title": "Shein shares fall after stock market debut in Hong Kong - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ25xeXlXZ3k0d2p6TnkxMWRBc0FaTjhWcnJ3dEU5eU5ZcUpNbXM0WTJpUl80eG1mWDRKek5VSk1QRVhiaFV3b2VUc3JQYUNXaThZN3lNb2NOWUx2Y3hZMXFkdU11VTM3cjJ1S3FJX1dZQjRHeXcwdm5mTE5PZHBWZXBoVklaQQ?oc=5\" target=\"_blank\">Shein shares fall after s",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ25xeXlXZ3k0d2p6TnkxMWRBc0FaTjhWcnJ3dEU5eU5ZcUpNbXM0WTJpUl80eG1mWDRKek5VSk1QRVhiaFV3b2VUc3JQYUNXaThZN3lNb2NOWUx2Y3hZMXFkdU11VTM3cjJ1S3FJX1dZQjRHeXcwdm5mTE5PZHBWZXBoVklaQQ?oc=5",
+      "id": "efb334c49352",
+      "title": "Always be ready for a violent stock market crash - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPQk4tMHl6My1XelppWjJ0eDM3VjhfSUwyaFRNdTM2SE9JMmVHM1VjTDVoNWNQZzF1YVd3ekJibmk1TzVGT051Tk56a2g0bHNhNm1sODFWV0lIQVVCZ1hTX0J2TW1yRTVLbTFiT0Q3OTlUelUtdUNLaGFTWm9hUkNncUNLeWpnMDFkQXc?oc=5\" target=\"_blank\">Always be ready for ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQk4tMHl6My1XelppWjJ0eDM3VjhfSUwyaFRNdTM2SE9JMmVHM1VjTDVoNWNQZzF1YVd3ekJibmk1TzVGT051Tk56a2g0bHNhNm1sODFWV0lIQVVCZ1hTX0J2TW1yRTVLbTFiT0Q3OTlUelUtdUNLaGFTWm9hUkNncUNLeWpnMDFkQXc?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -462,10 +485,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
+      "first_seen": "2026-09-18T11:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+          "published": "Sat, 01 Aug 2026 07:00:00 GMT",
           "source": "Yahoo Finance UK"
         }
       ]
@@ -482,7 +505,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -505,7 +528,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-09-18T04:36:14+00:00",
+      "first_seen": "2026-09-18T11:08:25+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -515,26 +538,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "d717655eec6d",
-      "title": "A £5,000 stock market investment in Europe’s most valuable company 1 year ago would now be worth… - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2IzZ1U5OTRNanlXU0N2aEtReUhkRUFtUXRDY0h5NDdaUFVBa21jMEg2aXlpVGVuZmxsLVRtRmR4c2kxQ1Utb3djaG1lcnYtRTdtLTM2a2x2TjlUakNScENob0p1VW1uUVFlMnd5enlveFNLMktUYVNSbzBWekFqcmViRVc?oc=5\" target=\"_blank\">A £5,000 stock market invest",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2IzZ1U5OTRNanlXU0N2aEtReUhkRUFtUXRDY0h5NDdaUFVBa21jMEg2aXlpVGVuZmxsLVRtRmR4c2kxQ1Utb3djaG1lcnYtRTdtLTM2a2x2TjlUakNScENob0p1VW1uUVFlMnd5enlveFNLMktUYVNSbzBWekFqcmViRVc?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-18T04:33:54+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 18 Jul 2026 07:00:00 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
     }
   ]
 }
