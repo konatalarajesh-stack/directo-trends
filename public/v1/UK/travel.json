@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-09-17T21:27:16+00:00",
+  "generated_at": "2026-09-18T04:42:58+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "9323f0117241",
-      "title": "Is England right to introduce a tourism tax? - The Conversation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWRraUkzYjhSbHR2V21VMDJhYWlnT1Jhc09LV3BYejZKTnhTZG9QbVlkUWo4dmhSZWJVXzJvQ1pOWVVWUFBjVENEUFVxV1ZkLTg2VUVtTDFWcWRPeEo5STFMcEtILTRfSjdXTllJRWpQdkc4aG1NQWg0a25UenItZkVRb0I?oc=5\" target=\"_blank\">Is England right to introduc",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWRraUkzYjhSbHR2V21VMDJhYWlnT1Jhc09LV3BYejZKTnhTZG9QbVlkUWo4dmhSZWJVXzJvQ1pOWVVWUFBjVENEUFVxV1ZkLTg2VUVtTDFWcWRPeEo5STFMcEtILTRfSjdXTllJRWpQdkc4aG1NQWg0a25UenItZkVRb0I?oc=5",
+      "id": "a377c681dd17",
+      "title": "International tourism holds steady with 0.4% growth in first half of 2026 as Middle East conflict and rising costs weigh on momentum - UN Tourism",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTWtoRE9UWWpKa01OT3NIQW5yZ2tRd1hTMVRfZGJYRVRiSzJycW9TbXB3Qnl6SlFhWkdRQTlMcUxqa2xscUpXOW5WMDJwSGFEWktHXzhncDdLRkM1aTUxRWVWTHpJeklBYk5aYUMzM2haOVNxa1ZZTXluR25ya3o3UWlpOG14S0hNT0J6Z2JjUFNzWTVEejNIdjF5dElKTHlPTDlIVDdGV21oa0",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTWtoRE9UWWpKa01OT3NIQW5yZ2tRd1hTMVRfZGJYRVRiSzJycW9TbXB3Qnl6SlFhWkdRQTlMcUxqa2xscUpXOW5WMDJwSGFEWktHXzhncDdLRkM1aTUxRWVWTHpJeklBYk5aYUMzM2haOVNxa1ZZTXluR25ya3o3UWlpOG14S0hNT0J6Z2JjUFNzWTVEejNIdjF5dElKTHlPTDlIVDdGV21oa05tWERJZFBwOUNWMGo0VnZ2dHNLNEZYREFDVG15MDAwWWNjMDhrRDNDc3M0QUczQTNaUllDeW9GRS0ya2RJYWpaWTl2cE54dms?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 21:33:38 GMT",
+          "source": "UN Tourism"
+        }
+      ]
+    },
+    {
+      "id": "98dff4a6a88c",
+      "title": "China tightens travel restrictions for citizens - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HN2R0OGJtZHhZNXdSNnZQNGtKcGgyTGpJY1JxWEZWckNfQ0NIX1J5Y0lFNkZnV3lncXEzZFhEY1Q2aGJpMEcyVVIwdENwTWwtcl9JRTIzQ2lGek0?oc=5\" target=\"_blank\">China tightens travel restrictions for citizens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HN2R0OGJtZHhZNXdSNnZQNGtKcGgyTGpJY1JxWEZWckNfQ0NIX1J5Y0lFNkZnV3lncXEzZFhEY1Q2aGJpMEcyVVIwdENwTWwtcl9JRTIzQ2lGek0?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-18T04:34:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 15 Sep 2026 06:43:09 GMT",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "9323f0117241",
+      "title": "Is England right to introduce a tourism tax? - The Conversation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWRraUkzYjhSbHR2V21VMDJhYWlnT1Jhc09LV3BYejZKTnhTZG9QbVlkUWo4dmhSZWJVXzJvQ1pOWVVWUFBjVENEUFVxV1ZkLTg2VUVtTDFWcWRPeEo5STFMcEtILTRfSjdXTllJRWpQdkc4aG1NQWg0a25UenItZkVRb0I?oc=5\" target=\"_blank\">Is England right to introduc",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWRraUkzYjhSbHR2V21VMDJhYWlnT1Jhc09LV3BYejZKTnhTZG9QbVlkUWo4dmhSZWJVXzJvQ1pOWVVWUFBjVENEUFVxV1ZkLTg2VUVtTDFWcWRPeEo5STFMcEtILTRfSjdXTllJRWpQdkc4aG1NQWg0a25UenItZkVRb0I?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 17 Sep 2026 15:37:59 GMT",
@@ -27,22 +67,22 @@
       ]
     },
     {
-      "id": "4a9f51d44666",
-      "title": "17/09/2026 - Work to begin on phase 2 of Manchester Road Active Travel scheme - Cheshire East Council",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQWJHUTAzWFdDaGdwc0RiaFJzM2kxYkphLTd5Q3NHZEdkVHRJSUxwV0dYN2Zxd2FyNDlvZmJrU096VG5tV0hzTUpseTRsT3dhNzhvc2N1RDl6OWdCaFR5MEVDcjI3VktlUXg3RldieEhkUndnVk9jQUVxNEdxN05TN0lkalNMRFdSWElKMnJ5a1lhQlZUWnJnR05pRDBxMXk5d1RuSWtvdnRIVm",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQWJHUTAzWFdDaGdwc0RiaFJzM2kxYkphLTd5Q3NHZEdkVHRJSUxwV0dYN2Zxd2FyNDlvZmJrU096VG5tV0hzTUpseTRsT3dhNzhvc2N1RDl6OWdCaFR5MEVDcjI3VktlUXg3RldieEhkUndnVk9jQUVxNEdxN05TN0lkalNMRFdSWElKMnJ5a1lhQlZUWnJnR05pRDBxMXk5d1RuSWtvdnRIVmI0ejE3S1Nwc1JrSG5MS1FSVklsTzRmbE5Fb3YyVkprU2JpUmRWd1RkYUVVYjkxc3lRZEVYaVNOMjNiSnVDdGtrWUM2Wk8tZHpDTFh3c2llUFc?oc=5",
-      "score": 86.4,
+      "id": "069ed998653a",
+      "title": "China tightens control of overseas travel in sweeping new law - Financial Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3IwZkFWRTQ1VGlDOTNUMTZRa1hqZzV6ME1JdjFLY2pzRlBodXZ1TEE2Q2VYWnotb1Q1bWRNeEFDOVV5cDRJSk90T3VYekpmV3RVWmVFcVVidmQ5elh6Y3RoUkVJZVJLQW1wQjBQWUVBakhIdUtaZndIamtHc0hMaVl3Mzg?oc=5\" target=\"_blank\">China tightens control of ov",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3IwZkFWRTQ1VGlDOTNUMTZRa1hqZzV6ME1JdjFLY2pzRlBodXZ1TEE2Q2VYWnotb1Q1bWRNeEFDOVV5cDRJSk90T3VYekpmV3RVWmVFcVVidmQ5elh6Y3RoUkVJZVJLQW1wQjBQWUVBakhIdUtaZndIamtHc0hMaVl3Mzg?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 17 Sep 2026 15:21:51 GMT",
-          "source": "Cheshire East Council"
+          "published": "Tue, 15 Sep 2026 12:01:22 GMT",
+          "source": "Financial Times"
         }
       ]
     },
@@ -51,14 +91,14 @@
       "title": "Tourism in city tops £1bn for first time - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ndlRneFJta1I0U1E3QmU3Mm5temJpdGhjQlROVi1PNF80amV2S2ZjRzlCNWhhVWNsU0dRRl82X3dtMWw1eWpsS2RNbzFuSUpNTm9kTG1OdkkzWl94T3c?oc=5\" target=\"_blank\">Tourism in city tops £1bn for first time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BB",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ndlRneFJta1I0U1E3QmU3Mm5temJpdGhjQlROVi1PNF80amV2S2ZjRzlCNWhhVWNsU0dRRl82X3dtMWw1eWpsS2RNbzFuSUpNTm9kTG1OdkkzWl94T3c?oc=5",
-      "score": 82.8,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 17 Sep 2026 05:36:47 GMT",
@@ -71,14 +111,14 @@
       "title": "Yearncations are the travel trend set to take over this autumn: here are 8 places to be wistful - Condé Nast Traveller Middle East",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVG9vVFZWWk03UGU4empFU3Q2b082OVpmU3lGUTZ3YXhJSy14NEY3NllpZlZYNEhZYndIdjZ6X0FScE9GMHo4dVFpLXNXeUptTUpYelpjSVJCM24wam5oZldwRDc2RzR1Xy15STFTWExKYUlyYmRJMmVsZ095MHRzV2pMQ2dPd09xM1V1OTVWZG5HZFRoSlFTSGJ3SkxRTEN1QndpNmstTm8wTE",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVG9vVFZWWk03UGU4empFU3Q2b082OVpmU3lGUTZ3YXhJSy14NEY3NllpZlZYNEhZYndIdjZ6X0FScE9GMHo4dVFpLXNXeUptTUpYelpjSVJCM24wam5oZldwRDc2RzR1Xy15STFTWExKYUlyYmRJMmVsZ095MHRzV2pMQ2dPd09xM1V1OTVWZG5HZFRoSlFTSGJ3SkxRTEN1QndpNmstTm8wTEVhYnItajFVcUdwY09DQ2w1cXgzaC1oM2ZWV2NHbXRR?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 17 Sep 2026 08:00:00 GMT",
@@ -87,50 +127,10 @@
       ]
     },
     {
-      "id": "a7f101061555",
-      "title": "Travel Guide: Hartlepool United (A) - Worthing FC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9fc3ZBalhJUDV4Y0p1bDlRX0VybUNEYmY2cTFyOGMtRHB5VFNmQXcwWGpzRU5UR1llY3dFblRsSmxqNjNxR1BYbkY1UmgwYlF1c05IR3JYMlVSRHdYbHllNXM0c0JOM01mc1lFbU5KRTVTNkphRXlRcDViZw?oc=5\" target=\"_blank\">Travel Guide: Hartlepool United (A)</a>&n",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fc3ZBalhJUDV4Y0p1bDlRX0VybUNEYmY2cTFyOGMtRHB5VFNmQXcwWGpzRU5UR1llY3dFblRsSmxqNjNxR1BYbkY1UmgwYlF1c05IR3JYMlVSRHdYbHllNXM0c0JOM01mc1lFbU5KRTVTNkphRXlRcDViZw?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 17 Sep 2026 17:35:52 GMT",
-          "source": "Worthing FC"
-        }
-      ]
-    },
-    {
-      "id": "8c8231959936",
-      "title": "Tap in, tap out – Easier rail travel in and around Wrexham - news.wrexham.gov.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMXVoUlB5eDdPVVkwZS01QXV1Sk5CUkFMd0lRRGhUZWtuVzFSM0d4S2JEWHNDNDdOQTFNVk13NG0zUGVydnFHc29ZYVQtcnphZlR3Z2RhczhfbW5aNVpPTUlYQ3g5SHM2R0N3bWpBQTdhaEhLbWRSQ0sxNmt1S2c0aWFkTGxXcktXc0N4bg?oc=5\" target=\"_blank\">Tap in, tap out –",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMXVoUlB5eDdPVVkwZS01QXV1Sk5CUkFMd0lRRGhUZWtuVzFSM0d4S2JEWHNDNDdOQTFNVk13NG0zUGVydnFHc29ZYVQtcnphZlR3Z2RhczhfbW5aNVpPTUlYQ3g5SHM2R0N3bWpBQTdhaEhLbWRSQ0sxNmt1S2c0aWFkTGxXcktXc0N4bg?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 17 Sep 2026 13:29:59 GMT",
-          "source": "news.wrexham.gov.uk"
-        }
-      ]
-    },
-    {
-      "id": "b45a37ab0ae3",
-      "title": "Club Offers for Travel Enthusiasts in the UK - PR Newswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0pQTGVldUVHdlFrNk1fcEpuN3pLVmNNWTZWLTZJUGd5WnZaMzBINVdVb2tCd1BzLVJCVy1MaTJaQmpHR1VLTXhrblI5VVdNOHdqVHpXQ2tUNDVaaG5veEVwQ1VSSUJrQXNZRXg3enBvcVUwS3N5ZW52TDdxVUpKNXZRQWpwTjNvUW9PVzFJUS14dzl1aEV5aEl4U1EySWtlR3c?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0pQTGVldUVHdlFrNk1fcEpuN3pLVmNNWTZWLTZJUGd5WnZaMzBINVdVb2tCd1BzLVJCVy1MaTJaQmpHR1VLTXhrblI5VVdNOHdqVHpXQ2tUNDVaaG5veEVwQ1VSSUJrQXNZRXg3enBvcVUwS3N5ZW52TDdxVUpKNXZRQWpwTjNvUW9PVzFJUS14dzl1aEV5aEl4U1EySWtlR3c?oc=5",
+      "id": "364deb423d00",
+      "title": "Important travel information: Watford - Bristol City FC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNb012ZWV0Qjdyb0xacV9QZlFMYW1JYzc2YUtIT3dXSXp1SDNhbnZxUWEtb1JxWHNQcnQzUXhjTm1JMEZ4TDZEZk9iTlRzbGVITW9kakxBb0pfanpZai1KVjExZ3d2UjlTX1owVmdhVC1XVUw5MEl4RmNjTU5IclBNOUEtSQ?oc=5\" target=\"_blank\">Important travel information:",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb012ZWV0Qjdyb0xacV9QZlFMYW1JYzc2YUtIT3dXSXp1SDNhbnZxUWEtb1JxWHNQcnQzUXhjTm1JMEZ4TDZEZk9iTlRzbGVITW9kakxBb0pfanpZai1KVjExZ3d2UjlTX1owVmdhVC1XVUw5MEl4RmNjTU5IclBNOUEtSQ?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 17 Sep 2026 17:13:00 GMT",
-          "source": "PR Newswire"
+          "published": "Wed, 16 Sep 2026 10:33:15 GMT",
+          "source": "Bristol City FC"
         }
       ]
     },
     {
-      "id": "98dff4a6a88c",
-      "title": "China tightens travel restrictions for citizens - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HN2R0OGJtZHhZNXdSNnZQNGtKcGgyTGpJY1JxWEZWckNfQ0NIX1J5Y0lFNkZnV3lncXEzZFhEY1Q2aGJpMEcyVVIwdENwTWwtcl9JRTIzQ2lGek0?oc=5\" target=\"_blank\">China tightens travel restrictions for citizens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HN2R0OGJtZHhZNXdSNnZQNGtKcGgyTGpJY1JxWEZWckNfQ0NIX1J5Y0lFNkZnV3lncXEzZFhEY1Q2aGJpMEcyVVIwdENwTWwtcl9JRTIzQ2lGek0?oc=5",
+      "id": "63ed4f8631c6",
+      "title": "We quit our jobs to travel the world. Now my wife and I run her family's farm in South Korea. - Business Insider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzdoZHF1UTM0X2djaElieGd6Rm5Ycjdsa3JwTXFRVmlMM1M4aHA2Vmt1VU1qaHhOaS1CWDlvbDNrWVdBelUxcEJ3WWZzc1BqWVlmdWhWR0dsX29kcThTTF94MmJBUnZKRmdtNERyQW5CNExmZ25HWVdSNldrNm1KSm0tWlpzS0kzTjVLVkt2dnJPWHNwN1Jab0RTdXk?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzdoZHF1UTM0X2djaElieGd6Rm5Ycjdsa3JwTXFRVmlMM1M4aHA2Vmt1VU1qaHhOaS1CWDlvbDNrWVdBelUxcEJ3WWZzc1BqWVlmdWhWR0dsX29kcThTTF94MmJBUnZKRmdtNERyQW5CNExmZ25HWVdSNldrNm1KSm0tWlpzS0kzTjVLVkt2dnJPWHNwN1Jab0RTdXk?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 15 Sep 2026 06:43:09 GMT",
-          "source": "BBC"
+          "published": "Fri, 18 Sep 2026 04:08:45 GMT",
+          "source": "Business Insider"
         }
       ]
     },
     {
-      "id": "a377c681dd17",
-      "title": "International tourism holds steady with 0.4% growth in first half of 2026 as Middle East conflict and rising costs weigh on momentum - UN Tourism",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTWtoRE9UWWpKa01OT3NIQW5yZ2tRd1hTMVRfZGJYRVRiSzJycW9TbXB3Qnl6SlFhWkdRQTlMcUxqa2xscUpXOW5WMDJwSGFEWktHXzhncDdLRkM1aTUxRWVWTHpJeklBYk5aYUMzM2haOVNxa1ZZTXluR25ya3o3UWlpOG14S0hNT0J6Z2JjUFNzWTVEejNIdjF5dElKTHlPTDlIVDdGV21oa0",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTWtoRE9UWWpKa01OT3NIQW5yZ2tRd1hTMVRfZGJYRVRiSzJycW9TbXB3Qnl6SlFhWkdRQTlMcUxqa2xscUpXOW5WMDJwSGFEWktHXzhncDdLRkM1aTUxRWVWTHpJeklBYk5aYUMzM2haOVNxa1ZZTXluR25ya3o3UWlpOG14S0hNT0J6Z2JjUFNzWTVEejNIdjF5dElKTHlPTDlIVDdGV21oa05tWERJZFBwOUNWMGo0VnZ2dHNLNEZYREFDVG15MDAwWWNjMDhrRDNDc3M0QUczQTNaUllDeW9GRS0ya2RJYWpaWTl2cE54dms?oc=5",
+      "id": "905094642f63",
+      "title": "New Swiss partnership aims to boost year-round tourism in North Wales - North Wales Pioneer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORnZRSnp1VzRMekVLeWtycy0yS0FuNGkzWGoxZkl0X1VCMHZxcWgzZmVNUnlJd0ctbUNZRVpzb0ZmN0ZscXZsQnRhdmhJYU1KdjYyemZ0ek1YdDNWYl9mQ0pPLWJ3ekprWjZFUnZBVzlzOEpCczRzbndlcE5UbDJ1bEoydjlqUFBYNTV6T1dDcFdZMThFQ3N5UnFEZnFVTEZD?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORnZRSnp1VzRMekVLeWtycy0yS0FuNGkzWGoxZkl0X1VCMHZxcWgzZmVNUnlJd0ctbUNZRVpzb0ZmN0ZscXZsQnRhdmhJYU1KdjYyemZ0ek1YdDNWYl9mQ0pPLWJ3ekprWjZFUnZBVzlzOEpCczRzbndlcE5UbDJ1bEoydjlqUFBYNTV6T1dDcFdZMThFQ3N5UnFEZnFVTEZD?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,19 +178,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 17 Sep 2026 10:21:10 GMT",
-          "source": "UN Tourism"
+          "published": "Fri, 18 Sep 2026 04:00:00 GMT",
+          "source": "North Wales Pioneer"
         }
       ]
     },
     {
-      "id": "069ed998653a",
-      "title": "China tightens control of overseas travel in sweeping new law - Financial Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3IwZkFWRTQ1VGlDOTNUMTZRa1hqZzV6ME1JdjFLY2pzRlBodXZ1TEE2Q2VYWnotb1Q1bWRNeEFDOVV5cDRJSk90T3VYekpmV3RVWmVFcVVidmQ5elh6Y3RoUkVJZVJLQW1wQjBQWUVBakhIdUtaZndIamtHc0hMaVl3Mzg?oc=5\" target=\"_blank\">China tightens control of ov",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3IwZkFWRTQ1VGlDOTNUMTZRa1hqZzV6ME1JdjFLY2pzRlBodXZ1TEE2Q2VYWnotb1Q1bWRNeEFDOVV5cDRJSk90T3VYekpmV3RVWmVFcVVidmQ5elh6Y3RoUkVJZVJLQW1wQjBQWUVBakhIdUtaZndIamtHc0hMaVl3Mzg?oc=5",
+      "id": "5ac6e0793c47",
+      "title": "Thousands of Barclays staff revolt over return-to-office mandate - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONmJDSENIcHE0Rk90SUZUTXRrcF9wamwwbEdoemhKZEpCN2puM0tMZDNHRHhJTWU4R3VhUVowWkhwVmg0Z3M5a0JBV0VSZkcxQ01GOUp5QzVMLUxlXy13V052RXhNY25WLUVQYzBSZEFrZFZUb2RhWk1fbUJPLTFHYVJRZ1hQak9TQVhrUHNLNUM2ckVyVjltQVZmZ19xcHIzOUxQMUZ6YXM?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONmJDSENIcHE0Rk90SUZUTXRrcF9wamwwbEdoemhKZEpCN2puM0tMZDNHRHhJTWU4R3VhUVowWkhwVmg0Z3M5a0JBV0VSZkcxQ01GOUp5QzVMLUxlXy13V052RXhNY25WLUVQYzBSZEFrZFZUb2RhWk1fbUJPLTFHYVJRZ1hQak9TQVhrUHNLNUM2ckVyVjltQVZmZ19xcHIzOUxQMUZ6YXM?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +198,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 15 Sep 2026 12:01:22 GMT",
-          "source": "Financial Times"
+          "published": "Fri, 18 Sep 2026 01:31:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
     {
-      "id": "f41684d9853e",
-      "title": "Why we're obsessing over the Balkans right now: 5 destinations to visit before the crowds arrive - CN Traveller",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWZyaDhwTlRoYW9WZ1pmN0hKcnFtNDU0T0k0bDNubXNDTFBMQVZPbXUyRXZzMEdfdDhRQ051S2FCa0g0U3ktQi1XUXhDaHNlYjdlS1lnWFpOZ3pESFJNSU83YktBc1Q5R0tuVTlQM18wNXRtY2twaWtCZ2pKM09vT0h1d0VpRXV1?oc=5\" target=\"_blank\">Why we're obsessing ove",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWZyaDhwTlRoYW9WZ1pmN0hKcnFtNDU0T0k0bDNubXNDTFBMQVZPbXUyRXZzMEdfdDhRQ051S2FCa0g0U3ktQi1XUXhDaHNlYjdlS1lnWFpOZ3pESFJNSU83YktBc1Q5R0tuVTlQM18wNXRtY2twaWtCZ2pKM09vT0h1d0VpRXV1?oc=5",
+      "id": "03ae284fb05b",
+      "title": "Cumbria tourism chief backs call for hospitality VAT cut - News & Star",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkxya0pNdXE0aDBNVzU1Vm9fZHY3cTRBS2drdGpST0JlaU5zQVBLRkMwU0NNUnpoUHFCTVYxRG5oM1R5ZlFrSm5aVlF1NjhNVGQxZ0JpRGVXYVh3Z01QamowSEd1a216R0pTSFFrUXh6U084NnNEcE11bXE5YWprOXZtZVZDS2tuLWhHaTlWX2hQc0JLNEE3bw?oc=5\" target=\"_blank\">C",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkxya0pNdXE0aDBNVzU1Vm9fZHY3cTRBS2drdGpST0JlaU5zQVBLRkMwU0NNUnpoUHFCTVYxRG5oM1R5ZlFrSm5aVlF1NjhNVGQxZ0JpRGVXYVh3Z01QamowSEd1a216R0pTSFFrUXh6U084NnNEcE11bXE5YWprOXZtZVZDS2tuLWhHaTlWX2hQc0JLNEE3bw?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,11 +218,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 17 Sep 2026 15:08:51 GMT",
-          "source": "CN Traveller"
+          "published": "Fri, 18 Sep 2026 04:00:00 GMT",
+          "source": "News & Star"
+        }
+      ]
+    },
+    {
+      "id": "06d4d10641a8",
+      "title": "US travel bans for South African officials alleged to be behind anti-white discrimination - Sky News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0RsbDVRWDJKZ1EydmV3VFMyZWNRQTh6T0xaczZaVlJGVW5STThjQ0pvdzU0dl9RN3ZLQkJfMHA0Rk00OWhPUzZXQVhoLWY4REIzYVM4SUtWbFE4Z2xpQlllMGZSSUU5OTc3Y0RXQ0FMR1NDTW90U2tnWnFRLW1HX2FjQ3dvZ1ByQ3hXTTAtNkdxZGs3TnNoS2hlM09IS0k3QXZYVWZmOHJmVE",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0RsbDVRWDJKZ1EydmV3VFMyZWNRQTh6T0xaczZaVlJGVW5STThjQ0pvdzU0dl9RN3ZLQkJfMHA0Rk00OWhPUzZXQVhoLWY4REIzYVM4SUtWbFE4Z2xpQlllMGZSSUU5OTc3Y0RXQ0FMR1NDTW90U2tnWnFRLW1HX2FjQ3dvZ1ByQ3hXTTAtNkdxZGs3TnNoS2hlM09IS0k3QXZYVWZmOHJmVEMxeXYxRVBVREt4eHExSldCWE5XTmxIcm8?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-18T04:34:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 16 Sep 2026 15:51:32 GMT",
+          "source": "Sky News"
         }
       ]
     },
@@ -231,14 +251,14 @@
       "title": "Barclays staff demand travel costs to cover work commute - The Telegraph",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkItMEs0ZVN4WlZrXzNUSU1kOWc2bWxiUnBfZkt0MGJjd1lTUnUwa1QxZGk4MHZLdS03WHUzUjBJUVpnSFU1T2I0cU1mVTZNY0IybmlKMG94UHNBSkRLbU5mMllETHRwa1hOWlh4ZDZtblMzSGtXTG9JbVBxZ0x1OGVvY1EteUZ5YkJHMWxUU3JQVlJqeFRPN2NZZ0F4RUVFU1F3RnIzamE?oc",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkItMEs0ZVN4WlZrXzNUSU1kOWc2bWxiUnBfZkt0MGJjd1lTUnUwa1QxZGk4MHZLdS03WHUzUjBJUVpnSFU1T2I0cU1mVTZNY0IybmlKMG94UHNBSkRLbU5mMllETHRwa1hOWlh4ZDZtblMzSGtXTG9JbVBxZ0x1OGVvY1EteUZ5YkJHMWxUU3JQVlJqeFRPN2NZZ0F4RUVFU1F3RnIzamE?oc=5",
-      "score": 50.4,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 17 Sep 2026 13:03:00 GMT",
@@ -247,18 +267,38 @@
       ]
     },
     {
-      "id": "2c42493c6735",
-      "title": "Where quiet tourism is replacing bucket-list travel - qz.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cHJQZkFIazhBNF93STVFSHowbFZBWjFROWNoUmNGaDRGWXFyMllLeFVibWl0RlFjeEdzcGRTeWgzS1U5UnRSeENjaWN6Z3B6ZUNPSFBEeFNvS3VRcTdmNGQ2dDk0T0hf?oc=5\" target=\"_blank\">Where quiet tourism is replacing bucket-list travel</a>&nbsp;&nbsp;",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cHJQZkFIazhBNF93STVFSHowbFZBWjFROWNoUmNGaDRGWXFyMllLeFVibWl0RlFjeEdzcGRTeWgzS1U5UnRSeENjaWN6Z3B6ZUNPSFBEeFNvS3VRcTdmNGQ2dDk0T0hf?oc=5",
-      "score": 46.8,
+      "id": "92388e7052f9",
+      "title": "Tourism sector faces rising costs as UK clears way for regional visitor levies - Travel Daily Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFg3ZEx3eEJuMkEwMXJlMFA2Rl83VUFOSFczSDNPZU9yU21OSGl2WmwtUTdWaWNsempFOGFLUXZZQjZqQ3ZMRF9ZdHdtMEEtbXJVVEZ6djYtaUMtUTBkSVFzX01hM05MMi1rcVJRdFhrME9QV0l2SDhBUm5XamtydXNmbEQ4aHNfajhqeU5tMzBNTUlqSjdEb09LU1FjWHZlOHg1b09wMUFrNm",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFg3ZEx3eEJuMkEwMXJlMFA2Rl83VUFOSFczSDNPZU9yU21OSGl2WmwtUTdWaWNsempFOGFLUXZZQjZqQ3ZMRF9ZdHdtMEEtbXJVVEZ6djYtaUMtUTBkSVFzX01hM05MMi1rcVJRdFhrME9QV0l2SDhBUm5XamtydXNmbEQ4aHNfajhqeU5tMzBNTUlqSjdEb09LU1FjWHZlOHg1b09wMUFrNmp5NVVYTnlB?oc=5",
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 23:15:14 GMT",
+          "source": "Travel Daily Media"
+        }
+      ]
+    },
+    {
+      "id": "2c42493c6735",
+      "title": "Where quiet tourism is replacing bucket-list travel - qz.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cHJQZkFIazhBNF93STVFSHowbFZBWjFROWNoUmNGaDRGWXFyMllLeFVibWl0RlFjeEdzcGRTeWgzS1U5UnRSeENjaWN6Z3B6ZUNPSFBEeFNvS3VRcTdmNGQ2dDk0T0hf?oc=5\" target=\"_blank\">Where quiet tourism is replacing bucket-list travel</a>&nbsp;&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cHJQZkFIazhBNF93STVFSHowbFZBWjFROWNoUmNGaDRGWXFyMllLeFVibWl0RlFjeEdzcGRTeWgzS1U5UnRSeENjaWN6Z3B6ZUNPSFBEeFNvS3VRcTdmNGQ2dDk0T0hf?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 17 Sep 2026 20:08:45 GMT",
@@ -271,14 +311,14 @@
       "title": "From Heartburn to Hangovers, Here Are the Travel First-Aid Kit Essentials You Shouldn't Leave Home Without - VICE",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uUTJpVmlsY1k2b29sRUtVaFlMZThhdmFrblRVMUp1VklPQklBMlBhblA2R0tVLWRtcHkzcmlzQjJsUzkwdFozZlFEUUZzVjF5bTRsQjdRYm5rZjRMd1E?oc=5\" target=\"_blank\">From Heartburn to Hangovers, Here Are the Travel First-Aid Kit Essentials You Sh",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uUTJpVmlsY1k2b29sRUtVaFlMZThhdmFrblRVMUp1VklPQklBMlBhblA2R0tVLWRtcHkzcmlzQjJsUzkwdFozZlFEUUZzVjF5bTRsQjdRYm5rZjRMd1E?oc=5",
-      "score": 43.2,
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 17 Sep 2026 15:39:33 GMT",
@@ -287,50 +327,10 @@
       ]
     },
     {
-      "id": "9473f68ea4b4",
-      "title": "Causeway Coast promoted at top travel trade show in Paris - Derry Now",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObE1JVFBZT2dzU1E4dV9FaUhfTXBnQWVGeS1DR0JzSEg0VjZWWE5iejNfRTAyR2VHNkctd0pvLVU1TlZ4M2JCdTZxa0pkQ2I4OFRsZE4xeVhJbldzbTcwa3NEWHpmX1ZXejNTVjgxVHlxZkJZeVNjUkExMHVQdG1DUWV6Ukx3V0UyWVNhSTNUQ2JzSVJyQ2lQU3NpWkMyTHJD?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObE1JVFBZT2dzU1E4dV9FaUhfTXBnQWVGeS1DR0JzSEg0VjZWWE5iejNfRTAyR2VHNkctd0pvLVU1TlZ4M2JCdTZxa0pkQ2I4OFRsZE4xeVhJbldzbTcwa3NEWHpmX1ZXejNTVjgxVHlxZkJZeVNjUkExMHVQdG1DUWV6Ukx3V0UyWVNhSTNUQ2JzSVJyQ2lQU3NpWkMyTHJD?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 17 Sep 2026 17:00:00 GMT",
-          "source": "Derry Now"
-        }
-      ]
-    },
-    {
-      "id": "364deb423d00",
-      "title": "Important travel information: Watford - Bristol City FC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNb012ZWV0Qjdyb0xacV9QZlFMYW1JYzc2YUtIT3dXSXp1SDNhbnZxUWEtb1JxWHNQcnQzUXhjTm1JMEZ4TDZEZk9iTlRzbGVITW9kakxBb0pfanpZai1KVjExZ3d2UjlTX1owVmdhVC1XVUw5MEl4RmNjTU5IclBNOUEtSQ?oc=5\" target=\"_blank\">Important travel information:",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb012ZWV0Qjdyb0xacV9QZlFMYW1JYzc2YUtIT3dXSXp1SDNhbnZxUWEtb1JxWHNQcnQzUXhjTm1JMEZ4TDZEZk9iTlRzbGVITW9kakxBb0pfanpZai1KVjExZ3d2UjlTX1owVmdhVC1XVUw5MEl4RmNjTU5IclBNOUEtSQ?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 16 Sep 2026 10:33:15 GMT",
-          "source": "Bristol City FC"
-        }
-      ]
-    },
-    {
-      "id": "a78192f6c836",
-      "title": "New JFK–Nice Flight Signals French Riviera Travel Shift - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajFlWFl2SEx0RG9DMjQwNGg5dFZlSHk3b3VjbkJrWUlKU29pSmc1Mmd6eXFVNklmdy1mcVlNQ2ZHZ3pqWUJqVy1jREx4NkFmeEluVWpDUlkxZVFGeU82Mlo4Um82RVIzR0oyN0F5eEJhQVZEalgtMENvR3hBTEN3azIzWXBOZWpSOFR5eDJtNVBKU0dqYk12ZXFaVWlGaVVKN2pzeXJXSjFBdw",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajFlWFl2SEx0RG9DMjQwNGg5dFZlSHk3b3VjbkJrWUlKU29pSmc1Mmd6eXFVNklmdy1mcVlNQ2ZHZ3pqWUJqVy1jREx4NkFmeEluVWpDUlkxZVFGeU82Mlo4Um82RVIzR0oyN0F5eEJhQVZEalgtMENvR3hBTEN3azIzWXBOZWpSOFR5eDJtNVBKU0dqYk12ZXFaVWlGaVVKN2pzeXJXSjFBdw?oc=5",
+      "id": "e41a51ae2f78",
+      "title": "Tell Us What Questions You Have About Winter Getaways and Holiday Travel - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzZTNTU2Q0NjcnB6VHNLODFQcEVGTWJkRDNjMWtMOUtUdWVsMUhZbVBrRjNIMk5rd3dTRjFXLTg0bnNCYjA0NnRTYXRCZWZjOFBHNlBVZHB3Mk1YNi13ZFh4aDdrRnhhZHBDRjJZNmNvdWdBeWdsNmhqTjFPckdiNg?oc=5\" target=\"_blank\">Tell Us What Questions You Have A",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzZTNTU2Q0NjcnB6VHNLODFQcEVGTWJkRDNjMWtMOUtUdWVsMUhZbVBrRjNIMk5rd3dTRjFXLTg0bnNCYjA0NnRTYXRCZWZjOFBHNlBVZHB3Mk1YNi13ZFh4aDdrRnhhZHBDRjJZNmNvdWdBeWdsNmhqTjFPckdiNg?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 17 Sep 2026 17:13:36 GMT",
-          "source": "Forbes"
+          "published": "Fri, 18 Sep 2026 01:34:05 GMT",
+          "source": "The New York Times"
         }
       ]
     },
     {
-      "id": "06d4d10641a8",
-      "title": "US travel bans for South African officials alleged to be behind anti-white discrimination - Sky News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0RsbDVRWDJKZ1EydmV3VFMyZWNRQTh6T0xaczZaVlJGVW5STThjQ0pvdzU0dl9RN3ZLQkJfMHA0Rk00OWhPUzZXQVhoLWY4REIzYVM4SUtWbFE4Z2xpQlllMGZSSUU5OTc3Y0RXQ0FMR1NDTW90U2tnWnFRLW1HX2FjQ3dvZ1ByQ3hXTTAtNkdxZGs3TnNoS2hlM09IS0k3QXZYVWZmOHJmVE",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0RsbDVRWDJKZ1EydmV3VFMyZWNRQTh6T0xaczZaVlJGVW5STThjQ0pvdzU0dl9RN3ZLQkJfMHA0Rk00OWhPUzZXQVhoLWY4REIzYVM4SUtWbFE4Z2xpQlllMGZSSUU5OTc3Y0RXQ0FMR1NDTW90U2tnWnFRLW1HX2FjQ3dvZ1ByQ3hXTTAtNkdxZGs3TnNoS2hlM09IS0k3QXZYVWZmOHJmVEMxeXYxRVBVREt4eHExSldCWE5XTmxIcm8?oc=5",
+      "id": "acef36b5071e",
+      "title": "UN to allow Palestinian President Abbas speech after US travel ban - Al Jazeera",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmZiWlhDU21qM21qMVhzdVJreWNGR0RJQ1pyX3B0WWNuMFhYUzVRX2QzWHNPU3ZTaFZ5UEg4MHNwZV9PaUFQdExMbThyeU1EcXpnTWM1OGxuQzNTZUZMRXRpOENHc1RzeldRdktzYkVUYklqT0lFTWFyeWFERFQtVXo4N01ocVNYSEZmNDd2OFZwdjdpYXpCRUNmQ2ZidFBoS3gxV2VkLXZHeF",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmZiWlhDU21qM21qMVhzdVJreWNGR0RJQ1pyX3B0WWNuMFhYUzVRX2QzWHNPU3ZTaFZ5UEg4MHNwZV9PaUFQdExMbThyeU1EcXpnTWM1OGxuQzNTZUZMRXRpOENHc1RzeldRdktzYkVUYklqT0lFTWFyeWFERFQtVXo4N01ocVNYSEZmNDd2OFZwdjdpYXpCRUNmQ2ZidFBoS3gxV2VkLXZHeFJ3dkVhNy130gG3AUFVX3lxTE1JV0pjUkY0S19hNWlLenRHX0ktei13V2hRLThQb0tLTy1MSC1Ha0l3a0pnQWFseGYtelBGUHY3RzdXeWFVLUE1cTYxRWZSWlNXSjQ5eFdfc29idGFrbmg1WDR1RzJsQUZ6c09yYWxwQmdQUkItcWEtTHQxQkZ0M3VIbmgyMGFsMElEUXlhNWpTcEQ3Q2pZM0ZqRmNTQmFBdW55UjRoS1lCSGZBV3Y1ZW5oaUczQVVEQQ?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 16 Sep 2026 15:51:32 GMT",
-          "source": "Sky News"
+          "published": "Fri, 18 Sep 2026 00:18:46 GMT",
+          "source": "Al Jazeera"
         }
       ]
     },
     {
-      "id": "0e62b0567211",
-      "title": "The charming Turkish town that has managed to escape mass tourism - thetimes.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVl6dlNieURiSzNTNTRkblVHblhUQ0stRVEzakV5X3k1WTg1akxPNVNaTEJGaDNwY0ZoazlJMzN0aktLSVctR0ZRREVGZk9WOUcwc001Yi1FSXBfRTViMDhMeWZlNFNybmF1eWc3dUh1RVMwTDFCUFRCUHBsZWFiemI0WXFXYzdSSEpwdXBaU1NvTVBrYjZpTVVlb3htTC1HbjJZQTlIMHhJOH",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVl6dlNieURiSzNTNTRkblVHblhUQ0stRVEzakV5X3k1WTg1akxPNVNaTEJGaDNwY0ZoazlJMzN0aktLSVctR0ZRREVGZk9WOUcwc001Yi1FSXBfRTViMDhMeWZlNFNybmF1eWc3dUh1RVMwTDFCUFRCUHBsZWFiemI0WXFXYzdSSEpwdXBaU1NvTVBrYjZpTVVlb3htTC1HbjJZQTlIMHhJOHV0TWNQcTQyS0tWUGNGX1NYSkR4ckt1VVpjVnBkYTQxNWRIOHBGc0RGRi1IWU4?oc=5",
+      "id": "1e22159c0783",
+      "title": "Swindon considers cancelling free school travel for SEND teenagers - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBSVpvZ2g0S3ZIODNnNlFnazRSRHFBNFR2Q2tTb1NNdEtZdVA5WmxDSUVIcUdfaTN1QndfNTdjR1NLU2cxTUxMalNEM2JOOV9mM3JjR2FJbzVsTWs?oc=5\" target=\"_blank\">Swindon considers cancelling free school travel for SEND teenagers</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBSVpvZ2g0S3ZIODNnNlFnazRSRHFBNFR2Q2tTb1NNdEtZdVA5WmxDSUVIcUdfaTN1QndfNTdjR1NLU2cxTUxMalNEM2JOOV9mM3JjR2FJbzVsTWs?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,11 +378,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 17 Sep 2026 04:00:00 GMT",
-          "source": "thetimes.com"
+          "published": "Thu, 17 Sep 2026 16:58:19 GMT",
+          "source": "BBC"
         }
       ]
     },
@@ -398,7 +398,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-09-17T21:17:57+00:00",
+      "first_seen": "2026-09-18T04:34:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 17 Sep 2026 10:00:00 GMT",
