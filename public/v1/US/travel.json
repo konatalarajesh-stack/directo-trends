@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-09-20T11:23:13+00:00",
+  "generated_at": "2026-09-20T16:08:23+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "e51ea4042370",
-      "title": "I Never Liked Traveling to Mexico—but a Visit to This Historic City Made Me Fall in Love With It - Travel + Leisure",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXJ6a1lTMXdhckxQZWlDektyUU9rdlZNMTZEOWJMWHhZVjlxN2JqTzVRNEpsLVdPdDE0T0VmM3Btdm45QzFWQVNydVFlSGl0dGpFeV92dDV3UVFwTFYtVjZRNnUyOGdtcE1PejVwWkZsLVJXWjJQWUlOdUdtSXRMVmpuRGZ4bDFpWFBFNjZzSUliYUwtenZtOUQ0WkcyaHFXaTczbQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXJ6a1lTMXdhckxQZWlDektyUU9rdlZNMTZEOWJMWHhZVjlxN2JqTzVRNEpsLVdPdDE0T0VmM3Btdm45QzFWQVNydVFlSGl0dGpFeV92dDV3UVFwTFYtVjZRNnUyOGdtcE1PejVwWkZsLVJXWjJQWUlOdUdtSXRMVmpuRGZ4bDFpWFBFNjZzSUliYUwtenZtOUQ0WkcyaHFXaTczbQ?oc=5",
+      "id": "47cfb987bc97",
+      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise - cnbc.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3RVdGQ4NzgwcVNmRDRib0F5dm5EUGp3MDRPcjdEcDdtaFdQbW9rWGpkTWVuZkF2Y3dtUERrRUFGRFFBeDBEV0o3VDZFUHdONGVEUkNycXdaYVJQNFBuc3hESHMtMXozY2NlX3lqSHNvRkJ3VlBUZDRNS0dueG96UU41cFFzb1VxeEHSAY8BQVVfeXFMTnhaMTBoNEtJRDBLbC0xM2REUXY4Qm",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3RVdGQ4NzgwcVNmRDRib0F5dm5EUGp3MDRPcjdEcDdtaFdQbW9rWGpkTWVuZkF2Y3dtUERrRUFGRFFBeDBEV0o3VDZFUHdONGVEUkNycXdaYVJQNFBuc3hESHMtMXozY2NlX3lqSHNvRkJ3VlBUZDRNS0dueG96UU41cFFzb1VxeEHSAY8BQVVfeXFMTnhaMTBoNEtJRDBLbC0xM2REUXY4QmZMMDlkZy1XbzlDckJOSEp6ZDJzSjhjaWhNNFZlQzVCbkRveXc3LThMcm1jVmtEYVZlbzJpMjY3RldndjNjNG1LMWtLVTdLci1aTTNFdkhnN29qbGpaWVVxbk45MF82bG5EbzlGTmFFWXRPblNERFF1S0E?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 20 Sep 2026 13:14:21 GMT",
+          "source": "cnbc.com"
+        }
+      ]
+    },
+    {
+      "id": "e51ea4042370",
+      "title": "I Never Liked Traveling to Mexico—but a Visit to This Historic City Made Me Fall in Love With It - Travel + Leisure",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXJ6a1lTMXdhckxQZWlDektyUU9rdlZNMTZEOWJMWHhZVjlxN2JqTzVRNEpsLVdPdDE0T0VmM3Btdm45QzFWQVNydVFlSGl0dGpFeV92dDV3UVFwTFYtVjZRNnUyOGdtcE1PejVwWkZsLVJXWjJQWUlOdUdtSXRMVmpuRGZ4bDFpWFBFNjZzSUliYUwtenZtOUQ0WkcyaHFXaTczbQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXJ6a1lTMXdhckxQZWlDektyUU9rdlZNMTZEOWJMWHhZVjlxN2JqTzVRNEpsLVdPdDE0T0VmM3Btdm45QzFWQVNydVFlSGl0dGpFeV92dDV3UVFwTFYtVjZRNnUyOGdtcE1PejVwWkZsLVJXWjJQWUlOdUdtSXRMVmpuRGZ4bDFpWFBFNjZzSUliYUwtenZtOUQ0WkcyaHFXaTczbQ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
           "published": "Sun, 20 Sep 2026 10:04:25 GMT",
@@ -31,14 +51,14 @@
       "title": "Louisiana readers share thoughts on the joys of travel journals - The Advocate",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRnRSV3gxU3VPZTlyNWlDaUpmOC1LOTVLRUVta3c4ZUJXbFp2V2cwMFRtV0liZ1pneWdxYTFTYUlLc3QyY3NWZTV2ellJOW1IV004TmxHR05LOHJMMmhxNVBEa0ptV3BCVnp1OW5FLWNZSC02YmoxTkRUemJnM3A0QU1LOWNScXItcHJ4MG55UWRWSTNtLV9ZWldPUGNQY0dCWlI0bHhsaFZsR0",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRnRSV3gxU3VPZTlyNWlDaUpmOC1LOTVLRUVta3c4ZUJXbFp2V2cwMFRtV0liZ1pneWdxYTFTYUlLc3QyY3NWZTV2ellJOW1IV004TmxHR05LOHJMMmhxNVBEa0ptV3BCVnp1OW5FLWNZSC02YmoxTkRUemJnM3A0QU1LOWNScXItcHJ4MG55UWRWSTNtLV9ZWldPUGNQY0dCWlI0bHhsaFZsR09EZnVkQTVQeDhpdVRKSjNhZWNPb0tKS3pJM2xzRTNQb1JUaFZ3VlYtWmpsaTJnTE5RNmNOVjF0YndlU3AzVnRqaVhzcE0?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
           "published": "Sun, 20 Sep 2026 11:00:00 GMT",
@@ -47,18 +67,38 @@
       ]
     },
     {
-      "id": "3bd3bff26653",
-      "title": "Despite sky-high prices, Las Vegas tourism is finally showing signs of a rebound - Fox News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNLU00dldsYVdjVVFoNkZSY1hyTVhXZ2xmY0dpS3J2LXJwYmxGY1Y4ZDVhZC1fa0phQ3cxcnFHU1hJYzYyOERYOE1iWHRZTW5hSjF2NndXUVNFLUpvdEpkT3NfZS16Zkh4US1fZS1YeEk4cU80XzUxSDhqNmUzTzFQWEVtZGpNQjNvb3NLNDlJMFVKTHhianY1ejhDRnl6Q3g3d0dJT9IBqgFBVV",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLU00dldsYVdjVVFoNkZSY1hyTVhXZ2xmY0dpS3J2LXJwYmxGY1Y4ZDVhZC1fa0phQ3cxcnFHU1hJYzYyOERYOE1iWHRZTW5hSjF2NndXUVNFLUpvdEpkT3NfZS16Zkh4US1fZS1YeEk4cU80XzUxSDhqNmUzTzFQWEVtZGpNQjNvb3NLNDlJMFVKTHhianY1ejhDRnl6Q3g3d0dJT9IBqgFBVV95cUxQS3N2WUVERUU3d0hOQWZHTlFPanJxVkRCVzFDQS1JODNNaG5fMFpYWmdvZ2FiODF0TDhNQ0dyS21TalVYblBNX2hJRXRzNEJlZlBfMVcwbmo1dFJ5RGVoeGM4N3FUSVNGaVBkSEpMQ0tmMktJSWRjaENGSGNxSWFpVGdZMTV2Y1JhMG1Yc0FqdGJDTy16SFM2Y3J0blF4Q1RnY3dEd0UwWjJWQQ?oc=5",
-      "score": 82.8,
+      "id": "c09734b9aa77",
+      "title": "Hospitality Leader Frances Kiradjian Spearheads Women In Travel Conference - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHItcC1SWmtKZVhzRjctejM0akhfeVhkQUpXQ2taWF82OWpXREg5OEl1ODVYdUlsdFQycU9pU2U5T0l4Z0FDQ2lmY1NVaDZNSjVJSk9VU0pSTXBmeGJwcHhNZlNtSzNlNy1Zc0NCMGticGhtLXNZNFZ6SXFyNUp6bDJCX01HTnJzUTJneUpwOTBtYTN2R3dqeXZrd3V3ektkNDd4U0xOYWxfVU",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHItcC1SWmtKZVhzRjctejM0akhfeVhkQUpXQ2taWF82OWpXREg5OEl1ODVYdUlsdFQycU9pU2U5T0l4Z0FDQ2lmY1NVaDZNSjVJSk9VU0pSTXBmeGJwcHhNZlNtSzNlNy1Zc0NCMGticGhtLXNZNFZ6SXFyNUp6bDJCX01HTnJzUTJneUpwOTBtYTN2R3dqeXZrd3V3ektkNDd4U0xOYWxfVUJoWnFvcElTWTNKanRmMGwzQkpVRXRldXZB?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 20 Sep 2026 10:56:40 GMT",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "id": "291776a2e78c",
+      "title": "Las Vegas tourism finally showing signs of rebound despite sky-high prices - Fox News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNLU00dldsYVdjVVFoNkZSY1hyTVhXZ2xmY0dpS3J2LXJwYmxGY1Y4ZDVhZC1fa0phQ3cxcnFHU1hJYzYyOERYOE1iWHRZTW5hSjF2NndXUVNFLUpvdEpkT3NfZS16Zkh4US1fZS1YeEk4cU80XzUxSDhqNmUzTzFQWEVtZGpNQjNvb3NLNDlJMFVKTHhianY1ejhDRnl6Q3g3d0dJT9IBqgFBVV",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLU00dldsYVdjVVFoNkZSY1hyTVhXZ2xmY0dpS3J2LXJwYmxGY1Y4ZDVhZC1fa0phQ3cxcnFHU1hJYzYyOERYOE1iWHRZTW5hSjF2NndXUVNFLUpvdEpkT3NfZS16Zkh4US1fZS1YeEk4cU80XzUxSDhqNmUzTzFQWEVtZGpNQjNvb3NLNDlJMFVKTHhianY1ejhDRnl6Q3g3d0dJT9IBqgFBVV95cUxQS3N2WUVERUU3d0hOQWZHTlFPanJxVkRCVzFDQS1JODNNaG5fMFpYWmdvZ2FiODF0TDhNQ0dyS21TalVYblBNX2hJRXRzNEJlZlBfMVcwbmo1dFJ5RGVoeGM4N3FUSVNGaVBkSEpMQ0tmMktJSWRjaENGSGNxSWFpVGdZMTV2Y1JhMG1Yc0FqdGJDTy16SFM2Y3J0blF4Q1RnY3dEd0UwWjJWQQ?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
           "published": "Sat, 19 Sep 2026 18:58:51 GMT",
@@ -67,50 +107,10 @@
       ]
     },
     {
-      "id": "779d046b5c2d",
-      "title": "Browns Travel to Tampa Bay for Week 2 2026 - Cleveland Browns",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVhMcmkzTzBFSkEydk1aRnJNNGttUC1RTUJhdGE5Z1o2SWtub2xDTlRhWVh6VmgzWU9xV19TMW5pLUxZR0FxYS1yVFpxcFhCVzRpY3FOSGh5d1diVDhNQVR0QkxKSDZGTC1IVzNBLXlvSU1CeUQtQ19XOWNoNXhMWEhMWlVqY0JV?oc=5\" target=\"_blank\">Browns Travel to Tampa ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVhMcmkzTzBFSkEydk1aRnJNNGttUC1RTUJhdGE5Z1o2SWtub2xDTlRhWVh6VmgzWU9xV19TMW5pLUxZR0FxYS1yVFpxcFhCVzRpY3FOSGh5d1diVDhNQVR0QkxKSDZGTC1IVzNBLXlvSU1CeUQtQ19XOWNoNXhMWEhMWlVqY0JV?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 19 Sep 2026 21:37:26 GMT",
-          "source": "Cleveland Browns"
-        }
-      ]
-    },
-    {
-      "id": "06b19bcee334",
-      "title": "Labor Day traffic and travel: Busiest times to drive and fly - ABC7 Chicago",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihApBVV95cUxPVDRXN0piWERzTFNzS0UxN0t5Vy12bFVIZFlxZW41VVRERWx3bWxjVTF4VjNnTEh0S3gzd1F4RmFrZmVTVkVpWTVVR1RxY094anJ1SDdILU8ySVM5UzlOY2VfMXJzRVJ2TTdYUnBvelBNVmdtTGdqajRQWHJ0QjdCN1o1bE4yNGJxRjZWTk1uMERPa2hHRHR4STNzQXlxQ2swelc0bWtfLVB4UU",
-      "url": "https://news.google.com/rss/articles/CBMihApBVV95cUxPVDRXN0piWERzTFNzS0UxN0t5Vy12bFVIZFlxZW41VVRERWx3bWxjVTF4VjNnTEh0S3gzd1F4RmFrZmVTVkVpWTVVR1RxY094anJ1SDdILU8ySVM5UzlOY2VfMXJzRVJ2TTdYUnBvelBNVmdtTGdqajRQWHJ0QjdCN1o1bE4yNGJxRjZWTk1uMERPa2hHRHR4STNzQXlxQ2swelc0bWtfLVB4UU1fM253NnZybmVGcjljZTk4NWZBWFlTQmk1OUk5eDItazg3R18yNHp3Z1UtZjlzYUhRZlBQdWYyQk8yS040NU51OWRod1kwM1cycFYzNU95OXF6ZHpKU3F1YV83ejZQLUNldzd6Z01VamVicXNtUlZpZjBsQk50dkJQcEQ1aDNrRl9aQnZiQlJHeV9Sb1FoOFpBai1EV0RrdFNLeGlLV25FT2J6bjUwY3ZzdnBfX3VYRGhvNmI5SE9HOUtUVFliQ3V2R2hSYXFXTmZ0enctMFBaOVN1UzQ4cGdPVTkyV1lkWGF4Z3I2YjJpTWpBZ09QRVoyZ2NIWUI4aVFxQTdVTnhuZlo2ajJUSVdBVzQ2QW53M3ZXWGFfd3ZjbjRBQ2NSV09IOENwaHJyNUdPTmNwdFZUaTlaSWJaZzItWlFnWVB3ZWFOVl92UGlEalMtQzBVN0ZpV0NYNHRwRm5ONEgwS1NRb0VrbVN5OFF5M3hLX2JXN2FmODFNZlMxcDJKZnBvS0drTHVHRWJUY19kQy0xSndRM2E4WG5FMks0NzBZQWg5SmltWnBxM0hnMHQzTHl5OThhR1dXUXc0cTR5dlZXU1RXX0pGY01wZEFwdS1UOHFBOXBjUi1zQXFrMWQxenY5c1E4N3RhVEYxUDE0Ym8wZlowYzJ5TWRDSmpOOFlaLXFEVDB2X3hjN3lNVGZ3S0o3TEw1dFpSWkNPNXplZTFhSmNqUmhremRSSzJ0R0NvT2pTNkozVF9UR0Jnbm9feVhMbG1neWVqYkRXSF94bGRwM1dwaXpOT0dMMVU3SHlFOGNFLUh4N0IxRFBpaERsQmxYaloyVHRBYkN6NUFfc3hUQTZXbjU2b1JVNGVOLWZFMHV0emNyRDExZUoyeXpiR3dWMEhWd2RQaFR4bXJsV0d1Mm5VdEdVOFdjT3I2VFptdVo4YzFWenlYOFR3a21mQ0NMWFh2SnZTUWpEeHVXZjBVMXJWVk9kYTI2LTcxcGJrakhESkJYUEotMGtYdFpQcnFwTFc4YVdEV2NOdkwxQnJUcWpBVy10elFiSE55bktOdDBBX0E2ZUNfQVpQaWxfUUdJZklNcWNYTzdMN2VrNVFtT3c5d3ZRVm0zN1FpWlAwZndrUElGTlpJcDRpMDlJMmNmTHNMVF91SXVzYUswSlEtVE5vLU9SSk5QUnJXd09nWkFJdUM1V250WXVrd2I4aE5VMHF1NUY2cWpGVjhRSXJxYzhwd2JJS2pxZS16c21FYVY1MERyMk1vSGdFbF91eXhtUFR2MDFaUUQ2dTBsU3lBNVJGd0R4eF9ndXM0eHBSNFJDbTFLclBaYkpBdUlMS05lcmZXOWNvcWFwRDQ3aFVHLXlLeDVwVjNsNjJENTlHZzdCT0lxX1pJbUliRkNaTmFOVVd5ODBTWjIzbGhjZHRZS01lV3VPbG9TczNWTUw5YzdTM0J2UTVoLUcwY3BiNmtXVjlXNzc4RnZVT3Y?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 20 Sep 2026 04:08:14 GMT",
-          "source": "ABC7 Chicago"
-        }
-      ]
-    },
-    {
-      "id": "e1f3e0b6653f",
-      "title": "Is the Panasonic LUMIX L10 the Perfect Travel Companion? - Fstoppers",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlZEQTFCTTZhNkFkLVA4MlFHR0d0eEc3c2xhSFM0VUZxTmRheE0zSWpPbnhVLVJlaWUzYlJlVGhRRFNkb1lxY0x3STAxTHhoQ3pPOENYMlFuTnV5SE5qaE90Y21MdGRDU3dWdk1FMl91Z1RaeTVQaVp0S21nMVJuRWNaX0Q?oc=5\" target=\"_blank\">Is the Panasonic LUMIX L10 t",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlZEQTFCTTZhNkFkLVA4MlFHR0d0eEc3c2xhSFM0VUZxTmRheE0zSWpPbnhVLVJlaWUzYlJlVGhRRFNkb1lxY0x3STAxTHhoQ3pPOENYMlFuTnV5SE5qaE90Y21MdGRDU3dWdk1FMl91Z1RaeTVQaVp0S21nMVJuRWNaX0Q?oc=5",
+      "id": "11e3722a74a8",
+      "title": "These Travel Experts Can Curate Your Dream Trip to Indonesia - robbreport.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkc2OVV4OVVIR1kyby1BekZkTXhDWFo2LUhsX3dnRGlNaXpUWE44YlcweWkwZDB6cE5iXzBZSFBZZjZyWHpXNHJMSTF6RWRCLWR5VVRCS3JSWkF3VDRRa014OVZaNzdIRDZxZjVURTI0RGU5ZzkzUkJ1WUc0MU0wRDA2Y1dRdUIwQU82eC10bkZraDV1c0E?oc=5\" target=\"_blank\">Thes",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkc2OVV4OVVIR1kyby1BekZkTXhDWFo2LUhsX3dnRGlNaXpUWE44YlcweWkwZDB6cE5iXzBZSFBZZjZyWHpXNHJMSTF6RWRCLWR5VVRCS3JSWkF3VDRRa014OVZaNzdIRDZxZjVURTI0RGU5ZzkzUkJ1WUc0MU0wRDA2Y1dRdUIwQU82eC10bkZraDV1c0E?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,11 +118,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 19 Sep 2026 16:03:02 GMT",
-          "source": "Fstoppers"
+          "published": "Sun, 20 Sep 2026 15:00:00 GMT",
+          "source": "robbreport.com"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
           "published": "Sun, 20 Sep 2026 09:45:00 GMT",
@@ -147,10 +147,10 @@
       ]
     },
     {
-      "id": "dd374d9da312",
-      "title": "Travel insurance not useful in every crisis - Santa Fe New Mexican",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3JxOVdNcjl6bWtLV24ySEpRdkFxRC1YSVl0UzRIdllCTEFIX1QyX21YSlJQaF83T3VSRDh5S1BLSmVfWGhaRW9lU3MyS2JwUTRLdXdPcVVFb2c1WXROa21HNEMxUVpyamV3a2owU1lnRlQtdk11S3ZTZVNscTlWaXZzYU1zVFdhb2V0TVZkNnBiNUdXT3hDM3czdFh2YVpLZlFReGd4bmo2RG",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3JxOVdNcjl6bWtLV24ySEpRdkFxRC1YSVl0UzRIdllCTEFIX1QyX21YSlJQaF83T3VSRDh5S1BLSmVfWGhaRW9lU3MyS2JwUTRLdXdPcVVFb2c1WXROa21HNEMxUVpyamV3a2owU1lnRlQtdk11S3ZTZVNscTlWaXZzYU1zVFdhb2V0TVZkNnBiNUdXT3hDM3czdFh2YVpLZlFReGd4bmo2RGZZd2ZZdHA0OFowZw?oc=5",
+      "id": "779d046b5c2d",
+      "title": "Browns Travel to Tampa Bay for Week 2 2026 - Cleveland Browns",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVhMcmkzTzBFSkEydk1aRnJNNGttUC1RTUJhdGE5Z1o2SWtub2xDTlRhWVh6VmgzWU9xV19TMW5pLUxZR0FxYS1yVFpxcFhCVzRpY3FOSGh5d1diVDhNQVR0QkxKSDZGTC1IVzNBLXlvSU1CeUQtQ19XOWNoNXhMWEhMWlVqY0JV?oc=5\" target=\"_blank\">Browns Travel to Tampa ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVhMcmkzTzBFSkEydk1aRnJNNGttUC1RTUJhdGE5Z1o2SWtub2xDTlRhWVh6VmgzWU9xV19TMW5pLUxZR0FxYS1yVFpxcFhCVzRpY3FOSGh5d1diVDhNQVR0QkxKSDZGTC1IVzNBLXlvSU1CeUQtQ19XOWNoNXhMWEhMWlVqY0JV?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 20 Sep 2026 03:45:00 GMT",
-          "source": "Santa Fe New Mexican"
+          "published": "Sat, 19 Sep 2026 21:37:26 GMT",
+          "source": "Cleveland Browns"
         }
       ]
     },
     {
-      "id": "c09734b9aa77",
-      "title": "Hospitality Leader Frances Kiradjian Spearheads Women In Travel Conference - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHItcC1SWmtKZVhzRjctejM0akhfeVhkQUpXQ2taWF82OWpXREg5OEl1ODVYdUlsdFQycU9pU2U5T0l4Z0FDQ2lmY1NVaDZNSjVJSk9VU0pSTXBmeGJwcHhNZlNtSzNlNy1Zc0NCMGticGhtLXNZNFZ6SXFyNUp6bDJCX01HTnJzUTJneUpwOTBtYTN2R3dqeXZrd3V3ektkNDd4U0xOYWxfVU",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHItcC1SWmtKZVhzRjctejM0akhfeVhkQUpXQ2taWF82OWpXREg5OEl1ODVYdUlsdFQycU9pU2U5T0l4Z0FDQ2lmY1NVaDZNSjVJSk9VU0pSTXBmeGJwcHhNZlNtSzNlNy1Zc0NCMGticGhtLXNZNFZ6SXFyNUp6bDJCX01HTnJzUTJneUpwOTBtYTN2R3dqeXZrd3V3ektkNDd4U0xOYWxfVUJoWnFvcElTWTNKanRmMGwzQkpVRXRldXZB?oc=5",
+      "id": "da2d3974b934",
+      "title": "✈️ Travel Photos: Giants fly to Los Angeles - Giants.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcHkybkVYRXQ4NmtQcFg3Rkl0OEZ2NWl2eG5vd080SjE5REg3OVRkeDJPQmtGcmo0ZmVMZHJ1WDZpMUNGN0twenJuc183cmt1RU14ZU8yLTFwMXVaUDFSUFhlMnFOalJScWFacU5PWGNtMlVMcnRRb3Z0YWZFbnlnTQ?oc=5\" target=\"_blank\">✈️ Travel Photos: Giants fly to L",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcHkybkVYRXQ4NmtQcFg3Rkl0OEZ2NWl2eG5vd080SjE5REg3OVRkeDJPQmtGcmo0ZmVMZHJ1WDZpMUNGN0twenJuc183cmt1RU14ZU8yLTFwMXVaUDFSUFhlMnFOalJScWFacU5PWGNtMlVMcnRRb3Z0YWZFbnlnTQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,19 +178,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 20 Sep 2026 10:56:40 GMT",
-          "source": "Forbes"
+          "published": "Sun, 20 Sep 2026 01:24:33 GMT",
+          "source": "Giants.com"
         }
       ]
     },
     {
-      "id": "dcc8a81bf20e",
-      "title": "Anker’s Flat 6-Port Travel Charger Could Replace a Bag Full of Power Bricks - The Gadgeteer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5mbW50RWhYc3V4YUJsdWdUd2hJUzVBVjBnWE5jZWY1VlA0MUxpV05mdmVaVGl4X0pEbHpwNVBwZFNmNzU2OC1HNVlJYXU1N1VGellqb0JiNTlTTkstbE5aZ2g1VGhWXzRhN0lxbi1rX3dXdkZ1bkE?oc=5\" target=\"_blank\">Anker’s Flat 6-Port Travel Charger Could Replace",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mbW50RWhYc3V4YUJsdWdUd2hJUzVBVjBnWE5jZWY1VlA0MUxpV05mdmVaVGl4X0pEbHpwNVBwZFNmNzU2OC1HNVlJYXU1N1VGellqb0JiNTlTTkstbE5aZ2g1VGhWXzRhN0lxbi1rX3dXdkZ1bkE?oc=5",
+      "id": "06b19bcee334",
+      "title": "Labor Day traffic and travel: Busiest times to drive and fly - ABC7 Chicago",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihApBVV95cUxPVDRXN0piWERzTFNzS0UxN0t5Vy12bFVIZFlxZW41VVRERWx3bWxjVTF4VjNnTEh0S3gzd1F4RmFrZmVTVkVpWTVVR1RxY094anJ1SDdILU8ySVM5UzlOY2VfMXJzRVJ2TTdYUnBvelBNVmdtTGdqajRQWHJ0QjdCN1o1bE4yNGJxRjZWTk1uMERPa2hHRHR4STNzQXlxQ2swelc0bWtfLVB4UU",
+      "url": "https://news.google.com/rss/articles/CBMihApBVV95cUxPVDRXN0piWERzTFNzS0UxN0t5Vy12bFVIZFlxZW41VVRERWx3bWxjVTF4VjNnTEh0S3gzd1F4RmFrZmVTVkVpWTVVR1RxY094anJ1SDdILU8ySVM5UzlOY2VfMXJzRVJ2TTdYUnBvelBNVmdtTGdqajRQWHJ0QjdCN1o1bE4yNGJxRjZWTk1uMERPa2hHRHR4STNzQXlxQ2swelc0bWtfLVB4UU1fM253NnZybmVGcjljZTk4NWZBWFlTQmk1OUk5eDItazg3R18yNHp3Z1UtZjlzYUhRZlBQdWYyQk8yS040NU51OWRod1kwM1cycFYzNU95OXF6ZHpKU3F1YV83ejZQLUNldzd6Z01VamVicXNtUlZpZjBsQk50dkJQcEQ1aDNrRl9aQnZiQlJHeV9Sb1FoOFpBai1EV0RrdFNLeGlLV25FT2J6bjUwY3ZzdnBfX3VYRGhvNmI5SE9HOUtUVFliQ3V2R2hSYXFXTmZ0enctMFBaOVN1UzQ4cGdPVTkyV1lkWGF4Z3I2YjJpTWpBZ09QRVoyZ2NIWUI4aVFxQTdVTnhuZlo2ajJUSVdBVzQ2QW53M3ZXWGFfd3ZjbjRBQ2NSV09IOENwaHJyNUdPTmNwdFZUaTlaSWJaZzItWlFnWVB3ZWFOVl92UGlEalMtQzBVN0ZpV0NYNHRwRm5ONEgwS1NRb0VrbVN5OFF5M3hLX2JXN2FmODFNZlMxcDJKZnBvS0drTHVHRWJUY19kQy0xSndRM2E4WG5FMks0NzBZQWg5SmltWnBxM0hnMHQzTHl5OThhR1dXUXc0cTR5dlZXU1RXX0pGY01wZEFwdS1UOHFBOXBjUi1zQXFrMWQxenY5c1E4N3RhVEYxUDE0Ym8wZlowYzJ5TWRDSmpOOFlaLXFEVDB2X3hjN3lNVGZ3S0o3TEw1dFpSWkNPNXplZTFhSmNqUmhremRSSzJ0R0NvT2pTNkozVF9UR0Jnbm9feVhMbG1neWVqYkRXSF94bGRwM1dwaXpOT0dMMVU3SHlFOGNFLUh4N0IxRFBpaERsQmxYaloyVHRBYkN6NUFfc3hUQTZXbjU2b1JVNGVOLWZFMHV0emNyRDExZUoyeXpiR3dWMEhWd2RQaFR4bXJsV0d1Mm5VdEdVOFdjT3I2VFptdVo4YzFWenlYOFR3a21mQ0NMWFh2SnZTUWpEeHVXZjBVMXJWVk9kYTI2LTcxcGJrakhESkJYUEotMGtYdFpQcnFwTFc4YVdEV2NOdkwxQnJUcWpBVy10elFiSE55bktOdDBBX0E2ZUNfQVpQaWxfUUdJZklNcWNYTzdMN2VrNVFtT3c5d3ZRVm0zN1FpWlAwZndrUElGTlpJcDRpMDlJMmNmTHNMVF91SXVzYUswSlEtVE5vLU9SSk5QUnJXd09nWkFJdUM1V250WXVrd2I4aE5VMHF1NUY2cWpGVjhRSXJxYzhwd2JJS2pxZS16c21FYVY1MERyMk1vSGdFbF91eXhtUFR2MDFaUUQ2dTBsU3lBNVJGd0R4eF9ndXM0eHBSNFJDbTFLclBaYkpBdUlMS05lcmZXOWNvcWFwRDQ3aFVHLXlLeDVwVjNsNjJENTlHZzdCT0lxX1pJbUliRkNaTmFOVVd5ODBTWjIzbGhjZHRZS01lV3VPbG9TczNWTUw5YzdTM0J2UTVoLUcwY3BiNmtXVjlXNzc4RnZVT3Y?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,11 +198,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 20 Sep 2026 05:10:50 GMT",
-          "source": "The Gadgeteer"
+          "published": "Sun, 20 Sep 2026 04:08:14 GMT",
+          "source": "ABC7 Chicago"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
           "published": "Sun, 20 Sep 2026 02:54:00 GMT",
@@ -227,10 +227,10 @@
       ]
     },
     {
-      "id": "d71357223db8",
-      "title": "TRAVEL PHOTOS: Week 2 at Patriots - Steelers.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9JanhSdE1jZ0VlMG9qSHNiam5LdC1tUXVveVo0V3dmS19oVUtWRkgwTjNPNEtXbV91ME8wY2N4TnJPWVFCc1VlSmdhMkhxRkphYnlKUG1SZFk3QjgyNFJJaGREMVdNaGRGYVdrVGtFZzBOQQ?oc=5\" target=\"_blank\">TRAVEL PHOTOS: Week 2 at Patriots</a>&nbsp;&nbsp;<fon",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JanhSdE1jZ0VlMG9qSHNiam5LdC1tUXVveVo0V3dmS19oVUtWRkgwTjNPNEtXbV91ME8wY2N4TnJPWVFCc1VlSmdhMkhxRkphYnlKUG1SZFk3QjgyNFJJaGREMVdNaGRGYVdrVGtFZzBOQQ?oc=5",
+      "id": "6544d03ebba9",
+      "title": "Travel Photos: Jaguars vs. Broncos Week 2 - Jaguars.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10aTlIMG85ZU5jWXdXMGVwQmZZZEYwSVJLcnk4a0pNUjBmdDU5Sms3Tk9sQXZuVlNtdEluTXVhRkdpbG42bmZodGM2WS1UZFoyQm9uaU1hZUN3cDhKVkhnT2ZmYTB3OFBCWTd5VTNQcFRLYm5ydmYtMFNn?oc=5\" target=\"_blank\">Travel Photos: Jaguars vs. Broncos Week 2</",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10aTlIMG85ZU5jWXdXMGVwQmZZZEYwSVJLcnk4a0pNUjBmdDU5Sms3Tk9sQXZuVlNtdEluTXVhRkdpbG42bmZodGM2WS1UZFoyQm9uaU1hZUN3cDhKVkhnT2ZmYTB3OFBCWTd5VTNQcFRLYm5ydmYtMFNn?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 19 Sep 2026 19:44:23 GMT",
-          "source": "Steelers.com"
+          "published": "Sun, 20 Sep 2026 00:56:45 GMT",
+          "source": "Jaguars.com"
         }
       ]
     },
     {
-      "id": "5ac0dacd6a14",
-      "title": "Luxor Is at the Heart of Egypt’s Medical Tourism Push - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUd6bHdhV1BLeXhJd2xGelBMRGpDRmk0UW1uOVBpMURDSXZwMjBUdkZWbUJ0VXc4VnZQTzBqaXFGRUs3VkRWRUFXbG1lQ3o4SFlKd1FZWGVYX1NSMTI5YlRmeHVVRXpnYjMtb1RnV1Y5eTJralNNVW8wejIwclU5bVdyek1yVzRVeHZHSE55a180dzFSSU00b0xiUDY2QW9oZU10bFBMWQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUd6bHdhV1BLeXhJd2xGelBMRGpDRmk0UW1uOVBpMURDSXZwMjBUdkZWbUJ0VXc4VnZQTzBqaXFGRUs3VkRWRUFXbG1lQ3o4SFlKd1FZWGVYX1NSMTI5YlRmeHVVRXpnYjMtb1RnV1Y5eTJralNNVW8wejIwclU5bVdyek1yVzRVeHZHSE55a180dzFSSU00b0xiUDY2QW9oZU10bFBMWQ?oc=5",
+      "id": "d64d140277e0",
+      "title": "Stick-and-Tin Xplor XLT Travel Trailer Is Simple and Light, With a \"Modular\" Interior for Two People - autoevolution",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPanU4RUJLcHdFSFBzaGx6OHJrTHkyRjRZWWhJXzU0UE1GQ00ybXdQdFZEbjJyZEpWNE1ZbWRERGtvVUNxa21wOTdHNjY4bHdBSEpSMlZLLXJCUmR6SWFObGJBSmlTNThndm1YdjNFc1BZYWdoMHhBRUlMbXpPV0x5WWNRUTZ0VlhJd3JLLTJ1YlZDLS0teFNrT3d4a3F4MEE5dXU0VnFuV1FyUm",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPanU4RUJLcHdFSFBzaGx6OHJrTHkyRjRZWWhJXzU0UE1GQ00ybXdQdFZEbjJyZEpWNE1ZbWRERGtvVUNxa21wOTdHNjY4bHdBSEpSMlZLLXJCUmR6SWFObGJBSmlTNThndm1YdjNFc1BZYWdoMHhBRUlMbXpPV0x5WWNRUTZ0VlhJd3JLLTJ1YlZDLS0teFNrT3d4a3F4MEE5dXU0VnFuV1FyUm40WXhRSlR0NEZSTy1yakd3cXBOWWJFMmlpOHpNN1lGRmZ4bi1jMUhtRDZBT0tMdHRR?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +258,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 20 Sep 2026 07:00:01 GMT",
-          "source": "Bloomberg.com"
+          "published": "Sun, 20 Sep 2026 04:00:49 GMT",
+          "source": "autoevolution"
         }
       ]
     },
     {
-      "id": "4f2a1292d415",
-      "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
+      "id": "877e41e38cac",
+      "title": "Vikings Travel to Chicago for Week 2 Game vs. Bears - Minnesota Vikings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlNrMEl1ekFSQlpha01uR1lwYXNOUjNCOUczZzVKMllWaW04N2FKYmxTYkF6Z016bmJtV2hBNm1VRHBfMzRIM0tFcS1JU19zRDMyRThnMTJOdm9GZDJKRFJTN20tV0hScjctUHFKNE03ME1oVHV3QWt1RnRNRHpLSEVGTG1CaUND?oc=5\" target=\"_blank\">Vikings Travel to Chica",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlNrMEl1ekFSQlpha01uR1lwYXNOUjNCOUczZzVKMllWaW04N2FKYmxTYkF6Z016bmJtV2hBNm1VRHBfMzRIM0tFcS1JU19zRDMyRThnMTJOdm9GZDJKRFJTN20tV0hScjctUHFKNE03ME1oVHV3QWt1RnRNRHpLSEVGTG1CaUND?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 20 Sep 2026 04:06:52 GMT",
-          "source": "TravelPirates"
+          "published": "Sun, 20 Sep 2026 00:05:03 GMT",
+          "source": "Minnesota Vikings"
         }
       ]
     },
     {
-      "id": "215f3d541198",
-      "title": "Calling All Women Who Travel Solo—Add These US Destinations to Your Bucket List - cntraveler.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVmtuTkhkUWRsNlRQNEFCdExyUFktTjhWSDNYRDdOYU1ESHNxTFpiR2dFNkktY2FtdHc3ekVYSEx6cEhBNkxqcEw5TnlJdWZNeVN4NUtqWDF4SWRVT1pGLVpnVGczaG9FekZCLUJpNHZ4M2NHbVBKMk9HamlzeUd5bzBmYjFWZw?oc=5\" target=\"_blank\">Calling All Women Who Tra",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVmtuTkhkUWRsNlRQNEFCdExyUFktTjhWSDNYRDdOYU1ESHNxTFpiR2dFNkktY2FtdHc3ekVYSEx6cEhBNkxqcEw5TnlJdWZNeVN4NUtqWDF4SWRVT1pGLVpnVGczaG9FekZCLUJpNHZ4M2NHbVBKMk9HamlzeUd5bzBmYjFWZw?oc=5",
+      "id": "4cfe7aa653b4",
+      "title": "Travel insurance not useful in every crisis - santafenewmexican.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3JxOVdNcjl6bWtLV24ySEpRdkFxRC1YSVl0UzRIdllCTEFIX1QyX21YSlJQaF83T3VSRDh5S1BLSmVfWGhaRW9lU3MyS2JwUTRLdXdPcVVFb2c1WXROa21HNEMxUVpyamV3a2owU1lnRlQtdk11S3ZTZVNscTlWaXZzYU1zVFdhb2V0TVZkNnBiNUdXT3hDM3czdFh2YVpLZlFReGd4bmo2RG",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3JxOVdNcjl6bWtLV24ySEpRdkFxRC1YSVl0UzRIdllCTEFIX1QyX21YSlJQaF83T3VSRDh5S1BLSmVfWGhaRW9lU3MyS2JwUTRLdXdPcVVFb2c1WXROa21HNEMxUVpyamV3a2owU1lnRlQtdk11S3ZTZVNscTlWaXZzYU1zVFdhb2V0TVZkNnBiNUdXT3hDM3czdFh2YVpLZlFReGd4bmo2RGZZd2ZZdHA0OFowZw?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 16 Sep 2026 23:16:51 GMT",
-          "source": "cntraveler.com"
+          "published": "Sun, 20 Sep 2026 03:45:00 GMT",
+          "source": "santafenewmexican.com"
         }
       ]
     },
     {
-      "id": "ed386a206498",
-      "title": "Three cool travel trends that are having their moment - Travel Weekly",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPc0I5SjBhZ0ItdTF5ZkNvRkFJYzRsV3dFemk2eC1TYzVqQVdKTF9FTzFEY0VWU0EwM2hxWU9CYnVlQksxTEVXMXQxb183TzFZUWJfQV9rOWEydlcxMmVaNmFnNENYWTFQVlVpTVRLSmxMdXJnSVFVMDl2dkNnS2l1bTQ4S05QcGdNcWpkVkNBVTlGMDBsU0Fkc0VndWZNdw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0I5SjBhZ0ItdTF5ZkNvRkFJYzRsV3dFemk2eC1TYzVqQVdKTF9FTzFEY0VWU0EwM2hxWU9CYnVlQksxTEVXMXQxb183TzFZUWJfQV9rOWEydlcxMmVaNmFnNENYWTFQVlVpTVRLSmxMdXJnSVFVMDl2dkNnS2l1bTQ4S05QcGdNcWpkVkNBVTlGMDBsU0Fkc0VndWZNdw?oc=5",
+      "id": "853b8f25bf24",
+      "title": "Calling All Women Who Travel Solo—Add These US Destinations to Your Bucket List - Condé Nast Traveler",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVmtuTkhkUWRsNlRQNEFCdExyUFktTjhWSDNYRDdOYU1ESHNxTFpiR2dFNkktY2FtdHc3ekVYSEx6cEhBNkxqcEw5TnlJdWZNeVN4NUtqWDF4SWRVT1pGLVpnVGczaG9FekZCLUJpNHZ4M2NHbVBKMk9HamlzeUd5bzBmYjFWZw?oc=5\" target=\"_blank\">Calling All Women Who Tra",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVmtuTkhkUWRsNlRQNEFCdExyUFktTjhWSDNYRDdOYU1ESHNxTFpiR2dFNkktY2FtdHc3ekVYSEx6cEhBNkxqcEw5TnlJdWZNeVN4NUtqWDF4SWRVT1pGLVpnVGczaG9FekZCLUJpNHZ4M2NHbVBKMk9HamlzeUd5bzBmYjFWZw?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 20 Sep 2026 00:10:13 GMT",
-          "source": "Travel Weekly"
+          "published": "Wed, 16 Sep 2026 23:16:51 GMT",
+          "source": "Condé Nast Traveler"
         }
       ]
     },
     {
-      "id": "4ab6ec2b4436",
-      "title": "Georgia football travel roster takeaways as Bulldogs reveal who made it to Arkansas - DawgNation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2FlRnVYNGpzN0NfNnVqZVZvc2Vqa0x6YXF3NXlYVFZhWWlfQnFkMDhjdjNKaDlVUTNLNUdkR2NiLWx1ZlR4cTlmNlFna0VzNFFyaXdNUG5jTnVXRHdLQ2pRM2h0NUdUd3ozd0s0X0hpSjJ5OWdtOUY4bDM0U25IYlVfcThFLWI2TXlfQlgzeGhZMW5ub0hzeDlqNTh6VVNiOEM5NXNCLWN0V2",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2FlRnVYNGpzN0NfNnVqZVZvc2Vqa0x6YXF3NXlYVFZhWWlfQnFkMDhjdjNKaDlVUTNLNUdkR2NiLWx1ZlR4cTlmNlFna0VzNFFyaXdNUG5jTnVXRHdLQ2pRM2h0NUdUd3ozd0s0X0hpSjJ5OWdtOUY4bDM0U25IYlVfcThFLWI2TXlfQlgzeGhZMW5ub0hzeDlqNTh6VVNiOEM5NXNCLWN0V253bWFpQUF6MDVGcTZiUy1IMnNnU2ZRRjlCbE9HeUJydlgwWl9ranNhQ1NJNA?oc=5",
+      "id": "ffcc7c706882",
+      "title": "30 Practical Travel Finds Worth Packing Every Time - BuzzFeed",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5wQllaZXFKRndrRDk5VTIyTU1rMHlWbGEyWWdkYmVBZEFZNXNXRDc4QTJKcEVrMVhGOVRiVENadnNmc1Uxd0t2c2R2eWNtVmlNd2FEb3pGVlAwTVdoNjdlT3VoaUVyM1QtN1J5OA?oc=5\" target=\"_blank\">30 Practical Travel Finds Worth Packing Every Time</a>&nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wQllaZXFKRndrRDk5VTIyTU1rMHlWbGEyWWdkYmVBZEFZNXNXRDc4QTJKcEVrMVhGOVRiVENadnNmc1Uxd0t2c2R2eWNtVmlNd2FEb3pGVlAwTVdoNjdlT3VoaUVyM1QtN1J5OA?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 19 Sep 2026 15:49:06 GMT",
-          "source": "DawgNation"
+          "published": "Sun, 20 Sep 2026 15:01:02 GMT",
+          "source": "BuzzFeed"
         }
       ]
     },
     {
-      "id": "6e4ce10d78c3",
-      "title": "Community-Based Tourism in Northern Vietnam - BORGEN Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3RLZFB6ZHR4Q0N5VkdmTHEwU0IxaE01NFEzaWY1LUJCcTE0c3J1WlcyaWRlOUt3M2ZYMUJnWnFzdDFaT0dFazhSbUZGUmJLcnc0WmtfMFRuSlh5Nmlqakg3RjNCeEY2TnJwZUFvcjhTQ0pRWWpoMUk3WV9vUHN6Yg?oc=5\" target=\"_blank\">Community-Based Tourism in Northe",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3RLZFB6ZHR4Q0N5VkdmTHEwU0IxaE01NFEzaWY1LUJCcTE0c3J1WlcyaWRlOUt3M2ZYMUJnWnFzdDFaT0dFazhSbUZGUmJLcnc0WmtfMFRuSlh5Nmlqakg3RjNCeEY2TnJwZUFvcjhTQ0pRWWpoMUk3WV9vUHN6Yg?oc=5",
+      "id": "c0d04adb03bd",
+      "title": "Trump Cuts Camp David Trip Short as US Issues Middle East Travel Alerts - Newsweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekROT0tFM3kzWjJfNzQzZHBIX2lhS0NBQ19FaUNCVUZuVWVkU041c2JFQWFNQWVaX1dVZWlzZWlRdWt5NTdnOUEzYWUxbHRtZEZhWGVKbkFTazJoNUwzVllGckVRZ1pEdkVYSmU4Vk80dEVkQUNtQkp5UjhTSFpQRmlOc2pJSXdpWjZoRXhGX1IwOGw1dDBHZTl5ZU1Uc0JQTDhmOVFlemI?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekROT0tFM3kzWjJfNzQzZHBIX2lhS0NBQ19FaUNCVUZuVWVkU041c2JFQWFNQWVaX1dVZWlzZWlRdWt5NTdnOUEzYWUxbHRtZEZhWGVKbkFTazJoNUwzVllGckVRZ1pEdkVYSmU4Vk80dEVkQUNtQkp5UjhTSFpQRmlOc2pJSXdpWjZoRXhGX1IwOGw1dDBHZTl5ZU1Uc0JQTDhmOVFlemI?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 20 Sep 2026 10:00:48 GMT",
-          "source": "BORGEN Magazine"
+          "published": "Sun, 20 Sep 2026 11:43:00 GMT",
+          "source": "Newsweek"
         }
       ]
     },
     {
-      "id": "204694b048db",
-      "title": "9 Movies That Made an Entire Generation of Kids Want to Travel - Parents",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5KMk1UWV84VDRpV2ZLbHhXdkpld2RPX2ZRUkZxMDFOZVJ2N3R3YVFSNGxsNnhYTEg1MnNtUHBIaTRuUjJVczlES3k0TXlwN1JobjBrM2F4OUI3c0xweTctczdFOXVrVlI1aXZFNDR5c09ESzRVWFBseA?oc=5\" target=\"_blank\">9 Movies That Made an Entire Generation of Ki",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KMk1UWV84VDRpV2ZLbHhXdkpld2RPX2ZRUkZxMDFOZVJ2N3R3YVFSNGxsNnhYTEg1MnNtUHBIaTRuUjJVczlES3k0TXlwN1JobjBrM2F4OUI3c0xweTctczdFOXVrVlI1aXZFNDR5c09ESzRVWFBseA?oc=5",
+      "id": "74a825d5df56",
+      "title": "The 10 Coolest Trips to Take Once You Become an Empty Nester, From Antarctica to Bhutan - Travel + Leisure",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObWJFOWMtQWN0MDZJVFJXVWJ3V0R1SzZTNXJBc3ptTzFmZmFIeHNmdlRka3lacnlKamJPUGVBS3pSOUR0bFQ1d3BUUzhoTExBQVgwaXAzTWk5RGlRVld4ZkNGZDM1QkstRktZU255emMxanh4TkNxSHFUZWxqUlMzYXFUamVidWxDLXZ5cDBwQlhMMzBuREpUR044eHBPYjJqWnROdw?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWJFOWMtQWN0MDZJVFJXVWJ3V0R1SzZTNXJBc3ptTzFmZmFIeHNmdlRka3lacnlKamJPUGVBS3pSOUR0bFQ1d3BUUzhoTExBQVgwaXAzTWk5RGlRVld4ZkNGZDM1QkstRktZU255emMxanh4TkNxSHFUZWxqUlMzYXFUamVidWxDLXZ5cDBwQlhMMzBuREpUR044eHBPYjJqWnROdw?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 19 Sep 2026 18:00:00 GMT",
-          "source": "Parents"
+          "published": "Sun, 20 Sep 2026 10:15:00 GMT",
+          "source": "Travel + Leisure"
         }
       ]
     },
     {
-      "id": "53e8942511fa",
-      "title": "Flight Attendants Can Tell If You’ll Be an Easy Passenger by These 7 Habits - Travel + Leisure",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGZyUjBWQnd5Q25CY2VENjJOaU9JSTl3SjNZYmNLM0dLNERaR3d2SXk0LVFiMnl6ZGxyM1lyY3hVVE5yQWlxMDBheG1Ya2h1Y0dLTXg4REZPVFdnS3V4Y0pDZVBkUGdKd2FaUnl6T1VDb2hibVJ4YjNlOUpoOWc4UjlEbFg3QmZqQ3VCdnlCNmQ5TE1hMnVIZUtSR1VQa28zRHhPTjdDNU93R2",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGZyUjBWQnd5Q25CY2VENjJOaU9JSTl3SjNZYmNLM0dLNERaR3d2SXk0LVFiMnl6ZGxyM1lyY3hVVE5yQWlxMDBheG1Ya2h1Y0dLTXg4REZPVFdnS3V4Y0pDZVBkUGdKd2FaUnl6T1VDb2hibVJ4YjNlOUpoOWc4UjlEbFg3QmZqQ3VCdnlCNmQ5TE1hMnVIZUtSR1VQa28zRHhPTjdDNU93R2hSZ09ZcU9zWG52QQ?oc=5",
+      "id": "33169ed65084",
+      "title": "China Opens Competition Probes Into Meituan, Alibaba Travel Units - PYMNTS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJRd1g1d2t6VUlmQlh3azdOSnlDRXpGcVFZRHF2ejVMOW5NU1RidTkxX1V0ZkNCWDJRa0hQYUVrSDJLZ1ozU1FBSU1NZ3FuN1pHQTdQQzk4MV9Cb0RFZS1DUzlzb19rMjFoem5KTGZmaDFRYW5yWVJUelhodHB6RnBzemVGdE9nZjcxN3ZHX09jSGhtNmhDNzdieVdJTkU?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJRd1g1d2t6VUlmQlh3azdOSnlDRXpGcVFZRHF2ejVMOW5NU1RidTkxX1V0ZkNCWDJRa0hQYUVrSDJLZ1ozU1FBSU1NZ3FuN1pHQTdQQzk4MV9Cb0RFZS1DUzlzb19rMjFoem5KTGZmaDFRYW5yWVJUelhodHB6RnBzemVGdE9nZjcxN3ZHX09jSGhtNmhDNzdieVdJTkU?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-20T11:14:24+00:00",
+      "first_seen": "2026-09-20T15:59:16+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 20 Sep 2026 04:30:00 GMT",
-          "source": "Travel + Leisure"
+          "published": "Sun, 20 Sep 2026 14:59:34 GMT",
+          "source": "PYMNTS.com"
         }
       ]
     }
