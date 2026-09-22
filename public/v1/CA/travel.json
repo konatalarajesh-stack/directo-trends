@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-09-22T04:54:12+00:00",
+  "generated_at": "2026-09-22T11:37:29+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
-      "id": "0b6a7b9e433c",
-      "title": "‘Accommodation deserts’ a main tourism gap in Nova Scotia’s Annapolis Valley - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3RxeV9vQUkyWTFlRTAtTDBpWERkNDNBUjJILVI4NFNHWWdhQmgwRnU4WmhodDl2bWRUWHh4MjAzcTZWeFFpZFhxRS1PTHV2Z2lSSkRjc2t2N294RGNHX3hrTTVyOXk5V0lFUkpMN2k3QWZKOUlyMEZ2djc0TzdrUWdPLXNWRDFJelBEVFVrcUNialkwRTN5Wm9KZ1FKTmhjbXp2RXF0eWFTTk",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3RxeV9vQUkyWTFlRTAtTDBpWERkNDNBUjJILVI4NFNHWWdhQmgwRnU4WmhodDl2bWRUWHh4MjAzcTZWeFFpZFhxRS1PTHV2Z2lSSkRjc2t2N294RGNHX3hrTTVyOXk5V0lFUkpMN2k3QWZKOUlyMEZ2djc0TzdrUWdPLXNWRDFJelBEVFVrcUNialkwRTN5Wm9KZ1FKTmhjbXp2RXF0eWFTTkxjWE1tcVloNlVpbmJv?oc=5",
+      "id": "770600c65bc8",
+      "title": "Spotlight: Iceland the right travel destination for everyone - Sudbury News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVWktV010QzU1d3Z3QXlrMXdDb2szZWV0UEszU1h4c2VUMHhNR3loeEJJektaOUVmOGM3VVFXTmZBOWNKM0FnZDNpazdIMlFzcktzRmd2YnF2Q3d4dnNvYkQ2MzJ1Vmg5cEtUZzRRby1VeldmNVgtRHp1RWpaTThMVG1jY2x0Q0dIUFcwbWtBdWM1eWNOV1J3?oc=5\" target=\"_blank\">Spo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVWktV010QzU1d3Z3QXlrMXdDb2szZWV0UEszU1h4c2VUMHhNR3loeEJJektaOUVmOGM3VVFXTmZBOWNKM0FnZDNpazdIMlFzcktzRmd2YnF2Q3d4dnNvYkQ2MzJ1Vmg5cEtUZzRRby1VeldmNVgtRHp1RWpaTThMVG1jY2x0Q0dIUFcwbWtBdWM1eWNOV1J3?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 11:00:00 GMT",
+          "source": "Sudbury News"
+        }
+      ]
+    },
+    {
+      "id": "f1dedca7ca9b",
+      "title": "Changing Travel Motivations Lead To 60+ Tourism Types - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkVCbkdSeU05SWhndVlaZW9ObzV6blpYSnhJajlKY1kxOEFyeFZ4Q2JVNm1lay02Vm40OTNiVG1UaTJraGM1WUxyaEt1cWJ0Nm55RUlGVi1BNjVNc05NT3pvbi01R1pvVk9lemdOTjRwb2JsLVFYMEFZVlpBWURjV1NEYnUzVjBsdEx6amFYbDNCV1p5cTVIaGZhV0taS1dmZ0R3aw?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkVCbkdSeU05SWhndVlaZW9ObzV6blpYSnhJajlKY1kxOEFyeFZ4Q2JVNm1lay02Vm40OTNiVG1UaTJraGM1WUxyaEt1cWJ0Nm55RUlGVi1BNjVNc05NT3pvbi01R1pvVk9lemdOTjRwb2JsLVFYMEFZVlpBWURjV1NEYnUzVjBsdEx6amFYbDNCV1p5cTVIaGZhV0taS1dmZ0R3aw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 11:00:00 GMT",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "id": "0b6a7b9e433c",
+      "title": "‘Accommodation deserts’ a main tourism gap in Nova Scotia’s Annapolis Valley - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3RxeV9vQUkyWTFlRTAtTDBpWERkNDNBUjJILVI4NFNHWWdhQmgwRnU4WmhodDl2bWRUWHh4MjAzcTZWeFFpZFhxRS1PTHV2Z2lSSkRjc2t2N294RGNHX3hrTTVyOXk5V0lFUkpMN2k3QWZKOUlyMEZ2djc0TzdrUWdPLXNWRDFJelBEVFVrcUNialkwRTN5Wm9KZ1FKTmhjbXp2RXF0eWFTTk",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3RxeV9vQUkyWTFlRTAtTDBpWERkNDNBUjJILVI4NFNHWWdhQmgwRnU4WmhodDl2bWRUWHh4MjAzcTZWeFFpZFhxRS1PTHV2Z2lSSkRjc2t2N294RGNHX3hrTTVyOXk5V0lFUkpMN2k3QWZKOUlyMEZ2djc0TzdrUWdPLXNWRDFJelBEVFVrcUNialkwRTN5Wm9KZ1FKTmhjbXp2RXF0eWFTTkxjWE1tcVloNlVpbmJv?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
           "published": "Mon, 21 Sep 2026 22:34:04 GMT",
@@ -27,18 +67,118 @@
       ]
     },
     {
-      "id": "64adcec9ff57",
-      "title": "Toronto and Vancouver attract the most newcomers despite high living costs - Business in Vancouver",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFhKYXRIVV9lTTBWZlJ1c0JJT3dLUDBqaVlfTlVvREEwN2tfTzlxaFdmbDlUSDNieEhSb1JMVEdfVzk4NUM3b2NtUGtSV2J1OEUwWWR5VUhnTFk5d0hlaUhFTmpqWjA4TGlwLUt1ZFlhdnRjbkx6TlRvT0xJSXBPdVZkUzhaa0gweWY5SzUzSkVobUllMWR2a1BSRmwxMWVXQ2luTjRUQkRHTj",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFhKYXRIVV9lTTBWZlJ1c0JJT3dLUDBqaVlfTlVvREEwN2tfTzlxaFdmbDlUSDNieEhSb1JMVEdfVzk4NUM3b2NtUGtSV2J1OEUwWWR5VUhnTFk5d0hlaUhFTmpqWjA4TGlwLUt1ZFlhdnRjbkx6TlRvT0xJSXBPdVZkUzhaa0gweWY5SzUzSkVobUllMWR2a1BSRmwxMWVXQ2luTjRUQkRHTjF1TEkya0tjTm0wSmR0NENNUE9zVEZLbzdXZzhYNg?oc=5",
-      "score": 86.4,
+      "id": "ec27f7e72820",
+      "title": "Bright Ideas in Travel 2026 - Condé Nast Traveler",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB3RzlyckJtTXJnWHFtbTFkZkRqM1k2VGdmOXJsMlVxMDVTNDZmdEN0eUwwQ0NMVTRSYVo1MUs5aXR3RkVxSUcxVkd1Z0k0WUwzRjhHMHRoZHdsNzhuMmRLYzR4cTZjVEJ6YUdzQw?oc=5\" target=\"_blank\">Bright Ideas in Travel 2026</a>&nbsp;&nbsp;<font color=\"#6f6f",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3RzlyckJtTXJnWHFtbTFkZkRqM1k2VGdmOXJsMlVxMDVTNDZmdEN0eUwwQ0NMVTRSYVo1MUs5aXR3RkVxSUcxVkd1Z0k0WUwzRjhHMHRoZHdsNzhuMmRLYzR4cTZjVEJ6YUdzQw?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 09:30:00 GMT",
+          "source": "Condé Nast Traveler"
+        }
+      ]
+    },
+    {
+      "id": "dba26854c79f",
+      "title": "Fort Erie seeks resident input on new tourism strategy - forterieradio.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2ZLV2FPMTVIUEJnR3ZFMWcxZ0ltMzNDcVBOclpGcVFPSmtSdEZSc0pCcmlwbTQ3QnBreW5obXFBVTJXZmN6VFZ1XzVFMUY4N3RmUE9WVlhDU1NvclVHMHZDNGNMQXR3V1FCUE15WkRwVkFGRUc3WHdWdmJrQ1lNLURscmhZR3M?oc=5\" target=\"_blank\">Fort Erie seeks resident",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2ZLV2FPMTVIUEJnR3ZFMWcxZ0ltMzNDcVBOclpGcVFPSmtSdEZSc0pCcmlwbTQ3QnBreW5obXFBVTJXZmN6VFZ1XzVFMUY4N3RmUE9WVlhDU1NvclVHMHZDNGNMQXR3V1FCUE15WkRwVkFGRUc3WHdWdmJrQ1lNLURscmhZR3M?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 08:47:46 GMT",
+          "source": "forterieradio.ca"
+        }
+      ]
+    },
+    {
+      "id": "39ea0d7b13ef",
+      "title": "20 agents, 11 suppliers: Travel Best Bets connects in Nanaimo - PAX News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZk9YTklTdG1Wbk9WV0k3SWZaZWcwdEFEbDVvT2w2cjdzYUJDTERMa2RqWGVHSkdxeWUySDJKUXVJWmsyM1k5YVE5ZTRrRWNObGlTTjZnSDI1eW9sdnNORGpOMlZuU0xTQXJVTERvVThRNWI2SEZWUkZ5TTBnTXJOWUJkSzhrYkNiSmJFVmdERVhCazVvVFV0OGdHVElQUmxz?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZk9YTklTdG1Wbk9WV0k3SWZaZWcwdEFEbDVvT2w2cjdzYUJDTERMa2RqWGVHSkdxeWUySDJKUXVJWmsyM1k5YVE5ZTRrRWNObGlTTjZnSDI1eW9sdnNORGpOMlZuU0xTQXJVTERvVThRNWI2SEZWUkZ5TTBnTXJOWUJkSzhrYkNiSmJFVmdERVhCazVvVFV0OGdHVElQUmxz?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 09:05:30 GMT",
+          "source": "PAX News"
+        }
+      ]
+    },
+    {
+      "id": "f9ef814c3994",
+      "title": "Sicamous council supports plan for shuttle service to take tourists to outdoor destinations - castanet.net",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdjdQUUlJNXhfYk5XaGRLSlNLaU12ZzlQcUlzTVYtQ0lPcmlpVmlnRFJVTTlpekVQSzNvY3dDZW1vdUNSWGl4ZnNUMzBLeWY5MEUtMks2QmRHV2NsT3ZJdi1VQnA4R2p1dG9WRXNrYjF1UlFlcHpKNkJmbWFrWUhvVFZxVEtSemx2Ql9Sd2g5U29FTTlWenhiRi1GeXRFSGdKb2puamtMMVpnZk",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdjdQUUlJNXhfYk5XaGRLSlNLaU12ZzlQcUlzTVYtQ0lPcmlpVmlnRFJVTTlpekVQSzNvY3dDZW1vdUNSWGl4ZnNUMzBLeWY5MEUtMks2QmRHV2NsT3ZJdi1VQnA4R2p1dG9WRXNrYjF1UlFlcHpKNkJmbWFrWUhvVFZxVEtSemx2Ql9Sd2g5U29FTTlWenhiRi1GeXRFSGdKb2puamtMMVpnZkdlTDVydjI5U0gzdHlLcVVxVGNfRUhaQ3Y2eTE0aTEyOVczRTdRcmVUMzJR?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 11:00:00 GMT",
+          "source": "castanet.net"
+        }
+      ]
+    },
+    {
+      "id": "9569a60e4f0d",
+      "title": "Cypress Hills, Grasslands National Park named among Amazing Race Canada's Saskatchewan destinations - WestCentralOnline",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzRnZGEwUmFtNWZvbXZNdWNhZWVmV0dRMVpDU3Ewdnk2aUR5VHpDYjM0b29pY1hsdTBNT2hRb3dDV2tJWEJKOWpsT09oLTRhWGE0OW12QUFxUnFmM3BSd21qUXFUTDhEM3hCS1ZEYzAzejB2Y1ZKdmdjVnNPNTJ1T2ctdmozem9maGNKY0VWTUJ5VDByTDJwYlJMMVFCc092MVFRYXZibms2Rl",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzRnZGEwUmFtNWZvbXZNdWNhZWVmV0dRMVpDU3Ewdnk2aUR5VHpDYjM0b29pY1hsdTBNT2hRb3dDV2tJWEJKOWpsT09oLTRhWGE0OW12QUFxUnFmM3BSd21qUXFUTDhEM3hCS1ZEYzAzejB2Y1ZKdmdjVnNPNTJ1T2ctdmozem9maGNKY0VWTUJ5VDByTDJwYlJMMVFCc092MVFRYXZibms2RlpENFE0OUd6QTNwMmExR253YlRNTk01blV4Nkxwa1ZyQ2U0M2dWd2ZxTlpvSQ?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 11:03:15 GMT",
+          "source": "WestCentralOnline"
+        }
+      ]
+    },
+    {
+      "id": "64adcec9ff57",
+      "title": "Toronto and Vancouver attract the most newcomers despite high living costs - Business in Vancouver",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFhKYXRIVV9lTTBWZlJ1c0JJT3dLUDBqaVlfTlVvREEwN2tfTzlxaFdmbDlUSDNieEhSb1JMVEdfVzk4NUM3b2NtUGtSV2J1OEUwWWR5VUhnTFk5d0hlaUhFTmpqWjA4TGlwLUt1ZFlhdnRjbkx6TlRvT0xJSXBPdVZkUzhaa0gweWY5SzUzSkVobUllMWR2a1BSRmwxMWVXQ2luTjRUQkRHTj",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFhKYXRIVV9lTTBWZlJ1c0JJT3dLUDBqaVlfTlVvREEwN2tfTzlxaFdmbDlUSDNieEhSb1JMVEdfVzk4NUM3b2NtUGtSV2J1OEUwWWR5VUhnTFk5d0hlaUhFTmpqWjA4TGlwLUt1ZFlhdnRjbkx6TlRvT0xJSXBPdVZkUzhaa0gweWY5SzUzSkVobUllMWR2a1BSRmwxMWVXQ2luTjRUQkRHTjF1TEkya0tjTm0wSmR0NENNUE9zVEZLbzdXZzhYNg?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 00:00:00 GMT",
@@ -47,82 +187,102 @@
       ]
     },
     {
-      "id": "4e3edc3860ee",
-      "title": "WORTH EVERY PENNY: Canadians willing to spend for travel - Travel Industry Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQT01KdDA0TjZQSF9rZ3NZRHE2WG80VlFGMGJaZ19MeEJGcGhvNUVQWDc3cF9FWi03R3ZmMm5iUkpCVTg0SXJlVjdyZ2RDN2J5SUFBMC1jS1VTeGNqdVBEOEFoVFJmM1RWYVV3dWRZZHFaUlVhYUdxLVdiNU1UXzhNSUFPR0VxdnJzd0xaWWFTblE2UQ?oc=5\" target=\"_blank\">WORTH EVE",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT01KdDA0TjZQSF9rZ3NZRHE2WG80VlFGMGJaZ19MeEJGcGhvNUVQWDc3cF9FWi03R3ZmMm5iUkpCVTg0SXJlVjdyZ2RDN2J5SUFBMC1jS1VTeGNqdVBEOEFoVFJmM1RWYVV3dWRZZHFaUlVhYUdxLVdiNU1UXzhNSUFPR0VxdnJzd0xaWWFTblE2UQ?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 21 Sep 2026 22:15:08 GMT",
-          "source": "Travel Industry Today"
-        }
-      ]
-    },
-    {
-      "id": "8257bfa9b470",
-      "title": "Salt Spring Island named among world’s quietest island destinations - CHEK News",
+      "id": "be9124e99b0f",
+      "title": "Salt Spring Island named among world’s quietest island destinations - cheknews.ca",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVNvTWhtd3MzWXlsa0wzbldiWHpadlYzcy00bVUzRnZWVWI5ekxLREZYakt6d294OHFwaF9odG5NUUpLbklLTDZRY0JBYzRDMTBLZmgtRlVpeEU4VXk4cV9NRC1NRGotbmZFck1VZElJVzZCa3pvZGRnRW56SGtXNDhGMWZzVFI1STZnZXJFMDNzUFVhY3NxMDItcw?oc=5\" target=\"_blan",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVNvTWhtd3MzWXlsa0wzbldiWHpadlYzcy00bVUzRnZWVWI5ekxLREZYakt6d294OHFwaF9odG5NUUpLbklLTDZRY0JBYzRDMTBLZmgtRlVpeEU4VXk4cV9NRC1NRGotbmZFck1VZElJVzZCa3pvZGRnRW56SGtXNDhGMWZzVFI1STZnZXJFMDNzUFVhY3NxMDItcw?oc=5",
-      "score": 79.2,
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
           "published": "Mon, 21 Sep 2026 17:08:56 GMT",
-          "source": "CHEK News"
+          "source": "cheknews.ca"
         }
       ]
     },
     {
-      "id": "11f486a1ac4d",
-      "title": "African Travel doubles small-group portfolio for 2027, returns to Uganda - PAX News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2xCWWhrTHlERHUtbjRSMXZrbDNSc1JsRVphLUFqN2NubDM4MUtkaXNDektoQzJJSWV5LXJra0Vwb3dJRmx0ek1SX3RrM3BYWUViek5XSE5ucnJfcWc0cGVCRUxnRHVzOGJQb2tuZE0tX01NUEt4UUt3N0M2RHpFdUpFa3ZUOUFyOGxKM3E4cUhxTjJpdVg3MEt1bnd5QmRPSGdMZnlsNUpjRV",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2xCWWhrTHlERHUtbjRSMXZrbDNSc1JsRVphLUFqN2NubDM4MUtkaXNDektoQzJJSWV5LXJra0Vwb3dJRmx0ek1SX3RrM3BYWUViek5XSE5ucnJfcWc0cGVCRUxnRHVzOGJQb2tuZE0tX01NUEt4UUt3N0M2RHpFdUpFa3ZUOUFyOGxKM3E4cUhxTjJpdVg3MEt1bnd5QmRPSGdMZnlsNUpjRVE?oc=5",
-      "score": 75.6,
+      "id": "e5c508918439",
+      "title": "Discover the World representing Sun PhuQuoc Airways in Canada - TravelPress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzFUanFyX2s2elJPeVVNZnJNUDJxaXlqNVZZa01VZU9KY2k0a0NjQUc0cHlBQmZaTDF3cF9TbkZNdTMtdXdYNmNNVm9Rc1BNUXVrc0psRzVURHFwWHoyVjNTY3pSaFZrem11RE5FMnJ6S19Kd1NoczBHWDF4REpxVmE3VkttT3BMNFFGS0E2YnlWTkFP?oc=5\" target=\"_blank\">Discove",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzFUanFyX2s2elJPeVVNZnJNUDJxaXlqNVZZa01VZU9KY2k0a0NjQUc0cHlBQmZaTDF3cF9TbkZNdTMtdXdYNmNNVm9Rc1BNUXVrc0psRzVURHFwWHoyVjNTY3pSaFZrem11RE5FMnJ6S19Kd1NoczBHWDF4REpxVmE3VkttT3BMNFFGS0E2YnlWTkFP?oc=5",
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 23:26:01 GMT",
-          "source": "PAX News"
+          "published": "Tue, 22 Sep 2026 10:12:46 GMT",
+          "source": "TravelPress"
         }
       ]
     },
     {
-      "id": "7b8118bccfab",
-      "title": "Suzanne Reisler Litwin: The incredible travel concierge - TheSuburban.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOd3I1bnNDTl9QbG5qU1h2Z25RZlhZemUyODI4ODMyYzlObjdTcWpDZmZDaVI5UVpBczJlR2VudzczaHVwdFNZbXJwSEdTd2kzVUk4NzZFV1J3TTFSYUtFa3hFbEJzYUpxOG1Gc3BLaTlINS1GMlk0OXNUTWlWaVk5TGZtYkVPcnk3Rll3bWpXTldEbmxmTWl0UHdqdk1kNWJYSk1EbkdtcF94UV",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOd3I1bnNDTl9QbG5qU1h2Z25RZlhZemUyODI4ODMyYzlObjdTcWpDZmZDaVI5UVpBczJlR2VudzczaHVwdFNZbXJwSEdTd2kzVUk4NzZFV1J3TTFSYUtFa3hFbEJzYUpxOG1Gc3BLaTlINS1GMlk0OXNUTWlWaVk5TGZtYkVPcnk3Rll3bWpXTldEbmxmTWl0UHdqdk1kNWJYSk1EbkdtcF94UVVpYjlzSmdZYVFReDA5Yjhtdk5JV3JIVWhNaVlQb3paTVNYTkstY2E5dFc0bXVEeXFEWWZYR1JWM2FEeDg2eC1KUjZiZHBPUGg1V3l6RVM1Nlh2SHk5RFN5TkJ3Q1MzYnNVRXdZcXdB?oc=5",
-      "score": 68.4,
+      "id": "bd3bcf29a054",
+      "title": "I quit my job and became a travel 'micro influencer.' Now I make money leading tours and see the world for free. - Business Insider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPdzJkMVUyYm42NE1VNUg0RDU0UlpOSGNmY0MxNVNXeDNORGxVT3owelE4UzJWRmJreElRNEtCRXl1NlVmbVU0T1dlb3gwcjB5Z2tiTkd2WnRsUXZiRmJrX3V1c2xtM0d5OEFTVzhnTDFObGVVTTNoeWI4VWNRTWVONFVMSFlhSXVxLWZyemsyakQ0Ylh0aHJCYWI2TUpQUG9NblJwYw?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdzJkMVUyYm42NE1VNUg0RDU0UlpOSGNmY0MxNVNXeDNORGxVT3owelE4UzJWRmJreElRNEtCRXl1NlVmbVU0T1dlb3gwcjB5Z2tiTkd2WnRsUXZiRmJrX3V1c2xtM0d5OEFTVzhnTDFObGVVTTNoeWI4VWNRTWVONFVMSFlhSXVxLWZyemsyakQ0Ylh0aHJCYWI2TUpQUG9NblJwYw?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 12:30:00 GMT",
-          "source": "TheSuburban.com"
+          "published": "Tue, 22 Sep 2026 11:16:12 GMT",
+          "source": "Business Insider"
+        }
+      ]
+    },
+    {
+      "id": "48ac00575b6e",
+      "title": "A coachload of Belgian ideas for better tourism - IRU | World Road Transport Organisation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1h4ckNibE9qN3YybmE2ZmI1TGM5U3JsX0h4a1VvUTQxYzBRQnB4MmJkM2xPQ0NpYW5rY3JwdGVUZWJydE5wdDlzQkRSUzliZDAyd0NmOTRYQ3JGUkktSm1EVUVpVVY5OTJIbnhSN05VQjZkdTFPWU5QdlY4SmtJZWFObDFhcTRtdHc?oc=5\" target=\"_blank\">A coachload of Belgi",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1h4ckNibE9qN3YybmE2ZmI1TGM5U3JsX0h4a1VvUTQxYzBRQnB4MmJkM2xPQ0NpYW5rY3JwdGVUZWJydE5wdDlzQkRSUzliZDAyd0NmOTRYQ3JGUkktSm1EVUVpVVY5OTJIbnhSN05VQjZkdTFPWU5QdlY4SmtJZWFObDFhcTRtdHc?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 09:15:44 GMT",
+          "source": "IRU | World Road Transport Organisation"
+        }
+      ]
+    },
+    {
+      "id": "7d9adaf4c9ed",
+      "title": "Lisbon voted the world's happiest travel destination in new global survey - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMU13M2IzeGE2cEdJTXFPSllWZVRrWjJuek5EYllRTW1LREdSOHctRTZTOVF0akxmZXJ2N2lnaUxubmJpcE1yRTRydmhiR0RsSW5HTjlkYlUzN2lodnZpZWUyTExGZHVSREZJOUNpQm0wdk1hN2VsTUhHMy1tRWxoSmhDZFczU01BeGNmekw2cVliTlIxREJXOWJFeWphWFpuMlVn?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMU13M2IzeGE2cEdJTXFPSllWZVRrWjJuek5EYllRTW1LREdSOHctRTZTOVF0akxmZXJ2N2lnaUxubmJpcE1yRTRydmhiR0RsSW5HTjlkYlUzN2lodnZpZWUyTExGZHVSREZJOUNpQm0wdk1hN2VsTUhHMy1tRWxoSmhDZFczU01BeGNmekw2cVliTlIxREJXOWJFeWphWFpuMlVn?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 05:00:27 GMT",
+          "source": "Euronews.com"
         }
       ]
     },
@@ -131,14 +291,14 @@
       "title": "Osprey Built a \"Tougher, More Technical\" Version of Its Best-Selling Travel Pack - Gear Patrol",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSi0yMkhicjRKbGpwcWhENGZXTHhYZmkwbmN1bzdPVEN0R29YcW5OSC1TN2tBNGlwRHZwUWhXNUtnaTZ5aUNtSTB6Y3c5ZmloQXBiTWJZLTdJS29BVVRVcjRYY05TeDBweXRabVVrVW42Umo3VjN6Z3J4MVg5R0I4cmhBQng?oc=5\" target=\"_blank\">Osprey Built a \"Tougher, Mor",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSi0yMkhicjRKbGpwcWhENGZXTHhYZmkwbmN1bzdPVEN0R29YcW5OSC1TN2tBNGlwRHZwUWhXNUtnaTZ5aUNtSTB6Y3c5ZmloQXBiTWJZLTdJS29BVVRVcjRYY05TeDBweXRabVVrVW42Umo3VjN6Z3J4MVg5R0I4cmhBQng?oc=5",
-      "score": 64.8,
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
           "published": "Mon, 21 Sep 2026 19:54:58 GMT",
@@ -147,174 +307,10 @@
       ]
     },
     {
-      "id": "8c3289dac3a5",
-      "title": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo - Al Jazeera",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQeTFMUzhZa3ROWVllRWt6VDVWVVVPUlFaTmNNejV6dG44X2pOUFhITEttQ2dmUHdZcTdTTThQRkdXNjR6T1V1VnlYNzFRS2xjb1M2d21hY3BaVUc0WGhWVGkzVVBhQWsxZV9FeEVWU2RJbDlxV0xycDgxNTF6ZDdVOElxTEJSSWp1Zm9WOW4wbzJjM2c4U0wwSXVPZ3BwazExcUZLU084UExIZG",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeTFMUzhZa3ROWVllRWt6VDVWVVVPUlFaTmNNejV6dG44X2pOUFhITEttQ2dmUHdZcTdTTThQRkdXNjR6T1V1VnlYNzFRS2xjb1M2d21hY3BaVUc0WGhWVGkzVVBhQWsxZV9FeEVWU2RJbDlxV0xycDgxNTF6ZDdVOElxTEJSSWp1Zm9WOW4wbzJjM2c4U0wwSXVPZ3BwazExcUZLU084UExIZGU2TWfSAbMBQVVfeXFMT2JIWi1ycG9yY3J5VUlNd1hUVnEyeWtNV25YMzNGZVpNdzB2X19fcVhGeWVrcU5OVnNFazNpU2VXajJwMlJmOUtDVkQ4bjBGNUVMZGYzSGhfVkRKWU9YNFkwWUFVVFpLYUJOZmFkTmh3MUpzN2E5WU9tUG4tQmNzLTNhVGdYMC03LTNFNThRUERETk94VGVaNzdoSTRYM1NlMC1nU0Z0aUc5RjdVaVBXQ2FzRjA?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 00:13:56 GMT",
-          "source": "Al Jazeera"
-        }
-      ]
-    },
-    {
-      "id": "33cbaa56f1e0",
-      "title": "Kayak Clarifies Position in Business Travel Marketplace - BTN Business Travel News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkxvMkcweGNaSzlYM0c5S096a0pseU1kdVo2ODl6ZExjMUFQSmp5VmdEbXRUTUxoZTdMME1iNmhmWWdfWWNMeGJPVlBKbkJCSXJWZVc4RUc0d1FEd3d0eXJpRW9JTFNrNHR0NjF5Z0pVMDdmdUtwaThEVlYxWnp1dlBzQnZ5bHJWYUVPSDNGVW5mQmxsQksxcjRicGRiRmRpNTYw?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkxvMkcweGNaSzlYM0c5S096a0pseU1kdVo2ODl6ZExjMUFQSmp5VmdEbXRUTUxoZTdMME1iNmhmWWdfWWNMeGJPVlBKbkJCSXJWZVc4RUc0d1FEd3d0eXJpRW9JTFNrNHR0NjF5Z0pVMDdmdUtwaThEVlYxWnp1dlBzQnZ5bHJWYUVPSDNGVW5mQmxsQksxcjRicGRiRmRpNTYw?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 00:21:43 GMT",
-          "source": "BTN Business Travel News"
-        }
-      ]
-    },
-    {
-      "id": "354e72438477",
-      "title": "How Airlines Pick Which Destinations They Fly to - Condé Nast Traveler",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEU2SlNrLVJTaDFfenVuNmNKZUNYYzlvalRtczY4dndmR2NtYksyZlhCSDhGaF81dmhiQWVHVG1OaG5xRnV4RlhKVmlZZWtGNWRkcjZ6QVJNS0YtbFA5SC0xOEpLeUxwY0lEa04yNndfdnBya0xKMWcyV2JiN3ktWm5CdENDdDl0?oc=5\" target=\"_blank\">How Airlines Pick Which",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEU2SlNrLVJTaDFfenVuNmNKZUNYYzlvalRtczY4dndmR2NtYksyZlhCSDhGaF81dmhiQWVHVG1OaG5xRnV4RlhKVmlZZWtGNWRkcjZ6QVJNS0YtbFA5SC0xOEpLeUxwY0lEa04yNndfdnBya0xKMWcyV2JiN3ktWm5CdENDdDl0?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 21 Sep 2026 17:40:14 GMT",
-          "source": "Condé Nast Traveler"
-        }
-      ]
-    },
-    {
-      "id": "cf6fbf5a664a",
-      "title": "‘No Concerns’ About Rio Field Conditions, Ravens’ Travel Plans Set | News & Notes - Baltimore Ravens",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMjlTZzJLUkMtLUFPcS1CYTh2cmtFX3lmZXk4bFpVM3FPNURzWFdBQ0txOGppM19yelpmeEt6Z2JNTnJJb3RNa1FuRlhHYzJndkY5clNCaXlaUFVXczRHVWd0Rzh1dzNyZUxVUjZxMG50eDFzYjh0dDRHaDBfaE9iNHVZaWNSY2llZmhMSHJ0NkdEd25IVklRQll3bWZwSlJzYVF1c0kxX1d0YU",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMjlTZzJLUkMtLUFPcS1CYTh2cmtFX3lmZXk4bFpVM3FPNURzWFdBQ0txOGppM19yelpmeEt6Z2JNTnJJb3RNa1FuRlhHYzJndkY5clNCaXlaUFVXczRHVWd0Rzh1dzNyZUxVUjZxMG50eDFzYjh0dDRHaDBfaE9iNHVZaWNSY2llZmhMSHJ0NkdEd25IVklRQll3bWZwSlJzYVF1c0kxX1d0YU02cW9iVUdnMDlFeXZKLUVTaHR4MjR4RUxQaDdnQkRWcjJwd25kWHZwR0ZmRGhyT0M2YkFRQzYzbzJGbUpTcEhuUzJ3Qjc?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 00:49:32 GMT",
-          "source": "Baltimore Ravens"
-        }
-      ]
-    },
-    {
-      "id": "b2667b92563f",
-      "title": "Ocean Bottle Peak Go 24 oz Travel Water Bottle Review - Treeline Review",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmI0anUyU25hVmxNN0RGeEx0eUVRMk15ck1ncWEzSjZNUXNmdXdXdHN2MjhXNktXRHQzYUZ4cjk5a0xBVUZKampNRjRSdmJrR3E0bmFVaUkwdzlubmIxeFY0S2VOX2lwTHRIdzUyZkRWZkd1MkQ1VEhmQ0hYYnJvWk9iLTF1SlJTXy0yOC1hbVAzRFZD?oc=5\" target=\"_blank\">Ocean B",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmI0anUyU25hVmxNN0RGeEx0eUVRMk15ck1ncWEzSjZNUXNmdXdXdHN2MjhXNktXRHQzYUZ4cjk5a0xBVUZKampNRjRSdmJrR3E0bmFVaUkwdzlubmIxeFY0S2VOX2lwTHRIdzUyZkRWZkd1MkQ1VEhmQ0hYYnJvWk9iLTF1SlJTXy0yOC1hbVAzRFZD?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 21 Sep 2026 18:38:22 GMT",
-          "source": "Treeline Review"
-        },
-        {
-          "published": "Mon, 21 Sep 2026 18:38:22 GMT",
-          "source": "Treeline Review"
-        }
-      ]
-    },
-    {
-      "id": "67bd148e1eb1",
-      "title": "How Houston's Tourism Industry Powers the Economy With $26.8 Billion Impact - TravelPulse",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGl3cXBQNlVmZWNHYll5U1JMOE1ZWFJOcGNTQlNNTjdvc1ZxR3I0cUtFUXlXV3ZTQnU5Y0ExbDZ0ak5ULWszV3NXNy1hOHFoWGJGZzZGZjNYbWtablJGWEFoNHV6QU52Sm9uMEp3a3NqSkJSSmJtZ2prdF9kQ2hXaFVsYkF2dFlIX1dBcW9UNk51VjhnMmoyS093ZUxWclRoRS1BSzIzU0JvdE",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGl3cXBQNlVmZWNHYll5U1JMOE1ZWFJOcGNTQlNNTjdvc1ZxR3I0cUtFUXlXV3ZTQnU5Y0ExbDZ0ak5ULWszV3NXNy1hOHFoWGJGZzZGZjNYbWtablJGWEFoNHV6QU52Sm9uMEp3a3NqSkJSSmJtZ2prdF9kQ2hXaFVsYkF2dFlIX1dBcW9UNk51VjhnMmoyS093ZUxWclRoRS1BSzIzU0JvdEZUbG9xeHdpVkN2SE5kYm9R?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 01:00:00 GMT",
-          "source": "TravelPulse"
-        }
-      ]
-    },
-    {
-      "id": "2815b4b5e9ab",
-      "title": "Golden Week 2026 sparks travel boom and new routes - Travel Daily Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcXpQME5FdHdzOEQ4b1lBcGptUXNvbXN1MUdWWjhxNXhEWFlIZl9FZGw3c25HdzM1SERYYzF0N0NtQ3lZZXl0eTg2c0tvVEZTMHh6WGU1bmZVR0NKbkZObnBDNjZsdHEzN3JDRTBpaUUxNnRLeG5MU0MzV25Db1hjY1BBTDdhMFpxSjBGaw?oc=5\" target=\"_blank\">Golden Week 2026 ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcXpQME5FdHdzOEQ4b1lBcGptUXNvbXN1MUdWWjhxNXhEWFlIZl9FZGw3c25HdzM1SERYYzF0N0NtQ3lZZXl0eTg2c0tvVEZTMHh6WGU1bmZVR0NKbkZObnBDNjZsdHEzN3JDRTBpaUUxNnRLeG5MU0MzV25Db1hjY1BBTDdhMFpxSjBGaw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 03:03:27 GMT",
-          "source": "Travel Daily Media"
-        }
-      ]
-    },
-    {
-      "id": "e17a2a965e95",
-      "title": "5 best dining experiences at GOLF's Top 100 Resorts | Travel - GOLF.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5Yd28zRDR6NEdXVzVOSG1wSm52aVRscHZreDBXSGR1NnNXMW1tQ0RkVzU4b1lOMzdOcy0yVTJMcTRfR0N1QlJVbVIyMWFJaWRBa3JmWjE2UmtNdlBxbWdaZUY0enpYdWgyaG11cUtxWnZzZw?oc=5\" target=\"_blank\">5 best dining experiences at GOLF's Top 100 Resorts |",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Yd28zRDR6NEdXVzVOSG1wSm52aVRscHZreDBXSGR1NnNXMW1tQ0RkVzU4b1lOMzdOcy0yVTJMcTRfR0N1QlJVbVIyMWFJaWRBa3JmWjE2UmtNdlBxbWdaZUY0enpYdWgyaG11cUtxWnZzZw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 21 Sep 2026 18:58:57 GMT",
-          "source": "GOLF.com"
-        }
-      ]
-    },
-    {
-      "id": "a3c460e67242",
-      "title": "San Diego tourism outperforms expectations in 2026 but concerns loom for hotel industry - cbs8.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHQ5ak1jbTJrM1cxYTJqN1RjWGxNSFNfU0pEQ19zMFMxQWcwQi1OVFAzQU40OFBRanhSbXdveVZ3ai1uSVBCSTQ0VGlaTjg2ZVpOcmJhSkdnOG1aN0VTQWlzd1Z5UnM2ekluLUJjX2xNbVVuclVDT1pmcVl5T095MEU5Ti1BZUtXNUlIWUxzZi04MWxxZzdxRFFDYzduOVI3bWJ2NjNfdkh1bk",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHQ5ak1jbTJrM1cxYTJqN1RjWGxNSFNfU0pEQ19zMFMxQWcwQi1OVFAzQU40OFBRanhSbXdveVZ3ai1uSVBCSTQ0VGlaTjg2ZVpOcmJhSkdnOG1aN0VTQWlzd1Z5UnM2ekluLUJjX2xNbVVuclVDT1pmcVl5T095MEU5Ti1BZUtXNUlIWUxzZi04MWxxZzdxRFFDYzduOVI3bWJ2NjNfdkh1bkdMYVdselVzVHBoYzdIQ0wyZjRpTzNkd29rcWsybzFPNkNIRnkxQjdtV2ZnclFkWk1LcTd6WWVQZC15Mmt2MndHdGlZbnprVlJnYW0wZg?oc=5",
+      "id": "7b8118bccfab",
+      "title": "Suzanne Reisler Litwin: The incredible travel concierge - TheSuburban.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOd3I1bnNDTl9QbG5qU1h2Z25RZlhZemUyODI4ODMyYzlObjdTcWpDZmZDaVI5UVpBczJlR2VudzczaHVwdFNZbXJwSEdTd2kzVUk4NzZFV1J3TTFSYUtFa3hFbEJzYUpxOG1Gc3BLaTlINS1GMlk0OXNUTWlWaVk5TGZtYkVPcnk3Rll3bWpXTldEbmxmTWl0UHdqdk1kNWJYSk1EbkdtcF94UV",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOd3I1bnNDTl9QbG5qU1h2Z25RZlhZemUyODI4ODMyYzlObjdTcWpDZmZDaVI5UVpBczJlR2VudzczaHVwdFNZbXJwSEdTd2kzVUk4NzZFV1J3TTFSYUtFa3hFbEJzYUpxOG1Gc3BLaTlINS1GMlk0OXNUTWlWaVk5TGZtYkVPcnk3Rll3bWpXTldEbmxmTWl0UHdqdk1kNWJYSk1EbkdtcF94UVVpYjlzSmdZYVFReDA5Yjhtdk5JV3JIVWhNaVlQb3paTVNYTkstY2E5dFc0bXVEeXFEWWZYR1JWM2FEeDg2eC1KUjZiZHBPUGg1V3l6RVM1Nlh2SHk5RFN5TkJ3Q1MzYnNVRXdZcXdB?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -322,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 04:37:00 GMT",
-          "source": "cbs8.com"
+          "published": "Mon, 21 Sep 2026 12:30:00 GMT",
+          "source": "TheSuburban.com"
         }
       ]
     },
     {
-      "id": "dfec0fe9aa6b",
-      "title": "US government tells Americans to ‘seriously reconsider’ travel to the Middle East - Yahoo News Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnRGLUh1V2d3b2ctVGJ2UVhOc0FtWlhpcjJGdWJzbVM0YjJ4RkZRTGtfOHZlRnZVdVFNckRzd3NMUnRaU2Y2cUJWa3NSQ0wyaEZNR3NnQWVIMDRQTkstWFRFRlIwWXVscW9TRW5RQmQwcWoySUNHbUMxaUxCM0tNbi02YWdaM1E?oc=5\" target=\"_blank\">US government tells Amer",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnRGLUh1V2d3b2ctVGJ2UVhOc0FtWlhpcjJGdWJzbVM0YjJ4RkZRTGtfOHZlRnZVdVFNckRzd3NMUnRaU2Y2cUJWa3NSQ0wyaEZNR3NnQWVIMDRQTkstWFRFRlIwWXVscW9TRW5RQmQwcWoySUNHbUMxaUxCM0tNbi02YWdaM1E?oc=5",
+      "id": "891656b6326d",
+      "title": "At least four killed as Typhoon Dujuan hits Japan - aljazeera.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQeTFMUzhZa3ROWVllRWt6VDVWVVVPUlFaTmNNejV6dG44X2pOUFhITEttQ2dmUHdZcTdTTThQRkdXNjR6T1V1VnlYNzFRS2xjb1M2d21hY3BaVUc0WGhWVGkzVVBhQWsxZV9FeEVWU2RJbDlxV0xycDgxNTF6ZDdVOElxTEJSSWp1Zm9WOW4wbzJjM2c4U0wwSXVPZ3BwazExcUZLU084UExIZG",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeTFMUzhZa3ROWVllRWt6VDVWVVVPUlFaTmNNejV6dG44X2pOUFhITEttQ2dmUHdZcTdTTThQRkdXNjR6T1V1VnlYNzFRS2xjb1M2d21hY3BaVUc0WGhWVGkzVVBhQWsxZV9FeEVWU2RJbDlxV0xycDgxNTF6ZDdVOElxTEJSSWp1Zm9WOW4wbzJjM2c4U0wwSXVPZ3BwazExcUZLU084UExIZGU2TWfSAbMBQVVfeXFMT2JIWi1ycG9yY3J5VUlNd1hUVnEyeWtNV25YMzNGZVpNdzB2X19fcVhGeWVrcU5OVnNFazNpU2VXajJwMlJmOUtDVkQ4bjBGNUVMZGYzSGhfVkRKWU9YNFkwWUFVVFpLYUJOZmFkTmh3MUpzN2E5WU9tUG4tQmNzLTNhVGdYMC03LTNFNThRUERETk94VGVaNzdoSTRYM1NlMC1nU0Z0aUc5RjdVaVBXQ2FzRjA?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -342,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 10:03:57 GMT",
-          "source": "Yahoo News Canada"
+          "published": "Tue, 22 Sep 2026 06:55:05 GMT",
+          "source": "aljazeera.com"
         }
       ]
     },
     {
-      "id": "db98e2ee5fdb",
-      "title": "Get away to fun BC destinations with Pacific Coastal Airlines' Super Promo - Castanet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWFNUlJHdklwVVU2WXg4Rml4a1ZHS1J1S2t1WTNOUE1WOGd0WjRJMEE2OTRBZ0x0S2J0QWpqZ0I2Z3N6NWJlc2p6RXJYVkVlWWx4MnI3Sy13RDhKdFg1bllkZlFXZGhqd1IyRW9KYi1OMGUyNG9vQ3NGbWx1NlJSSEVHQXhSeWs2bkhwdGxjdk9Velo5VUtGYmMzNlJlTzJROUdZaF9UQWZKUn",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWFNUlJHdklwVVU2WXg4Rml4a1ZHS1J1S2t1WTNOUE1WOGd0WjRJMEE2OTRBZ0x0S2J0QWpqZ0I2Z3N6NWJlc2p6RXJYVkVlWWx4MnI3Sy13RDhKdFg1bllkZlFXZGhqd1IyRW9KYi1OMGUyNG9vQ3NGbWx1NlJSSEVHQXhSeWs2bkhwdGxjdk9Velo5VUtGYmMzNlJlTzJROUdZaF9UQWZKUnJJbDNyQjZ3SnVwQzcxSFQ0QUEzNA?oc=5",
+      "id": "856f26b7fe8b",
+      "title": "Repeat Nats failures draw regulatory scrutiny to travel cover - Insurance Business",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYmlaUzNFZkp2YXhrb1JaemdxX2R6TGRwYTJiRjNLeWpCQjM2aVBscnFTald0ZDhPR0hlZFJBaW5WOW4tUHlzT25nQktXOEVGMEJPLVFvdzNGODJ2ekhyUE51QWJMb05Sb1gtR3ZaYUwxeC1WNlhaeWRoSjVlNVJ2YnZSOGpkX3JWQkE5OFRaSEJ4NllFNUJUWmlNVDZUSVAzdFMxcXZkek5CM3",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYmlaUzNFZkp2YXhrb1JaemdxX2R6TGRwYTJiRjNLeWpCQjM2aVBscnFTald0ZDhPR0hlZFJBaW5WOW4tUHlzT25nQktXOEVGMEJPLVFvdzNGODJ2ekhyUE51QWJMb05Sb1gtR3ZaYUwxeC1WNlhaeWRoSjVlNVJ2YnZSOGpkX3JWQkE5OFRaSEJ4NllFNUJUWmlNVDZUSVAzdFMxcXZkek5CM3VSQVB5eVdMUlg3Qm9SOWMyY2pabGFZQ3c?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -362,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 19:01:00 GMT",
-          "source": "Castanet"
+          "published": "Tue, 22 Sep 2026 09:44:37 GMT",
+          "source": "Insurance Business"
         }
       ]
     },
     {
-      "id": "a8b5e14ab0c9",
-      "title": "On Location: AIC honours rock star travel advisors at Showstopper Awards in Punta Cana - PAX News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNalp3UEg3REk0NzZQY3I1Q2VXV3RjX010elVKc3BqZnlrdmJfR2JnOUlkRGtKM1FadkhGSmlDaGpKaUpyVVJmMVBZLU1rN3h0ZTZyM211Q3AxdW9JZVQwcXpaUHZnZkdQVmpLUFZnMTB5QnJTQk5kNWdnXzV0dWJOVExUZGlhOWQ5MEhSMXpkal8xUGo1eU45V2xHVXJ6UXdkdk9nellGaC1OU1",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNalp3UEg3REk0NzZQY3I1Q2VXV3RjX010elVKc3BqZnlrdmJfR2JnOUlkRGtKM1FadkhGSmlDaGpKaUpyVVJmMVBZLU1rN3h0ZTZyM211Q3AxdW9JZVQwcXpaUHZnZkdQVmpLUFZnMTB5QnJTQk5kNWdnXzV0dWJOVExUZGlhOWQ5MEhSMXpkal8xUGo1eU45V2xHVXJ6UXdkdk9nellGaC1OU1Jo?oc=5",
+      "id": "ee433512f4be",
+      "title": "The Eco-Tourism Projects Turning Fishermen and Poachers into Environmental Guardians - Condé Nast Traveler",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHRyYU45ZUh1OENrQ2pYcF9vdzF6elhLcEFtRVpaSDFkM3RFa0dibVJ6elBVdEdtNFpYa2JGWWVkRWhnVnJfalZ1bUFBWHFvRlJzM2FzSzc5M2c5MzdUVnFiVjBUT2pqVVNPYkxlUTAtVjB3dUpLTURzT1U1QkY1dzFLR3FKdG9WVVVZTkN1OTliRUFKS2c?oc=5\" target=\"_blank\">The ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHRyYU45ZUh1OENrQ2pYcF9vdzF6elhLcEFtRVpaSDFkM3RFa0dibVJ6elBVdEdtNFpYa2JGWWVkRWhnVnJfalZ1bUFBWHFvRlJzM2FzSzc5M2c5MzdUVnFiVjBUT2pqVVNPYkxlUTAtVjB3dUpLTURzT1U1QkY1dzFLR3FKdG9WVVVZTkN1OTliRUFKS2c?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -382,11 +378,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-09-22T04:45:19+00:00",
+      "first_seen": "2026-09-22T11:28:34+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 01:00:26 GMT",
-          "source": "PAX News"
+          "published": "Tue, 22 Sep 2026 09:00:00 GMT",
+          "source": "Condé Nast Traveler"
+        }
+      ]
+    },
+    {
+      "id": "dec32d4a8de1",
+      "title": "Foreign visitors drive gains in Greek tourism in July - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlBYbmVXekFTaEJlY1FSWDhUeHZRQnVKQVVXRUhKR0JtOFl1NG9xT2pXRjQ4b3pVaHV3Si1UOFY1R0YzdnRrekFMTVlnNG9BRTg5eGVFSHZlY1lLNEhmbjRXRGNLUFJQSkdFRmVBZE5mV21ublNmcEdjQUlrNExxWTdOWFROTGVnSVBkWllfVUkyLTZzWHhnUHBORmw?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlBYbmVXekFTaEJlY1FSWDhUeHZRQnVKQVVXRUhKR0JtOFl1NG9xT2pXRjQ4b3pVaHV3Si1UOFY1R0YzdnRrekFMTVlnNG9BRTg5eGVFSHZlY1lLNEhmbjRXRGNLUFJQSkdFRmVBZE5mV21ublNmcEdjQUlrNExxWTdOWFROTGVnSVBkWllfVUkyLTZzWHhnUHBORmw?oc=5",
+      "score": 21.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-09-22T11:28:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 09:58:57 GMT",
+          "source": "Euronews.com"
         }
       ]
     }

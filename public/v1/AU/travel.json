@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "AU",
-  "generated_at": "2026-09-22T04:54:12+00:00",
+  "generated_at": "2026-09-22T11:37:29+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "4febefd30286",
-      "title": "Virgin Australia backs business travel growth, rebrands corporate travel offering - Virgin Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFUwd051TjRwckNWYk1DTG5KT25kZ2wya0RMNHNhdXg5VzBDNE9MY0Y0aEpRcmFYR2NIMld4VHFDbWZWd19rZXdyM2xIam9VQU44MTZoMmlXSEtRUlVZckVQTG5zcjVnUzR2YWN0bVdDY19OT3RLU192cC1oeUdSTW9qdWxmM3NlRGpMX1EtMHZLaktXby1wdHVkOVk5OTg4UFVaUC1UTVRoZw",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFUwd051TjRwckNWYk1DTG5KT25kZ2wya0RMNHNhdXg5VzBDNE9MY0Y0aEpRcmFYR2NIMld4VHFDbWZWd19rZXdyM2xIam9VQU44MTZoMmlXSEtRUlVZckVQTG5zcjVnUzR2YWN0bVdDY19OT3RLU192cC1oeUdSTW9qdWxmM3NlRGpMX1EtMHZLaktXby1wdHVkOVk5OTg4UFVaUC1UTVRoZw?oc=5",
+      "id": "cf519db41c60",
+      "title": "International tourism has not stopped growing, but that growth is 'fragile' | CAPA - Centre for Aviation - routesonline.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaGR1RzFGanBuYXFYdGF1NXdmZUdjdzl6X3ppWVlpdlFxWUNjNkdaS1F2TEdEQ1JVeTJzRFl2Q0tISEZ3RFJ2Y0RGVkd0WFpKNG1HRUxMSEczalRUNV9xMkNUZG1mN3NvM2tCTG50Q2x2UnNMc3Y3UWtiMEJqaXRMd2t6bExLVGFnVVM4dVI4V01RMW1zYTktVHQ5MUlkUGZmcW1XSGRaUmVJTn",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaGR1RzFGanBuYXFYdGF1NXdmZUdjdzl6X3ppWVlpdlFxWUNjNkdaS1F2TEdEQ1JVeTJzRFl2Q0tISEZ3RFJ2Y0RGVkd0WFpKNG1HRUxMSEczalRUNV9xMkNUZG1mN3NvM2tCTG50Q2x2UnNMc3Y3UWtiMEJqaXRMd2t6bExLVGFnVVM4dVI4V01RMW1zYTktVHQ5MUlkUGZmcW1XSGRaUmVJTndrZDZZdXhFT2ZVZWl4VHFHZ0ZFQTFCU0FkS0xtVEVIRlNCVkZQdi1zVnJ2YThqLUlBREItQVJXekxtb2JvQlJnRjEzQQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 09:34:00 GMT",
+          "source": "routesonline.com"
+        }
+      ]
+    },
+    {
+      "id": "4febefd30286",
+      "title": "Virgin Australia backs business travel growth, rebrands corporate travel offering - Virgin Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFUwd051TjRwckNWYk1DTG5KT25kZ2wya0RMNHNhdXg5VzBDNE9MY0Y0aEpRcmFYR2NIMld4VHFDbWZWd19rZXdyM2xIam9VQU44MTZoMmlXSEtRUlVZckVQTG5zcjVnUzR2YWN0bVdDY19OT3RLU192cC1oeUdSTW9qdWxmM3NlRGpMX1EtMHZLaktXby1wdHVkOVk5OTg4UFVaUC1UTVRoZw",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFUwd051TjRwckNWYk1DTG5KT25kZ2wya0RMNHNhdXg5VzBDNE9MY0Y0aEpRcmFYR2NIMld4VHFDbWZWd19rZXdyM2xIam9VQU44MTZoMmlXSEtRUlVZckVQTG5zcjVnUzR2YWN0bVdDY19OT3RLU192cC1oeUdSTW9qdWxmM3NlRGpMX1EtMHZLaktXby1wdHVkOVk5OTg4UFVaUC1UTVRoZw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 00:15:16 GMT",
@@ -27,18 +47,38 @@
       ]
     },
     {
-      "id": "b37785ae0d62",
-      "title": "Tourism stakeholders combine to advise that new Working Holiday Maker policy will cripple the industry - Australasian Leisure Management Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXNUYTlTUDZ6b3FwSzhJUTdMUXplcEV5SllOMlQzdTdnd1NrcTV0N3lUZ3VWYTc1ZzQtRFdrVEp1OFhYcXFoWkpUaEptTTlscEdLbmpVbEV1VDVMTHpXdG05OUYwd3daU2JTbnpIMzNxbUdDVEZBUDFGejlDOHhyQjdJYU85ZXQ2S0dWZmVZaWY0QjBia3N1YmZ6WXRmbVhVVzN6SDdnSWhmdm",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXNUYTlTUDZ6b3FwSzhJUTdMUXplcEV5SllOMlQzdTdnd1NrcTV0N3lUZ3VWYTc1ZzQtRFdrVEp1OFhYcXFoWkpUaEptTTlscEdLbmpVbEV1VDVMTHpXdG05OUYwd3daU2JTbnpIMzNxbUdDVEZBUDFGejlDOHhyQjdJYU85ZXQ2S0dWZmVZaWY0QjBia3N1YmZ6WXRmbVhVVzN6SDdnSWhmdmxvUXBpN3VPblUzZTFtNW1rSWdJaUVKVFVNbDd2bkhaZkdXVVFUX3Zn?oc=5",
-      "score": 86.4,
+      "id": "bb6825911805",
+      "title": "Changing Travel Motivations Lead To 60+ Tourism Types - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkVCbkdSeU05SWhndVlaZW9ObzV6blpYSnhJajlKY1kxOEFyeFZ4Q2JVNm1lay02Vm40OTNiVG1UaTJraGM1WUxyaEt1cWJ0Nm55RUlGVi1BNjVNc05NT3pvbi01R1pvVk9lemdOTjRwb2JsLVFYMEFZVlpBWURjV1NEYnUzVjBsdEx6amFYbDNCV1p5cTVIaGZhV0taS1dmZ0R3aw?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkVCbkdSeU05SWhndVlaZW9ObzV6blpYSnhJajlKY1kxOEFyeFZ4Q2JVNm1lay02Vm40OTNiVG1UaTJraGM1WUxyaEt1cWJ0Nm55RUlGVi1BNjVNc05NT3pvbi01R1pvVk9lemdOTjRwb2JsLVFYMEFZVlpBWURjV1NEYnUzVjBsdEx6amFYbDNCV1p5cTVIaGZhV0taS1dmZ0R3aw?oc=5",
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 11:00:00 GMT",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "id": "b37785ae0d62",
+      "title": "Tourism stakeholders combine to advise that new Working Holiday Maker policy will cripple the industry - Australasian Leisure Management Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXNUYTlTUDZ6b3FwSzhJUTdMUXplcEV5SllOMlQzdTdnd1NrcTV0N3lUZ3VWYTc1ZzQtRFdrVEp1OFhYcXFoWkpUaEptTTlscEdLbmpVbEV1VDVMTHpXdG05OUYwd3daU2JTbnpIMzNxbUdDVEZBUDFGejlDOHhyQjdJYU85ZXQ2S0dWZmVZaWY0QjBia3N1YmZ6WXRmbVhVVzN6SDdnSWhmdm",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXNUYTlTUDZ6b3FwSzhJUTdMUXplcEV5SllOMlQzdTdnd1NrcTV0N3lUZ3VWYTc1ZzQtRFdrVEp1OFhYcXFoWkpUaEptTTlscEdLbmpVbEV1VDVMTHpXdG05OUYwd3daU2JTbnpIMzNxbUdDVEZBUDFGejlDOHhyQjdJYU85ZXQ2S0dWZmVZaWY0QjBia3N1YmZ6WXRmbVhVVzN6SDdnSWhmdmxvUXBpN3VPblUzZTFtNW1rSWdJaUVKVFVNbDd2bkhaZkdXVVFUX3Zn?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 00:55:39 GMT",
@@ -47,18 +87,38 @@
       ]
     },
     {
-      "id": "59df81460eab",
-      "title": "Tourism industry sounds alarm over ‘crippling’ working holiday visa changes - travelweekly.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPemE2eDZqcWN0NnRYUEN0aE0wNzNyZmloSWgyYTlkQzFQOHM5NC1pUVVMbVVKYTdGZDlNbHdKSnI5RnNTS3U2Y25veWZJQmRQT3pNVGN1RGVuUnpyal85ZTAyRlBEbVF2bXAwczRxWTBSVnVwMlc5SU85OTh6SjcxR1pvdDZwa2tKZFh0amp6dTVQZWZNVXFWZ1ZHRVpISUgzbmFFQw?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemE2eDZqcWN0NnRYUEN0aE0wNzNyZmloSWgyYTlkQzFQOHM5NC1pUVVMbVVKYTdGZDlNbHdKSnI5RnNTS3U2Y25veWZJQmRQT3pNVGN1RGVuUnpyal85ZTAyRlBEbVF2bXAwczRxWTBSVnVwMlc5SU85OTh6SjcxR1pvdDZwa2tKZFh0amp6dTVQZWZNVXFWZ1ZHRVpISUgzbmFFQw?oc=5",
-      "score": 82.8,
+      "id": "244be71fd15f",
+      "title": "First Chinese guides complete Wet Tropics course - Tropical North Queensland",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMEp6MlV0Y3ZIU2NEVEVjNF96ZGI2RmI0bUh2U3hUUU9vZWFMc2RvbTN5eEpqMWVRMHUzb2oycnBfblphVDJDOGVxNkxpRWZSaGhkNlVab1ItMW53cXR0Wmg4RjlYQjNoTHBYUWhFZlZGWWU0d21XWEhHYkVqeHpabGh4eU1zYmZMdi1yS0ExMEppZE9XRWpkQmY1ZmtmaDZqdWZDb2tNOFE?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMEp6MlV0Y3ZIU2NEVEVjNF96ZGI2RmI0bUh2U3hUUU9vZWFMc2RvbTN5eEpqMWVRMHUzb2oycnBfblphVDJDOGVxNkxpRWZSaGhkNlVab1ItMW53cXR0Wmg4RjlYQjNoTHBYUWhFZlZGWWU0d21XWEhHYkVqeHpabGh4eU1zYmZMdi1yS0ExMEppZE9XRWpkQmY1ZmtmaDZqdWZDb2tNOFE?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 08:01:54 GMT",
+          "source": "Tropical North Queensland"
+        }
+      ]
+    },
+    {
+      "id": "59df81460eab",
+      "title": "Tourism industry sounds alarm over ‘crippling’ working holiday visa changes - travelweekly.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPemE2eDZqcWN0NnRYUEN0aE0wNzNyZmloSWgyYTlkQzFQOHM5NC1pUVVMbVVKYTdGZDlNbHdKSnI5RnNTS3U2Y25veWZJQmRQT3pNVGN1RGVuUnpyal85ZTAyRlBEbVF2bXAwczRxWTBSVnVwMlc5SU85OTh6SjcxR1pvdDZwa2tKZFh0amp6dTVQZWZNVXFWZ1ZHRVpISUgzbmFFQw?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemE2eDZqcWN0NnRYUEN0aE0wNzNyZmloSWgyYTlkQzFQOHM5NC1pUVVMbVVKYTdGZDlNbHdKSnI5RnNTS3U2Y25veWZJQmRQT3pNVGN1RGVuUnpyal85ZTAyRlBEbVF2bXAwczRxWTBSVnVwMlc5SU85OTh6SjcxR1pvdDZwa2tKZFh0amp6dTVQZWZNVXFWZ1ZHRVpISUgzbmFFQw?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 01:17:48 GMT",
@@ -67,18 +127,38 @@
       ]
     },
     {
-      "id": "d8a762be9c52",
-      "title": "Cost of living pressures shape summer holiday planning as online travel audiences rise – Ipsos iris August data - Campaign Brief WA",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUEJ1R2Rzb0h3SjZoM2VKZ0h6alYtOUhOWWtON1pTVmNiM1h5d21nZlotS29od0RxRElFeUMyY0JmbW1xTDNkTEFlU1F2QjU1czhVODJpdVo2ZXZJMW5Uay1jeGVTck5EVmF0dnY2NjdDSi1CX1M1TDh3V1FZS0QxTm9xRUFkTTdoa016NXpPcy1xNVczUkJrUnZxQXhGUXR4X0ljOTQxaWtsam",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUEJ1R2Rzb0h3SjZoM2VKZ0h6alYtOUhOWWtON1pTVmNiM1h5d21nZlotS29od0RxRElFeUMyY0JmbW1xTDNkTEFlU1F2QjU1czhVODJpdVo2ZXZJMW5Uay1jeGVTck5EVmF0dnY2NjdDSi1CX1M1TDh3V1FZS0QxTm9xRUFkTTdoa016NXpPcy1xNVczUkJrUnZxQXhGUXR4X0ljOTQxaWtsamJDd1JUX1FvMXh0R0lCV3FzbHVtNG5XMGlDeE5Bb3g0OXU0aHJxb1F5bzVR?oc=5",
-      "score": 79.2,
+      "id": "c1b84fb4342b",
+      "title": "Bright Ideas in Travel 2026 - Condé Nast Traveler",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB3RzlyckJtTXJnWHFtbTFkZkRqM1k2VGdmOXJsMlVxMDVTNDZmdEN0eUwwQ0NMVTRSYVo1MUs5aXR3RkVxSUcxVkd1Z0k0WUwzRjhHMHRoZHdsNzhuMmRLYzR4cTZjVEJ6YUdzQw?oc=5\" target=\"_blank\">Bright Ideas in Travel 2026</a>&nbsp;&nbsp;<font color=\"#6f6f",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3RzlyckJtTXJnWHFtbTFkZkRqM1k2VGdmOXJsMlVxMDVTNDZmdEN0eUwwQ0NMVTRSYVo1MUs5aXR3RkVxSUcxVkd1Z0k0WUwzRjhHMHRoZHdsNzhuMmRLYzR4cTZjVEJ6YUdzQw?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 09:30:00 GMT",
+          "source": "Condé Nast Traveler"
+        }
+      ]
+    },
+    {
+      "id": "d8a762be9c52",
+      "title": "Cost of living pressures shape summer holiday planning as online travel audiences rise – Ipsos iris August data - Campaign Brief WA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUEJ1R2Rzb0h3SjZoM2VKZ0h6alYtOUhOWWtON1pTVmNiM1h5d21nZlotS29od0RxRElFeUMyY0JmbW1xTDNkTEFlU1F2QjU1czhVODJpdVo2ZXZJMW5Uay1jeGVTck5EVmF0dnY2NjdDSi1CX1M1TDh3V1FZS0QxTm9xRUFkTTdoa016NXpPcy1xNVczUkJrUnZxQXhGUXR4X0ljOTQxaWtsam",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUEJ1R2Rzb0h3SjZoM2VKZ0h6alYtOUhOWWtON1pTVmNiM1h5d21nZlotS29od0RxRElFeUMyY0JmbW1xTDNkTEFlU1F2QjU1czhVODJpdVo2ZXZJMW5Uay1jeGVTck5EVmF0dnY2NjdDSi1CX1M1TDh3V1FZS0QxTm9xRUFkTTdoa016NXpPcy1xNVczUkJrUnZxQXhGUXR4X0ljOTQxaWtsamJDd1JUX1FvMXh0R0lCV3FzbHVtNG5XMGlDeE5Bb3g0OXU0aHJxb1F5bzVR?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
           "published": "Mon, 21 Sep 2026 23:34:12 GMT",
@@ -88,89 +168,9 @@
     },
     {
       "id": "a221f6e22e31",
-      "title": "Travel + Leisure Co. Acquires Management Rights and Apartments at Auckland’s Barclay Suites - The Hotel Conversation",
+      "title": "Travel + Leisure Co. acquires management rights and apartments at Auckland’s Barclay Suites - The Hotel Conversation",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbC1EVWt4TDlydzdFclFNT0Z3VFNmSlJ6VENtZGd2RWFEbXNtSWZyXy1RcGpHNHlJUmhHbUZLbU9BVXdRVVhwcENRQWtkdG13S1V6MnRoRGtPMm5BT2JUUldzU2I1T05nLUhycTk1VXFPeXV6UC1WbDhYZ0VvSnlCeS04QW9nbzBSSk9Yam9WbWVFWGNVY1lDeGZiaUJZMERDUmpwZTNaQ0xnVT",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbC1EVWt4TDlydzdFclFNT0Z3VFNmSlJ6VENtZGd2RWFEbXNtSWZyXy1RcGpHNHlJUmhHbUZLbU9BVXdRVVhwcENRQWtkdG13S1V6MnRoRGtPMm5BT2JUUldzU2I1T05nLUhycTk1VXFPeXV6UC1WbDhYZ0VvSnlCeS04QW9nbzBSSk9Yam9WbWVFWGNVY1lDeGZiaUJZMERDUmpwZTNaQ0xnVTRBWUczcFpxN0w0M21PUzFDYS1HSFBPYkl5Zi1ST2c5UnlhOHR3ZGd6TXpOcUhRVVJUZjIxbDFn?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 01:37:35 GMT",
-          "source": "The Hotel Conversation"
-        }
-      ]
-    },
-    {
-      "id": "5a9582cd8c3f",
-      "title": "‘Feels like home’: Qantas taps Robert Irwin in tourism push - theaustralian.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNQXFrc0NDcHllOFVoVEQ1WGJBSkV4Rkl3SjVfTDJsRzBXMWJfNnlTQXAxX3FTc1VOYmhSd1lrcWFiWXAtNHBQUFBrZ2tPZ0RJTGQtM09TSWFqM0VLam5kdUxRS0hWYlhhcUU1cGxJR2I5cU9EbGRpeWxhc1o3b1RUdzZkWHBOZ2xmZ0RicE1DSFRDb013RzdIMC1nQUI0T2d4OXZLc0lIdVZtWG",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQXFrc0NDcHllOFVoVEQ1WGJBSkV4Rkl3SjVfTDJsRzBXMWJfNnlTQXAxX3FTc1VOYmhSd1lrcWFiWXAtNHBQUFBrZ2tPZ0RJTGQtM09TSWFqM0VLam5kdUxRS0hWYlhhcUU1cGxJR2I5cU9EbGRpeWxhc1o3b1RUdzZkWHBOZ2xmZ0RicE1DSFRDb013RzdIMC1nQUI0T2d4OXZLc0lIdVZtWGlWS0FKdXF5M1V3UUhiY0FyTXBnMlBCeEdWOTI0ZkVKN0ZIM0V0SFQ2UTZZMEJFYmY0UXVfejV2elktbHI4WmYxNy1xM1F3NUUySFhDVE5IaHozTDRIUkFMTTRZMVZrdFF3MmF5cWVn?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 01:58:33 GMT",
-          "source": "theaustralian.com.au"
-        }
-      ]
-    },
-    {
-      "id": "8e894754a10a",
-      "title": "Cabins support tourism - Geelong Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBtYWhZZE5RNEtoemdaOU92N1lVRVBuMTNfeW1paFJERkhzTmQ4YThGUGJMT1lsYXpSd0dxMmFORmVJaDNyMW41U21IeXNMQnlzUU9kTGp4UVNvVko3TDQyM3pRQjNINlROdl8waDBQNk9CaVZK?oc=5\" target=\"_blank\">Cabins support tourism</a>&nbsp;&nbsp;<font color=\"",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtYWhZZE5RNEtoemdaOU92N1lVRVBuMTNfeW1paFJERkhzTmQ4YThGUGJMT1lsYXpSd0dxMmFORmVJaDNyMW41U21IeXNMQnlzUU9kTGp4UVNvVko3TDQyM3pRQjNINlROdl8waDBQNk9CaVZK?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 00:00:45 GMT",
-          "source": "Geelong Independent"
-        }
-      ]
-    },
-    {
-      "id": "298fa63b1bd1",
-      "title": "Beyond the postcard: Two travel writers on the best of the Red Centre - SMH.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGlqZU43cGlHQUxxeFZIOUJ1cWpucERtNWJTb0pIQUZNSllrb3R4UV9QdmlOTWhzQ1lpVmlXTUFxOXREV1NaTWc0ZEdUQmxva2NHQXhPM0JnSE1Ydkp6aVVCcnROcGN2dlNNYlo2MFBNQm1YQm5JQmlmS2pUU1M1WG1kUXY4QzFPVWdROHQ0U01iY2w5cVFSUmFmbTN4UGRqQkpZZkd2am1yMj",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGlqZU43cGlHQUxxeFZIOUJ1cWpucERtNWJTb0pIQUZNSllrb3R4UV9QdmlOTWhzQ1lpVmlXTUFxOXREV1NaTWc0ZEdUQmxva2NHQXhPM0JnSE1Ydkp6aVVCcnROcGN2dlNNYlo2MFBNQm1YQm5JQmlmS2pUU1M1WG1kUXY4QzFPVWdROHQ0U01iY2w5cVFSUmFmbTN4UGRqQkpZZkd2am1yMjhwdk5XOW5ZTWpMQkJ3T0hyeWZ5MjEtU1FFNmpUay1vVVQ3TXM?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 21 Sep 2026 23:49:15 GMT",
-          "source": "SMH.com.au"
-        }
-      ]
-    },
-    {
-      "id": "cc197ddb82f2",
-      "title": "Pope Leo XIV to travel 19,000 miles on 14 flights during trip to Peru, Argentina, and Uruguay - The Catholic Weekly",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1sZUNrUG5GSDB5Q3Vib1AxTlNxd1hRbUhRR1kzMnhBbVRHNlI0TllCbkI5N3FTUE9uNi1vZ010NmRNcEFaOW05RUQ1U1BwM2lpdzAxZ1ZOTzRlcExXcWNILVdJcXVCTU5waDNmUW9HUQ?oc=5\" target=\"_blank\">Pope Leo XIV to travel 19,000 miles on 14 flights during ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sZUNrUG5GSDB5Q3Vib1AxTlNxd1hRbUhRR1kzMnhBbVRHNlI0TllCbkI5N3FTUE9uNi1vZ010NmRNcEFaOW05RUQ1U1BwM2lpdzAxZ1ZOTzRlcExXcWNILVdJcXVCTU5waDNmUW9HUQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,11 +178,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 23:50:26 GMT",
-          "source": "The Catholic Weekly"
+          "published": "Tue, 22 Sep 2026 01:37:35 GMT",
+          "source": "The Hotel Conversation"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
           "published": "Sun, 20 Sep 2026 20:00:49 GMT",
@@ -207,10 +207,10 @@
       ]
     },
     {
-      "id": "e43bd42c3a93",
-      "title": "Cost-of-living pressures push Australians into summer travel planning as online audiences rise: Ipsos - Mi-3.com.au.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW1fWHdEdXpqWkdCRGh6ZERyblRCQWpwNkVoNHI1SjZlUy0xYU9YcUxON3RIbVNRT0liVkV6a0FLRXh3SUpGS1RWMklkVUhQVUNlRVI3enNtUndmLVZvS0VWZFg3V0ViTzVlZWhkWEhkODFiUFFjdG9zbHY2VC1XNDdHb2hTaEtILVpXU1ZfeTI1WkhNaUs5dUlURFJ4bFJNdWYtbkV6RzNJTl",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW1fWHdEdXpqWkdCRGh6ZERyblRCQWpwNkVoNHI1SjZlUy0xYU9YcUxON3RIbVNRT0liVkV6a0FLRXh3SUpGS1RWMklkVUhQVUNlRVI3enNtUndmLVZvS0VWZFg3V0ViTzVlZWhkWEhkODFiUFFjdG9zbHY2VC1XNDdHb2hTaEtILVpXU1ZfeTI1WkhNaUs5dUlURFJ4bFJNdWYtbkV6RzNJTllkOTdKQ2NWdHN3X1E0dmc?oc=5",
+      "id": "d72320c1f72f",
+      "title": "‘Feels like home’: Qantas taps Robert Irwin in tourism push - The Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNQXFrc0NDcHllOFVoVEQ1WGJBSkV4Rkl3SjVfTDJsRzBXMWJfNnlTQXAxX3FTc1VOYmhSd1lrcWFiWXAtNHBQUFBrZ2tPZ0RJTGQtM09TSWFqM0VLam5kdUxRS0hWYlhhcUU1cGxJR2I5cU9EbGRpeWxhc1o3b1RUdzZkWHBOZ2xmZ0RicE1DSFRDb013RzdIMC1nQUI0T2d4OXZLc0lIdVZtWG",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQXFrc0NDcHllOFVoVEQ1WGJBSkV4Rkl3SjVfTDJsRzBXMWJfNnlTQXAxX3FTc1VOYmhSd1lrcWFiWXAtNHBQUFBrZ2tPZ0RJTGQtM09TSWFqM0VLam5kdUxRS0hWYlhhcUU1cGxJR2I5cU9EbGRpeWxhc1o3b1RUdzZkWHBOZ2xmZ0RicE1DSFRDb013RzdIMC1nQUI0T2d4OXZLc0lIdVZtWGlWS0FKdXF5M1V3UUhiY0FyTXBnMlBCeEdWOTI0ZkVKN0ZIM0V0SFQ2UTZZMEJFYmY0UXVfejV2elktbHI4WmYxNy1xM1F3NUUySFhDVE5IaHozTDRIUkFMTTRZMVZrdFF3MmF5cWVn?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 00:52:10 GMT",
-          "source": "Mi-3.com.au."
+          "published": "Tue, 22 Sep 2026 01:53:47 GMT",
+          "source": "The Australian"
         }
       ]
     },
     {
-      "id": "53c0218a5ed9",
-      "title": "Virgin Australia Corporate Travel launches for big spenders - Karryon",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTVYZG5NS3ZsZkotLTNnM0tQbHZhWWV5Q1g2S0ZnbHZZSnk1YmdSUkVweEdSeXdzWHQxeVhicmpQSEV1Y0tiWXZTSVFPT2ZsMjNGVWpXSHB4NEoxUkU4ZVJ4cmNKaWNKcXBnU3pSNm1DX0xKQUtxa04tUl9VMjVhenJQbFJPYlJoRTNF?oc=5\" target=\"_blank\">Virgin Australia Co",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTVYZG5NS3ZsZkotLTNnM0tQbHZhWWV5Q1g2S0ZnbHZZSnk1YmdSUkVweEdSeXdzWHQxeVhicmpQSEV1Y0tiWXZTSVFPT2ZsMjNGVWpXSHB4NEoxUkU4ZVJ4cmNKaWNKcXBnU3pSNm1DX0xKQUtxa04tUl9VMjVhenJQbFJPYlJoRTNF?oc=5",
+      "id": "8e894754a10a",
+      "title": "Cabins support tourism - Geelong Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBtYWhZZE5RNEtoemdaOU92N1lVRVBuMTNfeW1paFJERkhzTmQ4YThGUGJMT1lsYXpSd0dxMmFORmVJaDNyMW41U21IeXNMQnlzUU9kTGp4UVNvVko3TDQyM3pRQjNINlROdl8waDBQNk9CaVZK?oc=5\" target=\"_blank\">Cabins support tourism</a>&nbsp;&nbsp;<font color=\"",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtYWhZZE5RNEtoemdaOU92N1lVRVBuMTNfeW1paFJERkhzTmQ4YThGUGJMT1lsYXpSd0dxMmFORmVJaDNyMW41U21IeXNMQnlzUU9kTGp4UVNvVko3TDQyM3pRQjNINlROdl8waDBQNk9CaVZK?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 00:15:08 GMT",
-          "source": "Karryon"
+          "published": "Tue, 22 Sep 2026 00:00:45 GMT",
+          "source": "Geelong Independent"
         }
       ]
     },
     {
-      "id": "73cada4231ae",
-      "title": "Princess Charlotte Joins a High-Level Travel Netball Team That Competes Across the Country - graziamagazine.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUVNjMGdpM09xNDVyTndyUFRubk1rbUJrM3B2YU9wMmhiaTE1dVczNVJqZTN0Y0VsQklQek93bVA1dUZpNFVtNnVQYURfOGl3ZFlqMHBHV2lRZXJSbFdBNXNDZl9xTTJSUWdiZ19XUFRJMGdXZkVIRlFLRGkxaVdiRjg4MHZ2RkVteWdJQmk1UEpWTTd2STdSRnQ3NHJEcTZWQzlzaW9tdnZQRm",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUVNjMGdpM09xNDVyTndyUFRubk1rbUJrM3B2YU9wMmhiaTE1dVczNVJqZTN0Y0VsQklQek93bVA1dUZpNFVtNnVQYURfOGl3ZFlqMHBHV2lRZXJSbFdBNXNDZl9xTTJSUWdiZ19XUFRJMGdXZkVIRlFLRGkxaVdiRjg4MHZ2RkVteWdJQmk1UEpWTTd2STdSRnQ3NHJEcTZWQzlzaW9tdnZQRm9ubXlOeFdvWGJ6N3BoZkJINEhObkJJajZjRm1TOFdRaGR6Zm1XQUE?oc=5",
+      "id": "298fa63b1bd1",
+      "title": "Beyond the postcard: Two travel writers on the best of the Red Centre - SMH.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGlqZU43cGlHQUxxeFZIOUJ1cWpucERtNWJTb0pIQUZNSllrb3R4UV9QdmlOTWhzQ1lpVmlXTUFxOXREV1NaTWc0ZEdUQmxva2NHQXhPM0JnSE1Ydkp6aVVCcnROcGN2dlNNYlo2MFBNQm1YQm5JQmlmS2pUU1M1WG1kUXY4QzFPVWdROHQ0U01iY2w5cVFSUmFmbTN4UGRqQkpZZkd2am1yMj",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGlqZU43cGlHQUxxeFZIOUJ1cWpucERtNWJTb0pIQUZNSllrb3R4UV9QdmlOTWhzQ1lpVmlXTUFxOXREV1NaTWc0ZEdUQmxva2NHQXhPM0JnSE1Ydkp6aVVCcnROcGN2dlNNYlo2MFBNQm1YQm5JQmlmS2pUU1M1WG1kUXY4QzFPVWdROHQ0U01iY2w5cVFSUmFmbTN4UGRqQkpZZkd2am1yMjhwdk5XOW5ZTWpMQkJ3T0hyeWZ5MjEtU1FFNmpUay1vVVQ3TXM?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +258,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 00:13:17 GMT",
-          "source": "graziamagazine.com"
+          "published": "Mon, 21 Sep 2026 23:49:15 GMT",
+          "source": "SMH.com.au"
         }
       ]
     },
     {
-      "id": "cf06f467995f",
-      "title": "Sean McVay pokes fun at himself for Rams' Australia travel plans - espn.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTWFaMElpdEVucTdCQUtNZFpTX0drSm1ma29lcFd0czVtQTl3YlFGT21UOHloVWJVdC1uQmtkaWlGSXhXUndKQWZuUV9zU0ZOaG01Qy1LcVU3dHlkT2NLRkcxVXE3bFhTQS1XMzQxMTdMbW5odWpRZGhBR3pyTFBYZkJzb2pyeTNoNFhpaVNQeUF2YWVtSjIyNlJkMFhsUQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWFaMElpdEVucTdCQUtNZFpTX0drSm1ma29lcFd0czVtQTl3YlFGT21UOHloVWJVdC1uQmtkaWlGSXhXUndKQWZuUV9zU0ZOaG01Qy1LcVU3dHlkT2NLRkcxVXE3bFhTQS1XMzQxMTdMbW5odWpRZGhBR3pyTFBYZkJzb2pyeTNoNFhpaVNQeUF2YWVtSjIyNlJkMFhsUQ?oc=5",
+      "id": "cc197ddb82f2",
+      "title": "Pope Leo XIV to travel 19,000 miles on 14 flights during trip to Peru, Argentina, and Uruguay - The Catholic Weekly",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1sZUNrUG5GSDB5Q3Vib1AxTlNxd1hRbUhRR1kzMnhBbVRHNlI0TllCbkI5N3FTUE9uNi1vZ010NmRNcEFaOW05RUQ1U1BwM2lpdzAxZ1ZOTzRlcExXcWNILVdJcXVCTU5waDNmUW9HUQ?oc=5\" target=\"_blank\">Pope Leo XIV to travel 19,000 miles on 14 flights during ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sZUNrUG5GSDB5Q3Vib1AxTlNxd1hRbUhRR1kzMnhBbVRHNlI0TllCbkI5N3FTUE9uNi1vZ010NmRNcEFaOW05RUQ1U1BwM2lpdzAxZ1ZOTzRlcExXcWNILVdJcXVCTU5waDNmUW9HUQ?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 04:16:53 GMT",
-          "source": "espn.com.au"
+          "published": "Mon, 21 Sep 2026 23:50:31 GMT",
+          "source": "The Catholic Weekly"
         }
       ]
     },
     {
-      "id": "6df386aff0b2",
-      "title": "There’s a special reason guests keep returning to this unique Sydney hotel - WAtoday",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2xpY0VMbjFPd0Q3SmdMdTAweFpVS19BbHFyS05kOEJPaXVPWlBlYXk1U0NHSmhTLVJhT0cyMFRBUmI4d3dvOVdYVWNrQUJEREs2UEo3NUYtMVZsZmRENGpNMG9XbnVCQzdCM2hKRjVHRzJjRWx1M2k0S2ZIT1FqcDhobWNRWU96WU5VWU9VZXdrT1F1c2k5Tmt1eVFIb3BfVUJxdjVQWXppc1",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2xpY0VMbjFPd0Q3SmdMdTAweFpVS19BbHFyS05kOEJPaXVPWlBlYXk1U0NHSmhTLVJhT0cyMFRBUmI4d3dvOVdYVWNrQUJEREs2UEo3NUYtMVZsZmRENGpNMG9XbnVCQzdCM2hKRjVHRzJjRWx1M2k0S2ZIT1FqcDhobWNRWU96WU5VWU9VZXdrT1F1c2k5Tmt1eVFIb3BfVUJxdjVQWXppc1p5S05yWTFvdjRreFdHZHFYVFFfb2xPUnp0RWhzSnA2UDdoZEIxWEktdEFGTVJOTVo4SWZXSk1ERjd0Zw?oc=5",
+      "id": "b4cea3558812",
+      "title": "Sean McVay pokes fun at himself for Rams' Australia travel plans - ESPN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTWFaMElpdEVucTdCQUtNZFpTX0drSm1ma29lcFd0czVtQTl3YlFGT21UOHloVWJVdC1uQmtkaWlGSXhXUndKQWZuUV9zU0ZOaG01Qy1LcVU3dHlkT2NLRkcxVXE3bFhTQS1XMzQxMTdMbW5odWpRZGhBR3pyTFBYZkJzb2pyeTNoNFhpaVNQeUF2YWVtSjIyNlJkMFhsUQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWFaMElpdEVucTdCQUtNZFpTX0drSm1ma29lcFd0czVtQTl3YlFGT21UOHloVWJVdC1uQmtkaWlGSXhXUndKQWZuUV9zU0ZOaG01Qy1LcVU3dHlkT2NLRkcxVXE3bFhTQS1XMzQxMTdMbW5odWpRZGhBR3pyTFBYZkJzb2pyeTNoNFhpaVNQeUF2YWVtSjIyNlJkMFhsUQ?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 19:00:00 GMT",
-          "source": "WAtoday"
+          "published": "Tue, 22 Sep 2026 04:16:53 GMT",
+          "source": "ESPN"
         }
       ]
     },
     {
-      "id": "cfe9220329ac",
-      "title": "Credit card travel insurance changes: what to know - RACV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnJSOFQ4OG5YeC12NGxmZ1ZBTU1RNmVQYm01eExnbWs4a3BEQmdyWlJURkRHbF9PMzlRRml3dUdWb0hYclQtRVU5VDhmakNaUXJSUFMzelEyWVA0UXdxd1I2Z3l6RFhDUTN2THBaYkpHUlNELU9nTnhFZFNWS2NDWEJQQlJYZ1F1ZUF5c04zdXlUVjNvLWUxUUpxS00?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnJSOFQ4OG5YeC12NGxmZ1ZBTU1RNmVQYm01eExnbWs4a3BEQmdyWlJURkRHbF9PMzlRRml3dUdWb0hYclQtRVU5VDhmakNaUXJSUFMzelEyWVA0UXdxd1I2Z3l6RFhDUTN2THBaYkpHUlNELU9nTnhFZFNWS2NDWEJQQlJYZ1F1ZUF5c04zdXlUVjNvLWUxUUpxS00?oc=5",
+      "id": "78e6f2aa24f0",
+      "title": "Amsterdam no longer spends on marketing, and the city is not alone - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmZtVm5ZOEQwaHpCZC1RMmYwYlh3WE1sTF82VHNDVlpWSHZEaVVoVEV0NWdvZ283b012R2c3TFNWRDdQMmxuT0RqemYwVG9JYXFTcmxSNGRkUFNmSmlTMmlhR3dKdnR1YVgwLTUwZVBmMUdfYXEwVlZyRmNVbTJTNEJ4N3E4dzFBMWhtZld5XzAyODFuWXRRZENGYWJ2SnhMQUg1ekpyZWhXWk",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmZtVm5ZOEQwaHpCZC1RMmYwYlh3WE1sTF82VHNDVlpWSHZEaVVoVEV0NWdvZ283b012R2c3TFNWRDdQMmxuT0RqemYwVG9JYXFTcmxSNGRkUFNmSmlTMmlhR3dKdnR1YVgwLTUwZVBmMUdfYXEwVlZyRmNVbTJTNEJ4N3E4dzFBMWhtZld5XzAyODFuWXRRZENGYWJ2SnhMQUg1ekpyZWhXWkJr?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,71 +318,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 10:19:06 GMT",
-          "source": "RACV"
-        }
-      ]
-    },
-    {
-      "id": "c93934c9c544",
-      "title": "K'gari resort set to be sold to US travel giant - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY29wMFktb0htRjFQMzNYSU5wVGFKNGVkUG1QbW9ZMzdiTzRYQUZWM2djT0tzb2JPY3FZa0ZXWWVaekc4dkhVVnJJR3BzYTdLd0p6eTRzXzRvaklEWUlfaDNKM01GT1pnMlk4UnRLcWNVUWlZUUNyU2R4anBrQ0pkNk1IYjRpS0E5X0ZEMWx2dHBXMlIxZXo0OWcwOE9SSlNwa3pkMERYQlpveT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY29wMFktb0htRjFQMzNYSU5wVGFKNGVkUG1QbW9ZMzdiTzRYQUZWM2djT0tzb2JPY3FZa0ZXWWVaekc4dkhVVnJJR3BzYTdLd0p6eTRzXzRvaklEWUlfaDNKM01GT1pnMlk4UnRLcWNVUWlZUUNyU2R4anBrQ0pkNk1IYjRpS0E5X0ZEMWx2dHBXMlIxZXo0OWcwOE9SSlNwa3pkMERYQlpveTg?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 18 Sep 2026 00:22:28 GMT",
+          "published": "Sun, 20 Sep 2026 05:09:20 GMT",
           "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        }
-      ]
-    },
-    {
-      "id": "12167f9e572c",
-      "title": "China travel boom triggers flight expansion as Sydney locks in new international airline - The Canberra Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONnlaREM0S0hSUUNwdFRBdnlKa0MxQUttcHVqamRCZno4MUFfejg0SlQtM19SSGttS0J2Skd2LUwyUjBlUTFBYnhvYWtKMFpDOXpWUnA3SXg0RURzaDFPZ3VjYlZqSEZUczJqTkJvZFp6R3IwX01JZTlJYVFla0h2N1BDMHFiVGt5V3I2VE93bGhYZ1pqaGpGaFJtVFZfWGc5MTlsT1YtTkliZl",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONnlaREM0S0hSUUNwdFRBdnlKa0MxQUttcHVqamRCZno4MUFfejg0SlQtM19SSGttS0J2Skd2LUwyUjBlUTFBYnhvYWtKMFpDOXpWUnA3SXg0RURzaDFPZ3VjYlZqSEZUczJqTkJvZFp6R3IwX01JZTlJYVFla0h2N1BDMHFiVGt5V3I2VE93bGhYZ1pqaGpGaFJtVFZfWGc5MTlsT1YtTkliZldF?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 21 Sep 2026 22:01:06 GMT",
-          "source": "The Canberra Times"
-        }
-      ]
-    },
-    {
-      "id": "b4ceb0a4abd2",
-      "title": "Travelmarvel launches first solo departures with European sailings - travelweekly.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzlmX2J6VVVZcHc3MGNVQkh6WlFYNDJKeXlVZU9PeDFndVBYM2Q4RnMyUXlYcEY1TjZMU1VhTGRBRVB1a1NLSG1KR2x1YVdIdlY1WTRRVzdDeVV3eEU2QU9JeG9TMU1IcjlkYXlXbEplSUFhS2Vicy0zU2lSRDhzWFBlVXI1Z2piS1l2N0JBUTFjSHZ0c0o5UUlGZw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzlmX2J6VVVZcHc3MGNVQkh6WlFYNDJKeXlVZU9PeDFndVBYM2Q4RnMyUXlYcEY1TjZMU1VhTGRBRVB1a1NLSG1KR2x1YVdIdlY1WTRRVzdDeVV3eEU2QU9JeG9TMU1IcjlkYXlXbEplSUFhS2Vicy0zU2lSRDhzWFBlVXI1Z2piS1l2N0JBUTFjSHZ0c0o5UUlGZw?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 02:14:20 GMT",
-          "source": "travelweekly.com.au"
         }
       ]
     },
@@ -391,6 +331,66 @@
       "title": "Hawaiʻi Tourism Oceania’s mini-series reaches halfway point - travelweekly.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkRHM2FOcmRCWkRvbjgzQXJyTFNycHhEQno3ZUMxazRBMTMxZDJBYThJU2x3SFJSNDJyMTVMWGczTVN2NHZ6RzQ1S05DV3hJMldPLUJya212ay1ITHkwRG5xTXhNaU5JcVVxM3RRcDlPZmJhbUgteGNQelpOLVQ5TjFKOVhudlZNWnl3R0pBMVZjazExREVz?oc=5\" target=\"_blank\">Haw",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkRHM2FOcmRCWkRvbjgzQXJyTFNycHhEQno3ZUMxazRBMTMxZDJBYThJU2x3SFJSNDJyMTVMWGczTVN2NHZ6RzQ1S05DV3hJMldPLUJya212ay1ITHkwRG5xTXhNaU5JcVVxM3RRcDlPZmJhbUgteGNQelpOLVQ5TjFKOVhudlZNWnl3R0pBMVZjazExREVz?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-22T11:28:35+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 00:27:52 GMT",
+          "source": "travelweekly.com.au"
+        }
+      ]
+    },
+    {
+      "id": "343356d1abed",
+      "title": "The Eco-Tourism Projects Turning Fishermen and Poachers into Environmental Guardians - Condé Nast Traveler",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHRyYU45ZUh1OENrQ2pYcF9vdzF6elhLcEFtRVpaSDFkM3RFa0dibVJ6elBVdEdtNFpYa2JGWWVkRWhnVnJfalZ1bUFBWHFvRlJzM2FzSzc5M2c5MzdUVnFiVjBUT2pqVVNPYkxlUTAtVjB3dUpLTURzT1U1QkY1dzFLR3FKdG9WVVVZTkN1OTliRUFKS2c?oc=5\" target=\"_blank\">The ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHRyYU45ZUh1OENrQ2pYcF9vdzF6elhLcEFtRVpaSDFkM3RFa0dibVJ6elBVdEdtNFpYa2JGWWVkRWhnVnJfalZ1bUFBWHFvRlJzM2FzSzc5M2c5MzdUVnFiVjBUT2pqVVNPYkxlUTAtVjB3dUpLTURzT1U1QkY1dzFLR3FKdG9WVVVZTkN1OTliRUFKS2c?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-22T11:28:35+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 09:00:00 GMT",
+          "source": "Condé Nast Traveler"
+        }
+      ]
+    },
+    {
+      "id": "c93934c9c544",
+      "title": "K'gari resort set to be sold to US travel giant - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY29wMFktb0htRjFQMzNYSU5wVGFKNGVkUG1QbW9ZMzdiTzRYQUZWM2djT0tzb2JPY3FZa0ZXWWVaekc4dkhVVnJJR3BzYTdLd0p6eTRzXzRvaklEWUlfaDNKM01GT1pnMlk4UnRLcWNVUWlZUUNyU2R4anBrQ0pkNk1IYjRpS0E5X0ZEMWx2dHBXMlIxZXo0OWcwOE9SSlNwa3pkMERYQlpveT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY29wMFktb0htRjFQMzNYSU5wVGFKNGVkUG1QbW9ZMzdiTzRYQUZWM2djT0tzb2JPY3FZa0ZXWWVaekc4dkhVVnJJR3BzYTdLd0p6eTRzXzRvaklEWUlfaDNKM01GT1pnMlk4UnRLcWNVUWlZUUNyU2R4anBrQ0pkNk1IYjRpS0E5X0ZEMWx2dHBXMlIxZXo0OWcwOE9SSlNwa3pkMERYQlpveTg?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-09-22T11:28:35+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 18 Sep 2026 00:22:28 GMT",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ]
+    },
+    {
+      "id": "b4ceb0a4abd2",
+      "title": "Travelmarvel launches first solo departures with European sailings - travelweekly.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzlmX2J6VVVZcHc3MGNVQkh6WlFYNDJKeXlVZU9PeDFndVBYM2Q4RnMyUXlYcEY1TjZMU1VhTGRBRVB1a1NLSG1KR2x1YVdIdlY1WTRRVzdDeVV3eEU2QU9JeG9TMU1IcjlkYXlXbEplSUFhS2Vicy0zU2lSRDhzWFBlVXI1Z2piS1l2N0JBUTFjSHZ0c0o5UUlGZw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzlmX2J6VVVZcHc3MGNVQkh6WlFYNDJKeXlVZU9PeDFndVBYM2Q4RnMyUXlYcEY1TjZMU1VhTGRBRVB1a1NLSG1KR2x1YVdIdlY1WTRRVzdDeVV3eEU2QU9JeG9TMU1IcjlkYXlXbEplSUFhS2Vicy0zU2lSRDhzWFBlVXI1Z2piS1l2N0JBUTFjSHZ0c0o5UUlGZw?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,10 +398,10 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-09-22T04:45:20+00:00",
+      "first_seen": "2026-09-22T11:28:35+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 00:27:52 GMT",
+          "published": "Tue, 22 Sep 2026 02:14:20 GMT",
           "source": "travelweekly.com.au"
         }
       ]
