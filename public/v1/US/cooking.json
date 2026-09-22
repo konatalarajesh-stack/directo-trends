@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "US",
-  "generated_at": "2026-09-22T11:37:29+00:00",
+  "generated_at": "2026-09-22T16:59:59+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 21,
   "trends": [
     {
       "id": "bc9adf623358",
@@ -18,10 +18,10 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 04:19:53 GMT",
+          "published": "Tue, 22 Sep 2026 15:17:22 GMT",
           "source": "The Food Institute"
         }
       ]
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 09:50:08 GMT",
@@ -58,7 +58,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 11:33:57 GMT",
@@ -78,7 +78,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Sat, 12 Sep 2026 07:00:00 GMT",
@@ -87,10 +87,30 @@
       ]
     },
     {
-      "id": "b1f6e6b10bf7",
-      "title": "Try a new cocktail menu, September food specials and more food news in Baton Rouge - The Advocate",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkVTNVRKczRjVjM5ek8xSFBob05PNDgwQjJDVXJ4eV80dU9tV2lzWE02YXhWUHJkTWVZNllHRFVtRGNObXJNTjVLTm1DSy1NMmcybmVzNkFzaXRhUThod2tYZDZhVk9RZ2xZRTZlS1lxMXFBX0Z6bGtWM1pKdm1Sa3B2OGttVi16NmlsXzFPdFNWZklMRkdrcmMtZXhtcE9sNzRjdHBsWGRES1",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkVTNVRKczRjVjM5ek8xSFBob05PNDgwQjJDVXJ4eV80dU9tV2lzWE02YXhWUHJkTWVZNllHRFVtRGNObXJNTjVLTm1DSy1NMmcybmVzNkFzaXRhUThod2tYZDZhVk9RZ2xZRTZlS1lxMXFBX0Z6bGtWM1pKdm1Sa3B2OGttVi16NmlsXzFPdFNWZklMRkdrcmMtZXhtcE9sNzRjdHBsWGRES1RHUGUxZ3gtWlpDeUJiTWNBaklaclpuTWlmUklFaWhyajhNMGdKSEZPZ0Zlem1mRmloRGViOA?oc=5",
+      "id": "2aa1225250e7",
+      "title": "3 Elegant Food Trends Bringing Fresh Flavors to the Table - Yahoo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOejNwLXNWbnQ2TWJSLTJ0VUZ4bmszaWN5UHFKdm1PakFFZ3JqUXF2N1VYTEFYdmpPTzhzcC1NRGxSUGpFZjdwUFpPTERYZ3hoc0hNZUhsS1pnMlNiR1Y5ZVhGekU1dllVdnluVXNEcGVGRWY3Ti04Z0dqQjQ4emF0dTd1c3ZNNGJKbkh6RXJoYw?oc=5\" target=\"_blank\">3 Elegant Foo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejNwLXNWbnQ2TWJSLTJ0VUZ4bmszaWN5UHFKdm1PakFFZ3JqUXF2N1VYTEFYdmpPTzhzcC1NRGxSUGpFZjdwUFpPTERYZ3hoc0hNZUhsS1pnMlNiR1Y5ZVhGekU1dllVdnluVXNEcGVGRWY3Ti04Z0dqQjQ4emF0dTd1c3ZNNGJKbkh6RXJoYw?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-09-22T16:51:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 19 Sep 2026 10:28:09 GMT",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "id": "35eb2819ee21",
+      "title": "MSMEs urged to tap global food trends - SunStar Publishing Inc.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5xR2l1MTJKQnRWZXl6azMwX0hxZTVqN096djNxMEtFUkZFOVV2ZF9hdGFEWm1aWUh3cm0zSkxDUmg3S1U2ay1kNmQyZkNmbHhaWk1icW1KMGplZ2JzdEJnODFBNnB2WjVDa2VueEJEajJSOE90Skc2MdIBhgFBVV95cUxQbmo4a2RGNGhnX1F3X05WVWI2dHVjLUJIR2xpVDFhdk14UjVXVVJjWG",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xR2l1MTJKQnRWZXl6azMwX0hxZTVqN096djNxMEtFUkZFOVV2ZF9hdGFEWm1aWUh3cm0zSkxDUmg3S1U2ay1kNmQyZkNmbHhaWk1icW1KMGplZ2JzdEJnODFBNnB2WjVDa2VueEJEajJSOE90Skc2MdIBhgFBVV95cUxQbmo4a2RGNGhnX1F3X05WVWI2dHVjLUJIR2xpVDFhdk14UjVXVVJjWGd5eWhjVTRSRzRzWDNiQW1Zbm1jRTNjVGRXX1djT2pKc1l3Z3hiUkY4c1FvT3YycmUwcEQ4M2FqQnpvbFF2RTBhVU1rSVI2VTBoelBjbGk1Ml9KTHZwUQ?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -98,31 +118,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 21 Sep 2026 15:30:00 GMT",
-          "source": "The Advocate"
-        }
-      ]
-    },
-    {
-      "id": "2d4eb877c692",
-      "title": "MSMEs urged to tap global food trends - sunstar.com.ph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5xR2l1MTJKQnRWZXl6azMwX0hxZTVqN096djNxMEtFUkZFOVV2ZF9hdGFEWm1aWUh3cm0zSkxDUmg3S1U2ay1kNmQyZkNmbHhaWk1icW1KMGplZ2JzdEJnODFBNnB2WjVDa2VueEJEajJSOE90Skc2MdIBhgFBVV95cUxQbmo4a2RGNGhnX1F3X05WVWI2dHVjLUJIR2xpVDFhdk14UjVXVVJjWG",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xR2l1MTJKQnRWZXl6azMwX0hxZTVqN096djNxMEtFUkZFOVV2ZF9hdGFEWm1aWUh3cm0zSkxDUmg3S1U2ay1kNmQyZkNmbHhaWk1icW1KMGplZ2JzdEJnODFBNnB2WjVDa2VueEJEajJSOE90Skc2MdIBhgFBVV95cUxQbmo4a2RGNGhnX1F3X05WVWI2dHVjLUJIR2xpVDFhdk14UjVXVVJjWGd5eWhjVTRSRzRzWDNiQW1Zbm1jRTNjVGRXX1djT2pKc1l3Z3hiUkY4c1FvT3YycmUwcEQ4M2FqQnpvbFF2RTBhVU1rSVI2VTBoelBjbGk1Ml9KTHZwUQ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 10:55:44 GMT",
-          "source": "sunstar.com.ph"
+          "source": "SunStar Publishing Inc."
         }
       ]
     },
@@ -131,6 +131,26 @@
       "title": "Lam Kee Fisheries “riding the wave” of shifting food trends by continually adapting with its core species portfolio - SeafoodSource",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxORzE0TGF2ZHBkbkdVVnh6UW9qVTBpSDc3bjZyZ0dGbVdvdndLVDI4V3JaVC1aZ1ZoMVlaMmtFT3J1bnpCRExteDNhX3k5U29vQWFkeHFPb20wdEZ6c2N4Z1ZkUE5ZWF84RGZxeG9lSnNUbDZENmVyXzV6dEh6N2o3YTlxM3hjMkhvcmdxNl8tN0JOMVNhWnRBbXc1dzQ0b21zbEswRm1ZeXp2T1",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORzE0TGF2ZHBkbkdVVnh6UW9qVTBpSDc3bjZyZ0dGbVdvdndLVDI4V3JaVC1aZ1ZoMVlaMmtFT3J1bnpCRExteDNhX3k5U29vQWFkeHFPb20wdEZ6c2N4Z1ZkUE5ZWF84RGZxeG9lSnNUbDZENmVyXzV6dEh6N2o3YTlxM3hjMkhvcmdxNl8tN0JOMVNhWnRBbXc1dzQ0b21zbEswRm1ZeXp2T1pMNGl4MEk3UHJ3WjJUSkk0ZlF1bGR1N3M4c0tKTmVMckRCS2RkZ0xzRWF1NWJrdEJ4bmVGOXlR?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-09-22T16:51:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 10:04:33 GMT",
+          "source": "SeafoodSource"
+        }
+      ]
+    },
+    {
+      "id": "9a217726fa71",
+      "title": "Analysis of EU RASFF Data Finds Aflatoxins, Imported Foods Lead Mycotoxin-Related Notifications - Food Safety Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlhrSWs4OVdhaml6bE9zVVFMYUNKM2stY0JHbk1abWp2V09BcWlMaGpWeDViYnhEYkdvaDc2ODlTVGhnTEs5Uk1fcTdqcHE0YjhiMGZPMWlFUmlhWEJUWEF3ZmpFeVRRTFhRLUZ4enRhUWp6ZDlRWTVsSmRfRFVRaC1ZckFPdUVDOVVNWkRWbEduZnRSNnVFMWNPdXRxb1lFd3dtbUx1NjRyNm",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlhrSWs4OVdhaml6bE9zVVFMYUNKM2stY0JHbk1abWp2V09BcWlMaGpWeDViYnhEYkdvaDc2ODlTVGhnTEs5Uk1fcTdqcHE0YjhiMGZPMWlFUmlhWEJUWEF3ZmpFeVRRTFhRLUZ4enRhUWp6ZDlRWTVsSmRfRFVRaC1ZckFPdUVDOVVNWkRWbEduZnRSNnVFMWNPdXRxb1lFd3dtbUx1NjRyNmg0SFBVZUw1eVYzQWFKRTROTHJCcWxFd3Q2YjVaSU4yM1RZcUVCUjZn?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -138,11 +158,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 17 Sep 2026 10:04:33 GMT",
-          "source": "SeafoodSource"
+          "published": "Mon, 21 Sep 2026 09:00:00 GMT",
+          "source": "Food Safety Magazine"
         }
       ]
     },
@@ -158,7 +178,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:46+00:00",
+      "first_seen": "2026-09-22T16:53:20+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -181,7 +201,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 10:10:58 GMT",
@@ -190,10 +210,10 @@
       ]
     },
     {
-      "id": "9a217726fa71",
-      "title": "Analysis of EU RASFF Data Finds Aflatoxins, Imported Foods Lead Mycotoxin-Related Notifications - Food Safety Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlhrSWs4OVdhaml6bE9zVVFMYUNKM2stY0JHbk1abWp2V09BcWlMaGpWeDViYnhEYkdvaDc2ODlTVGhnTEs5Uk1fcTdqcHE0YjhiMGZPMWlFUmlhWEJUWEF3ZmpFeVRRTFhRLUZ4enRhUWp6ZDlRWTVsSmRfRFVRaC1ZckFPdUVDOVVNWkRWbEduZnRSNnVFMWNPdXRxb1lFd3dtbUx1NjRyNm",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlhrSWs4OVdhaml6bE9zVVFMYUNKM2stY0JHbk1abWp2V09BcWlMaGpWeDViYnhEYkdvaDc2ODlTVGhnTEs5Uk1fcTdqcHE0YjhiMGZPMWlFUmlhWEJUWEF3ZmpFeVRRTFhRLUZ4enRhUWp6ZDlRWTVsSmRfRFVRaC1ZckFPdUVDOVVNWkRWbEduZnRSNnVFMWNPdXRxb1lFd3dtbUx1NjRyNmg0SFBVZUw1eVYzQWFKRTROTHJCcWxFd3Q2YjVaSU4yM1RZcUVCUjZn?oc=5",
+      "id": "3315c23535e1",
+      "title": "The Biggest Food Trends of 2026 So Far - Taste of Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5\" target=\"_blank\">The Biggest Food Trends of 2026 So Far</a>&nbsp;&nbsp;<font color=\"#",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -201,11 +221,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 09:00:00 GMT",
-          "source": "Food Safety Magazine"
+          "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+          "source": "Taste of Home"
         }
       ]
     },
@@ -221,7 +241,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Mon, 21 Sep 2026 20:24:10 GMT",
@@ -230,62 +250,18 @@
       ]
     },
     {
-      "id": "2aa1225250e7",
-      "title": "3 Elegant Food Trends Bringing Fresh Flavors to the Table - Yahoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOejNwLXNWbnQ2TWJSLTJ0VUZ4bmszaWN5UHFKdm1PakFFZ3JqUXF2N1VYTEFYdmpPTzhzcC1NRGxSUGpFZjdwUFpPTERYZ3hoc0hNZUhsS1pnMlNiR1Y5ZVhGekU1dllVdnluVXNEcGVGRWY3Ti04Z0dqQjQ4emF0dTd1c3ZNNGJKbkh6RXJoYw?oc=5\" target=\"_blank\">3 Elegant Foo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejNwLXNWbnQ2TWJSLTJ0VUZ4bmszaWN5UHFKdm1PakFFZ3JqUXF2N1VYTEFYdmpPTzhzcC1NRGxSUGpFZjdwUFpPTERYZ3hoc0hNZUhsS1pnMlNiR1Y5ZVhGekU1dllVdnluVXNEcGVGRWY3Ti04Z0dqQjQ4emF0dTd1c3ZNNGJKbkh6RXJoYw?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 19 Sep 2026 10:28:09 GMT",
-          "source": "Yahoo"
-        },
-        {
-          "published": "Wed, 16 Sep 2026 09:47:45 GMT",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
-      "id": "e28bfbbae22a",
-      "title": "The Biggest Food Trends of 2026 So Far - tasteofhome.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5\" target=\"_blank\">The Biggest Food Trends of 2026 So Far</a>&nbsp;&nbsp;<font color=\"#",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-          "source": "tasteofhome.com"
-        }
-      ]
-    },
-    {
       "id": "adc3b5f7caf3",
       "title": "Op-ed: What's next for food-to-go — five trends to watch - Mobility Plaza",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOS1dmdkVYeDVjZjA2amVjM0k1Yzl4cHlRSGhKbndsT0t4TjBKMDZjWkNuUXVzeGp4TlpiRXhoVmhmMlBYbnh6OXdUS253NG4xNG55V19kNU5wd3R1OE8yZ2M0dE9MSzNZeW9sZXZ4dWR6ZTgySXR2eUxFa0g4aHJ5ellVVWZ0TkNoZDdDZ01YdXFNQQ?oc=5\" target=\"_blank\">Op-ed: Wh",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS1dmdkVYeDVjZjA2amVjM0k1Yzl4cHlRSGhKbndsT0t4TjBKMDZjWkNuUXVzeGp4TlpiRXhoVmhmMlBYbnh6OXdUS253NG4xNG55V19kNU5wd3R1OE8yZ2M0dE9MSzNZeW9sZXZ4dWR6ZTgySXR2eUxFa0g4aHJ5ellVVWZ0TkNoZDdDZ01YdXFNQQ?oc=5",
-      "score": 46.8,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Fri, 18 Sep 2026 10:33:12 GMT",
@@ -298,14 +274,14 @@
       "title": "Saudi Arabia Food Delivery Packaging Market - Future Market Insights",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxON0tFMC13RlNtcGxCY05aN19pTklvdGtSUmhsMjI3M0F1UVI1SG1rVDNydU9RTTBwbERDVW1pejd6cVNVN3lIcndUUGF3Wm5fbGM4TF90UG94RWpDTmJqckpGN1NhQ1hJT0gyX0dXNjdQZXl1c1c1Q082ZWVaa0tQcDZFbVVNRnhiSnJXQkRLVFV6dw?oc=5\" target=\"_blank\">Saudi Ara",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0tFMC13RlNtcGxCY05aN19pTklvdGtSUmhsMjI3M0F1UVI1SG1rVDNydU9RTTBwbERDVW1pejd6cVNVN3lIcndUUGF3Wm5fbGM4TF90UG94RWpDTmJqckpGN1NhQ1hJT0gyX0dXNjdQZXl1c1c1Q082ZWVaa0tQcDZFbVVNRnhiSnJXQkRLVFV6dw?oc=5",
-      "score": 43.2,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Sun, 20 Sep 2026 18:30:00 GMT",
@@ -318,14 +294,14 @@
       "title": "Dit zijn de 8 belangrijkste food trends van 2024 - FavorFlav.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1Z4dDBTUVdEa18weHd4dkJLWlJlZjk3MVVnTzBCZUZwY19sbzVvU2lRY0drVy13X2QyejlxcnIxenJYUlg1TmNJNFF3TjQ1bDJyaHJaaHBobVN4SVlBY3l4YlNjdzZST3dRUWJCcEZZY0txdG1oR0doWjVWdE50OVR2NGdndk0?oc=5\" target=\"_blank\">Dit zijn de 8 belangrijk",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1Z4dDBTUVdEa18weHd4dkJLWlJlZjk3MVVnTzBCZUZwY19sbzVvU2lRY0drVy13X2QyejlxcnIxenJYUlg1TmNJNFF3TjQ1bDJyaHJaaHBobVN4SVlBY3l4YlNjdzZST3dRUWJCcEZZY0txdG1oR0doWjVWdE50OVR2NGdndk0?oc=5",
-      "score": 39.6,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Fri, 18 Sep 2026 08:49:12 GMT",
@@ -334,38 +310,18 @@
       ]
     },
     {
-      "id": "ef5578608474",
-      "title": "Exciting Food Trends Taking Over the Culinary World - Yahoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQU3puNTZseU9NYjNITzJUWkthWHk0RkJ5elFJdThFUGh2Y0dDUHd0SWxnMUxJM1c3MFFBNmxUcENVUlduUEJtNmlydU94ZkxCSHpOcVIzVWhrTVAxV3pnbjN1QXZnUFN4T1JzTjRWY1JEd3hZbTdHNGI4OGxfdzJ4N01zcFFINUdNMkNPbFdOWllscHRo?oc=5\" target=\"_blank\">Excitin",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU3puNTZseU9NYjNITzJUWkthWHk0RkJ5elFJdThFUGh2Y0dDUHd0SWxnMUxJM1c3MFFBNmxUcENVUlduUEJtNmlydU94ZkxCSHpOcVIzVWhrTVAxV3pnbjN1QXZnUFN4T1JzTjRWY1JEd3hZbTdHNGI4OGxfdzJ4N01zcFFINUdNMkNPbFdOWllscHRo?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 21 Sep 2026 13:30:32 GMT",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
       "id": "708ba8ac01b1",
       "title": "Food and Beverage News and Trends - September 14, 2026 - DLA Piper",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUGlQZTZEZy1Ub1dyMG5IUWZfSVpaOFBtbUZwRHVnZW9DSWxuQnFWeWtaVDhXSjliNXM2ZDFxUGNyNExJQWZ6SzRsOWhBdk5FMHY0UGZnQTcxWGhvNTkzc0tEc3hmSUxudVZIeUliMFVRTzEzOGJtbzN0TkdweEFjUXpHMjROd3FPcFJiQlV0VWV1WXBVRlBpa1lZU3NJTUp6LThua1pwd055cF",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUGlQZTZEZy1Ub1dyMG5IUWZfSVpaOFBtbUZwRHVnZW9DSWxuQnFWeWtaVDhXSjliNXM2ZDFxUGNyNExJQWZ6SzRsOWhBdk5FMHY0UGZnQTcxWGhvNTkzc0tEc3hmSUxudVZIeUliMFVRTzEzOGJtbzN0TkdweEFjUXpHMjROd3FPcFJiQlV0VWV1WXBVRlBpa1lZU3NJTUp6LThua1pwd055cFFudTVaSHlLT3U5NklRSkNuby1tdXV6ZTdsTEw2Q2lEMlMwTFZhZmtoWlNsbw?oc=5",
-      "score": 32.4,
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
           "published": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -374,10 +330,50 @@
       ]
     },
     {
-      "id": "e5cb28f49b16",
-      "title": "From trend-chasing to execution II: What food innovation needs next - FoodNavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORXBweGQzTDdJelV6bmQ3TllNd0VJRDg3aS1nUHJPZWtQTGVoWEhyNjZ1YVZKNklrUkJxRG1UNlR6MHNrbjdMT3haNEJVaUR6TVFlTzM3RWFwdTR1N19aX080YklRV2RHOGMwc180d1Aza2U0eDdVcmRhZzdhMWVNM3VyUHRLemZUWkRzVm9INTQwYWVGbkRpLUczYzUwTXA1ZjRQVVFKOFVHel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORXBweGQzTDdJelV6bmQ3TllNd0VJRDg3aS1nUHJPZWtQTGVoWEhyNjZ1YVZKNklrUkJxRG1UNlR6MHNrbjdMT3haNEJVaUR6TVFlTzM3RWFwdTR1N19aX080YklRV2RHOGMwc180d1Aza2U0eDdVcmRhZzdhMWVNM3VyUHRLemZUWkRzVm9INTQwYWVGbkRpLUczYzUwTXA1ZjRQVVFKOFVHelo4eUJzbFBLZw?oc=5",
+      "id": "4b0e7031d6ac",
+      "title": "Finland Dairy and Soy Food - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb2FNMnJoRGFsS09qUnJDcmwtR0tFODFtVmV3MFRxWUFaV24yMUctcmctNDQzeHZKbWFqRmJJQzhydW15eFFvRWRCRUtObG9QTTM2MTdzcFg2aTZTRDByYjlqaFNsTUM4dnVfYW1pakU3bjlubVhFaTdMMzNZdVc0T0F3QWd6S1V2Smdid1ZpNW4tSVg1NmpKcWtPdV84dG5xV29ZOXdEWHFscW",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb2FNMnJoRGFsS09qUnJDcmwtR0tFODFtVmV3MFRxWUFaV24yMUctcmctNDQzeHZKbWFqRmJJQzhydW15eFFvRWRCRUtObG9QTTM2MTdzcFg2aTZTRDByYjlqaFNsTUM4dnVfYW1pakU3bjlubVhFaTdMMzNZdVc0T0F3QWd6S1V2Smdid1ZpNW4tSVg1NmpKcWtPdV84dG5xV29ZOXdEWHFscW8?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-09-22T16:51:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 21 Sep 2026 05:42:16 GMT",
+          "source": "IndexBox"
+        }
+      ]
+    },
+    {
+      "id": "ef5578608474",
+      "title": "Exciting Food Trends Taking Over the Culinary World - Yahoo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQU3puNTZseU9NYjNITzJUWkthWHk0RkJ5elFJdThFUGh2Y0dDUHd0SWxnMUxJM1c3MFFBNmxUcENVUlduUEJtNmlydU94ZkxCSHpOcVIzVWhrTVAxV3pnbjN1QXZnUFN4T1JzTjRWY1JEd3hZbTdHNGI4OGxfdzJ4N01zcFFINUdNMkNPbFdOWllscHRo?oc=5\" target=\"_blank\">Excitin",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU3puNTZseU9NYjNITzJUWkthWHk0RkJ5elFJdThFUGh2Y0dDUHd0SWxnMUxJM1c3MFFBNmxUcENVUlduUEJtNmlydU94ZkxCSHpOcVIzVWhrTVAxV3pnbjN1QXZnUFN4T1JzTjRWY1JEd3hZbTdHNGI4OGxfdzJ4N01zcFFINUdNMkNPbFdOWllscHRo?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-09-22T16:51:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 21 Sep 2026 13:30:32 GMT",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "id": "3a2690eb4b37",
+      "title": "Exploring U.S. Open food trends, beyond the Honey Deuce - CBS News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5JVEROZnIxSktTRFpjTjRCVnNDaTBhNllWVTU5NEY5aXByb29wSXpXRHlzSEswUnpiMDNGUzhuTTRlTDlid0J3OGlRZktWSHcwV0J4cWZ2SWNRS0lsUXJPR3pLUzhRcnFlQWJWdkN3?oc=5\" target=\"_blank\">Exploring U.S. Open food trends, beyond the Honey Deuce</a>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JVEROZnIxSktTRFpjTjRCVnNDaTBhNllWVTU5NEY5aXByb29wSXpXRHlzSEswUnpiMDNGUzhuTTRlTDlid0J3OGlRZktWSHcwV0J4cWZ2SWNRS0lsUXJPR3pLUzhRcnFlQWJWdkN3?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -385,11 +381,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 02:27:47 GMT",
-          "source": "FoodNavigator.com"
+          "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+          "source": "CBS News"
         }
       ]
     },
@@ -398,6 +394,26 @@
       "title": "5 big sustainability food trends - FoodNavigator.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHhOUXBlYWVsT2h1ckJBTlloLUVia0d0WXBucFBHRGttOTZ4b1BfVTZhUFh0Wjh4WVZkc1ZGSGVUVjJPUzZSbjUzUjU0ZDcwV3J1aVUzQ0dDbmxUNDExWEo0SmNDYjV3RHZzMzJEaHAxTTM1cGRnU3ZxMEo1Q3ZCalJmdkRjeG9DREtEQW1NVFpVX0YzY09jQllnaHExWEc3VEgw?oc=5\" tar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHhOUXBlYWVsT2h1ckJBTlloLUVia0d0WXBucFBHRGttOTZ4b1BfVTZhUFh0Wjh4WVZkc1ZGSGVUVjJPUzZSbjUzUjU0ZDcwV3J1aVUzQ0dDbmxUNDExWEo0SmNDYjV3RHZzMzJEaHAxTTM1cGRnU3ZxMEo1Q3ZCalJmdkRjeG9DREtEQW1NVFpVX0YzY09jQllnaHExWEc3VEgw?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-09-22T16:51:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "source": "FoodNavigator.com"
+        }
+      ]
+    },
+    {
+      "id": "a5dabf6f94c2",
+      "title": "Which food trends are big in Africa? - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUV85RGVXU0J1UkRLajUwZ2hjbF9nbFMyak1hbmZzOVNYZFJDbmpKbG1nbjBwLURtUmhTQUpZWjEyS08tbkZtWGRCZm5ZU216dDV2M3l5LWlUWlJTUjRWX3YzVlNRTUVoQ2x0cUNnZW9RbHVMeEpHc2d2MkRtYlZVcg?oc=5\" target=\"_blank\">Which food trends are big in Afri",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUV85RGVXU0J1UkRLajUwZ2hjbF9nbFMyak1hbmZzOVNYZFJDbmpKbG1nbjBwLURtUmhTQUpZWjEyS08tbkZtWGRCZm5ZU216dDV2M3l5LWlUWlJTUjRWX3YzVlNRTUVoQ2x0cUNnZW9RbHVMeEpHc2d2MkRtYlZVcg?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -405,10 +421,10 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:26+00:00",
+      "first_seen": "2026-09-22T16:51:01+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
           "source": "FoodNavigator.com"
         }
       ]

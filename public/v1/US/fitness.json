@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "US",
-  "generated_at": "2026-09-22T11:37:29+00:00",
+  "generated_at": "2026-09-22T16:59:59+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
@@ -18,11 +18,51 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
+      "first_seen": "2026-09-22T16:50:49+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 00:02:19 GMT",
+          "published": "Tue, 22 Sep 2026 05:03:26 GMT",
           "source": "WSJ"
+        }
+      ]
+    },
+    {
+      "id": "115595cef02d",
+      "title": "Apple Is Developing New Fitness Tracker Aimed at Rivaling Whoop - bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3FaYUlSZUI0NEVvazRSd0JVWXlfaHdtUFhha1d5NUVJVDQ4ZW13dm5tWHFQTUkxUndKdHcxdHdXOUotY0dkRVVqb3NOcFBkd2VEMHAyMXdqMjB5MkRTWVhNa0FHYzBfSExrSDVqQnlZWWx3MUk5cDJsckRkeXZDLWdsYVppUHBYU0E2U0tsb1g4RXM0VFZRLVViNklKbk9BcTJpYXh6T0VSUU",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3FaYUlSZUI0NEVvazRSd0JVWXlfaHdtUFhha1d5NUVJVDQ4ZW13dm5tWHFQTUkxUndKdHcxdHdXOUotY0dkRVVqb3NOcFBkd2VEMHAyMXdqMjB5MkRTWVhNa0FHYzBfSExrSDVqQnlZWWx3MUk5cDJsckRkeXZDLWdsYVppUHBYU0E2U0tsb1g4RXM0VFZRLVViNklKbk9BcTJpYXh6T0VSUUUxbnNOREg0MXg?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-09-22T16:50:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 16:21:08 GMT",
+          "source": "bloomberg.com"
+        }
+      ]
+    },
+    {
+      "id": "56df423f483b",
+      "title": "Tigard police sergeant accused of exposing himself at gym - OregonLive.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkhYNWlGUTJuWXBqdTY5R19zTzBISmhULUFiVDZIdUxGZHhPWUtKcS1GbmNHUnpiM3k4eU5RWnZJcUE0V2FXUFpkd09fRjd4eEJJR1M2SDloMTM4RW9EaVFvZmFEMVAyajlRTURxek15WHZISGlKVGtmTUNrUkowUmtLdk9qWUtYeTh4U0pLVzhTSjkyTTVXU25IVXRUZzIyakJiczdR0gG6AU",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkhYNWlGUTJuWXBqdTY5R19zTzBISmhULUFiVDZIdUxGZHhPWUtKcS1GbmNHUnpiM3k4eU5RWnZJcUE0V2FXUFpkd09fRjd4eEJJR1M2SDloMTM4RW9EaVFvZmFEMVAyajlRTURxek15WHZISGlKVGtmTUNrUkowUmtLdk9qWUtYeTh4U0pLVzhTSjkyTTVXU25IVXRUZzIyakJiczdR0gG6AUFVX3lxTE11VkFncklteXhfbE5rV3NtWFhSRW1kOGlNWDFkanoyc3lUUExuYUpKSUFxVlhPYVJBTmZ6U0JIcXVVWVZkUF9qUjR5NzRWZGltVlMwUHRkcTFsQUJ4N0Ixd2dzbWlpZFhPSVhLeWpQaHl6VkZiNkx2OUo3WW5VcV90aHBtcnVlTG5wWEVPeFo5OWVVcGNJVnVTYXh1d0F0NkY2Ujc4QUJtZnJVcTlHNDRQM3RWVVJET2x0dw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-09-22T16:50:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 15:02:00 GMT",
+          "source": "OregonLive.com"
         }
       ]
     },
@@ -31,18 +71,38 @@
       "title": "The HYROX Boom Proves People Want More From Their Weekly Workouts - MindBodyGreen",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPTG92Z2dPdWVYZ2tqVEZZRGp2VVZXZERzUHRzRUVreWU1c1VqUEgtV2tSelQ5WE14cHJ3cXVhSHNMdkkxeGdBRm43S3YxQzVIOENsdkV4cndtcHNCZ2wyemJVOVdIb1g3dkxWQnFzN2ZqSHp2V2JaLVNQWHhNMTRvUXNWSkFLcnF3dVpKMjdMZmtQZ3RiNGhZLUJlVQ?oc=5\" target=\"_blan",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTG92Z2dPdWVYZ2tqVEZZRGp2VVZXZERzUHRzRUVreWU1c1VqUEgtV2tSelQ5WE14cHJ3cXVhSHNMdkkxeGdBRm43S3YxQzVIOENsdkV4cndtcHNCZ2wyemJVOVdIb1g3dkxWQnFzN2ZqSHp2V2JaLVNQWHhNMTRvUXNWSkFLcnF3dVpKMjdMZmtQZ3RiNGhZLUJlVQ?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
+      "first_seen": "2026-09-22T16:50:49+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 09:51:56 GMT",
+          "published": "Tue, 22 Sep 2026 13:47:21 GMT",
           "source": "MindBodyGreen"
+        }
+      ]
+    },
+    {
+      "id": "0f14d8535eb8",
+      "title": "Workout Anytime to Open New 24/7 Fitness Center in Erwin September 29 - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMFJJQ3R1UHhtdG00WC01TlNvTk8xQjhKeEd1OXpTT1FEV3pQcVZnNzFnb1pKbUEybGJHaEJBdkpfWEh2anA5Z0dsS24zYTNBRklQSTJlNUN6bTRUa0VjSmxVWlV6RU1mWTBhblhnZGNzOE9tSmxaOUhFeDRJNUlHN18wQ3J1Qmh4VlloUm1UN2RqN2dNc24yS3BGem9UUjJMbmx0T1ZoLUYtZm",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMFJJQ3R1UHhtdG00WC01TlNvTk8xQjhKeEd1OXpTT1FEV3pQcVZnNzFnb1pKbUEybGJHaEJBdkpfWEh2anA5Z0dsS24zYTNBRklQSTJlNUN6bTRUa0VjSmxVWlV6RU1mWTBhblhnZGNzOE9tSmxaOUhFeDRJNUlHN18wQ3J1Qmh4VlloUm1UN2RqN2dNc24yS3BGem9UUjJMbmx0T1ZoLUYtZmlvWVRjU2lYZmFiQTVHak9nNUxvcjhPRUFGeEd0Zg?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-09-22T16:50:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 14:13:00 GMT",
+          "source": "Morningstar"
         }
       ]
     },
@@ -51,14 +111,14 @@
       "title": "From Kitchen Gadgets to Fitness Gear, Amazon’s In-House Brand Is Even Cheaper for Prime Day - Yahoo",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXp1V1FabG5YUnI4dF9CYTY2c1BBYTNwU00yOEtwMjJlSGVaTTR0ZVEtc25aWEJoeC16akRpeDlyb2VnVS1LRGxvNHBKOTFBUXR2OFBfeTNEZEh0NGlHNkQ0S21GOFhhUHdfQ0NtRzVnN05iemVoaURqZnVVMzVEWnNDdUxPd1B3LVNiZ0FwTk96YXpodWJUU1hSSHZiY0FPcTdUY3c1Vm1iZw",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXp1V1FabG5YUnI4dF9CYTY2c1BBYTNwU00yOEtwMjJlSGVaTTR0ZVEtc25aWEJoeC16akRpeDlyb2VnVS1LRGxvNHBKOTFBUXR2OFBfeTNEZEh0NGlHNkQ0S21GOFhhUHdfQ0NtRzVnN05iemVoaURqZnVVMzVEWnNDdUxPd1B3LVNiZ0FwTk96YXpodWJUU1hSSHZiY0FPcTdUY3c1Vm1iZw?oc=5",
-      "score": 82.8,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
+      "first_seen": "2026-09-22T16:50:49+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 10:00:00 GMT",
@@ -67,42 +127,22 @@
       ]
     },
     {
-      "id": "a6c70dc77bbe",
-      "title": "Public invited to help shape plans for new Pa?ia Gym - Maui County (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GVjFEQWtuRlVOOHpJZDlVa0prTURsUFMyby1TVTAwT21GS0xKV2RwQmJ3aUJBdjFJX1NCSnpGTW54Ylh5ekFVeWhBakZCUW5BVG45TGRfanhwODVQU3NoTzlQOA?oc=5\" target=\"_blank\">Public invited to help shape plans for new Pa?ia Gym</a>&nbsp;&nbsp;<font",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GVjFEQWtuRlVOOHpJZDlVa0prTURsUFMyby1TVTAwT21GS0xKV2RwQmJ3aUJBdjFJX1NCSnpGTW54Ylh5ekFVeWhBakZCUW5BVG45TGRfanhwODVQU3NoTzlQOA?oc=5",
-      "score": 79.2,
+      "id": "13c5ee4c7b16",
+      "title": "Bouldering, fitness gym converting warehouse for Austin debut - The Business Journals",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkpHRUxUOUpYNXhDZkoxczhHcEdERDRIb2M4XzlQMUVQRWRZeU9yOUlrWHRhb1hkejFpMVI5dWFEd2lHM19GdkIzMEtjeG9Rbm5BOE12YVNGaldMRGN4QXdvTEJaN1ZOZktmbm02MGpKSVhfWmg5dTlsZmRlbHNYTmJOU2NZT3liSU16SnpRYWwyQ0JBWHNNWHAzbmxhTkU?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkpHRUxUOUpYNXhDZkoxczhHcEdERDRIb2M4XzlQMUVQRWRZeU9yOUlrWHRhb1hkejFpMVI5dWFEd2lHM19GdkIzMEtjeG9Rbm5BOE12YVNGaldMRGN4QXdvTEJaN1ZOZktmbm02MGpKSVhfWmg5dTlsZmRlbHNYTmJOU2NZT3liSU16SnpRYWwyQ0JBWHNNWHAzbmxhTkU?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
+      "first_seen": "2026-09-22T16:50:49+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 01:53:44 GMT",
-          "source": "Maui County (.gov)"
-        }
-      ]
-    },
-    {
-      "id": "8a5ca5ed9f4a",
-      "title": "Should the Classroom Be More Like the Gym? - The New Yorker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWNlTVhWa2JTZDZmRGo5RWR3Q0NmZGxHQm84dmRsWHgySW5IeDBEMGd2NzRZSmh3QmhPMjdSdnpWMkU2TzlOVDgxUkVwenRDR1diSkJDUGdLdDVMV2pVaDlHNW91dHo4RlB2dUdEYU5wOUxHQ2pBYkdQLXUxTHFoVkk0Z2JuUTZWWVBqaTZTM0tjeW9MRDNZaw?oc=5\" target=\"_blank\">S",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWNlTVhWa2JTZDZmRGo5RWR3Q0NmZGxHQm84dmRsWHgySW5IeDBEMGd2NzRZSmh3QmhPMjdSdnpWMkU2TzlOVDgxUkVwenRDR1diSkJDUGdLdDVMV2pVaDlHNW91dHo4RlB2dUdEYU5wOUxHQ2pBYkdQLXUxTHFoVkk0Z2JuUTZWWVBqaTZTM0tjeW9MRDNZaw?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 19 Sep 2026 10:00:00 GMT",
-          "source": "The New Yorker"
+          "published": "Tue, 22 Sep 2026 16:25:00 GMT",
+          "source": "The Business Journals"
         }
       ]
     },
@@ -111,26 +151,6 @@
       "title": "I'm a Fitness Editor—Here Are My Favorite Early Prime Day Gym Deals - Men's Health",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjViTkJIT29BYVVPeDNKSElqMDROTjVVdTd0VVlySnlSd21TUDEydmF2X2pQcUR3ZUswNjhSTHVsbEE5T1hJOWh1UnI1bFNBZ1pwUE1ZaHczM2llWVFyNVFSNTROaFZ5aldSYkpYSTEzUmsybXhxNkh0cVdVenNVaUttRngtQ3V5U3BaTDFVakhZS1BoX2c?oc=5\" target=\"_blank\">I'm ",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjViTkJIT29BYVVPeDNKSElqMDROTjVVdTd0VVlySnlSd21TUDEydmF2X2pQcUR3ZUswNjhSTHVsbEE5T1hJOWh1UnI1bFNBZ1pwUE1ZaHczM2llWVFyNVFSNTROaFZ5aldSYkpYSTEzUmsybXhxNkh0cVdVenNVaUttRngtQ3V5U3BaTDFVakhZS1BoX2c?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 10:00:00 GMT",
-          "source": "Men's Health"
-        }
-      ]
-    },
-    {
-      "id": "37b58503bc77",
-      "title": "East Valley gym owners opening Arizona’s 1st Mahana Fresh restaurant next door - KTAR News 92.3 FM",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9Za2Z6dnpJYW9SZTJOTTNQa0s1OG5YNWFVUkhfWmstSXNWMXlZdlc0YWZoam4zOVlBV3JlQ1l2VnQzY19DanJPN2NXYmd5UHozMkw0N2VoRE4xU1QycmJkTFhldklwc2NnQmFINUxtb0pIMnhaNHRQSnlpdVBJRE0?oc=5\" target=\"_blank\">East Valley gym owners opening Arizo",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Za2Z6dnpJYW9SZTJOTTNQa0s1OG5YNWFVUkhfWmstSXNWMXlZdlc0YWZoam4zOVlBV3JlQ1l2VnQzY19DanJPN2NXYmd5UHozMkw0N2VoRE4xU1QycmJkTFhldklwc2NnQmFINUxtb0pIMnhaNHRQSnlpdVBJRE0?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -138,11 +158,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
+      "first_seen": "2026-09-22T16:50:49+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 03:39:38 GMT",
-          "source": "KTAR News 92.3 FM"
+          "published": "Tue, 22 Sep 2026 10:00:00 GMT",
+          "source": "Men's Health"
         }
       ]
     },
@@ -158,7 +178,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:39+00:00",
+      "first_seen": "2026-09-22T16:53:13+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -181,7 +201,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
+      "first_seen": "2026-09-22T16:53:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -193,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "e9f3a7ccc488",
-      "title": "Fitness expert reveals 6 things people over 35 should do after workouts to stay strong - New York Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFRPT3prbDJqRUxpeFhsTkRXeTgyM0JCOFNoZlplZFlNOVY2OFVMejBNeVVGM3ZTS1p6SFVfZWVJTHk3MXd3MkpFMVR4OW9Wem1admdnMF9TM3NBNzZMMjlWN1d1YUtNaUdXVjYwbExHUGhTNjFMbDhKU1FnRVZTOHJKYWVZQUJYRG1PbVlSaXFiR3FvX2FNbS1qcjlxNWVqZGExOEZwOXc0eX",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFRPT3prbDJqRUxpeFhsTkRXeTgyM0JCOFNoZlplZFlNOVY2OFVMejBNeVVGM3ZTS1p6SFVfZWVJTHk3MXd3MkpFMVR4OW9Wem1admdnMF9TM3NBNzZMMjlWN1d1YUtNaUdXVjYwbExHUGhTNjFMbDhKU1FnRVZTOHJKYWVZQUJYRG1PbVlSaXFiR3FvX2FNbS1qcjlxNWVqZGExOEZwOXc0eXNlSHFhaEZQMDZJbUVCV1EyRDhGN0ZjUQ?oc=5",
+      "id": "3c821f48d792",
+      "title": "Smartwatches are getting a bit samey... but these weird and wonderful trackers all break the mold - TechRadar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxPZlhNV1ZaU2VQcnJIV2Z6eGJVTXRDbzVHT2dFcVl2WUhvT3hXdFYzSHRmdHlwM0xHR0RzWTVla2dmUFVjcmNGVkZST0NFVERmU0Jqd2g4U0FpT2dOZV82bGR5VmtINVZxMWxudkVsWG5mN0xyZkJnT2RBN2JwdkJuZUVWUkhDdTJzcUQyTzAyTUxVU0NLWUlEeV9Ba3hMS2JreGdUV3JjZjZaRV",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZlhNV1ZaU2VQcnJIV2Z6eGJVTXRDbzVHT2dFcVl2WUhvT3hXdFYzSHRmdHlwM0xHR0RzWTVla2dmUFVjcmNGVkZST0NFVERmU0Jqd2g4U0FpT2dOZV82bGR5VmtINVZxMWxudkVsWG5mN0xyZkJnT2RBN2JwdkJuZUVWUkhDdTJzcUQyTzAyTUxVU0NLWUlEeV9Ba3hMS2JreGdUV3JjZjZaRVhkZGRESkp6WjlWNWR2WE00azF3QkxZSFdKYVptNXhXRmx5WnFZbDNqYk42UnRSQlZiM1dRUFQxdWFSaFotS3FOUFBrNTNrelFoTGhuTDRjMlZPcm1CYVVYZXVGTUFjNXlZV0JBaElrNmFZeUc3ZTlldQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -204,15 +224,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
+      "first_seen": "2026-09-22T16:50:49+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 16:44:00 GMT",
-          "source": "New York Post"
-        },
-        {
-          "published": "Mon, 21 Sep 2026 11:00:48 GMT",
-          "source": "Fox News"
+          "published": "Tue, 22 Sep 2026 14:48:01 GMT",
+          "source": "TechRadar"
         }
       ]
     },
@@ -228,7 +244,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:39+00:00",
+      "first_seen": "2026-09-22T16:53:13+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -251,7 +267,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
+      "first_seen": "2026-09-22T16:53:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -261,6 +277,26 @@
         }
       ],
       "is_global": true
+    },
+    {
+      "id": "335ee8e3364c",
+      "title": "Prime Day deals on fitness trackers are live: Shop our favorite deals on Apple, Garmin, Fitbit, and more - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNNE03TUxQZDB6d19ERFg5dkRES1pqeEszOEtlaDJmckJ5SV9VcXo5OGc3cFFHNnJ3cUlFVXl1bnFBemd6cjdJZkI1dmlseXl6dXdSMlZzcDNqRkdmZ3VRNktvN0tuQzVfQ21lR29mclNsOWl6QkszdmFXU2Z3ZjZtSzVKN29XUDRBUXVPb08wMHlSdw?oc=5\" target=\"_blank\">Prime Day",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNE03TUxQZDB6d19ERFg5dkRES1pqeEszOEtlaDJmckJ5SV9VcXo5OGc3cFFHNnJ3cUlFVXl1bnFBemd6cjdJZkI1dmlseXl6dXdSMlZzcDNqRkdmZ3VRNktvN0tuQzVfQ21lR29mclNsOWl6QkszdmFXU2Z3ZjZtSzVKN29XUDRBUXVPb08wMHlSdw?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-09-22T16:50:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 13:08:57 GMT",
+          "source": "Mashable"
+        }
+      ]
     },
     {
       "id": "44aa48de08f3",
@@ -274,7 +310,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
+      "first_seen": "2026-09-22T16:53:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -297,7 +333,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
+      "first_seen": "2026-09-22T16:53:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -307,6 +343,26 @@
         }
       ],
       "is_global": true
+    },
+    {
+      "id": "ede4666055ef",
+      "title": "Should the Classroom Be More Like the Gym? - newyorker.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWNlTVhWa2JTZDZmRGo5RWR3Q0NmZGxHQm84dmRsWHgySW5IeDBEMGd2NzRZSmh3QmhPMjdSdnpWMkU2TzlOVDgxUkVwenRDR1diSkJDUGdLdDVMV2pVaDlHNW91dHo4RlB2dUdEYU5wOUxHQ2pBYkdQLXUxTHFoVkk0Z2JuUTZWWVBqaTZTM0tjeW9MRDNZaw?oc=5\" target=\"_blank\">S",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWNlTVhWa2JTZDZmRGo5RWR3Q0NmZGxHQm84dmRsWHgySW5IeDBEMGd2NzRZSmh3QmhPMjdSdnpWMkU2TzlOVDgxUkVwenRDR1diSkJDUGdLdDVMV2pVaDlHNW91dHo4RlB2dUdEYU5wOUxHQ2pBYkdQLXUxTHFoVkk0Z2JuUTZWWVBqaTZTM0tjeW9MRDNZaw?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-09-22T16:50:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 19 Sep 2026 10:00:00 GMT",
+          "source": "newyorker.com"
+        }
+      ]
     },
     {
       "id": "574b2d9d2496",
@@ -320,7 +376,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
+      "first_seen": "2026-09-22T16:53:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -332,10 +388,10 @@
       "is_global": true
     },
     {
-      "id": "b31d0cfbdfec",
-      "title": "Former Baltimore County gym teacher sentenced to 15 years in prison for child sex abuse - WBFF",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVpnN0RGRXVVUWxLWDNIeXJzQ1F2YWhzVDZhX1RyaHEwR0JQSzB2UTBBTTJQUGZKQWwzMjZ2NVVQeFEwTGFwUDJiZVF4Ym9QWk9zLWYyRVBWOUVXZ1dRWDhqZnFGQzNvYUJDcUtEQnZkVmQ0RDJsYTNIbXA5Q20wVGdGUTgzamMyVjdqQV9ONXdRNXU1OGpNS1ZLNXlDcmhXZUpEeVBsaw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVpnN0RGRXVVUWxLWDNIeXJzQ1F2YWhzVDZhX1RyaHEwR0JQSzB2UTBBTTJQUGZKQWwzMjZ2NVVQeFEwTGFwUDJiZVF4Ym9QWk9zLWYyRVBWOUVXZ1dRWDhqZnFGQzNvYUJDcUtEQnZkVmQ0RDJsYTNIbXA5Q20wVGdGUTgzamMyVjdqQV9ONXdRNXU1OGpNS1ZLNXlDcmhXZUpEeVBsaw?oc=5",
+      "id": "e81abe21587e",
+      "title": "The NordicTrack Treadmill You Actually Need for the 12-3-30 Workout - CNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHlUTFRCbW1jRWNtV1N3NVZyZHpzN3B2MW1pZnExUVNNOHFmb21rRkVPN3RqNmFRU3hrai10YlJ4cVB6T1NldkxWMFBMNmQ5NUNZQWtBNWJGRFpSREktYW5SS1ZfanRETThvY1JNeWZSWkozZEFBeVpQeXlXeHdzc3ltWGdOM3pmMWhoMkdpTnhPZVJhOEp5QzNZSURuSUVTS0s1OQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHlUTFRCbW1jRWNtV1N3NVZyZHpzN3B2MW1pZnExUVNNOHFmb21rRkVPN3RqNmFRU3hrai10YlJ4cVB6T1NldkxWMFBMNmQ5NUNZQWtBNWJGRFpSREktYW5SS1ZfanRETThvY1JNeWZSWkozZEFBeVpQeXlXeHdzc3ltWGdOM3pmMWhoMkdpTnhPZVJhOEp5QzNZSURuSUVTS0s1OQ?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -343,35 +399,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
+      "first_seen": "2026-09-22T16:50:49+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 19:12:50 GMT",
-          "source": "WBFF"
-        },
-        {
-          "published": "Mon, 21 Sep 2026 18:01:00 GMT",
-          "source": "CBS News"
-        }
-      ]
-    },
-    {
-      "id": "a7995c1f2e9f",
-      "title": "No Women Are Allowed at This \"Lust-Free\" Gym. Why? Their Presence Is Too Tempting for Men. - Outside Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE42RDNlVW9XdTYtWFQ1U2F1bHJRMGFSb1ZLZjF1ZkFySEF1TjgzdTl4M3B2Y2plRXFyWEYyRzNIRVpoZFVaanNKcGVKczJpdVpOcVBpZ0t4RGFwVUp6NHU2VGVWdE1rOWdRN2FjYjhvVlhLYVBmVlVHaV91UlhKZw?oc=5\" target=\"_blank\">No Women Are Allowed at This \"Lust-Fr",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42RDNlVW9XdTYtWFQ1U2F1bHJRMGFSb1ZLZjF1ZkFySEF1TjgzdTl4M3B2Y2plRXFyWEYyRzNIRVpoZFVaanNKcGVKczJpdVpOcVBpZ0t4RGFwVUp6NHU2VGVWdE1rOWdRN2FjYjhvVlhLYVBmVlVHaV91UlhKZw?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 18 Sep 2026 16:28:02 GMT",
-          "source": "Outside Magazine"
+          "published": "Tue, 22 Sep 2026 14:55:47 GMT",
+          "source": "CNET"
         }
       ]
     },
@@ -387,7 +419,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
+      "first_seen": "2026-09-22T16:53:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -410,7 +442,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
+      "first_seen": "2026-09-22T16:53:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -422,10 +454,10 @@
       "is_global": true
     },
     {
-      "id": "00ad5eeda013",
-      "title": "News - 70 ISRW hosts USAF heritage workout - DVIDS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9mc1lXZ3NZbFpfOGFtOFVWbDdDcDRZaGU0U2thUWNGYVpBY08tYVpaeGtOLW0tcTZSYWplVG1DMi1kdjU4VXpmblozX09LYVpITjlyLWlPSVVLdTY1YkJRNTlCVHcxTzQza0o1UDNRcnJJOFN4R3lGSndBUlg?oc=5\" target=\"_blank\">News - 70 ISRW hosts USAF heritage worko",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mc1lXZ3NZbFpfOGFtOFVWbDdDcDRZaGU0U2thUWNGYVpBY08tYVpaeGtOLW0tcTZSYWplVG1DMi1kdjU4VXpmblozX09LYVpITjlyLWlPSVVLdTY1YkJRNTlCVHcxTzQza0o1UDNRcnJJOFN4R3lGSndBUlg?oc=5",
+      "id": "8f5b0d9cdc14",
+      "title": "Jennifer Aniston Changed Her Workout Routine in Her 50s. Here’s Why (Exclusive) - Good Housekeeping",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOejl3eXo2NlJMXzdzcmpNZnV4VUtoZkdqakpITDB0SmQ4YTFHaTI3aXE1MjNUZHBWbEkxWDMzYkNRbHl5d2h4Y1hrSlFiUF9yaUM1T2RlNkUxclJZUHhEVU9pcEduRnY0aDQ4dWI4RktrcmZUd05BT0pKeFViTEdKaG5GaVRJN1lzRUNKTGdrZ29Idw?oc=5\" target=\"_blank\">Jennifer ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejl3eXo2NlJMXzdzcmpNZnV4VUtoZkdqakpITDB0SmQ4YTFHaTI3aXE1MjNUZHBWbEkxWDMzYkNRbHl5d2h4Y1hrSlFiUF9yaUM1T2RlNkUxclJZUHhEVU9pcEduRnY0aDQ4dWI4RktrcmZUd05BT0pKeFViTEdKaG5GaVRJN1lzRUNKTGdrZ29Idw?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -433,11 +465,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
+      "first_seen": "2026-09-22T16:50:49+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 21 Sep 2026 21:32:00 GMT",
-          "source": "DVIDS"
+          "published": "Tue, 22 Sep 2026 14:10:12 GMT",
+          "source": "Good Housekeeping"
         }
       ]
     },
@@ -453,7 +485,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
+      "first_seen": "2026-09-22T16:53:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -465,10 +497,10 @@
       "is_global": true
     },
     {
-      "id": "7d205b4d3076",
-      "title": "Tigard police sergeant accused of exposing himself at gym - KATU",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmJkLUhfN2F2aTF6Z3RjUzZhZHhFRnNicW5FRlV3VGxycGJyV0NLMVQxdnZGNTVRandQUEhQQjZwWXREZnFCakhPRmd6QkRXaGhPVXZTbGdGUHppaWVRUlhQcnk1QnZqUXRWNnZOOXFfRzdTcl9HZEdnY0hZdExZWG5KZGJ0N0xnVzV1MUlpenZNenhKM3hwdkMtS3dsWHdKUGNnSnJn?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmJkLUhfN2F2aTF6Z3RjUzZhZHhFRnNicW5FRlV3VGxycGJyV0NLMVQxdnZGNTVRandQUEhQQjZwWXREZnFCakhPRmd6QkRXaGhPVXZTbGdGUHppaWVRUlhQcnk1QnZqUXRWNnZOOXFfRzdTcl9HZEdnY0hZdExZWG5KZGJ0N0xnVzV1MUlpenZNenhKM3hwdkMtS3dsWHdKUGNnSnJn?oc=5",
+      "id": "68327ed31845",
+      "title": "The NHL’s new CBA bans team fitness tests. Not everyone is happy with the change - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3prNWdseUxJcTFmTURrWVpoMllFT29NNzQ5VkJwUm5fQk44SllQX0FrRVNja041dVBHbFdQOHMxMnBidFozOVJZZG9GTV9PYUVobUdpeTQyNGlMNmJSZ0E1cXFPaGJHX05oaHhYZGJkb2E3UHM2UEp3elhxRUVZbElEY1RGVzB1dlpUNS1fM0s?oc=5\" target=\"_blank\">The NHL’s ne",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3prNWdseUxJcTFmTURrWVpoMllFT29NNzQ5VkJwUm5fQk44SllQX0FrRVNja041dVBHbFdQOHMxMnBidFozOVJZZG9GTV9PYUVobUdpeTQyNGlMNmJSZ0E1cXFPaGJHX05oaHhYZGJkb2E3UHM2UEp3elhxRUVZbElEY1RGVzB1dlpUNS1fM0s?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -476,19 +508,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
+      "first_seen": "2026-09-22T16:50:49+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 01:06:41 GMT",
-          "source": "KATU"
-        },
-        {
-          "published": "Tue, 22 Sep 2026 01:44:00 GMT",
-          "source": "KPTV"
-        },
-        {
-          "published": "Tue, 22 Sep 2026 01:09:00 GMT",
-          "source": "kgw.com"
+          "published": "Tue, 22 Sep 2026 09:30:38 GMT",
+          "source": "The New York Times"
         }
       ]
     },
@@ -504,7 +528,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
+      "first_seen": "2026-09-22T16:53:16+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -514,49 +538,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "6f1719eb789d",
-      "title": "The Carnivore Diet Is Worse Than We Thought (ugly new data)",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
-      "url": "https://www.youtube.com/watch?v=VK1DzepXmKc",
-      "score": 40.809999999999995,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-09-22T11:30:41+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
-          "channel_title": "Renaissance Periodization",
-          "video_id": "VK1DzepXmKc",
-          "published": "2026-09-16T16:00:10+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "fdaa00b090cd",
-      "title": "Smart Fitness Apps Market to Witness Rapid Growth at 18.4% CAGR - Market.us",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE15QTZOd0Q4ZXJvZ2Z5N0ZSOFBHNUZyTkdVRll6eGFvaVVnR0ZRWTNMVHE0RFZBSXFKaU9xckFoR0YwSERDYkI4S2dSdlpwMDRLYzRFZ2J3NWtweHgxX2ZKMlhuX3I2Z3oxSWc?oc=5\" target=\"_blank\">Smart Fitness Apps Market to Witness Rapid Growth at 18.4% CAGR<",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15QTZOd0Q4ZXJvZ2Z5N0ZSOFBHNUZyTkdVRll6eGFvaVVnR0ZRWTNMVHE0RFZBSXFKaU9xckFoR0YwSERDYkI4S2dSdlpwMDRLYzRFZ2J3NWtweHgxX2ZKMlhuX3I2Z3oxSWc?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-09-22T11:28:15+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 07:05:53 GMT",
-          "source": "Market.us"
-        }
-      ]
     }
   ]
 }
