@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "UK",
-  "generated_at": "2026-09-23T04:47:19+00:00",
+  "generated_at": "2026-09-23T11:34:54+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 25,
   "trends": [
     {
       "id": "7702b4b278ce",
@@ -18,19 +18,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "first_seen": "2026-09-23T11:25:46+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 23 Sep 2026 03:54:57 GMT",
+          "published": "Wed, 23 Sep 2026 09:23:54 GMT",
           "source": "WSJ"
         }
       ]
     },
     {
-      "id": "7966827f8e74",
-      "title": "Elsa Pataky, 50, builds her strong core and glutes with these 11 exercises – 'You don't need a gym' - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2JxYnp0OXkxRll4ZWg5VVFaVFRtc0hSTXZvYjQtZHZsVnZtZEd2eXNrRV9UZlBjemlHemVxNEF1aGdjVE5McENLOTJ0RWRnYUJXQXNKU2VpNTlMWmFiMlRpVnJpMHl5M0tDMC1PSjVFbzVlVGE1NmJZVnV5azVQb2htTF9mUzd4Mk1nRnNQMm9PWDk5anRKTDdEaVNfa2NVQVJGN1NB?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2JxYnp0OXkxRll4ZWg5VVFaVFRtc0hSTXZvYjQtZHZsVnZtZEd2eXNrRV9UZlBjemlHemVxNEF1aGdjVE5McENLOTJ0RWRnYUJXQXNKU2VpNTlMWmFiMlRpVnJpMHl5M0tDMC1PSjVFbzVlVGE1NmJZVnV5azVQb2htTF9mUzd4Mk1nRnNQMm9PWDk5anRKTDdEaVNfa2NVQVJGN1NB?oc=5",
+      "id": "d194404a6546",
+      "title": "Brothers star Matthew McConaughey, 56, uses this simple 1-move workout to get strong and lean - Runner's World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXRVSWlPUlREV0R5RkVQQ0xGcTV0bkt1Z05VS0tjVjY0NVVMVGpNcmQ2N0hRbWJBS2dKNHBsNzNpRDJPY3g2QkF2Umh2R3ZNOFh2cGxNRVNIUXpIYU1nWmJ3QjU2MmRXSnY3Q1BZUVI0WHcwU0dKX3FKQ3IxYUpyTg?oc=5\" target=\"_blank\">Brothers star Matthew McConaughey",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXRVSWlPUlREV0R5RkVQQ0xGcTV0bkt1Z05VS0tjVjY0NVVMVGpNcmQ2N0hRbWJBS2dKNHBsNzNpRDJPY3g2QkF2Umh2R3ZNOFh2cGxNRVNIUXpIYU1nWmJ3QjU2MmRXSnY3Q1BZUVI0WHcwU0dKX3FKQ3IxYUpyTg?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,11 +38,71 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "first_seen": "2026-09-23T11:25:46+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 23 Sep 2026 04:06:31 GMT",
-          "source": "Women's Health"
+          "published": "Wed, 23 Sep 2026 05:02:56 GMT",
+          "source": "Runner's World"
+        }
+      ]
+    },
+    {
+      "id": "4d6aa860e5de",
+      "title": "Elsa Pataky, 50, builds her strong core and glutes with these 11 exercises – 'You don't need a gym' - womenshealthmag.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2JxYnp0OXkxRll4ZWg5VVFaVFRtc0hSTXZvYjQtZHZsVnZtZEd2eXNrRV9UZlBjemlHemVxNEF1aGdjVE5McENLOTJ0RWRnYUJXQXNKU2VpNTlMWmFiMlRpVnJpMHl5M0tDMC1PSjVFbzVlVGE1NmJZVnV5azVQb2htTF9mUzd4Mk1nRnNQMm9PWDk5anRKTDdEaVNfa2NVQVJGN1NB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2JxYnp0OXkxRll4ZWg5VVFaVFRtc0hSTXZvYjQtZHZsVnZtZEd2eXNrRV9UZlBjemlHemVxNEF1aGdjVE5McENLOTJ0RWRnYUJXQXNKU2VpNTlMWmFiMlRpVnJpMHl5M0tDMC1PSjVFbzVlVGE1NmJZVnV5azVQb2htTF9mUzd4Mk1nRnNQMm9PWDk5anRKTDdEaVNfa2NVQVJGN1NB?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "UK",
+      "first_seen": "2026-09-23T11:25:46+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 23 Sep 2026 04:06:53 GMT",
+          "source": "womenshealthmag.com"
+        }
+      ]
+    },
+    {
+      "id": "07691b3ea1e6",
+      "title": "Andrew Huberman's Surprisingly Simple Weekly Workout Plan for Staying Strong and Muscular After 50 - Men's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjdBb0dqblFhbWFLeG9Ec3JacXZjaXdQNEpLTFhGNHd3THl5S2U5NUxRdEk0c3JPVmJSNlZzR2MtTVdOajZJNjJDMHRtaTFKeHNkdlk3Mk5qYmpRS0JsUEtVRGp3VFpfQVZzM19JMHlfLTd0dEhianF3bXFYUVdUWGtRY1g3SjRJbEZUbER3?oc=5\" target=\"_blank\">Andrew Huberman",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjdBb0dqblFhbWFLeG9Ec3JacXZjaXdQNEpLTFhGNHd3THl5S2U5NUxRdEk0c3JPVmJSNlZzR2MtTVdOajZJNjJDMHRtaTFKeHNkdlk3Mk5qYmpRS0JsUEtVRGp3VFpfQVZzM19JMHlfLTd0dEhianF3bXFYUVdUWGtRY1g3SjRJbEZUbER3?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "UK",
+      "first_seen": "2026-09-23T11:25:46+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 23 Sep 2026 05:08:41 GMT",
+          "source": "Men's Health"
+        }
+      ]
+    },
+    {
+      "id": "c9f0134d2f8c",
+      "title": "Magic AI fitness mirror raises £8m to flex muscle in US - The Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObkt6U2xxa3M5QzE3NDVKLVRYU3FYSTk2UmRhYmlXS0dBOEZ5bjVjVmNnN2NEejNvSE96QXczN2dmTjlmeVNzYzFCRE9OelRCdkM2UzIzVEVVcTh6VDJzdVY5VUprb3hsQVgtbXZkOW4xV0hTWEd3dzJBSkVOd2dud2xveFIwczVzREZOQUpBbmh5TGFHZzdBalVyQ2djUzBheEJIdEptMUhTWD",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObkt6U2xxa3M5QzE3NDVKLVRYU3FYSTk2UmRhYmlXS0dBOEZ5bjVjVmNnN2NEejNvSE96QXczN2dmTjlmeVNzYzFCRE9OelRCdkM2UzIzVEVVcTh6VDJzdVY5VUprb3hsQVgtbXZkOW4xV0hTWEd3dzJBSkVOd2dud2xveFIwczVzREZOQUpBbmh5TGFHZzdBalVyQ2djUzBheEJIdEptMUhTWDBx?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "UK",
+      "first_seen": "2026-09-23T11:25:46+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 23 Sep 2026 05:00:00 GMT",
+          "source": "The Times"
         }
       ]
     },
@@ -51,14 +111,14 @@
       "title": "Apple Is Developing New Fitness Tracker Aimed at Rivaling Whoop - Bloomberg.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3FaYUlSZUI0NEVvazRSd0JVWXlfaHdtUFhha1d5NUVJVDQ4ZW13dm5tWHFQTUkxUndKdHcxdHdXOUotY0dkRVVqb3NOcFBkd2VEMHAyMXdqMjB5MkRTWVhNa0FHYzBfSExrSDVqQnlZWWx3MUk5cDJsckRkeXZDLWdsYVppUHBYU0E2U0tsb1g4RXM0VFZRLVViNklKbk9BcTJpYXh6T0VSUU",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3FaYUlSZUI0NEVvazRSd0JVWXlfaHdtUFhha1d5NUVJVDQ4ZW13dm5tWHFQTUkxUndKdHcxdHdXOUotY0dkRVVqb3NOcFBkd2VEMHAyMXdqMjB5MkRTWVhNa0FHYzBfSExrSDVqQnlZWWx3MUk5cDJsckRkeXZDLWdsYVppUHBYU0E2U0tsb1g4RXM0VFZRLVViNklKbk9BcTJpYXh6T0VSUUUxbnNOREg0MXg?oc=5",
-      "score": 82.8,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "first_seen": "2026-09-23T11:25:46+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 16:30:09 GMT",
@@ -67,18 +127,104 @@
       ]
     },
     {
-      "id": "b2b0a5a0bb67",
-      "title": "First look at new 24-hour gym set to open in Dorset town this November - Bournemouth Echo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1lxN0VuYXBObm5ianY2UTJ5OVZiMjBmZU9vMzJFTDM5NTQxLVBqZ2lxMjZGbHpSUVpaM2E0dnNVVXFNT1RjMHg5MEtvYkZXMlBVY3ptRVpRNk9fQ0l0Nlh4cmQ3ODJwSDl2bkJVNDFWOGd4WW9CYk5Mb2gweWJDN1dGcHdQUW9YVkdBNU9qelFNWXFMRkZHd05nV1RBNlpScEE?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1lxN0VuYXBObm5ianY2UTJ5OVZiMjBmZU9vMzJFTDM5NTQxLVBqZ2lxMjZGbHpSUVpaM2E0dnNVVXFNT1RjMHg5MEtvYkZXMlBVY3ptRVpRNk9fQ0l0Nlh4cmQ3ODJwSDl2bkJVNDFWOGd4WW9CYk5Mb2gweWJDN1dGcHdQUW9YVkdBNU9qelFNWXFMRkZHd05nV1RBNlpScEE?oc=5",
-      "score": 79.2,
+      "id": "d05a98ada986",
+      "title": "McLaren Motorsport Hosts Madrid Fitness Camp - dailysportscar.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcEZRcU9tV3ZBaVFGUzRxV0N1SmRrOGdnRjdMdl9zZUhNSlpGcjhnMUdvRmQ3NG1LN05FVXhxVWFYaUtpWl8yOHZoY25LeE1PY0VEMkNWVWgxNmZVbWtxMlViT3VUX1NDd2I1bUJfUzJWSmZyVmlXbllBNlpxcjhiX3JtbGg4NUZzdUpnZUVCOUZNNFhON0E?oc=5\" target=\"_blank\">McLa",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcEZRcU9tV3ZBaVFGUzRxV0N1SmRrOGdnRjdMdl9zZUhNSlpGcjhnMUdvRmQ3NG1LN05FVXhxVWFYaUtpWl8yOHZoY25LeE1PY0VEMkNWVWgxNmZVbWtxMlViT3VUX1NDd2I1bUJfUzJWSmZyVmlXbllBNlpxcjhiX3JtbGg4NUZzdUpnZUVCOUZNNFhON0E?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "first_seen": "2026-09-23T11:25:46+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 23 Sep 2026 09:33:34 GMT",
+          "source": "dailysportscar.com"
+        }
+      ]
+    },
+    {
+      "id": "6b656de5a1d4",
+      "title": "The viral Hyrox horror: is the ‘go hard or go home’ attitude to exercise finally over? | Fitness - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFRna3c5aVdUZ2VHZWRHMU9Pc2kwYjAwU0RFZ1FiXzk4aEVfQVU4NUc2VTZQM0NBM1NOdmZsc0gySDVIb2xEVTY0amNXb1FiSVg0US1rcEpfZlRIVVY2djZYci1pWW5jazY4TWtpaU5Qb1B1dVZMVXZJbUg2RlpHeGJlUm44VXZQZFdzaE1ITWxnOUQtd0t2T2g3U1RFWURGV2FjVDNhVl9aeF",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFRna3c5aVdUZ2VHZWRHMU9Pc2kwYjAwU0RFZ1FiXzk4aEVfQVU4NUc2VTZQM0NBM1NOdmZsc0gySDVIb2xEVTY0amNXb1FiSVg0US1rcEpfZlRIVVY2djZYci1pWW5jazY4TWtpaU5Qb1B1dVZMVXZJbUg2RlpHeGJlUm44VXZQZFdzaE1ITWxnOUQtd0t2T2g3U1RFWURGV2FjVDNhVl9aeFRhTXBBTQ?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "UK",
+      "first_seen": "2026-09-23T11:25:46+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 22 Sep 2026 12:39:00 GMT",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "id": "c3f25619b9d0",
+      "title": "How to Do More Pullups in Your NEXT Set (GUARANTEED!)",
+      "summary": "Want to do more pullups? Whether you can currently do 2 pullups, 5 pullups, 10 pullups or you're trying to reach 15, 20 or even 25 unbroken reps, the fastest way to increase pullups is not simply trying harder on every set. In this video, I’m going to show you exactly how to do m",
+      "url": "https://www.youtube.com/watch?v=aWRyB-OpI7w",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:10+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "aWRyB-OpI7w",
+          "published": "2026-09-20T17:43:10+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "8b1aa3b6a5a0",
+      "title": "Swimming Can Make Fat Loss Harder",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/vbwtag6yqzI",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:12+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "vbwtag6yqzI",
+          "published": "2026-09-22T20:36:43+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "b2b0a5a0bb67",
+      "title": "First look at new 24-hour gym set to open in Dorset town this November - Bournemouth Echo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1lxN0VuYXBObm5ianY2UTJ5OVZiMjBmZU9vMzJFTDM5NTQxLVBqZ2lxMjZGbHpSUVpaM2E0dnNVVXFNT1RjMHg5MEtvYkZXMlBVY3ptRVpRNk9fQ0l0Nlh4cmQ3ODJwSDl2bkJVNDFWOGd4WW9CYk5Mb2gweWJDN1dGcHdQUW9YVkdBNU9qelFNWXFMRkZHd05nV1RBNlpScEE?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1lxN0VuYXBObm5ianY2UTJ5OVZiMjBmZU9vMzJFTDM5NTQxLVBqZ2lxMjZGbHpSUVpaM2E0dnNVVXFNT1RjMHg5MEtvYkZXMlBVY3ptRVpRNk9fQ0l0Nlh4cmQ3ODJwSDl2bkJVNDFWOGd4WW9CYk5Mb2gweWJDN1dGcHdQUW9YVkdBNU9qelFNWXFMRkZHd05nV1RBNlpScEE?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "UK",
+      "first_seen": "2026-09-23T11:25:46+00:00",
       "raw_samples": [
         {
           "published": "Wed, 23 Sep 2026 04:00:00 GMT",
@@ -87,110 +233,56 @@
       ]
     },
     {
-      "id": "f5351f3d9cac",
-      "title": "Steal David Corenswet's Old-School Push Workout for a Bigger Chest, Shoulders and Arms - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjJwc3JkX0VYdnRGb0c4cERGMTBIN1FWbW1VdURhclF2dTJIbVhjckVoN2tzVDMzX0RtdlFzcjQ2elJsYk0xQ3VGOWpnbHcxVFpMaXRESC04NUJMenBJclBSY2xfSTR6bUI0ZjlHcnlGSjRXMXUyRDRiNTFncUU3NjZjYTQ?oc=5\" target=\"_blank\">Steal David Corenswet's Old-",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjJwc3JkX0VYdnRGb0c4cERGMTBIN1FWbW1VdURhclF2dTJIbVhjckVoN2tzVDMzX0RtdlFzcjQ2elJsYk0xQ3VGOWpnbHcxVFpMaXRESC04NUJMenBJclBSY2xfSTR6bUI0ZjlHcnlGSjRXMXUyRDRiNTFncUU3NjZjYTQ?oc=5",
-      "score": 75.6,
+      "id": "882df7bd07eb",
+      "title": "STOP, You're Training Your Chest All Wrong!",
+      "summary": "STOP, You’re Training Your Chest All Wrong. If your chest workout is built around doing the same traditional sets, resting two or three minutes, and then repeating them again, you may be wasting a lot of reps that aren’t doing nearly as much for muscle growth as you think.\n\nBuild",
+      "url": "https://www.youtube.com/watch?v=bIV-K2vGu2g",
+      "score": 59.29,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:10+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 16:38:40 GMT",
-          "source": "Men's Health"
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "bIV-K2vGu2g",
+          "published": "2026-09-13T16:58:45+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "fe2aaa610842",
-      "title": "Why Tho? Fitness instructors weigh in on the etiquette of leaving class early - OregonLive.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQW44NWpNNnljaFBFVWJzLW9OU1lMYTFEazNtNmphWDhoaS14N21rQkNpckwyZk80Njd4MGRWb2JzVHhvcmVyY0lPLXpJZUk3bFIyQ2JQeVJRN29NaTZNaTRLdEViR2ZGaWlRd28xR1JkaEgtR293U2paYzZFVjAtUkRPWWIzdVp2UjQ1QVU5SldZaVFENGtsWFFyZFJBWklwWGJzaXg1S3Y0U2",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQW44NWpNNnljaFBFVWJzLW9OU1lMYTFEazNtNmphWDhoaS14N21rQkNpckwyZk80Njd4MGRWb2JzVHhvcmVyY0lPLXpJZUk3bFIyQ2JQeVJRN29NaTZNaTRLdEViR2ZGaWlRd28xR1JkaEgtR293U2paYzZFVjAtUkRPWWIzdVp2UjQ1QVU5SldZaVFENGtsWFFyZFJBWklwWGJzaXg1S3Y0U2ZxVXVQU2ItTkVBUXVTX0NXUFN2LVTSAdQBQVVfeXFMT2dnd3phbmpCMWZIb3BweUdFQzFRX0pyMzNOLXZ3WTNUczZYcE5PNFFDZTRfMnhYeUp6VTdDbnI4QTNBeGRJaHFWck9tVVFwUUZSUURjcVpDOWp3T2x5cV9Qc1FJVkNGNHl0ZFZpalNSaGd2aTU4Um5mQmhJcnZpMGRWQ250MllTanp3ZFhoN0J4YTZWV3hOaWdWdkhCaFk0YVFnOG5WVjBMbkljOFRqa2VhZ0EyQ3cyTDF5S0VDeC1zRzFydjRaUWZlWThhbnlXbFZSRTA?oc=5",
-      "score": 72.0,
+      "id": "77fc06460d29",
+      "title": "What Has Bodybuilding Done to My Body?",
+      "summary": "Thanks to Bionicc Body Screening for hosting Dr. Mike’s full-body MRI. Mention Dr. Mike when booking to receive $450 off: https://www.bioniccbodyscreening.com\n\nThe UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to ov",
+      "url": "https://www.youtube.com/watch?v=9BqDx0CUBYI",
+      "score": 59.29,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:12+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 21:00:00 GMT",
-          "source": "OregonLive.com"
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "9BqDx0CUBYI",
+          "published": "2026-09-21T16:00:24+00:00"
         }
-      ]
-    },
-    {
-      "id": "ff49616c49ea",
-      "title": "Jennifer Aniston Changed Her Workout Routine in Her 50s. Here’s Why (Exclusive) - Good Housekeeping",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOejl3eXo2NlJMXzdzcmpNZnV4VUtoZkdqakpITDB0SmQ4YTFHaTI3aXE1MjNUZHBWbEkxWDMzYkNRbHl5d2h4Y1hrSlFiUF9yaUM1T2RlNkUxclJZUHhEVU9pcEduRnY0aDQ4dWI4RktrcmZUd05BT0pKeFViTEdKaG5GaVRJN1lzRUNKTGdrZ29Idw?oc=5\" target=\"_blank\">Jennifer ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejl3eXo2NlJMXzdzcmpNZnV4VUtoZkdqakpITDB0SmQ4YTFHaTI3aXE1MjNUZHBWbEkxWDMzYkNRbHl5d2h4Y1hrSlFiUF9yaUM1T2RlNkUxclJZUHhEVU9pcEduRnY0aDQ4dWI4RktrcmZUd05BT0pKeFViTEdKaG5GaVRJN1lzRUNKTGdrZ29Idw?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
       ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 15:15:43 GMT",
-          "source": "Good Housekeeping"
-        }
-      ]
+      "is_global": true
     },
     {
-      "id": "7ae93032f47d",
-      "title": "Fitness Industry Revenue Grows as Operators Expand Globally - Fitt Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9OaUdjaUJtcW9MLXhzLVczeTJiQllRS2RreFU1UXZFY2ZkQy1sN3NaUHp5clJxaFFpTjR5bjllR1pXQ0kxdVI3dDU4VFlxZDFFNms1MHg0NWJRQVRISGxCeVV5S0RDdDhmVTZLbm1LQQ?oc=5\" target=\"_blank\">Fitness Industry Revenue Grows as Operators Expand Global",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OaUdjaUJtcW9MLXhzLVczeTJiQllRS2RreFU1UXZFY2ZkQy1sN3NaUHp5clJxaFFpTjR5bjllR1pXQ0kxdVI3dDU4VFlxZDFFNms1MHg0NWJRQVRISGxCeVV5S0RDdDhmVTZLbm1LQQ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 20:16:37 GMT",
-          "source": "Fitt Insider"
-        }
-      ]
-    },
-    {
-      "id": "d8d6195b96a1",
-      "title": "New 24 hour fitness centre opening in Bridgwater - here's what you need to know - Bridgwater Mercury",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQYktuQXNScVNvbTg4TXZNdjhjV1ItV0gwVE1zYm5Kd2s0Q2pZUDIwMm1mZlRhdEhvRmZYeTQ2Zm9lYzlnWTh5bGFhbzlpM2I0MnpsRHU5QTd2YlVkTnBnU0c0SzlXdTJCemtKM3JvRG5qUjd6Q3dNNFo5MVFROWJMQ2hLbGs4UzlPT09wbi1relU4ZzlmWktCelRFTUo1Q2M3dElNZQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYktuQXNScVNvbTg4TXZNdjhjV1ItV0gwVE1zYm5Kd2s0Q2pZUDIwMm1mZlRhdEhvRmZYeTQ2Zm9lYzlnWTh5bGFhbzlpM2I0MnpsRHU5QTd2YlVkTnBnU0c0SzlXdTJCemtKM3JvRG5qUjd6Q3dNNFo5MVFROWJMQ2hLbGs4UzlPT09wbi1relU4ZzlmWktCelRFTUo1Q2M3dElNZQ?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 23 Sep 2026 04:00:00 GMT",
-          "source": "Bridgwater Mercury"
-        }
-      ]
-    },
-    {
-      "id": "eeac392b65c5",
-      "title": "Warrington gym undergoes revamp with upgraded equipment and reformer studio - Warrington Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQOFNtdko5RXpFZ2VDLVduWkRLZDl5cHItQ0ZfYXdQYjB4R1J4Wld5Y0lrTzd0VFZoWHNtVFJyREVrclgwVDVYTVRpNFppWlJmN3NYYngwbmRWRFFsWmJ4dHluUTVRTWpsalZMX2haOVkxaTRzMWV0REdxaFJFYWFnN2FSUURUb3F2d0xlWjE2RnpUVm11aUNUVWYyZHByZw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFNtdko5RXpFZ2VDLVduWkRLZDl5cHItQ0ZfYXdQYjB4R1J4Wld5Y0lrTzd0VFZoWHNtVFJyREVrclgwVDVYTVRpNFppWlJmN3NYYngwbmRWRFFsWmJ4dHluUTVRTWpsalZMX2haOVkxaTRzMWV0REdxaFJFYWFnN2FSUURUb3F2d0xlWjE2RnpUVm11aUNUVWYyZHByZw?oc=5",
+      "id": "5919f1745f0f",
+      "title": "I'm a PT - this simple dumbbell exercise strengthens glutes and hamstrings better than squats - Woman & Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ04yWGM0ZE5ia3BkYnNQLWtCSVdsei1ISEEtWWMxbFVCZ0tpOGk3el93dWJwWlpaLWdUamFMZTFvYTJsWGZiMEFSMENfdUpLZ2hXQUp0MnBqdXFIdTNuNUluWWk5YTNqVGJya0pOUjZWV1dFMXZzMXMtdk9sUHBSNFFhYVpyQU1v?oc=5\" target=\"_blank\">I'm a PT - this simple ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ04yWGM0ZE5ia3BkYnNQLWtCSVdsei1ISEEtWWMxbFVCZ0tpOGk3el93dWJwWlpaLWdUamFMZTFvYTJsWGZiMEFSMENfdUpLZ2hXQUp0MnBqdXFIdTNuNUluWWk5YTNqVGJya0pOUjZWV1dFMXZzMXMtdk9sUHBSNFFhYVpyQU1v?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +290,65 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "first_seen": "2026-09-23T11:25:46+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 16:00:00 GMT",
-          "source": "Warrington Guardian"
+          "published": "Wed, 23 Sep 2026 06:30:00 GMT",
+          "source": "Woman & Home"
         }
       ]
     },
     {
-      "id": "eabd3bcc2ed5",
-      "title": "Never too late: 74-year-old swaps law for fitness career - St Albans Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQa29BblQ5Z0tnRmZveEVIUUFuRXhTLWpzdjJ2TGExcmR3TTRWTU45TWxRQzJQdWVlN2lXbVJDTS15bkprSWlNMS1vSi1jYm5xaDltQS1teEJHUzF0Z0M0cy1ZY2JkQnVBaDBxVlZoRWI5dXMyTXVwWFYzYWdyOVgyS185STJiOEZ0Snk4a0twbmtuZjRMRXUza3lB?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa29BblQ5Z0tnRmZveEVIUUFuRXhTLWpzdjJ2TGExcmR3TTRWTU45TWxRQzJQdWVlN2lXbVJDTS15bkprSWlNMS1vSi1jYm5xaDltQS1teEJHUzF0Z0M0cy1ZY2JkQnVBaDBxVlZoRWI5dXMyTXVwWFYzYWdyOVgyS185STJiOEZ0Snk4a0twbmtuZjRMRXUza3lB?oc=5",
+      "id": "8a82277553ee",
+      "title": "How Jay Cutler Grew His Upper Pecs",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/xz0dXPcwCn4",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:12+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "xz0dXPcwCn4",
+          "published": "2026-09-21T13:20:50+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "44aa48de08f3",
+      "title": "Squeezing Won’t Grow Your Inner Chest",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/PS88Z2o9SVw",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:12+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "PS88Z2o9SVw",
+          "published": "2026-09-20T17:36:59+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "208b386bd9f8",
+      "title": "GDC reserves forecast below target - Dentistry.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB5dXNZeHF3MDVnMFhFblltOUNqTGl2S1BmTDdGamQ4ZS12UE9oUFVZWjJVd1dac0h3LUFLb2xPdkpJQXhWSEFjS1BucjY0YXJjQjY2MUN2TWQySVdwQVlUQVg2R3hNZWI0YVZ6b0llaWVlMWFLUVNkWmZBcUk2U2s?oc=5\" target=\"_blank\">GDC reserves forecast below target</",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5dXNZeHF3MDVnMFhFblltOUNqTGl2S1BmTDdGamQ4ZS12UE9oUFVZWjJVd1dac0h3LUFLb2xPdkpJQXhWSEFjS1BucjY0YXJjQjY2MUN2TWQySVdwQVlUQVg2R3hNZWI0YVZ6b0llaWVlMWFLUVNkWmZBcUk2U2s?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +356,42 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "first_seen": "2026-09-23T11:25:46+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 14:16:54 GMT",
-          "source": "St Albans Times"
+          "published": "Wed, 23 Sep 2026 10:37:23 GMT",
+          "source": "Dentistry.co.uk"
         }
       ]
     },
     {
-      "id": "9caaaf0a5e77",
-      "title": "Smartwatches are getting a bit samey... but these weird and wonderful trackers all break the mold - TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxPZlhNV1ZaU2VQcnJIV2Z6eGJVTXRDbzVHT2dFcVl2WUhvT3hXdFYzSHRmdHlwM0xHR0RzWTVla2dmUFVjcmNGVkZST0NFVERmU0Jqd2g4U0FpT2dOZV82bGR5VmtINVZxMWxudkVsWG5mN0xyZkJnT2RBN2JwdkJuZUVWUkhDdTJzcUQyTzAyTUxVU0NLWUlEeV9Ba3hMS2JreGdUV3JjZjZaRV",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZlhNV1ZaU2VQcnJIV2Z6eGJVTXRDbzVHT2dFcVl2WUhvT3hXdFYzSHRmdHlwM0xHR0RzWTVla2dmUFVjcmNGVkZST0NFVERmU0Jqd2g4U0FpT2dOZV82bGR5VmtINVZxMWxudkVsWG5mN0xyZkJnT2RBN2JwdkJuZUVWUkhDdTJzcUQyTzAyTUxVU0NLWUlEeV9Ba3hMS2JreGdUV3JjZjZaRVhkZGRESkp6WjlWNWR2WE00azF3QkxZSFdKYVptNXhXRmx5WnFZbDNqYk42UnRSQlZiM1dRUFQxdWFSaFotS3FOUFBrNTNrelFoTGhuTDRjMlZPcm1CYVVYZXVGTUFjNXlZV0JBaElrNmFZeUc3ZTlldQ?oc=5",
+      "id": "398c54dd2bb9",
+      "title": "Everything You Value Depends On Your Health",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/AOLtXPXdPiI",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:12+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "AOLtXPXdPiI",
+          "published": "2026-09-19T20:51:49+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "f36b362654c7",
+      "title": "Care homes mark National Fitness Day with charity events - The Hereford Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGVpTkx1Uld2VjhBXzhhMlRpbU1HSDBYX0k5eWdoT1FFZ0twbEtXdVdMMHpJTHF3VVFqYklKSHNmOXNpRHdlLWNkUTBsNW1WN1dXc0JWYmpoX1ZZeU1US2d5cGh0NGhDRTY4UnpjS19RQ2xvbU14cDJJUVBOSFAyQVNpNkpfQUUwajE4MHlTTzdnMlVpOGRCakwydw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGVpTkx1Uld2VjhBXzhhMlRpbU1HSDBYX0k5eWdoT1FFZ0twbEtXdVdMMHpJTHF3VVFqYklKSHNmOXNpRHdlLWNkUTBsNW1WN1dXc0JWYmpoX1ZZeU1US2d5cGh0NGhDRTY4UnpjS19RQ2xvbU14cDJJUVBOSFAyQVNpNkpfQUUwajE4MHlTTzdnMlVpOGRCakwydw?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +399,65 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "first_seen": "2026-09-23T11:25:46+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 14:48:01 GMT",
-          "source": "TechRadar"
+          "published": "Wed, 23 Sep 2026 05:21:30 GMT",
+          "source": "The Hereford Times"
         }
       ]
     },
     {
-      "id": "0d980495726f",
-      "title": "Care home residents mark National Fitness Day with charity walk - The Worcester News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRE5JWWY4UE1zdi1ycGV6TlBqLXVzT3pmelFvRUtQSmdpeFZLRUVqNDM5MFZLTUxNQ2U4b3U1dkRVcDhHZEVxZWZNU1p1QVdBeE9QcHNBT3lWS3JaSVg5M1NNR2FFTU9TVzZ2TXZ5NWRLZlI5S3hJVGQ4aS1hMzJQLU8yYXluN1ZrbWVWb1lFUW5NX2tWRmdtTGdRS3VpeWM?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRE5JWWY4UE1zdi1ycGV6TlBqLXVzT3pmelFvRUtQSmdpeFZLRUVqNDM5MFZLTUxNQ2U4b3U1dkRVcDhHZEVxZWZNU1p1QVdBeE9QcHNBT3lWS3JaSVg5M1NNR2FFTU9TVzZ2TXZ5NWRLZlI5S3hJVGQ4aS1hMzJQLU8yYXluN1ZrbWVWb1lFUW5NX2tWRmdtTGdRS3VpeWM?oc=5",
+      "id": "574b2d9d2496",
+      "title": "Beginners Who Rush the Weight Up Stay Weak",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/2bBCfPtGorQ",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:12+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "2bBCfPtGorQ",
+          "published": "2026-09-18T19:00:01+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "e713d64cd736",
+      "title": "Exercise Scientist Critiques the Kardashians’ Workout Nonsense",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hype\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isra",
+      "url": "https://www.youtube.com/watch?v=Pp-PMuu4ddQ",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:12+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "Pp-PMuu4ddQ",
+          "published": "2026-09-18T16:00:31+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "840415677c84",
+      "title": "Should the Classroom Be More Like the Gym? - The New Yorker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWNlTVhWa2JTZDZmRGo5RWR3Q0NmZGxHQm84dmRsWHgySW5IeDBEMGd2NzRZSmh3QmhPMjdSdnpWMkU2TzlOVDgxUkVwenRDR1diSkJDUGdLdDVMV2pVaDlHNW91dHo4RlB2dUdEYU5wOUxHQ2pBYkdQLXUxTHFoVkk0Z2JuUTZWWVBqaTZTM0tjeW9MRDNZaw?oc=5\" target=\"_blank\">S",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWNlTVhWa2JTZDZmRGo5RWR3Q0NmZGxHQm84dmRsWHgySW5IeDBEMGd2NzRZSmh3QmhPMjdSdnpWMkU2TzlOVDgxUkVwenRDR1diSkJDUGdLdDVMV2pVaDlHNW91dHo4RlB2dUdEYU5wOUxHQ2pBYkdQLXUxTHFoVkk0Z2JuUTZWWVBqaTZTM0tjeW9MRDNZaw?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +465,42 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "first_seen": "2026-09-23T11:25:46+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 23 Sep 2026 04:00:00 GMT",
-          "source": "The Worcester News"
+          "published": "Sat, 19 Sep 2026 10:00:00 GMT",
+          "source": "The New Yorker"
         }
       ]
     },
     {
-      "id": "72f46803d778",
-      "title": "Should the Classroom Be More Like the Gym? - newyorker.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWNlTVhWa2JTZDZmRGo5RWR3Q0NmZGxHQm84dmRsWHgySW5IeDBEMGd2NzRZSmh3QmhPMjdSdnpWMkU2TzlOVDgxUkVwenRDR1diSkJDUGdLdDVMV2pVaDlHNW91dHo4RlB2dUdEYU5wOUxHQ2pBYkdQLXUxTHFoVkk0Z2JuUTZWWVBqaTZTM0tjeW9MRDNZaw?oc=5\" target=\"_blank\">S",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWNlTVhWa2JTZDZmRGo5RWR3Q0NmZGxHQm84dmRsWHgySW5IeDBEMGd2NzRZSmh3QmhPMjdSdnpWMkU2TzlOVDgxUkVwenRDR1diSkJDUGdLdDVMV2pVaDlHNW91dHo4RlB2dUdEYU5wOUxHQ2pBYkdQLXUxTHFoVkk0Z2JuUTZWWVBqaTZTM0tjeW9MRDNZaw?oc=5",
+      "id": "49d6ce584a83",
+      "title": "The #1 Muscle Growth Limiter... Sucks",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/ZZEhsx2E_Mk",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:12+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "ZZEhsx2E_Mk",
+          "published": "2026-09-17T19:00:19+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "27c290231b17",
+      "title": "New 24 hour fitness centre opening in Bridgwater - here's what you need to know - bridgwatermercury.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQYktuQXNScVNvbTg4TXZNdjhjV1ItV0gwVE1zYm5Kd2s0Q2pZUDIwMm1mZlRhdEhvRmZYeTQ2Zm9lYzlnWTh5bGFhbzlpM2I0MnpsRHU5QTd2YlVkTnBnU0c0SzlXdTJCemtKM3JvRG5qUjd6Q3dNNFo5MVFROWJMQ2hLbGs4UzlPT09wbi1relU4ZzlmWktCelRFTUo1Q2M3dElNZQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYktuQXNScVNvbTg4TXZNdjhjV1ItV0gwVE1zYm5Kd2s0Q2pZUDIwMm1mZlRhdEhvRmZYeTQ2Zm9lYzlnWTh5bGFhbzlpM2I0MnpsRHU5QTd2YlVkTnBnU0c0SzlXdTJCemtKM3JvRG5qUjd6Q3dNNFo5MVFROWJMQ2hLbGs4UzlPT09wbi1relU4ZzlmWktCelRFTUo1Q2M3dElNZQ?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,133 +508,36 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "first_seen": "2026-09-23T11:25:46+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 19 Sep 2026 10:00:00 GMT",
-          "source": "newyorker.com"
+          "published": "Wed, 23 Sep 2026 04:00:00 GMT",
+          "source": "bridgwatermercury.co.uk"
         }
       ]
     },
     {
-      "id": "406505cd112b",
-      "title": "Special operations signallers test fitness and teamwork during demanding Battle PT session - Forces News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWxKelFpamhwSXpzSl9YTS1SWm1BQUpaREl6MWhDQUljWkNublUxVTVaMmZJN3FSWHFDRkxlLUV0dzN0WmpZcmdUOGU0a3hGa3otMDlfd1MzU2NnQkNVUXJMdXpUbVBJU1dvTlFlMExyMy1XMmM5cXJpZHFPcllrZXo4bUFNbmR1S0dKUXBqN1VHazA5dy1ZVTJ0WHhLem1Wa1gzTG9vaTJEa3",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWxKelFpamhwSXpzSl9YTS1SWm1BQUpaREl6MWhDQUljWkNublUxVTVaMmZJN3FSWHFDRkxlLUV0dzN0WmpZcmdUOGU0a3hGa3otMDlfd1MzU2NnQkNVUXJMdXpUbVBJU1dvTlFlMExyMy1XMmM5cXJpZHFPcllrZXo4bUFNbmR1S0dKUXBqN1VHazA5dy1ZVTJ0WHhLem1Wa1gzTG9vaTJEa3dFNHpxRHJxbjlUd0cwQjZRbG1xcGw?oc=5",
-      "score": 39.6,
+      "id": "3d5f7d22f5ca",
+      "title": "The Real Problem With Home Workouts",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/9iKTRmLYOSQ",
+      "score": 43.12,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
+      "region": "global",
+      "first_seen": "2026-09-23T11:28:12+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 12:32:22 GMT",
-          "source": "Forces News"
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "9iKTRmLYOSQ",
+          "published": "2026-09-17T14:41:25+00:00"
         }
-      ]
-    },
-    {
-      "id": "02a2e2a146e2",
-      "title": "£190k investment to transform leisure centre gym in major upgrade - East Anglian Daily Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXRPb1FiS21pYnlKNkxpdkNPSzNTbDNOVERhQlA0dlhEdzNZb19WXzJTNG54STYyUnptVUxOODN4ZTc5b0U0eDJleFVOM3VkYU1NTThnSWpJTkw4dDA1bHlQMzFIVTRQUWVKS2N4VTRRY0d1M3AtdzVnanZsV21ncDhGRFl0TlpUWDFYWGl5MA?oc=5\" target=\"_blank\">£190k investm",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXRPb1FiS21pYnlKNkxpdkNPSzNTbDNOVERhQlA0dlhEdzNZb19WXzJTNG54STYyUnptVUxOODN4ZTc5b0U0eDJleFVOM3VkYU1NTThnSWpJTkw4dDA1bHlQMzFIVTRQUWVKS2N4VTRRY0d1M3AtdzVnanZsV21ncDhGRFl0TlpUWDFYWGl5MA?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
       ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 15:45:00 GMT",
-          "source": "East Anglian Daily Times"
-        }
-      ]
-    },
-    {
-      "id": "7bdbed2caa87",
-      "title": "The Clear 5-Point System for Lifelong Fitness – Stay Strong, Lean and Athletic Without Living in the Gym - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ1FxcHQ4bDBFZGlGSE9jeERRV0ZnQkM1cE9JOVJCWmpwcXFIblRUTi1wTmlHcU9TRnJDbzRqR28zT3JOQjctX2tHYVFDR1g4MWwwT1RVYzl6ZU80cjBUeWZNdGJYaEt1MmdjOFhnNEdVU1NUelRzM0ZkTnJpQ19Od2NfeG56Q1U?oc=5\" target=\"_blank\">The Clear 5-Point System",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ1FxcHQ4bDBFZGlGSE9jeERRV0ZnQkM1cE9JOVJCWmpwcXFIblRUTi1wTmlHcU9TRnJDbzRqR28zT3JOQjctX2tHYVFDR1g4MWwwT1RVYzl6ZU80cjBUeWZNdGJYaEt1MmdjOFhnNEdVU1NUelRzM0ZkTnJpQ19Od2NfeG56Q1U?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 11:10:10 GMT",
-          "source": "Men's Health"
-        }
-      ]
-    },
-    {
-      "id": "a0a72b6f06f6",
-      "title": "How Michelle Keegan is building strength and definition – the 7-move strength workout she does weekly - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0MtSWw4MVdxTzluTkZWZlVpQUpVVk80RmFkOEJHQ2FMM3NXbDA5QjlrZ0NibFRtUkM3Q3FjbXRsQVNneThINnFZU0pMakFSZXVPNVBJLUNvM1gybDktRzh2b2x0cE1rQjJCMW1JQzdsZ3ZmdlFxSmxVcFoxcGxjQUQ5LVdBcXJqdWtUcnNwZ0pmRXBySHl1c25wUFIySGJxSUwzeDhlVQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0MtSWw4MVdxTzluTkZWZlVpQUpVVk80RmFkOEJHQ2FMM3NXbDA5QjlrZ0NibFRtUkM3Q3FjbXRsQVNneThINnFZU0pMakFSZXVPNVBJLUNvM1gybDktRzh2b2x0cE1rQjJCMW1JQzdsZ3ZmdlFxSmxVcFoxcGxjQUQ5LVdBcXJqdWtUcnNwZ0pmRXBySHl1c25wUFIySGJxSUwzeDhlVQ?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 20 Sep 2026 16:37:38 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "497d9cb49983",
-      "title": "How Nigella Lawson lost 2 stone with 'slow' exercise: 'I have never been on a diet' - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRlp6ZXVOMDI4QlJ2MEtqSXF2Q1VYYlhwdDZqc2ZsampjX09GbFpMbEstQ0JtdTRfbE5kdEJuNDJmdE5ySGtPRFRBMlBEU1ktYjNIMW1nM2lqc2t0QUlNOURGWE9pUm1DbnlIcjcxb09kSFVpS2ZBLXR0ZENaZm1jNzB0bFVBUUVDUzZXQVBVR2pJaFk?oc=5\" target=\"_blank\">How Nige",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRlp6ZXVOMDI4QlJ2MEtqSXF2Q1VYYlhwdDZqc2ZsampjX09GbFpMbEstQ0JtdTRfbE5kdEJuNDJmdE5ySGtPRFRBMlBEU1ktYjNIMW1nM2lqc2t0QUlNOURGWE9pUm1DbnlIcjcxb09kSFVpS2ZBLXR0ZENaZm1jNzB0bFVBUUVDUzZXQVBVR2pJaFk?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 15:41:06 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "ba03da8975e8",
-      "title": "Alison Hammond, 51, made exercise a habit with this simple trick: ‘It changes how I feel inside’ - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWJkVXVuMWdUQmY3VEUwMjhoeml3OGpubEhPUGk1UlZtN1ZIY1J2U2NJWjJwS21UZjBxSEpaMTlXVUVwczV0ZzFDSS1FTmtYU1NGSEo0aktXb2ZhVUl1T0xhaXg3aDRoWkdfMzlFREotQUJvY2RUWGhEbGVQbEVxUVZleE5hVUhOYi0tak1pYlE?oc=5\" target=\"_blank\">Alison Hammo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWJkVXVuMWdUQmY3VEUwMjhoeml3OGpubEhPUGk1UlZtN1ZIY1J2U2NJWjJwS21UZjBxSEpaMTlXVUVwczV0ZzFDSS1FTmtYU1NGSEo0aktXb2ZhVUl1T0xhaXg3aDRoWkdfMzlFREotQUJvY2RUWGhEbGVQbEVxUVZleE5hVUhOYi0tak1pYlE?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-09-23T04:38:11+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 22 Sep 2026 16:06:13 GMT",
-          "source": "Women's Health"
-        }
-      ]
+      "is_global": true
     }
   ]
 }
