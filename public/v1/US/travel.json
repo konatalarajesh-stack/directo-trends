@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-09-29T05:45:41+00:00",
+  "generated_at": "2026-09-29T12:52:06+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
-      "id": "047c913a1c3f",
-      "title": "If I could time travel back to freshman year - The UCSD Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2FWX3pSMEhUNW9sUWp5T1hsc1A2NnFnZEJTREZXLTFDYWVTWUFUQzJQMDd5a21QZUtpMzJTblZORFBKVmZ6N3RpQ0tSeGd2blk2dlRDUk5JV1lDcjRXdXN6NG5ObkhaUjktcHY3amF3dVNGSE5OSUk2eEw5ei1pdGJRVEhMa1BY?oc=5\" target=\"_blank\">If I could time travel ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2FWX3pSMEhUNW9sUWp5T1hsc1A2NnFnZEJTREZXLTFDYWVTWUFUQzJQMDd5a21QZUtpMzJTblZORFBKVmZ6N3RpQ0tSeGd2blk2dlRDUk5JV1lDcjRXdXN6NG5ObkhaUjktcHY3amF3dVNGSE5OSUk2eEw5ei1pdGJRVEhMa1BY?oc=5",
+      "id": "b2df8537c260",
+      "title": "China's Golden Week travel surge masks cautious consumer spending - reuters.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdm9HZjg0WXpHcEN4R21wd3ZZOFVJNmRMTVRNWUhRQl96TEVVWG1HQnB5UTZvU3JyaWswRUtaRlh5Q2dQMzJqY1U2UFdCRjJRcEY2eDVXenZsU1RWX3R3T1ZLSmlSeXREemhST0FCMEdsbnE3ZDE5MjlwRW9QWTl1VVFmWG5tQ0YyREZ4d2RuZ25PYmNVV2NLRW1YODA5R3FNMHFDa29udTEzTH",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdm9HZjg0WXpHcEN4R21wd3ZZOFVJNmRMTVRNWUhRQl96TEVVWG1HQnB5UTZvU3JyaWswRUtaRlh5Q2dQMzJqY1U2UFdCRjJRcEY2eDVXenZsU1RWX3R3T1ZLSmlSeXREemhST0FCMEdsbnE3ZDE5MjlwRW9QWTl1VVFmWG5tQ0YyREZ4d2RuZ25PYmNVV2NLRW1YODA5R3FNMHFDa29udTEzTHhTQndvZ2lDeFBvdEdYWEVJ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,107 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 10:24:20 GMT",
+          "source": "reuters.com"
+        }
+      ]
+    },
+    {
+      "id": "f5bc7efcd901",
+      "title": "Extreme Weather, Energy Prices Put A Damper On Tourism - Honolulu Civil Beat",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZE5hYVA0dzMtT2tncHZPUmcwb2RxVTAtN09iak44cldJUkFqQVQ4eGlCX3FyT2dWeWxyMjB0MU13c19rQ1lub0ZyWHZEQXFmd0RUanVTQ3JmTW9yRGZRbE14MEhfd0pxVlRPZmxXb2pBOEFodkJDR1NQMHloZEdSTHV0NHc1Zw?oc=5\" target=\"_blank\">Extreme Weather, Energy P",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZE5hYVA0dzMtT2tncHZPUmcwb2RxVTAtN09iak44cldJUkFqQVQ4eGlCX3FyT2dWeWxyMjB0MU13c19rQ1lub0ZyWHZEQXFmd0RUanVTQ3JmTW9yRGZRbE14MEhfd0pxVlRPZmxXb2pBOEFodkJDR1NQMHloZEdSTHV0NHc1Zw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 10:01:00 GMT",
+          "source": "Honolulu Civil Beat"
+        }
+      ]
+    },
+    {
+      "id": "e26be5ba7976",
+      "title": "Seeing Ireland Without a Car - nytimes.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlhVa3ZFVlFXd2ExdndGNmpVRlJjd2t1ZlVFNEh1UldCRDREWG1hS184Ul9ScXNSbVJLOFlQdDY4SV9MX1RZSm5PUTE4UnBIanNHZ2JUSm5xR1NFdHBuUUhxZWlWQS1oNlJZc1ZQMTU4YlBwOHBRNTBOZVctd3Z2cmlFSmNZdw?oc=5\" target=\"_blank\">Seeing Ireland Without a ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlhVa3ZFVlFXd2ExdndGNmpVRlJjd2t1ZlVFNEh1UldCRDREWG1hS184Ul9ScXNSbVJLOFlQdDY4SV9MX1RZSm5PUTE4UnBIanNHZ2JUSm5xR1NFdHBuUUhxZWlWQS1oNlJZc1ZQMTU4YlBwOHBRNTBOZVctd3Z2cmlFSmNZdw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 12:03:34 GMT",
+          "source": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": "4ce8d9321bb5",
+      "title": "Canadian tourism is recovering in the Granite State, although struggling to rebound to pre-pandemic levels - ledgertranscript.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPUDF2UDRWQXE3Zkh5alBsRk1WUlcwdUlMZnRzLUZHOVk0ZjFMUWxoTlZlaVR2XzFRR3ZCUXhHRkdrQ25fYWdTX3ZYT1N6ZjdLX3BKbl9xcUVGLVRxRFFtNzdJekFNVHZLYkU5RkhRQlNZUmg2eEZqc0ZnTWhUSjhCTmRaN20xczBKV0xNSGpnWQ?oc=5\" target=\"_blank\">Canadian tour",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUDF2UDRWQXE3Zkh5alBsRk1WUlcwdUlMZnRzLUZHOVk0ZjFMUWxoTlZlaVR2XzFRR3ZCUXhHRkdrQ25fYWdTX3ZYT1N6ZjdLX3BKbl9xcUVGLVRxRFFtNzdJekFNVHZLYkU5RkhRQlNZUmg2eEZqc0ZnTWhUSjhCTmRaN20xczBKV0xNSGpnWQ?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 11:56:00 GMT",
+          "source": "ledgertranscript.com"
+        }
+      ]
+    },
+    {
+      "id": "af81ead39596",
+      "title": "Beijing broadens travel curbs to encompass family of top AI talent in China - The Japan Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmQwLWtIemhqcW10eExhS3VkVWxMX0ZlZllpd0hsX2xSR2U3ZTJ2cUFrdTNsS3hVQWVCeUdRdUZXTXRwNVhVNm5SYzU4SXVXQXpwSEtudVpZNjhXaXVpVmktSW1EMEhGSDV1VS1JRVQzN1JsR1hBWlA3Wnd5dzFJR2R3SXZZbUllaUxZ?oc=5\" target=\"_blank\">Beijing broadens tr",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmQwLWtIemhqcW10eExhS3VkVWxMX0ZlZllpd0hsX2xSR2U3ZTJ2cUFrdTNsS3hVQWVCeUdRdUZXTXRwNVhVNm5SYzU4SXVXQXpwSEtudVpZNjhXaXVpVmktSW1EMEhGSDV1VS1JRVQzN1JsR1hBWlA3Wnd5dzFJR2R3SXZZbUllaUxZ?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 28 Sep 2026 22:13:00 GMT",
+          "source": "The Japan Times"
+        }
+      ]
+    },
+    {
+      "id": "047c913a1c3f",
+      "title": "If I could time travel back to freshman year - The UCSD Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2FWX3pSMEhUNW9sUWp5T1hsc1A2NnFnZEJTREZXLTFDYWVTWUFUQzJQMDd5a21QZUtpMzJTblZORFBKVmZ6N3RpQ0tSeGd2blk2dlRDUk5JV1lDcjRXdXN6NG5ObkhaUjktcHY3amF3dVNGSE5OSUk2eEw5ei1pdGJRVEhMa1BY?oc=5\" target=\"_blank\">If I could time travel ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2FWX3pSMEhUNW9sUWp5T1hsc1A2NnFnZEJTREZXLTFDYWVTWUFUQzJQMDd5a21QZUtpMzJTblZORFBKVmZ6N3RpQ0tSeGd2blk2dlRDUk5JV1lDcjRXdXN6NG5ObkhaUjktcHY3amF3dVNGSE5OSUk2eEw5ei1pdGJRVEhMa1BY?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
       "raw_samples": [
         {
           "published": "Mon, 28 Sep 2026 15:36:54 GMT",
@@ -27,22 +127,122 @@
       ]
     },
     {
-      "id": "9748ea77255c",
-      "title": "Opinion: The best part of travel can be found at home - thebatt.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPak1UOTRGd3JHRzRzQnJoekotazJySlZycDdkLWJUaWs4T3pEakQ1NUFnT0toQ2IzTGFRZHl2bE92a2tIYjFnS1JlWm9MODJ3MkhNclp6RGF0R1NFdTBsczhBTFZqTkc5b2RFcmw5dnAyUG9yQmlIVTFaUk5Id2pjZGZlR3ZDXzFUTmJ4Y0xNOFAzVkk?oc=5\" target=\"_blank\">Opinion:",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPak1UOTRGd3JHRzRzQnJoekotazJySlZycDdkLWJUaWs4T3pEakQ1NUFnT0toQ2IzTGFRZHl2bE92a2tIYjFnS1JlWm9MODJ3MkhNclp6RGF0R1NFdTBsczhBTFZqTkc5b2RFcmw5dnAyUG9yQmlIVTFaUk5Id2pjZGZlR3ZDXzFUTmJ4Y0xNOFAzVkk?oc=5",
-      "score": 86.4,
+      "id": "f8de9e53e981",
+      "title": "The Department of Tourism, Culture, Radio, Television, and Sports of Hainan Province Joins the World Travel & Tourism Council as a Destination Partner - World Travel & Tourism Council",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5DdmhORVhNQ0FyM2UzajlMMUh1aGZzWEd4a0l4RndCYzByMEhFZGt6V2RmWlpGa3pwcFdWM2ZZM2VEYkZ4T1VVQkpPWnpGOGxPRl91TUpGdEVMWl9WNjFNTVBNdkVkSzRRLWJF?oc=5\" target=\"_blank\">The Department of Tourism, Culture, Radio, Television, and Spor",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DdmhORVhNQ0FyM2UzajlMMUh1aGZzWEd4a0l4RndCYzByMEhFZGt6V2RmWlpGa3pwcFdWM2ZZM2VEYkZ4T1VVQkpPWnpGOGxPRl91TUpGdEVMWl9WNjFNTVBNdkVkSzRRLWJF?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 11:18:28 GMT",
+          "source": "World Travel & Tourism Council"
+        }
+      ]
+    },
+    {
+      "id": "bb9215a49e04",
+      "title": "In a fairy-tale Michigan town, tourists flock to these ‘mushroom houses’ - The Washington Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZm52dE9LcHlES25fd0N4LUxUaUdSaWhUd0ZVQlYyazYtdFFqbHhXRy1WQ19kcWpPcnBKck1ieldZZEJ3S2tDcFNUR2F1dWU3R1pWOHo2c096UDlFV2RXRTlQb1hGZjEtck1rRi04Nk9Vbk5xT3FXWW1RYnlYaGllR0pCUjZsNlY3MmZLOHlfSlkwakt2WFp1UWI4NjhaVWNab0RxdjctZFlOU0",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZm52dE9LcHlES25fd0N4LUxUaUdSaWhUd0ZVQlYyazYtdFFqbHhXRy1WQ19kcWpPcnBKck1ieldZZEJ3S2tDcFNUR2F1dWU3R1pWOHo2c096UDlFV2RXRTlQb1hGZjEtck1rRi04Nk9Vbk5xT3FXWW1RYnlYaGllR0pCUjZsNlY3MmZLOHlfSlkwakt2WFp1UWI4NjhaVWNab0RxdjctZFlOU01vMFFCY09hTDhxdl8tNEE?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 12:03:59 GMT",
+          "source": "The Washington Post"
+        }
+      ]
+    },
+    {
+      "id": "942ff220f1f0",
+      "title": "Live - Euronews Travel & Tourism Summit 2026: Watch live from Brussels - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQektOcEZrM1hqM2pTbzZMX3hTZng3dUZyWXZ1bEViSkdJSV96T0VTRzRBZzBnSHFMVkN6a0pIRTYwZFJES3hmcmE3dmVlVWFycWlUbmhCSDVLdUI1VjZyUHU1MG5DT21tR3hxU0NBTEFnM2VUS1FmOEFuT1VFNGRhRlVQS1hJNy1hd0t2Qk1BcEVTX2xwNXdfWkEydE0zS1o0NkVhUg?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQektOcEZrM1hqM2pTbzZMX3hTZng3dUZyWXZ1bEViSkdJSV96T0VTRzRBZzBnSHFMVkN6a0pIRTYwZFJES3hmcmE3dmVlVWFycWlUbmhCSDVLdUI1VjZyUHU1MG5DT21tR3hxU0NBTEFnM2VUS1FmOEFuT1VFNGRhRlVQS1hJNy1hd0t2Qk1BcEVTX2xwNXdfWkEydE0zS1o0NkVhUg?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 11:55:51 GMT",
+          "source": "Euronews.com"
+        }
+      ]
+    },
+    {
+      "id": "891d3facc107",
+      "title": "Maritime experts travel to Nantucket to investigate shipwreck remains exposed by nor’easter - WBUR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBySHh5bU55U1lnV3RzMURYcEpJTk1SYkV0bnp3azkwNi1SNGFob282U0QxVTRWWGZySU0yU2FqV0tDeG9OQWR3Yk1rM0tRNEJkZEdseVlNWm9uSVU2dllxb0ltMHdxbXczc1VfNXUzNXhYekkySnozSmIyeWM?oc=5\" target=\"_blank\">Maritime experts travel to Nantucket to ",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBySHh5bU55U1lnV3RzMURYcEpJTk1SYkV0bnp3azkwNi1SNGFob282U0QxVTRWWGZySU0yU2FqV0tDeG9OQWR3Yk1rM0tRNEJkZEdseVlNWm9uSVU2dllxb0ltMHdxbXczc1VfNXUzNXhYekkySnozSmIyeWM?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 10:22:23 GMT",
+          "source": "WBUR"
+        }
+      ]
+    },
+    {
+      "id": "8286861b7034",
+      "title": "Opinion: The best part of travel can be found at home - The Battalion",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPak1UOTRGd3JHRzRzQnJoekotazJySlZycDdkLWJUaWs4T3pEakQ1NUFnT0toQ2IzTGFRZHl2bE92a2tIYjFnS1JlWm9MODJ3MkhNclp6RGF0R1NFdTBsczhBTFZqTkc5b2RFcmw5dnAyUG9yQmlIVTFaUk5Id2pjZGZlR3ZDXzFUTmJ4Y0xNOFAzVkk?oc=5\" target=\"_blank\">Opinion:",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPak1UOTRGd3JHRzRzQnJoekotazJySlZycDdkLWJUaWs4T3pEakQ1NUFnT0toQ2IzTGFRZHl2bE92a2tIYjFnS1JlWm9MODJ3MkhNclp6RGF0R1NFdTBsczhBTFZqTkc5b2RFcmw5dnAyUG9yQmlIVTFaUk5Id2pjZGZlR3ZDXzFUTmJ4Y0xNOFAzVkk?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
       "raw_samples": [
         {
           "published": "Mon, 28 Sep 2026 14:09:39 GMT",
-          "source": "thebatt.com"
+          "source": "The Battalion"
+        }
+      ]
+    },
+    {
+      "id": "2ff7b3c61a27",
+      "title": "Design Destinations: Rome - mspmag.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5NT2V1YXhaQW9QNGtSdDE4NXFsUGczS3FMdXFSUFRXbWdHVlBCZW5aVlBTX1VsNU9UNTg4RlVDa2JCNUxzcEhsS2daYWQ2QjhZcEZRQXNSWU5hRFJjejJkUVdBbUdWbllNNjExZw?oc=5\" target=\"_blank\">Design Destinations: Rome</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NT2V1YXhaQW9QNGtSdDE4NXFsUGczS3FMdXFSUFRXbWdHVlBCZW5aVlBTX1VsNU9UNTg4RlVDa2JCNUxzcEhsS2daYWQ2QjhZcEZRQXNSWU5hRFJjejJkUVdBbUdWbllNNjExZw?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 11:02:01 GMT",
+          "source": "mspmag.com"
         }
       ]
     },
@@ -51,14 +251,14 @@
       "title": "Tourism trend continues momentum in Gettysburg, Adams County - fox43.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNXzN2WnVQNTdFOElvejNORjlzYzROR2thQ1RjTWQ5NllXVjF5UkliU21KTzNZdEs4S0FVNXc4LVdIbl92eEZ3Qk5waEcyUmtkaS01OVBsWnNIRUpndFBDcFYzcFo5S2hQSlUyeEhoZkpYdnVON2dsZEdnbXdWeG9JMmlsMG56S2c3VGt2aER1cVV5V0g4c1VpbzlpU2pjTnhfYjduc0JxS0Q3Y2",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNXzN2WnVQNTdFOElvejNORjlzYzROR2thQ1RjTWQ5NllXVjF5UkliU21KTzNZdEs4S0FVNXc4LVdIbl92eEZ3Qk5waEcyUmtkaS01OVBsWnNIRUpndFBDcFYzcFo5S2hQSlUyeEhoZkpYdnVON2dsZEdnbXdWeG9JMmlsMG56S2c3VGt2aER1cVV5V0g4c1VpbzlpU2pjTnhfYjduc0JxS0Q3Y2pEcDJqM2M5b0FRRFgxeERYWkN0NlNsWHhBWTNNSnFZVlNxeVowYmlVVUdxRW1hTGE3eWxZVjZhMA?oc=5",
-      "score": 82.8,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
+      "first_seen": "2026-09-29T12:42:58+00:00",
       "raw_samples": [
         {
           "published": "Mon, 28 Sep 2026 21:28:00 GMT",
@@ -67,214 +267,10 @@
       ]
     },
     {
-      "id": "5d777cba12ff",
-      "title": "Kalen DeBoer explains Alabama's head-scratching decision for last-minute travel plans to Mississippi State - Yahoo Sports",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDFja05MSGp2TjJReXQ3NWstN2FYZVR4RzRGVURyclBLLU1yV2JGSUxyR2pYSVlCR2hIM05zeEEzZEhlNzU1Q1M2ZVZkUE5sZFB2QmVqX3VadHVGWE0zRXJ6aWtQbHpuXzNBak5zS0Vra1NsSmVMWjZLODVGLUtCbjFZbHVVWS1SZWhZZQ?oc=5\" target=\"_blank\">Kalen DeBoer expl",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDFja05MSGp2TjJReXQ3NWstN2FYZVR4RzRGVURyclBLLU1yV2JGSUxyR2pYSVlCR2hIM05zeEEzZEhlNzU1Q1M2ZVZkUE5sZFB2QmVqX3VadHVGWE0zRXJ6aWtQbHpuXzNBak5zS0Vra1NsSmVMWjZLODVGLUtCbjFZbHVVWS1SZWhZZQ?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 19:40:30 GMT",
-          "source": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "id": "a439a7f806e5",
-      "title": "I asked Instinct to plan 2 trips for me — and it sucked all the joy out of traveling - Business Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3hGS2I4WGJJR1JndmhtLWJmX1BoV2FTWC1salN3NGM0Wk16WS1EbTBqNnRMSFRCNEFOWktoV3BMcDNMVFViSHU0TmVKUXh6YlA2QTMyUWxJLTRsOHJvYl9tT3dYcU9aOV9uV3E3Ml9YWTFmbWZMYVViWjFFM2tOb0hEZDh3OXpPMzZERl9QN3BTM2hCc2hYWmI3Qng1T2dNMGc?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3hGS2I4WGJJR1JndmhtLWJmX1BoV2FTWC1salN3NGM0Wk16WS1EbTBqNnRMSFRCNEFOWktoV3BMcDNMVFViSHU0TmVKUXh6YlA2QTMyUWxJLTRsOHJvYl9tT3dYcU9aOV9uV3E3Ml9YWTFmbWZMYVViWjFFM2tOb0hEZDh3OXpPMzZERl9QN3BTM2hCc2hYWmI3Qng1T2dNMGc?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 10:58:00 GMT",
-          "source": "Business Insider"
-        }
-      ]
-    },
-    {
-      "id": "869d47f03596",
-      "title": "Chairwoman Nicole Boyd on Apostle Islands tourism workers - pbswisconsin.org",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXdiM2JXUUxqTnI1UEV0MTk3b2hQY1VsWjVGN2s1eHZtTXYyMElIMU1Dd1NrT1pVNjlIR2tnd3hSQlpiN1ZNcE9DZnZTbDR0TVNqLW10ZFpJRFNYWUQtMDdHSXg5a3lOV0xYRFVCZWJpZDRJZVI4SWFZeTdVTmgyc0dna3BZX3B3Y01VcTd0YTJfbUVib2l2LQ?oc=5\" target=\"_blank\">C",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXdiM2JXUUxqTnI1UEV0MTk3b2hQY1VsWjVGN2s1eHZtTXYyMElIMU1Dd1NrT1pVNjlIR2tnd3hSQlpiN1ZNcE9DZnZTbDR0TVNqLW10ZFpJRFNYWUQtMDdHSXg5a3lOV0xYRFVCZWJpZDRJZVI4SWFZeTdVTmgyc0dna3BZX3B3Y01VcTd0YTJfbUVib2l2LQ?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 18:01:21 GMT",
-          "source": "pbswisconsin.org"
-        }
-      ]
-    },
-    {
-      "id": "47dfe4f12ef4",
-      "title": "Consumer Reports: Do you need travel insurance? - KCRA",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkNrdmZaTkpobnN6OXA0MTlDY0VOUEZXS0tvSk41VXQ0YVBjWHJwTGZhMjh4X2pOQkcyX0Zqd25iNmRWT2hTV3dVa1ozM191amlEV0ptRkgzSE4zOUZGcFlScXcxdURlNUlEQ1pienhYdU15N01LV19IYXhueEQtWk52TmhONXM?oc=5\" target=\"_blank\">Consumer Reports: Do you",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkNrdmZaTkpobnN6OXA0MTlDY0VOUEZXS0tvSk41VXQ0YVBjWHJwTGZhMjh4X2pOQkcyX0Zqd25iNmRWT2hTV3dVa1ozM191amlEV0ptRkgzSE4zOUZGcFlScXcxdURlNUlEQ1pienhYdU15N01LV19IYXhueEQtWk52TmhONXM?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 14:55:00 GMT",
-          "source": "KCRA"
-        }
-      ]
-    },
-    {
-      "id": "588f07b83f61",
-      "title": "Watch China Expands Travel Curbs to Top AI Talent and Families - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSG1aNEZmQlFFY2w1a1gwdFZmUlFVb0xxM1NIZ0REc1hSSnBfOXd1MXo5d2htcHEwSnRYQUJZNk0yVmY2anNfa1dkdENETWhqLUNlaW0yZzV4SWxoZVMwWVVYbUhMLW9VZVNqTG45Nmt1YndWdi1JSEFxTGpWc3VUckpFd2FLaUhwRkRIWnVLYXVRZ1hSU3ExOGMyMnBJcDM4NDNzVnBrUHA2LW",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSG1aNEZmQlFFY2w1a1gwdFZmUlFVb0xxM1NIZ0REc1hSSnBfOXd1MXo5d2htcHEwSnRYQUJZNk0yVmY2anNfa1dkdENETWhqLUNlaW0yZzV4SWxoZVMwWVVYbUhMLW9VZVNqTG45Nmt1YndWdi1JSEFxTGpWc3VUckpFd2FLaUhwRkRIWnVLYXVRZ1hSU3ExOGMyMnBJcDM4NDNzVnBrUHA2LWFkTm80Yw?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 29 Sep 2026 00:00:00 GMT",
-          "source": "Bloomberg.com"
-        }
-      ]
-    },
-    {
-      "id": "572298efd834",
-      "title": "Illinois awards $4.6 million to boost tourism efforts statewide - wandtv.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDJMMEJmOXFwT2Zob3NqREdkRHBiVGxxckxDdGJuVTYyS3U0OVNlRkhDNkQ1bmdCRkxCTnRTRFFhYVM3amF1NVlDSXlScFkyTl8zZnBmQmxjVm0zeDF5bnVDYWwxYjIwdDE2Z2QwSUlORGNadGdoRnhEdlJmR241VkNSYWpTVWZXeU52VmgyNXJNY0FxWnpwTw?oc=5\" target=\"_blank\">I",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDJMMEJmOXFwT2Zob3NqREdkRHBiVGxxckxDdGJuVTYyS3U0OVNlRkhDNkQ1bmdCRkxCTnRTRFFhYVM3amF1NVlDSXlScFkyTl8zZnBmQmxjVm0zeDF5bnVDYWwxYjIwdDE2Z2QwSUlORGNadGdoRnhEdlJmR241VkNSYWpTVWZXeU52VmgyNXJNY0FxWnpwTw?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 29 Sep 2026 01:13:00 GMT",
-          "source": "wandtv.com"
-        }
-      ]
-    },
-    {
-      "id": "490bc0e5b8fe",
-      "title": "The Biggest Travel Trend in 2026 Brings You Back to the Golden Age - apartmenttherapy.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAwMVBzd2VBN3JMdWgzd0dNb1VTc0RBa3IwbHZPZ3l3OHZENVdacFpsdlNMakxraDhPTnAzbjQ2ZGE1S2FKVV9aY2VzYUVYOF8wRmxkWmc5MWxMNzlha190MVl6ZTBmd3R6WUFUWg?oc=5\" target=\"_blank\">The Biggest Travel Trend in 2026 Brings You Back to the Golde",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwMVBzd2VBN3JMdWgzd0dNb1VTc0RBa3IwbHZPZ3l3OHZENVdacFpsdlNMakxraDhPTnAzbjQ2ZGE1S2FKVV9aY2VzYUVYOF8wRmxkWmc5MWxMNzlha190MVl6ZTBmd3R6WUFUWg?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 14:00:34 GMT",
-          "source": "apartmenttherapy.com"
-        }
-      ]
-    },
-    {
-      "id": "2607121311f5",
-      "title": "Riddle named 2026 Tourism Professional of the Year - dominionpost.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVE1a2xVUDRkSzJWeG5rTG4zdHQ0US15OXg2c1NCVmpfalBUT1REUW5VNUNUb1M0cHRlb3g3bG1wa1NPcDBhTkEwdEYxQ0lVWkZjMjl3STRfZF9hZDBGYXVRcFNzUGNSemlOaFZlcWhZcU5SSmRiZG05UWZVTU16eDdNT19rTFFQV1VyanBlRkFUbnRCdGc?oc=5\" target=\"_blank\">Ridd",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVE1a2xVUDRkSzJWeG5rTG4zdHQ0US15OXg2c1NCVmpfalBUT1REUW5VNUNUb1M0cHRlb3g3bG1wa1NPcDBhTkEwdEYxQ0lVWkZjMjl3STRfZF9hZDBGYXVRcFNzUGNSemlOaFZlcWhZcU5SSmRiZG05UWZVTU16eDdNT19rTFFQV1VyanBlRkFUbnRCdGc?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 22:05:49 GMT",
-          "source": "dominionpost.com"
-        }
-      ]
-    },
-    {
-      "id": "8f9798d9dfd4",
-      "title": "Washoe County breaks all-time tourism record with $57.5M in August room revenue - KOLO | 8 News Now",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPakJVbVptSDFVeE5tdzBFb2RfOC0yRmVSQUJseFkyUkVZZ0JWamRtTWhBSmZRN1dfUDZYZTRfMXVLaWNUOVBpRU44dU4yS19KN2g3S1pxX3hmZVhKeHhMaF9XV04zQUp2VXFyX0VSWlAxYnY5UU4tQk1neGVxOGVOeTNXVklOVzlxdXZsWFMwOXNZNU53dkp6ZzNtQk5WVFUtaWJoM2JvajQ3MF",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakJVbVptSDFVeE5tdzBFb2RfOC0yRmVSQUJseFkyUkVZZ0JWamRtTWhBSmZRN1dfUDZYZTRfMXVLaWNUOVBpRU44dU4yS19KN2g3S1pxX3hmZVhKeHhMaF9XV04zQUp2VXFyX0VSWlAxYnY5UU4tQk1neGVxOGVOeTNXVklOVzlxdXZsWFMwOXNZNU53dkp6ZzNtQk5WVFUtaWJoM2JvajQ3MFRiSlHSAcIBQVVfeXFMT3JBQzVzcUdneUVKZjBUb3U4VWRfSkh4M1JDSWRhR3FuRk05MHZseTNsenVNZU5MMzF2ZWRTV1pFcUMxakpDOEVNaUNBbnhxbWZaaUZ4WTVLM3drZVRDYnhWT0ZIWWRfRmtMR2ZxTTFUM0JWV3I1LXZwb1pWNzBiWm9iQTB2MUtFMDF6Q3NUbGNhdWJyTzg1UWdrQi16cmJmZjIybHJYSGpWaXh6LTZUZFdIdjR5NU0tdVlDTERlT2JQbkE?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 23:54:00 GMT",
-          "source": "KOLO | 8 News Now"
-        }
-      ]
-    },
-    {
-      "id": "da3ab5f5e6ba",
-      "title": "Road construction on SR-23 slows travel between North Liberty and South Bend - wndu.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3c4NC0zSUtzeTVvM2NZVnktWXFua3R1QzZ6Ylp4WGhzalpYTFo1NnZESURLMU5QU1h1U0I4LUdEcjl1RjBsNlNvTVZvUXR3UXpHZDk3b2hsM1BkODlHSDdqVFY0NVJmWXdIeFAyc0hTV1doQjJNRC1DRTdTMGxhYl9VU0VJWm5RRXd0MU5lc3o5MnY3MU4wOHk5ODRYRE9tcmRzV9IBuAFBVV",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3c4NC0zSUtzeTVvM2NZVnktWXFua3R1QzZ6Ylp4WGhzalpYTFo1NnZESURLMU5QU1h1U0I4LUdEcjl1RjBsNlNvTVZvUXR3UXpHZDk3b2hsM1BkODlHSDdqVFY0NVJmWXdIeFAyc0hTV1doQjJNRC1DRTdTMGxhYl9VU0VJWm5RRXd0MU5lc3o5MnY3MU4wOHk5ODRYRE9tcmRzV9IBuAFBVV95cUxQSTNlNkxjcnMwcmZKOUd4Qzc3dzZLSUFPRFNMX1ZwdUp4elpsSFJNMHlKRWZsNTJFQVA3dzAtMFVhNzJrQ0tDTExiNG1kRUFVNnVNdzFTc3QydEE0OURiNU5GT3dkUVBLVS1ZTmVvZ1Z6SkNXbTBnQlVpazJjQ294UUtzQ3oxVlBpSVg5cjR3cmNQSE9DUG1jYW9mVVlLajNfTk90ZDRJX3pPc2RBU1dNaURxMEFUcWND?oc=5",
-      "score": 45.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 22:44:00 GMT",
-          "source": "wndu.com"
-        },
-        {
-          "published": "Mon, 28 Sep 2026 22:41:00 GMT",
-          "source": "wndu.com"
-        }
-      ]
-    },
-    {
-      "id": "725f0c244841",
-      "title": "Springfield families question holiday travel conflicts after calendar change - Western Mass News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVpITXZ2RDlFMHlvY0lIM0lXVWs3ZkNUUk9nZkg2VWJEdFZ1NUZndXFWd2ppNjhzdkZWUVVRUC1EcnBpN28zU1oxR0ZuSVo3STdEVXdYVGxhUnkyOTRpVEQzRnVvSGY2RkFUSFItcFE4M09iU1V0MWN4Uy1SM0JYNi1PRmdtcHQySXhFbUo5bUJyOVphM3NLQXU2dzZvbTFoWXNRREJvZTZqRm",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVpITXZ2RDlFMHlvY0lIM0lXVWs3ZkNUUk9nZkg2VWJEdFZ1NUZndXFWd2ppNjhzdkZWUVVRUC1EcnBpN28zU1oxR0ZuSVo3STdEVXdYVGxhUnkyOTRpVEQzRnVvSGY2RkFUSFItcFE4M09iU1V0MWN4Uy1SM0JYNi1PRmdtcHQySXhFbUo5bUJyOVphM3NLQXU2dzZvbTFoWXNRREJvZTZqRmlNQ2dwWEtEZjh1ZHlMNGtQcdIB0AFBVV95cUxNRmUzaWhINjlqVXpRcG1sU0NCVGgycDZ5MFFXX2lHRGgzMkJtU2NoUk5YNF9NRzV5WW9uZERoZURlTmJTYWlvUHNiMHJvOGV5XzhUd201M2xNNUF3RkJSZmRHb2x4amVOVHptTXBscnlUTmlNcW9qQXp0Zllfd1FkYWNpc1J3UThHeFdNUTNrUk9VMFlFSUlNbnJGeUNYT3dsRERHa3lHdFNObXFRLTcyekVvTHo4SF9lSkp0U2dtM1JmR3NEMFhGUEk5Zzg3eGpi?oc=5",
+      "id": "7c144e918b1f",
+      "title": "BBVA and eDreams sign strategic agreement to connect digital banking and travel in Italy and Germany - BBVA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjBKYzM2YU5yTEc1STRVNWN5U0V6Ukx4b2g1VFZnS1NEZTY5d29pb09zV3EtNEFYYTdLY3p5MmlnZ0RYeVo4eHNNZkN0R3JMU2tEZ2pOUXpMTFd2b1JQWXExUi1FVHRJQ2RzTkZob0djWUVSOFlkdXI0ZjRHTDcxaEx5bGVZZWpPSUZtQk5YT2hETC1iMDZ2eUtKNE1zbVhkQkdZRExCMjJpeV",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjBKYzM2YU5yTEc1STRVNWN5U0V6Ukx4b2g1VFZnS1NEZTY5d29pb09zV3EtNEFYYTdLY3p5MmlnZ0RYeVo4eHNNZkN0R3JMU2tEZ2pOUXpMTFd2b1JQWXExUi1FVHRJQ2RzTkZob0djWUVSOFlkdXI0ZjRHTDcxaEx5bGVZZWpPSUZtQk5YT2hETC1iMDZ2eUtKNE1zbVhkQkdZRExCMjJpeV9ra00xaERLUFJYMTRvVTB6bFlOdGVvM195X1JPMzVUUGszMmdlcGc?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -282,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
+      "first_seen": "2026-09-29T12:42:58+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 28 Sep 2026 19:05:00 GMT",
-          "source": "Western Mass News"
+          "published": "Tue, 29 Sep 2026 08:07:57 GMT",
+          "source": "BBVA"
         }
       ]
     },
     {
-      "id": "3752464d0356",
-      "title": "Critics warn Baltimore could go broke as debt grows and travel bills pile up - WBFF",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxORUUzMjR4QXJKVEZSdE5rU25BRjF0MzFhbEtHdFJiTF85SDFpT0x0dnhhdnZ0MzJXT2JxRGpDZlVteEFCWlNDeEZVX2taVHk4ZVIzcU1KSmkyd3M2eTZGRUtDTnRjQlRSVGl3YzRzMjBDN2tkZ0VfcWI4VWdtY19SMHk5ckpfUzFsY21ySnJpeWY1ZXlzWmk4c19jVklnYjJWbzJRZE9lb2ZNUn",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORUUzMjR4QXJKVEZSdE5rU25BRjF0MzFhbEtHdFJiTF85SDFpT0x0dnhhdnZ0MzJXT2JxRGpDZlVteEFCWlNDeEZVX2taVHk4ZVIzcU1KSmkyd3M2eTZGRUtDTnRjQlRSVGl3YzRzMjBDN2tkZ0VfcWI4VWdtY19SMHk5ckpfUzFsY21ySnJpeWY1ZXlzWmk4c19jVklnYjJWbzJRZE9lb2ZNUnFQWDN0TnBjdmVqV0FFUW9yanY0eDF5OHAtZmRWb3c0SQ?oc=5",
+      "id": "849e1b934c85",
+      "title": "‘On a scale of 1 to 10, 10’: Trump’s midterm travel schedule underscores GOP troubles - Politico",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWlWRnRiYzFxZDFjaUNUcmcya3dPTnFXNlBObFBKUXNqRm5wcWJteTgtdnpQYS1sZHJ6NW9vc0swVVVUYVZkZ1lxSEJlSGlUZlhqR0ZiOFNrVmxhckI3NWJrTGxJaVZuSm9kbWJCdEp1bk1YWk44Vzl4bXh6NWx6Z2UzSDgwZ0pSeU1JeTdBclBZaDVTNDIyUHJIbHBlSFRvRjQ5RFhTb0dzNT",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWlWRnRiYzFxZDFjaUNUcmcya3dPTnFXNlBObFBKUXNqRm5wcWJteTgtdnpQYS1sZHJ6NW9vc0swVVVUYVZkZ1lxSEJlSGlUZlhqR0ZiOFNrVmxhckI3NWJrTGxJaVZuSm9kbWJCdEp1bk1YWk44Vzl4bXh6NWx6Z2UzSDgwZ0pSeU1JeTdBclBZaDVTNDIyUHJIbHBlSFRvRjQ5RFhTb0dzNTZZR0h2VFRmY2VxRUVHVDJ4Z05uUlA?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -302,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
+      "first_seen": "2026-09-29T12:42:58+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 29 Sep 2026 01:58:59 GMT",
-          "source": "WBFF"
+          "published": "Tue, 29 Sep 2026 09:50:00 GMT",
+          "source": "Politico"
         }
       ]
     },
     {
-      "id": "957a0f7dd06e",
-      "title": "Revealed: The top 10 countries for travel and tourism in 2026 - Euronews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWxYMU9Kczhpb3BiYmtTSldQUkYtNWI5VERMeUtoaFFtZHFLSzZla19meFRjNmxiNFNRYTN5MGpVTWRBQklqYnMxMW5QdVpFMVRQRDdQQXpJcGRCZ08tZERsYUp3Z3VZcmNSRGRmN1ltdFM2NGFZOG9rUkdHZ292bzNZLTZNSmFHbzhwbS1Rc2dIT0tBWWhDQXFxZTRrdVZvaVNSbl9XT0dXSW",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWxYMU9Kczhpb3BiYmtTSldQUkYtNWI5VERMeUtoaFFtZHFLSzZla19meFRjNmxiNFNRYTN5MGpVTWRBQklqYnMxMW5QdVpFMVRQRDdQQXpJcGRCZ08tZERsYUp3Z3VZcmNSRGRmN1ltdFM2NGFZOG9rUkdHZ292bzNZLTZNSmFHbzhwbS1Rc2dIT0tBWWhDQXFxZTRrdVZvaVNSbl9XT0dXSWRTNzhESw?oc=5",
+      "id": "51f0f0f7790d",
+      "title": "Greater Topsail Area Chamber Of Commerce & Tourism Announces Annual Awards - WilmingtonBiz",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeV80cFZHT2pDekQycHBlMmFJU2tvTFlOdzJyb2EzeVJERUlxY1F3ajFwb1JRbzNuQ1AwRFpycndkU3ZhZ213UjZid0xqNzc0T1U5YkFieEVacDFwejI5c012Q1g0UjVCUVdUX09qcUhRMUlwUm5aR0J2QnlRXzhmVEFLX1BGbWw4ZE93VDFvQm5kZkk0RnpxbGpqaDRPekkzckd5aEFsZW56QU",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeV80cFZHT2pDekQycHBlMmFJU2tvTFlOdzJyb2EzeVJERUlxY1F3ajFwb1JRbzNuQ1AwRFpycndkU3ZhZ213UjZid0xqNzc0T1U5YkFieEVacDFwejI5c012Q1g0UjVCUVdUX09qcUhRMUlwUm5aR0J2QnlRXzhmVEFLX1BGbWw4ZE93VDFvQm5kZkk0RnpxbGpqaDRPekkzckd5aEFsZW56QUM0XzJpc1ZXUWlBblVfcVBSTXJTV0RtalhNSXNFOGNydnNCSVY3T1NTT1prWkJ5aEJ5TDQ4ag?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -322,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
+      "first_seen": "2026-09-29T12:42:58+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 28 Sep 2026 08:00:05 GMT",
-          "source": "Euronews.com"
+          "published": "Tue, 29 Sep 2026 11:55:10 GMT",
+          "source": "WilmingtonBiz"
         }
       ]
     },
     {
-      "id": "4a413867f740",
-      "title": "FBI seeking potential victims of fraud by Omaha travel agent - WOWT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUTA1NEZ6VXYyYjZ1dnBHVlBrYXlxMDlSSWRBYXJzSVZvVlQ1S2FnYV9LMHFiUTQwYnp3MTl4cTNGQllRRWh5Xy1LNzJGN0NrWElmS05ZcE5LczBRejhocTdkYlhBRWJCU0dKZTJOZ09DRFJxWUJTMjc5eEZPVFVNMng2ckFFVzd6b0trU0dHUGdabDBI0gGoAUFVX3lxTE9kakI1d3djVmVPdW",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUTA1NEZ6VXYyYjZ1dnBHVlBrYXlxMDlSSWRBYXJzSVZvVlQ1S2FnYV9LMHFiUTQwYnp3MTl4cTNGQllRRWh5Xy1LNzJGN0NrWElmS05ZcE5LczBRejhocTdkYlhBRWJCU0dKZTJOZ09DRFJxWUJTMjc5eEZPVFVNMng2ckFFVzd6b0trU0dHUGdabDBI0gGoAUFVX3lxTE9kakI1d3djVmVPdW10eTVGWUowWFVqaUtXQ3BpQzFONmRVaHdDWVZaWlVMSDJ5N0tRR2ZtUXhEVU9Lbm9ZSWhpUFpMdkZxUURmb3JjM3Nuel9odGs5UXg2Rm16c1NrbVpEVFRZNTBGRld6YmtkYkRoZDY0MTkycGtONTE4TUdBaTRsaHdadjNxS2k1QUtpVzZadkY0V1phd1lxbVpqODJ6Vg?oc=5",
+      "id": "06ae1da947f6",
+      "title": "Fort Pierre Seeks Resident Input On Future Of Local Tourism - DRGNews",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnQtV21yQlBScjNzT3RnUENPamxpbzRnbVNWNDZWbGJWLXBUQVB2UXRsWkZhenYxV0J6NF9SeER4TzFadVliOHFnS1NnYlE2MG5TLVZZQnFRTWFSREVvMjBRdDQ0cEEwbDdma2k3R05Cc2JPQkxFYnhPRk1xcjVlMGJPWnJUbWJmMVU0ZVIzSm8xaUs2UFE?oc=5\" target=\"_blank\">Fort",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnQtV21yQlBScjNzT3RnUENPamxpbzRnbVNWNDZWbGJWLXBUQVB2UXRsWkZhenYxV0J6NF9SeER4TzFadVliOHFnS1NnYlE2MG5TLVZZQnFRTWFSREVvMjBRdDQ0cEEwbDdma2k3R05Cc2JPQkxFYnhPRk1xcjVlMGJPWnJUbWJmMVU0ZVIzSm8xaUs2UFE?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -342,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
+      "first_seen": "2026-09-29T12:42:58+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 28 Sep 2026 17:05:00 GMT",
-          "source": "WOWT"
+          "published": "Tue, 29 Sep 2026 11:32:25 GMT",
+          "source": "DRGNews"
         }
       ]
     },
     {
-      "id": "0d0b1867c8fb",
-      "title": "Visit Tuolumne County Announces 2026 Tourism Award Winners - myMotherLode.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMW9OWTBVcXhtZ3VHRVNZWG9FNllIOWJ0XzBTclVMeEg0SWc1bnFHaTdoUUNOUDhJb25paUFkeUw3WDZrb3dBazRJY2pGbFZzVjJ2VUJpSWJpLTFjdERzSm4waWVBOC1veFp3MkhZazlQeUJPVEdWWDhrSkp4LXFCN0ZwSHladWhOOUdxTjFwM2g5bWxHdjJaNEI3bWdKXzhxd204LVRKMWkwSW",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMW9OWTBVcXhtZ3VHRVNZWG9FNllIOWJ0XzBTclVMeEg0SWc1bnFHaTdoUUNOUDhJb25paUFkeUw3WDZrb3dBazRJY2pGbFZzVjJ2VUJpSWJpLTFjdERzSm4waWVBOC1veFp3MkhZazlQeUJPVEdWWDhrSkp4LXFCN0ZwSHladWhOOUdxTjFwM2g5bWxHdjJaNEI3bWdKXzhxd204LVRKMWkwSWs30gGyAUFVX3lxTE5YSWJsOVlpb2tZNm0tYVBvNE4wNWFSTDlTRldvT05MQU5DYXp0QUFKRGdDSzZCdDdZZXVSSVhid1RxcmFPNC1vcTFIV1ZVRkUzWXNxODd3RWNuUzhCeEJMYWo3cUVmanhTemYybVhKckJwYnZnaHByRG9nenVFcFRFVjRValJCZHZZaVNpT19lZkVmbE05R3JLaWh1NWVJWVF1ckVlTGhDNnp2eVNnZzk3SUE?oc=5",
+      "id": "dc611d240efd",
+      "title": "Alaska Air bets on premium travel for earnings boost as fuel costs bite - reuters.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE13SVhVZi1LZTZ0ZDhfOFlfTU9hX04ydDNQdWZwWkpHT3gwZVl3QXBPNXBjd00zcjExdVZMY2NWOXBJcUl6OXdTTEgtNHlBYkF4aXVoNDRKcFNCdUY2dGlXQlJ6SlFDZ0NuLXlpR0xYQ3UtN1Z1OW5Sc2tkT2drZnhhTGNtSGVORkRmeUhSczJrd1IyWF9OM2hpWkhBV0xZOTVMcEJUTnpRZT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE13SVhVZi1LZTZ0ZDhfOFlfTU9hX04ydDNQdWZwWkpHT3gwZVl3QXBPNXBjd00zcjExdVZMY2NWOXBJcUl6OXdTTEgtNHlBYkF4aXVoNDRKcFNCdUY2dGlXQlJ6SlFDZ0NuLXlpR0xYQ3UtN1Z1OW5Sc2tkT2drZnhhTGNtSGVORkRmeUhSczJrd1IyWF9OM2hpWkhBV0xZOTVMcEJUTnpRZTZhNlZ6blF5dVFHSnVpQVVOWldxQkktdw?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -362,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
+      "first_seen": "2026-09-29T12:42:58+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 28 Sep 2026 23:52:53 GMT",
-          "source": "myMotherLode.com"
+          "published": "Tue, 29 Sep 2026 12:03:44 GMT",
+          "source": "reuters.com"
         }
       ]
     },
     {
-      "id": "496fe79e6dc1",
-      "title": "A Rare Super El Niño with \"Godzilla Strength\" Is Upon Us. Here's How it Could Derail Your Travel Plans. - Outside Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1EzLXA3Y1FPc1Y5eElUUU4ycDVlMS03Q2d3aUktV2lwdzVJOWd3aWhEUUkzdnFHUHZjbi01R29Udm9kbzhmN0U5N2k3eGdPVVI3dGJSNm5ELVJWMVJ5NExISEtiUTBodGFLNXFDeG15aUlSSlhxNlhMLVU5SlZvM0R4SnhuLS1mMEdxbTk2Z2tBd2dD?oc=5\" target=\"_blank\">A Rare ",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1EzLXA3Y1FPc1Y5eElUUU4ycDVlMS03Q2d3aUktV2lwdzVJOWd3aWhEUUkzdnFHUHZjbi01R29Udm9kbzhmN0U5N2k3eGdPVVI3dGJSNm5ELVJWMVJ5NExISEtiUTBodGFLNXFDeG15aUlSSlhxNlhMLVU5SlZvM0R4SnhuLS1mMEdxbTk2Z2tBd2dD?oc=5",
+      "id": "f73d5f13e619",
+      "title": "US Global Entry for Belgians could come by the end of 2026 - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0VkY2IyeEJfSVY5RDEyOFNuMVAzektXQ2FjcVJQVllKU2FwRnIxQ0FPeU10dUdsUDdVeVNaTmVvUlhValdyNUt5QkY4UVpKaFpRRFJUSXc1d1lyd0xJR0JvbGlOY2JIZWNza0lQeXBGVEdOdmRGakU3U2NUQjljcjc0Q3ZUbkRXUUR5aXlDbkp0MG1BWEZMR0VYWGd3VjA3enNGX0ljVnZiNH",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0VkY2IyeEJfSVY5RDEyOFNuMVAzektXQ2FjcVJQVllKU2FwRnIxQ0FPeU10dUdsUDdVeVNaTmVvUlhValdyNUt5QkY4UVpKaFpRRFJUSXc1d1lyd0xJR0JvbGlOY2JIZWNza0lQeXBGVEdOdmRGakU3U2NUQjljcjc0Q3ZUbkRXUUR5aXlDbkp0MG1BWEZMR0VYWGd3VjA3enNGX0ljVnZiNHUtRUdfOWNlSmE4RHYwbVd5Z1dwdXVIVWpl?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -382,11 +378,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-09-29T05:36:49+00:00",
+      "first_seen": "2026-09-29T12:42:58+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 28 Sep 2026 19:30:53 GMT",
-          "source": "Outside Magazine"
+          "published": "Tue, 29 Sep 2026 11:29:12 GMT",
+          "source": "Euronews.com"
+        }
+      ]
+    },
+    {
+      "id": "121286dd308e",
+      "title": "Tourism leaders: Central Europe should be marketed as one destination - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXBETDJxQ0VlTVFXdWV5ekNHVUxsMXBkUXR3eGwzZjNRRG5VTzhIQVdoeGtyeHRVNGw5MHZ4TmF3V05QRFJQOUZfN21MZnpkTW5oWDJ4ZkdRNkE2ZUN6RjhwbEI5QURxY3Ffb3NGSXdhcHNsRENBOE9UYThHTzFrb3JURlB1M1lleEN5ajk4cVZMWDQ0Q0xYWWZILUxSTHdRNDROdXloMXd1dy",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXBETDJxQ0VlTVFXdWV5ekNHVUxsMXBkUXR3eGwzZjNRRG5VTzhIQVdoeGtyeHRVNGw5MHZ4TmF3V05QRFJQOUZfN21MZnpkTW5oWDJ4ZkdRNkE2ZUN6RjhwbEI5QURxY3Ffb3NGSXdhcHNsRENBOE9UYThHTzFrb3JURlB1M1lleEN5ajk4cVZMWDQ0Q0xYWWZILUxSTHdRNDROdXloMXd1dy1YWVRfN2JsWXpjQkFpNXVCcGNjbWhGU0lL?oc=5",
+      "score": 21.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-09-29T12:42:58+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 10:43:40 GMT",
+          "source": "Euronews.com"
         }
       ]
     }

@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "UK",
-  "generated_at": "2026-09-29T05:45:41+00:00",
+  "generated_at": "2026-09-29T12:52:06+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 25,
   "trends": [
     {
       "id": "345a4e29633b",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "first_seen": "2026-09-29T12:42:48+00:00",
       "raw_samples": [
         {
           "published": "Fri, 25 Sep 2026 07:00:00 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "first_seen": "2026-09-29T12:42:48+00:00",
       "raw_samples": [
         {
           "published": "Tue, 29 Sep 2026 03:06:12 GMT",
@@ -47,10 +47,10 @@
       ]
     },
     {
-      "id": "609f4acd296d",
-      "title": "Buy-to-let vs stock market: Which one could give you better growth? - MoneyWeek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTEhBUlNodDNuTWFzU0dKbTVFT2NyOVZuLU1ROENqSnVWdFY3Wm1RVklRQlhVZnB1OEhLaEZjMXdmamFOSndVcWU3MUFuX3RQMnpwY3J5bXpoSzhaY3lDeENTS25YdnA2b29SOA?oc=5\" target=\"_blank\">Buy-to-let vs stock market: Which one could give you better g",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTEhBUlNodDNuTWFzU0dKbTVFT2NyOVZuLU1ROENqSnVWdFY3Wm1RVklRQlhVZnB1OEhLaEZjMXdmamFOSndVcWU3MUFuX3RQMnpwY3J5bXpoSzhaY3lDeENTS25YdnA2b29SOA?oc=5",
+      "id": "e717b2f6f18f",
+      "title": "I’m ignoring the FTSE 100’s biggest winners and searching elsewhere on the UK stock market - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzI0YzlrRnMwa3dLSEd2WGNtRGtPa1BkVTNfcHBfY2JBa01rRW8ydDlLMURQNHR4NkNtYTdPZEtJdzd4am1fTlNpRUVMU2pjUXJTdTZ1LWRWZUQwZlBIZGF6US0yVm8xV1MtS1JQZGJ1alhHRzcxQlA1OWFmLUhURWRn?oc=5\" target=\"_blank\">I’m ignoring the FTSE 100’s big",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzI0YzlrRnMwa3dLSEd2WGNtRGtPa1BkVTNfcHBfY2JBa01rRW8ydDlLMURQNHR4NkNtYTdPZEtJdzd4am1fTlNpRUVMU2pjUXJTdTZ1LWRWZUQwZlBIZGF6US0yVm8xV1MtS1JQZGJ1alhHRzcxQlA1OWFmLUhURWRn?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,7 +58,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "first_seen": "2026-09-29T12:42:48+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 26 Sep 2026 12:50:22 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "609f4acd296d",
+      "title": "Buy-to-let vs stock market: Which one could give you better growth? - MoneyWeek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTEhBUlNodDNuTWFzU0dKbTVFT2NyOVZuLU1ROENqSnVWdFY3Wm1RVklRQlhVZnB1OEhLaEZjMXdmamFOSndVcWU3MUFuX3RQMnpwY3J5bXpoSzhaY3lDeENTS25YdnA2b29SOA?oc=5\" target=\"_blank\">Buy-to-let vs stock market: Which one could give you better g",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTEhBUlNodDNuTWFzU0dKbTVFT2NyOVZuLU1ROENqSnVWdFY3Wm1RVklRQlhVZnB1OEhLaEZjMXdmamFOSndVcWU3MUFuX3RQMnpwY3J5bXpoSzhaY3lDeENTS25YdnA2b29SOA?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-09-29T12:42:48+00:00",
       "raw_samples": [
         {
           "published": "Mon, 28 Sep 2026 09:13:32 GMT",
@@ -67,18 +87,58 @@
       ]
     },
     {
-      "id": "36ae5d821473",
-      "title": "Stocks Fall on Fog of War and Fear of AI: Stock Market Today - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGR6T0g1UlpiZVZGaW9CM3dZNEtBcGhFcWh0eUJwQ1MxaDJtSXVaaW9BVzJnOGpfaWdpanRWXzBWR2RZUmdnTnR2S3VHMlZnUXhMVWxzd2VPaENZZEFnTjJNb0hmUGFITUY5SUdQeUFtOExyQVpoRHFuSnRLQ3RiaS1fODBOcE0xeDdJTGF4QkRtNnZFRXFDU3B1MF9pZHJTaEY5Qg?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGR6T0g1UlpiZVZGaW9CM3dZNEtBcGhFcWh0eUJwQ1MxaDJtSXVaaW9BVzJnOGpfaWdpanRWXzBWR2RZUmdnTnR2S3VHMlZnUXhMVWxzd2VPaENZZEFnTjJNb0hmUGFITUY5SUdQeUFtOExyQVpoRHFuSnRLQ3RiaS1fODBOcE0xeDdJTGF4QkRtNnZFRXFDU3B1MF9pZHJTaEY5Qg?oc=5",
-      "score": 79.2,
+      "id": "5c157da76de0",
+      "title": "What 5% bond yields mean for stock market investors - fidelity.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3VCalc3Vk5nQ3VVWVVIM3lSMEFWYndWNWtxeGs4Rm5qRjJLNVJPNXY4dHFOVndKbS1KY1N1aFpGQVZSbkVHd2lUa0FBTlh4cDcwY0xkQUh5XzBJSW0tMkdrS3VDTWFLSUpBZUdrQWNfZ0pIZHkwSUtsOWNTVTFXZXZqUTYyaUNXSzF1Slkza0s1TnE1VmJsUXI5TWFYTkJvUmJMaEw5b0ROWF",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3VCalc3Vk5nQ3VVWVVIM3lSMEFWYndWNWtxeGs4Rm5qRjJLNVJPNXY4dHFOVndKbS1KY1N1aFpGQVZSbkVHd2lUa0FBTlh4cDcwY0xkQUh5XzBJSW0tMkdrS3VDTWFLSUpBZUdrQWNfZ0pIZHkwSUtsOWNTVTFXZXZqUTYyaUNXSzF1Slkza0s1TnE1VmJsUXI5TWFYTkJvUmJMaEw5b0ROWF9UaDZB?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "first_seen": "2026-09-29T12:42:48+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+          "source": "fidelity.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "62ae22053580",
+      "title": "Meet the 1 Stock I'd Buy With $5,000, Even If the Market Fell 10% Tomorrow - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUFQY29fc0tvMEFSaVVqcU9EQ1oyMVdtOUNCZDVZYjNFMEEyWFdOd2RnMUNsQ3BBTXRIVUxRaXZ5Z1VXNzlVR196SElzLXBrbzZFUzBBTXRyRXZYZVhSRjMzLVJFZUVZd185VXNoejlTdjR4U0taVms3dnByTVUyaTc1N0hjS0F1ejNEWDNqNGZfWElrUXl4dw?oc=5\" target=\"_blank\">M",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUFQY29fc0tvMEFSaVVqcU9EQ1oyMVdtOUNCZDVZYjNFMEEyWFdOd2RnMUNsQ3BBTXRIVUxRaXZ5Z1VXNzlVR196SElzLXBrbzZFUzBBTXRyRXZYZVhSRjMzLVJFZUVZd185VXNoejlTdjR4U0taVms3dnByTVUyaTc1N0hjS0F1ejNEWDNqNGZfWElrUXl4dw?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-09-29T12:42:48+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 12:26:27 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "36ae5d821473",
+      "title": "Stocks Fall on Fog of War and Fear of AI: Stock Market Today - Kiplinger",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGR6T0g1UlpiZVZGaW9CM3dZNEtBcGhFcWh0eUJwQ1MxaDJtSXVaaW9BVzJnOGpfaWdpanRWXzBWR2RZUmdnTnR2S3VHMlZnUXhMVWxzd2VPaENZZEFnTjJNb0hmUGFITUY5SUdQeUFtOExyQVpoRHFuSnRLQ3RiaS1fODBOcE0xeDdJTGF4QkRtNnZFRXFDU3B1MF9pZHJTaEY5Qg?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGR6T0g1UlpiZVZGaW9CM3dZNEtBcGhFcWh0eUJwQ1MxaDJtSXVaaW9BVzJnOGpfaWdpanRWXzBWR2RZUmdnTnR2S3VHMlZnUXhMVWxzd2VPaENZZEFnTjJNb0hmUGFITUY5SUdQeUFtOExyQVpoRHFuSnRLQ3RiaS1fODBOcE0xeDdJTGF4QkRtNnZFRXFDU3B1MF9pZHJTaEY5Qg?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-09-29T12:42:48+00:00",
       "raw_samples": [
         {
           "published": "Mon, 28 Sep 2026 20:10:05 GMT",
@@ -87,70 +147,10 @@
       ]
     },
     {
-      "id": "07f1e459a256",
-      "title": "GMO sends stark warning on stock market - thestreet.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGUxemhUdmlXTHp1N2ZZWWpubklUbVFVdVU3WVRmTVVVUlNkWjJrTExjNTJfRC00dWlHaTNHMjNpcXMxbU5jNnJVSUNMQnh4TVY5eWVnY2R5V2ZWU1UtZGxTRjJEOWNfX1pPMmJnbDR6ejNUUWQ1OVg4OGEwNUdYdl9Ib1oybmhFOFk4Z2pzc0N5V1lIZFFtWWFJb2tTYWc?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGUxemhUdmlXTHp1N2ZZWWpubklUbVFVdVU3WVRmTVVVUlNkWjJrTExjNTJfRC00dWlHaTNHMjNpcXMxbU5jNnJVSUNMQnh4TVY5eWVnY2R5V2ZWU1UtZGxTRjJEOWNfX1pPMmJnbDR6ejNUUWQ1OVg4OGEwNUdYdl9Ib1oybmhFOFk4Z2pzc0N5V1lIZFFtWWFJb2tTYWc?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 18:03:00 GMT",
-          "source": "thestreet.com"
-        }
-      ]
-    },
-    {
-      "id": "1ec919c47cca",
-      "title": "Here's What 60 Years of History Tells Us About Stock Market Crashes - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVZZZm93b2FyWkQ0TUpVamxham1xaElSX1JJSGFndXh3VzJ4LTd4YjdsRXlYUFljX2FDaWtGYkN5LVdtTU92eXNDdmVydmx5ZDJCaVJaS3Z2bXFmcFFvcU9PUWVLRHE5THhjbzhud2l2WTRORzdOVHFVQUdaQUVuUC1BUGdjX1NKUTd6aW1WVzNjWlk?oc=5\" target=\"_blank\">Here's W",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVZZZm93b2FyWkQ0TUpVamxham1xaElSX1JJSGFndXh3VzJ4LTd4YjdsRXlYUFljX2FDaWtGYkN5LVdtTU92eXNDdmVydmx5ZDJCaVJaS3Z2bXFmcFFvcU9PUWVLRHE5THhjbzhud2l2WTRORzdOVHFVQUdaQUVuUC1BUGdjX1NKUTd6aW1WVzNjWlk?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 26 Sep 2026 15:43:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "d5347fc0c3a9",
-      "title": "African payments firm Airtel Money plots debut on London stock market - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGRPcnVnM0twaU1wUWNWUGo5eDJWeTlkVXV0MG9GeHowRmc1ODRlajNCTzJ0Tmt6VWt1dk0yWUNTNUxxQk95THlCbHEwYncxX1E3VUFXTHhwSFdyVi1jNWZWNUlRZnA4NU1jZ1NDdzVoMHBwc3J4M2tsdklOZVFoS19jSFBna1pDckpr?oc=5\" target=\"_blank\">African payments fi",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGRPcnVnM0twaU1wUWNWUGo5eDJWeTlkVXV0MG9GeHowRmc1ODRlajNCTzJ0Tmt6VWt1dk0yWUNTNUxxQk95THlCbHEwYncxX1E3VUFXTHhwSFdyVi1jNWZWNUlRZnA4NU1jZ1NDdzVoMHBwc3J4M2tsdklOZVFoS19jSFBna1pDckpr?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 23 Sep 2026 09:28:28 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
-    },
-    {
-      "id": "5586dee541e9",
-      "title": "Will Labour Raise Capital Gains Tax at the Autumn Budget? - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1ZsMlhORGk3Y0VZSjRTZV9pbGJjdmpYMVpUdmZUc3c0YjMtaGxGRndSa1VFQW1KVDNKSG1OUWhpaWg5cFhDX3hLQ0lqRl92T2hnYlJERENKRU1jWm5MMHNCWWxsNVkyc1lEVmtRMk9oenZMVll1NlY0X0ZYVnZTNDg3VGRpYV9ueVRtOUFqdWQ3ZEdaYkdSZlJFb0wzcWF5MzV0ZjRB?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1ZsMlhORGk3Y0VZSjRTZV9pbGJjdmpYMVpUdmZUc3c0YjMtaGxGRndSa1VFQW1KVDNKSG1OUWhpaWg5cFhDX3hLQ0lqRl92T2hnYlJERENKRU1jWm5MMHNCWWxsNVkyc1lEVmtRMk9oenZMVll1NlY0X0ZYVnZTNDg3VGRpYV9ueVRtOUFqdWQ3ZEdaYkdSZlJFb0wzcWF5MzV0ZjRB?oc=5",
+      "id": "1d4968312714",
+      "title": "How I plan to ride out my 7th stock market slump - thetimes.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1OM1B2NXphejFVa3lDTG9QVVJpSGdIX1QxbjUzUVZFemgydy1jMENwWmF1RW1uTmJ6TUkxSlFKVnhROUlRNko5eV9mRTdMYldkY1BuLWkwVVptWWFiMlhLSXA5MmNybWh3Szl3cENOa1R1MjN0Mlo5UmU1NXY3X0VkU2RhcldyU2RlQ3JrUkQtelNiQVBFb0NwNWgxNkRvLVV6WklSOWVES1",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1OM1B2NXphejFVa3lDTG9QVVJpSGdIX1QxbjUzUVZFemgydy1jMENwWmF1RW1uTmJ6TUkxSlFKVnhROUlRNko5eV9mRTdMYldkY1BuLWkwVVptWWFiMlhLSXA5MmNybWh3Szl3cENOa1R1MjN0Mlo5UmU1NXY3X0VkU2RhcldyU2RlQ3JrUkQtelNiQVBFb0NwNWgxNkRvLVV6WklSOWVES1BVcUtyYlNEb1g?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,27 +158,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 12:39:21 GMT",
-          "source": "Morningstar"
-        }
-      ]
-    },
-    {
-      "id": "1d4968312714",
-      "title": "How I plan to ride out my 7th stock market slump - thetimes.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1OM1B2NXphejFVa3lDTG9QVVJpSGdIX1QxbjUzUVZFemgydy1jMENwWmF1RW1uTmJ6TUkxSlFKVnhROUlRNko5eV9mRTdMYldkY1BuLWkwVVptWWFiMlhLSXA5MmNybWh3Szl3cENOa1R1MjN0Mlo5UmU1NXY3X0VkU2RhcldyU2RlQ3JrUkQtelNiQVBFb0NwNWgxNkRvLVV6WklSOWVES1",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1OM1B2NXphejFVa3lDTG9QVVJpSGdIX1QxbjUzUVZFemgydy1jMENwWmF1RW1uTmJ6TUkxSlFKVnhROUlRNko5eV9mRTdMYldkY1BuLWkwVVptWWFiMlhLSXA5MmNybWh3Szl3cENOa1R1MjN0Mlo5UmU1NXY3X0VkU2RhcldyU2RlQ3JrUkQtelNiQVBFb0NwNWgxNkRvLVV6WklSOWVES1BVcUtyYlNEb1g?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "first_seen": "2026-09-29T12:42:48+00:00",
       "raw_samples": [
         {
           "published": "Sat, 05 Sep 2026 07:00:00 GMT",
@@ -187,10 +167,99 @@
       ]
     },
     {
-      "id": "ab35f3001d04",
-      "title": "If the stock market crashes, history says buying this FTSE 100 share would be a smart move - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1NnTGd6cExYd2VIR3lQeE95OWQ3Yl9VMVp0SDlHVjZSUTZTY1VhTmxRcEM3ZnJSbmNUcVh1cEhTMFN6WmN4d0E4M1lCb0ZOS1hjaUFOeFJEa2lCR1lma0MwNmtTWWJSOVoycDM0Xy1senhUN1FGUjU0WVRzYzFTbm5iTVBZQ0JqN2c?oc=5\" target=\"_blank\">If the stock market ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1NnTGd6cExYd2VIR3lQeE95OWQ3Yl9VMVp0SDlHVjZSUTZTY1VhTmxRcEM3ZnJSbmNUcVh1cEhTMFN6WmN4d0E4M1lCb0ZOS1hjaUFOeFJEa2lCR1lma0MwNmtTWWJSOVoycDM0Xy1senhUN1FGUjU0WVRzYzFTbm5iTVBZQ0JqN2c?oc=5",
+      "id": "e49e64974944",
+      "title": "The Housing Market Is Completely F*d",
+      "summary": "Download Rocket Money and get a trial of Premium+ today at: https://RocketMoney.com/Graham | Let's discuss the bond market collapse, rising interest rates, and how this is going to affect the housing market - Enjoy! Add me on Instagram: GPStephan\n\nSTART BUILDING WEALTH WITH MY FR",
+      "url": "https://www.youtube.com/watch?v=BWNOdHB8TKA",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "BWNOdHB8TKA",
+          "published": "2026-09-28T16:00:04+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "e8da8e6cd289",
+      "title": "Investment Analyst Reacts to Finance TikToks - Doomsday Doomscrolling",
+      "summary": "With all the market news and concern, what better time than now to review some finance TikToks?\n\nThank you @gatortoday for finding several of these!\n\nMy name is Richard Coffin, I'm an investment analyst with my Chartered Financial Analyst and Certified Financial Planner designati",
+      "url": "https://www.youtube.com/watch?v=mzkdUnCThjc",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:10+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+          "channel_title": "The Plain Bagel",
+          "video_id": "mzkdUnCThjc",
+          "published": "2026-09-25T16:00:07+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "78391292f425",
+      "title": "Revolut IPO may be the London stock market's last chance - MoneyWeek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZnZXSlJ3dG5EVE4wVFBHUTMwMmdGV3dUUWl0bkxDR2paei10eElhZVltd3BVRjY0NTBIekZfN01hWjgxc2VsOW1MTnM0cmRHSUZpMm5UQmdBdUFwbE51US1GcnhGaW5nMlFHY0xnc1NCWVBBQmpyM1ZjR1FPc1dTSHNvQ1VwdktFZ2N6UkEwdWs4UkRvbGdScG9LLUxOdw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnZXSlJ3dG5EVE4wVFBHUTMwMmdGV3dUUWl0bkxDR2paei10eElhZVltd3BVRjY0NTBIekZfN01hWjgxc2VsOW1MTnM0cmRHSUZpMm5UQmdBdUFwbE51US1GcnhGaW5nMlFHY0xnc1NCWVBBQmpyM1ZjR1FPc1dTSHNvQ1VwdktFZ2N6UkEwdWs4UkRvbGdScG9LLUxOdw?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-09-29T12:42:48+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 27 Sep 2026 07:00:00 GMT",
+          "source": "MoneyWeek"
+        }
+      ]
+    },
+    {
+      "id": "6350a52520d6",
+      "title": "Alpha Male Exposes Why \"No One Cares\" 😂",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/8VPd4oDdYAM",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "8VPd4oDdYAM",
+          "published": "2026-09-26T18:15:08+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "5586dee541e9",
+      "title": "Will Labour Raise Capital Gains Tax at the Autumn Budget? - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1ZsMlhORGk3Y0VZSjRTZV9pbGJjdmpYMVpUdmZUc3c0YjMtaGxGRndSa1VFQW1KVDNKSG1OUWhpaWg5cFhDX3hLQ0lqRl92T2hnYlJERENKRU1jWm5MMHNCWWxsNVkyc1lEVmtRMk9oenZMVll1NlY0X0ZYVnZTNDg3VGRpYV9ueVRtOUFqdWQ3ZEdaYkdSZlJFb0wzcWF5MzV0ZjRB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1ZsMlhORGk3Y0VZSjRTZV9pbGJjdmpYMVpUdmZUc3c0YjMtaGxGRndSa1VFQW1KVDNKSG1OUWhpaWg5cFhDX3hLQ0lqRl92T2hnYlJERENKRU1jWm5MMHNCWWxsNVkyc1lEVmtRMk9oenZMVll1NlY0X0ZYVnZTNDg3VGRpYV9ueVRtOUFqdWQ3ZEdaYkdSZlJFb0wzcWF5MzV0ZjRB?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,7 +267,73 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "first_seen": "2026-09-29T12:42:48+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 28 Sep 2026 12:39:21 GMT",
+          "source": "Morningstar"
+        }
+      ]
+    },
+    {
+      "id": "a34b7ecffaca",
+      "title": "How Is This NYC Apartment ONLY $3k?! 🤯",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/Z8lPJRpmCSY",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "Z8lPJRpmCSY",
+          "published": "2026-09-25T16:00:01+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "b9643bd11c36",
+      "title": "Ranking The BEST Credit Cards 💳",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/K7UvJQsjMOM",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "K7UvJQsjMOM",
+          "published": "2026-09-23T17:00:02+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "ab35f3001d04",
+      "title": "If the stock market crashes, history says buying this FTSE 100 share would be a smart move - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1NnTGd6cExYd2VIR3lQeE95OWQ3Yl9VMVp0SDlHVjZSUTZTY1VhTmxRcEM3ZnJSbmNUcVh1cEhTMFN6WmN4d0E4M1lCb0ZOS1hjaUFOeFJEa2lCR1lma0MwNmtTWWJSOVoycDM0Xy1senhUN1FGUjU0WVRzYzFTbm5iTVBZQ0JqN2c?oc=5\" target=\"_blank\">If the stock market ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1NnTGd6cExYd2VIR3lQeE95OWQ3Yl9VMVp0SDlHVjZSUTZTY1VhTmxRcEM3ZnJSbmNUcVh1cEhTMFN6WmN4d0E4M1lCb0ZOS1hjaUFOeFJEa2lCR1lma0MwNmtTWWJSOVoycDM0Xy1senhUN1FGUjU0WVRzYzFTbm5iTVBZQ0JqN2c?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-09-29T12:42:48+00:00",
       "raw_samples": [
         {
           "published": "Mon, 21 Sep 2026 12:22:21 GMT",
@@ -207,30 +342,33 @@
       ]
     },
     {
-      "id": "11b81fe7834e",
-      "title": "The 10-Letter Word That Has the Market in a Panic Over Netflix Stock - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXlwbXpJcmg4aEg2aFAtLVhZNzdhdDhsYUp3REJKLXJZaWo1Tlh3NU52Z3hoSk8tVVUyN1ZST1UxT3JGV0c1WHk4LTBhMy1MUE1UNkZSUWU4bzFfRjNQV1dlY2hzdHhvUTlJNERUOVVHVVdjSWFZS0d5MWViVjQtM1dlNTJNNUFORXllRUJtbnRMdGRxWFU3bFN2ZTNLQ1lmMVEtTDRKRzRNX2",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXlwbXpJcmg4aEg2aFAtLVhZNzdhdDhsYUp3REJKLXJZaWo1Tlh3NU52Z3hoSk8tVVUyN1ZST1UxT3JGV0c1WHk4LTBhMy1MUE1UNkZSUWU4bzFfRjNQV1dlY2hzdHhvUTlJNERUOVVHVVdjSWFZS0d5MWViVjQtM1dlNTJNNUFORXllRUJtbnRMdGRxWFU3bFN2ZTNLQ1lmMVEtTDRKRzRNX2tFUWZQcQ?oc=5",
-      "score": 54.0,
+      "id": "c2a1af577251",
+      "title": "“$0 Tax On ALL Profits!” - This NEW Housing Market Proposal Is INSANE",
+      "summary": "Go to https://surfshark.com/graham or use code GRAHAM at checkout to get 4 extra months of Surfshark VPN! | Let's talk about a potentially new new housing market proposal to remove capital gains tax, and the impact this would have across the entire housing market - Enjoy! Add me ",
+      "url": "https://www.youtube.com/watch?v=Lp85WbbSs8Y",
+      "score": 52.35999999999999,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 28 Sep 2026 13:00:00 GMT",
-          "source": "The Motley Fool"
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "Lp85WbbSs8Y",
+          "published": "2026-09-22T20:00:10+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "20e8d9703a7a",
-      "title": "5 Things to Know Before the Stock Market Opens on Monday - Investopedia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOYm1CQjlyZk42ZjQyZjNucFRhUnAyVXVTdDI1djdTRVZhalcya2VoeXBMV3JsV19NY1hsRzZFbHd5TVMxcTRNODMyZ2x3Ym5jZ0tKb0dWdi16RHFwcmhZNFE3YTZvbUxiRlNFalc1UVRXMXlnbTUtX0piSlFVNTFoSEM3YUYyUWxhUVVjQ05uQVRUTFZSV2VqMEQzYjlKekRNYkwyZ1RYa3pBM1",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYm1CQjlyZk42ZjQyZjNucFRhUnAyVXVTdDI1djdTRVZhalcya2VoeXBMV3JsV19NY1hsRzZFbHd5TVMxcTRNODMyZ2x3Ym5jZ0tKb0dWdi16RHFwcmhZNFE3YTZvbUxiRlNFalc1UVRXMXlnbTUtX0piSlFVNTFoSEM3YUYyUWxhUVVjQ05uQVRUTFZSV2VqMEQzYjlKekRNYkwyZ1RYa3pBM1ZVUThyekpB?oc=5",
+      "id": "1ec919c47cca",
+      "title": "Here's What 60 Years of History Tells Us About Stock Market Crashes - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVZZZm93b2FyWkQ0TUpVamxham1xaElSX1JJSGFndXh3VzJ4LTd4YjdsRXlYUFljX2FDaWtGYkN5LVdtTU92eXNDdmVydmx5ZDJCaVJaS3Z2bXFmcFFvcU9PUWVLRHE5THhjbzhud2l2WTRORzdOVHFVQUdaQUVuUC1BUGdjX1NKUTd6aW1WVzNjWlk?oc=5\" target=\"_blank\">Here's W",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVZZZm93b2FyWkQ0TUpVamxham1xaElSX1JJSGFndXh3VzJ4LTd4YjdsRXlYUFljX2FDaWtGYkN5LVdtTU92eXNDdmVydmx5ZDJCaVJaS3Z2bXFmcFFvcU9PUWVLRHE5THhjbzhud2l2WTRORzdOVHFVQUdaQUVuUC1BUGdjX1NKUTd6aW1WVzNjWlk?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +376,65 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "first_seen": "2026-09-29T12:42:48+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 28 Sep 2026 11:25:51 GMT",
-          "source": "Investopedia"
+          "published": "Sat, 26 Sep 2026 15:43:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "3553d7eeeb4d",
-      "title": "The Bond Market Is Repeating a Pattern Last Observed Ahead of the Great Recession. Here's What History Says Comes Next. - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQLThlN2dqUFpFcmpqcjlxcmd4OWpGaVI2cUxDeDM2cEhPYXRlYjFkM0lYUHF3QWN4UE1fZHJiYUdXZVJlMWh1M19VTUZHdFlLQ0NLdkV4eU05MkRkOUxQaHRzdkhMOFpncGJxckJHY2FfcExYUEEyUWpmTkE4bkFzT2g3SzBZcXlxcC1LNklEU2JTdw?oc=5\" target=\"_blank\">The Bond ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLThlN2dqUFpFcmpqcjlxcmd4OWpGaVI2cUxDeDM2cEhPYXRlYjFkM0lYUHF3QWN4UE1fZHJiYUdXZVJlMWh1M19VTUZHdFlLQ0NLdkV4eU05MkRkOUxQaHRzdkhMOFpncGJxckJHY2FfcExYUEEyUWpmTkE4bkFzT2g3SzBZcXlxcC1LNklEU2JTdw?oc=5",
+      "id": "704b523c0c6d",
+      "title": "Ranking The BEST Money Books 📚",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/uYAktQIxutY",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "uYAktQIxutY",
+          "published": "2026-09-22T17:00:20+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "f3720e150169",
+      "title": "Ranking Money Habits 💰",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/oCGxx4FHgCk",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "oCGxx4FHgCk",
+          "published": "2026-09-21T17:00:09+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "a7ee75abfac2",
+      "title": "Forget AI: the stock market has a new risk to worry about - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlo2T2RlaFpnUUlMQmxmSGVua3ZGeHFpcUhtVW4wZDZIZkNOeFNvZExrS2d4c1Y4YmRYcUpmaUxZRGpESWw4VFVwaXVFQi1jalNQV3Z6Y19qYzR6SVg3UkhOdE0zSkNfa09XUE5pdGpBNkVZQzJ1YmREV1FtNmhiMTlR?oc=5\" target=\"_blank\">Forget AI: the stock market has",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlo2T2RlaFpnUUlMQmxmSGVua3ZGeHFpcUhtVW4wZDZIZkNOeFNvZExrS2d4c1Y4YmRYcUpmaUxZRGpESWw4VFVwaXVFQi1jalNQV3Z6Y19qYzR6SVg3UkhOdE0zSkNfa09XUE5pdGpBNkVZQzJ1YmREV1FtNmhiMTlR?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,7 +442,50 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "first_seen": "2026-09-29T12:42:48+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 20 Sep 2026 07:00:00 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "c6340ffa922f",
+      "title": "The True \"Alpha Male\" Test 💀",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/hvJ7KnUxUdI",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "hvJ7KnUxUdI",
+          "published": "2026-09-20T17:00:23+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "3553d7eeeb4d",
+      "title": "The Bond Market Is Repeating a Pattern Last Observed Ahead of the Great Recession. Here's What History Says Comes Next. - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQLThlN2dqUFpFcmpqcjlxcmd4OWpGaVI2cUxDeDM2cEhPYXRlYjFkM0lYUHF3QWN4UE1fZHJiYUdXZVJlMWh1M19VTUZHdFlLQ0NLdkV4eU05MkRkOUxQaHRzdkhMOFpncGJxckJHY2FfcExYUEEyUWpmTkE4bkFzT2g3SzBZcXlxcC1LNklEU2JTdw?oc=5\" target=\"_blank\">The Bond ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLThlN2dqUFpFcmpqcjlxcmd4OWpGaVI2cUxDeDM2cEhPYXRlYjFkM0lYUHF3QWN4UE1fZHJiYUdXZVJlMWh1M19VTUZHdFlLQ0NLdkV4eU05MkRkOUxQaHRzdkhMOFpncGJxckJHY2FfcExYUEEyUWpmTkE4bkFzT2g3SzBZcXlxcC1LNklEU2JTdw?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-09-29T12:42:48+00:00",
       "raw_samples": [
         {
           "published": "Mon, 28 Sep 2026 18:45:00 GMT",
@@ -267,144 +494,50 @@
       ]
     },
     {
-      "id": "6dd4b479014c",
-      "title": "The UK stock market isn’t ‘weak’ – it’s just built differently (and that’s good) - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVmZkOGRMOVBnSThLRll3RkxMTGJ3TEpxaXVpd0RWQUtfb0UwNm1vdEdVVFVCd0oycTZyVEw5S25FYkxvZTRVRWFNZkJCeVVwWTdqYXAyY243TFFlWVhUaUtaMEJPYmdyb01WR18zM1F4WDMyTVdTbGp3?oc=5\" target=\"_blank\">The UK stock market isn’t ‘weak’ – it’s jus",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVmZkOGRMOVBnSThLRll3RkxMTGJ3TEpxaXVpd0RWQUtfb0UwNm1vdEdVVFVCd0oycTZyVEw5S25FYkxvZTRVRWFNZkJCeVVwWTdqYXAyY243TFFlWVhUaUtaMEJPYmdyb01WR18zM1F4WDMyTVdTbGp3?oc=5",
-      "score": 43.2,
+      "id": "c066202752f9",
+      "title": "Togi Sage Mode Unlocked",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/dsZc4o_1ja4",
+      "score": 43.12,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 12 Sep 2026 07:00:00 GMT",
-          "source": "Yahoo Finance UK"
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "dsZc4o_1ja4",
+          "published": "2026-09-19T17:00:04+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "18c86e064676",
-      "title": "Is the stock market too pessimistic about JD Sports? I think so - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNcVJ6UU5qM0RfQ1lkUUI1STBLYVhIeV96Y3JuWUN5T3NBV2JzTDlYQUZOODRidGt4UzJLb3VUeFJWSlN6bFZOdm5LRWtLSjJiMHh4ekQ4SUxjb1lxLTloWXV3MFZZd1VHUjBzcDZXb2l1dGQ5aXBaUUhOaERKeGxNRERwWEpWSGc?oc=5\" target=\"_blank\">Is the stock market too ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcVJ6UU5qM0RfQ1lkUUI1STBLYVhIeV96Y3JuWUN5T3NBV2JzTDlYQUZOODRidGt4UzJLb3VUeFJWSlN6bFZOdm5LRWtLSjJiMHh4ekQ4SUxjb1lxLTloWXV3MFZZd1VHUjBzcDZXb2l1dGQ5aXBaUUhOaERKeGxNRERwWEpWSGc?oc=5",
-      "score": 39.6,
+      "id": "19a936cee688",
+      "title": "Togi's Loan Shark Exposed 💀",
+      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
+      "url": "https://www.youtube.com/shorts/xYYIDtm82uo",
+      "score": 40.809999999999995,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
+      "region": "global",
+      "first_seen": "2026-09-29T12:45:09+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 19 Sep 2026 11:49:04 GMT",
-          "source": "Yahoo Finance UK"
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "xYYIDtm82uo",
+          "published": "2026-09-18T18:00:10+00:00"
         }
-      ]
-    },
-    {
-      "id": "375092e26084",
-      "title": "Should You Really Invest in the Stock Market Right Now? History Offers a Clear Answer - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnJsYUFHeHFMYjdyRkYzVlFZMENDVkVrWjJvUEMxSHZZclNjMHFLbjZnd3E1NGtBVTNPcE1TMFJCVjBtZExIQ3U4Z3puWDQyN19tZGpYV0FjYWgtY21ZVUNhTndjY1hkZHo4UXZVT3pXd0pld1pncUpsVmtHLW4zTDFlNUhweG5sOXQ0R09RdldqMUJmaEZnRw?oc=5\" target=\"_blank\">S",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnJsYUFHeHFMYjdyRkYzVlFZMENDVkVrWjJvUEMxSHZZclNjMHFLbjZnd3E1NGtBVTNPcE1TMFJCVjBtZExIQ3U4Z3puWDQyN19tZGpYV0FjYWgtY21ZVUNhTndjY1hkZHo4UXZVT3pXd0pld1pncUpsVmtHLW4zTDFlNUhweG5sOXQ0R09RdldqMUJmaEZnRw?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
       ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 27 Sep 2026 17:09:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "5644ed9e278d",
-      "title": "Revolut looking at dual stock market listing in London and New York - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSnVMaEc1ZS0zWXpaVVF5RTFqZS1qbDJmVm5xemRqYVlsZDhVWFU3aFRMc0tTRjFReUI3bTZlZHpucU9qRHByVnZHbHpIWF9MYlo5cDZQZEk3NWd0YllSS2dRd0hXRXUzSGk3Ul9qMEw1OEIzWFdVdFVvR0I5aEpReDh4MDQ4MzRZOWc?oc=5\" target=\"_blank\">Revolut looking at d",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSnVMaEc1ZS0zWXpaVVF5RTFqZS1qbDJmVm5xemRqYVlsZDhVWFU3aFRMc0tTRjFReUI3bTZlZHpucU9qRHByVnZHbHpIWF9MYlo5cDZQZEk3NWd0YllSS2dRd0hXRXUzSGk3Ul9qMEw1OEIzWFdVdFVvR0I5aEpReDh4MDQ4MzRZOWc?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
-    },
-    {
-      "id": "d63fd29d6743",
-      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFJEcEhfMHE1WmlDWlRBU2l2UDZDbWFjcWRFZVE0aW9Eckl1UmN5TXMxWDhRT1pyUHEwbTdBR2dPS3pfb0xFSGRINlRIUjd5Ukk3VnhoaEdhQWpZMm9vVFZqZ0V1aXkzT2FmYUpEVXpmcDJLRkpMbDZ3NmdSUjFrVXZNbHJWdExhTHVBVGRoRE1GMzN3ZnlpOQ?oc=5\" target=\"_blank\">I",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFJEcEhfMHE1WmlDWlRBU2l2UDZDbWFjcWRFZVE0aW9Eckl1UmN5TXMxWDhRT1pyUHEwbTdBR2dPS3pfb0xFSGRINlRIUjd5Ukk3VnhoaEdhQWpZMm9vVFZqZ0V1aXkzT2FmYUpEVXpmcDJLRkpMbDZ3NmdSUjFrVXZNbHJWdExhTHVBVGRoRE1GMzN3ZnlpOQ?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 01:45:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "8899d3dcb97f",
-      "title": "Kraft Heinz vs. Monster Beverage: Which Consumer Goods Stock Is a Better Buy in 2026? - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT3YyUTRFNTQ3RUhLbXFqRHZ6QV9aOVBVSTg1QVpja2NOV1FEMEpnT0lxQmdXaGxibS0wakYwUS1JTXRtT0tNQk9fb3k0QjJWRTk5aXhuS25rSUw4Z0d3eTYxdmlFRDk1dmRKcHhZbEh4bWs5SEh5UmZEMEJTNEFDbThseXF0dFFxS2ZXWmdhaE90X0Y1WklzY1ZES2RpNVAyUFFScndydHFaeU",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT3YyUTRFNTQ3RUhLbXFqRHZ6QV9aOVBVSTg1QVpja2NOV1FEMEpnT0lxQmdXaGxibS0wakYwUS1JTXRtT0tNQk9fb3k0QjJWRTk5aXhuS25rSUw4Z0d3eTYxdmlFRDk1dmRKcHhZbEh4bWs5SEh5UmZEMEJTNEFDbThseXF0dFFxS2ZXWmdhaE90X0Y1WklzY1ZES2RpNVAyUFFScndydHFaeUNDdElVQkJhcVBWSlhWSWxBUVNDU0tZOEpWSndCa3ltcGE3UU9f?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 28 Sep 2026 22:41:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "91dfe29754bd",
-      "title": "Only 26% of women invest in the stock market. But do they beat men? - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVAwWjVnRkRmSWVseFhJbnk4enFZUUI4UVc0SUFLX2JhZ2tzXzc5WjFUNUtuZTZpT1dZN0Ftc2o1Ny1FdExZc1pOZ3lJOGJoSnprWjU5RW9tRW8taWJ3dWZ1dzVPNHJUaHlNMUs3bnRxOW9tMkVMSlM5UmM3NHlRRw?oc=5\" target=\"_blank\">Only 26% of women invest in the s",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVAwWjVnRkRmSWVseFhJbnk4enFZUUI4UVc0SUFLX2JhZ2tzXzc5WjFUNUtuZTZpT1dZN0Ftc2o1Ny1FdExZc1pOZ3lJOGJoSnprWjU5RW9tRW8taWJ3dWZ1dzVPNHJUaHlNMUs3bnRxOW9tMkVMSlM5UmM3NHlRRw?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-09-29T05:36:39+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
+      "is_global": true
     }
   ]
 }
