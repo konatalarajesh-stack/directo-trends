@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "UK",
-  "generated_at": "2026-10-03T11:43:25+00:00",
+  "generated_at": "2026-10-03T16:20:01+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
           "published": "Sat, 03 Oct 2026 06:41:00 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "345a4e29633b",
-      "title": "Market news - investments.halifax.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmQ3R3BhakxkcS1DTFRRNXFZVnk2dlJTTmUxZ0NCdXZJLXZ5TFAwRUZWbXdfbnBKNTNQcXdKYnBqUUlYdVhhOHFLWktiTmV6ejZ0d0h1LXBvR1RYZjVkUWlCX1MwcUZlZE1RVHdzYTBkQ3ZueHZXNVFhRkNjcUp6dGExalBYSUZzZ0tyeVJ2Z19PZjJiU1g4Y3gwZw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmQ3R3BhakxkcS1DTFRRNXFZVnk2dlJTTmUxZ0NCdXZJLXZ5TFAwRUZWbXdfbnBKNTNQcXdKYnBqUUlYdVhhOHFLWktiTmV6ejZ0d0h1LXBvR1RYZjVkUWlCX1MwcUZlZE1RVHdzYTBkQ3ZueHZXNVFhRkNjcUp6dGExalBYSUZzZ0tyeVJ2Z19PZjJiU1g4Y3gwZw?oc=5",
+      "id": "a5ba65b754f4",
+      "title": "Investor Focus: Q4 UK Stock Market Outlook, Pension Triple Lock Drama, and Autumn Budget Preview - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlZzRlBrZW54eTl4b1l3dUFSMHdTT3FkTFJoTTA1VmtMd1UwTzJTNUtacmJlWHhlLTdnekp2YzFqMGxNUmFDQ3J2SDFMTXZPNmtHMDhwSGtjSjh3UE5JWFhsU0xoTmNvZHZVNmdvZFhiVTR4WENuRVJHb0hvQ1VqRVRQem5kYkRQcGtpb3E4REoxcnhpcFo4LUZUT0VSX0RwYlZwZF9IQmg1Tj",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlZzRlBrZW54eTl4b1l3dUFSMHdTT3FkTFJoTTA1VmtMd1UwTzJTNUtacmJlWHhlLTdnekp2YzFqMGxNUmFDQ3J2SDFMTXZPNmtHMDhwSGtjSjh3UE5JWFhsU0xoTmNvZHZVNmdvZFhiVTR4WENuRVJHb0hvQ1VqRVRQem5kYkRQcGtpb3E4REoxcnhpcFo4LUZUT0VSX0RwYlZwZF9IQmg1TjVKNlhSYlBPeVJJNFlLQWltd2FuNFdiZDFrYmhiOTBsUVg3YWs?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 03 Oct 2026 07:10:31 GMT",
+          "source": "Morningstar"
+        }
+      ]
+    },
+    {
+      "id": "345a4e29633b",
+      "title": "Market news - investments.halifax.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmQ3R3BhakxkcS1DTFRRNXFZVnk2dlJTTmUxZ0NCdXZJLXZ5TFAwRUZWbXdfbnBKNTNQcXdKYnBqUUlYdVhhOHFLWktiTmV6ejZ0d0h1LXBvR1RYZjVkUWlCX1MwcUZlZE1RVHdzYTBkQ3ZueHZXNVFhRkNjcUp6dGExalBYSUZzZ0tyeVJ2Z19PZjJiU1g4Y3gwZw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmQ3R3BhakxkcS1DTFRRNXFZVnk2dlJTTmUxZ0NCdXZJLXZ5TFAwRUZWbXdfbnBKNTNQcXdKYnBqUUlYdVhhOHFLWktiTmV6ejZ0d0h1LXBvR1RYZjVkUWlCX1MwcUZlZE1RVHdzYTBkQ3ZueHZXNVFhRkNjcUp6dGExalBYSUZzZ0tyeVJ2Z19PZjJiU1g4Y3gwZw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
           "published": "Fri, 25 Sep 2026 07:00:00 GMT",
@@ -51,14 +71,14 @@
       "title": "As stock market crash alarm bells ring, here’s my action plan! - Yahoo Finance UK",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHhtN0ZQbFBfb2tlVWN0M3FxSzhGZzJDaW03LUU4SGN2NXdyei1Bb3A2VE5hUm9yWnJBM1M5WXhhMkZ4WFc0SHQzbXdMalpGZU5ja0dUdlgyZ085V0hwbHFqQUx1MzcwS21ER3lsWnB3Ni00THNpOXNXRzBDMnNkSFFzMGpBQQ?oc=5\" target=\"_blank\">As stock market crash ala",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHhtN0ZQbFBfb2tlVWN0M3FxSzhGZzJDaW03LUU4SGN2NXdyei1Bb3A2VE5hUm9yWnJBM1M5WXhhMkZ4WFc0SHQzbXdMalpGZU5ja0dUdlgyZ085V0hwbHFqQUx1MzcwS21ER3lsWnB3Ni00THNpOXNXRzBDMnNkSFFzMGpBQQ?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
           "published": "Sat, 03 Oct 2026 06:50:00 GMT",
@@ -67,30 +87,10 @@
       ]
     },
     {
-      "id": "edb1f435c6b7",
-      "title": "What Is the Stock Market? It's Not a Casino. Here's How I Filter Winners From Losers. - fool.com",
+      "id": "b529d07395cf",
+      "title": "What Is the Stock Market? It's Not a Casino. Here's How I Filter Winners From Losers. - The Motley Fool",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNndjZlhIbkc5Z3BKZHBrWDNfM2tNdkp4bWUtanhXbEhJak1PZmh3VmljbzVqdTZ2MnpIWVV2VmZsb1pNZzlpalNtV2wtS1RYVXJ2Qy14ckpkcmk4dHBfbFpxbDAzaDBDLXV0VmJlLVIyOTRfOV9tZmFLeW55WTZOekpIbkhjZjhZN0F6ZGxmSnR2UF9nRTE0eg?oc=5\" target=\"_blank\">W",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNndjZlhIbkc5Z3BKZHBrWDNfM2tNdkp4bWUtanhXbEhJak1PZmh3VmljbzVqdTZ2MnpIWVV2VmZsb1pNZzlpalNtV2wtS1RYVXJ2Qy14ckpkcmk4dHBfbFpxbDAzaDBDLXV0VmJlLVIyOTRfOV9tZmFLeW55WTZOekpIbkhjZjhZN0F6ZGxmSnR2UF9nRTE0eg?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 03 Oct 2026 09:41:35 GMT",
-          "source": "fool.com"
-        }
-      ]
-    },
-    {
-      "id": "609f4acd296d",
-      "title": "Buy-to-let vs stock market: Which one could give you better growth? - MoneyWeek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTEhBUlNodDNuTWFzU0dKbTVFT2NyOVZuLU1ROENqSnVWdFY3Wm1RVklRQlhVZnB1OEhLaEZjMXdmamFOSndVcWU3MUFuX3RQMnpwY3J5bXpoSzhaY3lDeENTS25YdnA2b29SOA?oc=5\" target=\"_blank\">Buy-to-let vs stock market: Which one could give you better g",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTEhBUlNodDNuTWFzU0dKbTVFT2NyOVZuLU1ROENqSnVWdFY3Wm1RVklRQlhVZnB1OEhLaEZjMXdmamFOSndVcWU3MUFuX3RQMnpwY3J5bXpoSzhaY3lDeENTS25YdnA2b29SOA?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +98,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 28 Sep 2026 09:13:32 GMT",
-          "source": "MoneyWeek"
+          "published": "Sat, 03 Oct 2026 10:30:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "85db7f0daa08",
-      "title": "Best Investment Trading Apps For The UK In 2026 - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAwcmtZNWo2c1NnVm1WLTRqV0FmaFN1eUVfaTkxN3VIUGFxeU1tVDlhMW9DV3hzTlpJYUtQSEJxTTU0OTMwOGY1bzBvMnBxLXFFeHFBanE0YWhTNmJDUUNMV29jTk5ycmZ5YTkzM0VWZDJMcVYwblhKN2drNkdRdw?oc=5\" target=\"_blank\">Best Investment Trading Apps For The ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwcmtZNWo2c1NnVm1WLTRqV0FmaFN1eUVfaTkxN3VIUGFxeU1tVDlhMW9DV3hzTlpJYUtQSEJxTTU0OTMwOGY1bzBvMnBxLXFFeHFBanE0YWhTNmJDUUNMV29jTk5ycmZ5YTkzM0VWZDJMcVYwblhKN2drNkdRdw?oc=5",
+      "id": "502553625943",
+      "title": "Best Trading Platforms For UK Investors In 2026 - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2NONjR5N2VPSVA1V0xqVG51YWpwYnViQUIwdGx5OU5vQThoT3dONURsM05tOW5JQmt4RVcweGNISkh3SkxDR3lVNXl3VU4xYXlCMUx1bWZSRGl6TVM4UnhMLWVjLU5pM1VqSEFmekJkcDh4aEE?oc=5\" target=\"_blank\">Best Trading Platforms For UK Investors In 2026<",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2NONjR5N2VPSVA1V0xqVG51YWpwYnViQUIwdGx5OU5vQThoT3dONURsM05tOW5JQmt4RVcweGNISkh3SkxDR3lVNXl3VU4xYXlCMUx1bWZSRGl6TVM4UnhMLWVjLU5pM1VqSEFmekJkcDh4aEE?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,7 +118,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
           "published": "Thu, 01 Oct 2026 22:19:00 GMT",
@@ -127,10 +127,10 @@
       ]
     },
     {
-      "id": "222d46ee8df6",
-      "title": "What is a realistic return to expect from your investments? - fidelity.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM09TOGNsbThSdGZ5SmFXT0ZkMXh2WXdrak5IUnA3cXRwWUxheGJiSnhpazVlS19mdmEtbjBtQTdTRVpHdmtBbzlEd19GelpkcWptYUZKQnN4ZmhRaHRkVE12U2M0U2V4RjVfNkR0VGloekJxaGw4R0s3SGhmSjlUaEM3Zm50WGhMQ0N4WTUyYm1fTEE1Z1pISXNJdk1tVXpQVXVlS0RoMFdlQz",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM09TOGNsbThSdGZ5SmFXT0ZkMXh2WXdrak5IUnA3cXRwWUxheGJiSnhpazVlS19mdmEtbjBtQTdTRVpHdmtBbzlEd19GelpkcWptYUZKQnN4ZmhRaHRkVE12U2M0U2V4RjVfNkR0VGloekJxaGw4R0s3SGhmSjlUaEM3Zm50WGhMQ0N4WTUyYm1fTEE1Z1pISXNJdk1tVXpQVXVlS0RoMFdlQzIzSzNwN1Zxdy1TNHlHcXFrZVJDT3B1UUUtaS1xV0V2M1Z5Z1B1c0ow?oc=5",
+      "id": "609f4acd296d",
+      "title": "Buy-to-let vs stock market: Which one could give you better growth? - MoneyWeek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTEhBUlNodDNuTWFzU0dKbTVFT2NyOVZuLU1ROENqSnVWdFY3Wm1RVklRQlhVZnB1OEhLaEZjMXdmamFOSndVcWU3MUFuX3RQMnpwY3J5bXpoSzhaY3lDeENTS25YdnA2b29SOA?oc=5\" target=\"_blank\">Buy-to-let vs stock market: Which one could give you better g",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTEhBUlNodDNuTWFzU0dKbTVFT2NyOVZuLU1ROENqSnVWdFY3Wm1RVklRQlhVZnB1OEhLaEZjMXdmamFOSndVcWU3MUFuX3RQMnpwY3J5bXpoSzhaY3lDeENTS25YdnA2b29SOA?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 20 May 2026 07:00:00 GMT",
-          "source": "fidelity.co.uk"
+          "published": "Mon, 28 Sep 2026 09:13:32 GMT",
+          "source": "MoneyWeek"
         }
       ]
     },
     {
-      "id": "1d4968312714",
-      "title": "How I plan to ride out my 7th stock market slump - thetimes.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1OM1B2NXphejFVa3lDTG9QVVJpSGdIX1QxbjUzUVZFemgydy1jMENwWmF1RW1uTmJ6TUkxSlFKVnhROUlRNko5eV9mRTdMYldkY1BuLWkwVVptWWFiMlhLSXA5MmNybWh3Szl3cENOa1R1MjN0Mlo5UmU1NXY3X0VkU2RhcldyU2RlQ3JrUkQtelNiQVBFb0NwNWgxNkRvLVV6WklSOWVES1",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1OM1B2NXphejFVa3lDTG9QVVJpSGdIX1QxbjUzUVZFemgydy1jMENwWmF1RW1uTmJ6TUkxSlFKVnhROUlRNko5eV9mRTdMYldkY1BuLWkwVVptWWFiMlhLSXA5MmNybWh3Szl3cENOa1R1MjN0Mlo5UmU1NXY3X0VkU2RhcldyU2RlQ3JrUkQtelNiQVBFb0NwNWgxNkRvLVV6WklSOWVES1BVcUtyYlNEb1g?oc=5",
+      "id": "222d46ee8df6",
+      "title": "What is a realistic return to expect from your investments? - fidelity.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM09TOGNsbThSdGZ5SmFXT0ZkMXh2WXdrak5IUnA3cXRwWUxheGJiSnhpazVlS19mdmEtbjBtQTdTRVpHdmtBbzlEd19GelpkcWptYUZKQnN4ZmhRaHRkVE12U2M0U2V4RjVfNkR0VGloekJxaGw4R0s3SGhmSjlUaEM3Zm50WGhMQ0N4WTUyYm1fTEE1Z1pISXNJdk1tVXpQVXVlS0RoMFdlQz",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM09TOGNsbThSdGZ5SmFXT0ZkMXh2WXdrak5IUnA3cXRwWUxheGJiSnhpazVlS19mdmEtbjBtQTdTRVpHdmtBbzlEd19GelpkcWptYUZKQnN4ZmhRaHRkVE12U2M0U2V4RjVfNkR0VGloekJxaGw4R0s3SGhmSjlUaEM3Zm50WGhMQ0N4WTUyYm1fTEE1Z1pISXNJdk1tVXpQVXVlS0RoMFdlQzIzSzNwN1Zxdy1TNHlHcXFrZVJDT3B1UUUtaS1xV0V2M1Z5Z1B1c0ow?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 05 Sep 2026 07:00:00 GMT",
-          "source": "thetimes.com"
+          "published": "Wed, 20 May 2026 07:00:00 GMT",
+          "source": "fidelity.co.uk"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:49+00:00",
+      "first_seen": "2026-10-03T16:13:17+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -211,6 +211,26 @@
         }
       ],
       "is_global": true
+    },
+    {
+      "id": "16b2e4512854",
+      "title": "How I plan to ride out my 7th stock market slump - The Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1OM1B2NXphejFVa3lDTG9QVVJpSGdIX1QxbjUzUVZFemgydy1jMENwWmF1RW1uTmJ6TUkxSlFKVnhROUlRNko5eV9mRTdMYldkY1BuLWkwVVptWWFiMlhLSXA5MmNybWh3Szl3cENOa1R1MjN0Mlo5UmU1NXY3X0VkU2RhcldyU2RlQ3JrUkQtelNiQVBFb0NwNWgxNkRvLVV6WklSOWVES1",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1OM1B2NXphejFVa3lDTG9QVVJpSGdIX1QxbjUzUVZFemgydy1jMENwWmF1RW1uTmJ6TUkxSlFKVnhROUlRNko5eV9mRTdMYldkY1BuLWkwVVptWWFiMlhLSXA5MmNybWh3Szl3cENOa1R1MjN0Mlo5UmU1NXY3X0VkU2RhcldyU2RlQ3JrUkQtelNiQVBFb0NwNWgxNkRvLVV6WklSOWVES1BVcUtyYlNEb1g?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-10-03T16:10:53+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 05 Sep 2026 07:00:00 GMT",
+          "source": "The Times"
+        }
+      ]
     },
     {
       "id": "e49e64974944",
@@ -224,7 +244,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -234,26 +254,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "8cdc8490fda7",
-      "title": "Is It Really Safe to Invest Right Now if a Stock Market Crash Is Coming? Here's the Honest Answer. - fool.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWm1BN0xHU09pRFFPMFdqNDk2TDBtV1hoUERVMmtqdTJmdmZyNFphTEkyQnJhNWJwY29kRVdsY0JvYW4yY0d0RkVRWmJUY01PZDBrbVpvUmlYN1ZmRUVhSU1MS1VfdjZRdkM4QnFZazY3TnE5WEdkY195RndJSHlZVHJneGVSRDAzZHFNTTZDZ2lvYzBKa2c?oc=5\" target=\"_blank\">Is I",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWm1BN0xHU09pRFFPMFdqNDk2TDBtV1hoUERVMmtqdTJmdmZyNFphTEkyQnJhNWJwY29kRVdsY0JvYW4yY0d0RkVRWmJUY01PZDBrbVpvUmlYN1ZmRUVhSU1MS1VfdjZRdkM4QnFZazY3TnE5WEdkY195RndJSHlZVHJneGVSRDAzZHFNTTZDZ2lvYzBKa2c?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 02 Oct 2026 15:30:00 GMT",
-          "source": "fool.com"
-        }
-      ]
     },
     {
       "id": "6350a52520d6",
@@ -267,7 +267,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -290,7 +290,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -302,10 +302,10 @@
       "is_global": true
     },
     {
-      "id": "4fb32a63ba17",
-      "title": "Owens Corning (OC) Laps the Stock Market: Here's Why - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFZhTTQySFY4Z0h6ODRyYXhFOXBQQnFfRGxycW5rcVBuZEdfSVlpOWFGR29lbU1EaFlROWlqeWNtUnIzOVBwcFh2MndNc1VjSzZCcDVpdWF5cnRhNk5mUF9kMzU5V3NsTkhfZlE1R193dDZ2cS1tUHFxdU0wZkxHVl93?oc=5\" target=\"_blank\">Owens Corning (OC) Laps the Sto",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFZhTTQySFY4Z0h6ODRyYXhFOXBQQnFfRGxycW5rcVBuZEdfSVlpOWFGR29lbU1EaFlROWlqeWNtUnIzOVBwcFh2MndNc1VjSzZCcDVpdWF5cnRhNk5mUF9kMzU5V3NsTkhfZlE1R193dDZ2cS1tUHFxdU0wZkxHVl93?oc=5",
+      "id": "a2bdbff2f286",
+      "title": "Is It Really Safe to Invest Right Now if a Stock Market Crash Is Coming? Here's the Honest Answer. - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWm1BN0xHU09pRFFPMFdqNDk2TDBtV1hoUERVMmtqdTJmdmZyNFphTEkyQnJhNWJwY29kRVdsY0JvYW4yY0d0RkVRWmJUY01PZDBrbVpvUmlYN1ZmRUVhSU1MS1VfdjZRdkM4QnFZazY3TnE5WEdkY195RndJSHlZVHJneGVSRDAzZHFNTTZDZ2lvYzBKa2c?oc=5\" target=\"_blank\">Is I",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWm1BN0xHU09pRFFPMFdqNDk2TDBtV1hoUERVMmtqdTJmdmZyNFphTEkyQnJhNWJwY29kRVdsY0JvYW4yY0d0RkVRWmJUY01PZDBrbVpvUmlYN1ZmRUVhSU1MS1VfdjZRdkM4QnFZazY3TnE5WEdkY195RndJSHlZVHJneGVSRDAzZHFNTTZDZ2lvYzBKa2c?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -313,11 +313,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 02 Oct 2026 20:50:06 GMT",
-          "source": "Yahoo Finance UK"
+          "published": "Fri, 02 Oct 2026 15:30:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -333,7 +333,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -345,10 +345,10 @@
       "is_global": true
     },
     {
-      "id": "d7dc53d10e2c",
-      "title": "Interactive Brokers Group, Inc. (IBKR) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1lHOFIzeUZOTktqcS1xa1FuSlZXN3FrNG5oR19WYmNaVElTREZNNFF5QVR5b0NCNUlWZ3MwV25OX0VfWjdFbFJCR2ZGQWJidkJSYVdrOWVrdGhidm96S2lLY0ZoNVNxQ3YwNUtzMVloeG9iWFlVUTFZcVVhcE94ZlNGdWF4SW44Rm9r?oc=5\" target=\"_blank\">Interactive Brokers",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1lHOFIzeUZOTktqcS1xa1FuSlZXN3FrNG5oR19WYmNaVElTREZNNFF5QVR5b0NCNUlWZ3MwV25OX0VfWjdFbFJCR2ZGQWJidkJSYVdrOWVrdGhidm96S2lLY0ZoNVNxQ3YwNUtzMVloeG9iWFlVUTFZcVVhcE94ZlNGdWF4SW44Rm9r?oc=5",
+      "id": "85db7f0daa08",
+      "title": "Best Investment Trading Apps For The UK In 2026 - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAwcmtZNWo2c1NnVm1WLTRqV0FmaFN1eUVfaTkxN3VIUGFxeU1tVDlhMW9DV3hzTlpJYUtQSEJxTTU0OTMwOGY1bzBvMnBxLXFFeHFBanE0YWhTNmJDUUNMV29jTk5ycmZ5YTkzM0VWZDJMcVYwblhKN2drNkdRdw?oc=5\" target=\"_blank\">Best Investment Trading Apps For The ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwcmtZNWo2c1NnVm1WLTRqV0FmaFN1eUVfaTkxN3VIUGFxeU1tVDlhMW9DV3hzTlpJYUtQSEJxTTU0OTMwOGY1bzBvMnBxLXFFeHFBanE0YWhTNmJDUUNMV29jTk5ycmZ5YTkzM0VWZDJMcVYwblhKN2drNkdRdw?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -356,35 +356,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 02 Oct 2026 20:50:05 GMT",
-          "source": "Yahoo Finance UK"
-        },
-        {
-          "published": "Thu, 01 Oct 2026 21:00:04 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
-    },
-    {
-      "id": "efbc6dc084b9",
-      "title": "The Stock Market Just Flashed a Warning Signal Seen Only Twice in 155 Years. Here Are 3 Stocks That Can Weather What History Says Comes Next. - fool.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlqMFVRNm1sX2RJZ2htNlcxM1QyM0V1anloV3FTQllEZVNKWFZydm9VQmNRQlBLNGRoanNJSWxHZUVzOUJxT2VZaU1JU2t1N0V6N0FvUlY3QXREaEFvN0hsSzFNZlp3NFgxckhfMXVJWFpZTG1iVGw1VlE0bDExbzRMRENTMEF1YlFDNDZ3cUhsRzNWNV9uNU53X0RYMXVyandtU19kMUVURX",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlqMFVRNm1sX2RJZ2htNlcxM1QyM0V1anloV3FTQllEZVNKWFZydm9VQmNRQlBLNGRoanNJSWxHZUVzOUJxT2VZaU1JU2t1N0V6N0FvUlY3QXREaEFvN0hsSzFNZlp3NFgxckhfMXVJWFpZTG1iVGw1VlE0bDExbzRMRENTMEF1YlFDNDZ3cUhsRzNWNV9uNU53X0RYMXVyandtU19kMUVURXdxbVUtYUFhWXFOeXpScXppaDlab2ZzendoRVd4Y25TU29HU0JNOU44SjFHWXQ5VDZ0dmt5cUZTWXdWRzVJdWdSTGY5NWFTY3RreDlZSVh0OGNWRzlwbGxKbHd3d3dBeFRVNmNZ?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 03 Oct 2026 08:42:26 GMT",
-          "source": "fool.com"
+          "published": "Thu, 01 Oct 2026 22:19:00 GMT",
+          "source": "Forbes"
         }
       ]
     },
@@ -400,7 +376,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -423,7 +399,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -435,10 +411,10 @@
       "is_global": true
     },
     {
-      "id": "d3ee531c5c95",
-      "title": "How to prepare for an AI stock market crash - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1NZZTJfbmlKY1RrRFcxcjBGSUlsVkVra2ZnRkY0cHNNZ0dUMWlTSnJmVGJJekZGenNZZUw3aWZ0dzBIcXlvZjVVdXFiT3NycXY5Nm1KSVJwZ3JpcmM4cXRKU3pXUUhGb2pvTm5kVWdKUjZqSng5X211S3p1N2lIMk55UXg?oc=5\" target=\"_blank\">How to prepare for an AI sto",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1NZZTJfbmlKY1RrRFcxcjBGSUlsVkVra2ZnRkY0cHNNZ0dUMWlTSnJmVGJJekZGenNZZUw3aWZ0dzBIcXlvZjVVdXFiT3NycXY5Nm1KSVJwZ3JpcmM4cXRKU3pXUUhGb2pvTm5kVWdKUjZqSng5X211S3p1N2lIMk55UXg?oc=5",
+      "id": "4fb32a63ba17",
+      "title": "Owens Corning (OC) Laps the Stock Market: Here's Why - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFZhTTQySFY4Z0h6ODRyYXhFOXBQQnFfRGxycW5rcVBuZEdfSVlpOWFGR29lbU1EaFlROWlqeWNtUnIzOVBwcFh2MndNc1VjSzZCcDVpdWF5cnRhNk5mUF9kMzU5V3NsTkhfZlE1R193dDZ2cS1tUHFxdU0wZkxHVl93?oc=5\" target=\"_blank\">Owens Corning (OC) Laps the Sto",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFZhTTQySFY4Z0h6ODRyYXhFOXBQQnFfRGxycW5rcVBuZEdfSVlpOWFGR29lbU1EaFlROWlqeWNtUnIzOVBwcFh2MndNc1VjSzZCcDVpdWF5cnRhNk5mUF9kMzU5V3NsTkhfZlE1R193dDZ2cS1tUHFxdU0wZkxHVl93?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -446,10 +422,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 01 Oct 2026 14:48:49 GMT",
+          "published": "Fri, 02 Oct 2026 20:50:06 GMT",
           "source": "Yahoo Finance UK"
         }
       ]
@@ -466,7 +442,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -478,10 +454,34 @@
       "is_global": true
     },
     {
-      "id": "d2b8e215f116",
-      "title": "Airtel Money heading for £5.3bn stock market debut after setting float price - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVXFMaUlEOUFNQkU1aXQ5T0o3RVBpbEdxRUhsaUExMUtOazBjUlFSN3JmQURTQ0QtMUhzclJ6Ujh1VkU5aHkzd3p5RkNPR2Q2bVQ2cm9FRHl2eXVZMkVBLXg0MG9ISXg0by04RW9va3pXNDZSMEtnT3Y0cjVkQWNXaQ?oc=5\" target=\"_blank\">Airtel Money heading for £5.3bn s",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVXFMaUlEOUFNQkU1aXQ5T0o3RVBpbEdxRUhsaUExMUtOazBjUlFSN3JmQURTQ0QtMUhzclJ6Ujh1VkU5aHkzd3p5RkNPR2Q2bVQ2cm9FRHl2eXVZMkVBLXg0MG9ISXg0by04RW9va3pXNDZSMEtnT3Y0cjVkQWNXaQ?oc=5",
+      "id": "d7dc53d10e2c",
+      "title": "Interactive Brokers Group, Inc. (IBKR) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1lHOFIzeUZOTktqcS1xa1FuSlZXN3FrNG5oR19WYmNaVElTREZNNFF5QVR5b0NCNUlWZ3MwV25OX0VfWjdFbFJCR2ZGQWJidkJSYVdrOWVrdGhidm96S2lLY0ZoNVNxQ3YwNUtzMVloeG9iWFlVUTFZcVVhcE94ZlNGdWF4SW44Rm9r?oc=5\" target=\"_blank\">Interactive Brokers",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1lHOFIzeUZOTktqcS1xa1FuSlZXN3FrNG5oR19WYmNaVElTREZNNFF5QVR5b0NCNUlWZ3MwV25OX0VfWjdFbFJCR2ZGQWJidkJSYVdrOWVrdGhidm96S2lLY0ZoNVNxQ3YwNUtzMVloeG9iWFlVUTFZcVVhcE94ZlNGdWF4SW44Rm9r?oc=5",
+      "score": 45.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "UK",
+      "first_seen": "2026-10-03T16:10:53+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 02 Oct 2026 20:50:05 GMT",
+          "source": "Yahoo Finance UK"
+        },
+        {
+          "published": "Thu, 01 Oct 2026 21:00:04 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "247e4bffce16",
+      "title": "The Stock Market Just Flashed a Warning Signal Seen Only Twice in 155 Years. Here Are 3 Stocks That Can Weather What History Says Comes Next. - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlqMFVRNm1sX2RJZ2htNlcxM1QyM0V1anloV3FTQllEZVNKWFZydm9VQmNRQlBLNGRoanNJSWxHZUVzOUJxT2VZaU1JU2t1N0V6N0FvUlY3QXREaEFvN0hsSzFNZlp3NFgxckhfMXVJWFpZTG1iVGw1VlE0bDExbzRMRENTMEF1YlFDNDZ3cUhsRzNWNV9uNU53X0RYMXVyandtU19kMUVURX",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlqMFVRNm1sX2RJZ2htNlcxM1QyM0V1anloV3FTQllEZVNKWFZydm9VQmNRQlBLNGRoanNJSWxHZUVzOUJxT2VZaU1JU2t1N0V6N0FvUlY3QXREaEFvN0hsSzFNZlp3NFgxckhfMXVJWFpZTG1iVGw1VlE0bDExbzRMRENTMEF1YlFDNDZ3cUhsRzNWNV9uNU53X0RYMXVyandtU19kMUVURXdxbVUtYUFhWXFOeXpScXppaDlab2ZzendoRVd4Y25TU29HU0JNOU44SjFHWXQ5VDZ0dmt5cUZTWXdWRzVJdWdSTGY5NWFTY3RreDlZSVh0OGNWRzlwbGxKbHd3d3dBeFRVNmNZ?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -489,11 +489,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "UK",
-      "first_seen": "2026-10-03T11:34:28+00:00",
+      "first_seen": "2026-10-03T16:10:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 01 Oct 2026 07:53:17 GMT",
-          "source": "Yahoo Finance UK"
+          "published": "Sat, 03 Oct 2026 09:25:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -509,7 +509,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -532,7 +532,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",

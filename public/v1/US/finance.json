@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "US",
-  "generated_at": "2026-10-03T11:43:25+00:00",
+  "generated_at": "2026-10-03T16:20:01+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
           "published": "Sat, 03 Oct 2026 06:41:00 GMT",
@@ -38,11 +38,31 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 03 Oct 2026 09:41:35 GMT",
+          "published": "Sat, 03 Oct 2026 10:30:00 GMT",
           "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "c14efd42abdb",
+      "title": "The 10 Best Companies to Invest in Now - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5XeXUxSmpmQ05QaDI1M09oZXJXWk16QW1XT3lIb2dVR2toOVdrbGQ0dkNmRHk5b3prc0dRMU9FeHZ2LWJfRWZyOXQtdWhIX1B3VTFlNVd3b050eDZxTmZ4cnJhc2dMRXRKd3ZYbnFaaG5SNXhDaW5EUHVkNWI?oc=5\" target=\"_blank\">The 10 Best Companies to Invest in Now</",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XeXUxSmpmQ05QaDI1M09oZXJXWk16QW1XT3lIb2dVR2toOVdrbGQ0dkNmRHk5b3prc0dRMU9FeHZ2LWJfRWZyOXQtdWhIX1B3VTFlNVd3b050eDZxTmZ4cnJhc2dMRXRKd3ZYbnFaaG5SNXhDaW5EUHVkNWI?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-10-03T16:10:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+          "source": "Morningstar"
         }
       ]
     },
@@ -51,14 +71,14 @@
       "title": "Nasdaq Adds 319 Points as Rate-Hike Odds Ebb: Stock Market Today - Kiplinger",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGQyT3hpSmxqdzRDcGxVODZleHB0a3lzYzJ5a3o2U1VmaHpGVVNrb1AxWnROWE10RGhCU1ZuVElaYkg0MjB1Snpia0IxX3lwSWh1MXhfdWE5aWFhYV9MQkNxUVFncjNzUlU4RHdwX28wX0lBQlVWUHJUZzNDS0VVNXY4bzA1VnppajlPZnpDV215RC1MQzBkems3c3RMMEhjLVFRYjJpWjdQUQ",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGQyT3hpSmxqdzRDcGxVODZleHB0a3lzYzJ5a3o2U1VmaHpGVVNrb1AxWnROWE10RGhCU1ZuVElaYkg0MjB1Snpia0IxX3lwSWh1MXhfdWE5aWFhYV9MQkNxUVFncjNzUlU4RHdwX28wX0lBQlVWUHJUZzNDS0VVNXY4bzA1VnppajlPZnpDV215RC1MQzBkems3c3RMMEhjLVFRYjJpWjdQUQ?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
           "published": "Fri, 02 Oct 2026 20:08:39 GMT",
@@ -67,22 +87,22 @@
       ]
     },
     {
-      "id": "74fa7388ee18",
-      "title": "The 10 Best Companies to Invest in Now - global.morningstar.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5XeXUxSmpmQ05QaDI1M09oZXJXWk16QW1XT3lIb2dVR2toOVdrbGQ0dkNmRHk5b3prc0dRMU9FeHZ2LWJfRWZyOXQtdWhIX1B3VTFlNVd3b050eDZxTmZ4cnJhc2dMRXRKd3ZYbnFaaG5SNXhDaW5EUHVkNWI?oc=5\" target=\"_blank\">The 10 Best Companies to Invest in Now</",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XeXUxSmpmQ05QaDI1M09oZXJXWk16QW1XT3lIb2dVR2toOVdrbGQ0dkNmRHk5b3prc0dRMU9FeHZ2LWJfRWZyOXQtdWhIX1B3VTFlNVd3b050eDZxTmZ4cnJhc2dMRXRKd3ZYbnFaaG5SNXhDaW5EUHVkNWI?oc=5",
-      "score": 79.2,
+      "id": "8b63e330b850",
+      "title": "For Gen Z, Building Wealth Is in the Stock Market, Not the Housing Market - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5\" target=\"_blank\">For Gen Z, Building Wealth Is in the Stoc",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "source": "global.morningstar.com"
+          "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+          "source": "The New York Times"
         }
       ]
     },
@@ -91,26 +111,6 @@
       "title": "Jim Cramer noticed something odd about the stock market - thestreet.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2JUZ3NaX19lTVlfY2RGdzI2XzFOYWxQMmRCNXBDOE50QllqNFlvNVlxZ1kyaHNPYUZHbFJ6TUFNY0VReHVpbUVWVHY4MDE5RXFDV2dSaGNMNU9oLXJldjJ5WFNPYUdweVotZlliRm5jYlRhTkUtRWtNSUlncVc4blRoblcwOEZmdXZsSzdISzhJS1NTRkl3R1dBZGtFd3hfUGExTTlQaw?oc=",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2JUZ3NaX19lTVlfY2RGdzI2XzFOYWxQMmRCNXBDOE50QllqNFlvNVlxZ1kyaHNPYUZHbFJ6TUFNY0VReHVpbUVWVHY4MDE5RXFDV2dSaGNMNU9oLXJldjJ5WFNPYUdweVotZlliRm5jYlRhTkUtRWtNSUlncVc4blRoblcwOEZmdXZsSzdISzhJS1NTRkl3R1dBZGtFd3hfUGExTTlQaw?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 02 Oct 2026 14:07:00 GMT",
-          "source": "thestreet.com"
-        }
-      ]
-    },
-    {
-      "id": "2cedb86a2bde",
-      "title": "For Gen Z, Building Wealth Is in the Stock Market, Not the Housing Market - nytimes.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5\" target=\"_blank\">For Gen Z, Building Wealth Is in the Stoc",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,11 +118,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-          "source": "nytimes.com"
+          "published": "Fri, 02 Oct 2026 14:07:00 GMT",
+          "source": "thestreet.com"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
           "published": "Sat, 03 Oct 2026 06:50:00 GMT",
@@ -158,7 +158,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
           "published": "Fri, 02 Oct 2026 15:30:00 GMT",
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:49+00:00",
+      "first_seen": "2026-10-03T16:13:17+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -211,26 +211,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "7edeb47d7ee0",
-      "title": "Interactive Brokers Group, Inc. (IBKR) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1lHOFIzeUZOTktqcS1xa1FuSlZXN3FrNG5oR19WYmNaVElTREZNNFF5QVR5b0NCNUlWZ3MwV25OX0VfWjdFbFJCR2ZGQWJidkJSYVdrOWVrdGhidm96S2lLY0ZoNVNxQ3YwNUtzMVloeG9iWFlVUTFZcVVhcE94ZlNGdWF4SW44Rm9r?oc=5\" target=\"_blank\">Interactive Brokers",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1lHOFIzeUZOTktqcS1xa1FuSlZXN3FrNG5oR19WYmNaVElTREZNNFF5QVR5b0NCNUlWZ3MwV25OX0VfWjdFbFJCR2ZGQWJidkJSYVdrOWVrdGhidm96S2lLY0ZoNVNxQ3YwNUtzMVloeG9iWFlVUTFZcVVhcE94ZlNGdWF4SW44Rm9r?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 02 Oct 2026 20:50:05 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
     },
     {
       "id": "e49e64974944",
@@ -244,7 +224,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -256,10 +236,10 @@
       "is_global": true
     },
     {
-      "id": "dde2304e0879",
-      "title": "The Stock Market Just Flashed a Warning Signal Seen Only Twice in 155 Years. Here Are 3 Stocks That Can Weather What History Says Comes Next. - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlqMFVRNm1sX2RJZ2htNlcxM1QyM0V1anloV3FTQllEZVNKWFZydm9VQmNRQlBLNGRoanNJSWxHZUVzOUJxT2VZaU1JU2t1N0V6N0FvUlY3QXREaEFvN0hsSzFNZlp3NFgxckhfMXVJWFpZTG1iVGw1VlE0bDExbzRMRENTMEF1YlFDNDZ3cUhsRzNWNV9uNU53X0RYMXVyandtU19kMUVURX",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlqMFVRNm1sX2RJZ2htNlcxM1QyM0V1anloV3FTQllEZVNKWFZydm9VQmNRQlBLNGRoanNJSWxHZUVzOUJxT2VZaU1JU2t1N0V6N0FvUlY3QXREaEFvN0hsSzFNZlp3NFgxckhfMXVJWFpZTG1iVGw1VlE0bDExbzRMRENTMEF1YlFDNDZ3cUhsRzNWNV9uNU53X0RYMXVyandtU19kMUVURXdxbVUtYUFhWXFOeXpScXppaDlab2ZzendoRVd4Y25TU29HU0JNOU44SjFHWXQ5VDZ0dmt5cUZTWXdWRzVJdWdSTGY5NWFTY3RreDlZSVh0OGNWRzlwbGxKbHd3d3dBeFRVNmNZ?oc=5",
+      "id": "86b3ddf9e021",
+      "title": "What’s the Outlook For UK Stock and Bond Markets in Q4? - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnN0Q0g3QlRZUXRpdnB5Rm1sS0dqMlhldWx5WkFGcDhGc2RxemlXZHJWR09FdUQ4WWdKSzZZMUpXSUN0T2x1UVlXOUxrSmN6Z2xydmJmb05qME1XVUZXb0szZ3FCYi15OUhoVjZEM0M4eC1rNFUwVWIydTl1dE81Y1gzaHZmUzlPZVRV?oc=5\" target=\"_blank\">What’s the Outlook ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnN0Q0g3QlRZUXRpdnB5Rm1sS0dqMlhldWx5WkFGcDhGc2RxemlXZHJWR09FdUQ4WWdKSzZZMUpXSUN0T2x1UVlXOUxrSmN6Z2xydmJmb05qME1XVUZXb0szZ3FCYi15OUhoVjZEM0M4eC1rNFUwVWIydTl1dE81Y1gzaHZmUzlPZVRV?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -267,11 +247,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 03 Oct 2026 08:42:26 GMT",
-          "source": "The Motley Fool"
+          "published": "Thu, 01 Oct 2026 07:51:54 GMT",
+          "source": "Morningstar"
         }
       ]
     },
@@ -287,7 +267,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -310,7 +290,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -333,7 +313,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
           "published": "Thu, 01 Oct 2026 18:46:26 GMT",
@@ -353,7 +333,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -365,10 +345,10 @@
       "is_global": true
     },
     {
-      "id": "67fa1ee2f654",
-      "title": "If I Could Tell Every New Investor Just 1 Thing About the Stock Market Right Now, It's This - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHp2ang4M05fVFczd3B2VFJ1MWE2LW85R0c1RXJST01XSU9ud1RSczk4cXk3RzBWdWlkOGFzTVNZdTlWdTd5bHhTdzM3cWJia09YUzBsZVdvcFZLT0RSNVpfMkVoRTNwMVc4VWVqbF81VWRWVWU4RzVEeUJXSEVTZTAyTjE2Q1ZnUzJfZHEtVGgwOTBlQ1ZuSw?oc=5\" target=\"_blank\">I",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHp2ang4M05fVFczd3B2VFJ1MWE2LW85R0c1RXJST01XSU9ud1RSczk4cXk3RzBWdWlkOGFzTVNZdTlWdTd5bHhTdzM3cWJia09YUzBsZVdvcFZLT0RSNVpfMkVoRTNwMVc4VWVqbF81VWRWVWU4RzVEeUJXSEVTZTAyTjE2Q1ZnUzJfZHEtVGgwOTBlQ1ZuSw?oc=5",
+      "id": "dde2304e0879",
+      "title": "The Stock Market Just Flashed a Warning Signal Seen Only Twice in 155 Years. Here Are 3 Stocks That Can Weather What History Says Comes Next. - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlqMFVRNm1sX2RJZ2htNlcxM1QyM0V1anloV3FTQllEZVNKWFZydm9VQmNRQlBLNGRoanNJSWxHZUVzOUJxT2VZaU1JU2t1N0V6N0FvUlY3QXREaEFvN0hsSzFNZlp3NFgxckhfMXVJWFpZTG1iVGw1VlE0bDExbzRMRENTMEF1YlFDNDZ3cUhsRzNWNV9uNU53X0RYMXVyandtU19kMUVURX",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlqMFVRNm1sX2RJZ2htNlcxM1QyM0V1anloV3FTQllEZVNKWFZydm9VQmNRQlBLNGRoanNJSWxHZUVzOUJxT2VZaU1JU2t1N0V6N0FvUlY3QXREaEFvN0hsSzFNZlp3NFgxckhfMXVJWFpZTG1iVGw1VlE0bDExbzRMRENTMEF1YlFDNDZ3cUhsRzNWNV9uNU53X0RYMXVyandtU19kMUVURXdxbVUtYUFhWXFOeXpScXppaDlab2ZzendoRVd4Y25TU29HU0JNOU44SjFHWXQ5VDZ0dmt5cUZTWXdWRzVJdWdSTGY5NWFTY3RreDlZSVh0OGNWRzlwbGxKbHd3d3dBeFRVNmNZ?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -376,10 +356,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 29 Sep 2026 17:15:00 GMT",
+          "published": "Sat, 03 Oct 2026 09:25:00 GMT",
           "source": "The Motley Fool"
         }
       ]
@@ -396,7 +376,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -419,7 +399,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -442,7 +422,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
           "published": "Thu, 01 Oct 2026 21:15:03 GMT",
@@ -462,7 +442,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -474,10 +454,10 @@
       "is_global": true
     },
     {
-      "id": "a6315b8ce2ef",
-      "title": "Will the Stock Market Crash? History Gives a 95% Reason to Stay Calm - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNekR3Z216UzU1N1JQSnFwRzdOaWRMbzlsRXgzLUpjTlV3SW9UWWlJSE5SQVpTM3IzQlVid1hoX0lEeHBIY0stMnhSd1lrUTlkelRrNkNicWtpNFpFZmFMeVpISDJXcmFYdVA3VVNtV0JGSGk5NjJneGVhMy1tYkUyTmdXTEVabG1WbFAwQ09ZY3B3RXREbHNxRw?oc=5\" target=\"_blank\">W",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekR3Z216UzU1N1JQSnFwRzdOaWRMbzlsRXgzLUpjTlV3SW9UWWlJSE5SQVpTM3IzQlVid1hoX0lEeHBIY0stMnhSd1lrUTlkelRrNkNicWtpNFpFZmFMeVpISDJXcmFYdVA3VVNtV0JGSGk5NjJneGVhMy1tYkUyTmdXTEVabG1WbFAwQ09ZY3B3RXREbHNxRw?oc=5",
+      "id": "67fa1ee2f654",
+      "title": "If I Could Tell Every New Investor Just 1 Thing About the Stock Market Right Now, It's This - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHp2ang4M05fVFczd3B2VFJ1MWE2LW85R0c1RXJST01XSU9ud1RSczk4cXk3RzBWdWlkOGFzTVNZdTlWdTd5bHhTdzM3cWJia09YUzBsZVdvcFZLT0RSNVpfMkVoRTNwMVc4VWVqbF81VWRWVWU4RzVEeUJXSEVTZTAyTjE2Q1ZnUzJfZHEtVGgwOTBlQ1ZuSw?oc=5\" target=\"_blank\">I",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHp2ang4M05fVFczd3B2VFJ1MWE2LW85R0c1RXJST01XSU9ud1RSczk4cXk3RzBWdWlkOGFzTVNZdTlWdTd5bHhTdzM3cWJia09YUzBsZVdvcFZLT0RSNVpfMkVoRTNwMVc4VWVqbF81VWRWVWU4RzVEeUJXSEVTZTAyTjE2Q1ZnUzJfZHEtVGgwOTBlQ1ZuSw?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -485,10 +465,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-03T11:34:27+00:00",
+      "first_seen": "2026-10-03T16:10:52+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 01 Oct 2026 11:15:00 GMT",
+          "published": "Tue, 29 Sep 2026 17:15:00 GMT",
           "source": "The Motley Fool"
         }
       ]
@@ -505,7 +485,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -515,6 +495,30 @@
         }
       ],
       "is_global": true
+    },
+    {
+      "id": "58558bb408c1",
+      "title": "5 Things to Know Before the Stock Market Opens on Friday - Investopedia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjNTYjl0Q1RQemp1a21GaE1tRU5YaGJWZzRuNlYyQ0N5b0x1akRJUGF0Y1ltZmI4VmdXM0c5RXZOdWN0ZUdwOEVDeDlSdnJPRGJJNXZDeWF3dmZzSS1lYlotRER4V1FSQXFoNDZvX1UteS1uY2tPUmFwSG5RZ1dWazYyUWE1aFJiUzBDUzEyQlNIWW8yWlA4ZXFGYm94dkNOczJhSXl3b092Vj",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjNTYjl0Q1RQemp1a21GaE1tRU5YaGJWZzRuNlYyQ0N5b0x1akRJUGF0Y1ltZmI4VmdXM0c5RXZOdWN0ZUdwOEVDeDlSdnJPRGJJNXZDeWF3dmZzSS1lYlotRER4V1FSQXFoNDZvX1UteS1uY2tPUmFwSG5RZ1dWazYyUWE1aFJiUzBDUzEyQlNIWW8yWlA4ZXFGYm94dkNOczJhSXl3b092VjRSV0E?oc=5",
+      "score": 41.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-10-03T16:10:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 02 Oct 2026 11:57:43 GMT",
+          "source": "Investopedia"
+        },
+        {
+          "published": "Thu, 01 Oct 2026 12:12:50 GMT",
+          "source": "Investopedia"
+        }
+      ]
     },
     {
       "id": "c066202752f9",
@@ -528,7 +532,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-10-03T11:36:48+00:00",
+      "first_seen": "2026-10-03T16:13:15+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
