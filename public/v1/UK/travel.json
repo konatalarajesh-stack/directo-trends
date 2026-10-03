@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-10-03T05:18:48+00:00",
+  "generated_at": "2026-10-03T11:43:25+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
           "published": "Fri, 02 Oct 2026 17:00:00 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "323b2ea24aa8",
-      "title": "Turning 18? Apply for a free DiscoverEU travel pass - European Commission",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUtPQmc1NVRlQ1plVW5yWHd3Z0JibjRwNl9ldGdqOV9FLWtLSWFwWFhmSDh1Wkh2OXUxaHRySm5tQk9HU0t5YVhQNGFXWGVuVElfTHdBeW03X3BnM2xZY05LQ0ZCcm5MQ01LQk1uQkR3OTQ3RjFxeW5wUHlINWFXY3ZVc2ZlYmE4RE5KdVdpYTJYYkh0bndRR0R3R1RhR3RLbmJaQllkUDhMSm",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUtPQmc1NVRlQ1plVW5yWHd3Z0JibjRwNl9ldGdqOV9FLWtLSWFwWFhmSDh1Wkh2OXUxaHRySm5tQk9HU0t5YVhQNGFXWGVuVElfTHdBeW03X3BnM2xZY05LQ0ZCcm5MQ01LQk1uQkR3OTQ3RjFxeW5wUHlINWFXY3ZVc2ZlYmE4RE5KdVdpYTJYYkh0bndRR0R3R1RhR3RLbmJaQllkUDhMSms?oc=5",
+      "id": "8c3884455f94",
+      "title": "‘I was making no money’: Travel agent side hustle promoted by influencers criticised over fees - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjlrZEM4LTFZTUdyTXBJWVliTEdPcnpzRC1yLXBCQjRqSFhVOWw3Ql9GWUlFUmZSMm0wWnlmR20xeFRDLXVieU5FSHJtalpNSjRfYTA1U1pLZFM3TVZENnZiNUlsTm5DLWxOOWQ5Uno3NkszdC1RUm94XzRVSkJqdy1OQmNUbExzUGstRXM3RV9adC1TUUM1ajRmUU1ndjdQR1dza2lYRFdwM3",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjlrZEM4LTFZTUdyTXBJWVliTEdPcnpzRC1yLXBCQjRqSFhVOWw3Ql9GWUlFUmZSMm0wWnlmR20xeFRDLXVieU5FSHJtalpNSjRfYTA1U1pLZFM3TVZENnZiNUlsTm5DLWxOOWQ5Uno3NkszdC1RUm94XzRVSkJqdy1OQmNUbExzUGstRXM3RV9adC1TUUM1ajRmUU1ndjdQR1dza2lYRFdwM3JsVXhyZG9B?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 03 Oct 2026 11:00:00 GMT",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "id": "323b2ea24aa8",
+      "title": "Turning 18? Apply for a free DiscoverEU travel pass - European Commission",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUtPQmc1NVRlQ1plVW5yWHd3Z0JibjRwNl9ldGdqOV9FLWtLSWFwWFhmSDh1Wkh2OXUxaHRySm5tQk9HU0t5YVhQNGFXWGVuVElfTHdBeW03X3BnM2xZY05LQ0ZCcm5MQ01LQk1uQkR3OTQ3RjFxeW5wUHlINWFXY3ZVc2ZlYmE4RE5KdVdpYTJYYkh0bndRR0R3R1RhR3RLbmJaQllkUDhMSm",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUtPQmc1NVRlQ1plVW5yWHd3Z0JibjRwNl9ldGdqOV9FLWtLSWFwWFhmSDh1Wkh2OXUxaHRySm5tQk9HU0t5YVhQNGFXWGVuVElfTHdBeW03X3BnM2xZY05LQ0ZCcm5MQ01LQk1uQkR3OTQ3RjFxeW5wUHlINWFXY3ZVc2ZlYmE4RE5KdVdpYTJYYkh0bndRR0R3R1RhR3RLbmJaQllkUDhMSms?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
           "published": "Thu, 01 Oct 2026 07:00:00 GMT",
@@ -47,30 +67,10 @@
       ]
     },
     {
-      "id": "1d864fbda42f",
-      "title": "Agent Diary: Never stop enjoying being a travel agent, it's the best job in the world - Travel Weekly - Home",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDNWRGhqVmZNMVlJZ0pfbmRLcE5aWGZwVEJpamZqZVhTUFhZYXFnX0ozeEV3MGFSTS1ORnhKMmUyWFZKd25BVnV0T1NKZTE1QWxua0I2STdTeFN4NVJ5RFJMNDJXUEVWd1BWcWdRT3JYWFpRMHBEVFJybDNjSVhGaHVJWGp6RVgzM3VsSG9zaXktaHd3U2Z4LVlHNG1BN05haW9JYkd6Szlid0",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDNWRGhqVmZNMVlJZ0pfbmRLcE5aWGZwVEJpamZqZVhTUFhZYXFnX0ozeEV3MGFSTS1ORnhKMmUyWFZKd25BVnV0T1NKZTE1QWxua0I2STdTeFN4NVJ5RFJMNDJXUEVWd1BWcWdRT3JYWFpRMHBEVFJybDNjSVhGaHVJWGp6RVgzM3VsSG9zaXktaHd3U2Z4LVlHNG1BN05haW9JYkd6Szlid0xtNFdQM05YY24?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 02 Oct 2026 11:30:00 GMT",
-          "source": "Travel Weekly - Home"
-        }
-      ]
-    },
-    {
-      "id": "9baf66953834",
-      "title": "Over £9m for Glaswegian active travel - Highways Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTlKYk9LcVZ3VEhQYlVtb1ctSEllUGI5N3ZMRDI2dlhMdzRMcUFOeWFSR0NrbkRzZjZSdTJHZ05jVE15Z0tqNlVyV25yTW1ySHVyaHZwVnZSZkhKLVVYU2tGTjNXS2k2T3pqcFREVUdZaGptVjZKV185VXdKeVFIRlhzNlJscWlvX0tERkRTazY?oc=5\" target=\"_blank\">Over £9m for",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTlKYk9LcVZ3VEhQYlVtb1ctSEllUGI5N3ZMRDI2dlhMdzRMcUFOeWFSR0NrbkRzZjZSdTJHZ05jVE15Z0tqNlVyV25yTW1ySHVyaHZwVnZSZkhKLVVYU2tGTjNXS2k2T3pqcFREVUdZaGptVjZKV185VXdKeVFIRlhzNlJscWlvX0tERkRTazY?oc=5",
+      "id": "769cf663c994",
+      "title": "Global tourism resilience under pressure as international travel hits record high - itij.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWdwNlJfZjd1V21XbTF3dFd4Zk5BZUVWM0Zqd2djaEtvcEVIV0toeFpGU3RFNEJzQUl3SFBlVHNVOTdlVTRDVzFMZlpoRzJDZ2pHeGVMaHFKT2NwUUNMSmZWN1NVVlF5a0pheEZNdnZ1S1QySk1HOGRTQ1VBOGE1TmR5WU0zTzNfUWtEZFZmMDZIdnhLX18wdXMtcU1tMVNaaDlzd19RcC0zeE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWdwNlJfZjd1V21XbTF3dFd4Zk5BZUVWM0Zqd2djaEtvcEVIV0toeFpGU3RFNEJzQUl3SFBlVHNVOTdlVTRDVzFMZlpoRzJDZ2pHeGVMaHFKT2NwUUNMSmZWN1NVVlF5a0pheEZNdnZ1S1QySk1HOGRTQ1VBOGE1TmR5WU0zTzNfUWtEZFZmMDZIdnhLX18wdXMtcU1tMVNaaDlzd19RcC0zeE5SNTcySw?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,19 +78,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 02 Oct 2026 14:13:34 GMT",
-          "source": "Highways Magazine"
+          "published": "Sat, 03 Oct 2026 07:08:23 GMT",
+          "source": "itij.com"
         }
       ]
     },
     {
-      "id": "bdaa52a659cb",
-      "title": "Green travel plan to link city and communities - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9za290Zl9aNUFuUktMTklza282bGtQOVE0RUVaMHlpVFB2eENEQWpOMmw2cnV0bnVkbkZtQlNRWHdSdFh2dXdfOG9SSDRHZzYtcXJDQXpNS1NTaTB0aGc?oc=5\" target=\"_blank\">Green travel plan to link city and communities</a>&nbsp;&nbsp;<font color=\"#6f6f",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9za290Zl9aNUFuUktMTklza282bGtQOVE0RUVaMHlpVFB2eENEQWpOMmw2cnV0bnVkbkZtQlNRWHdSdFh2dXdfOG9SSDRHZzYtcXJDQXpNS1NTaTB0aGc?oc=5",
+      "id": "49571ad359e0",
+      "title": "All-day free bus travel to begin for some over 65's in Stoke-on-Trent - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFUTZnQjhxc2hveExBbnVjRlE4dklOTTZBOXBfc3BpSGdmRUg1bmt0azZrUXdXT1JLQ3B2SjdvdjNLNE5pVmFFaEYyeC1mbk91YzdWSG1MckhhVms?oc=5\" target=\"_blank\">All-day free bus travel to begin for some over 65's in Stoke-on-Trent</a>&nbsp;&nbsp",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFUTZnQjhxc2hveExBbnVjRlE4dklOTTZBOXBfc3BpSGdmRUg1bmt0azZrUXdXT1JLQ3B2SjdvdjNLNE5pVmFFaEYyeC1mbk91YzdWSG1MckhhVms?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,11 +98,71 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 02 Oct 2026 11:44:30 GMT",
+          "published": "Sat, 03 Oct 2026 06:14:29 GMT",
           "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "1b6bc4774d96",
+      "title": "A travel novelist’s passage to Egypt - The Critic",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNb00zbS1JM1l6Ump1bnI5Nkp6Q3FJaTJuNUFOUVowYkE1ZmRWRmhrbHJScVpKNGIwS2tZZDBNdTlDNWR5bXZyNTJCVmxUMGtaVnFuNWkyc09PZ1RLcjQ0am15RC1FaWtmVC1BbWJEeUxjZkJ2UmNzSUEyTWMyWk0wMU5KM0FoRlE?oc=5\" target=\"_blank\">A travel novelist’s pass",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb00zbS1JM1l6Ump1bnI5Nkp6Q3FJaTJuNUFOUVowYkE1ZmRWRmhrbHJScVpKNGIwS2tZZDBNdTlDNWR5bXZyNTJCVmxUMGtaVnFuNWkyc09PZ1RLcjQ0am15RC1FaWtmVC1BbWJEeUxjZkJ2UmNzSUEyTWMyWk0wMU5KM0FoRlE?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-03T11:34:39+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 03 Oct 2026 04:56:42 GMT",
+          "source": "The Critic"
+        }
+      ]
+    },
+    {
+      "id": "2cab73737f2d",
+      "title": "\"The more we travel, the more we realize that the whole world is the same\" - interview with Little Boys - Chaoszine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFlVUzNrbVY1U0o0V1FSM1lERDNGeW5VOGpkazNHY09rTE1sdF9QdXp0TW5rckNpQlBSaWFnNy1qTzhnN1dsNEZzcjdrYXM4SkF5ZXZHLWF0aUlNNnBzSlZneWVQMHZMTXctVldkYnppNk50UF9jb2tVdjFIVjlkNFNhX29QZGR5TTJkWFEybkhvX1U1VmRfOXk4UXliWmhLMXNuQVpmdzRMOV",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFlVUzNrbVY1U0o0V1FSM1lERDNGeW5VOGpkazNHY09rTE1sdF9QdXp0TW5rckNpQlBSaWFnNy1qTzhnN1dsNEZzcjdrYXM4SkF5ZXZHLWF0aUlNNnBzSlZneWVQMHZMTXctVldkYnppNk50UF9jb2tVdjFIVjlkNFNhX29QZGR5TTJkWFEybkhvX1U1VmRfOXk4UXliWmhLMXNuQVpmdzRMOVZrMVpmLWhDUmFvNFMzYXpzWUl3?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-03T11:34:39+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 03 Oct 2026 07:04:43 GMT",
+          "source": "Chaoszine"
+        }
+      ]
+    },
+    {
+      "id": "b515f45ac18a",
+      "title": "The 2026 ULTRAs honour the best of luxury travel at the Tower of London - Hospitality & Catering News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0QxcVNWV3JXQ0YzVU1xSTVsWWdVY1MtdWotN3pEYTkzeEdvM2lJUl9jSnNZeFNVa1oxZFFyLXBWUjhJWGdFZWlxVklsbVJYZnVSUVNpWUxuVnpOQnNGamdrdjl4Nm9DSTRiekNqVVlkbnVmaUZka2Y5bFdadU0tdWlLdTBpVXBpanNZMlVONGJTTXRvWnNNX216aHkyZi1VT0syMWpiV2xiTU",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0QxcVNWV3JXQ0YzVU1xSTVsWWdVY1MtdWotN3pEYTkzeEdvM2lJUl9jSnNZeFNVa1oxZFFyLXBWUjhJWGdFZWlxVklsbVJYZnVSUVNpWUxuVnpOQnNGamdrdjl4Nm9DSTRiekNqVVlkbnVmaUZka2Y5bFdadU0tdWlLdTBpVXBpanNZMlVONGJTTXRvWnNNX216aHkyZi1VT0syMWpiV2xiTU9GXzFPczI1QVFVUmJucktfTU0xSHQ?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-03T11:34:39+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 03 Oct 2026 07:11:40 GMT",
+          "source": "Hospitality & Catering News"
         }
       ]
     },
@@ -111,14 +171,14 @@
       "title": "Mayor warned tourism levy could be ‘straw that breaks camel’s back’ - Yorkshire Post",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnEwSHdDRzJyQ1F2dE5GeFVOdm8za1cxREh5bW9wdnk1cHdVTGJVT3JkbGpSdHJwUEdyS25obm9LRDZQV0UzNWJqa3czMF9tdC1rTG1jdVotMVRBdFA0ZHhPNXJlZGQ5cXNoRHJpYVV6aWtuSEIzUy1NVWpTV29kVVhDbkxRY3JQMmxveEZrQnZ3cW9mczl4TVlfWVlhOGdmLUtFTURlQlYzcG",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnEwSHdDRzJyQ1F2dE5GeFVOdm8za1cxREh5bW9wdnk1cHdVTGJVT3JkbGpSdHJwUEdyS25obm9LRDZQV0UzNWJqa3czMF9tdC1rTG1jdVotMVRBdFA0ZHhPNXJlZGQ5cXNoRHJpYVV6aWtuSEIzUy1NVWpTV29kVVhDbkxRY3JQMmxveEZrQnZ3cW9mczl4TVlfWVlhOGdmLUtFTURlQlYzcGNISGxmYkJIWkk3SFRaakE?oc=5",
-      "score": 72.0,
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
           "published": "Sat, 03 Oct 2026 05:00:00 GMT",
@@ -127,70 +187,10 @@
       ]
     },
     {
-      "id": "8d6283f4c259",
-      "title": "A travel novelist’s passage to Egypt - thecritic.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNb00zbS1JM1l6Ump1bnI5Nkp6Q3FJaTJuNUFOUVowYkE1ZmRWRmhrbHJScVpKNGIwS2tZZDBNdTlDNWR5bXZyNTJCVmxUMGtaVnFuNWkyc09PZ1RLcjQ0am15RC1FaWtmVC1BbWJEeUxjZkJ2UmNzSUEyTWMyWk0wMU5KM0FoRlE?oc=5\" target=\"_blank\">A travel novelist’s pass",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb00zbS1JM1l6Ump1bnI5Nkp6Q3FJaTJuNUFOUVowYkE1ZmRWRmhrbHJScVpKNGIwS2tZZDBNdTlDNWR5bXZyNTJCVmxUMGtaVnFuNWkyc09PZ1RLcjQ0am15RC1FaWtmVC1BbWJEeUxjZkJ2UmNzSUEyTWMyWk0wMU5KM0FoRlE?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 03 Oct 2026 04:56:42 GMT",
-          "source": "thecritic.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "4e3674ed81c4",
-      "title": "Istanbul travel guide: where to stay, what to do and what to eat in the city - Cosmopolitan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3FBSnV3R2JJU3dtRlpYS0NoUW5oOExSdVFGQTU4MTV1MXRxQWFaT3ZSYzQtWmd1MEsxSUc2Sjh2YVhaeVFGQnY1anhxZktOd2EzNTBFZmxsQWViOXY3WjNXNGpTTFhvaXZTNTlCS1VSMi1vUW9NY1IzTkotTFM0bUZmXzVXOGFQaGc?oc=5\" target=\"_blank\">Istanbul travel guid",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3FBSnV3R2JJU3dtRlpYS0NoUW5oOExSdVFGQTU4MTV1MXRxQWFaT3ZSYzQtWmd1MEsxSUc2Sjh2YVhaeVFGQnY1anhxZktOd2EzNTBFZmxsQWViOXY3WjNXNGpTTFhvaXZTNTlCS1VSMi1vUW9NY1IzTkotTFM0bUZmXzVXOGFQaGc?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 02 Oct 2026 14:59:26 GMT",
-          "source": "Cosmopolitan"
-        }
-      ]
-    },
-    {
-      "id": "7c6f4b649ddd",
-      "title": "Japan, US, Spain: The best countries for travel and tourism in 2026 have been revealed - timeout.com",
+      "id": "601d19c0025c",
+      "title": "Japan, US, Spain: The best countries for travel and tourism in 2026 have been revealed - Time Out Worldwide",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdF9Wc1pVQkVjMmJqOG50ZGZDaDVtT0RqRTNXUEhwZ3cxbGRpVlVqaTZmVGM2UzJNNWxxVWdxZzFSUEIxUk1TNTdoUDhNMF9iLUlMQXVvLWxCVlNNYXd0cnpsZUVuT3Y1b3NVR3FSMkd4aUVkNVBLZ3VFOGFiX3pFNDhmVTJweUhiN0E?oc=5\" target=\"_blank\">Japan, US, Spain: Th",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdF9Wc1pVQkVjMmJqOG50ZGZDaDVtT0RqRTNXUEhwZ3cxbGRpVlVqaTZmVGM2UzJNNWxxVWdxZzFSUEIxUk1TNTdoUDhNMF9iLUlMQXVvLWxCVlNNYXd0cnpsZUVuT3Y1b3NVR3FSMkd4aUVkNVBLZ3VFOGFiX3pFNDhmVTJweUhiN0E?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 01 Oct 2026 14:44:03 GMT",
-          "source": "timeout.com"
-        }
-      ]
-    },
-    {
-      "id": "8c851b9340a5",
-      "title": "Foreign Office issues 'before you travel' advice to popular holiday destination - aol.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlJEQTljZUlIV2JydWlmT2Z1YmI5R0I1clYzazBPaXVaSG5lYkhmWnQ3MlVwQnZsNFdkZUVjeGJaVDNBQS1ZVDUzUFB4MWVYU1N4ZEo5dklNZW1XT0M5UUJQaFpZcXJzR0lxTUJzSWhrSDhuRXdFLTEwcktrclljanpvYk1OMWJO?oc=5\" target=\"_blank\">Foreign Office issues '",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlJEQTljZUlIV2JydWlmT2Z1YmI5R0I1clYzazBPaXVaSG5lYkhmWnQ3MlVwQnZsNFdkZUVjeGJaVDNBQS1ZVDUzUFB4MWVYU1N4ZEo5dklNZW1XT0M5UUJQaFpZcXJzR0lxTUJzSWhrSDhuRXdFLTEwcktrclljanpvYk1OMWJO?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +198,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 02 Oct 2026 15:08:34 GMT",
-          "source": "aol.co.uk"
+          "published": "Thu, 01 Oct 2026 14:44:03 GMT",
+          "source": "Time Out Worldwide"
         }
       ]
     },
     {
-      "id": "d994a9c53ad2",
-      "title": "How Eco-Tourism Can Help Protect Fragile Mediterranean Coastlines - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnZOS1drdXdDSUJvT2dBX1dlZVNpekkyY29XR2tnWnQzdXJXUFRjNHpqbXBqb3RtMmVMT3JqQmJNc09UMU50ZVFDd2pzeUpqT2w4ZmxzWTRReUJhczVxU1BZYlpzNEtSeUZidkVZUl8wREg0MUd3aFhJam5tbXhkNVd4d29LWVpwV1lTaFh0c182cEFNeWJVYUdPLXpwS25kVHRXS1dXQUpkd0",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnZOS1drdXdDSUJvT2dBX1dlZVNpekkyY29XR2tnWnQzdXJXUFRjNHpqbXBqb3RtMmVMT3JqQmJNc09UMU50ZVFDd2pzeUpqT2w4ZmxzWTRReUJhczVxU1BZYlpzNEtSeUZidkVZUl8wREg0MUd3aFhJam5tbXhkNVd4d29LWVpwV1lTaFh0c182cEFNeWJVYUdPLXpwS25kVHRXS1dXQUpkd0NCeUtsN2UxeF84NWJNazU0ZTRyUQ?oc=5",
+      "id": "141c8638248a",
+      "title": "From food-led escapes to trip of a lifetime hotels: How luxury travel has evolved and ‘doesn’t look one way’ - euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPVU1qOUI5OGRTazFtX3ZQWHpjT3Y4TEVFRjNDbEF1dktkVU9fTm04SVNva194b2pmaVlEME9Rc281eVVjTXZYal9pQ1BUdGVvam9oQXpOVUoxY05PSk5xd0FpdWVJR1ZObkUwNGdCM3FjSWE4cm1iNUFRbFMtVF80ZFBxU0lVd0lqRDhQZzFGbGZ1SU5GZGpwbk9YVmJ6d0VUWDhvODRjZV9kd2",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVU1qOUI5OGRTazFtX3ZQWHpjT3Y4TEVFRjNDbEF1dktkVU9fTm04SVNva194b2pmaVlEME9Rc281eVVjTXZYal9pQ1BUdGVvam9oQXpOVUoxY05PSk5xd0FpdWVJR1ZObkUwNGdCM3FjSWE4cm1iNUFRbFMtVF80ZFBxU0lVd0lqRDhQZzFGbGZ1SU5GZGpwbk9YVmJ6d0VUWDhvODRjZV9kd2IzNHlIMjZuZ3V1SmZKRmJJTFMySnA3NzlF?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +218,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 02 Oct 2026 21:44:59 GMT",
-          "source": "Forbes"
+          "published": "Sat, 03 Oct 2026 05:00:16 GMT",
+          "source": "euronews.com"
         }
       ]
     },
     {
-      "id": "19a554574cff",
-      "title": "Early bird tickets on sale for Worcestershire Tourism Awards - The Worcester News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOclVRS0ktaUQwUHRNS2l1WERtQ1I5RHo3UmRYX01nM2poREJMeUliWVR0QndUQU9IWkVvMUxULXRTcElkQ1VySjRESkJUSjZyX1RYTFl5Wi12eDZsUGxRV2dXa29ISlhyYnhOc2lqaGcyLVNabXpEeVVjbnctVlNzVWdwazVfZWh6cVJWNWRmUng1RjRITjNvbnlCV0d1cE44WUE?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclVRS0ktaUQwUHRNS2l1WERtQ1I5RHo3UmRYX01nM2poREJMeUliWVR0QndUQU9IWkVvMUxULXRTcElkQ1VySjRESkJUSjZyX1RYTFl5Wi12eDZsUGxRV2dXa29ISlhyYnhOc2lqaGcyLVNabXpEeVVjbnctVlNzVWdwazVfZWh6cVJWNWRmUng1RjRITjNvbnlCV0d1cE44WUE?oc=5",
+      "id": "6dfdca819ad5",
+      "title": "4 of the most extreme travel adventure destinations - qz.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGN0RHpSRW9WQmtTZG5PS0dzZWRDZXlualdEV3lrclk1b0lBQmU5RkpmUDRWUFpGSG44cWVTU01sUjg5aXpwdjVTd3R3ZDlXYkZOd29zeEkxTXBTRWN4VDNZckF0YklpcDZ0UnFycktrVmZQaTZMNVg5TnRGYkdmUzBSdFFRMXJq?oc=5\" target=\"_blank\">4 of the most extreme t",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGN0RHpSRW9WQmtTZG5PS0dzZWRDZXlualdEV3lrclk1b0lBQmU5RkpmUDRWUFpGSG44cWVTU01sUjg5aXpwdjVTd3R3ZDlXYkZOd29zeEkxTXBTRWN4VDNZckF0YklpcDZ0UnFycktrVmZQaTZMNVg5TnRGYkdmUzBSdFFRMXJq?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 03 Oct 2026 04:00:00 GMT",
-          "source": "The Worcester News"
+          "published": "Sat, 03 Oct 2026 09:06:24 GMT",
+          "source": "qz.com"
         }
       ]
     },
     {
-      "id": "97ebe27fb2b4",
-      "title": "Jack Ramsey to step down after Direct Travel changes plans for TripStax - The Business Travel Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxON0JfbE4yeGtWZHgyVEdBZ2xVQXR2Z0Y0VEYxTy1mUGR6czEtNGc1QnVLWFRHWEo3QnlwNmlvcWh4UjY4T3J3X3dMSkh5alhjakpHc0dFMFgxZVgyTGVicE9yWGFXd2lBSzVuZE5Zbzd1TDRqWUcyUUNJOEhqenhlZ2o4Z2IxZDNYVUZFaEZ3aWllNlZ0Q00zeEJlU3J2S0dXZThMdzJB?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0JfbE4yeGtWZHgyVEdBZ2xVQXR2Z0Y0VEYxTy1mUGR6czEtNGc1QnVLWFRHWEo3QnlwNmlvcWh4UjY4T3J3X3dMSkh5alhjakpHc0dFMFgxZVgyTGVicE9yWGFXd2lBSzVuZE5Zbzd1TDRqWUcyUUNJOEhqenhlZ2o4Z2IxZDNYVUZFaEZ3aWllNlZ0Q00zeEJlU3J2S0dXZThMdzJB?oc=5",
+      "id": "15c90dcb7c6a",
+      "title": "Advito: Premium demand to keep Q4 airfares lofty - Business Travel News Europe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDE0bFB6QkhzVk52dnRlNnF2c2Z0T1hiWTFKcElNLU9oRW5fMlREZ3YwZ0c0WTlHelc5c2FRaHA4MmZDY28tcmZiQ3BGc040cHhXbENkUnFxVXRtLTN5eDd0dkRMczJZMHV6Y0xuUHRsYWJTdEpkOGlHVjlHRFliUDR5akV4SXpUTHpUQ3c2X1NGa0p6STdYbWloenR5LS1p?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDE0bFB6QkhzVk52dnRlNnF2c2Z0T1hiWTFKcElNLU9oRW5fMlREZ3YwZ0c0WTlHelc5c2FRaHA4MmZDY28tcmZiQ3BGc040cHhXbENkUnFxVXRtLTN5eDd0dkRMczJZMHV6Y0xuUHRsYWJTdEpkOGlHVjlHRFliUDR5akV4SXpUTHpUQ3c2X1NGa0p6STdYbWloenR5LS1p?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,31 +258,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 02 Oct 2026 15:49:01 GMT",
-          "source": "The Business Travel Magazine"
-        }
-      ]
-    },
-    {
-      "id": "473d768889d0",
-      "title": "The business of doing nothing: Inside the rise of quiet travel - news.cgtn.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQT01mTjlzcjlQTWljby1OT2NtSWJTM193MmNfS2JrVVhaOE56MERIZVNBNkxoY2hKSGtPNTlkV0V5X1IwRlFZX3FIVWxVNklWYnBYQXBKT3BzQmRYN29TM2h6OVVxWmJVQi0xTmdrQ0tBZVdrYWkzLTRQUzVFNGYxR2NqRGVnVXdobVdkc0pQVU5wTXVkVTU2aHZSd3hBWTZBeDQ4Z3ozUDBBQ1",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT01mTjlzcjlQTWljby1OT2NtSWJTM193MmNfS2JrVVhaOE56MERIZVNBNkxoY2hKSGtPNTlkV0V5X1IwRlFZX3FIVWxVNklWYnBYQXBKT3BzQmRYN29TM2h6OVVxWmJVQi0xTmdrQ0tBZVdrYWkzLTRQUzVFNGYxR2NqRGVnVXdobVdkc0pQVU5wTXVkVTU2aHZSd3hBWTZBeDQ4Z3ozUDBBQ1NYVzFlLTB3VXRQVjJSVkE?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 03 Oct 2026 04:50:52 GMT",
-          "source": "news.cgtn.com"
+          "published": "Sat, 03 Oct 2026 09:08:03 GMT",
+          "source": "Business Travel News Europe"
         }
       ]
     },
@@ -291,14 +271,14 @@
       "title": "Visit Sweden opens a travel agency for introverts in London - Creative Boom",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUhodldZQUtBY29RTjhKUW95bzA2RmhkNEp4MjdVZXk0VXluT0wzMGs0UExuVkx4VXlDOXVLS0hRWXVTbUJUQlVZUDByUDZ1QVVsMFM3TXA1WEsxVWVxZFJONkFxaGFfNmQ4ZlRCSTh3YlpfcTlwOFJZZXA2ejdLWFBxQllwTVhpV3ppRXBZb0lXVWVmelNjZmlGdzliTWk3VktuUTRsN2NFUk",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUhodldZQUtBY29RTjhKUW95bzA2RmhkNEp4MjdVZXk0VXluT0wzMGs0UExuVkx4VXlDOXVLS0hRWXVTbUJUQlVZUDByUDZ1QVVsMFM3TXA1WEsxVWVxZFJONkFxaGFfNmQ4ZlRCSTh3YlpfcTlwOFJZZXA2ejdLWFBxQllwTVhpV3ppRXBZb0lXVWVmelNjZmlGdzliTWk3VktuUTRsN2NFUkFfYlFJYw?oc=5",
-      "score": 39.6,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
           "published": "Thu, 01 Oct 2026 05:45:00 GMT",
@@ -307,42 +287,22 @@
       ]
     },
     {
-      "id": "a03b3bdbf643",
-      "title": "Airlines and airports push EU to support biometric travel - Aerospace Global News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVE41c3J2R0JYU0R5dFFMWEFhZE9ILWVGdTdCbGFJN21fOEtEYlQxdGFtSm8xVURkRFdlalhRVWRoRHVRNUFiRlRTNnhhamZEd0Ixc25hQXVPUHBnQTBvNjVvWjE3RldWMlNnVkUxcTQweW5mbzNGckNsVVdkTWowdUtuQnRkQjdLYlNfT0xZZ2dTeVg2MF9LUktYNjZuN1RxZURaRQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVE41c3J2R0JYU0R5dFFMWEFhZE9ILWVGdTdCbGFJN21fOEtEYlQxdGFtSm8xVURkRFdlalhRVWRoRHVRNUFiRlRTNnhhamZEd0Ixc25hQXVPUHBnQTBvNjVvWjE3RldWMlNnVkUxcTQweW5mbzNGckNsVVdkTWowdUtuQnRkQjdLYlNfT0xZZ2dTeVg2MF9LUktYNjZuN1RxZURaRQ?oc=5",
-      "score": 36.0,
+      "id": "e2abb7f4cd82",
+      "title": "The American Vacation Is Proving Surprisingly Resilient - Breaking Travel News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnFGM2JXUmdMMTdmS0ZVZWFCY3U5bWdYbTRLOEgwNW1nbm53VmFjWmpTSW9vdnZXWVQzQ0ZFODhyX1Z5Yl83TFlCcnd6YTFTamdQeFY1cFRCQjdmbEhtb1g1S3Q3VmVQSDVIeklDZDBMdmNVeUFHcFVlNXlzWFNXTmFXekFfb3lQelBvYW1PRl9wam5lRTBySUh1THJsREktNXNRazBPZw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnFGM2JXUmdMMTdmS0ZVZWFCY3U5bWdYbTRLOEgwNW1nbm53VmFjWmpTSW9vdnZXWVQzQ0ZFODhyX1Z5Yl83TFlCcnd6YTFTamdQeFY1cFRCQjdmbEhtb1g1S3Q3VmVQSDVIeklDZDBMdmNVeUFHcFVlNXlzWFNXTmFXekFfb3lQelBvYW1PRl9wam5lRTBySUh1THJsREktNXNRazBPZw?oc=5",
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 02 Oct 2026 14:45:00 GMT",
-          "source": "Aerospace Global News"
-        }
-      ]
-    },
-    {
-      "id": "1de969b090a0",
-      "title": "Will changes to flight bookings mean more common sense in air travel? - The Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0phQVVFRjd1b0IxVjFaUUNaSGFZY0J0MDlhek0zcFh1LTc2Q0gyenpsa2FtdDhPQy1oYjd2SHZoOGJ1MVlwckJNMDJUTFJZd1dkN3RpVlI4TjZKbHdXVTJnZ3VqTVFzUk51R2dOWEVFZ3BRRHIxSnN1ZUotVXdmaWw1QjNBRjRrVGFYQXlVdWFuZmRiVktqNThFVUVzVjc1UVRJOHdPeTVBRz",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0phQVVFRjd1b0IxVjFaUUNaSGFZY0J0MDlhek0zcFh1LTc2Q0gyenpsa2FtdDhPQy1oYjd2SHZoOGJ1MVlwckJNMDJUTFJZd1dkN3RpVlI4TjZKbHdXVTJnZ3VqTVFzUk51R2dOWEVFZ3BRRHIxSnN1ZUotVXdmaWw1QjNBRjRrVGFYQXlVdWFuZmRiVktqNThFVUVzVjc1UVRJOHdPeTVBRzZZdXZhWjlZa3czRWstZzNKUmJvVzU2RGk2dl9qUW5ScHllYWloWm1ValViYm5IUQ?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 02 Oct 2026 12:30:00 GMT",
-          "source": "The Times"
+          "published": "Sat, 03 Oct 2026 06:21:58 GMT",
+          "source": "Breaking Travel News"
         }
       ]
     },
@@ -351,14 +311,14 @@
       "title": "Over 1,000 people shape Pembrokeshire’s 10-year tourism vision - The Western Telegraph",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlM0Slc4bTlMNXhXUDhNb2RPTm9yZlRseS1pbmxNRVduaDdhWXpfRlMxeGdJNjJvR0h1Zk1rRUVkVExPdGotN2J2RUlPNTctaHRNckRzOGdPZVRmd3phZjRCSUN1SVpWbjVjQkV3cnZ4TmQ4ak8xS0pFeHFyWTBEUmZORlFYTlJ4TFdyV0NfWm9oQkU?oc=5\" target=\"_blank\">Over 1,0",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlM0Slc4bTlMNXhXUDhNb2RPTm9yZlRseS1pbmxNRVduaDdhWXpfRlMxeGdJNjJvR0h1Zk1rRUVkVExPdGotN2J2RUlPNTctaHRNckRzOGdPZVRmd3phZjRCSUN1SVpWbjVjQkV3cnZ4TmQ4ak8xS0pFeHFyWTBEUmZORlFYTlJ4TFdyV0NfWm9oQkU?oc=5",
-      "score": 28.8,
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
           "published": "Sat, 03 Oct 2026 05:00:00 GMT",
@@ -367,10 +327,50 @@
       ]
     },
     {
-      "id": "0ce4a29895d9",
-      "title": "Rise of ‘micro-travel’ and other 2027 trends you need to know about - Euronews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxObGxoVEEtd0dhaHpxOU9ZbjQwVU1NZms3VXowcUM5Szg4am90VmpmSE9vbE11UURzOVZiTzZHU0VRR2hwQjMzcldYREFGT3l3b2FLbkJhZmd2QV9jMjJaZll0MzFGenA1SnByN0JhY3RsVWEwU3NnUDZNcUdGSllDdDZaUHlaV1BtZGpKcS1IckRKZ3hWNHpGaHhvWS1DVXp1VDZvbDNaN2dMYV",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObGxoVEEtd0dhaHpxOU9ZbjQwVU1NZms3VXowcUM5Szg4am90VmpmSE9vbE11UURzOVZiTzZHU0VRR2hwQjMzcldYREFGT3l3b2FLbkJhZmd2QV9jMjJaZll0MzFGenA1SnByN0JhY3RsVWEwU3NnUDZNcUdGSllDdDZaUHlaV1BtZGpKcS1IckRKZ3hWNHpGaHhvWS1DVXp1VDZvbDNaN2dMYVlldGswWkFkYXBNVVRnUUlzTXZ1TDBfcHNm?oc=5",
+      "id": "491140f3d51e",
+      "title": "Three Welsh destinations recognised among UK’s most scenic road trips - Nation.Cymru",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWYtbTBXSV9hTVo2dlYxcENQRWszeHNyenVFZ19oclVCSWZkRXAwaFlpLUIwMWtFQWdiV3UxSmhoU3ZqOU9iRDRGbkdzdTdwSHE4S3hmbTVLd0t0RVNybHZfdGtrOHo3MXlJUXQwUnhkZExtZVRHdjR1dVhxN2ZhMk85TWQ0WEtSNUlMU2NVVzJHWGdLakpJNG9VXzE4Z00?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWYtbTBXSV9hTVo2dlYxcENQRWszeHNyenVFZ19oclVCSWZkRXAwaFlpLUIwMWtFQWdiV3UxSmhoU3ZqOU9iRDRGbkdzdTdwSHE4S3hmbTVLd0t0RVNybHZfdGtrOHo3MXlJUXQwUnhkZExtZVRHdjR1dVhxN2ZhMk85TWQ0WEtSNUlMU2NVVzJHWGdLakpJNG9VXzE4Z00?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-03T11:34:39+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 03 Oct 2026 07:04:29 GMT",
+          "source": "Nation.Cymru"
+        }
+      ]
+    },
+    {
+      "id": "1d864fbda42f",
+      "title": "Agent Diary: Never stop enjoying being a travel agent, it's the best job in the world - Travel Weekly - Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDNWRGhqVmZNMVlJZ0pfbmRLcE5aWGZwVEJpamZqZVhTUFhZYXFnX0ozeEV3MGFSTS1ORnhKMmUyWFZKd25BVnV0T1NKZTE1QWxua0I2STdTeFN4NVJ5RFJMNDJXUEVWd1BWcWdRT3JYWFpRMHBEVFJybDNjSVhGaHVJWGp6RVgzM3VsSG9zaXktaHd3U2Z4LVlHNG1BN05haW9JYkd6Szlid0",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDNWRGhqVmZNMVlJZ0pfbmRLcE5aWGZwVEJpamZqZVhTUFhZYXFnX0ozeEV3MGFSTS1ORnhKMmUyWFZKd25BVnV0T1NKZTE1QWxua0I2STdTeFN4NVJ5RFJMNDJXUEVWd1BWcWdRT3JYWFpRMHBEVFJybDNjSVhGaHVJWGp6RVgzM3VsSG9zaXktaHd3U2Z4LVlHNG1BN05haW9JYkd6Szlid0xtNFdQM05YY24?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-03T11:34:39+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 02 Oct 2026 11:30:00 GMT",
+          "source": "Travel Weekly - Home"
+        }
+      ]
+    },
+    {
+      "id": "bdaa52a659cb",
+      "title": "Green travel plan to link city and communities - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9za290Zl9aNUFuUktMTklza282bGtQOVE0RUVaMHlpVFB2eENEQWpOMmw2cnV0bnVkbkZtQlNRWHdSdFh2dXdfOG9SSDRHZzYtcXJDQXpNS1NTaTB0aGc?oc=5\" target=\"_blank\">Green travel plan to link city and communities</a>&nbsp;&nbsp;<font color=\"#6f6f",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9za290Zl9aNUFuUktMTklza282bGtQOVE0RUVaMHlpVFB2eENEQWpOMmw2cnV0bnVkbkZtQlNRWHdSdFh2dXdfOG9SSDRHZzYtcXJDQXpNS1NTaTB0aGc?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 01 Oct 2026 10:05:14 GMT",
-          "source": "Euronews.com"
+          "published": "Fri, 02 Oct 2026 11:44:30 GMT",
+          "source": "BBC"
         }
       ]
     },
     {
-      "id": "4a514e38ac06",
-      "title": "Attempted hijacking marks the latest setback in the Gulf’s tourism revival - The Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdkdEUEN1bGhZV193eGdwWnZ1Q3lfNDVtbklKUzIwSV9fSEU0Mnh3R2t6UEJTdVRPQnFNdGkxTjVIQjJhdU9xVkNXUWZ5aWNrUHo2QjZQbVp3Ni1nZVo2ODZBeWtQODlFeVN4NjZ4aDFuV3RTVEc0X1ZQejJwMUpaSVJnU2Ewc0pHeDE2OFlYVldyUExUeUhzdFRnRi1mUQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkdEUEN1bGhZV193eGdwWnZ1Q3lfNDVtbklKUzIwSV9fSEU0Mnh3R2t6UEJTdVRPQnFNdGkxTjVIQjJhdU9xVkNXUWZ5aWNrUHo2QjZQbVp3Ni1nZVo2ODZBeWtQODlFeVN4NjZ4aDFuV3RTVEc0X1ZQejJwMUpaSVJnU2Ewc0pHeDE2OFlYVldyUExUeUhzdFRnRi1mUQ?oc=5",
+      "id": "c13ea4d93c04",
+      "title": "Jersey minister looking again at patient travel costs to UK - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjb0VfbEpxRXV4dTMzOGRZM2RWb3ZzWkxIejFlQ3QwZmVWSy1wcUF5dnk3YkE0TXB5T3VsUV9CR3NEUFJxLTJqVE5VTUMtbGVrZlhNSi14Vm5uTjg?oc=5\" target=\"_blank\">Jersey minister looking again at patient travel costs to UK</a>&nbsp;&nbsp;<font col",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjb0VfbEpxRXV4dTMzOGRZM2RWb3ZzWkxIejFlQ3QwZmVWSy1wcUF5dnk3YkE0TXB5T3VsUV9CR3NEUFJxLTJqVE5VTUMtbGVrZlhNSi14Vm5uTjg?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-03T05:09:45+00:00",
+      "first_seen": "2026-10-03T11:34:39+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 02 Oct 2026 11:00:00 GMT",
-          "source": "The Telegraph"
+          "published": "Fri, 02 Oct 2026 05:22:33 GMT",
+          "source": "BBC"
         }
       ]
     }
