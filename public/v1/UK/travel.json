@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-10-09T13:16:29+00:00",
+  "generated_at": "2026-10-09T22:45:35+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "0b91212b6296",
-      "title": "Share your thoughts on active travel proposals for Charlbury - Oxfordshire County Council",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORTkwVGlVZ1g3WVl3SVBTOEpEZ3VsSXdNYkxuQ0F4aGRCN0tldDY2VnNfQ0hfcEM3U2tBMmkxZ0pGWU8tYnI3X0NCR1VBLXBvTmoxeWJSNDN5dS1ZZk05cFdCeVphS1Y3ZFpYbEZNcjRvVTFLR1hteXhXWjlyR0xUSHVJNU00YVVsYzNNVnBFMFY?oc=5\" target=\"_blank\">Share your t",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORTkwVGlVZ1g3WVl3SVBTOEpEZ3VsSXdNYkxuQ0F4aGRCN0tldDY2VnNfQ0hfcEM3U2tBMmkxZ0pGWU8tYnI3X0NCR1VBLXBvTmoxeWJSNDN5dS1ZZk05cFdCeVphS1Y3ZFpYbEZNcjRvVTFLR1hteXhXWjlyR0xUSHVJNU00YVVsYzNNVnBFMFY?oc=5",
+      "id": "80f4ef0448b0",
+      "title": "WTTC Sets Out Eight Priorities to Secure Europe's Travel & Tourism Leadership as Governments Across the Region Shape New Tourism Strategies - World Travel & Tourism Council",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKMktJMC11SEQ2UktYSVh2Q011RFFnVUN4czhJSnRlNkFiZXRlYW9nSmtZV3NqNV80ZU9KRGE1LTZnQjNUd1N0djNxX2hfTlRkWVpDMV9qUS1QZw?oc=5\" target=\"_blank\">WTTC Sets Out Eight Priorities to Secure Europe's Travel & Tourism Leadership as Gove",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKMktJMC11SEQ2UktYSVh2Q011RFFnVUN4czhJSnRlNkFiZXRlYW9nSmtZV3NqNV80ZU9KRGE1LTZnQjNUd1N0djNxX2hfTlRkWVpDMV9qUS1QZw?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 11:51:56 GMT",
+          "source": "World Travel & Tourism Council"
+        }
+      ]
+    },
+    {
+      "id": "b581653f8a0a",
+      "title": "Latest Middle East travel guidance as UK advises against visiting Riyadh - The Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGtMcFNtcGZfU2RmNFhNMzVkVU1jNW14c1N2REo5dl9RcUtCaUdTeGxlMElwdlFmY2JKb2pSNGdEZ25PTjdHd2lkbGJNLUZfUGFUNFcyR3lWRGRmNFBaWEgzRnlFZ0RkLTdDMXZhQzg2eHpMWmlKanM1LUhZOVVZSG1OeGY2ZVNUbGwzbEpiV3l4ZVdoaUVKUVdubU1hRFZ2c3I0YQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGtMcFNtcGZfU2RmNFhNMzVkVU1jNW14c1N2REo5dl9RcUtCaUdTeGxlMElwdlFmY2JKb2pSNGdEZ25PTjdHd2lkbGJNLUZfUGFUNFcyR3lWRGRmNFBaWEgzRnlFZ0RkLTdDMXZhQzg2eHpMWmlKanM1LUhZOVVZSG1OeGY2ZVNUbGwzbEpiV3l4ZVdoaUVKUVdubU1hRFZ2c3I0YQ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-09T22:36:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 14:00:00 GMT",
+          "source": "The Times"
+        }
+      ]
+    },
+    {
+      "id": "0b91212b6296",
+      "title": "Share your thoughts on active travel proposals for Charlbury - Oxfordshire County Council",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORTkwVGlVZ1g3WVl3SVBTOEpEZ3VsSXdNYkxuQ0F4aGRCN0tldDY2VnNfQ0hfcEM3U2tBMmkxZ0pGWU8tYnI3X0NCR1VBLXBvTmoxeWJSNDN5dS1ZZk05cFdCeVphS1Y3ZFpYbEZNcjRvVTFLR1hteXhXWjlyR0xUSHVJNU00YVVsYzNNVnBFMFY?oc=5\" target=\"_blank\">Share your t",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORTkwVGlVZ1g3WVl3SVBTOEpEZ3VsSXdNYkxuQ0F4aGRCN0tldDY2VnNfQ0hfcEM3U2tBMmkxZ0pGWU8tYnI3X0NCR1VBLXBvTmoxeWJSNDN5dS1ZZk05cFdCeVphS1Y3ZFpYbEZNcjRvVTFLR1hteXhXWjlyR0xUSHVJNU00YVVsYzNNVnBFMFY?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 11:00:46 GMT",
@@ -27,18 +67,78 @@
       ]
     },
     {
-      "id": "38d72463ff15",
-      "title": "Is it safe to travel to Saudi Arabia? Latest advice after Houthis target Riyadh airport - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHdfLUJDUFhPYWlWNHFsRGlvaHhmbjU0RUpyLWlldHRiQy1VemFfNUNYdnM3eU9FMXV5Q285NldQLTVmOWVyMGpmRUxoM19hZnJqTno3ZVFnbVlxTVZOTDRkbUJpZE5pS0RkQUVJLTg4SzI5U01Ta1lGRmptOGZ1c2h5anBXWGlwaVZueTUyZXdFakxlbEVReXlmVjl1VW5MUllwMVpzRk5EN1",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHdfLUJDUFhPYWlWNHFsRGlvaHhmbjU0RUpyLWlldHRiQy1VemFfNUNYdnM3eU9FMXV5Q285NldQLTVmOWVyMGpmRUxoM19hZnJqTno3ZVFnbVlxTVZOTDRkbUJpZE5pS0RkQUVJLTg4SzI5U01Ta1lGRmptOGZ1c2h5anBXWGlwaVZueTUyZXdFakxlbEVReXlmVjl1VW5MUllwMVpzRk5EN1NWRHVIQ1BHVTQ?oc=5",
-      "score": 86.4,
+      "id": "a0ba62805d97",
+      "title": "Arsenal (A): Important travel update for supporters - Leeds United | Official Website - Leeds United",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQai00WWcyZC1pd0tJbkxKczVXU01kZ0NyZl9iZWJxTFZqY19aZ2NsZmdpQkxUOTBBajdicndiTGlWckVqdWM0TkdLamdrQW9WaGdzS2lleU9vdHozakxhd3dWSzQtc3B6blh5Z244TDRzVWZzd3VNT1lfbXJQcHA5RzFaWGxXNDNlb1k2bw?oc=5\" target=\"_blank\">Arsenal (A): Impo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQai00WWcyZC1pd0tJbkxKczVXU01kZ0NyZl9iZWJxTFZqY19aZ2NsZmdpQkxUOTBBajdicndiTGlWckVqdWM0TkdLamdrQW9WaGdzS2lleU9vdHozakxhd3dWSzQtc3B6blh5Z244TDRzVWZzd3VNT1lfbXJQcHA5RzFaWGxXNDNlb1k2bw?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 09:53:14 GMT",
+          "source": "Leeds United | Official Website - Leeds United"
+        }
+      ]
+    },
+    {
+      "id": "d6a9a655cd3a",
+      "title": "Travel advice for Saturday: Roadworks likely to impact journeys - Cambridge United",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1ZYeXBkRjZkMlJKWHVGcWhZTzZmODRsOFZmZzI4dmVFLU4zaXlEbVQzS2UtVUtGM2ZNeEdkRzgxRHZpWUlBNF93ZjBpS2puRUpSWXY5NHM0cXRYZENGZUl0c3VYekdwM2hzUGJ1VkV2OHNpWEx4Rk12Rk1PUS1fdnJFZWEwd3JQdVdfREl4dVZ6ZHlXMDZZ?oc=5\" target=\"_blank\">Tra",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1ZYeXBkRjZkMlJKWHVGcWhZTzZmODRsOFZmZzI4dmVFLU4zaXlEbVQzS2UtVUtGM2ZNeEdkRzgxRHZpWUlBNF93ZjBpS2puRUpSWXY5NHM0cXRYZENGZUl0c3VYekdwM2hzUGJ1VkV2OHNpWEx4Rk12Rk1PUS1fdnJFZWEwd3JQdVdfREl4dVZ6ZHlXMDZZ?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-09T22:36:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 13:14:51 GMT",
+          "source": "Cambridge United"
+        }
+      ]
+    },
+    {
+      "id": "de36c355b08d",
+      "title": "Kenya: Travel Health Insurance Requirement Implemented - Fragomen",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQemxzeTdtWDRWaWVfcjdrd05HcmlPTU1hNzVrWkNyM3l2WC1nVGFpeFJabWd3blhKcmNuVFVMcGhENzc5S0xIRW9yNDMtcF81a0xGR3RrVnhhMkVRRFNMX0RMdXBWQTU1MlBUZ05nc3hoY3NzQmtZeXJleVBlVXV0eTZVenc5dkVvRHhvWFEzWEFFXzRaMWd3?oc=5\" target=\"_blank\">Ken",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemxzeTdtWDRWaWVfcjdrd05HcmlPTU1hNzVrWkNyM3l2WC1nVGFpeFJabWd3blhKcmNuVFVMcGhENzc5S0xIRW9yNDMtcF81a0xGR3RrVnhhMkVRRFNMX0RMdXBWQTU1MlBUZ05nc3hoY3NzQmtZeXJleVBlVXV0eTZVenc5dkVvRHhvWFEzWEFFXzRaMWd3?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-09T22:36:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 13:36:26 GMT",
+          "source": "Fragomen"
+        }
+      ]
+    },
+    {
+      "id": "38d72463ff15",
+      "title": "Is it safe to travel to Saudi Arabia? Latest advice after Houthis target Riyadh airport - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHdfLUJDUFhPYWlWNHFsRGlvaHhmbjU0RUpyLWlldHRiQy1VemFfNUNYdnM3eU9FMXV5Q285NldQLTVmOWVyMGpmRUxoM19hZnJqTno3ZVFnbVlxTVZOTDRkbUJpZE5pS0RkQUVJLTg4SzI5U01Ta1lGRmptOGZ1c2h5anBXWGlwaVZueTUyZXdFakxlbEVReXlmVjl1VW5MUllwMVpzRk5EN1",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHdfLUJDUFhPYWlWNHFsRGlvaHhmbjU0RUpyLWlldHRiQy1VemFfNUNYdnM3eU9FMXV5Q285NldQLTVmOWVyMGpmRUxoM19hZnJqTno3ZVFnbVlxTVZOTDRkbUJpZE5pS0RkQUVJLTg4SzI5U01Ta1lGRmptOGZ1c2h5anBXWGlwaVZueTUyZXdFakxlbEVReXlmVjl1VW5MUllwMVpzRk5EN1NWRHVIQ1BHVTQ?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 09:40:16 GMT",
@@ -51,14 +151,14 @@
       "title": "Seaside Travel eyes growth in workplace pop-up stores - Travel Weekly - Home",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOU3B6UWo5REtkbm9qVllfcmtJTXFXQnVuRzNkc1NJSUF6blY3UUh3SUp4dGlha3lPdmlxYndDZHdpNUZveHRFQlFncUF5UUtTUW8zS1Z4dmwxQWJEd192NU1YRzJXVlQ3VS05RC1mRDI3UGlHaExPWENWSmpFVFJlYWZlMkZhOEhyTlVicTZiQmZOZDh2enZGU0tHQ2VWdw?oc=5\" target=\"_",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU3B6UWo5REtkbm9qVllfcmtJTXFXQnVuRzNkc1NJSUF6blY3UUh3SUp4dGlha3lPdmlxYndDZHdpNUZveHRFQlFncUF5UUtTUW8zS1Z4dmwxQWJEd192NU1YRzJXVlQ3VS05RC1mRDI3UGlHaExPWENWSmpFVFJlYWZlMkZhOEhyTlVicTZiQmZOZDh2enZGU0tHQ2VWdw?oc=5",
-      "score": 82.8,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 12:07:16 GMT",
@@ -67,110 +167,10 @@
       ]
     },
     {
-      "id": "4a7af625fec2",
-      "title": "Visit County Durham showcases Durham’s group travel offer - Visit County Durham",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNm1zaEdmaHNfdFNhTFRUalpiZTZyNUg3VEhxZGRvM1NSbW40MmZDQ2M4UlhfbnRhQmVnSEhGMUtPcFl2WlpqOVFlelMyVU10N0xFdHhHbTBlSmRWUTdLN1VPTmFsWldoazl6b0dyU1JoUWVoZE85RWxzeHp5MTB6VUVoSDFSc19zUENSdEVwSV9fSWhSUTcwU3hQbjA?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNm1zaEdmaHNfdFNhTFRUalpiZTZyNUg3VEhxZGRvM1NSbW40MmZDQ2M4UlhfbnRhQmVnSEhGMUtPcFl2WlpqOVFlelMyVU10N0xFdHhHbTBlSmRWUTdLN1VPTmFsWldoazl6b0dyU1JoUWVoZE85RWxzeHp5MTB6VUVoSDFSc19zUENSdEVwSV9fSWhSUTcwU3hQbjA?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 10:29:42 GMT",
-          "source": "Visit County Durham"
-        }
-      ]
-    },
-    {
-      "id": "a0ba62805d97",
-      "title": "Arsenal (A): Important travel update for supporters - Leeds United | Official Website - Leeds United",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQai00WWcyZC1pd0tJbkxKczVXU01kZ0NyZl9iZWJxTFZqY19aZ2NsZmdpQkxUOTBBajdicndiTGlWckVqdWM0TkdLamdrQW9WaGdzS2lleU9vdHozakxhd3dWSzQtc3B6blh5Z244TDRzVWZzd3VNT1lfbXJQcHA5RzFaWGxXNDNlb1k2bw?oc=5\" target=\"_blank\">Arsenal (A): Impo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQai00WWcyZC1pd0tJbkxKczVXU01kZ0NyZl9iZWJxTFZqY19aZ2NsZmdpQkxUOTBBajdicndiTGlWckVqdWM0TkdLamdrQW9WaGdzS2lleU9vdHozakxhd3dWSzQtc3B6blh5Z244TDRzVWZzd3VNT1lfbXJQcHA5RzFaWGxXNDNlb1k2bw?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 09:53:14 GMT",
-          "source": "Leeds United | Official Website - Leeds United"
-        }
-      ]
-    },
-    {
-      "id": "fd1778012a7b",
-      "title": "In photos: Red Roses travel to Canada for WXV Global Series - Rugby Football Union",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2lMLWFJbXNBeVNtejZLNmVRNUtGLS0zSVR3cVFIcnFqUG1XaWZiZGw2Si1LdXlzMzBXNHgwTmxkQW5yN283UTlqcWpHOXVUeUVtMUZuUmJJWUZERE5MaVpYa0pxbHNvTGJraG43SEVMMXN2MXY3LTNkbkFjTW4yYXVCcnpQOUxIUHlxbkYxUWp6SEJYYUtDN0tWbERST3hw?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2lMLWFJbXNBeVNtejZLNmVRNUtGLS0zSVR3cVFIcnFqUG1XaWZiZGw2Si1LdXlzMzBXNHgwTmxkQW5yN283UTlqcWpHOXVUeUVtMUZuUmJJWUZERE5MaVpYa0pxbHNvTGJraG43SEVMMXN2MXY3LTNkbkFjTW4yYXVCcnpQOUxIUHlxbkYxUWp6SEJYYUtDN0tWbERST3hw?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 08:56:09 GMT",
-          "source": "Rugby Football Union"
-        }
-      ]
-    },
-    {
-      "id": "41ad5b9bace5",
-      "title": "Scotland vs New Zealand: Travel with Lothian Buses to Scottish Gas Murrayfield - Lothian Buses",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1aUxOY2xHN2pzRllWdERnSndSdGJ2Zk9lTDlONjlLNE5hdGF1c0kzOFBhUnhWczZqLUctYUYzOXJhdU0xdHZOV1ZzOG9FaVVGSmhZTGxNQ0dGVkMyclVtUDB3?oc=5\" target=\"_blank\">Scotland vs New Zealand: Travel with Lothian Buses to Scottish Gas Murrayfi",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1aUxOY2xHN2pzRllWdERnSndSdGJ2Zk9lTDlONjlLNE5hdGF1c0kzOFBhUnhWczZqLUctYUYzOXJhdU0xdHZOV1ZzOG9FaVVGSmhZTGxNQ0dGVkMyclVtUDB3?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 11:08:54 GMT",
-          "source": "Lothian Buses"
-        }
-      ]
-    },
-    {
-      "id": "d6a9a655cd3a",
-      "title": "Travel advice for Saturday: Roadworks likely to impact journeys - Cambridge United",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1ZYeXBkRjZkMlJKWHVGcWhZTzZmODRsOFZmZzI4dmVFLU4zaXlEbVQzS2UtVUtGM2ZNeEdkRzgxRHZpWUlBNF93ZjBpS2puRUpSWXY5NHM0cXRYZENGZUl0c3VYekdwM2hzUGJ1VkV2OHNpWEx4Rk12Rk1PUS1fdnJFZWEwd3JQdVdfREl4dVZ6ZHlXMDZZ?oc=5\" target=\"_blank\">Tra",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1ZYeXBkRjZkMlJKWHVGcWhZTzZmODRsOFZmZzI4dmVFLU4zaXlEbVQzS2UtVUtGM2ZNeEdkRzgxRHZpWUlBNF93ZjBpS2puRUpSWXY5NHM0cXRYZENGZUl0c3VYekdwM2hzUGJ1VkV2OHNpWEx4Rk12Rk1PUS1fdnJFZWEwd3JQdVdfREl4dVZ6ZHlXMDZZ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 12:14:51 GMT",
-          "source": "Cambridge United"
-        }
-      ]
-    },
-    {
-      "id": "4e1c540b8b22",
-      "title": "Talma acquires Canadian TMC Plus Travel Group - Business Travel News Europe",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNS2h2b1BZbXg5ZEJXdm03V29vR1h1M3QtSnZjUkdUWTBUeGs0b3ctTFBIU2hZc2FvaURSQTZsbzQ0SWZpdXJJcW5jMFVMNldjeVMzWjRDQ0NXdV9WZ2Z0RXV2d3Z1a2pSSlB6bWNPQ2p2UjhSa1YzQjZNcFYwbTRuLXFUdVZUWTBTcFg0OXBEVlZCdmVvU19mSmYtQWQzUQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS2h2b1BZbXg5ZEJXdm03V29vR1h1M3QtSnZjUkdUWTBUeGs0b3ctTFBIU2hZc2FvaURSQTZsbzQ0SWZpdXJJcW5jMFVMNldjeVMzWjRDQ0NXdV9WZ2Z0RXV2d3Z1a2pSSlB6bWNPQ2p2UjhSa1YzQjZNcFYwbTRuLXFUdVZUWTBTcFg0OXBEVlZCdmVvU19mSmYtQWQzUQ?oc=5",
+      "id": "384d1a110cc0",
+      "title": "We sold everything and bought a one-way ticket to take our three children travelling - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE44bC12ay1oakpsRGdZSklpQmwzUDc0aEo3ZWR5VTFidFZ1WmZzaGlmdDBNQ1dQbWl5enM2U2hhLVFRUEtJdkdxa0dxOTZwRm1sNFdSZUh6NXNqTTQ?oc=5\" target=\"_blank\">We sold everything and bought a one-way ticket to take our three children travelling",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44bC12ay1oakpsRGdZSklpQmwzUDc0aEo3ZWR5VTFidFZ1WmZzaGlmdDBNQ1dQbWl5enM2U2hhLVFRUEtJdkdxa0dxOTZwRm1sNFdSZUh6NXNqTTQ?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,71 +178,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 09:36:32 GMT",
-          "source": "Business Travel News Europe"
-        }
-      ]
-    },
-    {
-      "id": "f8d6e9481ee0",
-      "title": "Hull City Council weekly traffic and travel update – 09 October - Hull City Council",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVU00SnN5c2M2bURmZ21iMm1jbUVpZU1ROUl3VVFheDlBYjZkdlpueExscDB5a1RWWm55QmV4VFNJZmFvZUgtNHlOOUJHbllRZGxWck5jV0xldHktclM4X3ppdUd5VFlmOWppZDJxaUVudHpVVHBaMDBCVXA5ZWJPYkNqX3Y2ZjUycER0TlNvY201bWV4dkRUZ1h4N2VfOU0?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVU00SnN5c2M2bURmZ21iMm1jbUVpZU1ROUl3VVFheDlBYjZkdlpueExscDB5a1RWWm55QmV4VFNJZmFvZUgtNHlOOUJHbllRZGxWck5jV0xldHktclM4X3ppdUd5VFlmOWppZDJxaUVudHpVVHBaMDBCVXA5ZWJPYkNqX3Y2ZjUycER0TlNvY201bWV4dkRUZ1h4N2VfOU0?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 08:25:31 GMT",
-          "source": "Hull City Council"
-        }
-      ]
-    },
-    {
-      "id": "578192ea5580",
-      "title": "Tourism’s global reset puts the Gulf to the test - The Arab Weekly",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMXpSSEFsM1Rvb2hDRGd4M0JjR3JJQUQxV2Z2NFRxZGZKMVo2UUFZRllkWWd6SE0zV21QNEl3MkJSaTJTajhRQlc3SFpWMk15eTlVUWU4X1lONUh3dzJSRXFOdFJ0UEc5WU5kSkZxaw?oc=5\" target=\"_blank\">Tourism’s global reset puts the Gulf to the test</a>&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMXpSSEFsM1Rvb2hDRGd4M0JjR3JJQUQxV2Z2NFRxZGZKMVo2UUFZRllkWWd6SE0zV21QNEl3MkJSaTJTajhRQlc3SFpWMk15eTlVUWU4X1lONUh3dzJSRXFOdFJ0UEc5WU5kSkZxaw?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 10:06:40 GMT",
-          "source": "The Arab Weekly"
-        }
-      ]
-    },
-    {
-      "id": "0a4e46f3c104",
-      "title": "Is it safe to travel to Saudi Arabia right now? UK and US update travel advice as three killed in Riyadh airport attacks - Condé Nast Traveller Middle East",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUd1WHJUWlBiREstVDRUOHNPWVQ2MFoxWVdIMTJweGV4QXJUUEtXellyWUxXTmk2Wm1KbXVCMXNkeTE3YmcweWJaYWd3UHl2SGZ5UElMZXpnOWFUZ0djZkNQYUpkZC1USi1GeGdQUnc5R1EweEVDTEdlZTZhaWdvSXc0Y0dSM1FXUU5Mb191ak1uTlpmR2NtLWxVSG5nXzhWak9SdG9USlBpSm",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUd1WHJUWlBiREstVDRUOHNPWVQ2MFoxWVdIMTJweGV4QXJUUEtXellyWUxXTmk2Wm1KbXVCMXNkeTE3YmcweWJaYWd3UHl2SGZ5UElMZXpnOWFUZ0djZkNQYUpkZC1USi1GeGdQUnc5R1EweEVDTEdlZTZhaWdvSXc0Y0dSM1FXUU5Mb191ak1uTlpmR2NtLWxVSG5nXzhWak9SdG9USlBpSmFPVWFYbkNIeVhpOFkzeXlZUTN3M0N5RVNvU2w0VzNwOWJ5UU4xMkx1RnJRMDlZTEdDTzNEY0tpUGE?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 07:34:24 GMT",
-          "source": "Condé Nast Traveller Middle East"
+          "published": "Fri, 09 Oct 2026 21:57:40 GMT",
+          "source": "BBC"
         }
       ]
     },
@@ -251,14 +191,14 @@
       "title": "Bournemouth game travel warning - Fulham Broadway closed; District Line disruption | News | Official Site - Chelsea Football Club",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFVrdjRNVWU3Z2swUWlaNTNSaVJKYk9OMjRwaERpYzN2ZDVwNGcyQk9zQXc4djRnbUFLemlCeTNFYm40aVZFMlNQYW9qaXNEeC05dFkweXBHQVZnekVlcFk1RXJIZkNiajhCU1dHSElBZ0NRZ0hfTC0waVQ1WXpJbmxpeVJhUGhEa2QwbWdxV3hNdzh2c3VnbkhvTGNZQjBHdEFNRklSem1ET2",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFVrdjRNVWU3Z2swUWlaNTNSaVJKYk9OMjRwaERpYzN2ZDVwNGcyQk9zQXc4djRnbUFLemlCeTNFYm40aVZFMlNQYW9qaXNEeC05dFkweXBHQVZnekVlcFk1RXJIZkNiajhCU1dHSElBZ0NRZ0hfTC0waVQ1WXpJbmxpeVJhUGhEa2QwbWdxV3hNdzh2c3VnbkhvTGNZQjBHdEFNRklSem1ET2NpZnVN?oc=5",
-      "score": 46.8,
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
           "published": "Wed, 07 Oct 2026 08:30:00 GMT",
@@ -267,62 +207,62 @@
       ]
     },
     {
-      "id": "a6676b9dde88",
-      "title": "Upper Crust owner SSP says tourism slowdown hitting profit - City AM",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPOFNBX2tEeWVaQXRHdUR6LUs0UlhwXzZ2YlktdmdRcGh2VHM5bnVEdFZ3aldONi1zYTZWYy11Szc3SktkTDBHdlRCTHd2Nmo0cXVHNk1Mb0dyZGFNaGtVcEstNEdyN21TZWtPOVo0QXZ1RnlacUk2VGJaYnRISDRaZWxINUlUaGZnaGVuLW9yQQ?oc=5\" target=\"_blank\">Upper Crust o",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOFNBX2tEeWVaQXRHdUR6LUs0UlhwXzZ2YlktdmdRcGh2VHM5bnVEdFZ3aldONi1zYTZWYy11Szc3SktkTDBHdlRCTHd2Nmo0cXVHNk1Mb0dyZGFNaGtVcEstNEdyN21TZWtPOVo0QXZ1RnlacUk2VGJaYnRISDRaZWxINUlUaGZnaGVuLW9yQQ?oc=5",
-      "score": 43.2,
+      "id": "fd1778012a7b",
+      "title": "In photos: Red Roses travel to Canada for WXV Global Series - Rugby Football Union",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2lMLWFJbXNBeVNtejZLNmVRNUtGLS0zSVR3cVFIcnFqUG1XaWZiZGw2Si1LdXlzMzBXNHgwTmxkQW5yN283UTlqcWpHOXVUeUVtMUZuUmJJWUZERE5MaVpYa0pxbHNvTGJraG43SEVMMXN2MXY3LTNkbkFjTW4yYXVCcnpQOUxIUHlxbkYxUWp6SEJYYUtDN0tWbERST3hw?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2lMLWFJbXNBeVNtejZLNmVRNUtGLS0zSVR3cVFIcnFqUG1XaWZiZGw2Si1LdXlzMzBXNHgwTmxkQW5yN283UTlqcWpHOXVUeUVtMUZuUmJJWUZERE5MaVpYa0pxbHNvTGJraG43SEVMMXN2MXY3LTNkbkFjTW4yYXVCcnpQOUxIUHlxbkYxUWp6SEJYYUtDN0tWbERST3hw?oc=5",
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 09:45:05 GMT",
-          "source": "City AM"
+          "published": "Fri, 09 Oct 2026 08:56:09 GMT",
+          "source": "Rugby Football Union"
         }
       ]
     },
     {
-      "id": "13cad7407042",
-      "title": "Ada earns AWS Travel and Hospitality Competency for resolving traveler issues at scale - PA Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTF83em12MnAxVEpHUVBpVzh0ckJLd0VqY2ZyVzFnbzlld0JRd3dwNkYweDlQM2d2bzNId191eU9QVEtqMGtvUnlIMGZCT1hPWU5VZXJaZzlQUndyLS1oV0JwOUQ3c1BITFNlVUhtRkVhaTNuWFE3TC1FVmZYZDZDVXRDbWNxU2RjclJjblJrU3BMYVh0SzBQYl93NnJGQjBTRTJ3b3oybUJFWX",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTF83em12MnAxVEpHUVBpVzh0ckJLd0VqY2ZyVzFnbzlld0JRd3dwNkYweDlQM2d2bzNId191eU9QVEtqMGtvUnlIMGZCT1hPWU5VZXJaZzlQUndyLS1oV0JwOUQ3c1BITFNlVUhtRkVhaTNuWFE3TC1FVmZYZDZDVXRDbWNxU2RjclJjblJrU3BMYVh0SzBQYl93NnJGQjBTRTJ3b3oybUJFWXhKTHdEeUI1bkpNbTFXZk1Na3ZzVlUtY1QxOGJyU21ncElJNHNUMHdOMA?oc=5",
-      "score": 39.6,
+      "id": "ee3835a67f72",
+      "title": "EDF 'failing' Somerset tourism over Hinkley workers at Pontins - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fUkR6cGtzSzhnWnhoNEI0LThOTHBvN0xaOUNuWkNuWTh5bnBIZXlheGhfWkpEd1Zqa21obGFrZDB6eDVXQkdYaU5HMXVSVkl4a0ttVVp6cjg4VlcxTVE?oc=5\" target=\"_blank\">EDF 'failing' Somerset tourism over Hinkley workers at Pontins</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fUkR6cGtzSzhnWnhoNEI0LThOTHBvN0xaOUNuWkNuWTh5bnBIZXlheGhfWkpEd1Zqa21obGFrZDB6eDVXQkdYaU5HMXVSVkl4a0ttVVp6cjg4VlcxTVE?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 13:03:08 GMT",
-          "source": "PA Media"
+          "published": "Fri, 09 Oct 2026 10:05:41 GMT",
+          "source": "BBC"
         }
       ]
     },
     {
-      "id": "6de01f4da610",
-      "title": "Travel trailblazer Jo Rzymowska shares 'deeply personal' story in first book - TTG Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY01VYjRqYmg0SVU4U2VUVEI0STl0VUpjYWFwM3RZLUU1S1loV2lrWjU1YVk2ajlhb3hib2ZkU2I4bElscm12eF8tU0JuZnRtZGRySnBjT2N1V1VpWUZLaEFucldPSVlRTE1aaU8zMWFRTEZJMTRSTld1aXpmSG9pUWszdGtwLXdWT1AwRHJ2blZqRnRvLUxnUEYwQ185TGhobS1HU0NBMUtJVV",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY01VYjRqYmg0SVU4U2VUVEI0STl0VUpjYWFwM3RZLUU1S1loV2lrWjU1YVk2ajlhb3hib2ZkU2I4bElscm12eF8tU0JuZnRtZGRySnBjT2N1V1VpWUZLaEFucldPSVlRTE1aaU8zMWFRTEZJMTRSTld1aXpmSG9pUWszdGtwLXdWT1AwRHJ2blZqRnRvLUxnUEYwQ185TGhobS1HU0NBMUtJVVFBYlM0Q0xIclFCTjVU?oc=5",
-      "score": 36.0,
+      "id": "4e1c540b8b22",
+      "title": "Talma acquires Canadian TMC Plus Travel Group - Business Travel News Europe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNS2h2b1BZbXg5ZEJXdm03V29vR1h1M3QtSnZjUkdUWTBUeGs0b3ctTFBIU2hZc2FvaURSQTZsbzQ0SWZpdXJJcW5jMFVMNldjeVMzWjRDQ0NXdV9WZ2Z0RXV2d3Z1a2pSSlB6bWNPQ2p2UjhSa1YzQjZNcFYwbTRuLXFUdVZUWTBTcFg0OXBEVlZCdmVvU19mSmYtQWQzUQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS2h2b1BZbXg5ZEJXdm03V29vR1h1M3QtSnZjUkdUWTBUeGs0b3ctTFBIU2hZc2FvaURSQTZsbzQ0SWZpdXJJcW5jMFVMNldjeVMzWjRDQ0NXdV9WZ2Z0RXV2d3Z1a2pSSlB6bWNPQ2p2UjhSa1YzQjZNcFYwbTRuLXFUdVZUWTBTcFg0OXBEVlZCdmVvU19mSmYtQWQzUQ?oc=5",
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 10:50:08 GMT",
-          "source": "TTG Media"
+          "published": "Fri, 09 Oct 2026 09:36:32 GMT",
+          "source": "Business Travel News Europe"
         }
       ]
     },
@@ -331,14 +271,14 @@
       "title": "North Kesteven sees tourism growth and welcomes sector feedback through new survey - North Kesteven District Council",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzV0UHlNOE1nZXo0cGdaN3RuOGptQzhmVXhJVmtaTHNCaE9UVENYc1JGNXZXYlp3a2pjT0huamc5VG9QV0ptVjFjU09jQUJ0VjRodVBhQVpSa051NmRZWlRVTGFaV1JJRk9WR2FtalFRYlRKOEJDUDNvdjhQc0RzVUN6LWliam45eUJpZm1uZFdHVFliaWxzM3RVVGt1RE5WYzhmNzNycE0xZj",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzV0UHlNOE1nZXo0cGdaN3RuOGptQzhmVXhJVmtaTHNCaE9UVENYc1JGNXZXYlp3a2pjT0huamc5VG9QV0ptVjFjU09jQUJ0VjRodVBhQVpSa051NmRZWlRVTGFaV1JJRk9WR2FtalFRYlRKOEJDUDNvdjhQc0RzVUN6LWliam45eUJpZm1uZFdHVFliaWxzM3RVVGt1RE5WYzhmNzNycE0xZjNQOFBOSk5GX3M5aXVRTFF5T3hRZHNjbTBXN0gtSw?oc=5",
-      "score": 32.4,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 09:13:43 GMT",
@@ -347,10 +287,70 @@
       ]
     },
     {
-      "id": "08e76df328d6",
-      "title": "Your Stories: Beverley Travel's Lilly Wilson on winning at the AAAs - Travel Weekly - Home",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNOUVYbzdySmZpM0Nmbk9MbGUzdXdzeVRZNjYzUVZkYTd0ZndlNHNLR3RwalhQM0ZDRmJOc1JMQ2toNDVQeUxueHJGMmwxRnV6aTdxZmVfd3ZEZTl3ODRSSThVdnJKWlJYbjRHdWVUZ25TY3pucnItQVNmakdsRjhyUWJpZWwwZXNoc0xCNWJUMTNZdEREZjQ2SndpbmE5Zw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUVYbzdySmZpM0Nmbk9MbGUzdXdzeVRZNjYzUVZkYTd0ZndlNHNLR3RwalhQM0ZDRmJOc1JMQ2toNDVQeUxueHJGMmwxRnV6aTdxZmVfd3ZEZTl3ODRSSThVdnJKWlJYbjRHdWVUZ25TY3pucnItQVNmakdsRjhyUWJpZWwwZXNoc0xCNWJUMTNZdEREZjQ2SndpbmE5Zw?oc=5",
+      "id": "a1b5b1e31188",
+      "title": "A Black Girl's Guide To Travel: Inside A Luxury Wellness Retreat In London And Ibiza, With Cryotherapy, Herbalist Sessions And, Yes, Hedgehogs - Essence",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1lVnNXTDFJLUljR2lpUF9wd256SmNJTUZVSV9ia3JDTk5jQklBVklYVUpvUkdmWXpUa1p3UjBlZk9UQVczRW5KQk5JVnpMLVYzWFB2UzBfcXJ0S05uQ29DV2tjdTlYaFRGaWFZQWZUMzc1WTcyWDRZ?oc=5\" target=\"_blank\">A Black Girl's Guide To Travel: Inside A Luxury",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lVnNXTDFJLUljR2lpUF9wd256SmNJTUZVSV9ia3JDTk5jQklBVklYVUpvUkdmWXpUa1p3UjBlZk9UQVczRW5KQk5JVnpMLVYzWFB2UzBfcXJ0S05uQ29DV2tjdTlYaFRGaWFZQWZUMzc1WTcyWDRZ?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-09T22:36:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 18:04:30 GMT",
+          "source": "Essence"
+        }
+      ]
+    },
+    {
+      "id": "0c12c886048f",
+      "title": "Bon Charge launches Red Light Toothbrush travel case - ChannelLife UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDNkdUxGQ19DX0FwNXEwaXUyZlZpeUtMQ3M3NzZiSjF6VzJVUGtsWmJDd0NUbzJZTGRDQjZndUNNX2pjenA5Ul9EbFRyVHVON1JnZHYwUE11cTNfanJZSDIteHVzT05hUWY2c2Z6b19HRDhoa0ZEYjl6TDFFcWp1Q2NyYjN2b1hXdnpkeQ?oc=5\" target=\"_blank\">Bon Charge launch",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDNkdUxGQ19DX0FwNXEwaXUyZlZpeUtMQ3M3NzZiSjF6VzJVUGtsWmJDd0NUbzJZTGRDQjZndUNNX2pjenA5Ul9EbFRyVHVON1JnZHYwUE11cTNfanJZSDIteHVzT05hUWY2c2Z6b19HRDhoa0ZEYjl6TDFFcWp1Q2NyYjN2b1hXdnpkeQ?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-09T22:36:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 12:20:00 GMT",
+          "source": "ChannelLife UK"
+        }
+      ]
+    },
+    {
+      "id": "dcb518ac329d",
+      "title": "I hitchhiked from Sydney to Perth, and found comfort in the company of strangers - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQd01VSU4zUE93N3Fudkp1bW15Q3Q3S2N4Skg2RVV0aERmMXhmdGViWGtyRVF5QnJfWjliXzZ3QmNrTlNLY0Q5c3JSUDRjbHZwT1BVYWV5ZV93OUllanpqZ1QwMGxsdmRjUU5CZWZZQWsySFRfc21NUkFMX01wTDhuakFuYnlKbUVsd3l5YjhKemZCY1BtbjZnVlhpTUxGVDZnXzVCZTI2dk9vTn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd01VSU4zUE93N3Fudkp1bW15Q3Q3S2N4Skg2RVV0aERmMXhmdGViWGtyRVF5QnJfWjliXzZ3QmNrTlNLY0Q5c3JSUDRjbHZwT1BVYWV5ZV93OUllanpqZ1QwMGxsdmRjUU5CZWZZQWsySFRfc21NUkFMX01wTDhuakFuYnlKbUVsd3l5YjhKemZCY1BtbjZnVlhpTUxGVDZnXzVCZTI2dk9vTnU4alNONHVVT19fZm9VOUE?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-09T22:36:34+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 14:02:00 GMT",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "id": "85074c21968e",
+      "title": "WTTC Celebrates Minister Sherif Fathy’s Leadership in Strengthening Egypt’s Tourism Future Through Public-Private Partnership - World Travel & Tourism Council",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZ2NpbmwtOGdtT281TjJBbHUxb05OaWJ5UVhoQXo4a3FtbkE5ck1OZWtScnF4VHJlVHZsS1JvWTMwWkREcXFYa2Voa2tEenY3SFF6TWVvVDVnTDVtb0E?oc=5\" target=\"_blank\">WTTC Celebrates Minister Sherif Fathy’s Leadership in Strengthening Egypt’s Tour",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZ2NpbmwtOGdtT281TjJBbHUxb05OaWJ5UVhoQXo4a3FtbkE5ck1OZWtScnF4VHJlVHZsS1JvWTMwWkREcXFYa2Voa2tEenY3SFF6TWVvVDVnTDVtb0E?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 11:08:42 GMT",
-          "source": "Travel Weekly - Home"
+          "published": "Fri, 09 Oct 2026 19:28:04 GMT",
+          "source": "World Travel & Tourism Council"
         }
       ]
     },
     {
-      "id": "d5be646cbac3",
-      "title": "More than 100 attend opening of Idle Travel’s second branch - Travel Weekly - Home",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPazlDM3NHT1E2MmNqS1kzbGRWT1NKTV9yUld1Sks2Y0J3TWo4ZU1IZUgzUWtESTJmZmRma0hxZ1JQa2QxeFdTYV9NVGxXWWZPd1VXU1pIZmREWFMzUXVTQlRjdUR2M0xTU205YkxoOHAxR2ttQmxMc004OXRnb3laamJBb2YzdmdBb2FpdWpBYUZKTzZnZlRRRjN2aEZtZw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazlDM3NHT1E2MmNqS1kzbGRWT1NKTV9yUld1Sks2Y0J3TWo4ZU1IZUgzUWtESTJmZmRma0hxZ1JQa2QxeFdTYV9NVGxXWWZPd1VXU1pIZmREWFMzUXVTQlRjdUR2M0xTU205YkxoOHAxR2ttQmxMc004OXRnb3laamJBb2YzdmdBb2FpdWpBYUZKTzZnZlRRRjN2aEZtZw?oc=5",
+      "id": "08e76df328d6",
+      "title": "Your Stories: Beverley Travel's Lilly Wilson on winning at the AAAs - Travel Weekly - Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNOUVYbzdySmZpM0Nmbk9MbGUzdXdzeVRZNjYzUVZkYTd0ZndlNHNLR3RwalhQM0ZDRmJOc1JMQ2toNDVQeUxueHJGMmwxRnV6aTdxZmVfd3ZEZTl3ODRSSThVdnJKWlJYbjRHdWVUZ25TY3pucnItQVNmakdsRjhyUWJpZWwwZXNoc0xCNWJUMTNZdEREZjQ2SndpbmE5Zw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUVYbzdySmZpM0Nmbk9MbGUzdXdzeVRZNjYzUVZkYTd0ZndlNHNLR3RwalhQM0ZDRmJOc1JMQ2toNDVQeUxueHJGMmwxRnV6aTdxZmVfd3ZEZTl3ODRSSThVdnJKWlJYbjRHdWVUZ25TY3pucnItQVNmakdsRjhyUWJpZWwwZXNoc0xCNWJUMTNZdEREZjQ2SndpbmE5Zw?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 12:07:16 GMT",
+          "published": "Fri, 09 Oct 2026 12:00:00 GMT",
           "source": "Travel Weekly - Home"
         }
       ]
     },
     {
-      "id": "f27d4371860d",
-      "title": "£2,000 apprentice incentive could ‘make the difference’ for small travel firms - Travel Weekly - Home",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU0prS3V0elVfcExVX0NPQ1JLX2V0OVhJdzc2Vl9BZTBmbXdaQUk4TkV0dmdqc0NmQ2R6MFhYQWlkTm92ckpmWHlWS2ZfZXRYbFM3b2kzdlJMem51M1dURVBkR1dVdDVZV3lMT1NQT0FyZ0VxR3Z3aVlhenlfSEplRE5iOEpDcWdTbE9Ib0lId08xZFlvX19lVVNIUjI2NmM4Sjh5MGpMZnRDQQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU0prS3V0elVfcExVX0NPQ1JLX2V0OVhJdzc2Vl9BZTBmbXdaQUk4TkV0dmdqc0NmQ2R6MFhYQWlkTm92ckpmWHlWS2ZfZXRYbFM3b2kzdlJMem51M1dURVBkR1dVdDVZV3lMT1NQT0FyZ0VxR3Z3aVlhenlfSEplRE5iOEpDcWdTbE9Ib0lId08xZFlvX19lVVNIUjI2NmM4Sjh5MGpMZnRDQQ?oc=5",
+      "id": "7bae173a2d0e",
+      "title": "Traitors' Celia Imrie and Wiltshire's Fidelis Morgan travel world - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5Q2xBWjdyOXpQU3phLVM2WnNSMFRXZUV6WkRMaUNrbVQ3YzFZMWhYM3lEcnQ5NEpsdlpoRjEwak53NUpobFFXeGZHVGRRVkd6b09mcE1MRWExMldsenc?oc=5\" target=\"_blank\">Traitors' Celia Imrie and Wiltshire's Fidelis Morgan travel world</a>&nbsp;&nbsp",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5Q2xBWjdyOXpQU3phLVM2WnNSMFRXZUV6WkRMaUNrbVQ3YzFZMWhYM3lEcnQ5NEpsdlpoRjEwak53NUpobFFXeGZHVGRRVkd6b09mcE1MRWExMldsenc?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-09T13:07:31+00:00",
+      "first_seen": "2026-10-09T22:36:34+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 07:27:55 GMT",
-          "source": "Travel Weekly - Home"
+          "published": "Fri, 09 Oct 2026 16:05:35 GMT",
+          "source": "BBC"
         }
       ]
     }

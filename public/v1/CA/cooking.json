@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "CA",
-  "generated_at": "2026-10-09T13:16:29+00:00",
+  "generated_at": "2026-10-09T22:45:35+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "09770d5da1e0",
-      "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities - blog.google",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzRjcEFFeGZ2Wk9vRkZrRnZ6cThVZllHd1I5SnFKZmVKc3ZNRkQtUjloenNRLTRnc20xcmN6ckY2SU9jaFBNRm5GSjFhaDFYcU5lNHdYaVliNnd0Z1BtaV9wZ1BfOHBpenhxckZ1TGpPWVkyQ0xYX0VNekN3M05DS2xycUd2M3Y3VlBYLUtiQWFLcmpRcE9lYW13?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzRjcEFFeGZ2Wk9vRkZrRnZ6cThVZllHd1I5SnFKZmVKc3ZNRkQtUjloenNRLTRnc20xcmN6ckY2SU9jaFBNRm5GSjFhaDFYcU5lNHdYaVliNnd0Z1BtaV9wZ1BfOHBpenhxckZ1TGpPWVkyQ0xYX0VNekN3M05DS2xycUd2M3Y3VlBYLUtiQWFLcmpRcE9lYW13?oc=5",
+      "id": "253f8d5dd172",
+      "title": "Google Maps data reveals Montrealers’ favourite restaurants and food trends - CityNews Montreal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnk5T1JiZFVhYWJXRHhxR0lXWkh6YW9ZMGdzNjhEcmhoOHBPOS1DRno4bzNvUS1LMk5nS0I4a3dSNklLLXdmT2RHa2gxcFh2ekwxdVY3c2I2WF9feGE4YWNrenhEd0gyb19PcE9YUHFISnFyYmRCeDlwZ0RabHpud016SHAtUHRWeFV1ZmJBMmNCdlRRNUE?oc=5\" target=\"_blank\">Goog",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnk5T1JiZFVhYWJXRHhxR0lXWkh6YW9ZMGdzNjhEcmhoOHBPOS1DRno4bzNvUS1LMk5nS0I4a3dSNklLLXdmT2RHa2gxcFh2ekwxdVY3c2I2WF9feGE4YWNrenhEd0gyb19PcE9YUHFISnFyYmRCeDlwZ0RabHpud016SHAtUHRWeFV1ZmJBMmNCdlRRNUE?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 16:29:47 GMT",
+          "source": "CityNews Montreal"
+        }
+      ]
+    },
+    {
+      "id": "09770d5da1e0",
+      "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities - blog.google",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzRjcEFFeGZ2Wk9vRkZrRnZ6cThVZllHd1I5SnFKZmVKc3ZNRkQtUjloenNRLTRnc20xcmN6ckY2SU9jaFBNRm5GSjFhaDFYcU5lNHdYaVliNnd0Z1BtaV9wZ1BfOHBpenhxckZ1TGpPWVkyQ0xYX0VNekN3M05DS2xycUd2M3Y3VlBYLUtiQWFLcmpRcE9lYW13?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzRjcEFFeGZ2Wk9vRkZrRnZ6cThVZllHd1I5SnFKZmVKc3ZNRkQtUjloenNRLTRnc20xcmN6ckY2SU9jaFBNRm5GSjFhaDFYcU5lNHdYaVliNnd0Z1BtaV9wZ1BfOHBpenhxckZ1TGpPWVkyQ0xYX0VNekN3M05DS2xycUd2M3Y3VlBYLUtiQWFLcmpRcE9lYW13?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 12:07:27 GMT",
@@ -27,22 +47,22 @@
       ]
     },
     {
-      "id": "4bba3cc90d5a",
-      "title": "The Best Food Storage Containers for Thanksgiving Leftovers - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlRUa0dRaENuWVdEMXMxSXFLamRUNDdubWlfRzl1eldVaHdPMk4wZThQN2pxM2IwSW95TW1YU3ZuLVRPMEJ1VnY0S2FzQ21iS1J1c2MwaHZITzU5VmRudWdzZFVYM2RneW9XbTdnODJpZWZMbFlIRHR4QXRidUxIZVM2VGJTTzdDaW1qX0RyNA?oc=5\" target=\"_blank\">The Best Food",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlRUa0dRaENuWVdEMXMxSXFLamRUNDdubWlfRzl1eldVaHdPMk4wZThQN2pxM2IwSW95TW1YU3ZuLVRPMEJ1VnY0S2FzQ21iS1J1c2MwaHZITzU5VmRudWdzZFVYM2RneW9XbTdnODJpZWZMbFlIRHR4QXRidUxIZVM2VGJTTzdDaW1qX0RyNA?oc=5",
-      "score": 86.4,
+      "id": "1357e65a8196",
+      "title": "Top 10 Food Trends 2027. Food and beverages are being reframed - Innova Market Insights",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcXlSX01mdWM1Uk5WdHRiZ0tzdlRRc1lmR19pUzRBWl93d1poSy1rUjhLQm5wYTRubnJkUjFaSUlBZ0hJdFZQVjBGRG1XSXhlU3ZQR3ItdjRxWmZ2UktxS2ZQb3RvRWd5MXM5ODFFbXV1Y2l5b0Nj?oc=5\" target=\"_blank\">Top 10 Food Trends 2027. Food and beverages are",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcXlSX01mdWM1Uk5WdHRiZ0tzdlRRc1lmR19pUzRBWl93d1poSy1rUjhLQm5wYTRubnJkUjFaSUlBZ0hJdFZQVjBGRG1XSXhlU3ZQR3ItdjRxWmZ2UktxS2ZQb3RvRWd5MXM5ODFFbXV1Y2l5b0Nj?oc=5",
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 08 Oct 2026 17:13:07 GMT",
-          "source": "CTV News"
+          "published": "Thu, 08 Oct 2026 14:05:10 GMT",
+          "source": "Innova Market Insights"
         }
       ]
     },
@@ -51,26 +71,6 @@
       "title": "Grocery trends for 2027 - Food Business News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBfN1BvdnIwdFVYdUc5ZHd5dWR5WFk2aTR3YzBrX3JzTnR4V1l0eHNtNEFDbXFSZFRzVF93Uk9FZXF2eFdKb1MxWVNMN3VLNXF0SXVMUzRXR0JvNURBOXhYNkxMdzhEaUc3b3FqSGJCZ1B1MWVqQ011aUZ6dw?oc=5\" target=\"_blank\">Grocery trends for 2027</a>&nbsp;&nbsp;<f",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfN1BvdnIwdFVYdUc5ZHd5dWR5WFk2aTR3YzBrX3JzTnR4V1l0eHNtNEFDbXFSZFRzVF93Uk9FZXF2eFdKb1MxWVNMN3VLNXF0SXVMUzRXR0JvNURBOXhYNkxMdzhEaUc3b3FqSGJCZ1B1MWVqQ011aUZ6dw?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 05 Oct 2026 11:35:03 GMT",
-          "source": "Food Business News"
-        }
-      ]
-    },
-    {
-      "id": "ddc7a0e55ffc",
-      "title": "Consumer food trends 2026 in Saudi Arabia. Clean food and - Innova Market Insights",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNblBsNmtWV3BxSUx0NW5JTnpWR3NBdmVMczc2RXAwTDZsMUozMXZKRnhBa3dGdGc0WnBYQ1h3VVNnWGlsMm1Qd1hoM3VNUUQtU1M0dy1yMlZuQ3h1Q2w2VzNvSlp0VzlBN2xPNG91YWl0TEJFTkwwbFpPNzFXRGs1U195MGE5dXdweFFiQzFuQQ?oc=5\" target=\"_blank\">Consumer food",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblBsNmtWV3BxSUx0NW5JTnpWR3NBdmVMczc2RXAwTDZsMUozMXZKRnhBa3dGdGc0WnBYQ1h3VVNnWGlsMm1Qd1hoM3VNUUQtU1M0dy1yMlZuQ3h1Q2w2VzNvSlp0VzlBN2xPNG91YWl0TEJFTkwwbFpPNzFXRGs1U195MGE5dXdweFFiQzFuQQ?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,11 +78,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 08 Oct 2026 14:26:15 GMT",
-          "source": "Innova Market Insights"
+          "published": "Mon, 05 Oct 2026 11:35:03 GMT",
+          "source": "Food Business News"
         }
       ]
     },
@@ -98,7 +98,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 07 Oct 2026 16:30:30 GMT",
@@ -107,10 +107,10 @@
       ]
     },
     {
-      "id": "5f87c5d92de0",
-      "title": "Food, beverage trends leaning international - Supermarket News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2FPWS1EbFdXZXNtQXNKTE9qWDAwRjZpalg2eGx1QktBYmxJV3RvME1kTV9hN19ScUdPeUpPQ290TVpIU3o2UWJjZzlJNGhxTE9BN0ZyNkllUXA1dThDRzUxcVQxcXRVQUZCQjVXaDdnYVBsbC1LRmRoclFHRWgyWTJkRGJwVU10OUZvanFHQmhCdmFabUdhN0ZB?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2FPWS1EbFdXZXNtQXNKTE9qWDAwRjZpalg2eGx1QktBYmxJV3RvME1kTV9hN19ScUdPeUpPQ290TVpIU3o2UWJjZzlJNGhxTE9BN0ZyNkllUXA1dThDRzUxcVQxcXRVQUZCQjVXaDdnYVBsbC1LRmRoclFHRWgyWTJkRGJwVU10OUZvanFHQmhCdmFabUdhN0ZB?oc=5",
+      "id": "83415a55ae6e",
+      "title": "Top food and beverage industry events in 2027 - Food Dive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0o3YWVNelQybWhBcFBrSS1Ma3RvbFZObE51cTB1TEtrQy1DR0hOZ0Yyd0NWQXA5OFFHa0pLZ1RZTkFqTFMyZXE1VmZBeFVmdkhXbGFrZ2F2SW0zbWJPdm02RjVJR1pvRkFaWVZWOG5TMkhIVEtjTW4yOFBHTFVCSHBkMVZCcnd3?oc=5\" target=\"_blank\">Top food and beverage i",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0o3YWVNelQybWhBcFBrSS1Ma3RvbFZObE51cTB1TEtrQy1DR0hOZ0Yyd0NWQXA5OFFHa0pLZ1RZTkFqTFMyZXE1VmZBeFVmdkhXbGFrZ2F2SW0zbWJPdm02RjVJR1pvRkFaWVZWOG5TMkhIVEtjTW4yOFBHTFVCSHBkMVZCcnd3?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,7 +118,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 06 Oct 2026 14:43:51 GMT",
+          "source": "Food Dive"
+        }
+      ]
+    },
+    {
+      "id": "5f87c5d92de0",
+      "title": "Food, beverage trends leaning international - Supermarket News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2FPWS1EbFdXZXNtQXNKTE9qWDAwRjZpalg2eGx1QktBYmxJV3RvME1kTV9hN19ScUdPeUpPQ290TVpIU3o2UWJjZzlJNGhxTE9BN0ZyNkllUXA1dThDRzUxcVQxcXRVQUZCQjVXaDdnYVBsbC1LRmRoclFHRWgyWTJkRGJwVU10OUZvanFHQmhCdmFabUdhN0ZB?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2FPWS1EbFdXZXNtQXNKTE9qWDAwRjZpalg2eGx1QktBYmxJV3RvME1kTV9hN19ScUdPeUpPQ290TVpIU3o2UWJjZzlJNGhxTE9BN0ZyNkllUXA1dThDRzUxcVQxcXRVQUZCQjVXaDdnYVBsbC1LRmRoclFHRWgyWTJkRGJwVU10OUZvanFHQmhCdmFabUdhN0ZB?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 07 Oct 2026 16:51:05 GMT",
@@ -127,30 +147,10 @@
       ]
     },
     {
-      "id": "8aa4be6413ad",
-      "title": "Google Maps Has Figured Out What Everyone Is Craving - SammyGuru",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KT1hycFpsR3NRcF9RRXUxLWVaRDk2dnVrcWhZVGl5N1ZlS0czWmFLWmQ4bFVzUmoxOGVMWGlBNkRNYzh6NDR3aUNTRmtvTmQySG9UZ0d0WU1CT1pvNnc5NQ?oc=5\" target=\"_blank\">Google Maps Has Figured Out What Everyone Is Craving</a>&nbsp;&nbsp;<font col",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KT1hycFpsR3NRcF9RRXUxLWVaRDk2dnVrcWhZVGl5N1ZlS0czWmFLWmQ4bFVzUmoxOGVMWGlBNkRNYzh6NDR3aUNTRmtvTmQySG9UZ0d0WU1CT1pvNnc5NQ?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 08 Oct 2026 22:09:58 GMT",
-          "source": "SammyGuru"
-        }
-      ]
-    },
-    {
-      "id": "7060336ce709",
-      "title": "Fast Forward: How Speed and Convenience Are Driving Food and Beverage Trends - Circana",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1JZZFhHb0QyREdyODd5WHlHVUdzNWxhWmI2eVNOSS05Z3p0ZVV5XzlOdkFRcEo1MFB2MEFsUTR3UGFLLUdfaUZqOTZBTUlnTDNfTGNuVmMzbVVxUWlNNVFGVjNTOWprTmlNVHBXZS12LXdzWTFKaHpta2Qyc3hhWmV6T1JKVmNuNEZjZUFQOENsRGpONTJya29SSmpFUVhJaGdHNExwYw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1JZZFhHb0QyREdyODd5WHlHVUdzNWxhWmI2eVNOSS05Z3p0ZVV5XzlOdkFRcEo1MFB2MEFsUTR3UGFLLUdfaUZqOTZBTUlnTDNfTGNuVmMzbVVxUWlNNVFGVjNTOWprTmlNVHBXZS12LXdzWTFKaHpta2Qyc3hhWmV6T1JKVmNuNEZjZUFQOENsRGpONTJya29SSmpFUVhJaGdHNExwYw?oc=5",
+      "id": "4bba3cc90d5a",
+      "title": "The Best Food Storage Containers for Thanksgiving Leftovers - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlRUa0dRaENuWVdEMXMxSXFLamRUNDdubWlfRzl1eldVaHdPMk4wZThQN2pxM2IwSW95TW1YU3ZuLVRPMEJ1VnY0S2FzQ21iS1J1c2MwaHZITzU5VmRudWdzZFVYM2RneW9XbTdnODJpZWZMbFlIRHR4QXRidUxIZVM2VGJTTzdDaW1qX0RyNA?oc=5\" target=\"_blank\">The Best Food",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlRUa0dRaENuWVdEMXMxSXFLamRUNDdubWlfRzl1eldVaHdPMk4wZThQN2pxM2IwSW95TW1YU3ZuLVRPMEJ1VnY0S2FzQ21iS1J1c2MwaHZITzU5VmRudWdzZFVYM2RneW9XbTdnODJpZWZMbFlIRHR4QXRidUxIZVM2VGJTTzdDaW1qX0RyNA?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +158,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 07 Oct 2026 16:25:56 GMT",
-          "source": "Circana"
+          "published": "Thu, 08 Oct 2026 17:13:07 GMT",
+          "source": "CTV News"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 07 Oct 2026 07:00:00 GMT",
@@ -187,10 +187,10 @@
       ]
     },
     {
-      "id": "0da38a7d72cf",
-      "title": "Food recalls' effects on consumer trends - CBS News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2dmZ1FwY1Q2T24yUE55UXVJVDg5Qy0tLS1DS3NOeDh2YUdsU3hMNEhmZEdhUExhazE2cFk2VmMydnhsd2lJY2Y5YXA2Tmw4UTRHcHZIcVFfeEhiT2VPWUhWZEhBNXdOb29VTnRTN3dNQng5OEI3LWljcE5RanZNeGh1NkY?oc=5\" target=\"_blank\">Food recalls' effects on con",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2dmZ1FwY1Q2T24yUE55UXVJVDg5Qy0tLS1DS3NOeDh2YUdsU3hMNEhmZEdhUExhazE2cFk2VmMydnhsd2lJY2Y5YXA2Tmw4UTRHcHZIcVFfeEhiT2VPWUhWZEhBNXdOb29VTnRTN3dNQng5OEI3LWljcE5RanZNeGh1NkY?oc=5",
+      "id": "d8d2e0059b24",
+      "title": "Food tech: 5 trends growing and 5 declining - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVllVNDk1TUVweE9nMnUydl9WR3BXck1welp2c01aQjVScFVYWXJaa0xyWDV3ZTNvZ2hhM2tEekswdlY0TVJPbmRWLXJkUXU1ZXd3SG1zY1RfeDNJRjJDMWVuSlhvQjg0YUJiRW9UMGZsSmwyOGJNZ2Z6akFuOENvR2F4RkJKSlRjXzZVTHpyYXUyejYwM0tjRm41Q2tGQQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVllVNDk1TUVweE9nMnUydl9WR3BXck1welp2c01aQjVScFVYWXJaa0xyWDV3ZTNvZ2hhM2tEekswdlY0TVJPbmRWLXJkUXU1ZXd3SG1zY1RfeDNJRjJDMWVuSlhvQjg0YUJiRW9UMGZsSmwyOGJNZ2Z6akFuOENvR2F4RkJKSlRjXzZVTHpyYXUyejYwM0tjRm41Q2tGQQ?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,47 +198,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 01:06:00 GMT",
-          "source": "CBS News"
-        }
-      ]
-    },
-    {
-      "id": "53365421055d",
-      "title": "Powerful Plants | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Trends - Nutritional Outlook",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE44NGZBdWFyWURFUmVkdmJMczJ4dy1MQjhZNXJzckJocnBKbmgtaUJjcXZLa2d3cXp5eUxsbGlLVjU5WE5pNk9vbUhLQ05wekJ2T1BxY2ZaNFM4RHRvY1I2YmRFcTZGZw?oc=5\" target=\"_blank\">Powerful Plants | Nutritional Outlook - Supplement, Food & Beverage M",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44NGZBdWFyWURFUmVkdmJMczJ4dy1MQjhZNXJzckJocnBKbmgtaUJjcXZLa2d3cXp5eUxsbGlLVjU5WE5pNk9vbUhLQ05wekJ2T1BxY2ZaNFM4RHRvY1I2YmRFcTZGZw?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 08 Oct 2026 18:27:18 GMT",
-          "source": "Nutritional Outlook"
-        }
-      ]
-    },
-    {
-      "id": "d8d2e0059b24",
-      "title": "Food tech: 5 trends growing and 5 declining - FoodNavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVllVNDk1TUVweE9nMnUydl9WR3BXck1welp2c01aQjVScFVYWXJaa0xyWDV3ZTNvZ2hhM2tEekswdlY0TVJPbmRWLXJkUXU1ZXd3SG1zY1RfeDNJRjJDMWVuSlhvQjg0YUJiRW9UMGZsSmwyOGJNZ2Z6akFuOENvR2F4RkJKSlRjXzZVTHpyYXUyejYwM0tjRm41Q2tGQQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVllVNDk1TUVweE9nMnUydl9WR3BXck1welp2c01aQjVScFVYWXJaa0xyWDV3ZTNvZ2hhM2tEekswdlY0TVJPbmRWLXJkUXU1ZXd3SG1zY1RfeDNJRjJDMWVuSlhvQjg0YUJiRW9UMGZsSmwyOGJNZ2Z6akFuOENvR2F4RkJKSlRjXzZVTHpyYXUyejYwM0tjRm41Q2tGQQ?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 12:14:42 GMT",
@@ -251,14 +211,14 @@
       "title": "Scott & Jon’s debuts first tuna item, targets comfort food trend - SeafoodSource",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXIzRlFVMm5Td0Y2WFVRQlVrakdlMndwbGl2TUxxMWJSRDZwODFfaVVnQXJzS2xqYzNZb2VCM1doOHk0VDZ0TUFlTERaT1ZwXzFYekx6dlF3Ty1lU0JFdzVPUmZnSkpGU1oxd1pBTnFDV0FqR01VM09maE1tYllJcnIzeVNjV3ZHUE5aZlFJT1UzSHJoVF83ZFpFWWI?oc=5\" target=\"_bla",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXIzRlFVMm5Td0Y2WFVRQlVrakdlMndwbGl2TUxxMWJSRDZwODFfaVVnQXJzS2xqYzNZb2VCM1doOHk0VDZ0TUFlTERaT1ZwXzFYekx6dlF3Ty1lU0JFdzVPUmZnSkpGU1oxd1pBTnFDV0FqR01VM09maE1tYllJcnIzeVNjV3ZHUE5aZlFJT1UzSHJoVF83ZFpFWWI?oc=5",
-      "score": 46.8,
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 07 Oct 2026 19:05:48 GMT",
@@ -271,14 +231,14 @@
       "title": "Kraft Heinz backs protein, fiber trends as innovation drive gains steam - Reuters",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQX1dJQkdaN0lCdGtveU40b1A2V3lZZlBBZFl3d3U4cEp2a01NcU1uZ0pMVi10cGVYUVZDVFdfRlo5cXZDRmR4N09wVl9rTldPZTM2UGhhdkZWai1IY0x4RkFPckk4dnRrMWtFUXlUUU1vLWVKZlhCeEh2ZDZ2dVVkdk5KdW9wd25XWGsxYkxLdXBUbnc5eHRwX3lVR2s5OG1oYk11V2RXMUItRj",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX1dJQkdaN0lCdGtveU40b1A2V3lZZlBBZFl3d3U4cEp2a01NcU1uZ0pMVi10cGVYUVZDVFdfRlo5cXZDRmR4N09wVl9rTldPZTM2UGhhdkZWai1IY0x4RkFPckk4dnRrMWtFUXlUUU1vLWVKZlhCeEh2ZDZ2dVVkdk5KdW9wd25XWGsxYkxLdXBUbnc5eHRwX3lVR2s5OG1oYk11V2RXMUItRjhrc2MyekFfNlg2NEY3Tl94Rk9xcFFmRUJiMkNR?oc=5",
-      "score": 43.2,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
           "published": "Tue, 06 Oct 2026 10:34:51 GMT",
@@ -287,22 +247,22 @@
       ]
     },
     {
-      "id": "11a8bbbce1dd",
-      "title": "Prinova targets emerging wellness trends with new nutrition concepts - Asia Food Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQT00zYWxrUzdwTUtVR25Uak1LdnJXWnpqOWNmMUJRUWd4aXRTOEkyUldBc1kxN1NRYUFSUHZPUWJHNTJ3bEFxZGp6WHdNSU0wRl82bUxrY3NyLS1uSm5jR3hGWGdOZVBMaFVoM1NLNXM4R0dKZnoyWURfSzBLdkJwdkxUVVFfWHRWS25DNEpqVlUwV1pUbjNJcldBMm15QQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT00zYWxrUzdwTUtVR25Uak1LdnJXWnpqOWNmMUJRUWd4aXRTOEkyUldBc1kxN1NRYUFSUHZPUWJHNTJ3bEFxZGp6WHdNSU0wRl82bUxrY3NyLS1uSm5jR3hGWGdOZVBMaFVoM1NLNXM4R0dKZnoyWURfSzBLdkJwdkxUVVFfWHRWS25DNEpqVlUwV1pUbjNJcldBMm15QQ?oc=5",
-      "score": 39.6,
+      "id": "b42ee943c093",
+      "title": "‘It’s like eating from a roof tile’: The trends these Aussie food icons just can’t get behind - Nine.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWs1S0JDWlVZR3ZfOFotM3VtbWY3cUxVd19nS01OeG9uaDJIU2tpQXIzTVJUYkszbnN2SnQ5WXVvZE1oelBnRWo5ZFF3RkNBcTJYNi1rSk8zalN6WUFRM011NmZwUHJPZWRlZllnY093dkhMbmwxQXNtbldzY1JtNUNEQnYxV3A1NTFFY1JYM3ItcFlrN3p4bjl4NE1MZ3FOcTRRUnAtaw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWs1S0JDWlVZR3ZfOFotM3VtbWY3cUxVd19nS01OeG9uaDJIU2tpQXIzTVJUYkszbnN2SnQ5WXVvZE1oelBnRWo5ZFF3RkNBcTJYNi1rSk8zalN6WUFRM011NmZwUHJPZWRlZllnY093dkhMbmwxQXNtbldzY1JtNUNEQnYxV3A1NTFFY1JYM3ItcFlrN3p4bjl4NE1MZ3FOcTRRUnAtaw?oc=5",
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 00:52:03 GMT",
-          "source": "Asia Food Journal"
+          "published": "Fri, 09 Oct 2026 19:00:00 GMT",
+          "source": "Nine.com.au"
         }
       ]
     },
@@ -311,6 +271,46 @@
       "title": "Google Maps just revealed the world's favorite food destinations - USA Today",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUJqdXczSFBNMDFJblJtMnZWSE55Mnd2YXRFczZjSkoyanpGUjV3WV9vMEh2NmVDRjhoUFlTcUtmQllIdTU1XzJLekFiRlBfYUdRb1EyT3ljQzBtWElkSFhudXUyaE1HXzgybGIwbGozTWFCUDNCSzU3NTJfa0pBNDJoTmdYT2V0eHJvaDlLV3pMbjFOWkZYdTR4c09uTEViRGxKOXp5N1ZHUn",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUJqdXczSFBNMDFJblJtMnZWSE55Mnd2YXRFczZjSkoyanpGUjV3WV9vMEh2NmVDRjhoUFlTcUtmQllIdTU1XzJLekFiRlBfYUdRb1EyT3ljQzBtWElkSFhudXUyaE1HXzgybGIwbGozTWFCUDNCSzU3NTJfa0pBNDJoTmdYT2V0eHJvaDlLV3pMbjFOWkZYdTR4c09uTEViRGxKOXp5N1ZHUnpSdVpv?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-09T22:36:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 08 Oct 2026 09:00:00 GMT",
+          "source": "USA Today"
+        }
+      ]
+    },
+    {
+      "id": "8aa4be6413ad",
+      "title": "Google Maps Has Figured Out What Everyone Is Craving - SammyGuru",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KT1hycFpsR3NRcF9RRXUxLWVaRDk2dnVrcWhZVGl5N1ZlS0czWmFLWmQ4bFVzUmoxOGVMWGlBNkRNYzh6NDR3aUNTRmtvTmQySG9UZ0d0WU1CT1pvNnc5NQ?oc=5\" target=\"_blank\">Google Maps Has Figured Out What Everyone Is Craving</a>&nbsp;&nbsp;<font col",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KT1hycFpsR3NRcF9RRXUxLWVaRDk2dnVrcWhZVGl5N1ZlS0czWmFLWmQ4bFVzUmoxOGVMWGlBNkRNYzh6NDR3aUNTRmtvTmQySG9UZ0d0WU1CT1pvNnc5NQ?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-09T22:36:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 08 Oct 2026 22:09:58 GMT",
+          "source": "SammyGuru"
+        }
+      ]
+    },
+    {
+      "id": "6eb1bf21c040",
+      "title": "Skin Care Supplements: 2026 Trends for Manufacturers - Nutritional Outlook",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMmVFaFdUNjFjUFRodzE1VXhiU1FpYnNLU3l2NVpkV2NNcmNQa2RUYmRuUGtKN2NlSEdIbmFtTkFYNVEybnc2SUFvTDlzd1Q5V0FocGdtMnE1XzNPcEZKN3lRNzA4THk5Z3RQWWU5N0k5eFdYZS1DdjVPd3JxUS1YUjMycWVTYmNNN181N2VlbmY?oc=5\" target=\"_blank\">Skin Care Su",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMmVFaFdUNjFjUFRodzE1VXhiU1FpYnNLU3l2NVpkV2NNcmNQa2RUYmRuUGtKN2NlSEdIbmFtTkFYNVEybnc2SUFvTDlzd1Q5V0FocGdtMnE1XzNPcEZKN3lRNzA4THk5Z3RQWWU5N0k5eFdYZS1DdjVPd3JxUS1YUjMycWVTYmNNN181N2VlbmY?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,11 +318,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 08 Oct 2026 09:00:00 GMT",
-          "source": "USA Today"
+          "published": "Mon, 05 Oct 2026 18:43:05 GMT",
+          "source": "Nutritional Outlook"
         }
       ]
     },
@@ -338,7 +338,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 30 Sep 2026 07:00:00 GMT",
@@ -347,10 +347,10 @@
       ]
     },
     {
-      "id": "1357e65a8196",
-      "title": "Top 10 Food Trends 2027. Food and beverages are being reframed - Innova Market Insights",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcXlSX01mdWM1Uk5WdHRiZ0tzdlRRc1lmR19pUzRBWl93d1poSy1rUjhLQm5wYTRubnJkUjFaSUlBZ0hJdFZQVjBGRG1XSXhlU3ZQR3ItdjRxWmZ2UktxS2ZQb3RvRWd5MXM5ODFFbXV1Y2l5b0Nj?oc=5\" target=\"_blank\">Top 10 Food Trends 2027. Food and beverages are",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcXlSX01mdWM1Uk5WdHRiZ0tzdlRRc1lmR19pUzRBWl93d1poSy1rUjhLQm5wYTRubnJkUjFaSUlBZ0hJdFZQVjBGRG1XSXhlU3ZQR3ItdjRxWmZ2UktxS2ZQb3RvRWd5MXM5ODFFbXV1Y2l5b0Nj?oc=5",
+      "id": "ddc7a0e55ffc",
+      "title": "Consumer food trends 2026 in Saudi Arabia. Clean food and - Innova Market Insights",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNblBsNmtWV3BxSUx0NW5JTnpWR3NBdmVMczc2RXAwTDZsMUozMXZKRnhBa3dGdGc0WnBYQ1h3VVNnWGlsMm1Qd1hoM3VNUUQtU1M0dy1yMlZuQ3h1Q2w2VzNvSlp0VzlBN2xPNG91YWl0TEJFTkwwbFpPNzFXRGs1U195MGE5dXdweFFiQzFuQQ?oc=5\" target=\"_blank\">Consumer food",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblBsNmtWV3BxSUx0NW5JTnpWR3NBdmVMczc2RXAwTDZsMUozMXZKRnhBa3dGdGc0WnBYQ1h3VVNnWGlsMm1Qd1hoM3VNUUQtU1M0dy1yMlZuQ3h1Q2w2VzNvSlp0VzlBN2xPNG91YWl0TEJFTkwwbFpPNzFXRGs1U195MGE5dXdweFFiQzFuQQ?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,10 +358,10 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 08 Oct 2026 14:05:10 GMT",
+          "published": "Thu, 08 Oct 2026 14:26:15 GMT",
           "source": "Innova Market Insights"
         }
       ]
@@ -378,7 +378,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 07:00:54 GMT",
@@ -387,10 +387,10 @@
       ]
     },
     {
-      "id": "6eb1bf21c040",
-      "title": "Skin Care Supplements: 2026 Trends for Manufacturers - Nutritional Outlook",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMmVFaFdUNjFjUFRodzE1VXhiU1FpYnNLU3l2NVpkV2NNcmNQa2RUYmRuUGtKN2NlSEdIbmFtTkFYNVEybnc2SUFvTDlzd1Q5V0FocGdtMnE1XzNPcEZKN3lRNzA4THk5Z3RQWWU5N0k5eFdYZS1DdjVPd3JxUS1YUjMycWVTYmNNN181N2VlbmY?oc=5\" target=\"_blank\">Skin Care Su",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMmVFaFdUNjFjUFRodzE1VXhiU1FpYnNLU3l2NVpkV2NNcmNQa2RUYmRuUGtKN2NlSEdIbmFtTkFYNVEybnc2SUFvTDlzd1Q5V0FocGdtMnE1XzNPcEZKN3lRNzA4THk5Z3RQWWU5N0k5eFdYZS1DdjVPd3JxUS1YUjMycWVTYmNNN181N2VlbmY?oc=5",
+      "id": "53365421055d",
+      "title": "Powerful Plants | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Trends - Nutritional Outlook",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE44NGZBdWFyWURFUmVkdmJMczJ4dy1MQjhZNXJzckJocnBKbmgtaUJjcXZLa2d3cXp5eUxsbGlLVjU5WE5pNk9vbUhLQ05wekJ2T1BxY2ZaNFM4RHRvY1I2YmRFcTZGZw?oc=5\" target=\"_blank\">Powerful Plants | Nutritional Outlook - Supplement, Food & Beverage M",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44NGZBdWFyWURFUmVkdmJMczJ4dy1MQjhZNXJzckJocnBKbmgtaUJjcXZLa2d3cXp5eUxsbGlLVjU5WE5pNk9vbUhLQ05wekJ2T1BxY2ZaNFM4RHRvY1I2YmRFcTZGZw?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,10 +398,10 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-09T13:07:27+00:00",
+      "first_seen": "2026-10-09T22:36:29+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 05 Oct 2026 18:43:05 GMT",
+          "published": "Thu, 08 Oct 2026 18:27:18 GMT",
           "source": "Nutritional Outlook"
         }
       ]
