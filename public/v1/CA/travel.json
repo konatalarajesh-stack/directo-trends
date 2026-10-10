@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-10-09T22:45:35+00:00",
+  "generated_at": "2026-10-10T05:51:11+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "942653c42c06",
-      "title": "Development plan to help shape the future of tourism in Belleville - Belleville Intelligencer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDRkVFU1N2U4ejRpVVdTV2Y4aGtNelJCeDBtZm40bUZlcFFLNjFJM3NOSzhDMXFmcHVlRnJkRGtnT0U2RFoyYldUbGFSX2NUZGxTOHd2a1U0MGc2R2drc1VjZ3VoS2lvQUloVWZmRElKY2NWblhrR1RsamlZa3ZTMkwwajM1a1d6a2xfXzFEeFhMVThRNzJadXFUa01DdEZ1dGJZ?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDRkVFU1N2U4ejRpVVdTV2Y4aGtNelJCeDBtZm40bUZlcFFLNjFJM3NOSzhDMXFmcHVlRnJkRGtnT0U2RFoyYldUbGFSX2NUZGxTOHd2a1U0MGc2R2drc1VjZ3VoS2lvQUloVWZmRElKY2NWblhrR1RsamlZa3ZTMkwwajM1a1d6a2xfXzFEeFhMVThRNzJadXFUa01DdEZ1dGJZ?oc=5",
+      "id": "e9675632791e",
+      "title": "Air travel between Vancouver and the U.S. falls for 20th month - Business in Vancouver",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmNJSm1Sa1NfYTJ0bE5IVlJ2VEFST29vRHhOVnpnZEhGX25pQTJvVTEyc2dhTVRjQnZqR3ljMENIUEluNW9rcHlkNEZNT2pGUjZKVEtycjhsUGR3cTZucFUyRVpiRnAzYW9PMHZwZWxYaWpVMlBiTkM0d25NYVNncUUwYjJxZ3FscGdZbDhqcFFKS1JNOTJMelJKcVBlNGM1VlNMMm5LVDRyVV",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmNJSm1Sa1NfYTJ0bE5IVlJ2VEFST29vRHhOVnpnZEhGX25pQTJvVTEyc2dhTVRjQnZqR3ljMENIUEluNW9rcHlkNEZNT2pGUjZKVEtycjhsUGR3cTZucFUyRVpiRnAzYW9PMHZwZWxYaWpVMlBiTkM0d25NYVNncUUwYjJxZ3FscGdZbDhqcFFKS1JNOTJMelJKcVBlNGM1VlNMMm5LVDRyVVVWUWc?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,67 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 23:15:00 GMT",
+          "source": "Business in Vancouver"
+        }
+      ]
+    },
+    {
+      "id": "a14384edbfe4",
+      "title": "Rooted in their land, Indigenous communities are shaping Guyana’s tourism future - Ron Fanfair",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB1XzgtN2cxdDhncHQ2WkZjd09IYXhpTmRkbFlmY2FfYU9jNGtBemdtcXZlTHczLUxHQzd0dmVnQmpnSzM2UGh4WktERHRVdUNldzdBUXRXNXpVaWo2UVhrRTV3YnFXYm9jT0twMFdYSnRveW5YR3JaRHprUno?oc=5\" target=\"_blank\">Rooted in their land, Indigenous communi",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1XzgtN2cxdDhncHQ2WkZjd09IYXhpTmRkbFlmY2FfYU9jNGtBemdtcXZlTHczLUxHQzd0dmVnQmpnSzM2UGh4WktERHRVdUNldzdBUXRXNXpVaWo2UVhrRTV3YnFXYm9jT0twMFdYSnRveW5YR3JaRHprUno?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-10T05:42:22+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 20:47:59 GMT",
+          "source": "Ron Fanfair"
+        }
+      ]
+    },
+    {
+      "id": "f6c0becfe53f",
+      "title": "Ottawa residents head out for Thanksgiving weekend travel - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSW01cFJhY3R3VXdFYlQ0NFI2RkU2YllDWjBjWU9NUWJMd2pyRlBZeVBma2Y2MVpDMk5vY29ibTJQNmh6eVpZOUdWQXlVUWo0QkZXODZVQUkzNWVXLTFJU2hlVncyOWhfd1BQU2JTV25uZm43enBSaW0xSGFaNnZmRWZvREVlVjcyakNCXzJmcjhfT191bjR3Z0puX3MwdFd6OEVTV3picDM?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSW01cFJhY3R3VXdFYlQ0NFI2RkU2YllDWjBjWU9NUWJMd2pyRlBZeVBma2Y2MVpDMk5vY29ibTJQNmh6eVpZOUdWQXlVUWo0QkZXODZVQUkzNWVXLTFJU2hlVncyOWhfd1BQU2JTV25uZm43enBSaW0xSGFaNnZmRWZvREVlVjcyakNCXzJmcjhfT191bjR3Z0puX3MwdFd6OEVTV3picDM?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-10T05:42:22+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 22:10:39 GMT",
+          "source": "CTV News"
+        }
+      ]
+    },
+    {
+      "id": "942653c42c06",
+      "title": "Development plan to help shape the future of tourism in Belleville - Belleville Intelligencer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDRkVFU1N2U4ejRpVVdTV2Y4aGtNelJCeDBtZm40bUZlcFFLNjFJM3NOSzhDMXFmcHVlRnJkRGtnT0U2RFoyYldUbGFSX2NUZGxTOHd2a1U0MGc2R2drc1VjZ3VoS2lvQUloVWZmRElKY2NWblhrR1RsamlZa3ZTMkwwajM1a1d6a2xfXzFEeFhMVThRNzJadXFUa01DdEZ1dGJZ?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDRkVFU1N2U4ejRpVVdTV2Y4aGtNelJCeDBtZm40bUZlcFFLNjFJM3NOSzhDMXFmcHVlRnJkRGtnT0U2RFoyYldUbGFSX2NUZGxTOHd2a1U0MGc2R2drc1VjZ3VoS2lvQUloVWZmRElKY2NWblhrR1RsamlZa3ZTMkwwajM1a1d6a2xfXzFEeFhMVThRNzJadXFUa01DdEZ1dGJZ?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 15:26:06 GMT",
@@ -31,14 +91,14 @@
       "title": "WTTC Sets Out Eight Priorities to Secure Europe's Travel & Tourism Leadership as Governments Across the Region Shape New Tourism Strategies - World Travel & Tourism Council",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKMktJMC11SEQ2UktYSVh2Q011RFFnVUN4czhJSnRlNkFiZXRlYW9nSmtZV3NqNV80ZU9KRGE1LTZnQjNUd1N0djNxX2hfTlRkWVpDMV9qUS1QZw?oc=5\" target=\"_blank\">WTTC Sets Out Eight Priorities to Secure Europe's Travel & Tourism Leadership as Gove",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKMktJMC11SEQ2UktYSVh2Q011RFFnVUN4czhJSnRlNkFiZXRlYW9nSmtZV3NqNV80ZU9KRGE1LTZnQjNUd1N0djNxX2hfTlRkWVpDMV9qUS1QZw?oc=5",
-      "score": 86.4,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 11:51:56 GMT",
@@ -47,18 +107,38 @@
       ]
     },
     {
-      "id": "ddae20e7a4ad",
-      "title": "Trump’s Tourism Envoy, Justin Trudeau Clash Over US Travel Boycott at WTTC - Open Jaw",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPalppRTBCTDlmWGVtU0ZZWURhTjdNZ1Q1OEZad2J5eHR4ZzJXbnFPMWVvcGsxMkNMVWQzUFFvakpEdE9yaVVYaV8wT1BLZmdMSXBzSGoxZzB5c0hTV0k2bkhRZHBLdXpzQXluRjBSMnhiaHZsNThzQ29XbjVUbUR3NkxYakZkNExSVWVzY3lvNV9STlQ5bk5JT3dwX05XVlV2amRubU1uOF9TbG",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalppRTBCTDlmWGVtU0ZZWURhTjdNZ1Q1OEZad2J5eHR4ZzJXbnFPMWVvcGsxMkNMVWQzUFFvakpEdE9yaVVYaV8wT1BLZmdMSXBzSGoxZzB5c0hTV0k2bkhRZHBLdXpzQXluRjBSMnhiaHZsNThzQ29XbjVUbUR3NkxYakZkNExSVWVzY3lvNV9STlQ5bk5JT3dwX05XVlV2amRubU1uOF9TbGpWdkFFLVVITGJ5dV9ieHFXbnNB?oc=5",
-      "score": 82.8,
+      "id": "1b908949e41c",
+      "title": "Travel advisors say bonjour to Toulouse with Air Canada - TravelPress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTkxV090TFREelVndVJQLUlfZUpMOFFFX0FHUlUtSXJtbW9GRERlUTJHT0doN21wZU1YbTBmeWZYVXR3aDM3eGV0bXNlOHE5VzUwd0lQUFVzNnVxY1dMMkJmVTZnS01lTVhlYlZyMzFfckllc043OThxY2V1TmNTV3o0LU9Pd0wwNXAwMA?oc=5\" target=\"_blank\">Travel advisors s",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTkxV090TFREelVndVJQLUlfZUpMOFFFX0FHUlUtSXJtbW9GRERlUTJHT0doN21wZU1YbTBmeWZYVXR3aDM3eGV0bXNlOHE5VzUwd0lQUFVzNnVxY1dMMkJmVTZnS01lTVhlYlZyMzFfckllc043OThxY2V1TmNTV3o0LU9Pd0wwNXAwMA?oc=5",
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 10 Oct 2026 00:33:12 GMT",
+          "source": "TravelPress"
+        }
+      ]
+    },
+    {
+      "id": "ddae20e7a4ad",
+      "title": "Trump’s Tourism Envoy, Justin Trudeau Clash Over US Travel Boycott at WTTC - Open Jaw",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPalppRTBCTDlmWGVtU0ZZWURhTjdNZ1Q1OEZad2J5eHR4ZzJXbnFPMWVvcGsxMkNMVWQzUFFvakpEdE9yaVVYaV8wT1BLZmdMSXBzSGoxZzB5c0hTV0k2bkhRZHBLdXpzQXluRjBSMnhiaHZsNThzQ29XbjVUbUR3NkxYakZkNExSVWVzY3lvNV9STlQ5bk5JT3dwX05XVlV2amRubU1uOF9TbG",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalppRTBCTDlmWGVtU0ZZWURhTjdNZ1Q1OEZad2J5eHR4ZzJXbnFPMWVvcGsxMkNMVWQzUFFvakpEdE9yaVVYaV8wT1BLZmdMSXBzSGoxZzB5c0hTV0k2bkhRZHBLdXpzQXluRjBSMnhiaHZsNThzQ29XbjVUbUR3NkxYakZkNExSVWVzY3lvNV9STlQ5bk5JT3dwX05XVlV2amRubU1uOF9TbGpWdkFFLVVITGJ5dV9ieHFXbnNB?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 13:33:40 GMT",
@@ -67,90 +147,10 @@
       ]
     },
     {
-      "id": "1b908949e41c",
-      "title": "Travel advisors say bonjour to Toulouse with Air Canada - TravelPress",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTkxV090TFREelVndVJQLUlfZUpMOFFFX0FHUlUtSXJtbW9GRERlUTJHT0doN21wZU1YbTBmeWZYVXR3aDM3eGV0bXNlOHE5VzUwd0lQUFVzNnVxY1dMMkJmVTZnS01lTVhlYlZyMzFfckllc043OThxY2V1TmNTV3o0LU9Pd0wwNXAwMA?oc=5\" target=\"_blank\">Travel advisors s",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTkxV090TFREelVndVJQLUlfZUpMOFFFX0FHUlUtSXJtbW9GRERlUTJHT0doN21wZU1YbTBmeWZYVXR3aDM3eGV0bXNlOHE5VzUwd0lQUFVzNnVxY1dMMkJmVTZnS01lTVhlYlZyMzFfckllc043OThxY2V1TmNTV3o0LU9Pd0wwNXAwMA?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 18:33:12 GMT",
-          "source": "TravelPress"
-        }
-      ]
-    },
-    {
-      "id": "2d15c86b05db",
-      "title": "Talma enters Canadian market with Plus Travel Group acquisition - PAX News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSm00NDd1R29oZlRTQjJtZzc3OFh3aUtwcS1QcTMtWlVqczVyWXFUeVdhM2JNWFZLZHo3djFLYTJGVGtIZW9WeHlCbHdQanNXbVRYcmxnTnVpWnFzQlYtaTZselY2MEpLdnQzX2ZvbFlGSjZPYjh6NHpUN2NPcnZHdFY1TWpLcFRYZlFJVXNZdnozN3M4UTNjQQ?oc=5\" target=\"_blank\">T",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSm00NDd1R29oZlRTQjJtZzc3OFh3aUtwcS1QcTMtWlVqczVyWXFUeVdhM2JNWFZLZHo3djFLYTJGVGtIZW9WeHlCbHdQanNXbVRYcmxnTnVpWnFzQlYtaTZselY2MEpLdnQzX2ZvbFlGSjZPYjh6NHpUN2NPcnZHdFY1TWpLcFRYZlFJVXNZdnozN3M4UTNjQQ?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 18:03:05 GMT",
-          "source": "PAX News"
-        }
-      ]
-    },
-    {
-      "id": "f777bcd64c3a",
-      "title": "Explore all Costa Rica has to offer: AMA Travel - Global News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjM3Q2oxYWhPWkd3Q1pmMjZRaGdMYWhIS0tKM3hrWTktX2tibk5HRlpLMTdIUVNlbnU1NDRkV0xmWmZ1SXZNbHRqX21tTC15TVJ3LXVXRVJ1ZHRscWVOTGMtY1VrcFdBVlJPUGVvbS1rVGRSbndsejJxWTkzYTJ1QlhDUFlIdjN3SlBNTg?oc=5\" target=\"_blank\">Explore all Costa",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjM3Q2oxYWhPWkd3Q1pmMjZRaGdMYWhIS0tKM3hrWTktX2tibk5HRlpLMTdIUVNlbnU1NDRkV0xmWmZ1SXZNbHRqX21tTC15TVJ3LXVXRVJ1ZHRscWVOTGMtY1VrcFdBVlJPUGVvbS1rVGRSbndsejJxWTkzYTJ1QlhDUFlIdjN3SlBNTg?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 16:55:19 GMT",
-          "source": "Global News"
-        }
-      ]
-    },
-    {
-      "id": "c0c4dcb26e71",
-      "title": "Kenya: Travel Health Insurance Requirement Implemented - Fragomen",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQemxzeTdtWDRWaWVfcjdrd05HcmlPTU1hNzVrWkNyM3l2WC1nVGFpeFJabWd3blhKcmNuVFVMcGhENzc5S0xIRW9yNDMtcF81a0xGR3RrVnhhMkVRRFNMX0RMdXBWQTU1MlBUZ05nc3hoY3NzQmtZeXJleVBlVXV0eTZVenc5dkVvRHhvWFEzWEFFXzRaMWd3?oc=5\" target=\"_blank\">Ken",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemxzeTdtWDRWaWVfcjdrd05HcmlPTU1hNzVrWkNyM3l2WC1nVGFpeFJabWd3blhKcmNuVFVMcGhENzc5S0xIRW9yNDMtcF81a0xGR3RrVnhhMkVRRFNMX0RMdXBWQTU1MlBUZ05nc3hoY3NzQmtZeXJleVBlVXV0eTZVenc5dkVvRHhvWFEzWEFFXzRaMWd3?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 13:36:26 GMT",
-          "source": "Fragomen"
-        }
-      ]
-    },
-    {
-      "id": "14238c5eb6b9",
-      "title": "Selling Wellness Travel: WTA Wellness Talk - TravelPulse Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQVjNUTjR0aGhtVkdjNEpHRU93TjFpaEYtUXAwTm5yZFVFMWstRHFiNldTZFlDeC1UOU5wWDJmXzM3OUprdFNmaGxiRzZvb0NlczhXRU41dTJTX0FObUhIajdmeEplUVNDM0JsYTFhMHN3aVF4TTFyR09XTHc1UVdvLVZpUkpIaTQ?oc=5\" target=\"_blank\">Selling Wellness Travel:",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVjNUTjR0aGhtVkdjNEpHRU93TjFpaEYtUXAwTm5yZFVFMWstRHFiNldTZFlDeC1UOU5wWDJmXzM3OUprdFNmaGxiRzZvb0NlczhXRU41dTJTX0FObUhIajdmeEplUVNDM0JsYTFhMHN3aVF4TTFyR09XTHc1UVdvLVZpUkpIaTQ?oc=5",
+      "id": "17bb979520ae",
+      "title": "Environment Canada issues travel warning as snow approaches Foothills - OkotoksOnline",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMUZ5Z2IzcktOTFlLTXNfOEk4c3g2d2pfanA1cXhyYlVOanlFdGxoamc5dWVnMFA3eTBCMzA2LTI4VV9yMFduVkwwdi1jLUFzRDFWeHdJNkNVdTBXTkQ4S1FXekFlelM5TFoxM21YSXFWM2hQSjFIbV9pNXRjV1VFMnVhWXRreW11QzBRdE83b1RTaVUySWczUTJsb2N4RmlicVhRbEdIUQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMUZ5Z2IzcktOTFlLTXNfOEk4c3g2d2pfanA1cXhyYlVOanlFdGxoamc5dWVnMFA3eTBCMzA2LTI4VV9yMFduVkwwdi1jLUFzRDFWeHdJNkNVdTBXTkQ4S1FXekFlelM5TFoxM21YSXFWM2hQSjFIbV9pNXRjV1VFMnVhWXRreW11QzBRdE83b1RTaVUySWczUTJsb2N4RmlicVhRbEdIUQ?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 14:00:00 GMT",
-          "source": "TravelPulse Canada"
+          "published": "Fri, 09 Oct 2026 23:28:06 GMT",
+          "source": "OkotoksOnline"
         }
       ]
     },
     {
-      "id": "8af358070f4a",
-      "title": "More reasons to go, more ways to get there: Go Türkiye - Travelweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1lrQWhyd2pHX2gwaE9NLV82QWdLaEE2WlZNcFltcjZKY1FoMjlqRFF3TEFhem1jeGJrSWRSN0M1R2RPQmxMVWdPOWplZE9vS2F4bWFFcmEyNFcxQlNIVkRkWEFSWTFzQU9DdXBPTzcxVTFZdTZNN2Npay1sT010VEh3ZUpCX094TzFPZTJDNTNERkcyNkRKcVVwaWY?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1lrQWhyd2pHX2gwaE9NLV82QWdLaEE2WlZNcFltcjZKY1FoMjlqRFF3TEFhem1jeGJrSWRSN0M1R2RPQmxMVWdPOWplZE9vS2F4bWFFcmEyNFcxQlNIVkRkWEFSWTFzQU9DdXBPTzcxVTFZdTZNN2Npay1sT010VEh3ZUpCX094TzFPZTJDNTNERkcyNkRKcVVwaWY?oc=5",
+      "id": "871a9229bf8c",
+      "title": "Cabinet minister Lela Evans says climate change affecting travel in her northern Labrador district - NTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODZSRjQ5SnVxVmRLSEoxVXh1RWl6WmUtR0dPdWdzQS1xbFkxZGttMVhvd3dGUDZBMlRJTE5YdFFNc3ZPaUh2TWZNdURjSlBSdXl1bG1vV1hyWl84MXhEZFZTUHBSR0thWTBoT2Fua1BpVXA1U2M4c2o4YTBFNjVtWTdlWmlQZ0c5dUtBTFVLLWw0ZjlBMHpLUWl2X1haNmtoUVYtQVp2YXR2U0",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODZSRjQ5SnVxVmRLSEoxVXh1RWl6WmUtR0dPdWdzQS1xbFkxZGttMVhvd3dGUDZBMlRJTE5YdFFNc3ZPaUh2TWZNdURjSlBSdXl1bG1vV1hyWl84MXhEZFZTUHBSR0thWTBoT2Fua1BpVXA1U2M4c2o4YTBFNjVtWTdlWmlQZ0c5dUtBTFVLLWw0ZjlBMHpLUWl2X1haNmtoUVYtQVp2YXR2U0JMQkJVVUxvY1o2RWhSRjk0?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,31 +178,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 15:19:27 GMT",
-          "source": "Travelweek"
-        }
-      ]
-    },
-    {
-      "id": "d1b410469d77",
-      "title": "Canadian crime tourism - why it matters to you. - Yahoo News Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTk90cnlQeHpnMUFRWXhXYnVFa1VNaFRLbkFxT3UwQmxidnhZQUFXeGRBcmFvUHJPMVhVZ1p2ZHUyR0JIci1VeDJLVTVDZ25GazZlaWNHTDVabHRzd2trdkUxMFFMQmttWXI0UW50Rm11dWdteWMyckVOTnE5aGZoTQ?oc=5\" target=\"_blank\">Canadian crime tourism - why it m",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTk90cnlQeHpnMUFRWXhXYnVFa1VNaFRLbkFxT3UwQmxidnhZQUFXeGRBcmFvUHJPMVhVZ1p2ZHUyR0JIci1VeDJLVTVDZ25GazZlaWNHTDVabHRzd2trdkUxMFFMQmttWXI0UW50Rm11dWdteWMyckVOTnE5aGZoTQ?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 19:10:59 GMT",
-          "source": "Yahoo News Canada"
+          "published": "Sat, 10 Oct 2026 00:22:56 GMT",
+          "source": "NTV News"
         }
       ]
     },
@@ -211,14 +191,14 @@
       "title": "Canada issues urgent travel advisory updates for the U.S. and Mexico - Daily Hive",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9PQnpVWTFfand4T1VndV9sSGkybnh2cmNjVU8xOEh5MFF1SG13U3owWUhzUGZ0cVlWSFFtSEowZzR0UzFFSUFnSkdERGRVRVh5VG4wV0g1bi04d2dvUHhkT1NXUU5lTE5YWVlWajItYw?oc=5\" target=\"_blank\">Canada issues urgent travel advisory updates for the U.S.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PQnpVWTFfand4T1VndV9sSGkybnh2cmNjVU8xOEh5MFF1SG13U3owWUhzUGZ0cVlWSFFtSEowZzR0UzFFSUFnSkdERGRVRVh5VG4wV0g1bi04d2dvUHhkT1NXUU5lTE5YWVlWajItYw?oc=5",
-      "score": 54.0,
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 19:48:00 GMT",
@@ -227,10 +207,30 @@
       ]
     },
     {
-      "id": "c27ceb5e2d04",
-      "title": "Long weekend travel rush hits BC Ferries - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNnVxMFpqMmJoYzlfbkp3YmNxbk9vWC1GRms4ZkJySGVDV2NsRy1NZVRiVzE3RmVDXzRnTHh6MlRwX2ZtbE5IdnR1ZXQ3QWliUVJJZkFob18zd0N5cjc2SXdGdElzN2gxSmh1cGxnc0JSMm96U0RtMDlYMHNiX3NlYVZaeVdjdEplaU5NSmpGZ0lCQXdKeGc?oc=5\" target=\"_blank\">Long",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNnVxMFpqMmJoYzlfbkp3YmNxbk9vWC1GRms4ZkJySGVDV2NsRy1NZVRiVzE3RmVDXzRnTHh6MlRwX2ZtbE5IdnR1ZXQ3QWliUVJJZkFob18zd0N5cjc2SXdGdElzN2gxSmh1cGxnc0JSMm96U0RtMDlYMHNiX3NlYVZaeVdjdEplaU5NSmpGZ0lCQXdKeGc?oc=5",
+      "id": "2d15c86b05db",
+      "title": "Talma enters Canadian market with Plus Travel Group acquisition - PAX News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSm00NDd1R29oZlRTQjJtZzc3OFh3aUtwcS1QcTMtWlVqczVyWXFUeVdhM2JNWFZLZHo3djFLYTJGVGtIZW9WeHlCbHdQanNXbVRYcmxnTnVpWnFzQlYtaTZselY2MEpLdnQzX2ZvbFlGSjZPYjh6NHpUN2NPcnZHdFY1TWpLcFRYZlFJVXNZdnozN3M4UTNjQQ?oc=5\" target=\"_blank\">T",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSm00NDd1R29oZlRTQjJtZzc3OFh3aUtwcS1QcTMtWlVqczVyWXFUeVdhM2JNWFZLZHo3djFLYTJGVGtIZW9WeHlCbHdQanNXbVRYcmxnTnVpWnFzQlYtaTZselY2MEpLdnQzX2ZvbFlGSjZPYjh6NHpUN2NPcnZHdFY1TWpLcFRYZlFJVXNZdnozN3M4UTNjQQ?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-10T05:42:22+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 18:03:05 GMT",
+          "source": "PAX News"
+        }
+      ]
+    },
+    {
+      "id": "c0c4dcb26e71",
+      "title": "Kenya: Travel Health Insurance Requirement Implemented - Fragomen",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQemxzeTdtWDRWaWVfcjdrd05HcmlPTU1hNzVrWkNyM3l2WC1nVGFpeFJabWd3blhKcmNuVFVMcGhENzc5S0xIRW9yNDMtcF81a0xGR3RrVnhhMkVRRFNMX0RMdXBWQTU1MlBUZ05nc3hoY3NzQmtZeXJleVBlVXV0eTZVenc5dkVvRHhvWFEzWEFFXzRaMWd3?oc=5\" target=\"_blank\">Ken",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemxzeTdtWDRWaWVfcjdrd05HcmlPTU1hNzVrWkNyM3l2WC1nVGFpeFJabWd3blhKcmNuVFVMcGhENzc5S0xIRW9yNDMtcF81a0xGR3RrVnhhMkVRRFNMX0RMdXBWQTU1MlBUZ05nc3hoY3NzQmtZeXJleVBlVXV0eTZVenc5dkVvRHhvWFEzWEFFXzRaMWd3?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 15:55:43 GMT",
-          "source": "CTV News"
+          "published": "Fri, 09 Oct 2026 13:36:26 GMT",
+          "source": "Fragomen"
         }
       ]
     },
     {
-      "id": "feba11c4d68f",
-      "title": "Most Actively Traded Canadian Stocks: Air Canada Shares Attract Attention as Travel Demand Shifts (TSX:AC) - kalkine.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2dkMEVkVHNNcHdONmxEMnFZQ1ZUSThaNExmbS1GTWowUXBKTzN0bXdPM1NXR0NFRnBmemNxS0E4MGtXbjJEZnFyb1F6cFlwWXl5TXROMGFGbG9La3hQQWVKbC1ObnZ0SW4xTzRGaDZ2UWtwYzR4WjI3dFJHaWc0Q1doM2lsU0tZQU1IbWRnRllPRzE1YVI0aTMwTlBtNG5CSWhUbF9JenBHND",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2dkMEVkVHNNcHdONmxEMnFZQ1ZUSThaNExmbS1GTWowUXBKTzN0bXdPM1NXR0NFRnBmemNxS0E4MGtXbjJEZnFyb1F6cFlwWXl5TXROMGFGbG9La3hQQWVKbC1ObnZ0SW4xTzRGaDZ2UWtwYzR4WjI3dFJHaWc0Q1doM2lsU0tZQU1IbWRnRllPRzE1YVI0aTMwTlBtNG5CSWhUbF9JenBHNDNIUHMxblVDTkFISTRVa1ZNRnN0ZFpUdVhQaE10QUNGWGExUQ?oc=5",
+      "id": "2e1cb0f98bdd",
+      "title": "What’s happening in Ottawa - Ottawa Tourism",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5\" target=\"_blank\">What’s happening in Ottawa</a>&nbsp;&nbsp;<font",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,11 +258,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 18:16:00 GMT",
-          "source": "kalkine.ca"
+          "published": "Wed, 07 Oct 2026 12:00:00 GMT",
+          "source": "Ottawa Tourism"
+        }
+      ]
+    },
+    {
+      "id": "80ceaeb297e7",
+      "title": "Canadians ‘worried’ about US travel as Trump’s policies make travelers feel unwelcome: Former premier - Anadolu Ajansı",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZUxCd0h4NUhzT1BXSGtCOGV6dmFyQTFOY3haVTFQTERUdVdIa2p1SXBBWHl1Z1RDaWVhamtKekxueXZLdlMwTHVBV1ZiaS1IeU56RGEyczVvYmtBb0RIdjY5MUloa2VsR3ZjRVRWakRpUnl6LXFLemk4WlRNTEF2M09JTnFIcFBldXI3RXBBT2x6b2VNWjczR0dyVml5WXBlbFlhUWRHRkNtd3",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZUxCd0h4NUhzT1BXSGtCOGV6dmFyQTFOY3haVTFQTERUdVdIa2p1SXBBWHl1Z1RDaWVhamtKekxueXZLdlMwTHVBV1ZiaS1IeU56RGEyczVvYmtBb0RIdjY5MUloa2VsR3ZjRVRWakRpUnl6LXFLemk4WlRNTEF2M09JTnFIcFBldXI3RXBBT2x6b2VNWjczR0dyVml5WXBlbFlhUWRHRkNtd3pfYjFlcXJYTFVMcXBoVmlZMENxTWJwRC1FYmM0MENIdWh0MXluNWtJYS1qcw?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-10T05:42:22+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 14:07:33 GMT",
+          "source": "Anadolu Ajansı"
         }
       ]
     },
@@ -271,14 +291,14 @@
       "title": "Travel trade VIPs experience the real taste of the Canary Islands - TravelPress",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPakdxUXdSc2p0enNnMnpWNlJlMkdIbENhcDJ1Slh3V0VLOTlrZDJWc1FzZXdudERrRHJLaFYweVJKcGpwMkltWndINjJJbVFDNVJXS2ZYQ2s2Rk9LcnJ5SVRRVlR6T0ZKSXRrWnZ4T3pfalhyVllMREx2V2w1aGNpdWpvME9vbFZzZWdaSkx5OW5WLU9qN3ZreXZR?oc=5\" target=\"_blank\"",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakdxUXdSc2p0enNnMnpWNlJlMkdIbENhcDJ1Slh3V0VLOTlrZDJWc1FzZXdudERrRHJLaFYweVJKcGpwMkltWndINjJJbVFDNVJXS2ZYQ2s2Rk9LcnJ5SVRRVlR6T0ZKSXRrWnZ4T3pfalhyVllMREx2V2w1aGNpdWpvME9vbFZzZWdaSkx5OW5WLU9qN3ZreXZR?oc=5",
-      "score": 43.2,
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 16:16:36 GMT",
@@ -291,17 +311,17 @@
       "title": "WTTC Celebrates Minister Sherif Fathy’s Leadership in Strengthening Egypt’s Tourism Future Through Public-Private Partnership - World Travel & Tourism Council",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZ2NpbmwtOGdtT281TjJBbHUxb05OaWJ5UVhoQXo4a3FtbkE5ck1OZWtScnF4VHJlVHZsS1JvWTMwWkREcXFYa2Voa2tEenY3SFF6TWVvVDVnTDVtb0E?oc=5\" target=\"_blank\">WTTC Celebrates Minister Sherif Fathy’s Leadership in Strengthening Egypt’s Tour",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZ2NpbmwtOGdtT281TjJBbHUxb05OaWJ5UVhoQXo4a3FtbkE5ck1OZWtScnF4VHJlVHZsS1JvWTMwWkREcXFYa2Voa2tEenY3SFF6TWVvVDVnTDVtb0E?oc=5",
-      "score": 39.6,
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 19:28:04 GMT",
+          "published": "Fri, 09 Oct 2026 20:51:34 GMT",
           "source": "World Travel & Tourism Council"
         }
       ]
@@ -311,14 +331,14 @@
       "title": "TRAVELSAVERS raises record $125,000 for Autism Speaks at Travel Market 2026 - PAX News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXJURXhvUm5tWVE5N0ptMlRVX01LR1RrV01EaDNFU2VWUHlpMW1VRkk5MlN0V1R1N1BuQklWc1BIREdHdU1uVzBHb2RMTm1IWUtkajRXZTJLVmI0M0tLS2xyTEpZQ291Wll2R3pDR1hLWFhFNU5QN3VVQjdkNUhtbm5JYVNYN0VyZHNsT3VGcXhVblI1Vzd4OXVNUDFscVFxSDVTSA?oc=5\" t",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXJURXhvUm5tWVE5N0ptMlRVX01LR1RrV01EaDNFU2VWUHlpMW1VRkk5MlN0V1R1N1BuQklWc1BIREdHdU1uVzBHb2RMTm1IWUtkajRXZTJLVmI0M0tLS2xyTEpZQ291Wll2R3pDR1hLWFhFNU5QN3VVQjdkNUhtbm5JYVNYN0VyZHNsT3VGcXhVblI1Vzd4OXVNUDFscVFxSDVTSA?oc=5",
-      "score": 36.0,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 17:08:26 GMT",
@@ -327,30 +347,10 @@
       ]
     },
     {
-      "id": "7c06aa4ba6e7",
-      "title": "Canada’s Plus Travel Group CEO on Selling to Talma: It’s Helmed by a Woman - Open Jaw",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTngxbW9FaW14T2hCbXU1MERNWmFLRGN0TVBWSHdqdi0xTU1tMW5ocklLbWNSV2Y0UGx3ME5iYk5OYlViVGJJbHBBYkhHTl82ZTg1UmlsaUg0bkRDTHJfS2pad096QzZ4b2JJUDh5U1dEaERDMGc0OEMzRmJxNE1GUHI0OGI1ZjBHU05NTG1KbU9LOXBJLVdMRDZ5VDhxMjlEY3drOVRRVzNIM3",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTngxbW9FaW14T2hCbXU1MERNWmFLRGN0TVBWSHdqdi0xTU1tMW5ocklLbWNSV2Y0UGx3ME5iYk5OYlViVGJJbHBBYkhHTl82ZTg1UmlsaUg0bkRDTHJfS2pad096QzZ4b2JJUDh5U1dEaERDMGc0OEMzRmJxNE1GUHI0OGI1ZjBHU05NTG1KbU9LOXBJLVdMRDZ5VDhxMjlEY3drOVRRVzNIM3QwRFVQSQ?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 13:34:59 GMT",
-          "source": "Open Jaw"
-        }
-      ]
-    },
-    {
-      "id": "58eb8ba837ea",
-      "title": "BC Ferries prepares for Thanksgiving travel rush - Yahoo News Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1NIUlp2MnVYUV9Hal93cWdpRV9JMEdoTmhISmVUUmU2M2pyYnFVVWw3UTdaaW5ZV1RwTVFGcHRuS3M5OHJMRW9YZU5EQ0RYblIyQnJ4bm9La1JlVXh3TzdFQmtkMG9IdjAzeW90bWpYdVQySXNlRjlxTDlhR2hRMlE4eDhRRFE?oc=5\" target=\"_blank\">BC Ferries prepares for ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1NIUlp2MnVYUV9Hal93cWdpRV9JMEdoTmhISmVUUmU2M2pyYnFVVWw3UTdaaW5ZV1RwTVFGcHRuS3M5OHJMRW9YZU5EQ0RYblIyQnJ4bm9La1JlVXh3TzdFQmtkMG9IdjAzeW90bWpYdVQySXNlRjlxTDlhR2hRMlE4eDhRRFE?oc=5",
+      "id": "7a145d6ab45b",
+      "title": "WTTC Global Summit Opens in Malta as European Travel & Tourism Set to Outpace Wider Economy - World Travel & Tourism Council",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB3UGFLczBBYjhraDZleXJJTGh5aTcxQzRZamZ1aDhaT2xNR2dfRFEyN2UtZHZRaXdoMXdEek1MQUVJR0JydVNZSE0zajRmbmF5TVVwWk0zTWZRVndGYXRMZ2MyMTRLY3J1T293SA?oc=5\" target=\"_blank\">WTTC Global Summit Opens in Malta as European Travel & Touris",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3UGFLczBBYjhraDZleXJJTGh5aTcxQzRZamZ1aDhaT2xNR2dfRFEyN2UtZHZRaXdoMXdEek1MQUVJR0JydVNZSE0zajRmbmF5TVVwWk0zTWZRVndGYXRMZ2MyMTRLY3J1T293SA?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 18:09:33 GMT",
-          "source": "Yahoo News Canada"
+          "published": "Wed, 07 Oct 2026 10:22:22 GMT",
+          "source": "World Travel & Tourism Council"
         }
       ]
     },
     {
-      "id": "72597ab5b089",
-      "title": "Talma Travel Solutions acquires Plus Travel Group in Canada - TravelPress",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXM2WW5RQnR2eXBfZnB1X1lsVGpjUElNTVoybHJlYU1Ed2ZFNDhhblhkUm0xcFYwcHlnOG9jZ3Y4MzdrRzFDdmE5Yi1pY0FvZmgxYzhYbU5OTTZ1VnRDVXltbF92RUpEeWZOV1JSRVcwUU5nal9oNjZvZktPdGhlS0pKZ2ZUaFp6ekx2ZkYtMmNUUQ?oc=5\" target=\"_blank\">Talma Tra",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXM2WW5RQnR2eXBfZnB1X1lsVGpjUElNTVoybHJlYU1Ed2ZFNDhhblhkUm0xcFYwcHlnOG9jZ3Y4MzdrRzFDdmE5Yi1pY0FvZmgxYzhYbU5OTTZ1VnRDVXltbF92RUpEeWZOV1JSRVcwUU5nal9oNjZvZktPdGhlS0pKZ2ZUaFp6ekx2ZkYtMmNUUQ?oc=5",
+      "id": "8af358070f4a",
+      "title": "More reasons to go, more ways to get there: Go Türkiye - Travelweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1lrQWhyd2pHX2gwaE9NLV82QWdLaEE2WlZNcFltcjZKY1FoMjlqRFF3TEFhem1jeGJrSWRSN0M1R2RPQmxMVWdPOWplZE9vS2F4bWFFcmEyNFcxQlNIVkRkWEFSWTFzQU9DdXBPTzcxVTFZdTZNN2Npay1sT010VEh3ZUpCX094TzFPZTJDNTNERkcyNkRKcVVwaWY?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1lrQWhyd2pHX2gwaE9NLV82QWdLaEE2WlZNcFltcjZKY1FoMjlqRFF3TEFhem1jeGJrSWRSN0M1R2RPQmxMVWdPOWplZE9vS2F4bWFFcmEyNFcxQlNIVkRkWEFSWTFzQU9DdXBPTzcxVTFZdTZNN2Npay1sT010VEh3ZUpCX094TzFPZTJDNTNERkcyNkRKcVVwaWY?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 10:27:26 GMT",
-          "source": "TravelPress"
+          "published": "Fri, 09 Oct 2026 15:19:27 GMT",
+          "source": "Travelweek"
         }
       ]
     },
     {
-      "id": "6e9f7403b512",
-      "title": "Six Unique Destinations. Which is Calling You, Canadians? - Open Jaw",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPeUpSM3RUXzZTdXhpZ1RScHAwbGN6SkktTFowbktydm1nRS10WHQ1SG05eE9idWpSLU9XU2F1eGJTY3BlY0xRYzRUVHB6dVo1RVlDRlJrZUROb3R4dHRJNl81Z0ZWai1qTV9UVzk2MzZxU0d2ZDlzSzgtbFJtSk9XR01KeDd6cHFYckw1SFdYaGpscmo1SXVySzBGRUxud1JvNlY5LQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeUpSM3RUXzZTdXhpZ1RScHAwbGN6SkktTFowbktydm1nRS10WHQ1SG05eE9idWpSLU9XU2F1eGJTY3BlY0xRYzRUVHB6dVo1RVlDRlJrZUROb3R4dHRJNl81Z0ZWai1qTV9UVzk2MzZxU0d2ZDlzSzgtbFJtSk9XR01KeDd6cHFYckw1SFdYaGpscmo1SXVySzBGRUxud1JvNlY5LQ?oc=5",
+      "id": "1809168d0989",
+      "title": "A Black Girl's Guide To Travel: Inside A Luxury Wellness Retreat In London And Ibiza, With Cryotherapy, Herbalist Sessions And, Yes, Hedgehogs - Essence",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1lVnNXTDFJLUljR2lpUF9wd256SmNJTUZVSV9ia3JDTk5jQklBVklYVUpvUkdmWXpUa1p3UjBlZk9UQVczRW5KQk5JVnpMLVYzWFB2UzBfcXJ0S05uQ29DV2tjdTlYaFRGaWFZQWZUMzc1WTcyWDRZ?oc=5\" target=\"_blank\">A Black Girl's Guide To Travel: Inside A Luxury",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lVnNXTDFJLUljR2lpUF9wd256SmNJTUZVSV9ia3JDTk5jQklBVklYVUpvUkdmWXpUa1p3UjBlZk9UQVczRW5KQk5JVnpMLVYzWFB2UzBfcXJ0S05uQ29DV2tjdTlYaFRGaWFZQWZUMzc1WTcyWDRZ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-09T22:36:35+00:00",
+      "first_seen": "2026-10-10T05:42:22+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 11:25:29 GMT",
-          "source": "Open Jaw"
+          "published": "Fri, 09 Oct 2026 18:04:30 GMT",
+          "source": "Essence"
         }
       ]
     }

@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "AU",
-  "generated_at": "2026-10-09T22:45:35+00:00",
+  "generated_at": "2026-10-10T05:51:11+00:00",
   "cache_ttl_hours": 6,
-  "count": 24,
+  "count": 20,
   "trends": [
     {
       "id": "988bb915a459",
@@ -18,10 +18,130 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 20:50:05 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "22d2cc51cbc7",
+      "title": "Major share market float in trouble as interest in Firmus wanes - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSWVWczdxVTJpYXF0alc5bXI1TDVlWndYVjFYNE5kSWxqUnROc3kzWEdJNzZvMTExVUpBMWxSUmswTUJudS16eXg1c0lsV052TFdwd1BGT0plWjQtZDNaNFNFWEtZNGh3WUVSSDY2VFZxOFJWQ1RUT2hqT0ZTREFOaG5UaEZsQlozSHlfenU5R1U5WnpXOGtHRGFqdGJRZw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWVWczdxVTJpYXF0alc5bXI1TDVlWndYVjFYNE5kSWxqUnROc3kzWEdJNzZvMTExVUpBMWxSUmswTUJudS16eXg1c0lsV052TFdwd1BGT0plWjQtZDNaNFNFWEtZNGh3WUVSSDY2VFZxOFJWQ1RUT2hqT0ZTREFOaG5UaEZsQlozSHlfenU5R1U5WnpXOGtHRGFqdGJRZw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-10-10T05:42:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 08 Oct 2026 02:35:03 GMT",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ]
+    },
+    {
+      "id": "da33c69566d2",
+      "title": "European Stocks: Brace for a Turbulent Earnings Season - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTNmNm5GRDVKemZQcWtYdEhOa0lQQmdZc2lNeGU4WTZyQ3hCYlNWWFdmdy10TmpMeXg5RXVGSmtfX1FvSF95cHFfemNhTkZ0ZUd5LWFYa2hHSDVTblR5a3dDUWlOMmZoaWw3TmpYSXFJNHFrR2M3T0cwaWpwSTBjNmp6ZlhXeV9jclllUWtkQzN6eWtuTGxv?oc=5\" target=\"_blank\">Eur",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTNmNm5GRDVKemZQcWtYdEhOa0lQQmdZc2lNeGU4WTZyQ3hCYlNWWFdmdy10TmpMeXg5RXVGSmtfX1FvSF95cHFfemNhTkZ0ZUd5LWFYa2hHSDVTblR5a3dDUWlOMmZoaWw3TmpYSXFJNHFrR2M3T0cwaWpwSTBjNmp6ZlhXeV9jclllUWtkQzN6eWtuTGxv?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-10-10T05:42:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 10 Oct 2026 05:06:40 GMT",
+          "source": "Morningstar"
+        }
+      ]
+    },
+    {
+      "id": "b8aca60f98ac",
+      "title": "If a Stock Market Crash Is Coming, Billionaire Investor Bill Ackman Says You Should Do This 1 Thing Right Now - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1VRNTdRZzhqOWVsdmZKcUNfdUFnQXV4WVVwaGRVTmF6S2NsRXpScDJTV25qM3Z2cEVCSXhCdUFPaFh3c24tZnBXdjBnZDNubkZZQWpiYzFZM2ZKV2QyZWVJa0xrQzM0UXNnaWs0VExBRmRyS2lpVHVZaVd0dzNraDdFXzJjdHRGRzN6YWVBeVJFalRmdWFMTQ?oc=5\" target=\"_blank\">I",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1VRNTdRZzhqOWVsdmZKcUNfdUFnQXV4WVVwaGRVTmF6S2NsRXpScDJTV25qM3Z2cEVCSXhCdUFPaFh3c24tZnBXdjBnZDNubkZZQWpiYzFZM2ZKV2QyZWVJa0xrQzM0UXNnaWs0VExBRmRyS2lpVHVZaVd0dzNraDdFXzJjdHRGRzN6YWVBeVJFalRmdWFMTQ?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-10-10T05:42:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 21:45:00 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "950edef284e2",
+      "title": "Ray Dalio Warns Against Timing the Market. Steady Investing Could Turn $1,000 a Month Into $712,000 - 24/7 Wall St.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjFWdGtKT1EwcGhPeFNqLW52cVJuRXpnenBKVG5sRTQ2Sm9GS1BzYy1EcDRfZVc5M0c4VDYwbUFhaFQxb1FueVZQSDcxeS1kNUhIT054Y0pPSnI4VzhpUjNxRnRoRHJhdFU5TFhzMEVaTEdTbUlOQ21qeFhxQk50T3lVTzZlV2FiemhFdTZFWE9IRDRWREtCQ2NDcXdpcnpFM2pCNEthUjZlbG",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjFWdGtKT1EwcGhPeFNqLW52cVJuRXpnenBKVG5sRTQ2Sm9GS1BzYy1EcDRfZVc5M0c4VDYwbUFhaFQxb1FueVZQSDcxeS1kNUhIT054Y0pPSnI4VzhpUjNxRnRoRHJhdFU5TFhzMEVaTEdTbUlOQ21qeFhxQk50T3lVTzZlV2FiemhFdTZFWE9IRDRWREtCQ2NDcXdpcnpFM2pCNEthUjZlbGtwemZmSlFhNWd5eU1XRmRsWVktb3AzZVhXX0QtZXFzMmtIVmo5V0pLd0FqUnNQejFncWc?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-10-10T05:42:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 11:45:00 GMT",
+          "source": "24/7 Wall St."
+        }
+      ]
+    },
+    {
+      "id": "edc0a87b82a1",
+      "title": "The investor trap that nearly crashed an entire market - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-10-10T05:42:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+          "source": "Morningstar Australia"
+        }
+      ]
+    },
+    {
+      "id": "72d285e86770",
+      "title": "Visa (V) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBmdDF1UjNCREpXbDR2MzF1UUxGTVRVNDhQbm1lTW40OEhLbUlSaUhPdWVJVE5vNGRBZGRPSHMyRkZiMHhEZVpsdjlwMUVveTA0QUNzMW5ORjBGa0RrVEpoNThzU1ROcEgtVXJaNEtqekZFZndCaEFhd1YtcFJ3YnM?oc=5\" target=\"_blank\">Visa (V) Beats Stock Market Upswing:",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmdDF1UjNCREpXbDR2MzF1UUxGTVRVNDhQbm1lTW40OEhLbUlSaUhPdWVJVE5vNGRBZGRPSHMyRkZiMHhEZVpsdjlwMUVveTA0QUNzMW5ORjBGa0RrVEpoNThzU1ROcEgtVXJaNEtqekZFZndCaEFhd1YtcFJ3YnM?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-10-10T05:42:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 09 Oct 2026 20:45:07 GMT",
           "source": "Yahoo Finance UK"
         }
       ]
@@ -31,58 +151,18 @@
       "title": "Why Legendary Investor Peter Lynch Ignored Stock Market Crash Predictions, and Why You Should Too - The Motley Fool",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0VNbVZQZ2pGb0YyYm8zcTFfbk9tQ2dVZmdyTllMUlRkZVBwcTdLTUdONV92VV82NDJacVVocUVfZmk5enJTU3lfSGZsTzhzT213a2JqTnZVM1B1MjVOdmQzcnhXUVRHVnlNTFNvWjRjaU9QSGxLTTBBMklLMXEyOGJIdVV0U2M3aXhMTVNTel9XaDJTdUE?oc=5\" target=\"_blank\">Why ",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0VNbVZQZ2pGb0YyYm8zcTFfbk9tQ2dVZmdyTllMUlRkZVBwcTdLTUdONV92VV82NDJacVVocUVfZmk5enJTU3lfSGZsTzhzT213a2JqTnZVM1B1MjVOdmQzcnhXUVRHVnlNTFNvWjRjaU9QSGxLTTBBMklLMXEyOGJIdVV0U2M3aXhMTVNTel9XaDJTdUE?oc=5",
-      "score": 86.4,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 20:43:07 GMT",
+          "published": "Fri, 09 Oct 2026 21:30:00 GMT",
           "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "22d2cc51cbc7",
-      "title": "Major share market float in trouble as interest in Firmus wanes - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSWVWczdxVTJpYXF0alc5bXI1TDVlWndYVjFYNE5kSWxqUnROc3kzWEdJNzZvMTExVUpBMWxSUmswTUJudS16eXg1c0lsV052TFdwd1BGT0plWjQtZDNaNFNFWEtZNGh3WUVSSDY2VFZxOFJWQ1RUT2hqT0ZTREFOaG5UaEZsQlozSHlfenU5R1U5WnpXOGtHRGFqdGJRZw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWVWczdxVTJpYXF0alc5bXI1TDVlWndYVjFYNE5kSWxqUnROc3kzWEdJNzZvMTExVUpBMWxSUmswTUJudS16eXg1c0lsV052TFdwd1BGT0plWjQtZDNaNFNFWEtZNGh3WUVSSDY2VFZxOFJWQ1RUT2hqT0ZTREFOaG5UaEZsQlozSHlfenU5R1U5WnpXOGtHRGFqdGJRZw?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 08 Oct 2026 02:35:03 GMT",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        }
-      ]
-    },
-    {
-      "id": "950edef284e2",
-      "title": "Ray Dalio Warns Against Timing the Market. Steady Investing Could Turn $1,000 a Month Into $712,000 - 24/7 Wall St.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjFWdGtKT1EwcGhPeFNqLW52cVJuRXpnenBKVG5sRTQ2Sm9GS1BzYy1EcDRfZVc5M0c4VDYwbUFhaFQxb1FueVZQSDcxeS1kNUhIT054Y0pPSnI4VzhpUjNxRnRoRHJhdFU5TFhzMEVaTEdTbUlOQ21qeFhxQk50T3lVTzZlV2FiemhFdTZFWE9IRDRWREtCQ2NDcXdpcnpFM2pCNEthUjZlbG",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjFWdGtKT1EwcGhPeFNqLW52cVJuRXpnenBKVG5sRTQ2Sm9GS1BzYy1EcDRfZVc5M0c4VDYwbUFhaFQxb1FueVZQSDcxeS1kNUhIT054Y0pPSnI4VzhpUjNxRnRoRHJhdFU5TFhzMEVaTEdTbUlOQ21qeFhxQk50T3lVTzZlV2FiemhFdTZFWE9IRDRWREtCQ2NDcXdpcnpFM2pCNEthUjZlbGtwemZmSlFhNWd5eU1XRmRsWVktb3AzZVhXX0QtZXFzMmtIVmo5V0pLd0FqUnNQejFncWc?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 11:45:00 GMT",
-          "source": "24/7 Wall St."
         }
       ]
     },
@@ -91,14 +171,14 @@
       "title": "Q4 2026 Stock Market Outlook: Individual Stock Selection Looks Increasingly Important - Morningstar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWlZdDVaR203U3VJdFl4bFI2UEtURlJtdHBSLXhJcHBkVmNDWUM2ODFsUVp3Und1dVdJdGlQdnNpbHdMZUhMSl9odXVZZGpRWEtVb1ZHaGJEbGowczBIZHdxTXpHS0F3bXZiWGYwRW9UVHNvZjVnVDhaZHZRQnU0bFJEQklvb1ZlNWgzdVdnZHkyR0FSVFJvUVVoUk9ENGlqUWNoUlVSZHl5Ml",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWlZdDVaR203U3VJdFl4bFI2UEtURlJtdHBSLXhJcHBkVmNDWUM2ODFsUVp3Und1dVdJdGlQdnNpbHdMZUhMSl9odXVZZGpRWEtVb1ZHaGJEbGowczBIZHdxTXpHS0F3bXZiWGYwRW9UVHNvZjVnVDhaZHZRQnU0bFJEQklvb1ZlNWgzdVdnZHkyR0FSVFJvUVVoUk9ENGlqUWNoUlVSZHl5MlUyVEo4MFROM1BQT3JfVzJpMQ?oc=5",
-      "score": 75.6,
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 20:52:11 GMT",
@@ -107,159 +187,10 @@
       ]
     },
     {
-      "id": "72d285e86770",
-      "title": "Visa (V) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBmdDF1UjNCREpXbDR2MzF1UUxGTVRVNDhQbm1lTW40OEhLbUlSaUhPdWVJVE5vNGRBZGRPSHMyRkZiMHhEZVpsdjlwMUVveTA0QUNzMW5ORjBGa0RrVEpoNThzU1ROcEgtVXJaNEtqekZFZndCaEFhd1YtcFJ3YnM?oc=5\" target=\"_blank\">Visa (V) Beats Stock Market Upswing:",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmdDF1UjNCREpXbDR2MzF1UUxGTVRVNDhQbm1lTW40OEhLbUlSaUhPdWVJVE5vNGRBZGRPSHMyRkZiMHhEZVpsdjlwMUVveTA0QUNzMW5ORjBGa0RrVEpoNThzU1ROcEgtVXJaNEtqekZFZndCaEFhd1YtcFJ3YnM?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 20:45:07 GMT",
-          "source": "Yahoo Finance UK"
-        }
-      ]
-    },
-    {
-      "id": "b1f06bb10277",
-      "title": "Stock Market Aims For Leadership Following September's Mixed Bag - Investor's Business Daily",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmprVEFlUGhYbDVEX0pyUE5tWjBRLWdEWjVUVTBwOFBVQk9ZYWRjY2IwVENDN19kTWxsV1psck5EVkctQllOSlJHaDd3UjJVWF8wdDJTd2I0QVJ2VVFQOVoyUEg4SlotdExJVWhwQmFjWm9vS3hFU3Brdkp2TTd0QWZHeGRWcExPU0tmVlg3VVRtZ01UQndkcl9n?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmprVEFlUGhYbDVEX0pyUE5tWjBRLWdEWjVUVTBwOFBVQk9ZYWRjY2IwVENDN19kTWxsV1psck5EVkctQllOSlJHaDd3UjJVWF8wdDJTd2I0QVJ2VVFQOVoyUEg4SlotdExJVWhwQmFjWm9vS3hFU3Brdkp2TTd0QWZHeGRWcExPU0tmVlg3VVRtZ01UQndkcl9n?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 11:00:00 GMT",
-          "source": "Investor's Business Daily"
-        }
-      ]
-    },
-    {
-      "id": "b8aca60f98ac",
-      "title": "If a Stock Market Crash Is Coming, Billionaire Investor Bill Ackman Says You Should Do This 1 Thing Right Now - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1VRNTdRZzhqOWVsdmZKcUNfdUFnQXV4WVVwaGRVTmF6S2NsRXpScDJTV25qM3Z2cEVCSXhCdUFPaFh3c24tZnBXdjBnZDNubkZZQWpiYzFZM2ZKV2QyZWVJa0xrQzM0UXNnaWs0VExBRmRyS2lpVHVZaVd0dzNraDdFXzJjdHRGRzN6YWVBeVJFalRmdWFMTQ?oc=5\" target=\"_blank\">I",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1VRNTdRZzhqOWVsdmZKcUNfdUFnQXV4WVVwaGRVTmF6S2NsRXpScDJTV25qM3Z2cEVCSXhCdUFPaFh3c24tZnBXdjBnZDNubkZZQWpiYzFZM2ZKV2QyZWVJa0xrQzM0UXNnaWs0VExBRmRyS2lpVHVZaVd0dzNraDdFXzJjdHRGRzN6YWVBeVJFalRmdWFMTQ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 20:50:20 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "3fa762050c9f",
-      "title": "It’s Official: Americans Are Running Out Of Money",
-      "summary": "Download the FREE Upside App here https://yt.link/8xSk8ez and use code Graham25 to get an extra 25 cents back per gallon on your first tank of gas! Thank you Upside for sponsoring this video! Let's talk about why Americans are running out of money, the dangers to the economy, and",
-      "url": "https://www.youtube.com/watch?v=QME9W1RdkGU",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-09T22:38:45+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "QME9W1RdkGU",
-          "published": "2026-10-07T20:00:07+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "c4569f9839aa",
-      "title": "How BAD Are Stock Valuations Really?",
-      "summary": "Most everyone seems to believe that AI is in a bubble, and the S&amp;P 500 is overvalued...but are they really? Today, we dive into what some popular gauges are actually telling us.\n\nDISCLAIMER:\nThis channel is for education purposes only and does not constitute financial advice ",
-      "url": "https://www.youtube.com/watch?v=0ZCVKL_PDsg",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-09T22:38:46+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
-          "channel_title": "The Plain Bagel",
-          "video_id": "0ZCVKL_PDsg",
-          "published": "2026-10-09T16:25:33+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "3a97560603e9",
-      "title": "Peter Lynch Beat the Market for 13 Years, Then Said Most Investors Should Just Buy an Index Fund - 24/7 Wall St.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT1ZZMDd2d0stUG9xUGo3QWZkVVFaTG5PajBPd2ZsNVNHNE5UQnhsS0JwbERLOUtib09XTExZSWoyRkV6Tjd4Nl85Q1pnTlJCLWVmVzQ4Yk5YcUdud2pONWlBVkJ3M3JVRWpBMGZ6alh6dlZqbG1RLVJ0a0YtZXc2M0hpVW5FQldmeW41OTNubWotdVU0VDU4U0UyQWRCandZLW8zNTBObkFLYm",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT1ZZMDd2d0stUG9xUGo3QWZkVVFaTG5PajBPd2ZsNVNHNE5UQnhsS0JwbERLOUtib09XTExZSWoyRkV6Tjd4Nl85Q1pnTlJCLWVmVzQ4Yk5YcUdud2pONWlBVkJ3M3JVRWpBMGZ6alh6dlZqbG1RLVJ0a0YtZXc2M0hpVW5FQldmeW41OTNubWotdVU0VDU4U0UyQWRCandZLW8zNTBObkFLYmNiTC04aXVOaFotY2lpMW5NZ2RXWEViZ05DblB0S2tsdDdKUGx1NF9zell4dmtmdkNfZnM4?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 12:15:00 GMT",
-          "source": "24/7 Wall St."
-        }
-      ]
-    },
-    {
-      "id": "60e5066863a9",
-      "title": "2 Truths And 1 Lie With Dr. Mike",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/L89I1ISPKoY",
-      "score": 59.29,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-09T22:38:45+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "L89I1ISPKoY",
-          "published": "2026-09-29T17:30:29+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "178c3c2b84ff",
-      "title": "5 Things to Know Before the Stock Market Opens on Friday - Investopedia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkR6bDFvX21mc0FWSlp5NURZSzVTV2h5OWU5RUJIMUJDZk9HRy1YQVB0cFZhbzBZWVFDRHM1WHNuUm1ZZ0h5REZUSDNDUl9VRmx0bHpkNl94OWFydER3bW9DRmYwdWkyMVhlb05FNi1keUprV1dzMUxHcmlxMTlDRXBNRWptaVdnSnhyRGo1czFZbUVGSDV1V3J0NXVxYXAzVGMyc1RySmNTck",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkR6bDFvX21mc0FWSlp5NURZSzVTV2h5OWU5RUJIMUJDZk9HRy1YQVB0cFZhbzBZWVFDRHM1WHNuUm1ZZ0h5REZUSDNDUl9VRmx0bHpkNl94OWFydER3bW9DRmYwdWkyMVhlb05FNi1keUprV1dzMUxHcmlxMTlDRXBNRWptaVdnSnhyRGo1czFZbUVGSDV1V3J0NXVxYXAzVGMyc1RySmNTck5iT2c?oc=5",
+      "id": "860f65d09c28",
+      "title": "Unconventional wisdom: The AI parlay bet that could trigger the next bear market - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmNMRTJkRGNKRnA2cTBDY09ybjVhRmV6czZXcFpNeGRVOGNvR0tFRkQ2R0pRM0JJaXNyY3VaOGtjUUZoVWtLOWMxVk5iek9HUnZ5RzlfUF9tTmY0ZGFwenF5OGQyOEpBRUduY2VPdjQwd1EzYkU2Y1VpWXBhbjhsV2YtN2lJUHIwSVp4a2VBMVZfYVpiTEo0RWxhLUxWcXdwSDZvV21xaUtKSE",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmNMRTJkRGNKRnA2cTBDY09ybjVhRmV6czZXcFpNeGRVOGNvR0tFRkQ2R0pRM0JJaXNyY3VaOGtjUUZoVWtLOWMxVk5iek9HUnZ5RzlfUF9tTmY0ZGFwenF5OGQyOEpBRUduY2VPdjQwd1EzYkU2Y1VpWXBhbjhsV2YtN2lJUHIwSVp4a2VBMVZfYVpiTEo0RWxhLUxWcXdwSDZvV21xaUtKSEF1dVZZT3NITW1CSy1rRzhZ?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -267,59 +198,33 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+          "source": "Morningstar Australia"
+        }
+      ]
+    },
+    {
+      "id": "178c3c2b84ff",
+      "title": "5 Things to Know Before the Stock Market Opens on Friday - Investopedia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkR6bDFvX21mc0FWSlp5NURZSzVTV2h5OWU5RUJIMUJDZk9HRy1YQVB0cFZhbzBZWVFDRHM1WHNuUm1ZZ0h5REZUSDNDUl9VRmx0bHpkNl94OWFydER3bW9DRmYwdWkyMVhlb05FNi1keUprV1dzMUxHcmlxMTlDRXBNRWptaVdnSnhyRGo1czFZbUVGSDV1V3J0NXVxYXAzVGMyc1RySmNTck",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkR6bDFvX21mc0FWSlp5NURZSzVTV2h5OWU5RUJIMUJDZk9HRy1YQVB0cFZhbzBZWVFDRHM1WHNuUm1ZZ0h5REZUSDNDUl9VRmx0bHpkNl94OWFydER3bW9DRmYwdWkyMVhlb05FNi1keUprV1dzMUxHcmlxMTlDRXBNRWptaVdnSnhyRGo1czFZbUVGSDV1V3J0NXVxYXAzVGMyc1RySmNTck5iT2c?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 12:01:16 GMT",
           "source": "Investopedia"
         }
       ]
-    },
-    {
-      "id": "e49e64974944",
-      "title": "The Housing Market Is Completely F*d",
-      "summary": "Download Rocket Money and get a trial of Premium+ today at: https://RocketMoney.com/Graham | Let's discuss the bond market collapse, rising interest rates, and how this is going to affect the housing market - Enjoy! Add me on Instagram: GPStephan\n\nSTART BUILDING WEALTH WITH MY FR",
-      "url": "https://www.youtube.com/watch?v=BWNOdHB8TKA",
-      "score": 56.98,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-09T22:38:45+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "BWNOdHB8TKA",
-          "published": "2026-09-28T16:00:04+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "6350a52520d6",
-      "title": "Alpha Male Exposes Why \"No One Cares\" 😂",
-      "summary": "Add me on Instagram: GPStephan\n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTART BUILDING WEALTH WITH MY FREE NEWSLETTER: https://grahamstephan.substack.com\n\nThe YouT",
-      "url": "https://www.youtube.com/shorts/8VPd4oDdYAM",
-      "score": 54.669999999999995,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-09T22:38:45+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "8VPd4oDdYAM",
-          "published": "2026-09-26T18:15:08+00:00"
-        }
-      ],
-      "is_global": true
     },
     {
       "id": "4446258c03fe",
@@ -333,11 +238,31 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 19:04:26 GMT",
+          "published": "Fri, 09 Oct 2026 20:00:00 GMT",
           "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "16dd35f1ffce",
+      "title": "Germany Leads European Stock Market Declines in September - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNN25TVWRtdXo1MnVIeWtSZ1FzYTdFV09IQVczbHdINXdqUHd4dVNyRTd4SERpOFJfekI2U3lJTE1hMXVyeDdYSmJRcnNuMlFyNXpUdS1zSXJZZXdqeVBhSE9sMXRvNTRELXFzMDUzd1pqMnJxWlNiOTQ4NXFNNV9hWDJUMjZkVzlXZ0ZMYk4zT1NKX0JzX2p3cXZZVkdVbUU?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN25TVWRtdXo1MnVIeWtSZ1FzYTdFV09IQVczbHdINXdqUHd4dVNyRTd4SERpOFJfekI2U3lJTE1hMXVyeDdYSmJRcnNuMlFyNXpUdS1zSXJZZXdqeVBhSE9sMXRvNTRELXFzMDUzd1pqMnJxWlNiOTQ4NXFNNV9hWDJUMjZkVzlXZ0ZMYk4zT1NKX0JzX2p3cXZZVkdVbUU?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-10-10T05:42:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 08 Oct 2026 06:01:13 GMT",
+          "source": "Morningstar"
         }
       ]
     },
@@ -346,14 +271,14 @@
       "title": "Worried about a stock market crash? This stock has historically outperformed - Yahoo Finance UK",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTBVVkxGaGU5R082NmhqZmQwd2daa3VLYjJXUWRTdlJuUGp2c3hocG5SR1A0Q1dMcDJYMmdYR3IxVEFEamtDWjRMb1lFY181NFlSR18zVkxOQWNMQ25EVDR4WnlIbHBvYWs3Z0hYVkVDT0hVWTVPY1dNSmNEbmtueS1yMFhHNUZL?oc=5\" target=\"_blank\">Worried about a stock m",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTBVVkxGaGU5R082NmhqZmQwd2daa3VLYjJXUWRTdlJuUGp2c3hocG5SR1A0Q1dMcDJYMmdYR3IxVEFEamtDWjRMb1lFY181NFlSR18zVkxOQWNMQ25EVDR4WnlIbHBvYWs3Z0hYVkVDT0hVWTVPY1dNSmNEbmtueS1yMFhHNUZL?oc=5",
-      "score": 46.8,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
           "published": "Tue, 06 Oct 2026 12:03:47 GMT",
@@ -362,21 +287,41 @@
       ]
     },
     {
-      "id": "0d80dc451b1a",
-      "title": "Stock Market Today, Oct. 9: AT&T Slides on SpaceX Spectrum Deal Threat - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXN2NnFYY1VfQlVMbEtjWnhiMUlyaHNxR0VpU3RzZ0FDb2k2QUxjWjFUMXh6MEZzTTdzX2oxZThnQXFOZ1F4XzNOOGZwTG1EM2t3SDRNQkRlcEpYYkZ1cFcwX01YUElYeF9yd3FxdXF2UDgxUXQ3NHpNNGc2Nm41MlRVc3RuTmJWa1d1UlJMaE9Jd1BLc1RIenVMdUpxSjJYMWVvemF6cV84c2",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXN2NnFYY1VfQlVMbEtjWnhiMUlyaHNxR0VpU3RzZ0FDb2k2QUxjWjFUMXh6MEZzTTdzX2oxZThnQXFOZ1F4XzNOOGZwTG1EM2t3SDRNQkRlcEpYYkZ1cFcwX01YUElYeF9yd3FxdXF2UDgxUXQ3NHpNNGc2Nm41MlRVc3RuTmJWa1d1UlJMaE9Jd1BLc1RIenVMdUpxSjJYMWVvemF6cV84c2xnR0Z4V3B2SDBnMFR4bGtSdjBLZFhlcnhzelRMdTF1dlI?oc=5",
-      "score": 43.2,
+      "id": "5c27a5ba69a0",
+      "title": "The investing mistake millions of investors still make - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5\" target=\"_blank\">The investing",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5",
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 21:26:00 GMT",
+          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "source": "Morningstar Australia"
+        }
+      ]
+    },
+    {
+      "id": "1f6a1de2a000",
+      "title": "10 Words From the Fed Chair That Could Reshape Market Expectations - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkpIWi1jUEZWZmZGVUF4YXg3YUMtc3Uyb01kclZDYXczVWh2LWdyLXZSU0RnWDVVVEh6UW9pSVRUVGxqemE2QkJjQXlpSTNtS2VwZWhqekVjaVktc2VqWUpib3VqQzF2VkhGaTFGLUJBdEhPMlZ1bkxyN3dCQkk0YU5YOHpJazY5aWRtSWFzd2ZKd2RPc0lDNA?oc=5\" target=\"_blank\">1",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkpIWi1jUEZWZmZGVUF4YXg3YUMtc3Uyb01kclZDYXczVWh2LWdyLXZSU0RnWDVVVEh6UW9pSVRUVGxqemE2QkJjQXlpSTNtS2VwZWhqekVjaVktc2VqWUpib3VqQzF2VkhGaTFGLUJBdEhPMlZ1bkxyN3dCQkk0YU5YOHpJazY5aWRtSWFzd2ZKd2RPc0lDNA?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-10-10T05:42:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 10 Oct 2026 02:21:08 GMT",
           "source": "The Motley Fool"
         }
       ]
@@ -386,14 +331,14 @@
       "title": "Will the stock market crash before 2027? - Yahoo Finance UK",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE05eVhCUjlncFFqclcyY3ZOb2tweHdCS3pWQ2NYbTdBTDVibXdRWUhkMUVseUxvbVhvVWplNDNld2NNZWRVTGRZdmdGaExmZU9xTkZwV00wb3ZxT3FiX2ZlREpGWFI3QzlaTE9IWERBa2N0SFNXVWRPWUpQNkU?oc=5\" target=\"_blank\">Will the stock market crash before 2027?",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05eVhCUjlncFFqclcyY3ZOb2tweHdCS3pWQ2NYbTdBTDVibXdRWUhkMUVseUxvbVhvVWplNDNld2NNZWRVTGRZdmdGaExmZU9xTkZwV00wb3ZxT3FiX2ZlREpGWFI3QzlaTE9IWERBa2N0SFNXVWRPWUpQNkU?oc=5",
-      "score": 39.6,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
           "published": "Tue, 06 Oct 2026 06:51:00 GMT",
@@ -402,26 +347,22 @@
       ]
     },
     {
-      "id": "16dd35f1ffce",
-      "title": "Germany Leads European Stock Market Declines in September - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNN25TVWRtdXo1MnVIeWtSZ1FzYTdFV09IQVczbHdINXdqUHd4dVNyRTd4SERpOFJfekI2U3lJTE1hMXVyeDdYSmJRcnNuMlFyNXpUdS1zSXJZZXdqeVBhSE9sMXRvNTRELXFzMDUzd1pqMnJxWlNiOTQ4NXFNNV9hWDJUMjZkVzlXZ0ZMYk4zT1NKX0JzX2p3cXZZVkdVbUU?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN25TVWRtdXo1MnVIeWtSZ1FzYTdFV09IQVczbHdINXdqUHd4dVNyRTd4SERpOFJfekI2U3lJTE1hMXVyeDdYSmJRcnNuMlFyNXpUdS1zSXJZZXdqeVBhSE9sMXRvNTRELXFzMDUzd1pqMnJxWlNiOTQ4NXFNNV9hWDJUMjZkVzlXZ0ZMYk4zT1NKX0JzX2p3cXZZVkdVbUU?oc=5",
-      "score": 37.8,
+      "id": "0d80dc451b1a",
+      "title": "Stock Market Today, Oct. 9: AT&T Slides on SpaceX Spectrum Deal Threat - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXN2NnFYY1VfQlVMbEtjWnhiMUlyaHNxR0VpU3RzZ0FDb2k2QUxjWjFUMXh6MEZzTTdzX2oxZThnQXFOZ1F4XzNOOGZwTG1EM2t3SDRNQkRlcEpYYkZ1cFcwX01YUElYeF9yd3FxdXF2UDgxUXQ3NHpNNGc2Nm41MlRVc3RuTmJWa1d1UlJMaE9Jd1BLc1RIenVMdUpxSjJYMWVvemF6cV84c2",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXN2NnFYY1VfQlVMbEtjWnhiMUlyaHNxR0VpU3RzZ0FDb2k2QUxjWjFUMXh6MEZzTTdzX2oxZThnQXFOZ1F4XzNOOGZwTG1EM2t3SDRNQkRlcEpYYkZ1cFcwX01YUElYeF9yd3FxdXF2UDgxUXQ3NHpNNGc2Nm41MlRVc3RuTmJWa1d1UlJMaE9Jd1BLc1RIenVMdUpxSjJYMWVvemF6cV84c2xnR0Z4V3B2SDBnMFR4bGtSdjBLZFhlcnhzelRMdTF1dlI?oc=5",
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 08 Oct 2026 06:01:13 GMT",
-          "source": "Morningstar"
-        },
-        {
-          "published": "Thu, 08 Oct 2026 06:17:50 GMT",
-          "source": "Morningstar"
+          "published": "Fri, 09 Oct 2026 22:20:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -430,17 +371,17 @@
       "title": "Stock Market Today, Oct. 9: PG&E Gains on Earnings Call Anticipation Before October 22 Update - The Motley Fool",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOG9pTjl4N1NrTVlGNUZmYTVsVG00Qml4cWNNNERidi1ESGdiN3RaTGcxMGRMcEVCMGphM2tMMmdlemxBYXczWHV6Zk9UbTFaRXZwR1N6UmROcUJrcHJUaWRna3hzTmRRWlhXelhQQy1vT2ctTWJMSy1KQVJGa3BTSGVnNExBOG54aXpFY0UtX2hyYUhxdDZtbzRjb194Sl9qeUpCMDFGUUplVm",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOG9pTjl4N1NrTVlGNUZmYTVsVG00Qml4cWNNNERidi1ESGdiN3RaTGcxMGRMcEVCMGphM2tMMmdlemxBYXczWHV6Zk9UbTFaRXZwR1N6UmROcUJrcHJUaWRna3hzTmRRWlhXelhQQy1vT2ctTWJMSy1KQVJGa3BTSGVnNExBOG54aXpFY0UtX2hyYUhxdDZtbzRjb194Sl9qeUpCMDFGUUplVmRLeTk1bHUxVWR6UHlKSWhtOWVUQmlFRkRkOHZXdm0xdXg2UEY0c1F2bHRRV1JfX0ZUTjZtd3NwRjc?oc=5",
-      "score": 36.0,
+      "score": 25.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 21:48:13 GMT",
+          "published": "Fri, 09 Oct 2026 22:12:00 GMT",
           "source": "The Motley Fool"
         }
       ]
@@ -450,58 +391,18 @@
       "title": "Stock Market News for Oct 5, 2026 - Yahoo Finance UK",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE40ZGlaa0sxUE1PbHdONW5aei1DVkI5Rk95dndTYjl1dkF0alI4emoydkJNRkNOTkFfWXREdWh6LTN2akZIMVRnSEJhbUNDa2NRQm03S1BhQnViVWNaejJaSDVoSlpKeTNsbUoxN2hYbzdKQ2lhYjNVbThXZm8?oc=5\" target=\"_blank\">Stock Market News for Oct 5, 2026</a>&nb",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40ZGlaa0sxUE1PbHdONW5aei1DVkI5Rk95dndTYjl1dkF0alI4emoydkJNRkNOTkFfWXREdWh6LTN2akZIMVRnSEJhbUNDa2NRQm03S1BhQnViVWNaejJaSDVoSlpKeTNsbUoxN2hYbzdKQ2lhYjNVbThXZm8?oc=5",
-      "score": 32.4,
+      "score": 21.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
+      "first_seen": "2026-10-10T05:42:12+00:00",
       "raw_samples": [
         {
           "published": "Mon, 05 Oct 2026 05:56:00 GMT",
           "source": "Yahoo Finance UK"
-        }
-      ]
-    },
-    {
-      "id": "1e3e78664b13",
-      "title": "Stock Market Midday, Oct. 9: Stocks Edge Higher, Humana jumps 13% - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjdqYjJHS1JMc3F0bWVDYURpaUszSnFKb0EzbDI2U3lyc0o1cGVUREJNZjJ3UmhtU2RrNDRYckI0ZENFdHl6cG9jcmxDYlROSENUSWo4SlZsaGtCYUl3QndiM041TUZLanpxblJBRmF6em1pOWZSemVWSHdEOWdVVjlPU2NGemlvMlhwdUhZZnR4Rl9fbTZiUExtdXNsY3VWc1lKam95MVoybE",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjdqYjJHS1JMc3F0bWVDYURpaUszSnFKb0EzbDI2U3lyc0o1cGVUREJNZjJ3UmhtU2RrNDRYckI0ZENFdHl6cG9jcmxDYlROSENUSWo4SlZsaGtCYUl3QndiM041TUZLanpxblJBRmF6em1pOWZSemVWSHdEOWdVVjlPU2NGemlvMlhwdUhZZnR4Rl9fbTZiUExtdXNsY3VWc1lKam95MVoybEJVVkNfTUN3bDRyYzhxTHp5Wk1n?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 16:46:35 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "a160d2dad886",
-      "title": "Massive News for Stock Market Investors - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1hCeUxYY1ZPeHRpWFBxTldWcnY0TnB0ZkhISzFlOTFDeFhjUkM4anZFRVliZTNnbUFnQjFuQ25iRGRKeVEyVlF6UTdFNHBOUEwwRnc1WGk0eXhwYUVQSDdNNDRVczJWY1hSNjlIN1JYSTRBT0F3VFRJTlNjOHJMWkFWNElVT3FxVXc?oc=5\" target=\"_blank\">Massive News for Sto",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1hCeUxYY1ZPeHRpWFBxTldWcnY0TnB0ZkhISzFlOTFDeFhjUkM4anZFRVliZTNnbUFnQjFuQ25iRGRKeVEyVlF6UTdFNHBOUEwwRnc1WGk0eXhwYUVQSDdNNDRVczJWY1hSNjlIN1JYSTRBT0F3VFRJTlNjOHJMWkFWNElVT3FxVXc?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-10-09T22:36:25+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 09 Oct 2026 00:07:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     }
