@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "CA",
-  "generated_at": "2026-10-12T15:22:16+00:00",
+  "generated_at": "2026-10-13T00:43:07+00:00",
   "cache_ttl_hours": 6,
-  "count": 21,
+  "count": 20,
   "trends": [
     {
-      "id": "253f8d5dd172",
-      "title": "Google Maps data reveals Montrealers’ favourite restaurants and food trends - CityNews Montreal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnk5T1JiZFVhYWJXRHhxR0lXWkh6YW9ZMGdzNjhEcmhoOHBPOS1DRno4bzNvUS1LMk5nS0I4a3dSNklLLXdmT2RHa2gxcFh2ekwxdVY3c2I2WF9feGE4YWNrenhEd0gyb19PcE9YUHFISnFyYmRCeDlwZ0RabHpud016SHAtUHRWeFV1ZmJBMmNCdlRRNUE?oc=5\" target=\"_blank\">Goog",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnk5T1JiZFVhYWJXRHhxR0lXWkh6YW9ZMGdzNjhEcmhoOHBPOS1DRno4bzNvUS1LMk5nS0I4a3dSNklLLXdmT2RHa2gxcFh2ekwxdVY3c2I2WF9feGE4YWNrenhEd0gyb19PcE9YUHFISnFyYmRCeDlwZ0RabHpud016SHAtUHRWeFV1ZmJBMmNCdlRRNUE?oc=5",
+      "id": "261f81fc5455",
+      "title": "5 Ways Fresh Produce Is the Engine Behind 2027 Food Trends - The Packer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxORzRJNk9NYjQ4N0FEY3BjenNUUWhHdGlLQWFCNlRMWU1Nd2VDTUFGc2Y0UDJVRHdPeE9PZGJKTFA3anQ4VzlidlhNUmhSNDhRQ3pDVjJ4WllXd25YeWVPb2hYeGFzanEtU0pVNjFzV0E1NkNTYlptSHIxUTR4dWsyWjlPVHVMUTdGY1VQTGNXeEM3S1U?oc=5\" target=\"_blank\">5 Ways F",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzRJNk9NYjQ4N0FEY3BjenNUUWhHdGlLQWFCNlRMWU1Nd2VDTUFGc2Y0UDJVRHdPeE9PZGJKTFA3anQ4VzlidlhNUmhSNDhRQ3pDVjJ4WllXd25YeWVPb2hYeGFzanEtU0pVNjFzV0E1NkNTYlptSHIxUTR4dWsyWjlPVHVMUTdGY1VQTGNXeEM3S1U?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 12 Oct 2026 19:20:00 GMT",
+          "source": "The Packer"
+        }
+      ]
+    },
+    {
+      "id": "253f8d5dd172",
+      "title": "Google Maps data reveals Montrealers’ favourite restaurants and food trends - CityNews Montreal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnk5T1JiZFVhYWJXRHhxR0lXWkh6YW9ZMGdzNjhEcmhoOHBPOS1DRno4bzNvUS1LMk5nS0I4a3dSNklLLXdmT2RHa2gxcFh2ekwxdVY3c2I2WF9feGE4YWNrenhEd0gyb19PcE9YUHFISnFyYmRCeDlwZ0RabHpud016SHAtUHRWeFV1ZmJBMmNCdlRRNUE?oc=5\" target=\"_blank\">Goog",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnk5T1JiZFVhYWJXRHhxR0lXWkh6YW9ZMGdzNjhEcmhoOHBPOS1DRno4bzNvUS1LMk5nS0I4a3dSNklLLXdmT2RHa2gxcFh2ekwxdVY3c2I2WF9feGE4YWNrenhEd0gyb19PcE9YUHFISnFyYmRCeDlwZ0RabHpud016SHAtUHRWeFV1ZmJBMmNCdlRRNUE?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 16:29:47 GMT",
@@ -31,14 +51,14 @@
       "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities - blog.google",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzRjcEFFeGZ2Wk9vRkZrRnZ6cThVZllHd1I5SnFKZmVKc3ZNRkQtUjloenNRLTRnc20xcmN6ckY2SU9jaFBNRm5GSjFhaDFYcU5lNHdYaVliNnd0Z1BtaV9wZ1BfOHBpenhxckZ1TGpPWVkyQ0xYX0VNekN3M05DS2xycUd2M3Y3VlBYLUtiQWFLcmpRcE9lYW13?oc=5\" target=\"_blank\"",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzRjcEFFeGZ2Wk9vRkZrRnZ6cThVZllHd1I5SnFKZmVKc3ZNRkQtUjloenNRLTRnc20xcmN6ckY2SU9jaFBNRm5GSjFhaDFYcU5lNHdYaVliNnd0Z1BtaV9wZ1BfOHBpenhxckZ1TGpPWVkyQ0xYX0VNekN3M05DS2xycUd2M3Y3VlBYLUtiQWFLcmpRcE9lYW13?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 12:07:27 GMT",
@@ -47,30 +67,10 @@
       ]
     },
     {
-      "id": "962f76856d47",
-      "title": "How street food trends are reshaping food packaging - Packaging Gateway",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNaC1laVpHeUFzbnNFVmV5bS1UVWUzRVU4YTJwV2NiU2ZXbUg0bG94TlQwekRNNkttOGFyeTVpNmI2SWRSNzkyMnBqOGY2blNHY2dSaDY1NFFUemthLTAyTWdTU1IwZzRHWVNOUFV5THZoMkt1c3VuVXVYTHpIRVZWNU9GQ0JEN214c1lCWjI5RTR3OVhhVklOX0xrOA?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaC1laVpHeUFzbnNFVmV5bS1UVWUzRVU4YTJwV2NiU2ZXbUg0bG94TlQwekRNNkttOGFyeTVpNmI2SWRSNzkyMnBqOGY2blNHY2dSaDY1NFFUemthLTAyTWdTU1IwZzRHWVNOUFV5THZoMkt1c3VuVXVYTHpIRVZWNU9GQ0JEN214c1lCWjI5RTR3OVhhVklOX0xrOA?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 02:20:56 GMT",
-          "source": "Packaging Gateway"
-        }
-      ]
-    },
-    {
-      "id": "ad69234e3223",
-      "title": "Datassential Identifies Food and Beverage Trends to Watch in 2027 - Prepared Foods",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXBHM2VvUldpdmxldHVVWGQyLVFNaHA2cERIaVZEUE9Gd0FQbllSYjVyOGJfaTl4Z0JWS2dzMkliZzllczRRbm9tdzlQMk1yd2RLcDYtRE1vbGVfWVVRczVQeGxaUjFDcy13ajNMWEpZQ25aUU5yaW45M2Z0Nk9kMFhZY3BVejc0RC1EMmVfSk9XVU5IZDhCb2FiSDhWd05IaHllekl3SGFndk",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXBHM2VvUldpdmxldHVVWGQyLVFNaHA2cERIaVZEUE9Gd0FQbllSYjVyOGJfaTl4Z0JWS2dzMkliZzllczRRbm9tdzlQMk1yd2RLcDYtRE1vbGVfWVVRczVQeGxaUjFDcy13ajNMWEpZQ25aUU5yaW45M2Z0Nk9kMFhZY3BVejc0RC1EMmVfSk9XVU5IZDhCb2FiSDhWd05IaHllekl3SGFndkFLNzAwQg?oc=5",
+      "id": "1357e65a8196",
+      "title": "Top 10 Food Trends 2027. Food and beverages are being reframed - Innova Market Insights",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcXlSX01mdWM1Uk5WdHRiZ0tzdlRRc1lmR19pUzRBWl93d1poSy1rUjhLQm5wYTRubnJkUjFaSUlBZ0hJdFZQVjBGRG1XSXhlU3ZQR3ItdjRxWmZ2UktxS2ZQb3RvRWd5MXM5ODFFbXV1Y2l5b0Nj?oc=5\" target=\"_blank\">Top 10 Food Trends 2027. Food and beverages are",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcXlSX01mdWM1Uk5WdHRiZ0tzdlRRc1lmR19pUzRBWl93d1poSy1rUjhLQm5wYTRubnJkUjFaSUlBZ0hJdFZQVjBGRG1XSXhlU3ZQR3ItdjRxWmZ2UktxS2ZQb3RvRWd5MXM5ODFFbXV1Y2l5b0Nj?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,27 +78,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-          "source": "Prepared Foods"
-        }
-      ]
-    },
-    {
-      "id": "1357e65a8196",
-      "title": "Top 10 Food Trends 2027. Food and beverages are being reframed - Innova Market Insights",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcXlSX01mdWM1Uk5WdHRiZ0tzdlRRc1lmR19pUzRBWl93d1poSy1rUjhLQm5wYTRubnJkUjFaSUlBZ0hJdFZQVjBGRG1XSXhlU3ZQR3ItdjRxWmZ2UktxS2ZQb3RvRWd5MXM5ODFFbXV1Y2l5b0Nj?oc=5\" target=\"_blank\">Top 10 Food Trends 2027. Food and beverages are",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcXlSX01mdWM1Uk5WdHRiZ0tzdlRRc1lmR19pUzRBWl93d1poSy1rUjhLQm5wYTRubnJkUjFaSUlBZ0hJdFZQVjBGRG1XSXhlU3ZQR3ItdjRxWmZ2UktxS2ZQb3RvRWd5MXM5ODFFbXV1Y2l5b0Nj?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 14:05:10 GMT",
@@ -107,10 +87,30 @@
       ]
     },
     {
-      "id": "103d19d674c8",
-      "title": "Top 100 Food Trends in October: From Fall Harvest Menus to Protein Snacks - Trend Hunter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TMUdiazJsM1FuTDcxOThvMklQVVhrcEZDczAzM1lJVERHMThKT2RuRGdQdHZGZG5PZ2wzZ1VqNVdKb1ZscEp4SkxwS3ptcnduY0ZaQ2hmZVdacUFTZkFjeHNFdk5xUQ?oc=5\" target=\"_blank\">Top 100 Food Trends in October: From Fall Harvest Menus to Protein Sn",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TMUdiazJsM1FuTDcxOThvMklQVVhrcEZDczAzM1lJVERHMThKT2RuRGdQdHZGZG5PZ2wzZ1VqNVdKb1ZscEp4SkxwS3ptcnduY0ZaQ2hmZVdacUFTZkFjeHNFdk5xUQ?oc=5",
+      "id": "ad69234e3223",
+      "title": "Datassential Identifies Food and Beverage Trends to Watch in 2027 - Prepared Foods",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXBHM2VvUldpdmxldHVVWGQyLVFNaHA2cERIaVZEUE9Gd0FQbllSYjVyOGJfaTl4Z0JWS2dzMkliZzllczRRbm9tdzlQMk1yd2RLcDYtRE1vbGVfWVVRczVQeGxaUjFDcy13ajNMWEpZQ25aUU5yaW45M2Z0Nk9kMFhZY3BVejc0RC1EMmVfSk9XVU5IZDhCb2FiSDhWd05IaHllekl3SGFndk",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXBHM2VvUldpdmxldHVVWGQyLVFNaHA2cERIaVZEUE9Gd0FQbllSYjVyOGJfaTl4Z0JWS2dzMkliZzllczRRbm9tdzlQMk1yd2RLcDYtRE1vbGVfWVVRczVQeGxaUjFDcy13ajNMWEpZQ25aUU5yaW45M2Z0Nk9kMFhZY3BVejc0RC1EMmVfSk9XVU5IZDhCb2FiSDhWd05IaHllekl3SGFndkFLNzAwQg?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-13T00:34:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+          "source": "Prepared Foods"
+        }
+      ]
+    },
+    {
+      "id": "962f76856d47",
+      "title": "How street food trends are reshaping food packaging - Packaging Gateway",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNaC1laVpHeUFzbnNFVmV5bS1UVWUzRVU4YTJwV2NiU2ZXbUg0bG94TlQwekRNNkttOGFyeTVpNmI2SWRSNzkyMnBqOGY2blNHY2dSaDY1NFFUemthLTAyTWdTU1IwZzRHWVNOUFV5THZoMkt1c3VuVXVYTHpIRVZWNU9GQ0JEN214c1lCWjI5RTR3OVhhVklOX0xrOA?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaC1laVpHeUFzbnNFVmV5bS1UVWUzRVU4YTJwV2NiU2ZXbUg0bG94TlQwekRNNkttOGFyeTVpNmI2SWRSNzkyMnBqOGY2blNHY2dSaDY1NFFUemthLTAyTWdTU1IwZzRHWVNOUFV5THZoMkt1c3VuVXVYTHpIRVZWNU9GQ0JEN214c1lCWjI5RTR3OVhhVklOX0xrOA?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,7 +118,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 12 Oct 2026 02:20:56 GMT",
+          "source": "Packaging Gateway"
+        }
+      ]
+    },
+    {
+      "id": "103d19d674c8",
+      "title": "Top 100 Food Trends in October: From Fall Harvest Menus to Protein Snacks - Trend Hunter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TMUdiazJsM1FuTDcxOThvMklQVVhrcEZDczAzM1lJVERHMThKT2RuRGdQdHZGZG5PZ2wzZ1VqNVdKb1ZscEp4SkxwS3ptcnduY0ZaQ2hmZVdacUFTZkFjeHNFdk5xUQ?oc=5\" target=\"_blank\">Top 100 Food Trends in October: From Fall Harvest Menus to Protein Sn",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TMUdiazJsM1FuTDcxOThvMklQVVhrcEZDczAzM1lJVERHMThKT2RuRGdQdHZGZG5PZ2wzZ1VqNVdKb1ZscEp4SkxwS3ptcnduY0ZaQ2hmZVdacUFTZkFjeHNFdk5xUQ?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
           "published": "Mon, 12 Oct 2026 07:30:49 GMT",
@@ -127,30 +147,10 @@
       ]
     },
     {
-      "id": "12907e7a5367",
-      "title": "Wellness and food tourism drive Autumn and Winter travel demand - Travel Daily News International",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTkxNV9zbDlQRW5YTHJ5SkhpaVpNSVdTZU9RRVlwbjZCMHN2N3FDdFhMWTlqdUZZUFowdWxRQmNadXZPLUtSMXRadC1rdlk1ODJRcEF4S2o4QXlzOXR4RDhoUWppeTNDQUtYU3FCNGE1RmtOLVRZMFY2M1A4Zy1mMUlkVnp6RWFKWWpjVVpQY1R1S1RYQVZpc2w2d0hJNEdVX29zbmpBbmtBST",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTkxNV9zbDlQRW5YTHJ5SkhpaVpNSVdTZU9RRVlwbjZCMHN2N3FDdFhMWTlqdUZZUFowdWxRQmNadXZPLUtSMXRadC1rdlk1ODJRcEF4S2o4QXlzOXR4RDhoUWppeTNDQUtYU3FCNGE1RmtOLVRZMFY2M1A4Zy1mMUlkVnp6RWFKWWpjVVpQY1R1S1RYQVZpc2w2d0hJNEdVX29zbmpBbmtBSTNoMnc?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 10:02:57 GMT",
-          "source": "Travel Daily News International"
-        }
-      ]
-    },
-    {
-      "id": "1241f79a60e6",
-      "title": "33 Food Trends That Need To Disappear LIKE NOW - Yahoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZmJjUWVWb0tTZElzWVN0UzhXd0w1XzBod1BwVThmYmVrcjhuT1pOWmlub0I3U1d2OHBLSEdzeEtlZk1vUHRJMUFGUEgxVy1zenhBdHVYRkM2d3Y4eEFxUlJOUUoxU09UYmE4bTBQX3dpLWFFc001X1NyblZKcjFvVm1pR25jcjdJWU1sYg?oc=5\" target=\"_blank\">33 Food Trends Th",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZmJjUWVWb0tTZElzWVN0UzhXd0w1XzBod1BwVThmYmVrcjhuT1pOWmlub0I3U1d2OHBLSEdzeEtlZk1vUHRJMUFGUEgxVy1zenhBdHVYRkM2d3Y4eEFxUlJOUUoxU09UYmE4bTBQX3dpLWFFc001X1NyblZKcjFvVm1pR25jcjdJWU1sYg?oc=5",
+      "id": "2d5a1f6c0428",
+      "title": "33 Food Trends That Are So 2026 That Definitely Won't Be Around In 2046 - BuzzFeed",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE02cktpVk5TTWlYQy1Udk5tUi1iWi11OEdUcVktOGNiaTZ0LUprdFVmbW9FZElfMmxoWTY0b2pfNVpMX3RMQTlSRTdxSXhBOERQYV81T3pDUk9aQXAw?oc=5\" target=\"_blank\">33 Food Trends That Are So 2026 That Definitely Won't Be Around In 2046</a>&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02cktpVk5TTWlYQy1Udk5tUi1iWi11OEdUcVktOGNiaTZ0LUprdFVmbW9FZElfMmxoWTY0b2pfNVpMX3RMQTlSRTdxSXhBOERQYV81T3pDUk9aQXAw?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,42 +158,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
           "published": "Sat, 10 Oct 2026 14:10:04 GMT",
-          "source": "Yahoo"
+          "source": "BuzzFeed"
         }
       ]
     },
     {
-      "id": "fe1184ffb375",
-      "title": "I Tried the Best (and WORST) Instant Pot Recipes",
-      "summary": "Come home to your packages and your peace of mind. 💙 Protect both with my sponsor https://simplisafe.com/babish and get 60% off a system with professional monitoring. SimpliSafe. Ahead of crime, in real time.\n\nOn this episode of With Babish, I'm pressure testing the best and wors",
-      "url": "https://www.youtube.com/watch?v=HGWICoR6n2s",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-10-12T15:15:29+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "HGWICoR6n2s",
-          "published": "2026-10-10T13:41:08+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "93b650ecc49a",
-      "title": "New Research Reveals Why Some Food Trends Stick While Others Fade Away - markets.businessinsider.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDY0OUhXUUxsM0V6cW11RFBESnFrSHRPREZTODBvdFY2cmp0d3oyTVJ4bWZ4NjNIdVg3QlRsUG04SnZwZHlrckdOeW9SdjlKY1pvampLZnZEUDRWYXVYbjNXOGJZRXYxaHE5bmktdUlKTlZjbmNqX0Z3YkpmUjdCU3oyMF9HUk5ENnBIMXZQN1M1T1FMY294ci12TFJkZGxXb3BkbV92S205RW",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDY0OUhXUUxsM0V6cW11RFBESnFrSHRPREZTODBvdFY2cmp0d3oyTVJ4bWZ4NjNIdVg3QlRsUG04SnZwZHlrckdOeW9SdjlKY1pvampLZnZEUDRWYXVYbjNXOGJZRXYxaHE5bmktdUlKTlZjbmNqX0Z3YkpmUjdCU3oyMF9HUk5ENnBIMXZQN1M1T1FMY294ci12TFJkZGxXb3BkbV92S205RWZLYWN6cDV4aWJ2MFRQNTR3MlkxY2lIVkNHUXZHZA?oc=5",
+      "id": "4bba3cc90d5a",
+      "title": "The Best Food Storage Containers for Thanksgiving Leftovers - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlRUa0dRaENuWVdEMXMxSXFLamRUNDdubWlfRzl1eldVaHdPMk4wZThQN2pxM2IwSW95TW1YU3ZuLVRPMEJ1VnY0S2FzQ21iS1J1c2MwaHZITzU5VmRudWdzZFVYM2RneW9XbTdnODJpZWZMbFlIRHR4QXRidUxIZVM2VGJTTzdDaW1qX0RyNA?oc=5\" target=\"_blank\">The Best Food",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlRUa0dRaENuWVdEMXMxSXFLamRUNDdubWlfRzl1eldVaHdPMk4wZThQN2pxM2IwSW95TW1YU3ZuLVRPMEJ1VnY0S2FzQ21iS1J1c2MwaHZITzU5VmRudWdzZFVYM2RneW9XbTdnODJpZWZMbFlIRHR4QXRidUxIZVM2VGJTTzdDaW1qX0RyNA?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -201,7 +178,47 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 08 Oct 2026 17:13:07 GMT",
+          "source": "CTV News"
+        }
+      ]
+    },
+    {
+      "id": "e123ca163303",
+      "title": "Global food trends for 2026: What exporters need to know now - Export Development Canada (EDC)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5JNWxDczVDUmRrSUcyWV9UaGJENzktS0hxWHpqUVFsd3B4NGRDRUFkLTJLU1FONllFdURVT1NIaWdvZmRPb2cxcUtmdk56UWxSUDJEc2s5ZFVlLUlwWWI1X0s0amVBR3JFWlE?oc=5\" target=\"_blank\">Global food trends for 2026: What exporters need to know now</a>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JNWxDczVDUmRrSUcyWV9UaGJENzktS0hxWHpqUVFsd3B4NGRDRUFkLTJLU1FONllFdURVT1NIaWdvZmRPb2cxcUtmdk56UWxSUDJEc2s5ZFVlLUlwWWI1X0s0amVBR3JFWlE?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-13T00:34:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+          "source": "Export Development Canada (EDC)"
+        }
+      ]
+    },
+    {
+      "id": "93b650ecc49a",
+      "title": "New Research Reveals Why Some Food Trends Stick While Others Fade Away - markets.businessinsider.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDY0OUhXUUxsM0V6cW11RFBESnFrSHRPREZTODBvdFY2cmp0d3oyTVJ4bWZ4NjNIdVg3QlRsUG04SnZwZHlrckdOeW9SdjlKY1pvampLZnZEUDRWYXVYbjNXOGJZRXYxaHE5bmktdUlKTlZjbmNqX0Z3YkpmUjdCU3oyMF9HUk5ENnBIMXZQN1M1T1FMY294ci12TFJkZGxXb3BkbV92S205RW",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDY0OUhXUUxsM0V6cW11RFBESnFrSHRPREZTODBvdFY2cmp0d3oyTVJ4bWZ4NjNIdVg3QlRsUG04SnZwZHlrckdOeW9SdjlKY1pvampLZnZEUDRWYXVYbjNXOGJZRXYxaHE5bmktdUlKTlZjbmNqX0Z3YkpmUjdCU3oyMF9HUk5ENnBIMXZQN1M1T1FMY294ci12TFJkZGxXb3BkbV92S205RWZLYWN6cDV4aWJ2MFRQNTR3MlkxY2lIVkNHUXZHZA?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
           "published": "Wed, 07 Oct 2026 16:30:30 GMT",
@@ -214,14 +231,14 @@
       "title": "Fresh Thyme Market reveals 2027 food trend predictions - Baking Business",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlBMRE9BNHQ5QWVodUR0SnNZSnBSOVRvN1lCT2Z0ajgxNVEyalE1YmJ1bnF5NzlWTl9OSXZMcHFMUWRSYmdyb0pSYmpka2ZTRHNRU2JrT0h3TUh1RUh4dkRWNXE4RDlMdjQ1X1lXUFdpN0JoQjI4UmN4UzJQTzdsazUyZURiUVZTMC1Cc093VFZHcGQ5MWpreTczSTIxbWMzNFE?oc=5\" targ",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlBMRE9BNHQ5QWVodUR0SnNZSnBSOVRvN1lCT2Z0ajgxNVEyalE1YmJ1bnF5NzlWTl9OSXZMcHFMUWRSYmdyb0pSYmpka2ZTRHNRU2JrT0h3TUh1RUh4dkRWNXE4RDlMdjQ1X1lXUFdpN0JoQjI4UmN4UzJQTzdsazUyZURiUVZTMC1Cc093VFZHcGQ5MWpreTczSTIxbWMzNFE?oc=5",
-      "score": 57.6,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 04:00:00 GMT",
@@ -230,22 +247,22 @@
       ]
     },
     {
-      "id": "4bba3cc90d5a",
-      "title": "The Best Food Storage Containers for Thanksgiving Leftovers - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlRUa0dRaENuWVdEMXMxSXFLamRUNDdubWlfRzl1eldVaHdPMk4wZThQN2pxM2IwSW95TW1YU3ZuLVRPMEJ1VnY0S2FzQ21iS1J1c2MwaHZITzU5VmRudWdzZFVYM2RneW9XbTdnODJpZWZMbFlIRHR4QXRidUxIZVM2VGJTTzdDaW1qX0RyNA?oc=5\" target=\"_blank\">The Best Food",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlRUa0dRaENuWVdEMXMxSXFLamRUNDdubWlfRzl1eldVaHdPMk4wZThQN2pxM2IwSW95TW1YU3ZuLVRPMEJ1VnY0S2FzQ21iS1J1c2MwaHZITzU5VmRudWdzZFVYM2RneW9XbTdnODJpZWZMbFlIRHR4QXRidUxIZVM2VGJTTzdDaW1qX0RyNA?oc=5",
-      "score": 54.0,
+      "id": "e1fb62cc392b",
+      "title": "The Biggest Food Trends of 2026 So Far - Taste of Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5\" target=\"_blank\">The Biggest Food Trends of 2026 So Far</a>&nbsp;&nbsp;<font color=\"#",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5",
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 08 Oct 2026 17:13:07 GMT",
-          "source": "CTV News"
+          "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+          "source": "Taste of Home"
         }
       ]
     },
@@ -254,14 +271,14 @@
       "title": "Food, beverage trends leaning international - Supermarket News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2FPWS1EbFdXZXNtQXNKTE9qWDAwRjZpalg2eGx1QktBYmxJV3RvME1kTV9hN19ScUdPeUpPQ290TVpIU3o2UWJjZzlJNGhxTE9BN0ZyNkllUXA1dThDRzUxcVQxcXRVQUZCQjVXaDdnYVBsbC1LRmRoclFHRWgyWTJkRGJwVU10OUZvanFHQmhCdmFabUdhN0ZB?oc=5\" target=\"_blank\"",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2FPWS1EbFdXZXNtQXNKTE9qWDAwRjZpalg2eGx1QktBYmxJV3RvME1kTV9hN19ScUdPeUpPQ290TVpIU3o2UWJjZzlJNGhxTE9BN0ZyNkllUXA1dThDRzUxcVQxcXRVQUZCQjVXaDdnYVBsbC1LRmRoclFHRWgyWTJkRGJwVU10OUZvanFHQmhCdmFabUdhN0ZB?oc=5",
-      "score": 50.4,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
           "published": "Wed, 07 Oct 2026 16:51:05 GMT",
@@ -270,22 +287,42 @@
       ]
     },
     {
-      "id": "cd7bb9d77e9a",
-      "title": "The top food trends of 2026 we're loving (plus the ones we're already sick of) - Taste",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQWRtSDJub2E3TEZwMmJOMWNFeGVMaUtoLXZSWU5mWXRQMHlPRmZRQjNJemJaVVZwYTJCTmNJd1BEY0piT1ZsVDIxV20tdVBESEN3QXFFNWRrdC1CaTREMWJOdUdMWHBKUVdHNGtTT0pBdGdGVF9ySEZTMDI4bzRBdjlqNXNnalpFVXlKX3JlR3prVFcyRHBtcGtkUmVWNGs2NmhvNjBNcw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQWRtSDJub2E3TEZwMmJOMWNFeGVMaUtoLXZSWU5mWXRQMHlPRmZRQjNJemJaVVZwYTJCTmNJd1BEY0piT1ZsVDIxV20tdVBESEN3QXFFNWRrdC1CaTREMWJOdUdMWHBKUVdHNGtTT0pBdGdGVF9ySEZTMDI4bzRBdjlqNXNnalpFVXlKX3JlR3prVFcyRHBtcGtkUmVWNGs2NmhvNjBNcw?oc=5",
-      "score": 46.8,
+      "id": "12907e7a5367",
+      "title": "Wellness and food tourism drive Autumn and Winter travel demand - Travel Daily News International",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTkxNV9zbDlQRW5YTHJ5SkhpaVpNSVdTZU9RRVlwbjZCMHN2N3FDdFhMWTlqdUZZUFowdWxRQmNadXZPLUtSMXRadC1rdlk1ODJRcEF4S2o4QXlzOXR4RDhoUWppeTNDQUtYU3FCNGE1RmtOLVRZMFY2M1A4Zy1mMUlkVnp6RWFKWWpjVVpQY1R1S1RYQVZpc2w2d0hJNEdVX29zbmpBbmtBST",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTkxNV9zbDlQRW5YTHJ5SkhpaVpNSVdTZU9RRVlwbjZCMHN2N3FDdFhMWTlqdUZZUFowdWxRQmNadXZPLUtSMXRadC1rdlk1ODJRcEF4S2o4QXlzOXR4RDhoUWppeTNDQUtYU3FCNGE1RmtOLVRZMFY2M1A4Zy1mMUlkVnp6RWFKWWpjVVpQY1R1S1RYQVZpc2w2d0hJNEdVX29zbmpBbmtBSTNoMnc?oc=5",
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-          "source": "Taste"
+          "published": "Mon, 12 Oct 2026 10:02:57 GMT",
+          "source": "Travel Daily News International"
+        }
+      ]
+    },
+    {
+      "id": "f4b3dfb47bbe",
+      "title": "Unilever Food Solutions releases Future Menus report on food trends - Mumbrella",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPeTZLUU05UEpCbUVkT1VpNlYtOS1yX1gtdHJUaU8ydlh5VTdGajRueXhMMktEbEF6OENvU0tBOUw5MTNjMnR6TGJtM0FjRGRobGpZTE80SnJJWnhBYkF4MXdOQTc3Vmwwb041Y21jS1pQdjhPbE5yekJGSHdrRERKal85eUQ2N2RyS3dWMVU2cXhZc3owRXphT3VCYW1wMExE?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeTZLUU05UEpCbUVkT1VpNlYtOS1yX1gtdHJUaU8ydlh5VTdGajRueXhMMktEbEF6OENvU0tBOUw5MTNjMnR6TGJtM0FjRGRobGpZTE80SnJJWnhBYkF4MXdOQTc3Vmwwb041Y21jS1pQdjhPbE5yekJGSHdrRERKal85eUQ2N2RyS3dWMVU2cXhZc3owRXphT3VCYW1wMExE?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "CA",
+      "first_seen": "2026-10-13T00:34:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 12 Oct 2026 23:31:12 GMT",
+          "source": "Mumbrella"
         }
       ]
     },
@@ -294,66 +331,6 @@
       "title": "Food tech: 5 trends growing and 5 declining - FoodNavigator.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVllVNDk1TUVweE9nMnUydl9WR3BXck1welp2c01aQjVScFVYWXJaa0xyWDV3ZTNvZ2hhM2tEekswdlY0TVJPbmRWLXJkUXU1ZXd3SG1zY1RfeDNJRjJDMWVuSlhvQjg0YUJiRW9UMGZsSmwyOGJNZ2Z6akFuOENvR2F4RkJKSlRjXzZVTHpyYXUyejYwM0tjRm41Q2tGQQ?oc=5\" target=\"_",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVllVNDk1TUVweE9nMnUydl9WR3BXck1welp2c01aQjVScFVYWXJaa0xyWDV3ZTNvZ2hhM2tEekswdlY0TVJPbmRWLXJkUXU1ZXd3SG1zY1RfeDNJRjJDMWVuSlhvQjg0YUJiRW9UMGZsSmwyOGJNZ2Z6akFuOENvR2F4RkJKSlRjXzZVTHpyYXUyejYwM0tjRm41Q2tGQQ?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 08 Oct 2026 12:14:42 GMT",
-          "source": "FoodNavigator.com"
-        }
-      ]
-    },
-    {
-      "id": "fca9a5d7dfe5",
-      "title": "Angel Delight croissants?! The autumn food trends hotlist - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTG9MRXhXUWxtX3VLMjlhY2c5ZGxiT0E4OHhsdlJBbC1ZYm5TbGY4QmZhN3pleC13OGhpXzd2SjFpelFsWVlrX3o5a3psRWh6VE5RS3RJXzliMms0eHBWMHRob3p6WUNuN0FsaTZGYWRXekdvVFlVRFJRaTNlVlpTZlZaQllpOTI3WmRIQTVlVkY2UU0tYUlfV3Y4ZGtROUJvM0E?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTG9MRXhXUWxtX3VLMjlhY2c5ZGxiT0E4OHhsdlJBbC1ZYm5TbGY4QmZhN3pleC13OGhpXzd2SjFpelFsWVlrX3o5a3psRWh6VE5RS3RJXzliMms0eHBWMHRob3p6WUNuN0FsaTZGYWRXekdvVFlVRFJRaTNlVlpTZlZaQllpOTI3WmRIQTVlVkY2UU0tYUlfV3Y4ZGtROUJvM0E?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "id": "fbd149b9963e",
-      "title": "Google Maps just revealed the world's favorite food destinations - USA Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUJqdXczSFBNMDFJblJtMnZWSE55Mnd2YXRFczZjSkoyanpGUjV3WV9vMEh2NmVDRjhoUFlTcUtmQllIdTU1XzJLekFiRlBfYUdRb1EyT3ljQzBtWElkSFhudXUyaE1HXzgybGIwbGozTWFCUDNCSzU3NTJfa0pBNDJoTmdYT2V0eHJvaDlLV3pMbjFOWkZYdTR4c09uTEViRGxKOXp5N1ZHUn",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUJqdXczSFBNMDFJblJtMnZWSE55Mnd2YXRFczZjSkoyanpGUjV3WV9vMEh2NmVDRjhoUFlTcUtmQllIdTU1XzJLekFiRlBfYUdRb1EyT3ljQzBtWElkSFhudXUyaE1HXzgybGIwbGozTWFCUDNCSzU3NTJfa0pBNDJoTmdYT2V0eHJvaDlLV3pMbjFOWkZYdTR4c09uTEViRGxKOXp5N1ZHUnpSdVpv?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 08 Oct 2026 09:00:00 GMT",
-          "source": "USA Today"
-        }
-      ]
-    },
-    {
-      "id": "8aa4be6413ad",
-      "title": "Google Maps Has Figured Out What Everyone Is Craving - SammyGuru",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KT1hycFpsR3NRcF9RRXUxLWVaRDk2dnVrcWhZVGl5N1ZlS0czWmFLWmQ4bFVzUmoxOGVMWGlBNkRNYzh6NDR3aUNTRmtvTmQySG9UZ0d0WU1CT1pvNnc5NQ?oc=5\" target=\"_blank\">Google Maps Has Figured Out What Everyone Is Craving</a>&nbsp;&nbsp;<font col",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KT1hycFpsR3NRcF9RRXUxLWVaRDk2dnVrcWhZVGl5N1ZlS0czWmFLWmQ4bFVzUmoxOGVMWGlBNkRNYzh6NDR3aUNTRmtvTmQySG9UZ0d0WU1CT1pvNnc5NQ?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -361,11 +338,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 08 Oct 2026 22:09:58 GMT",
-          "source": "SammyGuru"
+          "published": "Thu, 08 Oct 2026 12:14:42 GMT",
+          "source": "FoodNavigator.com"
         }
       ]
     },
@@ -381,7 +358,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 09:25:00 GMT",
@@ -390,10 +367,10 @@
       ]
     },
     {
-      "id": "7dd9bed86a13",
-      "title": "2026 SNAP and Food Security Legislative Trends - National Conference of State Legislatures (NCSL)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTNqZzVFV2w4MEpSbW56dldoLXdCY0ZEUlZhaEpORVpzZDlyWXR6bktiXzdqeWY3bzBYZS1RbXlBOVBMSl90d0pyV2Rrczg3TzZRNnJmS2pLajIzbndyRTJIRnRwT0xWTlotSlVobjh2dDhZV2VQT3U4NzBuaE9veHdPbEFrU0gtenc?oc=5\" target=\"_blank\">2026 SNAP and Food S",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTNqZzVFV2w4MEpSbW56dldoLXdCY0ZEUlZhaEpORVpzZDlyWXR6bktiXzdqeWY3bzBYZS1RbXlBOVBMSl90d0pyV2Rrczg3TzZRNnJmS2pLajIzbndyRTJIRnRwT0xWTlotSlVobjh2dDhZV2VQT3U4NzBuaE9veHdPbEFrU0gtenc?oc=5",
+      "id": "cd7bb9d77e9a",
+      "title": "The top food trends of 2026 we're loving (plus the ones we're already sick of) - Taste",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQWRtSDJub2E3TEZwMmJOMWNFeGVMaUtoLXZSWU5mWXRQMHlPRmZRQjNJemJaVVZwYTJCTmNJd1BEY0piT1ZsVDIxV20tdVBESEN3QXFFNWRrdC1CaTREMWJOdUdMWHBKUVdHNGtTT0pBdGdGVF9ySEZTMDI4bzRBdjlqNXNnalpFVXlKX3JlR3prVFcyRHBtcGtkUmVWNGs2NmhvNjBNcw?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQWRtSDJub2E3TEZwMmJOMWNFeGVMaUtoLXZSWU5mWXRQMHlPRmZRQjNJemJaVVZwYTJCTmNJd1BEY0piT1ZsVDIxV20tdVBESEN3QXFFNWRrdC1CaTREMWJOdUdMWHBKUVdHNGtTT0pBdGdGVF9ySEZTMDI4bzRBdjlqNXNnalpFVXlKX3JlR3prVFcyRHBtcGtkUmVWNGs2NmhvNjBNcw?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -401,19 +378,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 18:52:34 GMT",
-          "source": "National Conference of State Legislatures (NCSL)"
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+          "source": "Taste"
         }
       ]
     },
     {
-      "id": "564ebdaebaf7",
-      "title": "AI-Based Food Quality Inspection System Market Size, Share, Trends 2036 - Future Market Insights",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNG03SmVNQVo5WllXWmEyTzZZSEN3WklGX01XcEx1MUVmWW04V3pjdTdpRnB2REt5dmQzTi1vRHItV05rNW0zRHg5bzN5bllibk9DNlNEY3lHMjZmRGJrNzdJUXR6YlluSVZOdHNfRi1FWVNKZVFHendlbWx5YXJSVjRDZ1AwUXVVamVwQ1lBT2dqRGh1QlE?oc=5\" target=\"_blank\">AI-B",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNG03SmVNQVo5WllXWmEyTzZZSEN3WklGX01XcEx1MUVmWW04V3pjdTdpRnB2REt5dmQzTi1vRHItV05rNW0zRHg5bzN5bllibk9DNlNEY3lHMjZmRGJrNzdJUXR6YlluSVZOdHNfRi1FWVNKZVFHendlbWx5YXJSVjRDZ1AwUXVVamVwQ1lBT2dqRGh1QlE?oc=5",
+      "id": "fca9a5d7dfe5",
+      "title": "Angel Delight croissants?! The autumn food trends hotlist - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTG9MRXhXUWxtX3VLMjlhY2c5ZGxiT0E4OHhsdlJBbC1ZYm5TbGY4QmZhN3pleC13OGhpXzd2SjFpelFsWVlrX3o5a3psRWh6VE5RS3RJXzliMms0eHBWMHRob3p6WUNuN0FsaTZGYWRXekdvVFlVRFJRaTNlVlpTZlZaQllpOTI3WmRIQTVlVkY2UU0tYUlfV3Y4ZGtROUJvM0E?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTG9MRXhXUWxtX3VLMjlhY2c5ZGxiT0E4OHhsdlJBbC1ZYm5TbGY4QmZhN3pleC13OGhpXzd2SjFpelFsWVlrX3o5a3psRWh6VE5RS3RJXzliMms0eHBWMHRob3p6WUNuN0FsaTZGYWRXekdvVFlVRFJRaTNlVlpTZlZaQllpOTI3WmRIQTVlVkY2UU0tYUlfV3Y4ZGtROUJvM0E?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -421,11 +398,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "CA",
-      "first_seen": "2026-10-12T15:13:09+00:00",
+      "first_seen": "2026-10-13T00:34:12+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 11 Oct 2026 18:30:00 GMT",
-          "source": "Future Market Insights"
+          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+          "source": "The Guardian"
         }
       ]
     }
