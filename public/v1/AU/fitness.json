@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "AU",
-  "generated_at": "2026-10-13T00:43:07+00:00",
+  "generated_at": "2026-10-13T14:14:16+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 25,
   "trends": [
     {
-      "id": "84d0c833f491",
-      "title": "Wallabies, Kangaroos share Sydney gym - SMH.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTExOWdybGVMUmM4SG5sejNlS1lnV0xKZVlfZUFpZ3ZVdW85SE5ueGlPOGlnSDNGeFdtRmRJTkMyRHBmeXZoWGRwSjM1MVZQV2lVd0h0Y3FxbWliZWRSN0tPZDZUc3VZTEJYSVRjWDNXeEs3TjVRakJCbnAyZC1RVy1DUkdNOExSM1l2SG9ITUN3RUM1ZVM4Zy1Kelp5b0k?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTExOWdybGVMUmM4SG5sejNlS1lnV0xKZVlfZUFpZ3ZVdW85SE5ueGlPOGlnSDNGeFdtRmRJTkMyRHBmeXZoWGRwSjM1MVZQV2lVd0h0Y3FxbWliZWRSN0tPZDZUc3VZTEJYSVRjWDNXeEs3TjVRakJCbnAyZC1RVy1DUkdNOExSM1l2SG9ITUN3RUM1ZVM4Zy1Kelp5b0k?oc=5",
+      "id": "ae5db37afb5c",
+      "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever - blog.google",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONjVpUVU1TEZCSFdZT0hEZG00Yl9WRk1FV01yQ2pkQUVyY2FocmV2Yk9qZ2xBQ3U0N3ZQQUgtSEctMWJ1NkVwVFJQWlhiWGwwakhUNDZOX2lObDNkMUtKcmNxd0k0Z3pLVVdZcGJMV2tyYlI3ZVkzTEg2UUF1dUFhNHpycXdRa2RwdjlVQzI4dk5WZFdsNnRHTTlDNW05dEFVSm1pWXo5NDZzTE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjVpUVU1TEZCSFdZT0hEZG00Yl9WRk1FV01yQ2pkQUVyY2FocmV2Yk9qZ2xBQ3U0N3ZQQUgtSEctMWJ1NkVwVFJQWlhiWGwwakhUNDZOX2lObDNkMUtKcmNxd0k0Z3pLVVdZcGJMV2tyYlI3ZVkzTEg2UUF1dUFhNHpycXdRa2RwdjlVQzI4dk5WZFdsNnRHTTlDNW05dEFVSm1pWXo5NDZzTEpXZE1NWndYT0NqOFdCdEE?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "first_seen": "2026-10-13T14:04:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 13 Oct 2026 01:09:15 GMT",
+          "source": "blog.google"
+        }
+      ]
+    },
+    {
+      "id": "22d8ef4862c2",
+      "title": "Shane Gillis’ Gym Short Monologue On ‘SNL’ Isn’t Just Humourless, It’s Harmful - Marie Claire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmIzN3d0R010OEEwM1JPVXZLSU40X3UyZzc2U2l0MTRPVG5oZWk4U3R2Q3B5Q1dwX1ZGWjlUNUQzVWxITGZSMWlQbG1uREJESW1ZZWVJN29hZHhQTFVmN2pfMEdzRGcyTGxHU1JfbHRweWN3WFhFbGo5bzFsWEZkVzJCOUUxZTNxTzNENGdZOUc?oc=5\" target=\"_blank\">Shane Gillis",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmIzN3d0R010OEEwM1JPVXZLSU40X3UyZzc2U2l0MTRPVG5oZWk4U3R2Q3B5Q1dwX1ZGWjlUNUQzVWxITGZSMWlQbG1uREJESW1ZZWVJN29hZHhQTFVmN2pfMEdzRGcyTGxHU1JfbHRweWN3WFhFbGo5bzFsWEZkVzJCOUUxZTNxTzNENGdZOUc?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-13T14:04:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 13 Oct 2026 04:10:39 GMT",
+          "source": "Marie Claire"
+        }
+      ]
+    },
+    {
+      "id": "84d0c833f491",
+      "title": "Wallabies, Kangaroos share Sydney gym - SMH.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTExOWdybGVMUmM4SG5sejNlS1lnV0xKZVlfZUFpZ3ZVdW85SE5ueGlPOGlnSDNGeFdtRmRJTkMyRHBmeXZoWGRwSjM1MVZQV2lVd0h0Y3FxbWliZWRSN0tPZDZUc3VZTEJYSVRjWDNXeEs3TjVRakJCbnAyZC1RVy1DUkdNOExSM1l2SG9ITUN3RUM1ZVM4Zy1Kelp5b0k?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTExOWdybGVMUmM4SG5sejNlS1lnV0xKZVlfZUFpZ3ZVdW85SE5ueGlPOGlnSDNGeFdtRmRJTkMyRHBmeXZoWGRwSjM1MVZQV2lVd0h0Y3FxbWliZWRSN0tPZDZUc3VZTEJYSVRjWDNXeEs3TjVRakJCbnAyZC1RVy1DUkdNOExSM1l2SG9ITUN3RUM1ZVM4Zy1Kelp5b0k?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-13T14:04:49+00:00",
       "raw_samples": [
         {
           "published": "Mon, 12 Oct 2026 23:48:49 GMT",
@@ -27,70 +67,10 @@
       ]
     },
     {
-      "id": "ae5db37afb5c",
-      "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever - blog.google",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHpiaU4zUktpT0NSMnBxdnd5eTRLVGZJWVRiV3hGWHV0RlRjaEZZRjJaNDBjdHdkUWY3YzB1SzZCaWJCNFFxLUw2UUNKYkhNLVpydEQwSVU0LUxycXVGNDBBUmtSM0Vwcm92QVZ5S1kwcTNzWFdlZ2ZoLXRvZnBCSE1QMA?oc=5\" target=\"_blank\">Google Fitbit Edge: Our all-n",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHpiaU4zUktpT0NSMnBxdnd5eTRLVGZJWVRiV3hGWHV0RlRjaEZZRjJaNDBjdHdkUWY3YzB1SzZCaWJCNFFxLUw2UUNKYkhNLVpydEQwSVU0LUxycXVGNDBBUmtSM0Vwcm92QVZ5S1kwcTNzWFdlZ2ZoLXRvZnBCSE1QMA?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 13:09:28 GMT",
-          "source": "blog.google"
-        }
-      ]
-    },
-    {
-      "id": "137234cd3c7d",
-      "title": "Watch 9News Latest Stories - Season 2026 - Gold Coast gym owner tackles unwelcome visitor - 9Now",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0t5WHFIT2Fqb1BjMU12YmtqQ1lUZ0ZEdTViNnZMTU9Fb2FES3Z2R0NmOXRTWTZBR2VJRDE5RE1nd05CM3l0NjgzT1U5NmJUSl95YlpRWTFrQk1PTXJoSWdEbWNHSTNCR2dPMnA1RFBhQkl1ME9YaDVpWDlPNy1qLUo5NkplcVQtNFlabA?oc=5\" target=\"_blank\">Watch 9News Lates",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0t5WHFIT2Fqb1BjMU12YmtqQ1lUZ0ZEdTViNnZMTU9Fb2FES3Z2R0NmOXRTWTZBR2VJRDE5RE1nd05CM3l0NjgzT1U5NmJUSl95YlpRWTFrQk1PTXJoSWdEbWNHSTNCR2dPMnA1RFBhQkl1ME9YaDVpWDlPNy1qLUo5NkplcVQtNFlabA?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 08:57:59 GMT",
-          "source": "9Now"
-        }
-      ]
-    },
-    {
-      "id": "accddf7198b5",
-      "title": "Can My DNA Tell Me How to Exercise? I Tried AlterMe to Find Out - WIRED",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5mUllLaUpKVkJlbUZoRTdVcnRCSW5VWlh0dVpoeHJoeWg2cU1fS1U3Y0gwZmdGSHB0ZVRFRlBaTFVXMU5pS3N1VTQ2QkpwNGpsaHJnM3dhX0p5REpXTVlrWG9RY1ctYkxKRUpDenVDUHllbHVf?oc=5\" target=\"_blank\">Can My DNA Tell Me How to Exercise? I Tried AlterMe",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mUllLaUpKVkJlbUZoRTdVcnRCSW5VWlh0dVpoeHJoeWg2cU1fS1U3Y0gwZmdGSHB0ZVRFRlBaTFVXMU5pS3N1VTQ2QkpwNGpsaHJnM3dhX0p5REpXTVlrWG9RY1ctYkxKRUpDenVDUHllbHVf?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 10:34:00 GMT",
-          "source": "WIRED"
-        }
-      ]
-    },
-    {
-      "id": "8f3655a7a404",
-      "title": "Concerns common fitness act is making women look ‘old’ - News.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNYl9BVmRnTkprRlFuOEM3eGcxT0RsTm5veVlYU1VSTG41NnFYY0N6SU1wa1o3NnpEb0psS2liRXN6ZVNQV3hRdUR6Sk5oSnFReXdGT0RqZGhHWk1xU2dlRE5YcnhzSEY5bXI1MkFiR0U0UTdxN2M4aVBueWZvV1VpSUN0N3JGeFlJSmVSTzlXeWUwTTVRUlFJLUFUNHBsYlNObEJOb1JUZktwc2",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYl9BVmRnTkprRlFuOEM3eGcxT0RsTm5veVlYU1VSTG41NnFYY0N6SU1wa1o3NnpEb0psS2liRXN6ZVNQV3hRdUR6Sk5oSnFReXdGT0RqZGhHWk1xU2dlRE5YcnhzSEY5bXI1MkFiR0U0UTdxN2M4aVBueWZvV1VpSUN0N3JGeFlJSmVSTzlXeWUwTTVRUlFJLUFUNHBsYlNObEJOb1JUZktwc2RfZzEzNi01bTJZVDZBTGNMTVhwa185eGNGMm02VHZrblo?oc=5",
+      "id": "ed096f8dd560",
+      "title": "CityFitness announces $100 million New Zealand expansion and move into women-only market - Australasian Leisure Management Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp2QjFfZmdPME5DblA5RnBZazBiXy13bEY0OWhVSzAyVWY3RmpTZ0pRVjVGU0N5SVF1Q1RFaWs3U1pLUm5xNklxTDZTZlJ5VXR4SFFjb0ZLTml5MExBMWY0OUlDbHFRNE8yNmxVYW5acGdIdFdkOWthcVRIY1c2N014SHhHZGZZVV9aekg5WHRneVAtaGRtSEM3MUxBZzBJX1Z3ZWZhVzJLTm",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp2QjFfZmdPME5DblA5RnBZazBiXy13bEY0OWhVSzAyVWY3RmpTZ0pRVjVGU0N5SVF1Q1RFaWs3U1pLUm5xNklxTDZTZlJ5VXR4SFFjb0ZLTml5MExBMWY0OUlDbHFRNE8yNmxVYW5acGdIdFdkOWthcVRIY1c2N014SHhHZGZZVV9aekg5WHRneVAtaGRtSEM3MUxBZzBJX1Z3ZWZhVzJLTmExM2h0NHA3Vl9SUXpQNDVIQkQ4VQ?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +78,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "first_seen": "2026-10-13T14:04:49+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 12 Oct 2026 07:43:36 GMT",
-          "source": "News.com.au"
+          "published": "Tue, 13 Oct 2026 06:32:39 GMT",
+          "source": "Australasian Leisure Management Magazine"
         }
       ]
     },
     {
-      "id": "c470748bb36d",
-      "title": "Your cells keep a record of every workout you’ve ever done – and those gains persist even after a break from exercise - The Conversation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT05oOGRBN3ByOW0zdkVuOUUtNWtFWklKYzFJUllqOXpQX1FyRUlLbjlzWnU1clpIaEpEMk9RTThSa3hZdFcwR05GTjhkOFBhRmwtZG12clpmNTlIOTZnZXp6UldaXzhMWXZ4aG0zR3l1WHB1X2twRUxwTnRHZXYzVTFNRmNBUm1oVF93aGpjV0k5cmM5dk9VSU03Ni05Z20xSUhmZ0FqOTVOSj",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT05oOGRBN3ByOW0zdkVuOUUtNWtFWklKYzFJUllqOXpQX1FyRUlLbjlzWnU1clpIaEpEMk9RTThSa3hZdFcwR05GTjhkOFBhRmwtZG12clpmNTlIOTZnZXp6UldaXzhMWXZ4aG0zR3l1WHB1X2twRUxwTnRHZXYzVTFNRmNBUm1oVF93aGpjV0k5cmM5dk9VSU03Ni05Z20xSUhmZ0FqOTVOSjhzdnc2WV9zNU5BQ0JualkyTkNQQ2VUem8tWUEwV25lNXV6ZGtXTW03WHVXOXhJdnF4YXN3VHhRbw?oc=5",
+      "id": "080c53518338",
+      "title": "‘Speechless’: Actor blasts SNL host over joke - News.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPczVCVlhGSjRtRU14TkRzVm5BM0RGaHJ0a3l1TnRkWUhuLWZ0Q2tsTW5nWXdFT1ZfaEs4RWlTbmxpU0lDc3hTaEctRzMtNjQ3RERjdVg2UDZ4OGllSThaZTZQMjNkZkhScjZTMVk4SmQxZlU2cjhJVl9fN3dKN1RIY0JwQnJZdEVDTDZLUmphWmxnZS1HckVIczBJQzU3dU5keWJFN1luYzhETH",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPczVCVlhGSjRtRU14TkRzVm5BM0RGaHJ0a3l1TnRkWUhuLWZ0Q2tsTW5nWXdFT1ZfaEs4RWlTbmxpU0lDc3hTaEctRzMtNjQ3RERjdVg2UDZ4OGllSThaZTZQMjNkZkhScjZTMVk4SmQxZlU2cjhJVl9fN3dKN1RIY0JwQnJZdEVDTDZLUmphWmxnZS1HckVIczBJQzU3dU5keWJFN1luYzhETHBXTXpKdVdPV2JVRXNfbDA4aXdCUE12ekpGT1MzUUd6R293dkh5UnlnMTA0ME1OcnI5ejd3S09saEV6cGJEMTNCZ2JEelVpSjBEQkIzeWVDcDBEZ3hjSGdJ0gGIAkFVX3lxTE9rMFBHdVp6SW1UcDF6RnROTWN0Vm8wSWVDN2ZIN0dFTmNNTFJWZnd1UjFYZ1dHRkszbU5Cd2hIcWlsUkRyTEc2aGVRNzlOZkFwSjVCVWp6ZFpJSmdHNUo3VXA4a2tyNl9yZmd0cGVHVVQyNjFvUF9YTmttSktGOHJTMDdhS3YwYVdsVHhib2VwanZaalM3dDlXS3Iwa1ZiY29TR19uVDNrejdyNDlPeTNvVzJWdWsxQ3RvRVBWLW5aUEZ5WkdLMnJqXzczbDJiQUh6UTJHY0JPRFpfd0VFZ1ExMnZRNkE5cDZVOC13T0VhSXlLSkhBaVZZRjMxRDFqcFF3VnFzZUxQaA?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,19 +98,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "first_seen": "2026-10-13T14:04:49+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 07 Oct 2026 12:08:01 GMT",
-          "source": "The Conversation"
+          "published": "Mon, 12 Oct 2026 20:13:45 GMT",
+          "source": "News.com.au"
         }
       ]
     },
     {
-      "id": "fc70fa9726ea",
-      "title": "Behind bars and charged with DV offences, Sam Wood has come undone - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzJVZVBBYXlkNm1QVlM3dnhQVjBMU3dVNkpuOTFiN3pvTF84NGlsdkpWN081S0ZsV3hlekRiZXcyUkl3UTFpd01pRVpJTXFEMjBoLTZqT0xMWVFKbWdZVURUaUs5Y1Y4S05EWDljU0JpMXFUNU42Um90OVBRZDNKRWlaQTE4RVZ0c3ZfUDFZVzdndnl5WVh4b2RMT01CeWpYaTMzV0NR?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzJVZVBBYXlkNm1QVlM3dnhQVjBMU3dVNkpuOTFiN3pvTF84NGlsdkpWN081S0ZsV3hlekRiZXcyUkl3UTFpd01pRVpJTXFEMjBoLTZqT0xMWVFKbWdZVURUaUs5Y1Y4S05EWDljU0JpMXFUNU42Um90OVBRZDNKRWlaQTE4RVZ0c3ZfUDFZVzdndnl5WVh4b2RMT01CeWpYaTMzV0NR?oc=5",
+      "id": "024c052de1b4",
+      "title": "National fitness brand backs Thompsons Corner with major Cranbourne East investment - Pakenham Gazette",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ2hyZFNBZVFiRl9hWW5kTGRqeHpaM2RjYURVUW5VTUlWOGtmTS12RGtwZnJWblhpeUE4ajFTYlU2c1FiZlhhSUJjVzNIZkpxUFZPcGtrOWR2b0k5TzIyRGcwRWV1RzFfN0NseFFtWW9Cck5mSWk0dlU2T2I1dlE3OGRMZXcxMmtjRzIycXhkbHkwYkVZWXYtaWZjX2x5OG5BVHJMUnBfQ0xHWX",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ2hyZFNBZVFiRl9hWW5kTGRqeHpaM2RjYURVUW5VTUlWOGtmTS12RGtwZnJWblhpeUE4ajFTYlU2c1FiZlhhSUJjVzNIZkpxUFZPcGtrOWR2b0k5TzIyRGcwRWV1RzFfN0NseFFtWW9Cck5mSWk0dlU2T2I1dlE3OGRMZXcxMmtjRzIycXhkbHkwYkVZWXYtaWZjX2x5OG5BVHJMUnBfQ0xHWXltWEJaQjZzZUR0WmtqSkczVy1oTXcwY084emkzdTlPdFZrTElBTk8yUg?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,7 +118,183 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "first_seen": "2026-10-13T14:04:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 13 Oct 2026 04:55:48 GMT",
+          "source": "Pakenham Gazette"
+        }
+      ]
+    },
+    {
+      "id": "cf03372091fd",
+      "title": "Medibank Launches Mental Fitness Platform Untangle Via Colenso BBDO - B&T",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNUnkyRHMwS3VjMjVjZng1YnltLVpFN2s4WndQbS1fQTFoT3pRMEgyYXo5NC01Mm9wemdXanlvaWpuRUk5TmJhWEpjMVdqdFBMZkw1Rll6dWFTRXAwc0o2b0lxU1dhemNDTWd0NkdYVnRydGEzd1NVbUg0UkF0a3UwNnhBVHpMRHN5VW1wVk5ZODQ2bFhXNnVBRA?oc=5\" target=\"_blank\">M",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUnkyRHMwS3VjMjVjZng1YnltLVpFN2s4WndQbS1fQTFoT3pRMEgyYXo5NC01Mm9wemdXanlvaWpuRUk5TmJhWEpjMVdqdFBMZkw1Rll6dWFTRXAwc0o2b0lxU1dhemNDTWd0NkdYVnRydGEzd1NVbUg0UkF0a3UwNnhBVHpMRHN5VW1wVk5ZODQ2bFhXNnVBRA?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-13T14:04:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 13 Oct 2026 05:19:52 GMT",
+          "source": "B&T"
+        }
+      ]
+    },
+    {
+      "id": "774ddd622c56",
+      "title": "It's Extreme, But I'll NEVER Eat These 7 Foods Again!",
+      "summary": "Eat like an athlete here - https://athleanx.com\nSubscribe - http://bit.ly/2b0coMW\n\nTrying to eat healthier in 2026? Before you overhaul your diet, take a closer look at the foods you already consider healthy. In this video, I break down 7 foods and food choices I'm reconsidering,",
+      "url": "https://www.youtube.com/watch?v=bcx79dIUIdU",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:11+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "bcx79dIUIdU",
+          "published": "2026-10-12T16:35:36+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "f8db23a42431",
+      "title": "They Misloaded A World Record Attempt...",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/CKRD5xQnfI8",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:14+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "CKRD5xQnfI8",
+          "published": "2026-10-13T13:00:10+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "31ba0b4131a7",
+      "title": "Biggest waste of money in your home gym may surprise you, fitness expert says - Fox News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbF8zRU1QYXRtUS13UFlrRGlDVnBxbWFFY3ZyVzZ6aUEwOEhMR2JYNm9UeTJTb3V0R1l5RmdmYWpLbUMyZmlvZGxITDVCVmtMelNDa1dOeGRvVzBuVFk3YnJfX0xITHdTYnFjUVNuWGZNWi00d1dETTJXYTVjbDJWVXpqWlZJQVE5M3h0MHFmSmVwNUpzQ0pV0gGcAUFVX3lxTE9abTBidlVSTH",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbF8zRU1QYXRtUS13UFlrRGlDVnBxbWFFY3ZyVzZ6aUEwOEhMR2JYNm9UeTJTb3V0R1l5RmdmYWpLbUMyZmlvZGxITDVCVmtMelNDa1dOeGRvVzBuVFk3YnJfX0xITHdTYnFjUVNuWGZNWi00d1dETTJXYTVjbDJWVXpqWlZJQVE5M3h0MHFmSmVwNUpzQ0pV0gGcAUFVX3lxTE9abTBidlVSTHFZaFNXNW5MMGNkaFNrLTItMVJlLU1yUWF5QmFOUVFESGhaYlBVTmRpd0NLd2UxZ1VQZ0NDZU9iQXNtOWJhVXllemVSc0xXVnJMQ05oOGRGYl9PUnA0T1ZtZFZ0alJzRWQ4T21hMXo2czBoV0dpR2o5QURGU3Z3bkJnZC14aGJ0TEJCVDd4cWs0Yl8xZQ?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-13T14:04:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 13 Oct 2026 11:00:52 GMT",
+          "source": "Fox News"
+        }
+      ]
+    },
+    {
+      "id": "9fcbd22440b8",
+      "title": "New Chapter For Murilla Fitness Centre - Mirage News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBaajJfYTlvX3JIaV9DV0plWnFEVjhYcWo5VGdkX1FWcVFHRmpMNVZpTDd4bTVIRHA5UGo1THZuMHh5Umk3aElzZVd0bU50MTM2eThHSFppTGlrVDIwVmdoMjE5dlR4YXk2Q2FDTzk1SEZOQlM3RGp6ZWV5WnZ4Y2s?oc=5\" target=\"_blank\">New Chapter For Murilla Fitness Cent",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaajJfYTlvX3JIaV9DV0plWnFEVjhYcWo5VGdkX1FWcVFHRmpMNVZpTDd4bTVIRHA5UGo1THZuMHh5Umk3aElzZVd0bU50MTM2eThHSFppTGlrVDIwVmdoMjE5dlR4YXk2Q2FDTzk1SEZOQlM3RGp6ZWV5WnZ4Y2s?oc=5",
+      "score": 59.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-13T14:04:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 13 Oct 2026 05:10:00 GMT",
+          "source": "Mirage News"
+        },
+        {
+          "published": "Tue, 13 Oct 2026 05:09:56 GMT",
+          "source": "The National Tribune"
+        }
+      ]
+    },
+    {
+      "id": "706f5f44c4d9",
+      "title": "I'm 51. This is What I Eat EVERY Day to Be Lean.",
+      "summary": "Want to know what to eat to get shredded, build muscle, and stay lean all year? In this video, I’m sharing 12 foods I eat every day that make my diet easier to follow and help me maintain six pack abs without giving up the foods I enjoy.\n\nGet Lean and Stay Lean Here - https://ath",
+      "url": "https://www.youtube.com/watch?v=5dyW5aTV67c",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:11+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "5dyW5aTV67c",
+          "published": "2026-10-05T17:06:16+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "aea7d027efb9",
+      "title": "Sources of Food Don't Matter... Cravings Do.",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/LWmSAMEtPP8",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:14+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "LWmSAMEtPP8",
+          "published": "2026-10-12T19:00:30+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "fc70fa9726ea",
+      "title": "Behind bars and charged with DV offences, Sam Wood has come undone - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzJVZVBBYXlkNm1QVlM3dnhQVjBMU3dVNkpuOTFiN3pvTF84NGlsdkpWN081S0ZsV3hlekRiZXcyUkl3UTFpd01pRVpJTXFEMjBoLTZqT0xMWVFKbWdZVURUaUs5Y1Y4S05EWDljU0JpMXFUNU42Um90OVBRZDNKRWlaQTE4RVZ0c3ZfUDFZVzdndnl5WVh4b2RMT01CeWpYaTMzV0NR?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzJVZVBBYXlkNm1QVlM3dnhQVjBMU3dVNkpuOTFiN3pvTF84NGlsdkpWN081S0ZsV3hlekRiZXcyUkl3UTFpd01pRVpJTXFEMjBoLTZqT0xMWVFKbWdZVURUaUs5Y1Y4S05EWDljU0JpMXFUNU42Um90OVBRZDNKRWlaQTE4RVZ0c3ZfUDFZVzdndnl5WVh4b2RMT01CeWpYaTMzV0NR?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-13T14:04:49+00:00",
       "raw_samples": [
         {
           "published": "Fri, 09 Oct 2026 21:04:04 GMT",
@@ -147,70 +303,56 @@
       ]
     },
     {
-      "id": "5e82726b0124",
-      "title": "Fitness, fun and learning - Port Lincoln Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9ya0JKWHdLSDFwOEtmWE1aSFJ0ZHQxLUQ2WmdlV1R6RkxKTER3b2dSUEE2ZUZQblNfZDd4ek1nM0Rtcjd4YTBxRUo0cGMwcEZIWEtUczJDRjcxbTV0N1N3TE9URGRJaFBlTHhPRmlVczJXTWxGRTJUa0pzZGIwZw?oc=5\" target=\"_blank\">Fitness, fun and learning</a>&nbsp;&n",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ya0JKWHdLSDFwOEtmWE1aSFJ0ZHQxLUQ2WmdlV1R6RkxKTER3b2dSUEE2ZUZQblNfZDd4ek1nM0Rtcjd4YTBxRUo0cGMwcEZIWEtUczJDRjcxbTV0N1N3TE9URGRJaFBlTHhPRmlVczJXTWxGRTJUa0pzZGIwZw?oc=5",
-      "score": 64.8,
+      "id": "6c319a92bd66",
+      "title": "Is Lifting Enough, or Do You Actually Need Cardio?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
+      "url": "https://www.youtube.com/watch?v=38bJK7W7SZ8",
+      "score": 56.98,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:14+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 12 Oct 2026 23:00:22 GMT",
-          "source": "Port Lincoln Times"
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "38bJK7W7SZ8",
+          "published": "2026-10-12T16:00:39+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "af652be41b1b",
-      "title": "Google Fitbit Edge: New Fitness Tracker Brings Improved GPS, AI Health Features, and 7-Day Battery Life - TodoMountainBike",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOamVzcnlUT1dWelNPYmtBWVE3SFd0XzFBYlRWUmsxZTJnRzRzSXpwZHJRN3hlV3JDaGZZcHVKazFTV2pyOG5vZWJucDgtNXdwamdDQzNoRFRYVWsxWUNMcjR1bTEyS0pxa0w3bC1nM2dsck1UY3ZZVnZHb1AxOU94VG9mTTBaMW84U2pxTmlsQm42OHdWTzFZYXVKZEdmYjlQVHFQVWdrX3JfS0",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOamVzcnlUT1dWelNPYmtBWVE3SFd0XzFBYlRWUmsxZTJnRzRzSXpwZHJRN3hlV3JDaGZZcHVKazFTV2pyOG5vZWJucDgtNXdwamdDQzNoRFRYVWsxWUNMcjR1bTEyS0pxa0w3bC1nM2dsck1UY3ZZVnZHb1AxOU94VG9mTTBaMW84U2pxTmlsQm42OHdWTzFZYXVKZEdmYjlQVHFQVWdrX3JfS083bG82S0M5X18yQ1cwczdQaDZyTWFfTFNRTGR1V1RzanQ?oc=5",
-      "score": 61.2,
+      "id": "2cb366764d3e",
+      "title": "World's Strongest Bencher Still Starts With The Bar",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/meqNhW8gTM4",
+      "score": 54.669999999999995,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:14+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 12 Oct 2026 17:30:46 GMT",
-          "source": "TodoMountainBike"
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "meqNhW8gTM4",
+          "published": "2026-10-12T13:00:29+00:00"
         }
-      ]
-    },
-    {
-      "id": "4373fe656027",
-      "title": "Costs cap lifted for Perth gym’s barrister in fight with day hospital - Lawyerly",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZTROYVhSSTg5OFlJN2FUdUNBSGx6TmIyU2lqcndCV25mS21hOGtQa0xtVWVuR0xueVRBWDJicVBhT3E3dU1sN3daeURvMi1IOFhMaEZUVDhJYkZ5aG1fLURtY0p3bnVtSExNSUhKX1lsX2NNNnlSQngzQUI1MV83WEhJSW1YOG9wMjRJSlhQa0FEWV9XM0x4Y2xEYWhZSzFGbU1laEloZDY?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZTROYVhSSTg5OFlJN2FUdUNBSGx6TmIyU2lqcndCV25mS21hOGtQa0xtVWVuR0xueVRBWDJicVBhT3E3dU1sN3daeURvMi1IOFhMaEZUVDhJYkZ5aG1fLURtY0p3bnVtSExNSUhKX1lsX2NNNnlSQngzQUI1MV83WEhJSW1YOG9wMjRJSlhQa0FEWV9XM0x4Y2xEYWhZSzFGbU1laEloZDY?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
       ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 16:43:35 GMT",
-          "source": "Lawyerly"
-        }
-      ]
+      "is_global": true
     },
     {
-      "id": "72b29770fe51",
-      "title": "Google unveils Fitbit Edge fitness tracker for $179.99 — TechCrunch - UA.NEWS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQd0dLclZpUjA2UTgzaWxKTHpkVlFxdGF5WTZDNXZOaUVvUmx0a1dwN1BnN25zd3RrUklFZ0txUXo3SG1rTUM1UnNpZzdNRFM5OXFNS1ltUnYzS2ZzMW40YXY0QmFnYlJSSU1lSGNHN1NoUURoQ2FtMWR2TGpINURyZVlPTV9PYXhIRF9MMVZ4T1FuaElHWi1Fa1RLa0tMNUw4YlA4M2FrTQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd0dLclZpUjA2UTgzaWxKTHpkVlFxdGF5WTZDNXZOaUVvUmx0a1dwN1BnN25zd3RrUklFZ0txUXo3SG1rTUM1UnNpZzdNRFM5OXFNS1ltUnYzS2ZzMW40YXY0QmFnYlJSSU1lSGNHN1NoUURoQ2FtMWR2TGpINURyZVlPTV9PYXhIRF9MMVZ4T1FuaElHWi1Fa1RLa0tMNUw4YlA4M2FrTQ?oc=5",
+      "id": "80588d7d2101",
+      "title": "Feyenoord captain Luciano Valente reveals secret to improved fitness ahead of Como clash - Goal.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc0RGbFhKZWl6YTNQZkI2aXlBdm5RWVk3d1F4VllxZGJuWmIzTzFSdllBcUZiQVg4ZnhVTC1ZbVhuSE9oZnlwN3VyYVlwMjh4RW9rU2Y3SHFQcUZtTlY4UzhXVkloU1FUMmh3Xzc2SWNHR1JjYmJwbGZlTTdsY2tQa0t4OGVSaElOcGZpbXU3eDY0UFZRYy1SV2pCZmFGOFhXTlBzbGVmVlFxcH",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc0RGbFhKZWl6YTNQZkI2aXlBdm5RWVk3d1F4VllxZGJuWmIzTzFSdllBcUZiQVg4ZnhVTC1ZbVhuSE9oZnlwN3VyYVlwMjh4RW9rU2Y3SHFQcUZtTlY4UzhXVkloU1FUMmh3Xzc2SWNHR1JjYmJwbGZlTTdsY2tQa0t4OGVSaElOcGZpbXU3eDY0UFZRYy1SV2pCZmFGOFhXTlBzbGVmVlFxcHFxS25TSEdaczJleU12UktyTXE1RXJoQ1VIVE1HbklkUXBsYmhORHJubGlWSQ?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +360,42 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "first_seen": "2026-10-13T14:04:49+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 12 Oct 2026 16:09:54 GMT",
-          "source": "UA.NEWS"
+          "published": "Tue, 13 Oct 2026 13:27:06 GMT",
+          "source": "Goal.com"
         }
       ]
     },
     {
-      "id": "f235f59fa44c",
-      "title": "Influencers and businesses rush to distance themselves from Sam Wood amid domestic violence allegations - 7NEWS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2E0U3V1cktEOTd6bi1lUGdYT2NFR3kwYlR5YXJBcGpzbU8zNnJ5WTNPTTlZWi1oMUVwczhnSlBvbFB6SHZIcVQ3dm1BTmIyTGM0QWlVY0Y1QTRWSzhMd1pOQk9SVFB0bUNvMDczVThXMFJmZzdKNjhiSkFJYVF1ckdNYXZlSTEtT2hLVzNoUEc1Z1hrdnRpMEFUekFPSm5EUlNLZmhtNUJfbW",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2E0U3V1cktEOTd6bi1lUGdYT2NFR3kwYlR5YXJBcGpzbU8zNnJ5WTNPTTlZWi1oMUVwczhnSlBvbFB6SHZIcVQ3dm1BTmIyTGM0QWlVY0Y1QTRWSzhMd1pOQk9SVFB0bUNvMDczVThXMFJmZzdKNjhiSkFJYVF1ckdNYXZlSTEtT2hLVzNoUEc1Z1hrdnRpMEFUekFPSm5EUlNLZmhtNUJfbWNTc2l5TGRyTHVfT1BHY2Q5d3lqVXhUWWhLUkc2RWRRUERMRFhLb1FyaGZ4b9IB3AFBVV95cUxPRll2Ty00bVJjM203eTRkbTlHZndoU3lUY29pczcwQ2tCUUo3NnZtalhjR1lsaFIyNXBnUmxielRuUGFyX2VaelUtLVZHQUx0TnJ6SlNJeGEyOEhIN0xLV0QxUTBIMlVSYmZrU3Y1bTNDVWNkRHNpaWc4eDAwUkNjQ0drZl84T2ZQSDdKNGpmLWVoM3BOcDQ5QnZ5WWd2SVdyRk95Y3JPR3lZTVNFZ0hmWWpWTHhzb0c3NWZHTFVjMGJwLXktdS1URWI5TWx6T2cxN1B6TURpVUx1VDd4?oc=5",
+      "id": "744a8b2d3087",
+      "title": "The Strongest Bencher Of All Time is Insane",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/HmGVJndQCsc",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:14+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "HmGVJndQCsc",
+          "published": "2026-10-11T13:00:37+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "f09e7617552c",
+      "title": "Google unveils new Fitbit line as fitness gadget competition heats up - Los Angeles Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEhWTVQyQjh3dXp2dElWWkFRTTVQenlUZkNLa0tLWU9nRHhIZzV2YkExcFVOTUExdWtmVENvYWtKY0ZoTUJEZjdoV0N2Uzd6cjF5RFdlT2puR1dtbG4yZzRrd2JWd1l0b1JLLVp6OG9BS1ppeXJWa2xTelFEZU5SYWpyejFnUDdXUTYtS2dSNjZpZUZNSWZuZW03aFZ2Qzh1RF9XRXQ4elo3N0",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEhWTVQyQjh3dXp2dElWWkFRTTVQenlUZkNLa0tLWU9nRHhIZzV2YkExcFVOTUExdWtmVENvYWtKY0ZoTUJEZjdoV0N2Uzd6cjF5RFdlT2puR1dtbG4yZzRrd2JWd1l0b1JLLVp6OG9BS1ppeXJWa2xTelFEZU5SYWpyejFnUDdXUTYtS2dSNjZpZUZNSWZuZW03aFZ2Qzh1RF9XRXQ4elo3N05jSXZSTHozV3hNbzlYRTZB?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +403,65 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "first_seen": "2026-10-13T14:04:49+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 10 Oct 2026 04:47:14 GMT",
-          "source": "7NEWS"
+          "published": "Tue, 13 Oct 2026 13:47:04 GMT",
+          "source": "Los Angeles Times"
         }
       ]
     },
     {
-      "id": "aa5f39aac3ea",
-      "title": "Compass Business Park Planet Fitness and Salvos-anchored investment for sale - CBRE - Commo.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFY1cjh1UjJfUGN1Y2RLb1lydmMzNVNCcThlT3NTQS1VclVSR2Qxek9xSmQwVUJvU3d6UW9Ed1JHek1YLWVkZEQ0TFdFZThXR1hOVXkzNDhwRHFSQUlzeW1hOWlSWjY3WXo4WnpwNTRtN2IxMnNjRFRVZ3BNSFh6cm1ybW4wa1dMeDE0RmgyUHVuU3YzVms3cVpqM2ZfYUZJZDk3OENQYm4tSE",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFY1cjh1UjJfUGN1Y2RLb1lydmMzNVNCcThlT3NTQS1VclVSR2Qxek9xSmQwVUJvU3d6UW9Ed1JHek1YLWVkZEQ0TFdFZThXR1hOVXkzNDhwRHFSQUlzeW1hOWlSWjY3WXo4WnpwNTRtN2IxMnNjRFRVZ3BNSFh6cm1ybW4wa1dMeDE0RmgyUHVuU3YzVms3cVpqM2ZfYUZJZDk3OENQYm4tSERCU2NMSU5fUFU0VFRka25xQUhFMFpJQQ?oc=5",
+      "id": "71bc215d24fe",
+      "title": "Organic Food is NOT Worth The Extra $$",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/F2R0o0yZf2I",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:14+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "F2R0o0yZf2I",
+          "published": "2026-10-10T19:00:23+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "bed00ba0cc52",
+      "title": "800lb Bencher's Weird Trick To Get Stronger",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/kV7dBrVj7IA",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:14+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "kV7dBrVj7IA",
+          "published": "2026-10-10T13:00:40+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "55459274f93f",
+      "title": "Brazen thieves filmed stealing vehicle from 24-hour gym, police investigating - The Border Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEU1QkRxSmh6U0hPTWxWNDBUUU9kSW12TU1DUlJ1UlRvd1VJLTF4WXFEZkN3cDVodERSWFF0R1hiN2J2TEp5elFnanM3RkxBUTJma0d1ekVhcmNWSDVWUjNTdlFtWjNTZUFYdzg3eWhRUGwxcDgwS01Ick1BdkFvQzlCcnByMkRwdzd4WENwSXhGWWxTdkxHSUU1SWlKS0QyUHhRNVBkY0xiUQ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEU1QkRxSmh6U0hPTWxWNDBUUU9kSW12TU1DUlJ1UlRvd1VJLTF4WXFEZkN3cDVodERSWFF0R1hiN2J2TEp5elFnanM3RkxBUTJma0d1ekVhcmNWSDVWUjNTdlFtWjNTZUFYdzg3eWhRUGwxcDgwS01Ick1BdkFvQzlCcnByMkRwdzd4WENwSXhGWWxTdkxHSUU1SWlKS0QyUHhRNVBkY0xiUQ?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +469,42 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "first_seen": "2026-10-13T14:04:49+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 12 Oct 2026 05:42:52 GMT",
-          "source": "Commo."
+          "published": "Tue, 13 Oct 2026 05:08:45 GMT",
+          "source": "The Border Mail"
         }
       ]
     },
     {
-      "id": "cf10a8894d80",
-      "title": "YR Fitness reports over 34,000 gym projects worldwide - Australasian Leisure Management Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOU2tGZzZtNDYteXhfODFMUXlaeVU2SWQ4cmlWUDNsOURVRlBpaXFma0thRkp5TF9Md0s0WDJuVEFlTGpHNlFyS2JsOFpzdG81cTZVVkZvWW1CNXZVQmliMFpIWG5sYkQyU1pFb1daT19DNUhId0hSNFlkcUJLekZJbDNnNkhFSHEtZ3lkajg5SGM?oc=5\" target=\"_blank\">YR Fitness r",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU2tGZzZtNDYteXhfODFMUXlaeVU2SWQ4cmlWUDNsOURVRlBpaXFma0thRkp5TF9Md0s0WDJuVEFlTGpHNlFyS2JsOFpzdG81cTZVVkZvWW1CNXZVQmliMFpIWG5sYkQyU1pFb1daT19DNUhId0hSNFlkcUJLekZJbDNnNkhFSHEtZ3lkajg5SGM?oc=5",
+      "id": "1101e614ac6d",
+      "title": "Why Pesticide Fears Are So Frustrating",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/Mtz4Cje49Ko",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:14+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "Mtz4Cje49Ko",
+          "published": "2026-10-09T19:00:14+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "c470748bb36d",
+      "title": "Your cells keep a record of every workout you’ve ever done – and those gains persist even after a break from exercise - The Conversation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT05oOGRBN3ByOW0zdkVuOUUtNWtFWklKYzFJUllqOXpQX1FyRUlLbjlzWnU1clpIaEpEMk9RTThSa3hZdFcwR05GTjhkOFBhRmwtZG12clpmNTlIOTZnZXp6UldaXzhMWXZ4aG0zR3l1WHB1X2twRUxwTnRHZXYzVTFNRmNBUm1oVF93aGpjV0k5cmM5dk9VSU03Ni05Z20xSUhmZ0FqOTVOSj",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT05oOGRBN3ByOW0zdkVuOUUtNWtFWklKYzFJUllqOXpQX1FyRUlLbjlzWnU1clpIaEpEMk9RTThSa3hZdFcwR05GTjhkOFBhRmwtZG12clpmNTlIOTZnZXp6UldaXzhMWXZ4aG0zR3l1WHB1X2twRUxwTnRHZXYzVTFNRmNBUm1oVF93aGpjV0k5cmM5dk9VSU03Ni05Z20xSUhmZ0FqOTVOSjhzdnc2WV9zNU5BQ0JualkyTkNQQ2VUem8tWUEwV25lNXV6ZGtXTW03WHVXOXhJdnF4YXN3VHhRbw?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,133 +512,36 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "first_seen": "2026-10-13T14:04:49+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 09 Oct 2026 14:03:05 GMT",
-          "source": "Australasian Leisure Management Magazine"
-        }
-      ]
-    },
-    {
-      "id": "b0be58fda5ed",
-      "title": "The $179.99 Fitbit Edge is Google’s New Midrange Fitness Tracker - Thurrott.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTJlNXNsMXhwLXMyWFU2ekhDd1Q3c2EtTGUwZUc3N0ZsSy1TbGFuTXdndU9JY0poZEpNTjRSTEdkM1pqbXh1ZTAxQTV5OGpNYTVPb1lVRUxxM2g5eVk0YXJyVlVwNnp2T1N0blZDeXE0a0V0bDE2UnZpNFhOVGlTQ25zSUpNWTA1SmlGVmRZWnB1SFNYVkpvbTcyUmFMVmhpV3BJb3Rwaw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTJlNXNsMXhwLXMyWFU2ekhDd1Q3c2EtTGUwZUc3N0ZsSy1TbGFuTXdndU9JY0poZEpNTjRSTEdkM1pqbXh1ZTAxQTV5OGpNYTVPb1lVRUxxM2g5eVk0YXJyVlVwNnp2T1N0blZDeXE0a0V0bDE2UnZpNFhOVGlTQ25zSUpNWTA1SmlGVmRZWnB1SFNYVkpvbTcyUmFMVmhpV3BJb3Rwaw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 14:31:39 GMT",
-          "source": "Thurrott.com"
-        }
-      ]
-    },
-    {
-      "id": "c269c13dcedd",
-      "title": "Researchers Share the Swish and Spit Trick That Unlocks Instant Workout Power Without Upsetting Your Stomach - Men's Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTDhPY3hmZGlCRHdnSkl1WElwRS1xVnNOZTlsakVubkRzUWtMOTlua1EwLUwyN2t0YmdzRDVyNjB3NzlGMTV2VU9Yb1JjS2EyRkVNTEVZeEZucWJkNF82SWlhdnlKNDNGNEI5cGVlUUJKQmlqMVprSFljWjVKRV9iSkZSdTRRNzJnZWc?oc=5\" target=\"_blank\">Researchers Share th",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTDhPY3hmZGlCRHdnSkl1WElwRS1xVnNOZTlsakVubkRzUWtMOTlua1EwLUwyN2t0YmdzRDVyNjB3NzlGMTV2VU9Yb1JjS2EyRkVNTEVZeEZucWJkNF82SWlhdnlKNDNGNEI5cGVlUUJKQmlqMVprSFljWjVKRV9iSkZSdTRRNzJnZWc?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 16:16:42 GMT",
-          "source": "Men's Journal"
-        }
-      ]
-    },
-    {
-      "id": "96e4d9a724a6",
-      "title": "The future of boutique fitness is human - Philstar Life",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBZalpuWXJQenE0UW5CMnJJbnFxYXVpUl8yR25iOWthOFFad04yQlRwV2FnWWUxWDhtOE5uaXNrSkc1a0h2UFo0MUd1cXVRcjEtUUhUUW54c2l2WW04TjZhS3Rxby1PNzRHdGNSdk5HY2otTGgt?oc=5\" target=\"_blank\">The future of boutique fitness is human</a>&nbsp;&n",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZalpuWXJQenE0UW5CMnJJbnFxYXVpUl8yR25iOWthOFFad04yQlRwV2FnWWUxWDhtOE5uaXNrSkc1a0h2UFo0MUd1cXVRcjEtUUhUUW54c2l2WW04TjZhS3Rxby1PNzRHdGNSdk5HY2otTGgt?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 12 Oct 2026 21:06:31 GMT",
-          "source": "Philstar Life"
-        }
-      ]
-    },
-    {
-      "id": "13a840fe2274",
-      "title": "My son goes to the gym a lot. How can I tell if this is healthy or a sign something is wrong? - The Conversation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTJ2bUh3dEZiS293bGxtMXRzRFRXcEtsa19kdV9ienFRZF9ZeWdzTGlLdmtkYWlQVWZjd1A0Z2JyRTFQdGEwRGJITHVpc3drZFczN29NVzNiVUhpek1VQ3FfX3hSbzl2Q3Z6ZktpNzJ1SFJWODFIcU04elVqYlVKbkpUZ1dZaGVuX0xabUZEV0tsWGh2X05fMFI4Q0g3aFc2cGJoY0QxQUZINl",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTJ2bUh3dEZiS293bGxtMXRzRFRXcEtsa19kdV9ienFRZF9ZeWdzTGlLdmtkYWlQVWZjd1A0Z2JyRTFQdGEwRGJITHVpc3drZFczN29NVzNiVUhpek1VQ3FfX3hSbzl2Q3Z6ZktpNzJ1SFJWODFIcU04elVqYlVKbkpUZ1dZaGVuX0xabUZEV0tsWGh2X05fMFI4Q0g3aFc2cGJoY0QxQUZINlNNRmU2UkpKbEJ6N2dWT2U4UnJxVmdYbi11?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 08 Oct 2026 19:05:34 GMT",
+          "published": "Wed, 07 Oct 2026 12:08:01 GMT",
           "source": "The Conversation"
         }
       ]
     },
     {
-      "id": "fe96229a59eb",
-      "title": "A $50-million fitness empire by 32: Inside Tammy Hembrow’s next chapter - SMH.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWkRYZTZHOEJyc1IwMHFfSXFQc1pNSk00ZEFHbElHcmJtakdJU2dseUFaY0xrRzl1NDJJdHJSQzdJVUtSTXU4MXdMYncxR3hGZzZDRjdKRXAxNFhUeFdsd3liekRnU211b2Z3NjFfU3BDZG9WVUlaTzVOc1ZrS1RHMUFBUEo4cnV1TF9iZXoxcm54b0ctcVBGdC1kTy1kc25nc0N6TWh4SW5DT2",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWkRYZTZHOEJyc1IwMHFfSXFQc1pNSk00ZEFHbElHcmJtakdJU2dseUFaY0xrRzl1NDJJdHJSQzdJVUtSTXU4MXdMYncxR3hGZzZDRjdKRXAxNFhUeFdsd3liekRnU211b2Z3NjFfU3BDZG9WVUlaTzVOc1ZrS1RHMUFBUEo4cnV1TF9iZXoxcm54b0ctcVBGdC1kTy1kc25nc0N6TWh4SW5DT2dNV2ZBUlkyMGxDLW1aVUI0QkNqTXZtWGVSUHRJYTBvMjhMaVRrVjlobkhQT084QkNNYTFZ?oc=5",
-      "score": 25.2,
+      "id": "c5a78444aa41",
+      "title": "Exercise Scientist Critiques IShowSpeed: Insane Athlete or Just Hype?",
+      "summary": "LMNT has a new Flavor! Introducing Lemonade Iced Tea with caffeine!  Get a free 8-count Sample Pack of LMNT's most popular drink mix flavors with any purchase at- https://DrinkLMNT.com/RP\n\nThe UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hype\n\n0:00 Dr Mike Critiques iShowSp",
+      "url": "https://www.youtube.com/watch?v=n1-KuZ9aOHM",
+      "score": 43.12,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
+      "region": "global",
+      "first_seen": "2026-10-13T14:07:14+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 10 Oct 2026 18:00:00 GMT",
-          "source": "SMH.com.au"
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "n1-KuZ9aOHM",
+          "published": "2026-10-09T16:00:23+00:00"
         }
-      ]
-    },
-    {
-      "id": "f0a001589ae5",
-      "title": "Police investigate alleged assault of child by gymnastics coach - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3YwaUdJcDdHNWZKbks1dVNrcFlMck1tb05iQl9IczJ0OGVZblA0OGVveUg5enNXQUV4Yk1wRnRNam41U3F6Tkc3RlI4Z3VkRkJmYXZBLUd0WDA5cWtxcEYybThtckJrM1ZQaEJhcTZZbmR6bUJ5QkRZeUlFNTNNZ3lINlJhNG9sbXpLVnU5bUV2YXhtUjJnaHZRRE5YOWRf?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3YwaUdJcDdHNWZKbks1dVNrcFlMck1tb05iQl9IczJ0OGVZblA0OGVveUg5enNXQUV4Yk1wRnRNam41U3F6Tkc3RlI4Z3VkRkJmYXZBLUd0WDA5cWtxcEYybThtckJrM1ZQaEJhcTZZbmR6bUJ5QkRZeUlFNTNNZ3lINlJhNG9sbXpLVnU5bUV2YXhtUjJnaHZRRE5YOWRf?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
       ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-13T00:34:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 06 Oct 2026 07:06:40 GMT",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        }
-      ]
+      "is_global": true
     }
   ]
 }
