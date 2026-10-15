@@ -2,7 +2,7 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "AU",
-  "generated_at": "2026-10-15T04:36:23+00:00",
+  "generated_at": "2026-10-15T11:28:51+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
           "published": "Thu, 15 Oct 2026 01:15:10 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "b1fd9e836249",
-      "title": "Qld tourism businesses say fuel prices behind drop in visitor numbers - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDhUU2F0RWlJd0NtTXlIR3Rpa0pMNnZtVlhtOWZYaWpkQXA3WER2TUdCd0wtT0I3LXdUYmotQ2FTbHp6b2Z2dW9lUjNLenFsOGdMZDZqVUtHT1BRQXJIellwX2J2dU9oYlFGeXkyZGd3T0dyTmhYc01kYTR5M1NFczYtM3V0VGFrclhzTnFvd21LemxUc0c1LXR0TXBhbWlGbnliRS1mVGtLVX",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDhUU2F0RWlJd0NtTXlIR3Rpa0pMNnZtVlhtOWZYaWpkQXA3WER2TUdCd0wtT0I3LXdUYmotQ2FTbHp6b2Z2dW9lUjNLenFsOGdMZDZqVUtHT1BRQXJIellwX2J2dU9oYlFGeXkyZGd3T0dyTmhYc01kYTR5M1NFczYtM3V0VGFrclhzTnFvd21LemxUc0c1LXR0TXBhbWlGbnliRS1mVGtLVXc?oc=5",
+      "id": "7b3ec146d22f",
+      "title": "The Unique Tourism Collection hosts showcase events in three cities - travelweekly.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaU5FSkVFcHFhRkdMbUR2cnlDNk1xRVFZaHNJcHBqUFFPZHR1aTFiMHh0M2ZoSkJJZnM5cml3UTVKY29pUV9ybHQ2X2U5N3QtdUpOSExLMXlPYU10YWFJdzFmZi16Sl9Bd0ZUS1Vrcld2VWlhR014aWQ0dkM1QUNwZGQ1cm13T3dKQW1pMnNQb0NjNWxTdlk2bG1GZ0E?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaU5FSkVFcHFhRkdMbUR2cnlDNk1xRVFZaHNJcHBqUFFPZHR1aTFiMHh0M2ZoSkJJZnM5cml3UTVKY29pUV9ybHQ2X2U5N3QtdUpOSExLMXlPYU10YWFJdzFmZi16Sl9Bd0ZUS1Vrcld2VWlhR014aWQ0dkM1QUNwZGQ1cm13T3dKQW1pMnNQb0NjNWxTdlk2bG1GZ0E?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 15 Oct 2026 03:22:39 GMT",
+          "source": "travelweekly.com.au"
+        }
+      ]
+    },
+    {
+      "id": "b1fd9e836249",
+      "title": "Qld tourism businesses say fuel prices behind drop in visitor numbers - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDhUU2F0RWlJd0NtTXlIR3Rpa0pMNnZtVlhtOWZYaWpkQXA3WER2TUdCd0wtT0I3LXdUYmotQ2FTbHp6b2Z2dW9lUjNLenFsOGdMZDZqVUtHT1BRQXJIellwX2J2dU9oYlFGeXkyZGd3T0dyTmhYc01kYTR5M1NFczYtM3V0VGFrclhzTnFvd21LemxUc0c1LXR0TXBhbWlGbnliRS1mVGtLVX",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDhUU2F0RWlJd0NtTXlIR3Rpa0pMNnZtVlhtOWZYaWpkQXA3WER2TUdCd0wtT0I3LXdUYmotQ2FTbHp6b2Z2dW9lUjNLenFsOGdMZDZqVUtHT1BRQXJIellwX2J2dU9oYlFGeXkyZGd3T0dyTmhYc01kYTR5M1NFczYtM3V0VGFrclhzTnFvd21LemxUc0c1LXR0TXBhbWlGbnliRS1mVGtLVXc?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 22:38:42 GMT",
@@ -51,14 +71,14 @@
       "title": "Hobby-maxxing and childlike wonder: The biggest travel trends in 2027 are all about finding your joy - Homes To Love",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjZodzFPX084LWVkQ2ZkOGtmNnVTSm5Db2JuSUlRZ2NNVC12ZVo4MVF1UFBvR05EYnFpbnc5bk1FSk9sYzBFZHdMZGdheW1lbVlRV0RhdTJKaDlsWFNzanpvN2dtVm5YOWdvMUx6TDdiUnZpYlI5LXpnTWxjVGplcmUwdw?oc=5\" target=\"_blank\">Hobby-maxxing and childlike w",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjZodzFPX084LWVkQ2ZkOGtmNnVTSm5Db2JuSUlRZ2NNVC12ZVo4MVF1UFBvR05EYnFpbnc5bk1FSk9sYzBFZHdMZGdheW1lbVlRV0RhdTJKaDlsWFNzanpvN2dtVm5YOWdvMUx6TDdiUnZpYlI5LXpnTWxjVGplcmUwdw?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 23:52:27 GMT",
@@ -67,18 +87,58 @@
       ]
     },
     {
-      "id": "bea3ce66cb58",
-      "title": "The Australian relaunches travel coverage with new Travel + Luxury Weekend liftout - Mediaweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBmN0VhOEJGbm1uTlhYakM2NU9nYjBlZkRrQUdhSVdLTkN4T3dTb1dUeml2TmNsMWNLWndQU1lkcmlDVWpDUWR3ZWhFdFgtVEVuZG00aGk3amdUWU5NQ0dCTUs5S1djVFJBMWhiWTFPQzM2REp2S0dVdDZiSjZ4SHc?oc=5\" target=\"_blank\">The Australian relaunches travel cov",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmN0VhOEJGbm1uTlhYakM2NU9nYjBlZkRrQUdhSVdLTkN4T3dTb1dUeml2TmNsMWNLWndQU1lkcmlDVWpDUWR3ZWhFdFgtVEVuZG00aGk3amdUWU5NQ0dCTUs5S1djVFJBMWhiWTFPQzM2REp2S0dVdDZiSjZ4SHc?oc=5",
-      "score": 79.2,
+      "id": "145e3e9c3259",
+      "title": "Once-in-a-generation tourism opportunity in the Blue Mountains - NSW Government",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTBjeDQxd2pvMWpTMTFrOWRXcTFJeHB3SFpLQW4xcTdqOHRTNUJKTUtKRGFsOGpTV3ZnaWVITDhwXzNzNDFfVWN4cG1GOGpFVEJEYVVMZVZwX3J2dkU4YjhpTzM0dkdZUTh0NUlnYllrM1hPU2hkall5bm9QeFNaUw?oc=5\" target=\"_blank\">Once-in-a-generation tourism oppo",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTBjeDQxd2pvMWpTMTFrOWRXcTFJeHB3SFpLQW4xcTdqOHRTNUJKTUtKRGFsOGpTV3ZnaWVITDhwXzNzNDFfVWN4cG1GOGpFVEJEYVVMZVZwX3J2dkU4YjhpTzM0dkdZUTh0NUlnYllrM1hPU2hkall5bm9QeFNaUw?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 14 Oct 2026 00:48:43 GMT",
+          "source": "NSW Government"
+        }
+      ]
+    },
+    {
+      "id": "2afaa35dccd4",
+      "title": "Stories That Stay With You: New tourism campaign invites visitors to slow down on the Capricorn Coast - Capricorn Enterprise",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQmNPYkN4Ulh2WWFyMWxQa1B4NXU5bThUcDBJRVRXYmRaWUt2elZMVTl4Q0Z1bVlkb1V5cUJCcEpDQlFuZkRFZEVZVEZXUG9Eay13cnFtNkdrczhTUnNLdEJVWUZPQUpxaDQ4VHZNcm1EeHdFZk9EcGhTTEJ1UmJNYWpqSFdGbFV3alNINUY1Nk9sZ0dseGU1Wk1RYnRoUVVJZjhBeWZSOEdsaF",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQmNPYkN4Ulh2WWFyMWxQa1B4NXU5bThUcDBJRVRXYmRaWUt2elZMVTl4Q0Z1bVlkb1V5cUJCcEpDQlFuZkRFZEVZVEZXUG9Eay13cnFtNkdrczhTUnNLdEJVWUZPQUpxaDQ4VHZNcm1EeHdFZk9EcGhTTEJ1UmJNYWpqSFdGbFV3alNINUY1Nk9sZ0dseGU1Wk1RYnRoUVVJZjhBeWZSOEdsaF9tS0FXdUxzbnQzZUp4ODQwWHJPMmR6LTNXZEp1aXVCRlo1d09wSDNKQmxIUkkxcmR0?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-10-15T11:19:53+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 15 Oct 2026 00:42:14 GMT",
+          "source": "Capricorn Enterprise"
+        }
+      ]
+    },
+    {
+      "id": "bea3ce66cb58",
+      "title": "The Australian relaunches travel coverage with new Travel + Luxury Weekend liftout - Mediaweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBmN0VhOEJGbm1uTlhYakM2NU9nYjBlZkRrQUdhSVdLTkN4T3dTb1dUeml2TmNsMWNLWndQU1lkcmlDVWpDUWR3ZWhFdFgtVEVuZG00aGk3amdUWU5NQ0dCTUs5S1djVFJBMWhiWTFPQzM2REp2S0dVdDZiSjZ4SHc?oc=5\" target=\"_blank\">The Australian relaunches travel cov",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmN0VhOEJGbm1uTlhYakM2NU9nYjBlZkRrQUdhSVdLTkN4T3dTb1dUeml2TmNsMWNLWndQU1lkcmlDVWpDUWR3ZWhFdFgtVEVuZG00aGk3amdUWU5NQ0dCTUs5S1djVFJBMWhiWTFPQzM2REp2S0dVdDZiSjZ4SHc?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
           "published": "Thu, 15 Oct 2026 00:28:53 GMT",
@@ -91,14 +151,14 @@
       "title": "‘Out of the loop’: Labor MP Anne Aly slammed for $150k travel - The Daily Telegraph",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNVjk3WnNxdThsbDBfMjViM19aN0VjWjE5MFBEeW5TdkRPUHJGN1dHWk1uSmRFMnBtU2N4WDltSlR0ZUtLSnhIUEMzcEFPc1N5czZJUG1kTDZGRVB2MmllTHJYZEJ0alZXeHFHdDhpZGZZSzNPRVBrNENabG9WTmZtN2laZmNxUDhuQ0FYZnRUbmpGN3NHR21GVFZrN29fbksza3JfMlotU3VNOW",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVjk3WnNxdThsbDBfMjViM19aN0VjWjE5MFBEeW5TdkRPUHJGN1dHWk1uSmRFMnBtU2N4WDltSlR0ZUtLSnhIUEMzcEFPc1N5czZJUG1kTDZGRVB2MmllTHJYZEJ0alZXeHFHdDhpZGZZSzNPRVBrNENabG9WTmZtN2laZmNxUDhuQ0FYZnRUbmpGN3NHR21GVFZrN29fbksza3JfMlotU3VNOWROX3gwTks0bVpMQ1dqOWRHS0ZZWEQ0NjQzazFQZ3JUNjI4cU5DemhQaDVORDJVeGxQaU5xZzdnVWRzLXduVTVGdU42emgxWTc2b0pxOEtUZGQyWmh3T19fLXFSdDN4eXdXZl95MA?oc=5",
-      "score": 75.6,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 18:03:40 GMT",
@@ -107,22 +167,42 @@
       ]
     },
     {
-      "id": "b70333c9632a",
-      "title": "Crystal announces final wave of 2028 voyages, new 2029 trips - travelweekly.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGJpRFJoakliX2ducTR0bktCQll2X3BSWk9kU01JeDYzR3JxRUZiVEFWNV9acl9YNlF0MUItRU5ac2R6M1pmdVlpZ0oxWnVGRnVvcGYzanZLS2hCcFE3NFM3blJwbjRYb2pOMVh1SG1DVjl1YzVWVkF4SVpDcldmODlQeFJlTTh0TlZuSmRlcEI2Zw?oc=5\" target=\"_blank\">Crystal a",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGJpRFJoakliX2ducTR0bktCQll2X3BSWk9kU01JeDYzR3JxRUZiVEFWNV9acl9YNlF0MUItRU5ac2R6M1pmdVlpZ0oxWnVGRnVvcGYzanZLS2hCcFE3NFM3blJwbjRYb2pOMVh1SG1DVjl1YzVWVkF4SVpDcldmODlQeFJlTTh0TlZuSmRlcEI2Zw?oc=5",
-      "score": 72.0,
+      "id": "45e3901230b2",
+      "title": "The undead Jamie Pherous is back - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzVTdGlDeEg3WkZLUmpVWHplMDFrbVpqdC10MUx2MmdXb1JyQV9XRHJUUmpxbDFwT2xvTDRtTWY3S05rdDNhWExENHpNYk5LRTFUUDVtaU9ybDBwRUMwUUtHbDdKdFZUQlNsVVdSUEtJaFg4M2V6a3JyOHpFM0pGbWVfVmNrTUk?oc=5\" target=\"_blank\">The undead Jamie Pherous",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzVTdGlDeEg3WkZLUmpVWHplMDFrbVpqdC10MUx2MmdXb1JyQV9XRHJUUmpxbDFwT2xvTDRtTWY3S05rdDNhWExENHpNYk5LRTFUUDVtaU9ybDBwRUMwUUtHbDdKdFZUQlNsVVdSUEtJaFg4M2V6a3JyOHpFM0pGbWVfVmNrTUk?oc=5",
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 14 Oct 2026 23:01:15 GMT",
-          "source": "travelweekly.com.au"
+          "published": "Thu, 15 Oct 2026 06:05:00 GMT",
+          "source": "AFR"
+        }
+      ]
+    },
+    {
+      "id": "e418b37895cd",
+      "title": "Island Whale Festival in line for second straight tourism gold - Sentinel-Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPcy1rcG96ODJOZTJ6VjhHYWVJU2ZxWVBTS0p5c0Ztakt2RHdvaVQ0SG8xb1p3YVFpbE5Wd01iSzRxX09QaXZVbnVMQkZSNUFyeU9aVEVUQ2xHdDEtZ0hKMk5pcTZ4UE1YcUtqdk13Ql9PcHRVbkhoNVl1c25FcnB6X2s4ejBkZ2VmXzEwTkNXZ00?oc=5\" target=\"_blank\">Island Whale",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcy1rcG96ODJOZTJ6VjhHYWVJU2ZxWVBTS0p5c0Ztakt2RHdvaVQ0SG8xb1p3YVFpbE5Wd01iSzRxX09QaXZVbnVMQkZSNUFyeU9aVEVUQ2xHdDEtZ0hKMk5pcTZ4UE1YcUtqdk13Ql9PcHRVbkhoNVl1c25FcnB6X2s4ejBkZ2VmXzEwTkNXZ00?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-10-15T11:19:53+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 15 Oct 2026 05:49:24 GMT",
+          "source": "Sentinel-Times"
         }
       ]
     },
@@ -131,14 +211,14 @@
       "title": "The Australian unveils revamped Travel + Luxury weekend liftout - Mi-3.com.au.",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTkxaUc2RElSRGE2RlQ4TG16bHI0aTVTWWlrYkR3MlJtSU54QnVDTVUyRkdWd3BsczBMSlhNV092bEwwcVlnbVhxb0FNQS1lbXo3ZHowWVpSOGxsM196QzYtTGFIa2Y1bWl4QlM4NE14MFBSWFZUMXBGS25MTDQ4eGduWVNNdFJmVlZ4SnAxNEh1UEthcEE?oc=5\" target=\"_blank\">The ",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTkxaUc2RElSRGE2RlQ4TG16bHI0aTVTWWlrYkR3MlJtSU54QnVDTVUyRkdWd3BsczBMSlhNV092bEwwcVlnbVhxb0FNQS1lbXo3ZHowWVpSOGxsM196QzYtTGFIa2Y1bWl4QlM4NE14MFBSWFZUMXBGS25MTDQ4eGduWVNNdFJmVlZ4SnAxNEh1UEthcEE?oc=5",
-      "score": 68.4,
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 21:19:51 GMT",
@@ -147,42 +227,22 @@
       ]
     },
     {
-      "id": "2afaa35dccd4",
-      "title": "Stories That Stay With You: New tourism campaign invites visitors to slow down on the Capricorn Coast - Capricorn Enterprise",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQmNPYkN4Ulh2WWFyMWxQa1B4NXU5bThUcDBJRVRXYmRaWUt2elZMVTl4Q0Z1bVlkb1V5cUJCcEpDQlFuZkRFZEVZVEZXUG9Eay13cnFtNkdrczhTUnNLdEJVWUZPQUpxaDQ4VHZNcm1EeHdFZk9EcGhTTEJ1UmJNYWpqSFdGbFV3alNINUY1Nk9sZ0dseGU1Wk1RYnRoUVVJZjhBeWZSOEdsaF",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQmNPYkN4Ulh2WWFyMWxQa1B4NXU5bThUcDBJRVRXYmRaWUt2elZMVTl4Q0Z1bVlkb1V5cUJCcEpDQlFuZkRFZEVZVEZXUG9Eay13cnFtNkdrczhTUnNLdEJVWUZPQUpxaDQ4VHZNcm1EeHdFZk9EcGhTTEJ1UmJNYWpqSFdGbFV3alNINUY1Nk9sZ0dseGU1Wk1RYnRoUVVJZjhBeWZSOEdsaF9tS0FXdUxzbnQzZUp4ODQwWHJPMmR6LTNXZEp1aXVCRlo1d09wSDNKQmxIUkkxcmR0?oc=5",
-      "score": 64.8,
+      "id": "5d5b98f958ca",
+      "title": "Tour operator warns Rex route suspension can be devasting for local tourism - NBN News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmRaQWxrMjZ3RnIxVFNITlR5SHo3NVJiUi1XbVpYdm9jMEtpTXBJa3dWdnNZUVlBWDlmUHJuWkFtc2RnSjV1MTNMT1hndkMzTVpFdmYwR1poOFZzMzZXWjNvR2E1bkVfanNKaVp2Q3ppcENFQTFaaEZDMWRYVExJbjF1bTdKbG5pV0hvWms3eGxXMDhNeVctMVFpNEpmQUFTMGx1dTZ4WGlMRz",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmRaQWxrMjZ3RnIxVFNITlR5SHo3NVJiUi1XbVpYdm9jMEtpTXBJa3dWdnNZUVlBWDlmUHJuWkFtc2RnSjV1MTNMT1hndkMzTVpFdmYwR1poOFZzMzZXWjNvR2E1bkVfanNKaVp2Q3ppcENFQTFaaEZDMWRYVExJbjF1bTdKbG5pV0hvWms3eGxXMDhNeVctMVFpNEpmQUFTMGx1dTZ4WGlMRzZqT1p2aE1UMFA?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 15 Oct 2026 00:42:14 GMT",
-          "source": "Capricorn Enterprise"
-        }
-      ]
-    },
-    {
-      "id": "28973aae7d43",
-      "title": "Major boost for First Nations-led creative arts and cultural tourism experiences - NSW Government",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeThCcUlCRWx2TS04dFpUWlZfS0hlSHhsd0JKSENGM1BCVHIta3VFZ0cxUHdZOWJfSWN4Rnlna0xRaEc2OXQ2SkNsWVNKa21xd0syVUVXOFpGTjhCSWNzd2N0MTJPaENuemd6QXpyZ2VNNmt5X1lrTlVLS2UwX3Vjb2p3aWhrTVhuLS1RaGxCY1l4ek9jQlpGb0ZTVFVHTjJlVVNZUXBOR1J5c2",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeThCcUlCRWx2TS04dFpUWlZfS0hlSHhsd0JKSENGM1BCVHIta3VFZ0cxUHdZOWJfSWN4Rnlna0xRaEc2OXQ2SkNsWVNKa21xd0syVUVXOFpGTjhCSWNzd2N0MTJPaENuemd6QXpyZ2VNNmt5X1lrTlVLS2UwX3Vjb2p3aWhrTVhuLS1RaGxCY1l4ek9jQlpGb0ZTVFVHTjJlVVNZUXBOR1J5c2Q5d09zMjBxWW91UTQ?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 14 Oct 2026 13:20:33 GMT",
-          "source": "NSW Government"
+          "published": "Thu, 15 Oct 2026 06:40:28 GMT",
+          "source": "NBN News"
         }
       ]
     },
@@ -191,14 +251,14 @@
       "title": "'Golden Week' boosts Australian tourism - China Daily",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBNaWZqczFyemowLWVWd1pzeXhveEZhdk1PMnVOcWNqUEhUTGN3WWMwb3FxMmIyUjBIeEF1ODRzR3dZcjFQNGp4OHVKSHN0ZXZVV29ETGFxc21JNDYydDV2NTRLeTBpU0pmVzMyaXpmQ1lMakpLMEFNWUxOYkFlZw?oc=5\" target=\"_blank\">'Golden Week' boosts Australian touri",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNaWZqczFyemowLWVWd1pzeXhveEZhdk1PMnVOcWNqUEhUTGN3WWMwb3FxMmIyUjBIeEF1ODRzR3dZcjFQNGp4OHVKSHN0ZXZVV29ETGFxc21JNDYydDV2NTRLeTBpU0pmVzMyaXpmQ1lMakpLMEFNWUxOYkFlZw?oc=5",
-      "score": 57.6,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
           "published": "Thu, 15 Oct 2026 02:40:47 GMT",
@@ -207,38 +267,18 @@
       ]
     },
     {
-      "id": "a252b3d1299a",
-      "title": "What Corporate Travel Management's (ASX:CTD) Return to Profit Reveals About Its Rebuilt Business - Kalkine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlNHWGJFbUg5ZkdDU01UT2VQeDdCbWwzSm95Z0pRV3ROVjlSQU5Zbk4ySmNBYmlwVWxHOVFMMG5xeXp3NWI2LXVHVUhiSVJZR29mUEhwQTlXTVJEcDc1eXVYWFZDOFExVDEyZmpxNW9GaFVrUUZSTlgtMVE4cXJDZXJUXzNURzBueENoU1BKTEgzSV9aLWp4YnY1UmtleWZyX3NzX2JDVHVUYW",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlNHWGJFbUg5ZkdDU01UT2VQeDdCbWwzSm95Z0pRV3ROVjlSQU5Zbk4ySmNBYmlwVWxHOVFMMG5xeXp3NWI2LXVHVUhiSVJZR29mUEhwQTlXTVJEcDc1eXVYWFZDOFExVDEyZmpxNW9GaFVrUUZSTlgtMVE4cXJDZXJUXzNURzBueENoU1BKTEgzSV9aLWp4YnY1UmtleWZyX3NzX2JDVHVUYWJoVWNHaFVXcGZ3Y3RJeTRRS3h6bmRlNHIwR1BGSQ?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 15 Oct 2026 02:13:00 GMT",
-          "source": "Kalkine"
-        }
-      ]
-    },
-    {
       "id": "a1842f7fcf9a",
       "title": "Crisis costs, AI yes-men and fee rethinks: Beyond Borders 2026 panel takeaways for travel advisors - Karryon",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rbWdhbW1fV21PektVczUzMUI5V2pzdFo5UHlaMWJFQzEyMkd4eEFuSm1URkh6TXhYelVVNzhuSUQ3UGRQc0l2YWNUV255a0Zaa0RPSUU3MnlrUjBaOUEwMS1uYmV5dw?oc=5\" target=\"_blank\">Crisis costs, AI yes-men and fee rethinks: Beyond Borders 2026 panel ",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rbWdhbW1fV21PektVczUzMUI5V2pzdFo5UHlaMWJFQzEyMkd4eEFuSm1URkh6TXhYelVVNzhuSUQ3UGRQc0l2YWNUV255a0Zaa0RPSUU3MnlrUjBaOUEwMS1uYmV5dw?oc=5",
-      "score": 50.4,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
           "published": "Thu, 15 Oct 2026 02:21:21 GMT",
@@ -247,50 +287,10 @@
       ]
     },
     {
-      "id": "6fe1cb5c83dd",
-      "title": "‘Heartland holidays’: How the cost-of-living battle is changing how we travel - The New Daily",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGdlWklBekxNOEM0RXhLSm1TM2M5eTVzZm04azBkNURSX2J2QUYwbEY0VTlxeFlQTVN6M0FKSld2eFVSbGNSbUdQUkVnRzZpanE1MFAtaHBLZXhzUU9hWEpxbkxkSTNaUnAyOUNzejJwMjJiV3lWLWtqc1ZidlNKS3AwWVNCSFZkQUQtVThFQ3ZCNE9iZWxJZA?oc=5\" target=\"_blank\">‘",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGdlWklBekxNOEM0RXhLSm1TM2M5eTVzZm04azBkNURSX2J2QUYwbEY0VTlxeFlQTVN6M0FKSld2eFVSbGNSbUdQUkVnRzZpanE1MFAtaHBLZXhzUU9hWEpxbkxkSTNaUnAyOUNzejJwMjJiV3lWLWtqc1ZidlNKS3AwWVNCSFZkQUQtVThFQ3ZCNE9iZWxJZA?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 14 Oct 2026 11:22:10 GMT",
-          "source": "The New Daily"
-        }
-      ]
-    },
-    {
-      "id": "d8babed65e1b",
-      "title": "Major new travel trends for 2027 with one Aussie town surging in popularity - Nine.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjZSZWxqaUxTMmh6YU51clNReDZLbDE2eFFWdWxVSEQ1d0MxTXcwWm43NHhTcnA0OFVIRUJjYXNBYnk1eTA4QWZYX2lFZmhLNGVqMDhLdzBxWGdDX3l0VWVoSVdlSlpqYmtoZU9PVnFVaGxUUUhacXBMWVZMZXBVOERkeTFUQnNIRWFLb0VEX1o0OTZTcVNzV0NONE1ZRThrdlFmaS1RakJPcU",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjZSZWxqaUxTMmh6YU51clNReDZLbDE2eFFWdWxVSEQ1d0MxTXcwWm43NHhTcnA0OFVIRUJjYXNBYnk1eTA4QWZYX2lFZmhLNGVqMDhLdzBxWGdDX3l0VWVoSVdlSlpqYmtoZU9PVnFVaGxUUUhacXBMWVZMZXBVOERkeTFUQnNIRWFLb0VEX1o0OTZTcVNzV0NONE1ZRThrdlFmaS1RakJPcUdTZzZKTFRRbDFfRkxQSVRiaEF5bw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 14 Oct 2026 18:00:59 GMT",
-          "source": "Nine.com.au"
-        }
-      ]
-    },
-    {
-      "id": "4dd2828a181a",
-      "title": "Consulting firm Ne-Lo appoints Sandro Serio for travel and tourism - Mumbrella",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjIzU0gydGJObElBRC1lTUVrZmo4T0k2YlZycThJNVg3cFVqcktVMmRzNUVrd0J3ellaanM5ME9qb0Z2OWZhcnozbzRickVlMExZNnRGSE41emxSbjNwTkdtNzRWaS0yWWk2YXVpZW1lYVNHVkxJdTQ4ZFo5MGtVSUw4SkFmR2dQdHZWNEczV0NSUnBZNXE4dWY5STNuQ0E?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjIzU0gydGJObElBRC1lTUVrZmo4T0k2YlZycThJNVg3cFVqcktVMmRzNUVrd0J3ellaanM5ME9qb0Z2OWZhcnozbzRickVlMExZNnRGSE41emxSbjNwTkdtNzRWaS0yWWk2YXVpZW1lYVNHVkxJdTQ4ZFo5MGtVSUw4SkFmR2dQdHZWNEczV0NSUnBZNXE4dWY5STNuQ0E?oc=5",
+      "id": "f24e39927a17",
+      "title": "The Christmas travel mistake that could leave you out of pocket - Finder.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9qVl91MHBrS0JCSm1ZZWFUaFJRNmJPdUxEdUtYZ3hReTNqN1pSWG95cllRa1hJYThlWDU4eThTbGxXdXRCc1U1Q3VRdlE4NXVMWEJfR3IxamJxVFhzLXEwLTI5eV91VDg4ZEwxaF9VSWdMYXRWdG5NYQ?oc=5\" target=\"_blank\">The Christmas travel mistake that could leave",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qVl91MHBrS0JCSm1ZZWFUaFJRNmJPdUxEdUtYZ3hReTNqN1pSWG95cllRa1hJYThlWDU4eThTbGxXdXRCc1U1Q3VRdlE4NXVMWEJfR3IxamJxVFhzLXEwLTI5eV91VDg4ZEwxaF9VSWdMYXRWdG5NYQ?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 15 Oct 2026 00:14:18 GMT",
-          "source": "Mumbrella"
+          "published": "Thu, 15 Oct 2026 03:58:00 GMT",
+          "source": "Finder.com.au"
         }
       ]
     },
     {
-      "id": "218ae3a8ae66",
-      "title": "The NT tourism industry just got a major global boost - NT News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxONTA1cHVTS0NlczgzUEt0N2NzOU1yZFRZamtIeEU0WHJCaHR5eXFXcEozdFZFdk14Nk9QM2FkQ05rQkxvbVA0VFFyZUM2U19PR3ZOYkFiaVJ4Tm1WQ1J1SDhEWDZaMWRhMlNycUkzWmk4bEhlNmczdXVCNHBXcHc0bEJFVU53cndRMEhyVDF2LUVYeWZzT0gtaWlQbG9zYVlsUkVILW9GR3prVU",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONTA1cHVTS0NlczgzUEt0N2NzOU1yZFRZamtIeEU0WHJCaHR5eXFXcEozdFZFdk14Nk9QM2FkQ05rQkxvbVA0VFFyZUM2U19PR3ZOYkFiaVJ4Tm1WQ1J1SDhEWDZaMWRhMlNycUkzWmk4bEhlNmczdXVCNHBXcHc0bEJFVU53cndRMEhyVDF2LUVYeWZzT0gtaWlQbG9zYVlsUkVILW9GR3prVUFyLVVWU08yN01FQkZjT01pc3Z0VC1jb3MySl9PY1MtelVXb080LTBsRWZpeHpoX0dnUTJhN3hld2p2X0hvdXJsa3R2RnhtemRxdHhRZnRnWXBPTE1QdmZpalY3VQ?oc=5",
+      "id": "e372a48f7fdd",
+      "title": "Consulting firm Ne-Lo taps Sandro Serio for travel and tourism - Mumbrella",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjIzU0gydGJObElBRC1lTUVrZmo4T0k2YlZycThJNVg3cFVqcktVMmRzNUVrd0J3ellaanM5ME9qb0Z2OWZhcnozbzRickVlMExZNnRGSE41emxSbjNwTkdtNzRWaS0yWWk2YXVpZW1lYVNHVkxJdTQ4ZFo5MGtVSUw4SkFmR2dQdHZWNEczV0NSUnBZNXE4dWY5STNuQ0E?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjIzU0gydGJObElBRC1lTUVrZmo4T0k2YlZycThJNVg3cFVqcktVMmRzNUVrd0J3ellaanM5ME9qb0Z2OWZhcnozbzRickVlMExZNnRGSE41emxSbjNwTkdtNzRWaS0yWWk2YXVpZW1lYVNHVkxJdTQ4ZFo5MGtVSUw4SkFmR2dQdHZWNEczV0NSUnBZNXE4dWY5STNuQ0E?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 14 Oct 2026 17:32:37 GMT",
-          "source": "NT News"
+          "published": "Thu, 15 Oct 2026 01:48:58 GMT",
+          "source": "Mumbrella"
         }
       ]
     },
     {
-      "id": "145e3e9c3259",
-      "title": "Once-in-a-generation tourism opportunity in the Blue Mountains - NSW Government",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTBjeDQxd2pvMWpTMTFrOWRXcTFJeHB3SFpLQW4xcTdqOHRTNUJKTUtKRGFsOGpTV3ZnaWVITDhwXzNzNDFfVWN4cG1GOGpFVEJEYVVMZVZwX3J2dkU4YjhpTzM0dkdZUTh0NUlnYllrM1hPU2hkall5bm9QeFNaUw?oc=5\" target=\"_blank\">Once-in-a-generation tourism oppo",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTBjeDQxd2pvMWpTMTFrOWRXcTFJeHB3SFpLQW4xcTdqOHRTNUJKTUtKRGFsOGpTV3ZnaWVITDhwXzNzNDFfVWN4cG1GOGpFVEJEYVVMZVZwX3J2dkU4YjhpTzM0dkdZUTh0NUlnYllrM1hPU2hkall5bm9QeFNaUw?oc=5",
+      "id": "226701ebc663",
+      "title": "Jamie Pherous Resurfaces Amidst Corporate Travel Aftermath - Sharecafe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUVPRDh0RF9ya1V6WnVqMk45ZFBUOG9KUzlWNjQxTC1BU2tJbkZsbUtYQWdNbElzX3lsSHRYaFZ1Z2NVQk40eTE0aXV5RzM4NWhMOEQwTUNsYjlUOFRVYlF1TVpCc2EtZGNoaDczQnZzUkZ2eTNabWhmOWp0eDRHRzdpM1RPa2F3cmwzdFE5ZDR5cF84a1NhYkJMT2g5dDhE?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUVPRDh0RF9ya1V6WnVqMk45ZFBUOG9KUzlWNjQxTC1BU2tJbkZsbUtYQWdNbElzX3lsSHRYaFZ1Z2NVQk40eTE0aXV5RzM4NWhMOEQwTUNsYjlUOFRVYlF1TVpCc2EtZGNoaDczQnZzUkZ2eTNabWhmOWp0eDRHRzdpM1RPa2F3cmwzdFE5ZDR5cF84a1NhYkJMT2g5dDhE?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 14 Oct 2026 00:48:43 GMT",
-          "source": "NSW Government"
+          "published": "Thu, 15 Oct 2026 06:34:06 GMT",
+          "source": "Sharecafe"
         }
       ]
     },
     {
-      "id": "ae2751fa3776",
-      "title": "Patients struggling with rising costs and long waits for healthcare refunds - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVAxTW5QRk5ma0djVkpzcVUzcU1QSzR2NWJrVVFURFhSb2dmS254cG5fUUJDRURIR251RWFRVmdvNV9MajdjelNHVjE2Y0E2RjlhSGtxVkFGMjRxNk9HdlU0Z3MxMkU0TmZ1MjZURC10YXhCVGZzRTBLZTBGWFZHSUVyOGI0WTNURGIyZ3loelpXUkZpYnF2T2cwSmJzcWFVeDhJ?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVAxTW5QRk5ma0djVkpzcVUzcU1QSzR2NWJrVVFURFhSb2dmS254cG5fUUJDRURIR251RWFRVmdvNV9MajdjelNHVjE2Y0E2RjlhSGtxVkFGMjRxNk9HdlU0Z3MxMkU0TmZ1MjZURC10YXhCVGZzRTBLZTBGWFZHSUVyOGI0WTNURGIyZ3loelpXUkZpYnF2T2cwSmJzcWFVeDhJ?oc=5",
+      "id": "a252b3d1299a",
+      "title": "What Corporate Travel Management's (ASX:CTD) Return to Profit Reveals About Its Rebuilt Business - Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlNHWGJFbUg5ZkdDU01UT2VQeDdCbWwzSm95Z0pRV3ROVjlSQU5Zbk4ySmNBYmlwVWxHOVFMMG5xeXp3NWI2LXVHVUhiSVJZR29mUEhwQTlXTVJEcDc1eXVYWFZDOFExVDEyZmpxNW9GaFVrUUZSTlgtMVE4cXJDZXJUXzNURzBueENoU1BKTEgzSV9aLWp4YnY1UmtleWZyX3NzX2JDVHVUYW",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlNHWGJFbUg5ZkdDU01UT2VQeDdCbWwzSm95Z0pRV3ROVjlSQU5Zbk4ySmNBYmlwVWxHOVFMMG5xeXp3NWI2LXVHVUhiSVJZR29mUEhwQTlXTVJEcDc1eXVYWFZDOFExVDEyZmpxNW9GaFVrUUZSTlgtMVE4cXJDZXJUXzNURzBueENoU1BKTEgzSV9aLWp4YnY1UmtleWZyX3NzX2JDVHVUYWJoVWNHaFVXcGZ3Y3RJeTRRS3h6bmRlNHIwR1BGSQ?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 15 Oct 2026 00:47:34 GMT",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+          "published": "Thu, 15 Oct 2026 02:13:00 GMT",
+          "source": "Kalkine"
         }
       ]
     },
     {
-      "id": "f886b1c3ce7d",
-      "title": "‘A true leader would sack her’: Aly travel bill fails pub test, readers say - The Daily Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxNamhEbENRU0dOYTBpUFA1SXRqMDk2TTd6TUVVSzN6djdKb1djSFJQVzZxaG9heXQzZndacnhFM3J1RVJYWjJMY2dUTGhxWGlVRDVORWVFcFdMd202R2ZGY3FNWFlSVjRRcWFZNjlhNzI3TXMzX0FYVHNxeDlkd3RZTVROUFI1WTJuNjVWWHE2UHRPVHdsZm9zUFJnMXVYRDRsMzJMNC1XeTI2aG",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNamhEbENRU0dOYTBpUFA1SXRqMDk2TTd6TUVVSzN6djdKb1djSFJQVzZxaG9heXQzZndacnhFM3J1RVJYWjJMY2dUTGhxWGlVRDVORWVFcFdMd202R2ZGY3FNWFlSVjRRcWFZNjlhNzI3TXMzX0FYVHNxeDlkd3RZTVROUFI1WTJuNjVWWHE2UHRPVHdsZm9zUFJnMXVYRDRsMzJMNC1XeTI2aGh6S000SUJCSDQ0SjhUcl9zV3gxbDhIU1lJVXN4LXdlR3J2eWFmZ0VINVNjWnRVT0VGYmoyQVpITWl4Rndpd0JDR29sQjJ1dXlQZFU2M1FKaTE3NmdiWURqYXRqQkRhbzhTR096UHJYQ3FDLVpwNUVTTzNHci0?oc=5",
+      "id": "b70333c9632a",
+      "title": "Crystal announces final wave of 2028 voyages, new 2029 trips - travelweekly.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGJpRFJoakliX2ducTR0bktCQll2X3BSWk9kU01JeDYzR3JxRUZiVEFWNV9acl9YNlF0MUItRU5ac2R6M1pmdVlpZ0oxWnVGRnVvcGYzanZLS2hCcFE3NFM3blJwbjRYb2pOMVh1SG1DVjl1YzVWVkF4SVpDcldmODlQeFJlTTh0TlZuSmRlcEI2Zw?oc=5\" target=\"_blank\">Crystal a",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGJpRFJoakliX2ducTR0bktCQll2X3BSWk9kU01JeDYzR3JxRUZiVEFWNV9acl9YNlF0MUItRU5ac2R6M1pmdVlpZ0oxWnVGRnVvcGYzanZLS2hCcFE3NFM3blJwbjRYb2pOMVh1SG1DVjl1YzVWVkF4SVpDcldmODlQeFJlTTh0TlZuSmRlcEI2Zw?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 15 Oct 2026 00:55:43 GMT",
-          "source": "The Daily Telegraph"
+          "published": "Wed, 14 Oct 2026 23:01:15 GMT",
+          "source": "travelweekly.com.au"
         }
       ]
     },
     {
-      "id": "781f508825c2",
-      "title": "Ne-Lo adds Sandro Serio to exec ranks as consulting partner for travel and tourism - Mi-3.com.au.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHY2OFVFSXdGcUZXNElDSVhzOHFPVzJIN21PRmFoSWNzUzl3cDNGVi1CZ3RTQTRaei1ycHZ0YWIwMEQxSmpRY3N3TUNhQVpnREdMeE1lZDlDcnlXSkg2ZmtvdnZvZzlvd2FrZ3lTSTVJdldUWmt3VDlDTnBZYmFnM19CUG96ZnBJWTAzR0h1RGdYSXN1T21qSWpwci1nc200bWhUbUlkTlhLSF",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHY2OFVFSXdGcUZXNElDSVhzOHFPVzJIN21PRmFoSWNzUzl3cDNGVi1CZ3RTQTRaei1ycHZ0YWIwMEQxSmpRY3N3TUNhQVpnREdMeE1lZDlDcnlXSkg2ZmtvdnZvZzlvd2FrZ3lTSTVJdldUWmt3VDlDTnBZYmFnM19CUG96ZnBJWTAzR0h1RGdYSXN1T21qSWpwci1nc200bWhUbUlkTlhLSFk?oc=5",
+      "id": "28973aae7d43",
+      "title": "Major boost for First Nations-led creative arts and cultural tourism experiences - NSW Government",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeThCcUlCRWx2TS04dFpUWlZfS0hlSHhsd0JKSENGM1BCVHIta3VFZ0cxUHdZOWJfSWN4Rnlna0xRaEc2OXQ2SkNsWVNKa21xd0syVUVXOFpGTjhCSWNzd2N0MTJPaENuemd6QXpyZ2VNNmt5X1lrTlVLS2UwX3Vjb2p3aWhrTVhuLS1RaGxCY1l4ek9jQlpGb0ZTVFVHTjJlVVNZUXBOR1J5c2",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeThCcUlCRWx2TS04dFpUWlZfS0hlSHhsd0JKSENGM1BCVHIta3VFZ0cxUHdZOWJfSWN4Rnlna0xRaEc2OXQ2SkNsWVNKa21xd0syVUVXOFpGTjhCSWNzd2N0MTJPaENuemd6QXpyZ2VNNmt5X1lrTlVLS2UwX3Vjb2p3aWhrTVhuLS1RaGxCY1l4ek9jQlpGb0ZTVFVHTjJlVVNZUXBOR1J5c2Q5d09zMjBxWW91UTQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-10-15T04:27:31+00:00",
+      "first_seen": "2026-10-15T11:19:53+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 14 Oct 2026 22:34:58 GMT",
-          "source": "Mi-3.com.au."
+          "published": "Wed, 14 Oct 2026 13:20:33 GMT",
+          "source": "NSW Government"
         }
       ]
     }

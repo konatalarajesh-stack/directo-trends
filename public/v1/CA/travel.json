@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-10-15T04:36:23+00:00",
+  "generated_at": "2026-10-15T11:28:51+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "ac5735ced6e4",
-      "title": "Cross-border travel for Canadian, U.S. tourists saw September surge compared to 2025: StatCan - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmZyNDVUUkl6bkx2bS1PTnBzdVpyMnBYWkRtaGZNSHZPYS1tRWJRWW1JU0FzUzBkQmxXNkFiTTEzN3NxZER5TmN6X3BTclhQT3lhTkhWYUYyV0lJNkxheVZGdkMtQlE3NG5Dd3cwQmhDWEtDeVJONGJMZzhiRXNMaWZCNFJzT3lyalFiUC1DcmMzNWptck5NMTYyTXVwNFllLXVsVmVLZll4NU",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmZyNDVUUkl6bkx2bS1PTnBzdVpyMnBYWkRtaGZNSHZPYS1tRWJRWW1JU0FzUzBkQmxXNkFiTTEzN3NxZER5TmN6X3BTclhQT3lhTkhWYUYyV0lJNkxheVZGdkMtQlE3NG5Dd3cwQmhDWEtDeVJONGJMZzhiRXNMaWZCNFJzT3lyalFiUC1DcmMzNWptck5NMTYyTXVwNFllLXVsVmVLZll4NUNKU0tPR0JJWGdVMkE1WWx5c3FlUWI5LTRSbGU0NmxUWFpuSXdnR25QeERybDZEdw?oc=5",
+      "id": "8b128426240a",
+      "title": "ETC reporting more cautious outlook for fall European travel from key markets - TravelPress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVJUazJFallzNklSR19NZjhMRy1SVnBQUV9RdVZOSGNSMmZtaXVhbWE1MjBqOEJZbGlLM1laVzBCSXBKWlgzRU9xV09OQlVNV2R0WnhYS1dib2p2WTlKa2lCeVBpT21fc3RtSVdrLTdwUmlZQUJJbnE0cWwydlFsSEVySHg2dnhHckRPMFRvanE0T1N2WTg3Rmhld2JJZXFmVlAtMzhFWUswdw",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVJUazJFallzNklSR19NZjhMRy1SVnBQUV9RdVZOSGNSMmZtaXVhbWE1MjBqOEJZbGlLM1laVzBCSXBKWlgzRU9xV09OQlVNV2R0WnhYS1dib2p2WTlKa2lCeVBpT21fc3RtSVdrLTdwUmlZQUJJbnE0cWwydlFsSEVySHg2dnhHckRPMFRvanE0T1N2WTg3Rmhld2JJZXFmVlAtMzhFWUswdw?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 15 Oct 2026 10:33:18 GMT",
+          "source": "TravelPress"
+        }
+      ]
+    },
+    {
+      "id": "ac5735ced6e4",
+      "title": "Cross-border travel for Canadian, U.S. tourists saw September surge compared to 2025: StatCan - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmZyNDVUUkl6bkx2bS1PTnBzdVpyMnBYWkRtaGZNSHZPYS1tRWJRWW1JU0FzUzBkQmxXNkFiTTEzN3NxZER5TmN6X3BTclhQT3lhTkhWYUYyV0lJNkxheVZGdkMtQlE3NG5Dd3cwQmhDWEtDeVJONGJMZzhiRXNMaWZCNFJzT3lyalFiUC1DcmMzNWptck5NMTYyTXVwNFllLXVsVmVLZll4NU",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmZyNDVUUkl6bkx2bS1PTnBzdVpyMnBYWkRtaGZNSHZPYS1tRWJRWW1JU0FzUzBkQmxXNkFiTTEzN3NxZER5TmN6X3BTclhQT3lhTkhWYUYyV0lJNkxheVZGdkMtQlE3NG5Dd3cwQmhDWEtDeVJONGJMZzhiRXNMaWZCNFJzT3lyalFiUC1DcmMzNWptck5NMTYyTXVwNFllLXVsVmVLZll4NUNKU0tPR0JJWGdVMkE1WWx5c3FlUWI5LTRSbGU0NmxUWFpuSXdnR25QeERybDZEdw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 09:00:00 GMT",
@@ -27,18 +47,58 @@
       ]
     },
     {
-      "id": "c934a6b66143",
-      "title": "I refuse to dress down when I travel. In fact, it’s time to get fancy - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNenZvcmtqaXlrUVlnU0FqdXJsMS13VDh5b3ZjaXotUmpSS3FmWFVqTzl0a1NBUUNXX2pHbER6dUdoaEcxWkxzc2M1QXVqY296X2pvckt2Qi1uYm5fUXdNTmFkeUczcXZubE14ZWJITVJvMFhYVXpyMDBOcGhleWNaZzV5NWV5Qko3ZDQtbmZ5cl9pMktXMXhyNFEtd2hKTGNfbWdkQ3ZKM3pmeX",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenZvcmtqaXlrUVlnU0FqdXJsMS13VDh5b3ZjaXotUmpSS3FmWFVqTzl0a1NBUUNXX2pHbER6dUdoaEcxWkxzc2M1QXVqY296X2pvckt2Qi1uYm5fUXdNTmFkeUczcXZubE14ZWJITVJvMFhYVXpyMDBOcGhleWNaZzV5NWV5Qko3ZDQtbmZ5cl9pMktXMXhyNFEtd2hKTGNfbWdkQ3ZKM3pmeXU4YjRabFY3S0U0TE02UV84NWdEYjJUQ0h1RU9BZzdlS3ZNZw?oc=5",
-      "score": 86.4,
+      "id": "1e84dc2068f6",
+      "title": "Travel protected. Stay connected. Manulife Canada introduces complimentary eSIM - PR Newswire Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUhLVml4VkZRR3NqTVl0SXFYYVhwR2doMDJXVGtxc0lqQXNlRWNpbE0tQUlsdHhwT3NRdXMxclFrQXBkVnpSTXdJN2lINzBqQkg5ZDFRWHY4YjVIckg1M1IxWDFrYWV4cGZyZXpfQlZIUl81VC1vaVJIQWdpNktleTNEM18yN2lEYmVRLWpZUms1TEk4QjlYRk9HRzY3aFQxbnc1Z2Itb1JMWV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUhLVml4VkZRR3NqTVl0SXFYYVhwR2doMDJXVGtxc0lqQXNlRWNpbE0tQUlsdHhwT3NRdXMxclFrQXBkVnpSTXdJN2lINzBqQkg5ZDFRWHY4YjVIckg1M1IxWDFrYWV4cGZyZXpfQlZIUl81VC1vaVJIQWdpNktleTNEM18yN2lEYmVRLWpZUms1TEk4QjlYRk9HRzY3aFQxbnc1Z2Itb1JMWVNubVJxVGNkd3VIREtWRVNsclZZdFM4U2xXS1U1Skt3?oc=5",
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 15 Oct 2026 11:00:00 GMT",
+          "source": "PR Newswire Canada"
+        }
+      ]
+    },
+    {
+      "id": "5e01f9e1df68",
+      "title": "Penticton named top Canadian city on new global travel list, 5th overall - Williams Lake Tribune",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1dGRGxfQ1VSUU04VHJWTVJrbFJES3JHM3R3SmJiQkhIUjR0TTd0NnhSNzAxLVZJZ3huU0RTYVZ2RmRmTVFqZnNaRVlTT28zZnMzaWFreWdCNl9CV3JfUTJfVndQYzJkSmdIYnpfT29FRVR1eVppMWNJRXNKaVJYcWxVa3g1NW1UZlVuQkRHeWpUZXFQbDlhYkhJVVlPOGlMZ0syakZUUjM?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1dGRGxfQ1VSUU04VHJWTVJrbFJES3JHM3R3SmJiQkhIUjR0TTd0NnhSNzAxLVZJZ3huU0RTYVZ2RmRmTVFqZnNaRVlTT28zZnMzaWFreWdCNl9CV3JfUTJfVndQYzJkSmdIYnpfT29FRVR1eVppMWNJRXNKaVJYcWxVa3g1NW1UZlVuQkRHeWpUZXFQbDlhYkhJVVlPOGlMZ0syakZUUjM?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-15T11:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 14 Oct 2026 22:49:39 GMT",
+          "source": "Williams Lake Tribune"
+        }
+      ]
+    },
+    {
+      "id": "c934a6b66143",
+      "title": "I refuse to dress down when I travel. In fact, it’s time to get fancy - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNenZvcmtqaXlrUVlnU0FqdXJsMS13VDh5b3ZjaXotUmpSS3FmWFVqTzl0a1NBUUNXX2pHbER6dUdoaEcxWkxzc2M1QXVqY296X2pvckt2Qi1uYm5fUXdNTmFkeUczcXZubE14ZWJITVJvMFhYVXpyMDBOcGhleWNaZzV5NWV5Qko3ZDQtbmZ5cl9pMktXMXhyNFEtd2hKTGNfbWdkQ3ZKM3pmeX",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenZvcmtqaXlrUVlnU0FqdXJsMS13VDh5b3ZjaXotUmpSS3FmWFVqTzl0a1NBUUNXX2pHbER6dUdoaEcxWkxzc2M1QXVqY296X2pvckt2Qi1uYm5fUXdNTmFkeUczcXZubE14ZWJITVJvMFhYVXpyMDBOcGhleWNaZzV5NWV5Qko3ZDQtbmZ5cl9pMktXMXhyNFEtd2hKTGNfbWdkQ3ZKM3pmeXU4YjRabFY3S0U0TE02UV84NWdEYjJUQ0h1RU9BZzdlS3ZNZw?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 12:00:00 GMT",
@@ -47,70 +107,10 @@
       ]
     },
     {
-      "id": "7b974912b7f5",
-      "title": "Penticton ranks fifth among world’s trending travel destination searches - Penticton Herald",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGpfZzFEQTlkODVZaGpOUlVPNFJtbFFzQ2JRMTlVWVJENl9Ub0xMVlNlb1pwS1RWUUdfdWQ0bGlNdlhLTnNJX1ZvSjNLcWtYS28xakRGOWcxX0p0U1FjZFZmVmRqcElMYzJheVppdU5FbFI2d201UXVmelZrc2N6WEYyZWJaVzhJMEpGSC1B?oc=5\" target=\"_blank\">Penticton ranks",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGpfZzFEQTlkODVZaGpOUlVPNFJtbFFzQ2JRMTlVWVJENl9Ub0xMVlNlb1pwS1RWUUdfdWQ0bGlNdlhLTnNJX1ZvSjNLcWtYS28xakRGOWcxX0p0U1FjZFZmVmRqcElMYzJheVppdU5FbFI2d201UXVmelZrc2N6WEYyZWJaVzhJMEpGSC1B?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 14 Oct 2026 22:19:00 GMT",
-          "source": "Penticton Herald"
-        }
-      ]
-    },
-    {
-      "id": "bc713b2e3448",
-      "title": "Seven trade destinations to watch for Red Wings’ Simon Edvinsson - Daily Faceoff",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlI5ZFdJSDZpSGVmSklET1VFUlNOZHUtMXlNeUc1OE4tYmcxcHFqYnNRNXp1T2tmYmJkZmhTR3hWNWtrWk5nMlpwSFplNkNHWVhaTTlxdzFNOENpaS1LX3d0V1lic3c3aFdzWE1MSVNfN1Q2UGdYMEFGX0ZKeEVJSFZoRDYwUmhMc29MZTdwTU44UU9tRUpyaXJMQkZCUzN2ZlBiajVHVDVaak",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlI5ZFdJSDZpSGVmSklET1VFUlNOZHUtMXlNeUc1OE4tYmcxcHFqYnNRNXp1T2tmYmJkZmhTR3hWNWtrWk5nMlpwSFplNkNHWVhaTTlxdzFNOENpaS1LX3d0V1lic3c3aFdzWE1MSVNfN1Q2UGdYMEFGX0ZKeEVJSFZoRDYwUmhMc29MZTdwTU44UU9tRUpyaXJMQkZCUzN2ZlBiajVHVDVaakFWU2VDTkxVQWxTaURaRGRHZ2lBVVBSaTdubUxvbVlndS1yYkk?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 14 Oct 2026 20:45:00 GMT",
-          "source": "Daily Faceoff"
-        }
-      ]
-    },
-    {
-      "id": "87e7438ef5ee",
-      "title": "Penticton named top Canadian city on new global travel list, 5th overall - Peninsula News Review",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTIzdU5vQVRETGh1X1FYeE1LVk1naWF5NjNhYUpGaXRCSVhCR2Rfd1kxdTJvRjNmUTlVS1VHb0JadWY5cE1Wa1hJeXpLTkxZc3NwOWpyY0J2NHF5UHU1VnpGT3dibHhPeklUdFg2VlhWbDd1SlYzQldXVFR5N3NUMFA4QWdmSkhwekJ4Zy1rTEVscDhuMVpFZTMyTnk2S0VDUkg1dzNYaUVNd0",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTIzdU5vQVRETGh1X1FYeE1LVk1naWF5NjNhYUpGaXRCSVhCR2Rfd1kxdTJvRjNmUTlVS1VHb0JadWY5cE1Wa1hJeXpLTkxZc3NwOWpyY0J2NHF5UHU1VnpGT3dibHhPeklUdFg2VlhWbDd1SlYzQldXVFR5N3NUMFA4QWdmSkhwekJ4Zy1rTEVscDhuMVpFZTMyTnk2S0VDUkg1dzNYaUVNd0syaUNzd2gyUzZiUQ?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 14 Oct 2026 22:46:32 GMT",
-          "source": "Peninsula News Review"
-        }
-      ]
-    },
-    {
-      "id": "9a21383b0e26",
-      "title": "Beyond Local: Alberta courts Mexico’s wealthy travellers as northbound tourism surges - St. Albert Gazette",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW93eVJxZzNYUFVRRi1kVlRiaTRSZFVHNWh0Y3ZiOENOUDNXRVRKQl83QWVXdGttNnRfQWZiSU9pT0hETlN3aHgxWjVzRlVEX21fQlhJOXVRNUlJQ0RNbUlLNFF4dzItUXVGN3dLUXNaRDhtZU03VjNhN1RveWlKZUlmSkhtTU84ZlkxLUd1ZnZvUUVuMWVod2J3c3BabFFXd05ackJTb0tvaF",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW93eVJxZzNYUFVRRi1kVlRiaTRSZFVHNWh0Y3ZiOENOUDNXRVRKQl83QWVXdGttNnRfQWZiSU9pT0hETlN3aHgxWjVzRlVEX21fQlhJOXVRNUlJQ0RNbUlLNFF4dzItUXVGN3dLUXNaRDhtZU03VjNhN1RveWlKZUlmSkhtTU84ZlkxLUd1ZnZvUUVuMWVod2J3c3BabFFXd05ackJTb0tvaFFHVUVmOVhPcmlQeGRHMkhpVmo4UFh4dw?oc=5",
+      "id": "27cce9d154c2",
+      "title": "Collingwood travel agent retires after 49 years at Travelworld - Simcoe.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFlBaXV2cTlNSHM2d0twZWdxUk5qUEFKZGZZbUQxenM5UmprLXN3QjI3b1Nfa2FiZm5rR1QycDFLQnpSUFpiZkVSTGo4YjUwTUVxdWhoVlgtaUZNZkZjNGVuc1hEaVVLTTA4eDczRHAzZURDUFBPT0ZHSmlMSU9MNkhWWmd5N05Rb193SG1wOG9wbmp0UFllVEZmclp5aGZsYjhPZHJDbjZVQl",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFlBaXV2cTlNSHM2d0twZWdxUk5qUEFKZGZZbUQxenM5UmprLXN3QjI3b1Nfa2FiZm5rR1QycDFLQnpSUFpiZkVSTGo4YjUwTUVxdWhoVlgtaUZNZkZjNGVuc1hEaVVLTTA4eDczRHAzZURDUFBPT0ZHSmlMSU9MNkhWWmd5N05Rb193SG1wOG9wbmp0UFllVEZmclp5aGZsYjhPZHJDbjZVQlFtUnQ4OUhuZXhMZw?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,11 +118,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 14 Oct 2026 18:30:00 GMT",
-          "source": "St. Albert Gazette"
+          "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+          "source": "Simcoe.com"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
           "published": "Tue, 13 Oct 2026 19:47:44 GMT",
@@ -147,10 +147,10 @@
       ]
     },
     {
-      "id": "1129fc0880c9",
-      "title": "Governments and industry work to improve air travel for persons with disabilities - International Civil Aviation Organization",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFZEV0pSQVBCU1hBRkhRY2h0UnpNT09zeElGWWluZEl2aDhaNWlOTWN1VFNUaG1tNHo0V2hhRTY2UWtwdHNSTDJwYVZ4ekpPVF9VWTh1Z2tReHlUX2FXb3VqY01kVnBST0UxcWxhWnpjQUw3RmZZSU9mSkJoZC16XzdCU2lzcm56ZlpZQ3N0YXZqcXNBbnNKcFJJRQ?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFZEV0pSQVBCU1hBRkhRY2h0UnpNT09zeElGWWluZEl2aDhaNWlOTWN1VFNUaG1tNHo0V2hhRTY2UWtwdHNSTDJwYVZ4ekpPVF9VWTh1Z2tReHlUX2FXb3VqY01kVnBST0UxcWxhWnpjQUw3RmZZSU9mSkJoZC16XzdCU2lzcm56ZlpZQ3N0YXZqcXNBbnNKcFJJRQ?oc=5",
+      "id": "71c751f3abf8",
+      "title": "Two Canadian destinations ranked among trending travel spots for 2027 - Daily Hive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmYxS2hZUnBMa01JZm95M2tRXzFCMnhGVVFrMWc3c0l0U0t1X0M5eWhPSndwck9MUzlMTzhsLXNFcDZCdnVzMGhFdXlRTzJ5YTZiSk5LWkFDZG9tN0wxaFpZMVJlMzAzTV8xeXBibjZYN3hrVjRHM3FsT1hFdW1SdGg3NkdyRUYy?oc=5\" target=\"_blank\">Two Canadian destinatio",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmYxS2hZUnBMa01JZm95M2tRXzFCMnhGVVFrMWc3c0l0U0t1X0M5eWhPSndwck9MUzlMTzhsLXNFcDZCdnVzMGhFdXlRTzJ5YTZiSk5LWkFDZG9tN0wxaFpZMVJlMzAzTV8xeXBibjZYN3hrVjRHM3FsT1hFdW1SdGg3NkdyRUYy?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,27 +158,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 14 Oct 2026 20:44:10 GMT",
-          "source": "International Civil Aviation Organization"
-        }
-      ]
-    },
-    {
-      "id": "71c751f3abf8",
-      "title": "Two Canadian destinations ranked among trending travel spots for 2027 - Daily Hive",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmYxS2hZUnBMa01JZm95M2tRXzFCMnhGVVFrMWc3c0l0U0t1X0M5eWhPSndwck9MUzlMTzhsLXNFcDZCdnVzMGhFdXlRTzJ5YTZiSk5LWkFDZG9tN0wxaFpZMVJlMzAzTV8xeXBibjZYN3hrVjRHM3FsT1hFdW1SdGg3NkdyRUYy?oc=5\" target=\"_blank\">Two Canadian destinatio",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmYxS2hZUnBMa01JZm95M2tRXzFCMnhGVVFrMWc3c0l0U0t1X0M5eWhPSndwck9MUzlMTzhsLXNFcDZCdnVzMGhFdXlRTzJ5YTZiSk5LWkFDZG9tN0wxaFpZMVJlMzAzTV8xeXBibjZYN3hrVjRHM3FsT1hFdW1SdGg3NkdyRUYy?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
           "published": "Tue, 13 Oct 2026 19:29:00 GMT",
@@ -187,10 +167,30 @@
       ]
     },
     {
-      "id": "81a005387176",
-      "title": "Sask. NDP calls out province over cost of travel nurses - 650 CKOM",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXpMSUhieVlnXy1oaGxFcFlJcTQwRVowbUZOYUx6Nms1VTM0SEk2ak5zeFdwZmd5cGVGTGFzVkI2Yll5LXVzTHFoeTkteXVHcElYeVk3WVVES1lZOEctYktMOS1xbWsyeE1Zdng4ZXMtaFdJME5yRTk1bEJ2THBwZGJCbFBsQzRRaWNrbG90WXg?oc=5\" target=\"_blank\">Sask. NDP ca",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXpMSUhieVlnXy1oaGxFcFlJcTQwRVowbUZOYUx6Nms1VTM0SEk2ak5zeFdwZmd5cGVGTGFzVkI2Yll5LXVzTHFoeTkteXVHcElYeVk3WVVES1lZOEctYktMOS1xbWsyeE1Zdng4ZXMtaFdJME5yRTk1bEJ2THBwZGJCbFBsQzRRaWNrbG90WXg?oc=5",
+      "id": "ba613ecde2a8",
+      "title": "Tourism brings one in 10 jobs to Smiths Falls, new plan finds - Lanarkleedstoday.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNckdtbHpZaDFRZi1fRWt0LXB2VmliNi1WTnNSQXRBTldfQ2d6NzhxMWZTWlJaU1RiWW01TnJrRnNRNnpOQUFGSEdHd2xLS1Y4NU5uUnprVHNXV2lQQUVtMG9MMzlHOExBVnF0MU9DM1NaUjhMcGNTUmJlUU10YlVwUE05SzRMRjZXREQ4UTdpaHY3MFA0bEVUUnB3ZFFub092R3c?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNckdtbHpZaDFRZi1fRWt0LXB2VmliNi1WTnNSQXRBTldfQ2d6NzhxMWZTWlJaU1RiWW01TnJrRnNRNnpOQUFGSEdHd2xLS1Y4NU5uUnprVHNXV2lQQUVtMG9MMzlHOExBVnF0MU9DM1NaUjhMcGNTUmJlUU10YlVwUE05SzRMRjZXREQ4UTdpaHY3MFA0bEVUUnB3ZFFub092R3c?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-15T11:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 15 Oct 2026 08:26:15 GMT",
+          "source": "Lanarkleedstoday.ca"
+        }
+      ]
+    },
+    {
+      "id": "ea2b48acc2af",
+      "title": "‘Plot twist trips’: Why going off-script is the ‘ultimate travel flex’, according to Booking.com - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSE5EOTBucjM3dTN4MnFwWDhwclQ4WW0yNUZJQ2lfalRJU2hQS2M3Sng3VkZwZnE2Q2o5MVZqNlJZUTRCV1ZRSmpWeVEzR0tHZnRnSmFPWVo3S003eWFyTjRJZFQ5OGxzNkVDWVBLNmpHMXVSeF9yWTIySmRzUUdhSk50WllDbmNqaEUxT20zWEZmaEstSkhxcm1IRzM1eGJVYWlWMnN5MWkxLU",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSE5EOTBucjM3dTN4MnFwWDhwclQ4WW0yNUZJQ2lfalRJU2hQS2M3Sng3VkZwZnE2Q2o5MVZqNlJZUTRCV1ZRSmpWeVEzR0tHZnRnSmFPWVo3S003eWFyTjRJZFQ5OGxzNkVDWVBLNmpHMXVSeF9yWTIySmRzUUdhSk50WllDbmNqaEUxT20zWEZmaEstSkhxcm1IRzM1eGJVYWlWMnN5MWkxLU5tUXR3M0k5RENCS2FTd2k3RzU3LW9uS3M?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,11 +198,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 14 Oct 2026 21:47:00 GMT",
-          "source": "650 CKOM"
+          "published": "Thu, 15 Oct 2026 05:00:01 GMT",
+          "source": "Euronews.com"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 20:20:00 GMT",
@@ -227,10 +227,10 @@
       ]
     },
     {
-      "id": "3a791023b80e",
-      "title": "Travel not advised in Wreckhouse area due to weather conditions - 100.1 BayFM",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVYmluTGk5N0M2WWhrUTN6aWZiUjFFaGRMU2VIUDlhOVVOM0R3b2V1M1pzOEk4bzJFUVlsVHFnWEN6TDBOYVFYRThhRmJidWthTERLLXFYRU1MOFVyRDBkYlFpVVc?oc=5\" target=\"_blank\">Travel not advised in Wreckhouse area due to weather conditions</a>&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVYmluTGk5N0M2WWhrUTN6aWZiUjFFaGRMU2VIUDlhOVVOM0R3b2V1M1pzOEk4bzJFUVlsVHFnWEN6TDBOYVFYRThhRmJidWthTERLLXFYRU1MOFVyRDBkYlFpVVc?oc=5",
+      "id": "0b755e375a86",
+      "title": "Minister Anand to travel to India and the United Arab Emirates - Canada.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkhGZHhlTUtJZkNKUVRZb3Z5Y2p4RE9sZEozWTJ1clpodFU5azFyRUFsR05yLVBrcFpvcnNnTGhwdGdqNVd4cEI1VWR0V3pwMXYxZFFVaFJBWnVfYWNUY3VNTDg3dGhEckRsU0hxeUdCb2R4SWxjZ0hrajlwSlBWSlozUnh1Y0h2dm1kT1NmdGtyZGRBckg2dXBZZ3lWZXdFRXh1ZTF4WGFOSm",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkhGZHhlTUtJZkNKUVRZb3Z5Y2p4RE9sZEozWTJ1clpodFU5azFyRUFsR05yLVBrcFpvcnNnTGhwdGdqNVd4cEI1VWR0V3pwMXYxZFFVaFJBWnVfYWNUY3VNTDg3dGhEckRsU0hxeUdCb2R4SWxjZ0hrajlwSlBWSlozUnh1Y0h2dm1kT1NmdGtyZGRBckg2dXBZZ3lWZXdFRXh1ZTF4WGFOSmpDWUF2VHdhQnhjYTRUeXlOWA?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,67 +238,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 15 Oct 2026 02:22:15 GMT",
-          "source": "100.1 BayFM"
-        }
-      ]
-    },
-    {
-      "id": "aeb37e1c9dd4",
-      "title": "‘TOURISM IS DEAD,’ LONG LIVE TOURISM: Why Cambodia is community tourism’s perfect poster child - Travel Industry Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1J3eno1MFVZcU0yLWJYMlpENXVOdGE3d3pNa29mV3JvdHJucmlSaHNWQzl6S3FOdHRuMmR4czRSN2pSbWRhZW11QlFhTzlLQWY4d01GVGpfd3hoUl8wYmNjVHhQZjZXa2VqOVN0Z19reGtxamZNTjJaWUpRaGhHY0xOR3BFaEllX2tZX2FQc1ZITEkzYzljWDBoaV85UEdNOHlvQ3JCRGFMYT",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1J3eno1MFVZcU0yLWJYMlpENXVOdGE3d3pNa29mV3JvdHJucmlSaHNWQzl6S3FOdHRuMmR4czRSN2pSbWRhZW11QlFhTzlLQWY4d01GVGpfd3hoUl8wYmNjVHhQZjZXa2VqOVN0Z19reGtxamZNTjJaWUpRaGhHY0xOR3BFaEllX2tZX2FQc1ZITEkzYzljWDBoaV85UEdNOHlvQ3JCRGFMYTVjV1k4QkhLcnhqMzNhSVVnTUV0WQ?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 15 Oct 2026 00:06:22 GMT",
-          "source": "Travel Industry Today"
-        }
-      ]
-    },
-    {
-      "id": "9264c9fab8e5",
-      "title": "How Azerbaijan is building its next chapter in tourism - Euronews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHFVWXBTY2gwaTRZekZNV05fUDUtWW5ubS1McDNiOEhhLWZHaExaR19nYTFDV0wxRExHcGNxS1FqenlUdzlOWWtJM0otUTZsLTBSOTU0Z1RPb2ZiSzlreG5oVlZkNUNHalpzc25BdkhRNmhiUnRxb0o3VXNua3RMR2tIZlNIQ2JhV2N6LVVFOUFzSHhI?oc=5\" target=\"_blank\">How Aze",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHFVWXBTY2gwaTRZekZNV05fUDUtWW5ubS1McDNiOEhhLWZHaExaR19nYTFDV0wxRExHcGNxS1FqenlUdzlOWWtJM0otUTZsLTBSOTU0Z1RPb2ZiSzlreG5oVlZkNUNHalpzc25BdkhRNmhiUnRxb0o3VXNua3RMR2tIZlNIQ2JhV2N6LVVFOUFzSHhI?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 14 Oct 2026 17:45:25 GMT",
-          "source": "Euronews.com"
-        }
-      ]
-    },
-    {
-      "id": "0b755e375a86",
-      "title": "Minister Anand to travel to India and the United Arab Emirates - Canada.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkhGZHhlTUtJZkNKUVRZb3Z5Y2p4RE9sZEozWTJ1clpodFU5azFyRUFsR05yLVBrcFpvcnNnTGhwdGdqNVd4cEI1VWR0V3pwMXYxZFFVaFJBWnVfYWNUY3VNTDg3dGhEckRsU0hxeUdCb2R4SWxjZ0hrajlwSlBWSlozUnh1Y0h2dm1kT1NmdGtyZGRBckg2dXBZZ3lWZXdFRXh1ZTF4WGFOSm",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkhGZHhlTUtJZkNKUVRZb3Z5Y2p4RE9sZEozWTJ1clpodFU5azFyRUFsR05yLVBrcFpvcnNnTGhwdGdqNVd4cEI1VWR0V3pwMXYxZFFVaFJBWnVfYWNUY3VNTDg3dGhEckRsU0hxeUdCb2R4SWxjZ0hrajlwSlBWSlozUnh1Y0h2dm1kT1NmdGtyZGRBckg2dXBZZ3lWZXdFRXh1ZTF4WGFOSmpDWUF2VHdhQnhjYTRUeXlOWA?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
           "published": "Mon, 12 Oct 2026 13:14:01 GMT",
@@ -307,22 +247,62 @@
       ]
     },
     {
-      "id": "b008e216b24b",
-      "title": "Houthi attacks disrupt travel plans for Mecca pilgrims - Al Jazeera",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR05hbFpGRlhqT1N6WWNHVDJKcWV0ZFduS01oeG84Q3ZKalI2dkVyZFhQVWRXT0lTQ21sTmhKaUt2QUM4MklDN216Si1FQXgzZ2pmQl9ncVFPYzdPR1FmZHdyT1VlenVMcDUxWktrb1FscTJWelBXalgwVGJUR0pyX0hlYU5tSlFUSlRCR0lPR2pBVlpaZkp0S1Y3Yy1pUG1mbkxlYzFERi1Kd9",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR05hbFpGRlhqT1N6WWNHVDJKcWV0ZFduS01oeG84Q3ZKalI2dkVyZFhQVWRXT0lTQ21sTmhKaUt2QUM4MklDN216Si1FQXgzZ2pmQl9ncVFPYzdPR1FmZHdyT1VlenVMcDUxWktrb1FscTJWelBXalgwVGJUR0pyX0hlYU5tSlFUSlRCR0lPR2pBVlpaZkp0S1Y3Yy1pUG1mbkxlYzFERi1Kd9IBrwFBVV95cUxPSlktSGhTY24xZFVYQWpheV9WSks4QUNiQmlLUnpIMWV4cU5ZSzAwdVk4b0Z0dGxRTjVYWm5MSlVkS2lzcWY5QlNWZkZ6b2Qzb1RRaTRHSXdGOGdMVTBuNkdLZzNNQnNlNTllYXhkSmgzRWw5dFoyc3hDV1NoS1hQYnc1LVI4aGE2RGx4a0IzcUxqZlNQOGdIbFlQY0syam5kXzlqM1JYN3VYWklnZFRF?oc=5",
-      "score": 36.0,
+      "id": "3a791023b80e",
+      "title": "Travel not advised in Wreckhouse area due to weather conditions - 100.1 BayFM",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVYmluTGk5N0M2WWhrUTN6aWZiUjFFaGRMU2VIUDlhOVVOM0R3b2V1M1pzOEk4bzJFUVlsVHFnWEN6TDBOYVFYRThhRmJidWthTERLLXFYRU1MOFVyRDBkYlFpVVc?oc=5\" target=\"_blank\">Travel not advised in Wreckhouse area due to weather conditions</a>&nbsp",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVYmluTGk5N0M2WWhrUTN6aWZiUjFFaGRMU2VIUDlhOVVOM0R3b2V1M1pzOEk4bzJFUVlsVHFnWEN6TDBOYVFYRThhRmJidWthTERLLXFYRU1MOFVyRDBkYlFpVVc?oc=5",
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 14 Oct 2026 20:25:18 GMT",
-          "source": "Al Jazeera"
+          "published": "Thu, 15 Oct 2026 02:22:15 GMT",
+          "source": "100.1 BayFM"
+        }
+      ]
+    },
+    {
+      "id": "da920ccd8ac3",
+      "title": "Big win for Maritime Travel - TravelPress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45dGhlNlRub1R3NnZfVjJFdl9hSThYWjR1NFMzeGg4dHRJUF8waVhJcE5lOE8zMTVLeFVRTEExWFJqaWc0dWw0UmlXbmEzekVWY0twaGsxQ0NPbjBmUEM5QVMwLXd1em8?oc=5\" target=\"_blank\">Big win for Maritime Travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tra",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45dGhlNlRub1R3NnZfVjJFdl9hSThYWjR1NFMzeGg4dHRJUF8waVhJcE5lOE8zMTVLeFVRTEExWFJqaWc0dWw0UmlXbmEzekVWY0twaGsxQ0NPbjBmUEM5QVMwLXd1em8?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-15T11:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 15 Oct 2026 10:08:54 GMT",
+          "source": "TravelPress"
+        }
+      ]
+    },
+    {
+      "id": "4747f1f32eba",
+      "title": "'It's not that you're short of nurses. They don't want to work for you,' former nurse says - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmJnRWRLZGtVWTRYNzRIeGtveDhKbk10dXBTWjZJM0U1QTlxSE9yMzJQVS1NTjJ3aVdYRkFyVkNRcVJIQVdxdE5QcnBHajVDaDl4Q09PSW8tWEtZWFFZaEttdi10Zm9LQlIzV0wtaGQ4MUp3Y0xVeTc0OHJkUExzazFTMko?oc=5\" target=\"_blank\">'It's not that you're short ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmJnRWRLZGtVWTRYNzRIeGtveDhKbk10dXBTWjZJM0U1QTlxSE9yMzJQVS1NTjJ3aVdYRkFyVkNRcVJIQVdxdE5QcnBHajVDaDl4Q09PSW8tWEtZWFFZaEttdi10Zm9LQlIzV0wtaGQ4MUp3Y0xVeTc0OHJkUExzazFTMko?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-15T11:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 15 Oct 2026 11:00:00 GMT",
+          "source": "CBC"
         }
       ]
     },
@@ -331,14 +311,14 @@
       "title": "For this senior, retirement is ‘a fantastic job’ that includes travel, home maintenance and DIY investing - The Globe and Mail",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcjdidlI1MGJrUzlFSTdCMVBVTmkxMmJST0lBbXJxUHlqYjlxZ0Yxc0ZmQ2xheEhESmNCTmgxM0o2YkM0WWJSWklhMHZGVjV6WjU4NTJyNC0zQjlMM0FHVHZrWF9OeVdKV0FWQzJQWEZvUjRlUnhsWVZ3Z0lwTUJJTGlCTlRvQXRONlJMbERaYmFGMXBzVjN2SlZyYlFiblgwRTF6V2dqUDN0dH",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcjdidlI1MGJrUzlFSTdCMVBVTmkxMmJST0lBbXJxUHlqYjlxZ0Yxc0ZmQ2xheEhESmNCTmgxM0o2YkM0WWJSWklhMHZGVjV6WjU4NTJyNC0zQjlMM0FHVHZrWF9OeVdKV0FWQzJQWEZvUjRlUnhsWVZ3Z0lwTUJJTGlCTlRvQXRONlJMbERaYmFGMXBzVjN2SlZyYlFiblgwRTF6V2dqUDN0dHNxRk0xbzhNWHNLS1VpdmZzaG0zOWVGLTRYV1BQZlNTclk2WUhKbGRxaUtZVkp0bmdH?oc=5",
-      "score": 32.4,
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 16:00:00 GMT",
@@ -347,10 +327,30 @@
       ]
     },
     {
-      "id": "a49a3dc2e587",
-      "title": "Travel risks for infants - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFByMjNGdUszR1JZSl81d29sOGdxVWRtaUxqSktrVUVCR0tBakVza194U0dJNVpRRzBfNXRjZm53SEptbllvVG5BeV8xTzctNVl1UnB4SGVnN2dzcFY0LWVTMFJBMk51WlhuRjg0MEZJZFJUZEU?oc=5\" target=\"_blank\">Travel risks for infants</a>&nbsp;&nbsp;<font color=",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByMjNGdUszR1JZSl81d29sOGdxVWRtaUxqSktrVUVCR0tBakVza194U0dJNVpRRzBfNXRjZm53SEptbllvVG5BeV8xTzctNVl1UnB4SGVnN2dzcFY0LWVTMFJBMk51WlhuRjg0MEZJZFJUZEU?oc=5",
+      "id": "91513392f435",
+      "title": "Canada issues another urgent travel advisory update for Mexico - Daily Hive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tRzkwZXl6eE1jU3JPVW9kdjVCQVdNRkJIdDRDczJwMEFQZVhIOGNXV0lmSGJ6czFNbU9fYmY5bE9oLTNTQWExTklTMHdOZ3Z2U2xSdVcybThlR0tZOVExRlY1eUFWbElvODRuRnVkckR2WWc3bmxFM2tyN0Niam8?oc=5\" target=\"_blank\">Canada issues another urgent travel ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tRzkwZXl6eE1jU3JPVW9kdjVCQVdNRkJIdDRDczJwMEFQZVhIOGNXV0lmSGJ6czFNbU9fYmY5bE9oLTNTQWExTklTMHdOZ3Z2U2xSdVcybThlR0tZOVExRlY1eUFWbElvODRuRnVkckR2WWc3bmxFM2tyN0Niam8?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-15T11:19:52+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 13 Oct 2026 19:25:00 GMT",
+          "source": "Daily Hive"
+        }
+      ]
+    },
+    {
+      "id": "2fe70b61d3ec",
+      "title": "CTO’s first Sports Tourism Summit to be hosted by Anguilla - TravelPress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEw0Ulp0SUl4X2h6U2FDdUVVbTRBMklKM2ZZUEpDQ21maDl2YjI3WEVYYlR2V0xac2xhOUdndU44V2JtTk5zVFo5eEc3b2RqNVhSN3Q3UHcwRXk4djZfWXdPTnBadlVaSEdBdjgtd2I5ZU5xQU9zUmp1QUJObjUyTi1XZG9tTjFHQXdMR3dmaw?oc=5\" target=\"_blank\">CTO’s first S",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEw0Ulp0SUl4X2h6U2FDdUVVbTRBMklKM2ZZUEpDQ21maDl2YjI3WEVYYlR2V0xac2xhOUdndU44V2JtTk5zVFo5eEc3b2RqNVhSN3Q3UHcwRXk4djZfWXdPTnBadlVaSEdBdjgtd2I5ZU5xQU9zUmp1QUJObjUyTi1XZG9tTjFHQXdMR3dmaw?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 15 Oct 2026 01:20:00 GMT",
-          "source": "CTV News"
+          "published": "Thu, 15 Oct 2026 10:03:28 GMT",
+          "source": "TravelPress"
         }
       ]
     },
     {
-      "id": "514c6570160f",
-      "title": "Canadians are still boycotting Las Vegas. The Sin City slump is now a major election issue - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUW05dm1ZOFFfcTBQZkFxUlJ1Q0xoQ2MwUHd1TkdDVVhuNnRMUWRxQWtJQy1IaGNxMnkzZm5CMjloa0VYV0MtVGxCM0Q3VTlBVUkyVXdqMkFodWxpd0NHajV3Wk9uYzk2WkhUQkhjNEZOSUgyUnNTQW50cU9JaVcxczF3US1WSXhSNVotekxB?oc=5\" target=\"_blank\">Canadians are s",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUW05dm1ZOFFfcTBQZkFxUlJ1Q0xoQ2MwUHd1TkdDVVhuNnRMUWRxQWtJQy1IaGNxMnkzZm5CMjloa0VYV0MtVGxCM0Q3VTlBVUkyVXdqMkFodWxpd0NHajV3Wk9uYzk2WkhUQkhjNEZOSUgyUnNTQW50cU9JaVcxczF3US1WSXhSNVotekxB?oc=5",
+      "id": "e2a47f5161d5",
+      "title": "High winds in central and northern Alberta cause power outages, affect travel and voting - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRnpYbTU0X0ZWcGZvVTlySk13TnJXZTNmUy1aaFYzWjZSek9XVHpoaTA5Zl9RWXQ1R1JJVmZLSkNyWmZoQnVCVXF3NmlYM1RVM1VFMU9BaDhjaUFra0ZNeFIzXzE2bzFFcVpxUk1BTWY4WU9idmxDLWNtckkwR2RVOUMyUW9UOXdlamdwYm8yYkVuaEU?oc=5\" target=\"_blank\">High win",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRnpYbTU0X0ZWcGZvVTlySk13TnJXZTNmUy1aaFYzWjZSek9XVHpoaTA5Zl9RWXQ1R1JJVmZLSkNyWmZoQnVCVXF3NmlYM1RVM1VFMU9BaDhjaUFra0ZNeFIzXzE2bzFFcVpxUk1BTWY4WU9idmxDLWNtckkwR2RVOUMyUW9UOXdlamdwYm8yYkVuaEU?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 13 Oct 2026 19:44:37 GMT",
+          "published": "Wed, 14 Oct 2026 19:11:00 GMT",
           "source": "CBC"
         }
       ]
     },
     {
-      "id": "91513392f435",
-      "title": "Canada issues another urgent travel advisory update for Mexico - Daily Hive",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tRzkwZXl6eE1jU3JPVW9kdjVCQVdNRkJIdDRDczJwMEFQZVhIOGNXV0lmSGJ6czFNbU9fYmY5bE9oLTNTQWExTklTMHdOZ3Z2U2xSdVcybThlR0tZOVExRlY1eUFWbElvODRuRnVkckR2WWc3bmxFM2tyN0Niam8?oc=5\" target=\"_blank\">Canada issues another urgent travel ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tRzkwZXl6eE1jU3JPVW9kdjVCQVdNRkJIdDRDczJwMEFQZVhIOGNXV0lmSGJ6czFNbU9fYmY5bE9oLTNTQWExTklTMHdOZ3Z2U2xSdVcybThlR0tZOVExRlY1eUFWbElvODRuRnVkckR2WWc3bmxFM2tyN0Niam8?oc=5",
+      "id": "4054db7b9a98",
+      "title": "Travel Agents Remain at the Heart of WTM London - TravelPress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbnZQekJycC1Xejh6bHliVEdXUXhaQU1Yb1V5aG1adGYwV05ldWhqMkpTQ0doNjN6OTQ5NzdaSThCVDVfaVpLVkZDSTV1aXM4WDFfbThLQUMwa2dRMW9FZzJzT2xrV3lQYTlQS3NuTkRpdDFvMUZIcmJCX1pteFMwT2R3?oc=5\" target=\"_blank\">Travel Agents Remain at the Hea",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbnZQekJycC1Xejh6bHliVEdXUXhaQU1Yb1V5aG1adGYwV05ldWhqMkpTQ0doNjN6OTQ5NzdaSThCVDVfaVpLVkZDSTV1aXM4WDFfbThLQUMwa2dRMW9FZzJzT2xrV3lQYTlQS3NuTkRpdDFvMUZIcmJCX1pteFMwT2R3?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-15T04:27:30+00:00",
+      "first_seen": "2026-10-15T11:19:52+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 13 Oct 2026 19:25:00 GMT",
-          "source": "Daily Hive"
+          "published": "Thu, 15 Oct 2026 10:23:47 GMT",
+          "source": "TravelPress"
         }
       ]
     }
