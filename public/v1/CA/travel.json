@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-10-17T04:24:09+00:00",
+  "generated_at": "2026-10-17T10:42:35+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "47793d4303c1",
-      "title": "How a travel surge between Canada and the U.S. is impacting domestic tourism operators - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtUGdEMTBDTkExX1UycUh3QkQwSkJxeDV3Nkdmb1BKX0lRejRfVjR1eEJYM2N0MEo2Ny1kZ1BfcHI5OVhHVXZJNVN4bHRYTUh2Rkt1RWltLVpQSmpkN3NEMkJMM2lfc2dMTGFQLUZqclR2bFdFS3BKcjhNaHdrR1k0dDZMSTd0WV8ySFhoOWtDMkZGdjRIZzBqT3VwU29pUjQ3LVZMeTN6Y0",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtUGdEMTBDTkExX1UycUh3QkQwSkJxeDV3Nkdmb1BKX0lRejRfVjR1eEJYM2N0MEo2Ny1kZ1BfcHI5OVhHVXZJNVN4bHRYTUh2Rkt1RWltLVpQSmpkN3NEMkJMM2lfc2dMTGFQLUZqclR2bFdFS3BKcjhNaHdrR1k0dDZMSTd0WV8ySFhoOWtDMkZGdjRIZzBqT3VwU29pUjQ3LVZMeTN6Y0pPMzNpZVM2OXdJcFJqX0lNTnBXTTJsak1adG1mMkxsMHBNcXc1UHlR?oc=5",
+      "id": "9394d65241fc",
+      "title": "New data points to strong summer for Toronto's tourism sector - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVFNxQzdyclc1eTBVZ2N2VzJsYkhFendDd0J3N3RVVFpMdTNSSmp2RnpSNGpzZVFlY1lqelMtSjcxRjBzMjhWMGc2ejRTRFl2NnVnMU80eUpBM1psb0ZzYmpvcXF4R0hVeDdrQ2NvcXdQSzBjQ2oxMTc4RUVpYUhIRVhheXNacnFNUGROT2FweWZQOE9fRmxsbndHcEw2OERMY1hWbDlB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVFNxQzdyclc1eTBVZ2N2VzJsYkhFendDd0J3N3RVVFpMdTNSSmp2RnpSNGpzZVFlY1lqelMtSjcxRjBzMjhWMGc2ejRTRFl2NnVnMU80eUpBM1psb0ZzYmpvcXF4R0hVeDdrQ2NvcXdQSzBjQ2oxMTc4RUVpYUhIRVhheXNacnFNUGROT2FweWZQOE9fRmxsbndHcEw2OERMY1hWbDlB?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 17 Oct 2026 08:00:00 GMT",
+          "source": "CBC"
+        }
+      ]
+    },
+    {
+      "id": "47793d4303c1",
+      "title": "How a travel surge between Canada and the U.S. is impacting domestic tourism operators - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtUGdEMTBDTkExX1UycUh3QkQwSkJxeDV3Nkdmb1BKX0lRejRfVjR1eEJYM2N0MEo2Ny1kZ1BfcHI5OVhHVXZJNVN4bHRYTUh2Rkt1RWltLVpQSmpkN3NEMkJMM2lfc2dMTGFQLUZqclR2bFdFS3BKcjhNaHdrR1k0dDZMSTd0WV8ySFhoOWtDMkZGdjRIZzBqT3VwU29pUjQ3LVZMeTN6Y0",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtUGdEMTBDTkExX1UycUh3QkQwSkJxeDV3Nkdmb1BKX0lRejRfVjR1eEJYM2N0MEo2Ny1kZ1BfcHI5OVhHVXZJNVN4bHRYTUh2Rkt1RWltLVpQSmpkN3NEMkJMM2lfc2dMTGFQLUZqclR2bFdFS3BKcjhNaHdrR1k0dDZMSTd0WV8ySFhoOWtDMkZGdjRIZzBqT3VwU29pUjQ3LVZMeTN6Y0pPMzNpZVM2OXdJcFJqX0lNTnBXTTJsak1adG1mMkxsMHBNcXc1UHlR?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
       "raw_samples": [
         {
           "published": "Fri, 16 Oct 2026 18:10:17 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "3aa4ad510e1d",
-      "title": "Skyrocketing security costs threatening Ontario festivals, says Liberal critic for tourism - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxONEl3d08waTR3MDRNWVM2dW5YOEpiRk1ZX0ttaFJvdlA0Q29ndkVQRGJqb2ZPZWdfbjJidDZlRV9qQUJVYjRpd01FeVJZRFkzTFd1RWo3bEJ2c1I0eTNnd3lSX25laDA5NmFJZFkzUXlIYVFSdFV0ZHVOc3RKcndSUldRdUhkbG5DcFlYYlAyZE5ZWGN6S3FnM2tVb1FuZU1CYjZMY3ZzTU5EYz",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONEl3d08waTR3MDRNWVM2dW5YOEpiRk1ZX0ttaFJvdlA0Q29ndkVQRGJqb2ZPZWdfbjJidDZlRV9qQUJVYjRpd01FeVJZRFkzTFd1RWo3bEJ2c1I0eTNnd3lSX25laDA5NmFJZFkzUXlIYVFSdFV0ZHVOc3RKcndSUldRdUhkbG5DcFlYYlAyZE5ZWGN6S3FnM2tVb1FuZU1CYjZMY3ZzTU5EYzZraTB0dGx2VW5xUTBTWGFibENPUWtfd0MtRkRhdVZiOWp1NUQ0X3FNVWE5c1QyYkh3TUV0ZkpGSQ?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 22:18:08 GMT",
-          "source": "CBC"
-        }
-      ]
-    },
-    {
-      "id": "e77a465bb548",
-      "title": "Beyond the summer rush: Shoulder-season travel gains ground with Canadians - Travelweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdk9iU1otdmxXUkxyby02aWNDem9IYUJjeXBqS2NoNVpJek5vTkExMHZBbHdUeDNYWGNLSjh1OUgyVENJMENwNDY0ZkVSdmEyVEdtVVdMSTFBdU1Eam9HOW9ZdUhrOUxXT2FLRDBrZUFZWS11eHk1bUtpX0RhYXp6cWE1SWluNzZ3b2lybUJXVVpGb3dNQUZ5YzZIZGNkR2ZDVm81NnZVNWRJdT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdk9iU1otdmxXUkxyby02aWNDem9IYUJjeXBqS2NoNVpJek5vTkExMHZBbHdUeDNYWGNLSjh1OUgyVENJMENwNDY0ZkVSdmEyVEdtVVdMSTFBdU1Eam9HOW9ZdUhrOUxXT2FLRDBrZUFZWS11eHk1bUtpX0RhYXp6cWE1SWluNzZ3b2lybUJXVVpGb3dNQUZ5YzZIZGNkR2ZDVm81NnZVNWRJdThRVmMxTzJTbjhPZEpka1E?oc=5",
+      "id": "91226de65af3",
+      "title": "China’s tourists flock to experience a pretend typhoon as ‘dark tourism’ flourishes - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOd1ljcHpjd0tMZXFidVVzWXZBYV9yWmRMXzVzWDRKMklJOTN6Um9UcHUtWTZlQ2F0TlVmYVRXVmFoUno5RUw1XzktWmN1ckVzWlM1Y3h1aFJVWi1wS2RxZHJxLWJWQmk2cWxNS1dsaHhmRmozU2g1aW41VWw5WmUwdEJydmZOUHRQTFg5SE5sTVBab3oyWUdSNGx5TWRDUQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1ljcHpjd0tMZXFidVVzWXZBYV9yWmRMXzVzWDRKMklJOTN6Um9UcHUtWTZlQ2F0TlVmYVRXVmFoUno5RUw1XzktWmN1ckVzWlM1Y3h1aFJVWi1wS2RxZHJxLWJWQmk2cWxNS1dsaHhmRmozU2g1aW41VWw5WmUwdEJydmZOUHRQTFg5SE5sTVBab3oyWUdSNGx5TWRDUQ?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,107 +58,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 15:26:31 GMT",
-          "source": "Travelweek"
-        }
-      ]
-    },
-    {
-      "id": "bf78886aa573",
-      "title": "The Wanderlist: Style statements, private escapes and other luxury travel news - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWZ5VnRreWcyT1lKbVpXbENqaGlKb3lRbm1Ial9EcWpHNmtKT2VCWWlFYWw2QWJQNEVFd1BicXpzZGo1LTRJMFhmMVhPUmJub2F1WjFydkNIMXBVV1hGaXZnUEtYN2tpaW9LU25HWnZWZFpNdXpiWElFVVpqdHAzVDZYNVg1RUxwcm5tb1lIZ182V2swWlRHQ0lBYU5DRGt4UF9zSmdJbzJVak",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWZ5VnRreWcyT1lKbVpXbENqaGlKb3lRbm1Ial9EcWpHNmtKT2VCWWlFYWw2QWJQNEVFd1BicXpzZGo1LTRJMFhmMVhPUmJub2F1WjFydkNIMXBVV1hGaXZnUEtYN2tpaW9LU25HWnZWZFpNdXpiWElFVVpqdHAzVDZYNVg1RUxwcm5tb1lIZ182V2swWlRHQ0lBYU5DRGt4UF9zSmdJbzJVakd3UkYybEROVFhCeG5CTG5TRmJHSHh3UWlmUUY4ZmNMaw?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 12:00:00 GMT",
-          "source": "The Globe and Mail"
-        }
-      ]
-    },
-    {
-      "id": "70cf51f0f113",
-      "title": "Vancouver Island named best honeymoon destination in North America by World Travel Awards - CHEK News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHBpT0J5V29DTWstOFBJc3lxVXV6b2pVZ1BvLXhqdmkwY28yYTZLZkU0czZscDVhcF9LV2VuTlR2cUlCUllDWWswSHVxYXVybElxRmJ0OVM0SWwzTFlTOXRMNWZLSFpVSWd3endwYUZscUoyNTQ2WHhEdkJ2MjNyYm5na1UtLTQtR1lDVjlTcnhPc2ZhclQwbTJWVThFLTktdlk0U193bFd0UG",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHBpT0J5V29DTWstOFBJc3lxVXV6b2pVZ1BvLXhqdmkwY28yYTZLZkU0czZscDVhcF9LV2VuTlR2cUlCUllDWWswSHVxYXVybElxRmJ0OVM0SWwzTFlTOXRMNWZLSFpVSWd3endwYUZscUoyNTQ2WHhEdkJ2MjNyYm5na1UtLTQtR1lDVjlTcnhPc2ZhclQwbTJWVThFLTktdlk0U193bFd0UGVYcG5INzhSUDlWbmV2elE?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 16:06:28 GMT",
-          "source": "CHEK News"
-        }
-      ]
-    },
-    {
-      "id": "b293b8009a95",
-      "title": "What does tourism mean for Strathcona County? - Sherwood Park News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVl8wckZwVXJZTUs5M1NWdzNFb2k5aWxSelk5ODgwcnNKZGFYamltVWY5NmY0QVBFWDhpM24xSDNURU94SGVmUW9ERmRDOTR3dW5laUktdGM5bG03dUI0bEVlUnBBWUtRbm8xQUVSemhuU1V4RWd1RFFNRW9mVzJrc2o0ZmpvMFZ5VFhJb1pn?oc=5\" target=\"_blank\">What does touri",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVl8wckZwVXJZTUs5M1NWdzNFb2k5aWxSelk5ODgwcnNKZGFYamltVWY5NmY0QVBFWDhpM24xSDNURU94SGVmUW9ERmRDOTR3dW5laUktdGM5bG03dUI0bEVlUnBBWUtRbm8xQUVSemhuU1V4RWd1RFFNRW9mVzJrc2o0ZmpvMFZ5VFhJb1pn?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 20:37:09 GMT",
-          "source": "Sherwood Park News"
-        }
-      ]
-    },
-    {
-      "id": "09bc8bda25ef",
-      "title": "Canada updates travel advisories for Mexico, U.S. and other popular destinations - insauga.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVFYbkF6QlRERkRJZy1SZG1FSGpZV2k2b09wdXNoV0dLSjAyaVlQRWJPbG5ROVdVT25kX3Eydnh6cVZLNjhwM196S0VLX21YZjh0a1NQenIwUFZyR1dwUkxQODNKcWRudTRpdU1Sa3dXX0ZlbktoTXRWZHlCR2xBTS1iVzlqUnJxZE1TendLbzljaUkxNkZyeTZmdHBQbWgtbzJKVDdR?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVFYbkF6QlRERkRJZy1SZG1FSGpZV2k2b09wdXNoV0dLSjAyaVlQRWJPbG5ROVdVT25kX3Eydnh6cVZLNjhwM196S0VLX21YZjh0a1NQenIwUFZyR1dwUkxQODNKcWRudTRpdU1Sa3dXX0ZlbktoTXRWZHlCR2xBTS1iVzlqUnJxZE1TendLbzljaUkxNkZyeTZmdHBQbWgtbzJKVDdR?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 17:48:27 GMT",
-          "source": "insauga.com"
-        }
-      ]
-    },
-    {
-      "id": "91226de65af3",
-      "title": "China’s tourists flock to experience a pretend typhoon as ‘dark tourism’ flourishes - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOd1ljcHpjd0tMZXFidVVzWXZBYV9yWmRMXzVzWDRKMklJOTN6Um9UcHUtWTZlQ2F0TlVmYVRXVmFoUno5RUw1XzktWmN1ckVzWlM1Y3h1aFJVWi1wS2RxZHJxLWJWQmk2cWxNS1dsaHhmRmozU2g1aW41VWw5WmUwdEJydmZOUHRQTFg5SE5sTVBab3oyWUdSNGx5TWRDUQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1ljcHpjd0tMZXFidVVzWXZBYV9yWmRMXzVzWDRKMklJOTN6Um9UcHUtWTZlQ2F0TlVmYVRXVmFoUno5RUw1XzktWmN1ckVzWlM1Y3h1aFJVWi1wS2RxZHJxLWJWQmk2cWxNS1dsaHhmRmozU2g1aW41VWw5WmUwdEJydmZOUHRQTFg5SE5sTVBab3oyWUdSNGx5TWRDUQ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
+      "first_seen": "2026-10-17T10:33:47+00:00",
       "raw_samples": [
         {
           "published": "Fri, 16 Oct 2026 23:15:00 GMT",
@@ -167,182 +67,62 @@
       ]
     },
     {
-      "id": "9b8a584c7046",
-      "title": "Questions on tourism, infrasttructure, arts and agriculture disucssed at all candidates forum - Niagara-on-the-Lake Local",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZGxvUEVLd2M2Nkx6OThHcFM3WVRyUGplTWNzbFVyQkcxZnlCZ0dnTjFUZGxmbGs1Qldoc19jZlpSY2lmTzIxUUkyOFRoWG4tOWYtM29lRUJwejFuSWJDcExXcmd3T2F1NXBXMFdMV2RndGl0N1lpaW1NZjI1TG5WQ2NaQkRHaWtRZHZWcjJJcE10MVd4dkhnWFRsa2JORkQ5ejRqWnpiaVpWM2",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZGxvUEVLd2M2Nkx6OThHcFM3WVRyUGplTWNzbFVyQkcxZnlCZ0dnTjFUZGxmbGs1Qldoc19jZlpSY2lmTzIxUUkyOFRoWG4tOWYtM29lRUJwejFuSWJDcExXcmd3T2F1NXBXMFdMV2RndGl0N1lpaW1NZjI1TG5WQ2NaQkRHaWtRZHZWcjJJcE10MVd4dkhnWFRsa2JORkQ5ejRqWnpiaVpWM2RXamdPN0FYdTVxaHNmQVJSQzNNWWN4Nm1idHE1Z0JIVTlKd3lrMEJRQzh4T2VmTk5yOFE?oc=5",
-      "score": 61.2,
+      "id": "5aae58658122",
+      "title": "Should You Take One Watch Or Several When You Travel? - Fratello Watches",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2JOWmVBT3d2TDBkM3dJT2FHUHdua2JFRHhmT0tKb3NiemZsMDNfdm5ZOEIwbkxacEY2X2FxM2h0QUR6Nk5yS0lJNXNlVTNaSXVxdEYtVWhWd1BwdHpHa0RDZmd6SmlYSm9POEswWjlydHRNOUJfR3RzVlI2aXh2X3FOZTZ4WUh5dDNuaFVn?oc=5\" target=\"_blank\">Should You Take",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2JOWmVBT3d2TDBkM3dJT2FHUHdua2JFRHhmT0tKb3NiemZsMDNfdm5ZOEIwbkxacEY2X2FxM2h0QUR6Nk5yS0lJNXNlVTNaSXVxdEYtVWhWd1BwdHpHa0RDZmd6SmlYSm9POEswWjlydHRNOUJfR3RzVlI2aXh2X3FOZTZ4WUh5dDNuaFVn?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
+      "first_seen": "2026-10-17T10:33:47+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 16 Oct 2026 18:34:33 GMT",
-          "source": "Niagara-on-the-Lake Local"
+          "published": "Sat, 17 Oct 2026 05:04:23 GMT",
+          "source": "Fratello Watches"
         }
       ]
     },
     {
-      "id": "2e57f07e586c",
-      "title": "Porter Airlines is offering a new direct flight to a top Canadian city. Here's what to know - Vancouver Is Awesome",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPY1drdVVTU09saFhvSDZYd1ZNS3Vuekp4akxNRWNJbmFKSlEyV2FwbGY4SE5naDU5VHF6QVUxbTFNald4eUpxRTFLcUd0dEttQWRwbnZzUFpNOE1sVXRKamVLVFVVb2FEM1lhaWh0Z1Y5VXRleHFGTHUtc0ZNYUFSS25XQjNFdTYzaUpMUDRJVmR2T0ZBdEtENl80eHU?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY1drdVVTU09saFhvSDZYd1ZNS3Vuekp4akxNRWNJbmFKSlEyV2FwbGY4SE5naDU5VHF6QVUxbTFNald4eUpxRTFLcUd0dEttQWRwbnZzUFpNOE1sVXRKamVLVFVVb2FEM1lhaWh0Z1Y5VXRleHFGTHUtc0ZNYUFSS25XQjNFdTYzaUpMUDRJVmR2T0ZBdEtENl80eHU?oc=5",
-      "score": 57.6,
+      "id": "e77a465bb548",
+      "title": "Beyond the summer rush: Shoulder-season travel gains ground with Canadians - Travelweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdk9iU1otdmxXUkxyby02aWNDem9IYUJjeXBqS2NoNVpJek5vTkExMHZBbHdUeDNYWGNLSjh1OUgyVENJMENwNDY0ZkVSdmEyVEdtVVdMSTFBdU1Eam9HOW9ZdUhrOUxXT2FLRDBrZUFZWS11eHk1bUtpX0RhYXp6cWE1SWluNzZ3b2lybUJXVVpGb3dNQUZ5YzZIZGNkR2ZDVm81NnZVNWRJdT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdk9iU1otdmxXUkxyby02aWNDem9IYUJjeXBqS2NoNVpJek5vTkExMHZBbHdUeDNYWGNLSjh1OUgyVENJMENwNDY0ZkVSdmEyVEdtVVdMSTFBdU1Eam9HOW9ZdUhrOUxXT2FLRDBrZUFZWS11eHk1bUtpX0RhYXp6cWE1SWluNzZ3b2lybUJXVVpGb3dNQUZ5YzZIZGNkR2ZDVm81NnZVNWRJdThRVmMxTzJTbjhPZEpka1E?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
+      "first_seen": "2026-10-17T10:33:47+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 17 Oct 2026 02:57:13 GMT",
-          "source": "Vancouver Is Awesome"
+          "published": "Fri, 16 Oct 2026 15:26:31 GMT",
+          "source": "Travelweek"
         }
       ]
     },
     {
-      "id": "3880b87e55c8",
-      "title": "Family Travel Is Growing: But What Families Want From Vacations Is Changing - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnVfT0VrQlNlM0wzUWJ1UkExQTlJdWtseDItVUxCaFR6cGUyd3FSZTBvM1V0TWl1T202d253bmhPY1A3SWxQVU5NRU5zOTU0d3hrMWFtWDlnN245ZS0yX05OQ1pEYWFQdFRWbUFSc2xzTmRsNlM0cTNvNXppOTY5SU9CQncxRmx0d2NvLXNzZV9reDN1VUMzMUxOTzFtRVN6VmUyby1aaXdEak",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnVfT0VrQlNlM0wzUWJ1UkExQTlJdWtseDItVUxCaFR6cGUyd3FSZTBvM1V0TWl1T202d253bmhPY1A3SWxQVU5NRU5zOTU0d3hrMWFtWDlnN245ZS0yX05OQ1pEYWFQdFRWbUFSc2xzTmRsNlM0cTNvNXppOTY5SU9CQncxRmx0d2NvLXNzZV9reDN1VUMzMUxOTzFtRVN6VmUyby1aaXdEaktCTU5NZF96S1hxMW1FMW1VZ1lIWXBxWnd0NVE?oc=5",
-      "score": 54.0,
+      "id": "70cf51f0f113",
+      "title": "Vancouver Island named best honeymoon destination in North America by World Travel Awards - CHEK News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHBpT0J5V29DTWstOFBJc3lxVXV6b2pVZ1BvLXhqdmkwY28yYTZLZkU0czZscDVhcF9LV2VuTlR2cUlCUllDWWswSHVxYXVybElxRmJ0OVM0SWwzTFlTOXRMNWZLSFpVSWd3endwYUZscUoyNTQ2WHhEdkJ2MjNyYm5na1UtLTQtR1lDVjlTcnhPc2ZhclQwbTJWVThFLTktdlk0U193bFd0UG",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHBpT0J5V29DTWstOFBJc3lxVXV6b2pVZ1BvLXhqdmkwY28yYTZLZkU0czZscDVhcF9LV2VuTlR2cUlCUllDWWswSHVxYXVybElxRmJ0OVM0SWwzTFlTOXRMNWZLSFpVSWd3endwYUZscUoyNTQ2WHhEdkJ2MjNyYm5na1UtLTQtR1lDVjlTcnhPc2ZhclQwbTJWVThFLTktdlk0U193bFd0UGVYcG5INzhSUDlWbmV2elE?oc=5",
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
+      "first_seen": "2026-10-17T10:33:47+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 16 Oct 2026 21:00:00 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "5b0b161d4fa5",
-      "title": "This gorgeous Ontario town was named among the top 10 destinations in the world for 2027 - Narcity",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1hwb28zb3M4S2I2bEVNbnhaN3I2dnZZRENlZ0J2V19UdHA0UVk3Q1ZRVlBNQ2o1RDd2NTA5cldNeHZvRGs2NVI3ZFFkaTA5WUJPZFk4RmVVT1JlN0RBRGhWMmt1MUZPQW9kSHRmMkozWDJXTk8yMnNVZmhwcTA5SlBYM2tzTmJ5b21WYw?oc=5\" target=\"_blank\">This gorgeous Ont",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1hwb28zb3M4S2I2bEVNbnhaN3I2dnZZRENlZ0J2V19UdHA0UVk3Q1ZRVlBNQ2o1RDd2NTA5cldNeHZvRGs2NVI3ZFFkaTA5WUJPZFk4RmVVT1JlN0RBRGhWMmt1MUZPQW9kSHRmMkozWDJXTk8yMnNVZmhwcTA5SlBYM2tzTmJ5b21WYw?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 17 Oct 2026 00:03:32 GMT",
-          "source": "Narcity"
-        }
-      ]
-    },
-    {
-      "id": "a7737c094efa",
-      "title": "Ghosts, Breakups and Burnout: Travel Trends Take a Turn in 2027 - TravelPulse Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0thVnYtdXZIdllieldwNHdwaFl1Qy1PVEdvRzFDNkxtSWxPZlYzMW5Jenc4dk5aT3dfeFNsS2M4bG1hQi1HZWhSbnliODBQcHU0em5HOHEzakExNzM4R2VxNGRFSmh6OHhxUmdoZ05hd29FRkUzLVVUWVM4VzM5U1FfN01hM0VDNEUxaWcxUExRYjdfYnlrRUI1NHM2UGlXbVViSg?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0thVnYtdXZIdllieldwNHdwaFl1Qy1PVEdvRzFDNkxtSWxPZlYzMW5Jenc4dk5aT3dfeFNsS2M4bG1hQi1HZWhSbnliODBQcHU0em5HOHEzakExNzM4R2VxNGRFSmh6OHhxUmdoZ05hd29FRkUzLVVUWVM4VzM5U1FfN01hM0VDNEUxaWcxUExRYjdfYnlrRUI1NHM2UGlXbVViSg?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 13:45:00 GMT",
-          "source": "TravelPulse Canada"
-        }
-      ]
-    },
-    {
-      "id": "1638c7daa540",
-      "title": "These are the most underrated travel destinations in Europe - Euronews",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2p4N2dzUXAzcmV2a2UwVDZKbV91X25Vbkk3QTNicDY4bTltbG8zR2FMdzRUYnNwdTdxZHRKck10RFBVTnhjNWRNTlFUYWU5ajJBeE9nNndfR19tbWVPNDFZMFF6bDZSNGJvV2hFSUNmWF9QczlpS3JrUktTdTh4RHQyanZqZVRLMXpzYV91aWRjSFlHbnY4Rk0tcw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2p4N2dzUXAzcmV2a2UwVDZKbV91X25Vbkk3QTNicDY4bTltbG8zR2FMdzRUYnNwdTdxZHRKck10RFBVTnhjNWRNTlFUYWU5ajJBeE9nNndfR19tbWVPNDFZMFF6bDZSNGJvV2hFSUNmWF9QczlpS3JrUktTdTh4RHQyanZqZVRLMXpzYV91aWRjSFlHbnY4Rk0tcw?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 11:31:54 GMT",
-          "source": "Euronews"
-        }
-      ]
-    },
-    {
-      "id": "dfef93172c9b",
-      "title": "Vancouver just won several prestigious global travel awards - Daily Hive",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1nQklHRDlEUld1NXBpM3B4ZkxNOFhBLWRVMWpaTVFFcTZYdnAxb2xoZWFBa1ZaS00tQ1V2SDR1WDF2bkF6eFZHOGZtcjY0bzVSRjg2R2VaTWFTUGUydVN3Y055c2pib05BUjhTcjN1eTZSWklaUjRiaw?oc=5\" target=\"_blank\">Vancouver just won several prestigious global",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nQklHRDlEUld1NXBpM3B4ZkxNOFhBLWRVMWpaTVFFcTZYdnAxb2xoZWFBa1ZaS00tQ1V2SDR1WDF2bkF6eFZHOGZtcjY0bzVSRjg2R2VaTWFTUGUydVN3Y055c2pib05BUjhTcjN1eTZSWklaUjRiaw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 20:21:00 GMT",
-          "source": "Daily Hive"
-        }
-      ]
-    },
-    {
-      "id": "c5f1b7fc4309",
-      "title": "Canada’s Domestic Travel Boom: Why Local Experiences Still Matter in 2026 - kalkine.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUpuYXByS25Fbnpma0N3YWVzaWJvUjRTel9CcllaS3N6Tks4ZFR2MEl1UGtyTzZ0aXRYZ29fajg4S2pzcklOODZXWVpQclpmX2Y1Wk1NOFdzQ2tGYS0tTVRqYlRlY0dQMDZsSVVkaWVhWTFVUl9IQ01saHpYdjdYLWg4Tk4xR1NSRENnRlJWSFJvbFJvT0x5R3ZwbUFGZDRpREJ4OXRoNnNGbW",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUpuYXByS25Fbnpma0N3YWVzaWJvUjRTel9CcllaS3N6Tks4ZFR2MEl1UGtyTzZ0aXRYZ29fajg4S2pzcklOODZXWVpQclpmX2Y1Wk1NOFdzQ2tGYS0tTVRqYlRlY0dQMDZsSVVkaWVhWTFVUl9IQ01saHpYdjdYLWg4Tk4xR1NSRENnRlJWSFJvbFJvT0x5R3ZwbUFGZDRpREJ4OXRoNnNGbWg2SzhBVUhpaTg1MDJC?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 19:03:00 GMT",
-          "source": "kalkine.ca"
-        }
-      ]
-    },
-    {
-      "id": "2bcc3b9fc945",
-      "title": "Canadians cautioned against travel to Saudi Arabia after attacks on airports - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1BjM2VvV19EYmlpR0pYcThrTll0WUJEVklEeEdlenhjc0FVSXdxWXlYTGhxWmpFYmV5Ry1OdEtyUVhzRTJIQWhreWxfbGVxQmt6aXhFbkRYLWZCX3hUTTVOckMwRkQzZjRRejVHU3VMRC1EeHk4Q2ptbkxmdm0zVm1SM0w?oc=5\" target=\"_blank\">Canadians cautioned against ",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1BjM2VvV19EYmlpR0pYcThrTll0WUJEVklEeEdlenhjc0FVSXdxWXlYTGhxWmpFYmV5Ry1OdEtyUVhzRTJIQWhreWxfbGVxQmt6aXhFbkRYLWZCX3hUTTVOckMwRkQzZjRRejVHU3VMRC1EeHk4Q2ptbkxmdm0zVm1SM0w?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 15 Oct 2026 17:43:30 GMT",
-          "source": "CBC"
+          "published": "Fri, 16 Oct 2026 16:06:28 GMT",
+          "source": "CHEK News"
         }
       ]
     },
@@ -351,14 +131,14 @@
       "title": "I refuse to dress down when I travel. In fact, it’s time to get fancy - The Globe and Mail",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNenZvcmtqaXlrUVlnU0FqdXJsMS13VDh5b3ZjaXotUmpSS3FmWFVqTzl0a1NBUUNXX2pHbER6dUdoaEcxWkxzc2M1QXVqY296X2pvckt2Qi1uYm5fUXdNTmFkeUczcXZubE14ZWJITVJvMFhYVXpyMDBOcGhleWNaZzV5NWV5Qko3ZDQtbmZ5cl9pMktXMXhyNFEtd2hKTGNfbWdkQ3ZKM3pmeX",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenZvcmtqaXlrUVlnU0FqdXJsMS13VDh5b3ZjaXotUmpSS3FmWFVqTzl0a1NBUUNXX2pHbER6dUdoaEcxWkxzc2M1QXVqY296X2pvckt2Qi1uYm5fUXdNTmFkeUczcXZubE14ZWJITVJvMFhYVXpyMDBOcGhleWNaZzV5NWV5Qko3ZDQtbmZ5cl9pMktXMXhyNFEtd2hKTGNfbWdkQ3ZKM3pmeXU4YjRabFY3S0U0TE02UV84NWdEYjJUQ0h1RU9BZzdlS3ZNZw?oc=5",
-      "score": 28.8,
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
+      "first_seen": "2026-10-17T10:33:47+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 12:00:00 GMT",
@@ -367,10 +147,230 @@
       ]
     },
     {
-      "id": "3bce254c0283",
-      "title": "National Geographic-Lindblad Expeditions: Expanding the appeal of expedition travel - Travelweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXZONDFKT0FFSnBJeWdOUVN5OFZlbDJiYnIxQnZHWkg5NEdoS2s3TVViRW9zaWJCb0NaOW5ianZEenZINHd6bXIzdEtXTjdxMEFWMzJEWlJDVkJVeERmV21vUXQ4TFl5dG1LNmwwREF3NncyNy1vNVRONDVhYUVTaUtwVDhSWm1GUlpNU1NCeElPbDdwdW82ZVVnWWFQUlk2YUhMOW9lV0V3WT",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXZONDFKT0FFSnBJeWdOUVN5OFZlbDJiYnIxQnZHWkg5NEdoS2s3TVViRW9zaWJCb0NaOW5ianZEenZINHd6bXIzdEtXTjdxMEFWMzJEWlJDVkJVeERmV21vUXQ4TFl5dG1LNmwwREF3NncyNy1vNVRONDVhYUVTaUtwVDhSWm1GUlpNU1NCeElPbDdwdW82ZVVnWWFQUlk2YUhMOW9lV0V3WTBMSXlKakYzMi1pMmpVT2hhWXNzQjBsRjVQ?oc=5",
+      "id": "b293b8009a95",
+      "title": "What does tourism mean for Strathcona County? - Sherwood Park News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVl8wckZwVXJZTUs5M1NWdzNFb2k5aWxSelk5ODgwcnNKZGFYamltVWY5NmY0QVBFWDhpM24xSDNURU94SGVmUW9ERmRDOTR3dW5laUktdGM5bG03dUI0bEVlUnBBWUtRbm8xQUVSemhuU1V4RWd1RFFNRW9mVzJrc2o0ZmpvMFZ5VFhJb1pn?oc=5\" target=\"_blank\">What does touri",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVl8wckZwVXJZTUs5M1NWdzNFb2k5aWxSelk5ODgwcnNKZGFYamltVWY5NmY0QVBFWDhpM24xSDNURU94SGVmUW9ERmRDOTR3dW5laUktdGM5bG03dUI0bEVlUnBBWUtRbm8xQUVSemhuU1V4RWd1RFFNRW9mVzJrc2o0ZmpvMFZ5VFhJb1pn?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 16 Oct 2026 20:37:09 GMT",
+          "source": "Sherwood Park News"
+        }
+      ]
+    },
+    {
+      "id": "13b820a83949",
+      "title": "From trip designers to privacy: What's trending in luxury travel? - Euronews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGZSaXE4S1pjTzZtd3d2UUJmdFh6QWV0a3BmWDFHWjZ5UGc1bWtBa0pCV3pPbExLYVNQOGk0MUdCRXNhNDNEdlFjVlhvMS1zbE1JbFQxcGEyWVE0NkhLM1BJNTBaT2JqRDI3UEFkRTUzUjBtb3MxYXJKRHFKbmtFSmdpeE1Fa1ZSMUN1N0dnX2FBUVk5bzdKZWJTekxXdWJzZ3BydUtxVHJPLT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGZSaXE4S1pjTzZtd3d2UUJmdFh6QWV0a3BmWDFHWjZ5UGc1bWtBa0pCV3pPbExLYVNQOGk0MUdCRXNhNDNEdlFjVlhvMS1zbE1JbFQxcGEyWVE0NkhLM1BJNTBaT2JqRDI3UEFkRTUzUjBtb3MxYXJKRHFKbmtFSmdpeE1Fa1ZSMUN1N0dnX2FBUVk5bzdKZWJTekxXdWJzZ3BydUtxVHJPLTE1VHQ0TDhn?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 17 Oct 2026 05:00:05 GMT",
+          "source": "Euronews.com"
+        }
+      ]
+    },
+    {
+      "id": "71c751f3abf8",
+      "title": "Two Canadian destinations ranked among trending travel spots for 2027 - Daily Hive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmYxS2hZUnBMa01JZm95M2tRXzFCMnhGVVFrMWc3c0l0U0t1X0M5eWhPSndwck9MUzlMTzhsLXNFcDZCdnVzMGhFdXlRTzJ5YTZiSk5LWkFDZG9tN0wxaFpZMVJlMzAzTV8xeXBibjZYN3hrVjRHM3FsT1hFdW1SdGg3NkdyRUYy?oc=5\" target=\"_blank\">Two Canadian destinatio",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmYxS2hZUnBMa01JZm95M2tRXzFCMnhGVVFrMWc3c0l0U0t1X0M5eWhPSndwck9MUzlMTzhsLXNFcDZCdnVzMGhFdXlRTzJ5YTZiSk5LWkFDZG9tN0wxaFpZMVJlMzAzTV8xeXBibjZYN3hrVjRHM3FsT1hFdW1SdGg3NkdyRUYy?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 13 Oct 2026 19:29:00 GMT",
+          "source": "Daily Hive"
+        }
+      ]
+    },
+    {
+      "id": "09bc8bda25ef",
+      "title": "Canada updates travel advisories for Mexico, U.S. and other popular destinations - insauga.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVFYbkF6QlRERkRJZy1SZG1FSGpZV2k2b09wdXNoV0dLSjAyaVlQRWJPbG5ROVdVT25kX3Eydnh6cVZLNjhwM196S0VLX21YZjh0a1NQenIwUFZyR1dwUkxQODNKcWRudTRpdU1Sa3dXX0ZlbktoTXRWZHlCR2xBTS1iVzlqUnJxZE1TendLbzljaUkxNkZyeTZmdHBQbWgtbzJKVDdR?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVFYbkF6QlRERkRJZy1SZG1FSGpZV2k2b09wdXNoV0dLSjAyaVlQRWJPbG5ROVdVT25kX3Eydnh6cVZLNjhwM196S0VLX21YZjh0a1NQenIwUFZyR1dwUkxQODNKcWRudTRpdU1Sa3dXX0ZlbktoTXRWZHlCR2xBTS1iVzlqUnJxZE1TendLbzljaUkxNkZyeTZmdHBQbWgtbzJKVDdR?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 16 Oct 2026 17:48:27 GMT",
+          "source": "insauga.com"
+        }
+      ]
+    },
+    {
+      "id": "b336313f51fb",
+      "title": "5 Scenic Swiss Villages to Put on Your Travel Itinerary - National Geographic",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTkdLbnVyMjJ0Nlg2Y2U2bVRNYVN3WmNIN2tnMFlUX1lmUUFKLWczaHRMX0V1MTR6OE9PWW51Q1U3OVdzcVlmSUtoa1gtMGl3TkFDZG1PdmpPUVdZRFdjelBGRmVhVnMzLWhjd21IMmlfX3p3ZGxxRWphdUNRYkh0NGdzNnItSkIwMVVORTVBU2lZalpOMUNMOGlFY3BueHh4ZTc4UmZB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTkdLbnVyMjJ0Nlg2Y2U2bVRNYVN3WmNIN2tnMFlUX1lmUUFKLWczaHRMX0V1MTR6OE9PWW51Q1U3OVdzcVlmSUtoa1gtMGl3TkFDZG1PdmpPUVdZRFdjelBGRmVhVnMzLWhjd21IMmlfX3p3ZGxxRWphdUNRYkh0NGdzNnItSkIwMVVORTVBU2lZalpOMUNMOGlFY3BueHh4ZTc4UmZB?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 17 Oct 2026 08:20:35 GMT",
+          "source": "National Geographic"
+        }
+      ]
+    },
+    {
+      "id": "9b8a584c7046",
+      "title": "Questions on tourism, infrasttructure, arts and agriculture disucssed at all candidates forum - Niagara-on-the-Lake Local",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZGxvUEVLd2M2Nkx6OThHcFM3WVRyUGplTWNzbFVyQkcxZnlCZ0dnTjFUZGxmbGs1Qldoc19jZlpSY2lmTzIxUUkyOFRoWG4tOWYtM29lRUJwejFuSWJDcExXcmd3T2F1NXBXMFdMV2RndGl0N1lpaW1NZjI1TG5WQ2NaQkRHaWtRZHZWcjJJcE10MVd4dkhnWFRsa2JORkQ5ejRqWnpiaVpWM2",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZGxvUEVLd2M2Nkx6OThHcFM3WVRyUGplTWNzbFVyQkcxZnlCZ0dnTjFUZGxmbGs1Qldoc19jZlpSY2lmTzIxUUkyOFRoWG4tOWYtM29lRUJwejFuSWJDcExXcmd3T2F1NXBXMFdMV2RndGl0N1lpaW1NZjI1TG5WQ2NaQkRHaWtRZHZWcjJJcE10MVd4dkhnWFRsa2JORkQ5ejRqWnpiaVpWM2RXamdPN0FYdTVxaHNmQVJSQzNNWWN4Nm1idHE1Z0JIVTlKd3lrMEJRQzh4T2VmTk5yOFE?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 16 Oct 2026 18:34:33 GMT",
+          "source": "Niagara-on-the-Lake Local"
+        }
+      ]
+    },
+    {
+      "id": "5939a18ad2f0",
+      "title": "How Bavaria Is Reshaping Sustainable Travel One Bite At A Time - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1l3V0F6VjVmS0JzRW9aZ21RVERwSU9lY2NiQXFHREd6X2MwUHZqSlBBbDM4QUFoUHRac2tpRXFwSW5GNHh0eUNpdWRKVGlxMDVvQnlJcDAxbVpiN19rOHZKcG0tWGtHd1oxX1VQZjFtS2FQNmdxMjUxNGY5WTkwV2tfVGJqa1FMNzk0VnUxdzFDV3JNOHlOU1VEazVGakRNTGwxb0RIUi1KNz",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1l3V0F6VjVmS0JzRW9aZ21RVERwSU9lY2NiQXFHREd6X2MwUHZqSlBBbDM4QUFoUHRac2tpRXFwSW5GNHh0eUNpdWRKVGlxMDVvQnlJcDAxbVpiN19rOHZKcG0tWGtHd1oxX1VQZjFtS2FQNmdxMjUxNGY5WTkwV2tfVGJqa1FMNzk0VnUxdzFDV3JNOHlOU1VEazVGakRNTGwxb0RIUi1KNzVIWjBGRWFQaDdRbWtxN0RXNUFQVQ?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 17 Oct 2026 10:16:53 GMT",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "id": "2bcc3b9fc945",
+      "title": "Canadians cautioned against travel to Saudi Arabia after attacks on airports - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1BjM2VvV19EYmlpR0pYcThrTll0WUJEVklEeEdlenhjc0FVSXdxWXlYTGhxWmpFYmV5Ry1OdEtyUVhzRTJIQWhreWxfbGVxQmt6aXhFbkRYLWZCX3hUTTVOckMwRkQzZjRRejVHU3VMRC1EeHk4Q2ptbkxmdm0zVm1SM0w?oc=5\" target=\"_blank\">Canadians cautioned against ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1BjM2VvV19EYmlpR0pYcThrTll0WUJEVklEeEdlenhjc0FVSXdxWXlYTGhxWmpFYmV5Ry1OdEtyUVhzRTJIQWhreWxfbGVxQmt6aXhFbkRYLWZCX3hUTTVOckMwRkQzZjRRejVHU3VMRC1EeHk4Q2ptbkxmdm0zVm1SM0w?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 15 Oct 2026 17:43:30 GMT",
+          "source": "CBC"
+        }
+      ]
+    },
+    {
+      "id": "bf78886aa573",
+      "title": "The Wanderlist: Style statements, private escapes and other luxury travel news - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWZ5VnRreWcyT1lKbVpXbENqaGlKb3lRbm1Ial9EcWpHNmtKT2VCWWlFYWw2QWJQNEVFd1BicXpzZGo1LTRJMFhmMVhPUmJub2F1WjFydkNIMXBVV1hGaXZnUEtYN2tpaW9LU25HWnZWZFpNdXpiWElFVVpqdHAzVDZYNVg1RUxwcm5tb1lIZ182V2swWlRHQ0lBYU5DRGt4UF9zSmdJbzJVak",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWZ5VnRreWcyT1lKbVpXbENqaGlKb3lRbm1Ial9EcWpHNmtKT2VCWWlFYWw2QWJQNEVFd1BicXpzZGo1LTRJMFhmMVhPUmJub2F1WjFydkNIMXBVV1hGaXZnUEtYN2tpaW9LU25HWnZWZFpNdXpiWElFVVpqdHAzVDZYNVg1RUxwcm5tb1lIZ182V2swWlRHQ0lBYU5DRGt4UF9zSmdJbzJVakd3UkYybEROVFhCeG5CTG5TRmJHSHh3UWlmUUY4ZmNMaw?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 16 Oct 2026 12:00:00 GMT",
+          "source": "The Globe and Mail"
+        }
+      ]
+    },
+    {
+      "id": "3880b87e55c8",
+      "title": "Family Travel Is Growing: But What Families Want From Vacations Is Changing - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnVfT0VrQlNlM0wzUWJ1UkExQTlJdWtseDItVUxCaFR6cGUyd3FSZTBvM1V0TWl1T202d253bmhPY1A3SWxQVU5NRU5zOTU0d3hrMWFtWDlnN245ZS0yX05OQ1pEYWFQdFRWbUFSc2xzTmRsNlM0cTNvNXppOTY5SU9CQncxRmx0d2NvLXNzZV9reDN1VUMzMUxOTzFtRVN6VmUyby1aaXdEak",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnVfT0VrQlNlM0wzUWJ1UkExQTlJdWtseDItVUxCaFR6cGUyd3FSZTBvM1V0TWl1T202d253bmhPY1A3SWxQVU5NRU5zOTU0d3hrMWFtWDlnN245ZS0yX05OQ1pEYWFQdFRWbUFSc2xzTmRsNlM0cTNvNXppOTY5SU9CQncxRmx0d2NvLXNzZV9reDN1VUMzMUxOTzFtRVN6VmUyby1aaXdEaktCTU5NZF96S1hxMW1FMW1VZ1lIWXBxWnd0NVE?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 16 Oct 2026 21:00:00 GMT",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "id": "dfef93172c9b",
+      "title": "Vancouver just won several prestigious global travel awards - Daily Hive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1nQklHRDlEUld1NXBpM3B4ZkxNOFhBLWRVMWpaTVFFcTZYdnAxb2xoZWFBa1ZaS00tQ1V2SDR1WDF2bkF6eFZHOGZtcjY0bzVSRjg2R2VaTWFTUGUydVN3Y055c2pib05BUjhTcjN1eTZSWklaUjRiaw?oc=5\" target=\"_blank\">Vancouver just won several prestigious global",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nQklHRDlEUld1NXBpM3B4ZkxNOFhBLWRVMWpaTVFFcTZYdnAxb2xoZWFBa1ZaS00tQ1V2SDR1WDF2bkF6eFZHOGZtcjY0bzVSRjg2R2VaTWFTUGUydVN3Y055c2pib05BUjhTcjN1eTZSWklaUjRiaw?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-17T10:33:47+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 16 Oct 2026 20:21:00 GMT",
+          "source": "Daily Hive"
+        }
+      ]
+    },
+    {
+      "id": "3aa4ad510e1d",
+      "title": "Skyrocketing security costs threatening Ontario festivals, says Liberal critic for tourism - CBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxONEl3d08waTR3MDRNWVM2dW5YOEpiRk1ZX0ttaFJvdlA0Q29ndkVQRGJqb2ZPZWdfbjJidDZlRV9qQUJVYjRpd01FeVJZRFkzTFd1RWo3bEJ2c1I0eTNnd3lSX25laDA5NmFJZFkzUXlIYVFSdFV0ZHVOc3RKcndSUldRdUhkbG5DcFlYYlAyZE5ZWGN6S3FnM2tVb1FuZU1CYjZMY3ZzTU5EYz",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONEl3d08waTR3MDRNWVM2dW5YOEpiRk1ZX0ttaFJvdlA0Q29ndkVQRGJqb2ZPZWdfbjJidDZlRV9qQUJVYjRpd01FeVJZRFkzTFd1RWo3bEJ2c1I0eTNnd3lSX25laDA5NmFJZFkzUXlIYVFSdFV0ZHVOc3RKcndSUldRdUhkbG5DcFlYYlAyZE5ZWGN6S3FnM2tVb1FuZU1CYjZMY3ZzTU5EYzZraTB0dGx2VW5xUTBTWGFibENPUWtfd0MtRkRhdVZiOWp1NUQ0X3FNVWE5c1QyYkh3TUV0ZkpGSQ?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,11 +378,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
+      "first_seen": "2026-10-17T10:33:47+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 16 Oct 2026 15:21:30 GMT",
-          "source": "Travelweek"
+          "published": "Fri, 16 Oct 2026 22:18:08 GMT",
+          "source": "CBC"
         }
       ]
     },
@@ -398,7 +398,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-17T04:15:20+00:00",
+      "first_seen": "2026-10-17T10:33:47+00:00",
       "raw_samples": [
         {
           "published": "Tue, 13 Oct 2026 19:47:44 GMT",
