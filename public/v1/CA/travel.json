@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-10-18T20:43:24+00:00",
+  "generated_at": "2026-10-19T04:40:06+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "bbc05e3f9b6f",
-      "title": "Only 28% of Canadians know a travel advisory change can void their insurance — what snowbirds need to check now - Yahoo! Finance Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVVJay1FLWR1V2JFQlloTjdDdWw4UnJkNlZGSEV4OUJvN2R5U09QMy1QUXFMR2dkN2xPc01jVTFQekUxUTVhMVdmWTEyUnR1dm9wR2hvcWFxR0VSYU00Nk1PQWFFNnh3MnZzSzhMOXNONm1SMkcyNkd4MWJRWmNiT0RZNWg?oc=5\" target=\"_blank\">Only 28% of Canadians know a",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVVJay1FLWR1V2JFQlloTjdDdWw4UnJkNlZGSEV4OUJvN2R5U09QMy1QUXFMR2dkN2xPc01jVTFQekUxUTVhMVdmWTEyUnR1dm9wR2hvcWFxR0VSYU00Nk1PQWFFNnh3MnZzSzhMOXNONm1SMkcyNkd4MWJRWmNiT0RZNWg?oc=5",
+      "id": "47793d4303c1",
+      "title": "How a travel surge between Canada and the U.S. is impacting domestic tourism operators - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtUGdEMTBDTkExX1UycUh3QkQwSkJxeDV3Nkdmb1BKX0lRejRfVjR1eEJYM2N0MEo2Ny1kZ1BfcHI5OVhHVXZJNVN4bHRYTUh2Rkt1RWltLVpQSmpkN3NEMkJMM2lfc2dMTGFQLUZqclR2bFdFS3BKcjhNaHdrR1k0dDZMSTd0WV8ySFhoOWtDMkZGdjRIZzBqT3VwU29pUjQ3LVZMeTN6Y0",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtUGdEMTBDTkExX1UycUh3QkQwSkJxeDV3Nkdmb1BKX0lRejRfVjR1eEJYM2N0MEo2Ny1kZ1BfcHI5OVhHVXZJNVN4bHRYTUh2Rkt1RWltLVpQSmpkN3NEMkJMM2lfc2dMTGFQLUZqclR2bFdFS3BKcjhNaHdrR1k0dDZMSTd0WV8ySFhoOWtDMkZGdjRIZzBqT3VwU29pUjQ3LVZMeTN6Y0pPMzNpZVM2OXdJcFJqX0lNTnBXTTJsak1adG1mMkxsMHBNcXc1UHlR?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,11 +18,31 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 18 Oct 2026 11:30:00 GMT",
-          "source": "Yahoo! Finance Canada"
+          "published": "Fri, 16 Oct 2026 18:10:17 GMT",
+          "source": "CTV News"
+        }
+      ]
+    },
+    {
+      "id": "5489e88bf2cf",
+      "title": "Your next adventure starts on Nov. 7 at the Nanaimo Travel Expo! - Cowichan Valley Citizen",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWNrVmxsSk1nWmRtal94RDgzWVF2NDNBdTdPa09sYWMzYkRNQUJDeS15cVpKUU5ZYUo3YldhcjVLX1A2MF9iLTRQM0ZneXcwR0FRMXM2Uy12QmFrdHJWalFMdV9ZeWsxQjVrcTJ5T2o2ZENOTUtMcjhSWHJUZWI4dHFudmdrZ2UzWnFkTkFPTExjMVRMWmlOSEdSallrZ09BcGZYdjNHQ1BwQz",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWNrVmxsSk1nWmRtal94RDgzWVF2NDNBdTdPa09sYWMzYkRNQUJDeS15cVpKUU5ZYUo3YldhcjVLX1A2MF9iLTRQM0ZneXcwR0FRMXM2Uy12QmFrdHJWalFMdV9ZeWsxQjVrcTJ5T2o2ZENOTUtMcjhSWHJUZWI4dHFudmdrZ2UzWnFkTkFPTExjMVRMWmlOSEdSallrZ09BcGZYdjNHQ1BwQzVSTV9meWJjeVYzX0E?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-19T04:31:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 19 Oct 2026 00:48:25 GMT",
+          "source": "Cowichan Valley Citizen"
         }
       ]
     },
@@ -31,14 +51,14 @@
       "title": "I refuse to dress down when I travel. In fact, it’s time to get fancy - The Globe and Mail",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNenZvcmtqaXlrUVlnU0FqdXJsMS13VDh5b3ZjaXotUmpSS3FmWFVqTzl0a1NBUUNXX2pHbER6dUdoaEcxWkxzc2M1QXVqY296X2pvckt2Qi1uYm5fUXdNTmFkeUczcXZubE14ZWJITVJvMFhYVXpyMDBOcGhleWNaZzV5NWV5Qko3ZDQtbmZ5cl9pMktXMXhyNFEtd2hKTGNfbWdkQ3ZKM3pmeX",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenZvcmtqaXlrUVlnU0FqdXJsMS13VDh5b3ZjaXotUmpSS3FmWFVqTzl0a1NBUUNXX2pHbER6dUdoaEcxWkxzc2M1QXVqY296X2pvckt2Qi1uYm5fUXdNTmFkeUczcXZubE14ZWJITVJvMFhYVXpyMDBOcGhleWNaZzV5NWV5Qko3ZDQtbmZ5cl9pMktXMXhyNFEtd2hKTGNfbWdkQ3ZKM3pmeXU4YjRabFY3S0U0TE02UV84NWdEYjJUQ0h1RU9BZzdlS3ZNZw?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 12:00:00 GMT",
@@ -47,22 +67,42 @@
       ]
     },
     {
-      "id": "698750be8391",
-      "title": "New survey reveals what makes someone a bad travel companion - WGRZ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWtwalpHUnVnZEdRRlEtQTJqRlJ3a2x0Y3QwclN2Y0s2SHQzT1FCeXhaeER1UXE4dXhBVlRrcWJsWTFIc3Jrd29URlY4Q3hUU2sxQzdTQmZzNVB5TWlIcDNjRGtFTjFfejJ1UnZLYjNoUWFhOFFBY0hfSng0NUZIVm1VTERScEVydGIzLTVfOUpVMlN1ZVpwdWhOZmxTb3lxS1h0MHExWWdlZ0",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWtwalpHUnVnZEdRRlEtQTJqRlJ3a2x0Y3QwclN2Y0s2SHQzT1FCeXhaeER1UXE4dXhBVlRrcWJsWTFIc3Jrd29URlY4Q3hUU2sxQzdTQmZzNVB5TWlIcDNjRGtFTjFfejJ1UnZLYjNoUWFhOFFBY0hfSng0NUZIVm1VTERScEVydGIzLTVfOUpVMlN1ZVpwdWhOZmxTb3lxS1h0MHExWWdlZ0RTaURHS2Z2TFhmOGpBVVU1bjl0dw?oc=5",
-      "score": 82.8,
+      "id": "dec00082d80d",
+      "title": "LAST WEEK THIS MORNING: Oct. 12-16, 2026 - Travel Industry Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1UMHlrM1Z5UWVxUmNHcUtjUlBHeXM0UkVsYkVKUVF1aTdBUTFlOUFUWWh4cmlQSXl0ZmJoRDFGejNKQlc5eGZtejBnelF4WDg4ejAxZklvVTBOZktaNEVtSGxUSUlpZjBVdGE3dE9GWFZxUWtGbEtsT21R?oc=5\" target=\"_blank\">LAST WEEK THIS MORNING: Oct. 12-16, 2026</a",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UMHlrM1Z5UWVxUmNHcUtjUlBHeXM0UkVsYkVKUVF1aTdBUTFlOUFUWWh4cmlQSXl0ZmJoRDFGejNKQlc5eGZtejBnelF4WDg4ejAxZklvVTBOZktaNEVtSGxUSUlpZjBVdGE3dE9GWFZxUWtGbEtsT21R?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 18 Oct 2026 16:34:00 GMT",
-          "source": "WGRZ"
+          "published": "Sun, 18 Oct 2026 22:16:41 GMT",
+          "source": "Travel Industry Today"
+        }
+      ]
+    },
+    {
+      "id": "71c751f3abf8",
+      "title": "Two Canadian destinations ranked among trending travel spots for 2027 - Daily Hive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmYxS2hZUnBMa01JZm95M2tRXzFCMnhGVVFrMWc3c0l0U0t1X0M5eWhPSndwck9MUzlMTzhsLXNFcDZCdnVzMGhFdXlRTzJ5YTZiSk5LWkFDZG9tN0wxaFpZMVJlMzAzTV8xeXBibjZYN3hrVjRHM3FsT1hFdW1SdGg3NkdyRUYy?oc=5\" target=\"_blank\">Two Canadian destinatio",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmYxS2hZUnBMa01JZm95M2tRXzFCMnhGVVFrMWc3c0l0U0t1X0M5eWhPSndwck9MUzlMTzhsLXNFcDZCdnVzMGhFdXlRTzJ5YTZiSk5LWkFDZG9tN0wxaFpZMVJlMzAzTV8xeXBibjZYN3hrVjRHM3FsT1hFdW1SdGg3NkdyRUYy?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-19T04:31:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 13 Oct 2026 19:29:00 GMT",
+          "source": "Daily Hive"
         }
       ]
     },
@@ -71,14 +111,14 @@
       "title": "China’s tourists flock to experience a pretend typhoon as ‘dark tourism’ flourishes - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOd1ljcHpjd0tMZXFidVVzWXZBYV9yWmRMXzVzWDRKMklJOTN6Um9UcHUtWTZlQ2F0TlVmYVRXVmFoUno5RUw1XzktWmN1ckVzWlM1Y3h1aFJVWi1wS2RxZHJxLWJWQmk2cWxNS1dsaHhmRmozU2g1aW41VWw5WmUwdEJydmZOUHRQTFg5SE5sTVBab3oyWUdSNGx5TWRDUQ?oc=5\" target=\"_",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1ljcHpjd0tMZXFidVVzWXZBYV9yWmRMXzVzWDRKMklJOTN6Um9UcHUtWTZlQ2F0TlVmYVRXVmFoUno5RUw1XzktWmN1ckVzWlM1Y3h1aFJVWi1wS2RxZHJxLWJWQmk2cWxNS1dsaHhmRmozU2g1aW41VWw5WmUwdEJydmZOUHRQTFg5SE5sTVBab3oyWUdSNGx5TWRDUQ?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
           "published": "Sat, 17 Oct 2026 12:32:00 GMT",
@@ -87,38 +127,18 @@
       ]
     },
     {
-      "id": "f2c148dbe7e4",
-      "title": "LeBron James' wife declines to upgrade best friend's flight, kicking off hot debate - Fox News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUw3YUFUQmFyVl9FNktMaVFic043SktsZXo2MVVqTXA0WVc5SWFuN2Jrc0ZGNDBLTDNtam45REx5ejlwd2FYamxmb3JEVmZPcGFGa3BBLUdQQjJRbHR6dV90cXJGZGt4b0NUZWkyRTlMQXFmdWVnOEtRS2xuOHNZNk9aUmtUYmhoRk91bGFMVUEtSGpuZTZCeENIN2xBTndWR2pIYXBIZHNEWU",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUw3YUFUQmFyVl9FNktMaVFic043SktsZXo2MVVqTXA0WVc5SWFuN2Jrc0ZGNDBLTDNtam45REx5ejlwd2FYamxmb3JEVmZPcGFGa3BBLUdQQjJRbHR6dV90cXJGZGt4b0NUZWkyRTlMQXFmdWVnOEtRS2xuOHNZNk9aUmtUYmhoRk91bGFMVUEtSGpuZTZCeENIN2xBTndWR2pIYXBIZHNEWUwz0gGyAUFVX3lxTE9TT2VveDJHMXZBVUNra2xlbERLUkpyMXlOVlhnd0N2QlNCaDczOTlHaVBjLXZ5Z1BBZTQxcE4xYzZ6ekJOZjJLLUUxcWRoOEFtckpvbG5iZlhvN2dMQUFQS3FSeXlBUWRxVkRPY3pvZUppaXhEODhYSF9tei11SmYweTdoWnIyeHFLRXpjLTM3R3hXbnNuQmowOXFMcXlEb2FIVVN2QUEzRzVkVTNaUGoyQVE?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 18 Oct 2026 15:52:59 GMT",
-          "source": "Fox News"
-        }
-      ]
-    },
-    {
       "id": "7fe75490737b",
       "title": "Humans may not have the heart for space travel to Mars - The Brighter Side of News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVdKRjJWNDRuWi1VcW5CeE0tekVCdlRVM1dWVFN1MGQxWXljQ2pKRHc4T19aZU4zWEpVRnVNQUFpTkRibUhrclh6b3hva1NrQ3EzQW1MYkJpU3RuWEZNd19QdnZnSC1GenVXQ2I5SEVZMWhZam5CSGZ6cXJiOXVnR0ZHWXRCbml2MkV1U1RkYUNvVm1WLU1tNw?oc=5\" target=\"_blank\">H",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVdKRjJWNDRuWi1VcW5CeE0tekVCdlRVM1dWVFN1MGQxWXljQ2pKRHc4T19aZU4zWEpVRnVNQUFpTkRibUhrclh6b3hva1NrQ3EzQW1MYkJpU3RuWEZNd19QdnZnSC1GenVXQ2I5SEVZMWhZam5CSGZ6cXJiOXVnR0ZHWXRCbml2MkV1U1RkYUNvVm1WLU1tNw?oc=5",
-      "score": 72.0,
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
           "published": "Sun, 18 Oct 2026 14:07:00 GMT",
@@ -127,30 +147,10 @@
       ]
     },
     {
-      "id": "b7dd08f5f236",
-      "title": "Screaming Heads-hosted Almaguin Star Party out of running for Ontario Tourism Awards of Excellence - BayToday.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaDU4dFdKcXZLd2JYeVBNLWRmLUplRmVKRERmdjBsSC1KNnlfLUZOeXpKckJkcGRDajI5akk2S0ljaXBTdzB0Q29lTUQtaEhyUjBvUkhUb3VJWENEelpXRkFnQlgzV3BycmNsSlhvUlM2NDJLU3BLbmQwT0ZUNDBTb25DeW9pTW1hSUJ0WUVBdkdlVzdWZzZvcnR5NGRDSkJPX2JKcWxDN3Fqem",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaDU4dFdKcXZLd2JYeVBNLWRmLUplRmVKRERmdjBsSC1KNnlfLUZOeXpKckJkcGRDajI5akk2S0ljaXBTdzB0Q29lTUQtaEhyUjBvUkhUb3VJWENEelpXRkFnQlgzV3BycmNsSlhvUlM2NDJLU3BLbmQwT0ZUNDBTb25DeW9pTW1hSUJ0WUVBdkdlVzdWZzZvcnR5NGRDSkJPX2JKcWxDN3FqemdFYWRCNGZ3Ykp6QnNoR21GbnQ4ZWRvV09GRmNOUEtnM0hZSjFfTXVNLU1WU3dOZw?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 17 Oct 2026 16:06:05 GMT",
-          "source": "BayToday.ca"
-        }
-      ]
-    },
-    {
-      "id": "3415c0e04d5d",
-      "title": "How a travel surge between Canada and the U.S. is impacting domestic tourism operators - BNN Bloomberg",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNSWd2N2J4V3JSS0E5bzhDNWhhNHBtZ0hUWFhId250ZUtOUUtzVmpsUmp4dndCMGJOb1lWRmRJMEE0QWh6TnNyYmhQVFRQaTFxU053YWxuZVZpb05iSnVkN1BleERwN0pkX3pNYU8wT0xVa2xaMzVfUTVnb1JndlJVWXRZTnMyeWtXYjVVcUZfTmpLTWxxWHk0NmdLVmZoRlAwbkpfeGs1RWppaF",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSWd2N2J4V3JSS0E5bzhDNWhhNHBtZ0hUWFhId250ZUtOUUtzVmpsUmp4dndCMGJOb1lWRmRJMEE0QWh6TnNyYmhQVFRQaTFxU053YWxuZVZpb05iSnVkN1BleERwN0pkX3pNYU8wT0xVa2xaMzVfUTVnb1JndlJVWXRZTnMyeWtXYjVVcUZfTmpLTWxxWHk0NmdLVmZoRlAwbkpfeGs1RWppaFVoT1NGWDJIY3NPLU9hV1VCY1g1VHhhWVdSVEtGQ18zU2I?oc=5",
+      "id": "e759b8b8a6bf",
+      "title": "Wild's Jared Spurgeon: Set to travel with team - CBS Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0hFWkY0bU9PZl9QMnNoaHhBNk1IM05kMkp4RFdCODJQWFplNTlEdjRrZFZ5c0tLMmtCcEJxOTMzZ2ItbHJ0dS0xdmdPeEV5d2tFc2JsYTFqMjRQY3FTMW91WWxyNURXM0FMUllPUkc1dDRGRzQ0NFFMWmdHcm1MMXI0d0dwb3J6SjFZLTFKUGNkX2pBdFE?oc=5\" target=\"_blank\">Wild",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0hFWkY0bU9PZl9QMnNoaHhBNk1IM05kMkp4RFdCODJQWFplNTlEdjRrZFZ5c0tLMmtCcEJxOTMzZ2ItbHJ0dS0xdmdPeEV5d2tFc2JsYTFqMjRQY3FTMW91WWxyNURXM0FMUllPUkc1dDRGRzQ0NFFMWmdHcm1MMXI0d0dwb3J6SjFZLTFKUGNkX2pBdFE?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 16 Oct 2026 18:10:17 GMT",
-          "source": "BNN Bloomberg"
+          "published": "Sun, 18 Oct 2026 18:15:20 GMT",
+          "source": "CBS Sports"
         }
       ]
     },
     {
-      "id": "4b8ee7998e2a",
-      "title": "Forbes Travel Guide-Endorsed Le Must Brings Plastic-Free Luxury Condiments to the UAE - GlobeNewswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYkU3X0pDWVJWS19MLXNWQU04UWlyT0lqSGVKaHJBc3lOdUJRZzJRa1htOFR4ME1ySWtZVHFfM2Y2c3dQbE1MWmVteHdBQlhhZEMxQ0hFZjZaeGVFcHc5WGZuMVhLZ2JIMzZuem1yWTZyaUFpWHNqWmZBYWZmU3J6NHhfXzdIMk1uR0xQeXdqNGJfeFZGX0VDLWxXOEpnbFN6dUFSLXdfTzFhWT",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYkU3X0pDWVJWS19MLXNWQU04UWlyT0lqSGVKaHJBc3lOdUJRZzJRa1htOFR4ME1ySWtZVHFfM2Y2c3dQbE1MWmVteHdBQlhhZEMxQ0hFZjZaeGVFcHc5WGZuMVhLZ2JIMzZuem1yWTZyaUFpWHNqWmZBYWZmU3J6NHhfXzdIMk1uR0xQeXdqNGJfeFZGX0VDLWxXOEpnbFN6dUFSLXdfTzFhWTZwWWpRV2lxTnZKRW1kQXNvYUxzbnNDM00tY0U1VHRsbjFGUENWQ1U4TnVydTVUNkxnWGNXRnBxMDlOUkxNVHp5TG5B?oc=5",
+      "id": "ccdb019fdee4",
+      "title": "Travel: In St. John’s, a different side of Canada - Christian Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmNWNGszUGVOemZsRzNiYXptZFcyOV9GZVdzSXlVNUs4TVUxYkQzWVNLN21pWF8wTVMwR0cxcnBzdHBmOXlEOXBLWlFvS3NweWlzWG4tNmpJMTFYREZWRjZ3bGtrS3RXdFJmX3FGTnlvQjdvblpsOHNjaWVkUldzT1h6V1hEX1UzTFdIekpB?oc=5\" target=\"_blank\">Travel: In St. ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmNWNGszUGVOemZsRzNiYXptZFcyOV9GZVdzSXlVNUs4TVUxYkQzWVNLN21pWF8wTVMwR0cxcnBzdHBmOXlEOXBLWlFvS3NweWlzWG4tNmpJMTFYREZWRjZ3bGtrS3RXdFJmX3FGTnlvQjdvblpsOHNjaWVkUldzT1h6V1hEX1UzTFdIekpB?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,19 +178,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 18 Oct 2026 11:54:53 GMT",
-          "source": "GlobeNewswire"
+          "published": "Sun, 18 Oct 2026 04:07:00 GMT",
+          "source": "Christian Post"
         }
       ]
     },
     {
-      "id": "baff6ec4f2f9",
-      "title": "Where should you travel in 2027? See the safest destinations - USA Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDQyRUVNcmp4VkYzZkJRalk0NmsxZUdDUzluWGtoTTlzZk9jb2FkQlNobGhYZU5wNXBoeWRPdW83MUotdkY2OXM5U1czcVlGcDV3MDVtSzlQSWtHTnYwVmFDTWQ0bU92cHktMnVtLTJsOW5DVFl2QVh0OUpDQ1kzZ01EUFF5LXNKbDhPeGNNcmVReHREbVJMaWZmMA?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDQyRUVNcmp4VkYzZkJRalk0NmsxZUdDUzluWGtoTTlzZk9jb2FkQlNobGhYZU5wNXBoeWRPdW83MUotdkY2OXM5U1czcVlGcDV3MDVtSzlQSWtHTnYwVmFDTWQ0bU92cHktMnVtLTJsOW5DVFl2QVh0OUpDQ1kzZ01EUFF5LXNKbDhPeGNNcmVReHREbVJMaWZmMA?oc=5",
+      "id": "e645b10af3a3",
+      "title": "Holland America unveils 2028 Montreal cruise season - Travel Daily Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxONTE0WFlNMERPQmRaN19ma0tXQWRXakxxdE0yRVROV0wwS2ozMWhOV0VjMjRwOGF1aDVkVFpySktOeWg1RWZzS002ODBib2NxX0h0cWlWcGhxWkI1UjhhaHFGSWp4NnVLZWZ3a3ZobnBxVFhZU0tlazVKVkd5elk4YzlLTDZlRndVSTVveFF0MHM?oc=5\" target=\"_blank\">Holland Amer",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONTE0WFlNMERPQmRaN19ma0tXQWRXakxxdE0yRVROV0wwS2ozMWhOV0VjMjRwOGF1aDVkVFpySktOeWg1RWZzS002ODBib2NxX0h0cWlWcGhxWkI1UjhhaHFGSWp4NnVLZWZ3a3ZobnBxVFhZU0tlazVKVkd5elk4YzlLTDZlRndVSTVveFF0MHM?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,11 +198,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 18 Oct 2026 13:28:00 GMT",
-          "source": "USA Today"
+          "published": "Sun, 18 Oct 2026 23:03:11 GMT",
+          "source": "Travel Daily Media"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 12:00:00 GMT",
@@ -227,10 +227,10 @@
       ]
     },
     {
-      "id": "34ad6269b135",
-      "title": "5 iPad Power Banks Compared: What Fits Your Travel Bag? - The Gadgeteer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1NYXhkZUd5aHVLX1RCWnM5MTViNENIRTFYZi1PZVc0cGdieHB1Qi1MVy1xbU13Wm9YZWpHRGloNXhVVGt1V19zRmZUQUNpOUpNREpQRVBUMVBKajkzaXhlNkV0dksxV19YSGpHbkF2c2M?oc=5\" target=\"_blank\">5 iPad Power Banks Compared: What Fits Your Travel Bag?<",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NYXhkZUd5aHVLX1RCWnM5MTViNENIRTFYZi1PZVc0cGdieHB1Qi1MVy1xbU13Wm9YZWpHRGloNXhVVGt1V19zRmZUQUNpOUpNREpQRVBUMVBKajkzaXhlNkV0dksxV19YSGpHbkF2c2M?oc=5",
+      "id": "d910666bc4de",
+      "title": "Macao tourism forum hailed success as agreements signed - chinadailyhk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zRlpLSTdjZy1VTURJbGdpelhBMnFTbGxuQ0hrN1hLWGNCZXgyR01FcXctSm1rbXNNX2cwVkhBLU9aR2RoLWVlVXlaNml3aUN4bzMzUV84Z0E?oc=5\" target=\"_blank\">Macao tourism forum hailed success as agreements signed</a>&nbsp;&nbsp;<font color=\"#6f6",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zRlpLSTdjZy1VTURJbGdpelhBMnFTbGxuQ0hrN1hLWGNCZXgyR01FcXctSm1rbXNNX2cwVkhBLU9aR2RoLWVlVXlaNml3aUN4bzMzUV84Z0E?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +238,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 18 Oct 2026 13:00:00 GMT",
-          "source": "The Gadgeteer"
+          "published": "Mon, 19 Oct 2026 01:28:17 GMT",
+          "source": "chinadailyhk"
         }
       ]
     },
     {
-      "id": "412aaf726400",
-      "title": "Is Travel + Leisure (TNL) Undervalued As Sports Illustrated Resorts Expansion Gains Ground? - Simply Wall Street",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ2t4cTMzTWM5RVI4Y2h3TEJrNTZJbFZyYUV3amJ1S0pFa0tfa3BMc3RoZFFCUTZSMXJnV2NwRFpRQlp4bHFZOWdKUU00NnNXcGFGYzJNVVBGN2Ftazd3WWxzbnlYSC1jU2cxWG9NYWtqUDdiQ21TNUdqalB5TG15TV9EZmRUWjlEZUFSRTQ4N0t0NVVCNlRjNmplUm1WZzZ1ODVZVHpHbzNUVW",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ2t4cTMzTWM5RVI4Y2h3TEJrNTZJbFZyYUV3amJ1S0pFa0tfa3BMc3RoZFFCUTZSMXJnV2NwRFpRQlp4bHFZOWdKUU00NnNXcGFGYzJNVVBGN2Ftazd3WWxzbnlYSC1jU2cxWG9NYWtqUDdiQ21TNUdqalB5TG15TV9EZmRUWjlEZUFSRTQ4N0t0NVVCNlRjNmplUm1WZzZ1ODVZVHpHbzNUVWh0ZUdOTEx3QVh6Z1Y1aU5rXzZoTGQyYThyMG8zb2wtRkVoOXhTZnpkZ0d30gHbAUFVX3lxTFBJeWZMVmZVOW1hR1JfQ3dTU0VCcjVTRzVneHp5YWc1MU5aajdxeThoUXVRQ3A0RE50Nk11akRRRW9fNVZzQTN3bVZybFhHLS15ZVNDR3JzSWNuV3BndXpRVTV0OUM4b2ZVc1BlUUJRZEVXMzVKa0NqVTZvamVRZ3Z3ejllZ1RWbGpUY1FIQ3ZGcm40dkszajEwZEdhN0xTQ3BVVERqQzliXy13cjc5QTVFYXZTZmRLS2pUdG5RVjEwc2I5VndaNHZ0YW13YXQ0X085MmpLeFdUT3Bxcw?oc=5",
+      "id": "f51394dd4e2b",
+      "title": "New survey reveals what makes someone a bad travel companion - WFAA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2cwLV9SUXRwa045aTZDMEFfRk5fRjcydnFSM2xuU0NGZGhVdElvVWRoSmJ4eXIzZGk0MEZDV3llam9NWW1iZVg1X1JTaF9FamFhVjA4SUlWSHNPZlJNaTNqblZlTVI3N1BNTnp1ektGc3JZT2o2VDZTVnU3cDNxT0lENGthVm1XU01NaVdNV1hEdGdVUE1YSUxVR1ZsTENGemdGLTJEODFZdW",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2cwLV9SUXRwa045aTZDMEFfRk5fRjcydnFSM2xuU0NGZGhVdElvVWRoSmJ4eXIzZGk0MEZDV3llam9NWW1iZVg1X1JTaF9FamFhVjA4SUlWSHNPZlJNaTNqblZlTVI3N1BNTnp1ektGc3JZT2o2VDZTVnU3cDNxT0lENGthVm1XU01NaVdNV1hEdGdVUE1YSUxVR1ZsTENGemdGLTJEODFZdWxING1ZeVRKR2k0ODhBS0JLSEJ6SQ?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +258,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 18 Oct 2026 19:42:13 GMT",
-          "source": "Simply Wall Street"
+          "published": "Sun, 18 Oct 2026 16:34:00 GMT",
+          "source": "WFAA"
         }
       ]
     },
     {
-      "id": "ed195dfb9b24",
-      "title": "Full of surprises: Expedia reveals the top trending travel destinations for 2027 - Ynetnews",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xZzhyRlBrSTJBUC1iY19ESDQ4SWxyazJ4dndrWUlHeGp4SlVPN3FZYjJNaFg0Q2lWZE1iX004Y2VTc1FGU19tdlpRZUt1YUtjWXlBemdqd0FuMmh4U2NF?oc=5\" target=\"_blank\">Full of surprises: Expedia reveals the top trending travel destinations for 202",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xZzhyRlBrSTJBUC1iY19ESDQ4SWxyazJ4dndrWUlHeGp4SlVPN3FZYjJNaFg0Q2lWZE1iX004Y2VTc1FGU19tdlpRZUt1YUtjWXlBemdqd0FuMmh4U2NF?oc=5",
+      "id": "7bc6705880b3",
+      "title": "Jared Spurgeon Injury: Set to travel with team - RotoWire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTE4QktHWGw0cGJ6dGFGR2dVMHBSUEc0OFRSNlV3Vml4aDBpcXU4d1JURGRGb1huQTBXTlhielUwa3NSa3BnR3FkYV81c3hmM2o5S2xKUldRTkVab0ZDd0N5Yi1wSGxkaGJBNjdRUVBCUmxPWDlyTXc0T3h1SW5HNk1Td2g5aFQ3MEl1bG41Tlk2SmVHeUhScVJn?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTE4QktHWGw0cGJ6dGFGR2dVMHBSUEc0OFRSNlV3Vml4aDBpcXU4d1JURGRGb1huQTBXTlhielUwa3NSa3BnR3FkYV81c3hmM2o5S2xKUldRTkVab0ZDd0N5Yi1wSGxkaGJBNjdRUVBCUmxPWDlyTXc0T3h1SW5HNk1Td2g5aFQ3MEl1bG41Tlk2SmVHeUhScVJn?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 18 Oct 2026 00:31:07 GMT",
-          "source": "Ynetnews"
+          "published": "Mon, 19 Oct 2026 01:42:56 GMT",
+          "source": "RotoWire"
         }
       ]
     },
     {
-      "id": "7279921194b7",
-      "title": "Top Travel Stocks To Add to Your Watchlist - October 18th - MarketBeat",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0tOZmctUkt2UnYtb21KMHJNcGQxeVg5b0xmWHk5LUlpNzQ3N1pFZHVyOVNkUHdkV1poOEhpSUFTbXhpS3d5U1BqcTByUEptQlNhcjlWX0EwSVdjeFNfdWZ5YnRTemtQSlVmanFGNG5JQ00xWFBFVFJ3d0pabmcwYmtyM0dkaGNsZTZXZlpkSWNFUlZoQVl2bnBBWkxVbThrelNfOGpCRjZuMW",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0tOZmctUkt2UnYtb21KMHJNcGQxeVg5b0xmWHk5LUlpNzQ3N1pFZHVyOVNkUHdkV1poOEhpSUFTbXhpS3d5U1BqcTByUEptQlNhcjlWX0EwSVdjeFNfdWZ5YnRTemtQSlVmanFGNG5JQ00xWFBFVFJ3d0pabmcwYmtyM0dkaGNsZTZXZlpkSWNFUlZoQVl2bnBBWkxVbThrelNfOGpCRjZuMWxQMmFPaUhMSUI?oc=5",
+      "id": "f2c148dbe7e4",
+      "title": "LeBron James' wife declines to upgrade best friend's flight, kicking off hot debate - Fox News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUw3YUFUQmFyVl9FNktMaVFic043SktsZXo2MVVqTXA0WVc5SWFuN2Jrc0ZGNDBLTDNtam45REx5ejlwd2FYamxmb3JEVmZPcGFGa3BBLUdQQjJRbHR6dV90cXJGZGt4b0NUZWkyRTlMQXFmdWVnOEtRS2xuOHNZNk9aUmtUYmhoRk91bGFMVUEtSGpuZTZCeENIN2xBTndWR2pIYXBIZHNEWU",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUw3YUFUQmFyVl9FNktMaVFic043SktsZXo2MVVqTXA0WVc5SWFuN2Jrc0ZGNDBLTDNtam45REx5ejlwd2FYamxmb3JEVmZPcGFGa3BBLUdQQjJRbHR6dV90cXJGZGt4b0NUZWkyRTlMQXFmdWVnOEtRS2xuOHNZNk9aUmtUYmhoRk91bGFMVUEtSGpuZTZCeENIN2xBTndWR2pIYXBIZHNEWUwz0gGyAUFVX3lxTE9TT2VveDJHMXZBVUNra2xlbERLUkpyMXlOVlhnd0N2QlNCaDczOTlHaVBjLXZ5Z1BBZTQxcE4xYzZ6ekJOZjJLLUUxcWRoOEFtckpvbG5iZlhvN2dMQUFQS3FSeXlBUWRxVkRPY3pvZUppaXhEODhYSF9tei11SmYweTdoWnIyeHFLRXpjLTM3R3hXbnNuQmowOXFMcXlEb2FIVVN2QUEzRzVkVTNaUGoyQVE?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 18 Oct 2026 20:08:03 GMT",
-          "source": "MarketBeat"
+          "published": "Sun, 18 Oct 2026 15:52:59 GMT",
+          "source": "Fox News"
         }
       ]
     },
     {
-      "id": "0b755e375a86",
-      "title": "Minister Anand to travel to India and the United Arab Emirates - Canada.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkhGZHhlTUtJZkNKUVRZb3Z5Y2p4RE9sZEozWTJ1clpodFU5azFyRUFsR05yLVBrcFpvcnNnTGhwdGdqNVd4cEI1VWR0V3pwMXYxZFFVaFJBWnVfYWNUY3VNTDg3dGhEckRsU0hxeUdCb2R4SWxjZ0hrajlwSlBWSlozUnh1Y0h2dm1kT1NmdGtyZGRBckg2dXBZZ3lWZXdFRXh1ZTF4WGFOSm",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkhGZHhlTUtJZkNKUVRZb3Z5Y2p4RE9sZEozWTJ1clpodFU5azFyRUFsR05yLVBrcFpvcnNnTGhwdGdqNVd4cEI1VWR0V3pwMXYxZFFVaFJBWnVfYWNUY3VNTDg3dGhEckRsU0hxeUdCb2R4SWxjZ0hrajlwSlBWSlozUnh1Y0h2dm1kT1NmdGtyZGRBckg2dXBZZ3lWZXdFRXh1ZTF4WGFOSmpDWUF2VHdhQnhjYTRUeXlOWA?oc=5",
+      "id": "b55e4f585a26",
+      "title": "Security Alert: U.S. Mission Saudi Arabia – October 18, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjlWREpXU3pNQUpPbldkeXN5STVKakVwNXRVY1B0VTBlelRwSndWUWczVUNoMDVIOU9Ra2ZqaVVvX3BvN2RzX1FqS09UX3ZqdGdpM2h2eGpIUUtzVlBoVDRoN1hibEFvRHhBOGJWU3p6U0pyTlFKWUs3QWZ1RXBFR2hDUlktYmda?oc=5\" target=\"_blank\">Security Alert: U.S. Mi",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjlWREpXU3pNQUpPbldkeXN5STVKakVwNXRVY1B0VTBlelRwSndWUWczVUNoMDVIOU9Ra2ZqaVVvX3BvN2RzX1FqS09UX3ZqdGdpM2h2eGpIUUtzVlBoVDRoN1hibEFvRHhBOGJWU3p6U0pyTlFKWUs3QWZ1RXBFR2hDUlktYmda?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,51 +318,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 12 Oct 2026 13:14:01 GMT",
-          "source": "Canada.ca"
-        }
-      ]
-    },
-    {
-      "id": "ed8f7a10b9ee",
-      "title": "Tee off in Europe’s most underrated golf holiday destinations - Euronews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZC1JTUN5RXdYOFgxQXpXckhRclIwUHU0VFFJbUgySV9UZUUteE10aVZ3Z0dwcFV5cGRmMk5WeExQWVlDTEtMNVNZaUhRT3BnOUhWbF9oM2hRRmZ5aUdUNW5MM1JvYzV6RzM1LWYzNGpnRlZWdWJ1MklTRkRYaHY0Y1pzdF9VQWhNQXBFeGlzSHVoal82MEJ1Qk1fWTU?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZC1JTUN5RXdYOFgxQXpXckhRclIwUHU0VFFJbUgySV9UZUUteE10aVZ3Z0dwcFV5cGRmMk5WeExQWVlDTEtMNVNZaUhRT3BnOUhWbF9oM2hRRmZ5aUdUNW5MM1JvYzV6RzM1LWYzNGpnRlZWdWJ1MklTRkRYaHY0Y1pzdF9VQWhNQXBFeGlzSHVoal82MEJ1Qk1fWTU?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 18 Oct 2026 05:00:49 GMT",
-          "source": "Euronews.com"
-        }
-      ]
-    },
-    {
-      "id": "cb32c2de2839",
-      "title": "Airtripmaker Expands Business and First-class Flights Network to London, Amsterdam, Frankfurt, Tokyo, Sydney by Introducing Enhanced Coverage for Global Destinations as Part of Its Ongoing Growth Strategy - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwNBVV95cUxPbGdFbUpYNjdJX3Mzel9YaVgtWDlvUFVCTmNvQUZySVVGODg0Sk5CdnV5RFJZNFlhSGRScHM5Y211ZkF4cldGeUZfRUhlMHNKem15ZzFoeU9Ra1pfdXp1Q202N3NnNGJTYzNnU1dJV3REZlhzTGxrNlFqTkQ5LUlxQlFMaXFqX1NhdjBBT184YjFYZmpWNW4xLXptV01OSnpiaHZEVE1MbjAxSn",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPbGdFbUpYNjdJX3Mzel9YaVgtWDlvUFVCTmNvQUZySVVGODg0Sk5CdnV5RFJZNFlhSGRScHM5Y211ZkF4cldGeUZfRUhlMHNKem15ZzFoeU9Ra1pfdXp1Q202N3NnNGJTYzNnU1dJV3REZlhzTGxrNlFqTkQ5LUlxQlFMaXFqX1NhdjBBT184YjFYZmpWNW4xLXptV01OSnpiaHZEVE1MbjAxSno4WFMza1JHdnQzTlpEa1FLeFQ2NmszUVlPbS1Td1dXclY1RVJEcXl4WHpTblBHZmpENzJJaG9HZ2ZIMjh5NFpxSDhBT2NoOTNaOFFLWVhXVlNoUE1aOFl1eDRTcWpTUWdwM1VoX2I1RkVlQVBXY2FDZ1J4RG5YMWd6eDdtVXRGS1VXaURFYXQwX1BFZndFMU1SdmRMWVBMcmpMVElmYVM4bnMwRTkxWjJEb2c0N1NjSGxHcFNFSFY4cGlCVVEwZzBjbmhBNjEydERsRjhNel9pRm05S2FXdk9EVlF2WXpQUmFrUlRTU0Vr?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 18 Oct 2026 14:01:59 GMT",
-          "source": "The Globe and Mail"
+          "published": "Mon, 19 Oct 2026 01:41:15 GMT",
+          "source": "U.S. Embassy & Consulates in Saudi Arabia (.gov)"
         }
       ]
     },
@@ -371,6 +331,46 @@
       "title": "These are the most underrated travel destinations in Europe - Euronews.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2p4N2dzUXAzcmV2a2UwVDZKbV91X25Vbkk3QTNicDY4bTltbG8zR2FMdzRUYnNwdTdxZHRKck10RFBVTnhjNWRNTlFUYWU5ajJBeE9nNndfR19tbWVPNDFZMFF6bDZSNGJvV2hFSUNmWF9QczlpS3JrUktTdTh4RHQyanZqZVRLMXpzYV91aWRjSFlHbnY4Rk0tcw?oc=5\" target=\"_blan",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2p4N2dzUXAzcmV2a2UwVDZKbV91X25Vbkk3QTNicDY4bTltbG8zR2FMdzRUYnNwdTdxZHRKck10RFBVTnhjNWRNTlFUYWU5ajJBeE9nNndfR19tbWVPNDFZMFF6bDZSNGJvV2hFSUNmWF9QczlpS3JrUktTdTh4RHQyanZqZVRLMXpzYV91aWRjSFlHbnY4Rk0tcw?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-19T04:31:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 16 Oct 2026 11:31:54 GMT",
+          "source": "Euronews.com"
+        }
+      ]
+    },
+    {
+      "id": "0b755e375a86",
+      "title": "Minister Anand to travel to India and the United Arab Emirates - Canada.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkhGZHhlTUtJZkNKUVRZb3Z5Y2p4RE9sZEozWTJ1clpodFU5azFyRUFsR05yLVBrcFpvcnNnTGhwdGdqNVd4cEI1VWR0V3pwMXYxZFFVaFJBWnVfYWNUY3VNTDg3dGhEckRsU0hxeUdCb2R4SWxjZ0hrajlwSlBWSlozUnh1Y0h2dm1kT1NmdGtyZGRBckg2dXBZZ3lWZXdFRXh1ZTF4WGFOSm",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkhGZHhlTUtJZkNKUVRZb3Z5Y2p4RE9sZEozWTJ1clpodFU5azFyRUFsR05yLVBrcFpvcnNnTGhwdGdqNVd4cEI1VWR0V3pwMXYxZFFVaFJBWnVfYWNUY3VNTDg3dGhEckRsU0hxeUdCb2R4SWxjZ0hrajlwSlBWSlozUnh1Y0h2dm1kT1NmdGtyZGRBckg2dXBZZ3lWZXdFRXh1ZTF4WGFOSmpDWUF2VHdhQnhjYTRUeXlOWA?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-19T04:31:06+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 12 Oct 2026 13:14:01 GMT",
+          "source": "Canada.ca"
+        }
+      ]
+    },
+    {
+      "id": "4656f90d5965",
+      "title": "Beyond Boundaries: Nanjing Unveils 1,800-Meter 'Museum Mile' to Redefine Urban Cultural Tourism - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPcXFtcG1zUHZnY1YwZTZjZ3JQNG5ENnRSTE5RV2RwZ1p6RnBOUkRFY3lpT2lreWFnNVR5d2V4bkxZRFVtTnlDQU0xM3hZcVZaVXJsTUxIbE9kbzg5ZmhzQlhTTWN4QzNCWk9xVUZiZERmLWNESFVjazI5aW1nc1FHRWtTUTdDUE5pb3VyMnVHWGMwVy1ZZWJjdWY2V3lrZWwtOUlFSjNVMnZIal",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcXFtcG1zUHZnY1YwZTZjZ3JQNG5ENnRSTE5RV2RwZ1p6RnBOUkRFY3lpT2lreWFnNVR5d2V4bkxZRFVtTnlDQU0xM3hZcVZaVXJsTUxIbE9kbzg5ZmhzQlhTTWN4QzNCWk9xVUZiZERmLWNESFVjazI5aW1nc1FHRWtTUTdDUE5pb3VyMnVHWGMwVy1ZZWJjdWY2V3lrZWwtOUlFSjNVMnZIaldIT2g2Tk96SjVhN1dXOUJHc25tX1ZXNHZpb1dDeUxjZ2JmOTdUZWp5LUR3LXIzTG4wb2d1RXRENXRMQ2EzQ0Y1eThtUUc2LWdsVFpyMDdxVUtHZldCQ2pB?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,11 +378,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 16 Oct 2026 11:31:54 GMT",
-          "source": "Euronews.com"
+          "published": "Mon, 19 Oct 2026 02:47:39 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
@@ -398,7 +398,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-18T20:34:26+00:00",
+      "first_seen": "2026-10-19T04:31:06+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 16:00:00 GMT",
