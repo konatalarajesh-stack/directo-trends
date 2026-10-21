@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-10-20T21:42:01+00:00",
+  "generated_at": "2026-10-21T04:42:54+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "6f5e6edc3873",
-      "title": "Is it safe to travel to Paris right now? Latest advice - The Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUW1YNjRkdmFnTzFXekczUTNpaHhLaS1ZXzlDak5XeHczb0RmdDk0V0VCdUZWbkkzTXhiUGJVd3I1WVJkOVNtcGl2czFNb0pHeG5Jaks4WVhFRWdwX3JWUjJ3SzZRR2xsOFRHVFRJWjkzOVd5S0JaSm0tRGNxQTJCQmdWUkpCNmRFZ1FhTjRDVTUyaXdCUmxHbFUzY01SelVL?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUW1YNjRkdmFnTzFXekczUTNpaHhLaS1ZXzlDak5XeHczb0RmdDk0V0VCdUZWbkkzTXhiUGJVd3I1WVJkOVNtcGl2czFNb0pHeG5Jaks4WVhFRWdwX3JWUjJ3SzZRR2xsOFRHVFRJWjkzOVd5S0JaSm0tRGNxQTJCQmdWUkpCNmRFZ1FhTjRDVTUyaXdCUmxHbFUzY01SelVL?oc=5",
+      "id": "61e10cfb153e",
+      "title": "Is it safe to travel to Paris right now? What visitors need to know about the France protests - CN Traveller",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVFMSTNHY0NidDQ4WUh6OC1OZXJYa2Qwc3pGdjBuQVVTcV93NWtyaTY0ZHB4V09QTEtkOGQ2NVNyclRRNFhZQjMtQWJKeS1RSE40UUZ4Ym9hT1Nkc21PWGxxYmhXWUJralQ2dHR4eE9pRmZ0NWRxaVFvSlFlTk9tUHUyQ3pNaWwySjFCYUhWVWJDSXhjZmYyeEdtT25sODAzV21STEptbzBBMn",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVFMSTNHY0NidDQ4WUh6OC1OZXJYa2Qwc3pGdjBuQVVTcV93NWtyaTY0ZHB4V09QTEtkOGQ2NVNyclRRNFhZQjMtQWJKeS1RSE40UUZ4Ym9hT1Nkc21PWGxxYmhXWUJralQ2dHR4eE9pRmZ0NWRxaVFvSlFlTk9tUHUyQ3pNaWwySjFCYUhWVWJDSXhjZmYyeEdtT25sODAzV21STEptbzBBMnFIRE5TMzlSb3p6Y3FJbC1GSks5MDZ2Z2hFcWs3RlVHR2d5a01zVkZJ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 20 Oct 2026 16:15:56 GMT",
+          "source": "CN Traveller"
+        }
+      ]
+    },
+    {
+      "id": "6f5e6edc3873",
+      "title": "Is it safe to travel to Paris right now? Latest advice - The Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUW1YNjRkdmFnTzFXekczUTNpaHhLaS1ZXzlDak5XeHczb0RmdDk0V0VCdUZWbkkzTXhiUGJVd3I1WVJkOVNtcGl2czFNb0pHeG5Jaks4WVhFRWdwX3JWUjJ3SzZRR2xsOFRHVFRJWjkzOVd5S0JaSm0tRGNxQTJCQmdWUkpCNmRFZ1FhTjRDVTUyaXdCUmxHbFUzY01SelVL?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUW1YNjRkdmFnTzFXekczUTNpaHhLaS1ZXzlDak5XeHczb0RmdDk0V0VCdUZWbkkzTXhiUGJVd3I1WVJkOVNtcGl2czFNb0pHeG5Jaks4WVhFRWdwX3JWUjJ3SzZRR2xsOFRHVFRJWjkzOVd5S0JaSm0tRGNxQTJCQmdWUkpCNmRFZ1FhTjRDVTUyaXdCUmxHbFUzY01SelVL?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
           "published": "Tue, 20 Oct 2026 15:35:00 GMT",
@@ -31,26 +51,6 @@
       "title": "12 essential iPhone travel apps I won’t leave home without - Stuff",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHFnZTJDd01MdUdDM29pZlNMUE1TdjNHSzRkOGZfWXlaalhobnAzelFQZFRIVEFyMHRBMmtyTThPQzh5TFpfQnc3TDdXcnZBM2JEekcyTDVxVlZvZ2VMbGpaRWZ3dzVzWHN4allsWVl3cTZPbXpwakpXUjVXVUV0emhvS1FIakFs?oc=5\" target=\"_blank\">12 essential iPhone tra",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHFnZTJDd01MdUdDM29pZlNMUE1TdjNHSzRkOGZfWXlaalhobnAzelFQZFRIVEFyMHRBMmtyTThPQzh5TFpfQnc3TDdXcnZBM2JEekcyTDVxVlZvZ2VMbGpaRWZ3dzVzWHN4allsWVl3cTZPbXpwakpXUjVXVUV0emhvS1FIakFs?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 15:09:16 GMT",
-          "source": "Stuff"
-        }
-      ]
-    },
-    {
-      "id": "30d58ebc6d16",
-      "title": "Travel benefits launched for NHS and school staff in Oxford - Oxfordshire County Council",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWFxN2JkX0VPVDFjX2d1RE43bFdUOThBTXBHUnFObDljekpPOUpLY2JKbE1FRW5sdzBhbk1Za2F5U0t3SFFYZ1pyeUN1bktGZHZCSzkwZVNIa1ZFVXBuMmt1N3k2ODFNTUczeU5EM0dDVVJwd2J2TmJBbVUzQlFIS09tV3BDOWRWRlZCaVdyYi1SSUlybTVn?oc=5\" target=\"_blank\">Tra",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWFxN2JkX0VPVDFjX2d1RE43bFdUOThBTXBHUnFObDljekpPOUpLY2JKbE1FRW5sdzBhbk1Za2F5U0t3SFFYZ1pyeUN1bktGZHZCSzkwZVNIa1ZFVXBuMmt1N3k2ODFNTUczeU5EM0dDVVJwd2J2TmJBbVUzQlFIS09tV3BDOWRWRlZCaVdyYi1SSUlybTVn?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,11 +58,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 12:52:56 GMT",
-          "source": "Oxfordshire County Council"
+          "published": "Tue, 20 Oct 2026 15:09:16 GMT",
+          "source": "Stuff"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
           "published": "Tue, 20 Oct 2026 11:05:34 GMT",
@@ -98,7 +98,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
           "published": "Tue, 20 Oct 2026 12:30:19 GMT",
@@ -107,10 +107,10 @@
       ]
     },
     {
-      "id": "81e200b7eb0c",
-      "title": "Travel Is Elitist. Social Media Pretends It Isn’t - Fodors Travel Guide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQanZoVWl0RzM1M0JhakxKbzJPdm9ac21mZnI0bUZ5cHpGUWRCdXg5a05MWjJsS1UzVEk2ZU81SWNjU1FJU2JGTHpOYXFMdFR5eWUwRTYtamQ0N3c2ajl5OHVobWRNQ2xlclRkYVB5aTZaXzNpN2tVZjZDUUZDU0JvVmYwRDlTZHQ0dzk0OQ?oc=5\" target=\"_blank\">Travel Is Elitist",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanZoVWl0RzM1M0JhakxKbzJPdm9ac21mZnI0bUZ5cHpGUWRCdXg5a05MWjJsS1UzVEk2ZU81SWNjU1FJU2JGTHpOYXFMdFR5eWUwRTYtamQ0N3c2ajl5OHVobWRNQ2xlclRkYVB5aTZaXzNpN2tVZjZDUUZDU0JvVmYwRDlTZHQ0dzk0OQ?oc=5",
+      "id": "a76a6fe7a921",
+      "title": "Tottenham game travel warning - Fulham Broadway closed; District Line disruption | News | Official Site - Chelsea Football Club",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTZmUnFjbXJxX1ZHa0Zld3U3ekhjeHRITkV5QTVVaEpQYmZWYXE3NjNJRHdpbXVCbnlZcHRZWWVjNVhlTnJ4U2VxQXFSVnBmWmlTNDI0NURRYVdmTGlJTjFiVUNRaE8tOFpjbi1iUWlHTlVNSmV2TWVVQmUyZVRWU2g3NVdnZXc4dUljMmJ6bmozc3lPY2lvdjZR?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTZmUnFjbXJxX1ZHa0Zld3U3ekhjeHRITkV5QTVVaEpQYmZWYXE3NjNJRHdpbXVCbnlZcHRZWWVjNVhlTnJ4U2VxQXFSVnBmWmlTNDI0NURRYVdmTGlJTjFiVUNRaE8tOFpjbi1iUWlHTlVNSmV2TWVVQmUyZVRWU2g3NVdnZXc4dUljMmJ6bmozc3lPY2lvdjZR?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,127 +118,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 11:00:14 GMT",
-          "source": "Fodors Travel Guide"
-        }
-      ]
-    },
-    {
-      "id": "fd397caa2ea1",
-      "title": "US warns over travel in Kenya as Ebola cases mount - The Telegraph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2hkeFpjeENpY0huZkJwT244VnBiOVpVQVYtd2gyZTEwUzZvZ3BHNElHcjVVczRvcWhmRVlGdjlwbGtOb2Faem15NlRzcTJEYUU5OFZxQ2NYNDh1SW04aktqaUpWVTdpTF9yWVpxdWZEbEVHSDhScFpOcDBKYnNrMTFNSWxFY0k1TkQ4Ylk5T3pzYzgzRmdKLWxCYzdmRGNOUDJSNEpVekRUSm",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2hkeFpjeENpY0huZkJwT244VnBiOVpVQVYtd2gyZTEwUzZvZ3BHNElHcjVVczRvcWhmRVlGdjlwbGtOb2Faem15NlRzcTJEYUU5OFZxQ2NYNDh1SW04aktqaUpWVTdpTF9yWVpxdWZEbEVHSDhScFpOcDBKYnNrMTFNSWxFY0k1TkQ4Ylk5T3pzYzgzRmdKLWxCYzdmRGNOUDJSNEpVekRUSmNkREhzU0dBdw?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 14:54:00 GMT",
-          "source": "The Telegraph"
-        }
-      ]
-    },
-    {
-      "id": "cb90f834c118",
-      "title": "England Originals launches travel trade guide with new Norman heritage and wellness itineraries - Visit County Durham",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGhLQkFtc3NjRnNFTTMyd2NMR0xkLWVGWFRaUEp0c0JiUUdYWlRkMVBUUWVxLWNLNEJremJtWVl2ZURQRHRaZ3p6S29Sd3FITlZac0hYVWpkblcxZ0VfVFNXY1FJaDRsME52MzVLZWV1czdDTWVDYXJnZmNhaFpBTDFhTWlPZUhIUDB1NXBGOGJoWUxwR0U2RDZXZmlKYjNzVWdjNzI5V2IxOW",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGhLQkFtc3NjRnNFTTMyd2NMR0xkLWVGWFRaUEp0c0JiUUdYWlRkMVBUUWVxLWNLNEJremJtWVl2ZURQRHRaZ3p6S29Sd3FITlZac0hYVWpkblcxZ0VfVFNXY1FJaDRsME52MzVLZWV1czdDTWVDYXJnZmNhaFpBTDFhTWlPZUhIUDB1NXBGOGJoWUxwR0U2RDZXZmlKYjNzVWdjNzI5V2IxOW9uSFA4WGFoNWp4UmkxNVNXdnJuamNIMzBKTnNNSlFVU29hV3c?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 15:39:03 GMT",
-          "source": "Visit County Durham"
-        }
-      ]
-    },
-    {
-      "id": "4de98a644007",
-      "title": "Is it safe to travel to Spain? Latest advice after flooding strikes holiday destinations - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW5leDRUS3UwT1FNeGVUSTlPVG8wRy1aVDFuSXhibHRuRUhjczBtek5vaFV3QWFEOHRMN3Q4Vm5zeU1HRDk5TWc5WTg4M09la0MxWmJ3aXd4MDRKMGR2dU1wX1VmYnc0NjlhTnVraVU1djJmVUV0MmplU1dSSVRnakxtX3I0SkZKeUJndWVkOWtXNHZ3Q2dwSGpzUGJMTzc4eDRyWXVxMmxIbE",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW5leDRUS3UwT1FNeGVUSTlPVG8wRy1aVDFuSXhibHRuRUhjczBtek5vaFV3QWFEOHRMN3Q4Vm5zeU1HRDk5TWc5WTg4M09la0MxWmJ3aXd4MDRKMGR2dU1wX1VmYnc0NjlhTnVraVU1djJmVUV0MmplU1dSSVRnakxtX3I0SkZKeUJndWVkOWtXNHZ3Q2dwSGpzUGJMTzc4eDRyWXVxMmxIbExENEhJUmZySQ?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 13:52:00 GMT",
-          "source": "The Independent"
-        }
-      ]
-    },
-    {
-      "id": "32caa773bb67",
-      "title": "Is it Safe to Travel to Paris Right Now Amidst the France Protests? - Condé Nast Traveler",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRE05VnpTQUVyMXhTT19hS2dFYXBOOFdGR2Y3STA2N0pOV0FVRWxPZTZVM1Y5aWl2U28xRmFGQnAzeDF2WVVtR2JMY1ZpSDVuRkJpbHBHV0c4ekNZVkxmaDJBT0RneHhxUDB5bC0xZ0phalgxbkZWaS1tTVh2UVhxYmQ1UzZCbTk1Qlk1Sl9CWS02SEpESUFhcU5aTW4wNmth?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRE05VnpTQUVyMXhTT19hS2dFYXBOOFdGR2Y3STA2N0pOV0FVRWxPZTZVM1Y5aWl2U28xRmFGQnAzeDF2WVVtR2JMY1ZpSDVuRkJpbHBHV0c4ekNZVkxmaDJBT0RneHhxUDB5bC0xZ0phalgxbkZWaS1tTVh2UVhxYmQ1UzZCbTk1Qlk1Sl9CWS02SEpESUFhcU5aTW4wNmth?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 14:19:32 GMT",
-          "source": "Condé Nast Traveler"
-        }
-      ]
-    },
-    {
-      "id": "afcfa8b98c6b",
-      "title": "A major new rail station is set to ‘transform’ travel across the north of England - Time Out Worldwide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFYxLXk2YkFUYXRQVlZkZnV5RnVlT3BKM0tqbFhGVE5SX0NmTm5YLW8zbkxFQ0NLbmxkR1VfTVp5RFZOY3V2ZHlVYnAtU2Y1SDZhdzAxeENfNEUtR2liRnA3NUZGT0xnTzJFYXZiU0xWVHpMeHBJSVE4WkQ4WWpQdG9ITTI3TEl0S0x2bExGenVGaW4zb2tVTk4zV21NWVg0algta3hxQQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFYxLXk2YkFUYXRQVlZkZnV5RnVlT3BKM0tqbFhGVE5SX0NmTm5YLW8zbkxFQ0NLbmxkR1VfTVp5RFZOY3V2ZHlVYnAtU2Y1SDZhdzAxeENfNEUtR2liRnA3NUZGT0xnTzJFYXZiU0xWVHpMeHBJSVE4WkQ4WWpQdG9ITTI3TEl0S0x2bExGenVGaW4zb2tVTk4zV21NWVg0algta3hxQQ?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 14:34:31 GMT",
-          "source": "Time Out Worldwide"
-        }
-      ]
-    },
-    {
-      "id": "a76a6fe7a921",
-      "title": "Tottenham game travel warning - Fulham Broadway closed; District Line disruption | News | Official Site - Chelsea Football Club",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTZmUnFjbXJxX1ZHa0Zld3U3ekhjeHRITkV5QTVVaEpQYmZWYXE3NjNJRHdpbXVCbnlZcHRZWWVjNVhlTnJ4U2VxQXFSVnBmWmlTNDI0NURRYVdmTGlJTjFiVUNRaE8tOFpjbi1iUWlHTlVNSmV2TWVVQmUyZVRWU2g3NVdnZXc4dUljMmJ6bmozc3lPY2lvdjZR?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTZmUnFjbXJxX1ZHa0Zld3U3ekhjeHRITkV5QTVVaEpQYmZWYXE3NjNJRHdpbXVCbnlZcHRZWWVjNVhlTnJ4U2VxQXFSVnBmWmlTNDI0NURRYVdmTGlJTjFiVUNRaE8tOFpjbi1iUWlHTlVNSmV2TWVVQmUyZVRWU2g3NVdnZXc4dUljMmJ6bmozc3lPY2lvdjZR?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
           "published": "Mon, 19 Oct 2026 08:15:00 GMT",
@@ -247,18 +127,38 @@
       ]
     },
     {
-      "id": "bc752e6649af",
-      "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNTG9QQ3NvcFByN2JIeXVWNlJLNkxtSU4zLW04djJvZFVRNkxkQXNEOUktZDdCcTJRU2tSRW5yY2RmWTRGLUdmcnNDX1BidmZmX3NVMUVzS0sxMjRacTE1RlpVRjRxOVJLN0s5Z3gyeXJzazhCODFMVm81RW5aMzJhd3pBeEhrSlhrNUluZXB0a0JCcmN3WDltSFJyTGc2SFJRaExkeTRhSkVLN2",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTG9QQ3NvcFByN2JIeXVWNlJLNkxtSU4zLW04djJvZFVRNkxkQXNEOUktZDdCcTJRU2tSRW5yY2RmWTRGLUdmcnNDX1BidmZmX3NVMUVzS0sxMjRacTE1RlpVRjRxOVJLN0s5Z3gyeXJzazhCODFMVm81RW5aMzJhd3pBeEhrSlhrNUluZXB0a0JCcmN3WDltSFJyTGc2SFJRaExkeTRhSkVLN2g2bkpxa1l2MUl4RU9WYlNJUHh4MlVVOThnbnc?oc=5",
-      "score": 46.8,
+      "id": "32749ae8d897",
+      "title": "Is tourism heading for its own “Great Reset”? - Lowy Institute",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDJua1UyNnNqN0t5TjdNU0VKZm1MdjVBSkIyWm9JRjFtak16ZzlTRzVKMFdtdmk5anFURXZaQ2U0WUs0RW9RLV8ydGJLc2FfUEtkLWZPMERjc184Vm1IM1FhUDd4dzZjOVEyMm4wZEhFQzc4dnpIaDRMQTlKczJyMjFxTXVTZks4NndKYlZ6SWUwQQ?oc=5\" target=\"_blank\">Is touris",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDJua1UyNnNqN0t5TjdNU0VKZm1MdjVBSkIyWm9JRjFtak16ZzlTRzVKMFdtdmk5anFURXZaQ2U0WUs0RW9RLV8ydGJLc2FfUEtkLWZPMERjc184Vm1IM1FhUDd4dzZjOVEyMm4wZEhFQzc4dnpIaDRMQTlKczJyMjFxTXVTZks4NndKYlZ6SWUwQQ?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 20 Oct 2026 16:30:57 GMT",
+          "source": "Lowy Institute"
+        }
+      ]
+    },
+    {
+      "id": "bc752e6649af",
+      "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNTG9QQ3NvcFByN2JIeXVWNlJLNkxtSU4zLW04djJvZFVRNkxkQXNEOUktZDdCcTJRU2tSRW5yY2RmWTRGLUdmcnNDX1BidmZmX3NVMUVzS0sxMjRacTE1RlpVRjRxOVJLN0s5Z3gyeXJzazhCODFMVm81RW5aMzJhd3pBeEhrSlhrNUluZXB0a0JCcmN3WDltSFJyTGc2SFJRaExkeTRhSkVLN2",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTG9QQ3NvcFByN2JIeXVWNlJLNkxtSU4zLW04djJvZFVRNkxkQXNEOUktZDdCcTJRU2tSRW5yY2RmWTRGLUdmcnNDX1BidmZmX3NVMUVzS0sxMjRacTE1RlpVRjRxOVJLN0s5Z3gyeXJzazhCODFMVm81RW5aMzJhd3pBeEhrSlhrNUluZXB0a0JCcmN3WDltSFJyTGc2SFJRaExkeTRhSkVLN2g2bkpxa1l2MUl4RU9WYlNJUHh4MlVVOThnbnc?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
           "published": "Fri, 16 Oct 2026 15:20:00 GMT",
@@ -267,10 +167,110 @@
       ]
     },
     {
-      "id": "743d3764ceb1",
-      "title": "Dumfries and Galloway named among world's top travel destinations for 2027 - The Herald",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFd4S0RZc0VTc3pld011MGkzWlRWTWNfQXFtWHZDSUxuVy01Y1dicFN0MUtqX2F5V2NMZWpsWkdIRGt4QnQzYTRnb3ZOSS1UZlFuNlU1VU5oRktqbXA3RUJfUDdXMzNnd1V3YVFMcUxadmQ5SG9XOFdBSy11b0hFVzMwTDhSa2ZYczhSdUp2UUFXMHk5cnE4?oc=5\" target=\"_blank\">Dum",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFd4S0RZc0VTc3pld011MGkzWlRWTWNfQXFtWHZDSUxuVy01Y1dicFN0MUtqX2F5V2NMZWpsWkdIRGt4QnQzYTRnb3ZOSS1UZlFuNlU1VU5oRktqbXA3RUJfUDdXMzNnd1V3YVFMcUxadmQ5SG9XOFdBSy11b0hFVzMwTDhSa2ZYczhSdUp2UUFXMHk5cnE4?oc=5",
+      "id": "81e200b7eb0c",
+      "title": "Travel Is Elitist. Social Media Pretends It Isn’t - Fodors Travel Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQanZoVWl0RzM1M0JhakxKbzJPdm9ac21mZnI0bUZ5cHpGUWRCdXg5a05MWjJsS1UzVEk2ZU81SWNjU1FJU2JGTHpOYXFMdFR5eWUwRTYtamQ0N3c2ajl5OHVobWRNQ2xlclRkYVB5aTZaXzNpN2tVZjZDUUZDU0JvVmYwRDlTZHQ0dzk0OQ?oc=5\" target=\"_blank\">Travel Is Elitist",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanZoVWl0RzM1M0JhakxKbzJPdm9ac21mZnI0bUZ5cHpGUWRCdXg5a05MWjJsS1UzVEk2ZU81SWNjU1FJU2JGTHpOYXFMdFR5eWUwRTYtamQ0N3c2ajl5OHVobWRNQ2xlclRkYVB5aTZaXzNpN2tVZjZDUUZDU0JvVmYwRDlTZHQ0dzk0OQ?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-21T04:34:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 20 Oct 2026 11:00:14 GMT",
+          "source": "Fodors Travel Guide"
+        }
+      ]
+    },
+    {
+      "id": "4de98a644007",
+      "title": "Is it safe to travel to Spain? Latest advice after flooding strikes holiday destinations - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW5leDRUS3UwT1FNeGVUSTlPVG8wRy1aVDFuSXhibHRuRUhjczBtek5vaFV3QWFEOHRMN3Q4Vm5zeU1HRDk5TWc5WTg4M09la0MxWmJ3aXd4MDRKMGR2dU1wX1VmYnc0NjlhTnVraVU1djJmVUV0MmplU1dSSVRnakxtX3I0SkZKeUJndWVkOWtXNHZ3Q2dwSGpzUGJMTzc4eDRyWXVxMmxIbE",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW5leDRUS3UwT1FNeGVUSTlPVG8wRy1aVDFuSXhibHRuRUhjczBtek5vaFV3QWFEOHRMN3Q4Vm5zeU1HRDk5TWc5WTg4M09la0MxWmJ3aXd4MDRKMGR2dU1wX1VmYnc0NjlhTnVraVU1djJmVUV0MmplU1dSSVRnakxtX3I0SkZKeUJndWVkOWtXNHZ3Q2dwSGpzUGJMTzc4eDRyWXVxMmxIbExENEhJUmZySQ?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-21T04:34:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 20 Oct 2026 13:52:00 GMT",
+          "source": "The Independent"
+        }
+      ]
+    },
+    {
+      "id": "9376924aa358",
+      "title": "Agency lands global travel content brief - Bdaily",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWRvUjVFZWtkWFlxWWlDZGRlYVRmWm5talpWY1NqMlRONFMzaWkyd0hBa3ZQSDlyUjgzdmR4M2NxcElMQXZCc0lyVVpkbnFvd0ExOGRRdDJnREJIeUJ6SFpJOC0yV3ptRWFSOUJMaXUwN012S0xsMkU2aEprbXpBTUFLdkV6TFd2VGc?oc=5\" target=\"_blank\">Agency lands global ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWRvUjVFZWtkWFlxWWlDZGRlYVRmWm5talpWY1NqMlRONFMzaWkyd0hBa3ZQSDlyUjgzdmR4M2NxcElMQXZCc0lyVVpkbnFvd0ExOGRRdDJnREJIeUJ6SFpJOC0yV3ptRWFSOUJMaXUwN012S0xsMkU2aEprbXpBTUFLdkV6TFd2VGc?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-21T04:34:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 20 Oct 2026 20:28:15 GMT",
+          "source": "Bdaily"
+        }
+      ]
+    },
+    {
+      "id": "063bbb248b65",
+      "title": "Is it safe to travel to Paris? Latest advice amid France riots - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNV1FfSnk5QW1sNE9ua3BjX05QMUxkdFNQdi0ySWZFQXdELVpsQ1RQVlZZZlRlT0Y2Qm9lRFJpXzlhVjlTTjdRemMxMXI3SlpFOHVpWkFvd2kzZE5BelFvNjdpU2hmNlFudHBySGxQSHp5RUI0UGwyYlBhLXRzNU4yTA?oc=5\" target=\"_blank\">Is it safe to travel to Paris? La",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV1FfSnk5QW1sNE9ua3BjX05QMUxkdFNQdi0ySWZFQXdELVpsQ1RQVlZZZlRlT0Y2Qm9lRFJpXzlhVjlTTjdRemMxMXI3SlpFOHVpWkFvd2kzZE5BelFvNjdpU2hmNlFudHBySGxQSHp5RUI0UGwyYlBhLXRzNU4yTA?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-21T04:34:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 19 Oct 2026 16:20:00 GMT",
+          "source": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "id": "5085b752d6ae",
+      "title": "The sushi restaurant Tokyoites travel three hours to for lunch - Financial Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBNbUVMWXR1YVNWa0pLemlySFNzR2Z1Wk1FWE43NzZNQWs5dmdlOFhwQUl4d1ZCQnJJT3U0dWExSGtmbFdEV2pZMUxFYmxVMkFKd01aNjdnMGlfZFMxNTdfWDg5NGlWNUduR3NTYl9HTk0?oc=5\" target=\"_blank\">The sushi restaurant Tokyoites travel three hours to for",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNbUVMWXR1YVNWa0pLemlySFNzR2Z1Wk1FWE43NzZNQWs5dmdlOFhwQUl4d1ZCQnJJT3U0dWExSGtmbFdEV2pZMUxFYmxVMkFKd01aNjdnMGlfZFMxNTdfWDg5NGlWNUduR3NTYl9HTk0?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-10-21T04:34:01+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 19 Oct 2026 04:03:27 GMT",
+          "source": "Financial Times"
+        }
+      ]
+    },
+    {
+      "id": "b5627a320a57",
+      "title": "6. Regional results - World Economic Forum",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1p0MmR2U1RrVk5IelJycDBlMTZFOTFTSThnWm9YTVJrcmMtOGdXeHVmWlFIb0tVanNpWUwyWlV0aUd4b0JVcHM4SU1LNDdWLTNuVFBtODZDWGdVVjlGQjJlLTNBTV9BNjJESFphMS1xOFNTUTFQbU9WcjdpNjdEZG5NWkxVRURfMGlmTGZFVTFiZXFRMEtNSw?oc=5\" target=\"_blank\">6",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1p0MmR2U1RrVk5IelJycDBlMTZFOTFTSThnWm9YTVJrcmMtOGdXeHVmWlFIb0tVanNpWUwyWlV0aUd4b0JVcHM4SU1LNDdWLTNuVFBtODZDWGdVVjlGQjJlLTNBTV9BNjJESFphMS1xOFNTUTFQbU9WcjdpNjdEZG5NWkxVRURfMGlmTGZFVTFiZXFRMEtNSw?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 12:55:02 GMT",
-          "source": "The Herald"
+          "published": "Fri, 16 Oct 2026 15:23:38 GMT",
+          "source": "World Economic Forum"
         }
       ]
     },
     {
-      "id": "2d5893339b23",
-      "title": "25 must-visit destinations for 2027, according to National Geographic - CNN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5FN3dyV09rQUlDMWY0YmV0aUM5UFNhcWwxRDNudTNZS3ZHN1VzVE03OHN6bVpwRXFmU2VLUjRZc09kczNuU1AzYjR3SnZ0WGlfNExGRWhBYXA0N0R4TUdMNTFGeWdka1VSNERGWE80blNkUGVWWTNBdDJ5SzZ4dw?oc=5\" target=\"_blank\">25 must-visit destinations for 2027, ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FN3dyV09rQUlDMWY0YmV0aUM5UFNhcWwxRDNudTNZS3ZHN1VzVE03OHN6bVpwRXFmU2VLUjRZc09kczNuU1AzYjR3SnZ0WGlfNExGRWhBYXA0N0R4TUdMNTFGeWdka1VSNERGWE80blNkUGVWWTNBdDJ5SzZ4dw?oc=5",
+      "id": "af9d37970a26",
+      "title": "Vale of Glamorgan tourism tops six million visitors and brings £381.88m boost - Barry and District News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYU53UmFmSmdlSkZDeTMzc3lESHppTGdhRnIzbFR2TEtVcVJiNUVieHZZTkFJZzBhZlR4dGtqanpORU5OYWk1bUJWYzVYNkdxVUdmcEdIVGZrWW1mS1ViWjlBVWJMX1B4aFlFN0FwalR0b2ZoYWZaNVJXemtnV3dwU2llZ0k1T0hJX08tVG1SZWdUNC1hbTJyalBFaXFOMWZHV21wOUZR?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYU53UmFmSmdlSkZDeTMzc3lESHppTGdhRnIzbFR2TEtVcVJiNUVieHZZTkFJZzBhZlR4dGtqanpORU5OYWk1bUJWYzVYNkdxVUdmcEdIVGZrWW1mS1ViWjlBVWJMX1B4aFlFN0FwalR0b2ZoYWZaNVJXemtnV3dwU2llZ0k1T0hJX08tVG1SZWdUNC1hbTJyalBFaXFOMWZHV21wOUZR?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 11:34:01 GMT",
-          "source": "CNN"
+          "published": "Wed, 21 Oct 2026 03:00:00 GMT",
+          "source": "Barry and District News"
         }
       ]
     },
     {
-      "id": "e4cfa89ee9c4",
-      "title": "Ranked: The World’s Largest Tourism Economies - Visual Capitalist",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVDRYSHc4aThwRmp1ZDVCSVBJZ0hrenVBa1h1RWV2VHBVd05YZjIxaHNSNnZNVnFBZ0VOUEZPa29lM0trN29mWjdSLU5IZzNDemRua2ZWOVNCQzZRbnRmcG5PdkExN1dzODVGb01JLWFZYnZIRU5tSW4zbGIyLS1pby1kSDV0VWlXLUtGbE5B?oc=5\" target=\"_blank\">Ranked: The Wor",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVDRYSHc4aThwRmp1ZDVCSVBJZ0hrenVBa1h1RWV2VHBVd05YZjIxaHNSNnZNVnFBZ0VOUEZPa29lM0trN29mWjdSLU5IZzNDemRua2ZWOVNCQzZRbnRmcG5PdkExN1dzODVGb01JLWFZYnZIRU5tSW4zbGIyLS1pby1kSDV0VWlXLUtGbE5B?oc=5",
+      "id": "506a5c47c5a1",
+      "title": "Tripsnacking? Finally a travel trend I can get on board with - The Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQdDZTQ3BOU01oVTJpcFhTVFlUZ1pycUotTlNwYThkdFdQY1FVQjFfd1RvcTRrUWpFQnpVX0UzQmJITVpHU2ZLQk40UkFYclhROE9pVFdFb0lBVUNRa09adUZhdGFGODl0OWhhQjREZEVpR1pvWWNiZkxzZUl3RW8yWXk1aVBqa0YwS2ZsZzNVMFNaMXM?oc=5\" target=\"_blank\">Tripsnac",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdDZTQ3BOU01oVTJpcFhTVFlUZ1pycUotTlNwYThkdFdQY1FVQjFfd1RvcTRrUWpFQnpVX0UzQmJITVpHU2ZLQk40UkFYclhROE9pVFdFb0lBVUNRa09adUZhdGFGODl0OWhhQjREZEVpR1pvWWNiZkxzZUl3RW8yWXk1aVBqa0YwS2ZsZzNVMFNaMXM?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 10:02:15 GMT",
-          "source": "Visual Capitalist"
+          "published": "Wed, 21 Oct 2026 04:00:00 GMT",
+          "source": "The Times"
         }
       ]
     },
     {
-      "id": "1f2af81d0c8e",
-      "title": "Strong winds could damage trees and disrupt travel - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4SDUxdjhRZHhUWkp2UnlBTHdqZ1daclNzYlV5U3M3ZUo0b0E1UklvQ0MxSV9UWjVKWTBTTmRQLWxZMEN0RUpLQ0xwZmxBcXJqeHNrVGxobUdOd21odEE?oc=5\" target=\"_blank\">Strong winds could damage trees and disrupt travel</a>&nbsp;&nbsp;<font color=\"#",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4SDUxdjhRZHhUWkp2UnlBTHdqZ1daclNzYlV5U3M3ZUo0b0E1UklvQ0MxSV9UWjVKWTBTTmRQLWxZMEN0RUpLQ0xwZmxBcXJqeHNrVGxobUdOd21odEE?oc=5",
+      "id": "ff24f61cffd7",
+      "title": "U.S. Issues New Travel Warnings for Multiple Countries - Fodors Travel Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5\" target=\"_blank\">U.S. Issu",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 11:13:12 GMT",
-          "source": "BBC"
+          "published": "Tue, 20 Oct 2026 16:52:51 GMT",
+          "source": "Fodors Travel Guide"
         }
       ]
     },
     {
-      "id": "c04b160112c8",
-      "title": "New Bradford railway station will ‘transform travel across the north’ - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVS1KLXdjQk82empJUjZYa2VUZlZZTVZnRG1BM2hicnZ5bWQwMl9NYUJrak9POThUa3p4Y01EbTJDLUtmaGNfOUxVZkh1TmxpbzZWb0JHc20yRk81N2Rtdk1Bb1NiV2lCWUlEUzFoUkVPQWlKRVYxbm5oQzJ0UjJpQ29nazBEbUJaeVozenNIMVBJcW5fanVJNGhPeWo?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVS1KLXdjQk82empJUjZYa2VUZlZZTVZnRG1BM2hicnZ5bWQwMl9NYUJrak9POThUa3p4Y01EbTJDLUtmaGNfOUxVZkh1TmxpbzZWb0JHc20yRk81N2Rtdk1Bb1NiV2lCWUlEUzFoUkVPQWlKRVYxbm5oQzJ0UjJpQ29nazBEbUJaeVozenNIMVBJcW5fanVJNGhPeWo?oc=5",
+      "id": "d34efcf43f19",
+      "title": "Simon Calder: Mandatory travel insurance is the newest wheeze for fleecing holidaymakers - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlRIUDh2eHU4eWw0Ym8tVW81Sm5VdlczaU9TeWJHdFFWSGlpUjNfaXM2NWQtdk5qV2lyWHhObXYyeFliMTNiZGRFdnNjXzRLTnlHRzA5aEZZUTk1S0dlemZScG44bmJCSTRaN2pSek83TTJEZURvQ1RlWnI4cXRWcXVIeXRIWlRRZElJYzdOSjAyZkJYVndj?oc=5\" target=\"_blank\">Sim",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlRIUDh2eHU4eWw0Ym8tVW81Sm5VdlczaU9TeWJHdFFWSGlpUjNfaXM2NWQtdk5qV2lyWHhObXYyeFliMTNiZGRFdnNjXzRLTnlHRzA5aEZZUTk1S0dlemZScG44bmJCSTRaN2pSek83TTJEZURvQ1RlWnI4cXRWcXVIeXRIWlRRZElJYzdOSjAyZkJYVndj?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 05:00:00 GMT",
-          "source": "The Guardian"
+          "published": "Sun, 18 Oct 2026 05:45:00 GMT",
+          "source": "The Telegraph"
         }
       ]
     },
     {
-      "id": "fbac63dd6655",
-      "title": "Ison Travel Founder on Culture Crisis and Overcoming Tragedy - Business Leader",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWlCSW5tc19PVm5PUVRuZDRrVEdTRUtuSk1xdl9DMkF3TnFvYnZ1SXVtMTBxcDYwREpnai1jeVhPUXNmR0Z6bXY0OWoyMEFwNTQ5cU9YQnNuUHVpQWtOTFBiSFJUUmZqb1Z3Q3RKOVp2bnI0NjAwWldXLTNYVXlwZVhR?oc=5\" target=\"_blank\">Ison Travel Founder on Culture ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWlCSW5tc19PVm5PUVRuZDRrVEdTRUtuSk1xdl9DMkF3TnFvYnZ1SXVtMTBxcDYwREpnai1jeVhPUXNmR0Z6bXY0OWoyMEFwNTQ5cU9YQnNuUHVpQWtOTFBiSFJUUmZqb1Z3Q3RKOVp2bnI0NjAwWldXLTNYVXlwZVhR?oc=5",
+      "id": "fd397caa2ea1",
+      "title": "US warns over travel in Kenya as Ebola cases mount - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2hkeFpjeENpY0huZkJwT244VnBiOVpVQVYtd2gyZTEwUzZvZ3BHNElHcjVVczRvcWhmRVlGdjlwbGtOb2Faem15NlRzcTJEYUU5OFZxQ2NYNDh1SW04aktqaUpWVTdpTF9yWVpxdWZEbEVHSDhScFpOcDBKYnNrMTFNSWxFY0k1TkQ4Ylk5T3pzYzgzRmdKLWxCYzdmRGNOUDJSNEpVekRUSm",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2hkeFpjeENpY0huZkJwT244VnBiOVpVQVYtd2gyZTEwUzZvZ3BHNElHcjVVczRvcWhmRVlGdjlwbGtOb2Faem15NlRzcTJEYUU5OFZxQ2NYNDh1SW04aktqaUpWVTdpTF9yWVpxdWZEbEVHSDhScFpOcDBKYnNrMTFNSWxFY0k1TkQ4Ylk5T3pzYzgzRmdKLWxCYzdmRGNOUDJSNEpVekRUSmNkREhzU0dBdw?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 15:06:46 GMT",
-          "source": "Business Leader"
+          "published": "Tue, 20 Oct 2026 14:54:00 GMT",
+          "source": "The Telegraph"
         }
       ]
     },
     {
-      "id": "c24171b87ac7",
-      "title": "Baseus Packs Six Connections Into One 70W Travel Adapter - The Gadgeteer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oRjJoV2lDZ3ZaWU5aTWItdHRuUXVWWDBBN044aXA3WjhfU0M5YzEwUmU5R0F0aEIyTkEweWhMTi12NDA4aHdOalhKZUIxX1h1RjhDSjQxb2pINW15N05JTnlQeElwT2ZsLTJ5QUVBNmV2Z1hKSnktalFFZ05EZw?oc=5\" target=\"_blank\">Baseus Packs Six Connections Into One",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oRjJoV2lDZ3ZaWU5aTWItdHRuUXVWWDBBN044aXA3WjhfU0M5YzEwUmU5R0F0aEIyTkEweWhMTi12NDA4aHdOalhKZUIxX1h1RjhDSjQxb2pINW15N05JTnlQeElwT2ZsLTJ5QUVBNmV2Z1hKSnktalFFZ05EZw?oc=5",
+      "id": "32caa773bb67",
+      "title": "Is it Safe to Travel to Paris Right Now Amidst the France Protests? - Condé Nast Traveler",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRE05VnpTQUVyMXhTT19hS2dFYXBOOFdGR2Y3STA2N0pOV0FVRWxPZTZVM1Y5aWl2U28xRmFGQnAzeDF2WVVtR2JMY1ZpSDVuRkJpbHBHV0c4ekNZVkxmaDJBT0RneHhxUDB5bC0xZ0phalgxbkZWaS1tTVh2UVhxYmQ1UzZCbTk1Qlk1Sl9CWS02SEpESUFhcU5aTW4wNmth?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRE05VnpTQUVyMXhTT19hS2dFYXBOOFdGR2Y3STA2N0pOV0FVRWxPZTZVM1Y5aWl2U28xRmFGQnAzeDF2WVVtR2JMY1ZpSDVuRkJpbHBHV0c4ekNZVkxmaDJBT0RneHhxUDB5bC0xZ0phalgxbkZWaS1tTVh2UVhxYmQ1UzZCbTk1Qlk1Sl9CWS02SEpESUFhcU5aTW4wNmth?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-10-20T21:33:06+00:00",
+      "first_seen": "2026-10-21T04:34:01+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 13:00:00 GMT",
-          "source": "The Gadgeteer"
+          "published": "Tue, 20 Oct 2026 14:19:32 GMT",
+          "source": "Condé Nast Traveler"
         }
       ]
     }
