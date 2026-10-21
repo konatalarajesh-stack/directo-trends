@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "CA",
-  "generated_at": "2026-10-21T04:42:54+00:00",
+  "generated_at": "2026-10-21T11:49:02+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 24,
   "trends": [
     {
       "id": "45b61777faea",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
           "published": "Sun, 18 Oct 2026 19:21:20 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "e7dfa3ec48f5",
-      "title": "Weekly market wrap - Edward Jones",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVcxcmtaeVJRVm9kQ2VyWmVQNG9GNDZzWkJpT01xTUFJbVhYdGF6dG1qZndCb2hFaHhCM0I5NFk2RGxhY1drcWRHVnhyNzc0RWJvTU50S0dnWENrRk1UYVQ4S25xVHBtYzJsU1dabkhWeVBCckxzTHRpS3M2dklsOF84LTJRV1RJLVFRVUdGbHh2SE5CbFVPQVpROGtRa2M?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVcxcmtaeVJRVm9kQ2VyWmVQNG9GNDZzWkJpT01xTUFJbVhYdGF6dG1qZndCb2hFaHhCM0I5NFk2RGxhY1drcWRHVnhyNzc0RWJvTU50S0dnWENrRk1UYVQ4S25xVHBtYzJsU1dabkhWeVBCckxzTHRpS3M2dklsOF84LTJRV1RJLVFRVUdGbHh2SE5CbFVPQVpROGtRa2M?oc=5",
+      "id": "c3137b6f5983",
+      "title": "Musk's SpaceX helps fuel stock market gains - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWM4VERmWU9KRnJxaHQwcW1jUVdDbGczWm1xYXFMMVY1cXdFYTY2NTh2ZFRxdlc2bEM1LWRFWU93OF9CQU16M2lVdldaUU5Ebm1PZGdiMU14Z1hzSEpPa2IwcVRUZWg1SlNHVE9xaEJBUnZ2V2w1aTZSWG5SYUt2eDN6OHg?oc=5\" target=\"_blank\">Musk's SpaceX helps fuel sto",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWM4VERmWU9KRnJxaHQwcW1jUVdDbGczWm1xYXFMMVY1cXdFYTY2NTh2ZFRxdlc2bEM1LWRFWU93OF9CQU16M2lVdldaUU5Ebm1PZGdiMU14Z1hzSEpPa2IwcVRUZWg1SlNHVE9xaEJBUnZ2V2w1aTZSWG5SYUt2eDN6OHg?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 21 Oct 2026 11:07:39 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "e7dfa3ec48f5",
+      "title": "Weekly market wrap - Edward Jones",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVcxcmtaeVJRVm9kQ2VyWmVQNG9GNDZzWkJpT01xTUFJbVhYdGF6dG1qZndCb2hFaHhCM0I5NFk2RGxhY1drcWRHVnhyNzc0RWJvTU50S0dnWENrRk1UYVQ4S25xVHBtYzJsU1dabkhWeVBCckxzTHRpS3M2dklsOF84LTJRV1RJLVFRVUdGbHh2SE5CbFVPQVpROGtRa2M?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVcxcmtaeVJRVm9kQ2VyWmVQNG9GNDZzWkJpT01xTUFJbVhYdGF6dG1qZndCb2hFaHhCM0I5NFk2RGxhY1drcWRHVnhyNzc0RWJvTU50S0dnWENrRk1UYVQ4S25xVHBtYzJsU1dabkhWeVBCckxzTHRpS3M2dklsOF84LTJRV1RJLVFRVUdGbHh2SE5CbFVPQVpROGtRa2M?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
           "published": "Fri, 16 Oct 2026 07:00:00 GMT",
@@ -47,30 +67,10 @@
       ]
     },
     {
-      "id": "0391e496892e",
-      "title": "Worried About a Stock Market Crash? Here Are 3 Things You Should Do Now - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlVucnZCZGZBbGVPUzJ5UDM0bC1EeUltdjdTWlg5UHRyQ1NWZUsxVEEyMHV0MFZSUDV5YTY0MnEzSUpROHlKVmpoU2U0NXhrS21Da1RfU0tHRnB3OER2MEpZZTlabjh2cUZKNkxuLU4yckx6WFNiU0FwSG5aX2N6SkxaVmFJbFVKU0FCbzdVYnliSjJvVVVyVw?oc=5\" target=\"_blank\">W",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlVucnZCZGZBbGVPUzJ5UDM0bC1EeUltdjdTWlg5UHRyQ1NWZUsxVEEyMHV0MFZSUDV5YTY0MnEzSUpROHlKVmpoU2U0NXhrS21Da1RfU0tHRnB3OER2MEpZZTlabjh2cUZKNkxuLU4yckx6WFNiU0FwSG5aX2N6SkxaVmFJbFVKU0FCbzdVYnliSjJvVVVyVw?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 09:35:00 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "df51b39d647d",
-      "title": "5 Things to Know Before the Stock Market Opens on Tuesday - Investopedia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGFSMkhZRXF6QnhIbjFabFJFRVlDZnh3YkZYWVJEZkJUNHYxQzBnNm05VHQ1Z3JrZzN2QTM1M1E5V3RrR0pheEJrV25xYTg5VzhwYmYyVk0xQ0liVTcwOE1mcVpIN1lKUW4zWktxMlFFOEVPeW9tSTVVQk1nVDZIMFRPQUdaczNvX0QtRTFBNW9LcWJUNWU2bFk3Zi1iQTVIcmFOdW5Wc25fYU",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGFSMkhZRXF6QnhIbjFabFJFRVlDZnh3YkZYWVJEZkJUNHYxQzBnNm05VHQ1Z3JrZzN2QTM1M1E5V3RrR0pheEJrV25xYTg5VzhwYmYyVk0xQ0liVTcwOE1mcVpIN1lKUW4zWktxMlFFOEVPeW9tSTVVQk1nVDZIMFRPQUdaczNvX0QtRTFBNW9LcWJUNWU2bFk3Zi1iQTVIcmFOdW5Wc25fYUIxS1I4Yg?oc=5",
+      "id": "c4335e3cc5cd",
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVhVSi1RenZkbnpGNzdUQlpxb1BwSEw0WENHODdjempfS3FGSk9KdkVjWXRVcnV5TnhZY3hEbVQxS200ZlRWS2pSbmZfQ0M1ajBkNlBlTHFSbDR2ZzlYcFhUcVBxbnp6UGZLaWxBVlNqU2hBYjVZdzBwTVBfcEhWTWlFd1lIamVPaFBBWlA3WFgyYTdkOXE1Vg?oc=5\" target=\"_blank\">I",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVhVSi1RenZkbnpGNzdUQlpxb1BwSEw0WENHODdjempfS3FGSk9KdkVjWXRVcnV5TnhZY3hEbVQxS200ZlRWS2pSbmZfQ0M1ajBkNlBlTHFSbDR2ZzlYcFhUcVBxbnp6UGZLaWxBVlNqU2hBYjVZdzBwTVBfcEhWTWlFd1lIamVPaFBBWlA3WFgyYTdkOXE1Vg?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,19 +78,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 12:28:03 GMT",
-          "source": "Investopedia"
+          "published": "Wed, 21 Oct 2026 08:00:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "6b905d1a8cc5",
-      "title": "Dow Gains 529 Points on 3M Data Center Deal, Earnings Beat: Stock Market Today - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUFFuc05xX2pvSjd1ZUV1REN0YW0yeUFkQ2NlY001T1QyNlBBNGN2SXNweENYLWxLb0hHN1FwNmliV1I1dWRYNjc0TDc0M3l3NlJkeXdPeE9RZnBiRTRnMy1LamFwVkxiVnVFR1FxNHIxanFlbjJSeTY0QkFMTjVoWU42UzVPQ05fYUN3d1RvQk9xZERFc29CcmtIc1hOZzNoaHV3Zm9veUI?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUFFuc05xX2pvSjd1ZUV1REN0YW0yeUFkQ2NlY001T1QyNlBBNGN2SXNweENYLWxLb0hHN1FwNmliV1I1dWRYNjc0TDc0M3l3NlJkeXdPeE9RZnBiRTRnMy1LamFwVkxiVnVFR1FxNHIxanFlbjJSeTY0QkFMTjVoWU42UzVPQ05fYUN3d1RvQk9xZERFc29CcmtIc1hOZzNoaHV3Zm9veUI?oc=5",
+      "id": "5f0b6ea1685e",
+      "title": "What Should You Do With Your Investments if the Stock Market Crashes? This 1 Move Is Key. - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjJqQjJzYjFCVVNrLUlCYThFencxSi0yWHRpMFdab3VETmt4U3JkYWxSMTVidE45YnYzZmxWQ25GUk9hNFlpdFNrUDYzM19qcDVzUEUteDliWEpGN2h4ZGVmb0Znb0J1UmZDa0Q4SVZHVlVMRWRCcEQ2RXhweEp4Qk5NUVRnbWZHdkNZN05OaFpkdUFnVVE?oc=5\" target=\"_blank\">What",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjJqQjJzYjFCVVNrLUlCYThFencxSi0yWHRpMFdab3VETmt4U3JkYWxSMTVidE45YnYzZmxWQ25GUk9hNFlpdFNrUDYzM19qcDVzUEUteDliWEpGN2h4ZGVmb0Znb0J1UmZDa0Q4SVZHVlVMRWRCcEQ2RXhweEp4Qk5NUVRnbWZHdkNZN05OaFpkdUFnVVE?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,11 +98,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 20:12:09 GMT",
-          "source": "Kiplinger"
+          "published": "Wed, 21 Oct 2026 11:01:48 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
           "published": "Fri, 29 May 2026 07:00:00 GMT",
@@ -127,10 +127,10 @@
       ]
     },
     {
-      "id": "df6e3846d9a4",
-      "title": "Prediction: Oct. 21 Will Be a Huge Day for the Stock Market - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZMZWhDUFVqNVhzWFhNZWRUSU1fYjhfV3M1NnlWakttRzhIUEttX0ttcFRnaVktSWhuOWNFc2JHcmo0Rmt2ZjhUSE9wWDhZRkZwT2RDemhBbEZlU3AwZGw1ZHNhckNzRmhncmNpZF95SzZES21qcnpNUHpueDF0Sk84WkNON3dpa1JwWE5RMWhNNW1yUjJuel9NSHpleVgybmc?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZMZWhDUFVqNVhzWFhNZWRUSU1fYjhfV3M1NnlWakttRzhIUEttX0ttcFRnaVktSWhuOWNFc2JHcmo0Rmt2ZjhUSE9wWDhZRkZwT2RDemhBbEZlU3AwZGw1ZHNhckNzRmhncmNpZF95SzZES21qcnpNUHpueDF0Sk84WkNON3dpa1JwWE5RMWhNNW1yUjJuel9NSHpleVgybmc?oc=5",
+      "id": "1913f43899e9",
+      "title": "Will the housing market crash? Take a look at the data - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0ZYaklESS1nZ3paTEdlVm8xYlo3bXBmbEdYMFhnYktJb3QxRzJIMWJZT0xTcHpMMFZzRHZlNWNvanhsTTN5b0dQQUo3c3YzckNWbTRjSkR1RUU0NUNhdkx0bU1hcVFveXF5TzFDUHk3anI0Y20yZUF2SEVJbmcxOGNWVTdxbzJ5bGRBYlFFbGoyR1QzemxWeHhmWEZFNUg0b3UyalZLNzk1ZV",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0ZYaklESS1nZ3paTEdlVm8xYlo3bXBmbEdYMFhnYktJb3QxRzJIMWJZT0xTcHpMMFZzRHZlNWNvanhsTTN5b0dQQUo3c3YzckNWbTRjSkR1RUU0NUNhdkx0bU1hcVFveXF5TzFDUHk3anI0Y20yZUF2SEVJbmcxOGNWVTdxbzJ5bGRBYlFFbGoyR1QzemxWeHhmWEZFNUg0b3UyalZLNzk1ZVNnOTFzdTF0NFpkMDQxSWk3dnpQM0FWZ2pSb0lQdw?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,87 +138,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 08:55:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "46cb253d0eb1",
-      "title": "Dutch Bros vs. Celsius: Which Consumer Stock Is a Better Buy in 2026? - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONlk3Z2RZSlprXzJjVUlTb0FyQ3BEZjk3bmNhOXJiVGdEQWpqNFU3aVVrVFhoRlZZZU1Qdlc5WVZ3bkhMQUgtNlNMS1o3Rzd1dXA4UlRYRVY0MEJVQko3MTQ0dnhIMFVBVFk4UnZrSUkyLTJ5OVZSVFVWMUMyZEd0UVFCVk45elV3bGZUWjdvVlhhTVVNakJxTTFBOA?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONlk3Z2RZSlprXzJjVUlTb0FyQ3BEZjk3bmNhOXJiVGdEQWpqNFU3aVVrVFhoRlZZZU1Qdlc5WVZ3bkhMQUgtNlNMS1o3Rzd1dXA4UlRYRVY0MEJVQko3MTQ0dnhIMFVBVFk4UnZrSUkyLTJ5OVZSVFVWMUMyZEd0UVFCVk45elV3bGZUWjdvVlhhTVVNakJxTTFBOA?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 21:41:01 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "baedb27c13e3",
-      "title": "Amazon Stock Costs More Than the Market. I'd Still Buy It for the Next 5 Years. - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUQ3Q2pScEZpMTgyQm1qSy1QazAzZVduNW5MT2thNzZZUnJnVmF0dFhlUno2U3NfamVhN3pieV9Sc2ZuVVVyc0lLWXVGbUw2cUgwUTZLTTF6QmZRQmtPenF3QlFnaTdCUW8xTG9MUlNoUVhxcW9KVl84NVRnU0ZtOFpIYTNSb2loWGJfOHRoT2NPNlJMQ2s2VjZORjFfdWJRRk14ZWNmclpDWF",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUQ3Q2pScEZpMTgyQm1qSy1QazAzZVduNW5MT2thNzZZUnJnVmF0dFhlUno2U3NfamVhN3pieV9Sc2ZuVVVyc0lLWXVGbUw2cUgwUTZLTTF6QmZRQmtPenF3QlFnaTdCUW8xTG9MUlNoUVhxcW9KVl84NVRnU0ZtOFpIYTNSb2loWGJfOHRoT2NPNlJMQ2s2VjZORjFfdWJRRk14ZWNmclpDWFpvaG5UV0ZSNU1oQ2FZTEFsbA?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 20:47:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "d144dfe62388",
-      "title": "Why the stock market and economy may seem out of sync - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9vcWg0QXpqWk91X05BclFWbHdfOXotd2YzRlBpS0lSeFN4ZGJwSDhvRE5uWkliU095bnYyMy11cEktM3U1SGZXd24wdlRoajBrTDVOR01wUGNDMElqbFVheEJjUko2MTk5Vlpad3hYQWVzRk90QkRuSUpUOFZUQdIBgwFBVV95cUxOU0NUczI0QXNNbXlrWTlINlBJTkVGZHFtQi1tS05ocmVsWl",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vcWg0QXpqWk91X05BclFWbHdfOXotd2YzRlBpS0lSeFN4ZGJwSDhvRE5uWkliU095bnYyMy11cEktM3U1SGZXd24wdlRoajBrTDVOR01wUGNDMElqbFVheEJjUko2MTk5Vlpad3hYQWVzRk90QkRuSUpUOFZUQdIBgwFBVV95cUxOU0NUczI0QXNNbXlrWTlINlBJTkVGZHFtQi1tS05ocmVsWlVzcWFNRjhic01aVWxSdWRCRU1ISTU0WnVrX1E4RGRZWG0tWHcxa3BqSnhLSXNhSzlNb2k1Z3g1V3Y4SkRoUUVmMUsyTTNZTmZIVWpHYzJsM3FYVUpGaWtzVQ?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-          "source": "CNBC"
-        }
-      ]
-    },
-    {
-      "id": "1913f43899e9",
-      "title": "Will the housing market crash? Take a look at the data - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0ZYaklESS1nZ3paTEdlVm8xYlo3bXBmbEdYMFhnYktJb3QxRzJIMWJZT0xTcHpMMFZzRHZlNWNvanhsTTN5b0dQQUo3c3YzckNWbTRjSkR1RUU0NUNhdkx0bU1hcVFveXF5TzFDUHk3anI0Y20yZUF2SEVJbmcxOGNWVTdxbzJ5bGRBYlFFbGoyR1QzemxWeHhmWEZFNUg0b3UyalZLNzk1ZV",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0ZYaklESS1nZ3paTEdlVm8xYlo3bXBmbEdYMFhnYktJb3QxRzJIMWJZT0xTcHpMMFZzRHZlNWNvanhsTTN5b0dQQUo3c3YzckNWbTRjSkR1RUU0NUNhdkx0bU1hcVFveXF5TzFDUHk3anI0Y20yZUF2SEVJbmcxOGNWVTdxbzJ5bGRBYlFFbGoyR1QzemxWeHhmWEZFNUg0b3UyalZLNzk1ZVNnOTFzdTF0NFpkMDQxSWk3dnpQM0FWZ2pSb0lQdw?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
           "published": "Tue, 20 Oct 2026 16:08:36 GMT",
@@ -227,38 +147,18 @@
       ]
     },
     {
-      "id": "b7734140f5f2",
-      "title": "Nvidia Stock Is Near Its High, but the Market Is Wobbling. Should Investors Sell? - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVpxRFNVakRYdF9DYzF5S3hMck03TGF0d05EVTBsWjl4LVBibXg2ejN5eXNwaUo1WW9ocHVEUlFfUFV4alVlekNkN2FPMHk0MjI5Y09SME9VTnNKd2pYTE1mVngtSUx6OG9WWWZMQnNNUmw3WVBQdGRTQ3E5UTJXaUFOSVE0akRJalhPdDVDdWM4am8?oc=5\" target=\"_blank\">Nvidia S",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVpxRFNVakRYdF9DYzF5S3hMck03TGF0d05EVTBsWjl4LVBibXg2ejN5eXNwaUo1WW9ocHVEUlFfUFV4alVlekNkN2FPMHk0MjI5Y09SME9VTnNKd2pYTE1mVngtSUx6OG9WWWZMQnNNUmw3WVBQdGRTQ3E5UTJXaUFOSVE0akRJalhPdDVDdWM4am8?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 15:45:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
       "id": "567ba3c2411c",
       "title": "Top 5 Essentials to Know Before Investing in Stocks - Investopedia",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGx5a0VRWC00aDBWak9FUmhveVZkRjV5MzBRQldROHBKRVNyNElVbjNHX2xFOU81dG1JUDRZOUJwX0o1N1ZLLUNLUTU5VGx0UXRicURlQk5OUUlTakNmWjI3eUdIOTU0QlV3LUZkVTVKV2s1UDlrTDhPckNCcUEySEh6TXNpM1RFeUZkbmt4V3RkUjhycnVNQ0hOWWpNVFFWWHItMTg4UkVHTk",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGx5a0VRWC00aDBWak9FUmhveVZkRjV5MzBRQldROHBKRVNyNElVbjNHX2xFOU81dG1JUDRZOUJwX0o1N1ZLLUNLUTU5VGx0UXRicURlQk5OUUlTakNmWjI3eUdIOTU0QlV3LUZkVTVKV2s1UDlrTDhPckNCcUEySEh6TXNpM1RFeUZkbmt4V3RkUjhycnVNQ0hOWWpNVFFWWHItMTg4UkVHTklnazdzblpDa2dkUQ?oc=5",
-      "score": 46.8,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
           "published": "Sun, 08 Mar 2026 08:00:00 GMT",
@@ -267,10 +167,202 @@
       ]
     },
     {
-      "id": "4b0bf190d302",
-      "title": "Stock Market Today, Oct. 20: SpaceX Stock Gains After Market Close on Q3 Earnings Report - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNXIydTVqa3FFd2doV1RHYkJ4UUVDNDhYYm1mMERZVnJHQ21aNmxYazd6ZUhiWm1CZzlYVXRreXpOTUZGRzRudjB4S00yZXhZVEtKS2NSZUFhYk4zUjQ3QlNrX2J2N1V5bk5BUnJaN1JXMnczZFlMQ1hfY3Brd2lRbmMxTkxma1BVelhQX0dDMHBwRk9Ia0NVaFZjUEZmZ193VHBKTmwyY1VaT0",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNXIydTVqa3FFd2doV1RHYkJ4UUVDNDhYYm1mMERZVnJHQ21aNmxYazd6ZUhiWm1CZzlYVXRreXpOTUZGRzRudjB4S00yZXhZVEtKS2NSZUFhYk4zUjQ3QlNrX2J2N1V5bk5BUnJaN1JXMnczZFlMQ1hfY3Brd2lRbmMxTkxma1BVelhQX0dDMHBwRk9Ia0NVaFZjUEZmZ193VHBKTmwyY1VaT0JlLUJpdE1QUXlJSGdHOWc5YTlWV3F5b0NGRS1UZkwwaThPTkswYzg2VnFBNkp2enJQX0tN?oc=5",
+      "id": "bb530eba4a9a",
+      "title": "Turning $100K Into $2.5M 🤯",
+      "summary": "Thanks for watching!",
+      "url": "https://www.youtube.com/shorts/yBH_ES9824Q",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-10-21T11:42:14+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "yBH_ES9824Q",
+          "published": "2026-10-20T15:00:38+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "c4569f9839aa",
+      "title": "How BAD Are Stock Valuations Really?",
+      "summary": "Most everyone seems to believe that AI is in a bubble, and the S&amp;P 500 is overvalued...but are they really? Today, we dive into what some popular gauges are actually telling us.\n\nDISCLAIMER:\nThis channel is for education purposes only and does not constitute financial advice ",
+      "url": "https://www.youtube.com/watch?v=0ZCVKL_PDsg",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-10-21T11:42:15+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+          "channel_title": "The Plain Bagel",
+          "video_id": "0ZCVKL_PDsg",
+          "published": "2026-10-09T16:25:33+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "ba415f581262",
+      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-10-21T11:39:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+          "source": "U.S. Bank"
+        }
+      ]
+    },
+    {
+      "id": "474ce4a654c5",
+      "title": "“America’s Debt Spiral Is Going To Implode Within 3 Years” - Ray Dalio’s Final Warning",
+      "summary": "Take your personal data back with Incogni! Use code GRAHAM at the link below and get 60% off an annual plan: https://incogni.com/graham | Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nSTART BUILDING WEALTH ",
+      "url": "https://www.youtube.com/watch?v=-r8aNg-uH3g",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-10-21T11:42:14+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "-r8aNg-uH3g",
+          "published": "2026-10-13T20:00:32+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "9df0d78a81a9",
+      "title": "BlackRock CEO Larry Fink Thinks This Midterm Election Issue Could Lead to a Recession - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVNlVEx0LWhZV254UldXVEpCV0hYQzhoSW1WVk9tb1ctT0RiaDktbFc1cnl6RUxaVEMxcDkzVlotaDQ2bDBHWXlDcWJTSG91TThYemdpNWZIdHc2ald1S0hLN0M2aFNDcHBpZlBNaTV0UWFxVXN6SEZub3M1Z3VzQnJ2cGE5T1VETmFrX0lzVm15Q3ZYUzZiQzNBZkhyQzFmRHdTVFJNaElIRF",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVNlVEx0LWhZV254UldXVEpCV0hYQzhoSW1WVk9tb1ctT0RiaDktbFc1cnl6RUxaVEMxcDkzVlotaDQ2bDBHWXlDcWJTSG91TThYemdpNWZIdHc2ald1S0hLN0M2aFNDcHBpZlBNaTV0UWFxVXN6SEZub3M1Z3VzQnJ2cGE5T1VETmFrX0lzVm15Q3ZYUzZiQzNBZkhyQzFmRHdTVFJNaElIRFFkUmE3Q1ZsUGRiNmx1dzZoYjhJdjBDUkJZWjVN?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-10-21T11:39:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 21 Oct 2026 09:09:33 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "3fa762050c9f",
+      "title": "It’s Official: Americans Are Running Out Of Money",
+      "summary": "Download the FREE Upside App here https://yt.link/8xSk8ez and use code Graham25 to get an extra 25 cents back per gallon on your first tank of gas! Thank you Upside for sponsoring this video! Let's talk about why Americans are running out of money, the dangers to the economy, and",
+      "url": "https://www.youtube.com/watch?v=QME9W1RdkGU",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-10-21T11:42:14+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "QME9W1RdkGU",
+          "published": "2026-10-07T20:00:07+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "2ce6e2417fc0",
+      "title": "What Percentage of Americans Own Stock? - Gallup News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9lclFieTgxdndhbkMtbDhDMVVpMmJCSzFvMGNCcDZFd3dBMTFxUk5nWERBd180ZUlFZi1PM2xxS2dNRl8tX25xcm5HMFlKbmFiVEhXNFczWHNGSmhJTHJHZHBkSXQ4UEJ6bXZxTlVrLXY1RkJST0RJOTNzY3I?oc=5\" target=\"_blank\">What Percentage of Americans Own Stock?<",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lclFieTgxdndhbkMtbDhDMVVpMmJCSzFvMGNCcDZFd3dBMTFxUk5nWERBd180ZUlFZi1PM2xxS2dNRl8tX25xcm5HMFlKbmFiVEhXNFczWHNGSmhJTHJHZHBkSXQ4UEJ6bXZxTlVrLXY1RkJST0RJOTNzY3I?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-10-21T11:39:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 05 May 2025 07:00:00 GMT",
+          "source": "Gallup News"
+        }
+      ]
+    },
+    {
+      "id": "35efd162a2b9",
+      "title": "7 Great Investing Books for Beginners - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGJBN3hnUUtTbmJMdU9OWGxvSDV1S3JRZk8zNVlUUHAwQlZnT3cyT2ZCSjQ4MzFvWlY5VlB2NVRGelRzRy1NN3QydDRkRGNtVjI1S1B0YlB3dlg5anRtQWtHLXd3bVJtWVJHZEhnR0pqQmdTOFdMU01GRGtHa3RnbW5aLVk?oc=5\" target=\"_blank\">7 Great Investing Books for ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGJBN3hnUUtTbmJMdU9OWGxvSDV1S3JRZk8zNVlUUHAwQlZnT3cyT2ZCSjQ4MzFvWlY5VlB2NVRGelRzRy1NN3QydDRkRGNtVjI1S1B0YlB3dlg5anRtQWtHLXd3bVJtWVJHZEhnR0pqQmdTOFdMU01GRGtHa3RnbW5aLVk?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-10-21T11:39:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 24 May 2023 04:43:47 GMT",
+          "source": "Morningstar"
+        }
+      ]
+    },
+    {
+      "id": "81183245c23e",
+      "title": "Why the stock market is hitting records despite Iran war - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5Za21tWDVYQk5wUjUyTmhZbWk4RlFVTm9DcWplOHNzeXRNWEZHaHM0X085bTBXMFVRMk14d1YxbVVIUEtRaWpob2V0VW1BNko5cWVHRGJVLUh0SUtyNnp2dHdSdUpsUUU2Mjk0QUlNZW9RSDjSAXhBVV95cUxNcVVoNmxMT2xfQTVHV2hlRlZvb081NXAwdnFNblV6X2V1X3NmT3RSWFl0dVpDUX",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Za21tWDVYQk5wUjUyTmhZbWk4RlFVTm9DcWplOHNzeXRNWEZHaHM0X085bTBXMFVRMk14d1YxbVVIUEtRaWpob2V0VW1BNko5cWVHRGJVLUh0SUtyNnp2dHdSdUpsUUU2Mjk0QUlNZW9RSDjSAXhBVV95cUxNcVVoNmxMT2xfQTVHV2hlRlZvb081NXAwdnFNblV6X2V1X3NmT3RSWFl0dVpDUXJBRnctVEt4d2ZoVlJaN1lZTmlkMWNIRFpGNFVURWNqM0loOEFtd2ZsWGE3ZFg2RW9jX1lEbktoQUlIcUFRdjZUYkc?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-10-21T11:39:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "id": "df6e3846d9a4",
+      "title": "Prediction: Oct. 21 Will Be a Huge Day for the Stock Market - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZMZWhDUFVqNVhzWFhNZWRUSU1fYjhfV3M1NnlWakttRzhIUEttX0ttcFRnaVktSWhuOWNFc2JHcmo0Rmt2ZjhUSE9wWDhZRkZwT2RDemhBbEZlU3AwZGw1ZHNhckNzRmhncmNpZF95SzZES21qcnpNUHpueDF0Sk84WkNON3dpa1JwWE5RMWhNNW1yUjJuel9NSHpleVgybmc?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZMZWhDUFVqNVhzWFhNZWRUSU1fYjhfV3M1NnlWakttRzhIUEttX0ttcFRnaVktSWhuOWNFc2JHcmo0Rmt2ZjhUSE9wWDhZRkZwT2RDemhBbEZlU3AwZGw1ZHNhckNzRmhncmNpZF95SzZES21qcnpNUHpueDF0Sk84WkNON3dpa1JwWE5RMWhNNW1yUjJuel9NSHpleVgybmc?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,50 +370,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 20 Oct 2026 22:18:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "de969ead4cc7",
-      "title": "Warren Buffett Is Issuing a Stark Warning About the Stock Market. Here's What History Says Comes Next. - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29QU1BXR3FwNTNHREV4SVYwYnFFOG9US2pNY0VRZVNWRGlOc2lMSkt0S1dET0N4LUhSam5ickdOWmtPX0V0el9FNmJ5ZUUwdURiWHk3eGkxdTdBRS1MYkQ2c2Y1UWtpb1NlbGdyaU8wQnh1WHRyUlRfbFlJUkQ4Wjg4MlJTRDEzdmxEcEx4Ym5CZ0xNd1d5Tw?oc=5\" target=\"_blank\">W",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29QU1BXR3FwNTNHREV4SVYwYnFFOG9US2pNY0VRZVNWRGlOc2lMSkt0S1dET0N4LUhSam5ickdOWmtPX0V0el9FNmJ5ZUUwdURiWHk3eGkxdTdBRS1MYkQ2c2Y1UWtpb1NlbGdyaU8wQnh1WHRyUlRfbFlJUkQ4Wjg4MlJTRDEzdmxEcEx4Ym5CZ0xNd1d5Tw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 09:00:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "f38f2ed38be6",
-      "title": "If I Could Only Buy 1 Quantum Computing Stock With $1,000, It Would Be This One. - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGlKY21xSGs5c2YxYm90VTA2MlBZa2E4WXBiRWZnS3U5YmxmTEg4LXI3eXlkRi1lT1QwazFpQjBMYl9ycDBPOHRGd3I1UWx2b1RvTHEwdTluVjNiY25xTmgwMUhWQ0FpUjB4X1lMNlJ0ajU0SXFtRkwtSHhYN3YwTWVjTl9CZFFMZk01eklxd2pJTHZQYS1XTA?oc=5\" target=\"_blank\">I",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGlKY21xSGs5c2YxYm90VTA2MlBZa2E4WXBiRWZnS3U5YmxmTEg4LXI3eXlkRi1lT1QwazFpQjBMYl9ycDBPOHRGd3I1UWx2b1RvTHEwdTluVjNiY25xTmgwMUhWQ0FpUjB4X1lMNlJ0ajU0SXFtRkwtSHhYN3YwTWVjTl9CZFFMZk01eklxd2pJTHZQYS1XTA?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 05:00:00 GMT",
+          "published": "Tue, 20 Oct 2026 08:55:00 GMT",
           "source": "The Motley Fool"
         }
       ]
@@ -331,14 +383,14 @@
       "title": "Worried About the Stock Market? This Consumer Staples ETF Could Be Ideal for Risk-Averse Investors - Yahoo! Finance Canada",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEVUWl9KVEl2QlNGdEpoTzh0MGQ0RzMwQmdvakxRUHRoaW9fZFNBZFpUQnVyZl82cUtuVGhQRExtc2o4M2o2aGZIbUNPaGlOTmlzVmk4NjNlSnRnNFk5cEJJcmh3YkQ5QzhDYzhmV2lidmxGRFJKdHVKMUhnMGZqbUU0VUZsQnM3WUxKcUpCMA?oc=5\" target=\"_blank\">Worried About",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEVUWl9KVEl2QlNGdEpoTzh0MGQ0RzMwQmdvakxRUHRoaW9fZFNBZFpUQnVyZl82cUtuVGhQRExtc2o4M2o2aGZIbUNPaGlOTmlzVmk4NjNlSnRnNFk5cEJJcmh3YkQ5QzhDYzhmV2lidmxGRFJKdHVKMUhnMGZqbUU0VUZsQnM3WUxKcUpCMA?oc=5",
-      "score": 32.4,
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
           "published": "Fri, 19 Jun 2026 07:00:00 GMT",
@@ -347,10 +399,50 @@
       ]
     },
     {
-      "id": "909e9d90cb1b",
-      "title": "10 of the Best Stocks to Buy for 2026 | Investing - U.S. News - Money",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBiUVVNSUtBQ3Z5SGZsQTh6eDJxQVozX0xmVHc3ZU1WakxjWFhRbnJWRkhlSG1WaTdfQXhuVXNOR2tYT2tzc1Y5MDhoUWN6WXdZU1JJc19DcUpwVHlxaEZTb0FwbW9YVHlQM1RHNU5YSkxqSWt4dUlhZzhkcmc?oc=5\" target=\"_blank\">10 of the Best Stocks to Buy for 2026 | ",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiUVVNSUtBQ3Z5SGZsQTh6eDJxQVozX0xmVHc3ZU1WakxjWFhRbnJWRkhlSG1WaTdfQXhuVXNOR2tYT2tzc1Y5MDhoUWN6WXdZU1JJc19DcUpwVHlxaEZTb0FwbW9YVHlQM1RHNU5YSkxqSWt4dUlhZzhkcmc?oc=5",
+      "id": "3b7c24bd2319",
+      "title": "The Impact of War on the Stock Markets—What Investors Need To Know - Investopedia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQejFhMWZnakUtbjl4dWsyck92R1BVU21RMDF5c05lbEoxcjFDSXAzcUUwZkhtNG5veFJxall5S0F0dVo0eVlrTW91OXNFV1h3eldkdTgtT2NGS1RZeXBObXJzU3FBeWdDWEp5SWJRcmtMeFdKSGljUkNqTkpHbExGYTF5Um91cmpKS1FJNm05S2JNTWRCbWhDenFZYVNpQWN6bmV2YzhRMA?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQejFhMWZnakUtbjl4dWsyck92R1BVU21RMDF5c05lbEoxcjFDSXAzcUUwZkhtNG5veFJxall5S0F0dVo0eVlrTW91OXNFV1h3eldkdTgtT2NGS1RZeXBObXJzU3FBeWdDWEp5SWJRcmtMeFdKSGljUkNqTkpHbExGYTF5Um91cmpKS1FJNm05S2JNTWRCbWhDenFZYVNpQWN6bmV2YzhRMA?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-10-21T11:39:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+          "source": "Investopedia"
+        }
+      ]
+    },
+    {
+      "id": "9584b1d8469b",
+      "title": "How do changing interest rates affect the stock market in 2026 - U.S. Bank",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUH",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-10-21T11:39:55+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+          "source": "U.S. Bank"
+        }
+      ]
+    },
+    {
+      "id": "c067bb0cbda7",
+      "title": "Seven ways to prepare for the next stock-market crash, which could be nasty - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTk5qeVFoYTkzTzVHSXE2WjBURXBWQWRFcXJEWUdKckJvdnZxS3NBWDJLSm5RNkVQd0RxZGM0cklQb25KRWRZUzZ5elRFM1dUWEZvbk4weUZ5c25BX0RUZ0xGUzQ4UU8wbUE1bl9La1E5N0h5ZXBQUVpIZFB5QkhaV1RkSWNpd2tVa1MyT0trSjVwb1NwejJmdlR0V3NyVVFU?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTk5qeVFoYTkzTzVHSXE2WjBURXBWQWRFcXJEWUdKckJvdnZxS3NBWDJLSm5RNkVQd0RxZGM0cklQb25KRWRZUzZ5elRFM1dUWEZvbk4weUZ5c25BX0RUZ0xGUzQ4UU8wbUE1bl9La1E5N0h5ZXBQUVpIZFB5QkhaV1RkSWNpd2tVa1MyT0trSjVwb1NwejJmdlR0V3NyVVFU?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +450,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "source": "U.S. News - Money"
+          "published": "Tue, 14 Oct 2025 07:00:00 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
-      "id": "ba415f581262",
-      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+      "id": "1edd3f5b7f98",
+      "title": "Best commission-free stock trading and investing apps of 2026 - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5FOVlrc0Fjc3BCZE9BV29KUUQxcW1jVlB0OWJkMVZiM0d2RUtzT2pycHc3a3lLdERacXIwTW9oU19YMjdva2lZVmtRZm8tbGw1dUFCUjZlWXVYbnpGOXExUjl6YTk5OHFiRzRPNGRBb9IBdEFVX3lxTE1KLV9SdHMwRHdSUDlnVGMyMWN5Rm1GQXFvd1JXUHpxWk8tWC1lSXRIc2poQm5lbFFlWU",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FOVlrc0Fjc3BCZE9BV29KUUQxcW1jVlB0OWJkMVZiM0d2RUtzT2pycHc3a3lLdERacXIwTW9oU19YMjdva2lZVmtRZm8tbGw1dUFCUjZlWXVYbnpGOXExUjl6YTk5OHFiRzRPNGRBb9IBdEFVX3lxTE1KLV9SdHMwRHdSUDlnVGMyMWN5Rm1GQXFvd1JXUHpxWk8tWC1lSXRIc2poQm5lbFFlWUFvNW1hTDJTNVdlaUttLUkzanRrLVhDSUhVckFBeGtJOW1TYzVsenVYOFA2YnN0cVlOUmFJakQ5Snhp?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +470,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-          "source": "U.S. Bank"
+          "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
-      "id": "81183245c23e",
-      "title": "Why the stock market is hitting records despite Iran war - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5Za21tWDVYQk5wUjUyTmhZbWk4RlFVTm9DcWplOHNzeXRNWEZHaHM0X085bTBXMFVRMk14d1YxbVVIUEtRaWpob2V0VW1BNko5cWVHRGJVLUh0SUtyNnp2dHdSdUpsUUU2Mjk0QUlNZW9RSDjSAXhBVV95cUxNcVVoNmxMT2xfQTVHV2hlRlZvb081NXAwdnFNblV6X2V1X3NmT3RSWFl0dVpDUX",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Za21tWDVYQk5wUjUyTmhZbWk4RlFVTm9DcWplOHNzeXRNWEZHaHM0X085bTBXMFVRMk14d1YxbVVIUEtRaWpob2V0VW1BNko5cWVHRGJVLUh0SUtyNnp2dHdSdUpsUUU2Mjk0QUlNZW9RSDjSAXhBVV95cUxNcVVoNmxMT2xfQTVHV2hlRlZvb081NXAwdnFNblV6X2V1X3NmT3RSWFl0dVpDUXJBRnctVEt4d2ZoVlJaN1lZTmlkMWNIRFpGNFVURWNqM0loOEFtd2ZsWGE3ZFg2RW9jX1lEbktoQUlIcUFRdjZUYkc?oc=5",
+      "id": "693318595c99",
+      "title": "Is the Canadian Stock Market Open Today? - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzNvT0hVd1RHdnVoX2IyVTFvSmktOFluSU1SMldwN1lVSnlkWE9ucmhnT3lTVEs0WmFkeUFHWlJLR1VqV2xQbUVMZF90RFlrbFg0RjB5ZEVNaFhkX3BlenFJcWFHWHVkdjh6ejF4eWtMOVJxWDJaLVJoN3JxWFlOcl9sNWhnQXk0TzBEZWtWMldTcWt1RmFoUw?oc=5\" target=\"_blank\">I",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzNvT0hVd1RHdnVoX2IyVTFvSmktOFluSU1SMldwN1lVSnlkWE9ucmhnT3lTVEs0WmFkeUFHWlJLR1VqV2xQbUVMZF90RFlrbFg0RjB5ZEVNaFhkX3BlenFJcWFHWHVkdjh6ejF4eWtMOVJxWDJaLVJoN3JxWFlOcl9sNWhnQXk0TzBEZWtWMldTcWt1RmFoUw?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +490,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-10-21T04:33:52+00:00",
+      "first_seen": "2026-10-21T11:39:55+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 16 Apr 2026 07:00:00 GMT",
-          "source": "CNBC"
+          "published": "Sat, 28 Jun 2025 05:46:22 GMT",
+          "source": "Morningstar"
         }
       ]
     }
