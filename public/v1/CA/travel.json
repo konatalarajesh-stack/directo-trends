@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "CA",
-  "generated_at": "2026-10-25T04:40:55+00:00",
+  "generated_at": "2026-10-25T11:24:40+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "808dc333e818",
-      "title": "One Canadian town made Expedia’s list of top destinations for 2027. Here’s what else is trending - Yahoo News Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHg5QzZRcG14OVVXQlI0X0NwMlB1X3hPNVBsZjQxWkVwNHJHbG9DU1ljLTdEVXpjWS1iVTRyUEV3d0F0cGNCdlRBVzhselVxZnRub3RtY2poa1RyTzFvVFBTNlJwcVBtRmgwS3hvT2p2bUkzQXlRcDNRSVY1SE5WQWxqV1FkNHdSaHd3alVMdTc3c2F3LXIyajh4YVVXV3ZQNE5aYlJwOUVfT0",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHg5QzZRcG14OVVXQlI0X0NwMlB1X3hPNVBsZjQxWkVwNHJHbG9DU1ljLTdEVXpjWS1iVTRyUEV3d0F0cGNCdlRBVzhselVxZnRub3RtY2poa1RyTzFvVFBTNlJwcVBtRmgwS3hvT2p2bUkzQXlRcDNRSVY1SE5WQWxqV1FkNHdSaHd3alVMdTc3c2F3LXIyajh4YVVXV3ZQNE5aYlJwOUVfT013TFJsNFNwbGl1b1RySzQ5Yk8taE1icjFleW9QQkhMaHpUMXM?oc=5",
+      "id": "8623c4766909",
+      "title": "Saskatchewan Finalists Announced for 2026 Canadian Tourism Awards - Government of Saskatchewan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXNEcEpMazlTV2VGbWtERXJKM1VHdjhud3ZIUlBETmxyNGRTVEk1QjdCekMtRTdUV0d0a2Z0SU1WR2g5RGNOMlJFQ3NVcVpONTdXV2I1VEo0azM0cjIzaU8wc0w5amY0VkcxazAxM2tYaTI2QzQ5N1JmWGFFb2U3c0Zuc1BEVzd4VzNMRXJRX0pXYV9IcWV3anV6bFctdlR6dENzMnJPVDlkWk",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXNEcEpMazlTV2VGbWtERXJKM1VHdjhud3ZIUlBETmxyNGRTVEk1QjdCekMtRTdUV0d0a2Z0SU1WR2g5RGNOMlJFQ3NVcVpONTdXV2I1VEo0azM0cjIzaU8wc0w5amY0VkcxazAxM2tYaTI2QzQ5N1JmWGFFb2U3c0Zuc1BEVzd4VzNMRXJRX0pXYV9IcWV3anV6bFctdlR6dENzMnJPVDlkWkNuWFpDS0dGSDVMdmZPTGtrQ2JYWUNjLUkzUkV2aWExOGV4aTlK?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 22 Oct 2026 16:34:41 GMT",
+          "source": "Government of Saskatchewan"
+        }
+      ]
+    },
+    {
+      "id": "808dc333e818",
+      "title": "One Canadian town made Expedia’s list of top destinations for 2027. Here’s what else is trending - Yahoo News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHg5QzZRcG14OVVXQlI0X0NwMlB1X3hPNVBsZjQxWkVwNHJHbG9DU1ljLTdEVXpjWS1iVTRyUEV3d0F0cGNCdlRBVzhselVxZnRub3RtY2poa1RyTzFvVFBTNlJwcVBtRmgwS3hvT2p2bUkzQXlRcDNRSVY1SE5WQWxqV1FkNHdSaHd3alVMdTc3c2F3LXIyajh4YVVXV3ZQNE5aYlJwOUVfT0",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHg5QzZRcG14OVVXQlI0X0NwMlB1X3hPNVBsZjQxWkVwNHJHbG9DU1ljLTdEVXpjWS1iVTRyUEV3d0F0cGNCdlRBVzhselVxZnRub3RtY2poa1RyTzFvVFBTNlJwcVBtRmgwS3hvT2p2bUkzQXlRcDNRSVY1SE5WQWxqV1FkNHdSaHd3alVMdTc3c2F3LXIyajh4YVVXV3ZQNE5aYlJwOUVfT013TFJsNFNwbGl1b1RySzQ5Yk8taE1icjFleW9QQkhMaHpUMXM?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
           "published": "Sat, 24 Oct 2026 12:00:00 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "2674e903ce3e",
-      "title": "Detroit tourism bureau halts advertising in Canada amid trade war, hopes Canadians won't 'hold grudge' - CBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHpIekR6eUpSN1duNUFQdERoM2dWUzNZU2o5X1cwcTJXNjJlQ2dQajhNbV96cmxfczBSWlFmSXMwbDR3SU41Sk5Ma2tReUh2STdoejQ3UW13dklkbjVoLWZZNlZHSzJubnVNRVh2UnFXWXNEdTd3aVBiSGYzN3VoLW5NWlpCV2Ff?oc=5\" target=\"_blank\">Detroit tourism bureau ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHpIekR6eUpSN1duNUFQdERoM2dWUzNZU2o5X1cwcTJXNjJlQ2dQajhNbV96cmxfczBSWlFmSXMwbDR3SU41Sk5Ma2tReUh2STdoejQ3UW13dklkbjVoLWZZNlZHSzJubnVNRVh2UnFXWXNEdTd3aVBiSGYzN3VoLW5NWlpCV2Ff?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 22 Oct 2026 20:12:36 GMT",
-          "source": "CBC"
-        }
-      ]
-    },
-    {
-      "id": "8d4dcdfe237a",
-      "title": "Travel insurance claims may not be covered for Canadians travelling to Saudi Arabia: travel expert - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWoySVJQaHRONk80RzYzeXRYM3VlNnB4QUhUamJwZDNaWFZEU2xPR3o1UGJiRUVUc3E2aXRjUDhOVklxY21tRGpTVnhnU3ZEUXg2VHlORi02T09UQlVkM1V5ZDNTWXk0ek1wNk1GYzBpNWI3bXI4elpvb1BaRjkzVUQzLVJjdWVwREJDLW5HS2hua210RU4xUEFmWDdpYko0aGxfLTNJWTk1cG",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWoySVJQaHRONk80RzYzeXRYM3VlNnB4QUhUamJwZDNaWFZEU2xPR3o1UGJiRUVUc3E2aXRjUDhOVklxY21tRGpTVnhnU3ZEUXg2VHlORi02T09UQlVkM1V5ZDNTWXk0ek1wNk1GYzBpNWI3bXI4elpvb1BaRjkzVUQzLVJjdWVwREJDLW5HS2hua210RU4xUEFmWDdpYko0aGxfLTNJWTk1cGNqS29NU1d0NmhXWW9lLUVXcTU3cVpYSzVOYXc5aUQxU2poWmN5REdiYw?oc=5",
+      "id": "b521d97f71b6",
+      "title": "Canada updates travel advisory for Saudi Arabia amid ongoing attacks - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTNtVWZUSENUbHAtYTZoVGxLX0ZxeWRUMnNsNnYwSVRFSGlYaFlHVjdHYjhBNDNqWFFnRGdVVW51Nk1PZ3ZSTUwtTGtEVE9GVC1Fd18ybTJPSmlndVd3SW5xenVOS19YdHpUd1ZsMDk5dExPdWZEYnB4LW9jeE0wV3J4WG1ScDhlWmJPNU5kOG1feExtWHhDZXlvM3pPMVNoRl90YXI5a2VORE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTNtVWZUSENUbHAtYTZoVGxLX0ZxeWRUMnNsNnYwSVRFSGlYaFlHVjdHYjhBNDNqWFFnRGdVVW51Nk1PZ3ZSTUwtTGtEVE9GVC1Fd18ybTJPSmlndVd3SW5xenVOS19YdHpUd1ZsMDk5dExPdWZEYnB4LW9jeE0wV3J4WG1ScDhlWmJPNU5kOG1feExtWHhDZXlvM3pPMVNoRl90YXI5a2VOREk?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,10 +58,10 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 24 Oct 2026 20:57:07 GMT",
+          "published": "Fri, 23 Oct 2026 02:04:00 GMT",
           "source": "CTV News"
         }
       ]
@@ -78,7 +78,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
           "published": "Fri, 23 Oct 2026 20:49:50 GMT",
@@ -87,10 +87,10 @@
       ]
     },
     {
-      "id": "51ea2223f2a8",
-      "title": "This was a cost-saving way to travel the world. Then Covid changed everything - CNN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRU9HSlhQdW16RXU1Y2ZsMlJxZDhzd1NsRnl3dDhqZlplLU1HLURTRlBnZ3NHV0RSSGxiWWExUGNGVTBHNFczZzJaRUUtMjdpWldQQ0lVQklldDJaNUNJRkxXWkZaT2t5dzRhajV6a2Jad195WEtF?oc=5\" target=\"_blank\">This was a cost-saving way to travel the world.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRU9HSlhQdW16RXU1Y2ZsMlJxZDhzd1NsRnl3dDhqZlplLU1HLURTRlBnZ3NHV0RSSGxiWWExUGNGVTBHNFczZzJaRUUtMjdpWldQQ0lVQklldDJaNUNJRkxXWkZaT2t5dzRhajV6a2Jad195WEtF?oc=5",
+      "id": "2e1cb0f98bdd",
+      "title": "What’s happening in Ottawa - Ottawa Tourism",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5\" target=\"_blank\">What’s happening in Ottawa</a>&nbsp;&nbsp;<font",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,27 +98,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 24 Oct 2026 06:00:16 GMT",
-          "source": "CNN"
-        }
-      ]
-    },
-    {
-      "id": "2e1cb0f98bdd",
-      "title": "What’s happening in Ottawa - Ottawa Tourism",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5\" target=\"_blank\">What’s happening in Ottawa</a>&nbsp;&nbsp;<font",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUE1GVHN0NXYxcFNTb2hxMlRUR3pqNmJrX0lsMmZ4ckU2OE9VZGRMVlZqRU10cThoZVpxYzZSM0hZaGZNNEdFdDFNa1pZWHJZa2dSQk9JaktBZXVfVVN5TmtXT1F5YzVNSmlIRWtnaUp3NFlBQWVF?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
           "published": "Thu, 22 Oct 2026 12:00:00 GMT",
@@ -127,58 +107,18 @@
       ]
     },
     {
-      "id": "f38633f28347",
-      "title": "18FT Travel Trailer Works Some Serious Magic to Fit Everything Onboard - autoevolution",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlhfT2MtQmNsX0t3dFZoc2pBWlM2azdQanFsS0EyU1BBWlV1MzdHWkRRM3ZxQzBJaGdXb1c1R1NUamtnZjYxN3M5Q3lYNHFSX2VGbVM5dnhSV05kQ3l3Y2hZUFVxQkt0c3lOR3RnNl9PV2lIZFZmVmJMOXZCb0FPd2JEVzMzbkNJTkhYWWlWUkhON1kxMG9mVUNKZ2tDQkNhTFh4ZXNwWGdHN3",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlhfT2MtQmNsX0t3dFZoc2pBWlM2azdQanFsS0EyU1BBWlV1MzdHWkRRM3ZxQzBJaGdXb1c1R1NUamtnZjYxN3M5Q3lYNHFSX2VGbVM5dnhSV05kQ3l3Y2hZUFVxQkt0c3lOR3RnNl9PV2lIZFZmVmJMOXZCb0FPd2JEVzMzbkNJTkhYWWlWUkhON1kxMG9mVUNKZ2tDQkNhTFh4ZXNwWGdHN3NEeUtuc1MxcXU3d09C?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 24 Oct 2026 20:22:17 GMT",
-          "source": "autoevolution"
-        }
-      ]
-    },
-    {
-      "id": "e9a3119283ba",
-      "title": "Form 13D/A Global Business Travel Group For: 24 October By Investing.com - Investing.com Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnF1NzFPZUJxaU9sNDVoYmtjZURmMkgxOXJuLUVYV0FQN1Q4V0ktT3Nsa3JvUE1ua1BTVmdqNDhJZU9PT0ZYQVJXaHhaVkd6TU1TZE40NmFFbEp6NUdTc3RIZzRLZ0MtOEg3X2tmcmtzTk5wX0ZrcDU2ZGVwZGxMMjF5eFlpZ0lWdkl6aDRtYl85Y3J5UXM5TXdjcS1wQk1uQ2pvbnZKdGtwMm",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnF1NzFPZUJxaU9sNDVoYmtjZURmMkgxOXJuLUVYV0FQN1Q4V0ktT3Nsa3JvUE1ua1BTVmdqNDhJZU9PT0ZYQVJXaHhaVkd6TU1TZE40NmFFbEp6NUdTc3RIZzRLZ0MtOEg3X2tmcmtzTk5wX0ZrcDU2ZGVwZGxMMjF5eFlpZ0lWdkl6aDRtYl85Y3J5UXM5TXdjcS1wQk1uQ2pvbnZKdGtwMmw0UkxsZnlnUzk?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 25 Oct 2026 00:51:44 GMT",
-          "source": "Investing.com Canada"
-        }
-      ]
-    },
-    {
       "id": "846174fcdac9",
       "title": "Strengthening Indigenous economic development and tourism in Prince Edward Island - Canada.ca",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaTdUMHFCWW9BMUZ3RF8yd2xXYi1ORzZKVk5VTzkybWlodEpDT0lDUEYyY0JYM1dxUG9MM05QczhvVmh6MmVzZm54a1hQVHpaTEVOUGs5M0lfcUxwblJTSldlQktNWWs1VDY4c2hOcXN5Z1h6dnpydkVyYV8yR3llMWRSOWJxVndtTHFCLXpSdl94ZXZnaFlYY1lkU3FGTWQxMEd5RHoxQ09GMF",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaTdUMHFCWW9BMUZ3RF8yd2xXYi1ORzZKVk5VTzkybWlodEpDT0lDUEYyY0JYM1dxUG9MM05QczhvVmh6MmVzZm54a1hQVHpaTEVOUGs5M0lfcUxwblJTSldlQktNWWs1VDY4c2hOcXN5Z1h6dnpydkVyYV8yR3llMWRSOWJxVndtTHFCLXpSdl94ZXZnaFlYY1lkU3FGTWQxMEd5RHoxQ09GMFl1bllabllRTnBraC1vM1BlaDZ6Z29ybV9HdTNaWExDeUxwaVlvNUJhTktrMHA4bm1nUUpQTjY2YmVtY1NpM3c?oc=5",
-      "score": 61.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
           "published": "Thu, 22 Oct 2026 16:11:55 GMT",
@@ -187,10 +127,70 @@
       ]
     },
     {
-      "id": "c440fcc8d387",
-      "title": "Best of the World 2027 - National Geographic",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE15OUkwMUc3azh4T0MySE5pQXA2ZE93b3plNHBTNXlDQnFDQnA1TXl1VklaTWZPbXZucl9uMGkwLXlHMV9PaXJxMEJmYUhMOXlWQXVJQVZXRjFwN3ZpUXlEc1hEdmh3czJtNzhWbS1XcXlfMFpqRzJqaEpjbG4?oc=5\" target=\"_blank\">Best of the World 2027</a>&nbsp;&nbsp;<f",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15OUkwMUc3azh4T0MySE5pQXA2ZE93b3plNHBTNXlDQnFDQnA1TXl1VklaTWZPbXZucl9uMGkwLXlHMV9PaXJxMEJmYUhMOXlWQXVJQVZXRjFwN3ZpUXlEc1hEdmh3czJtNzhWbS1XcXlfMFpqRzJqaEpjbG4?oc=5",
+      "id": "5e53aa62890b",
+      "title": "Form 4 Global Business Travel Group: Michael Gregory OHara (Director) For: 29 September - Investing.com Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNjBXNy1lak96Ujl5OTZRUzd2REF5ei1saTZNbXJMUmZkQ3pybkRkaHBGa0ZqTnVFTnBtX3A2Z0dDUnpqYnFGYkhpTXUwVnUzY2tpU01WTWRmX1VRRjNQTEhtVmNwSWRyaEpaampKM3ZNdGp3Y1c4bDVqaFlOa2Rla2hxSXduUnIxVUtLVV8ta2IzREotT1A5SnZSVEQtam16cFh2T2dfdmZSMk",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNjBXNy1lak96Ujl5OTZRUzd2REF5ei1saTZNbXJMUmZkQ3pybkRkaHBGa0ZqTnVFTnBtX3A2Z0dDUnpqYnFGYkhpTXUwVnUzY2tpU01WTWRmX1VRRjNQTEhtVmNwSWRyaEpaampKM3ZNdGp3Y1c4bDVqaFlOa2Rla2hxSXduUnIxVUtLVV8ta2IzREotT1A5SnZSVEQtam16cFh2T2dfdmZSMkdpcnlzTUkwSTZfZ1QwZW4wd2l6NW1sTWNaa3F1bkF3SVJDYzJNbGpxbnlDb3dCZWRU?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-25T11:15:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 25 Oct 2026 11:06:44 GMT",
+          "source": "Investing.com Canada"
+        }
+      ]
+    },
+    {
+      "id": "51ea2223f2a8",
+      "title": "This was a cost-saving way to travel the world. Then Covid changed everything - CNN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRU9HSlhQdW16RXU1Y2ZsMlJxZDhzd1NsRnl3dDhqZlplLU1HLURTRlBnZ3NHV0RSSGxiWWExUGNGVTBHNFczZzJaRUUtMjdpWldQQ0lVQklldDJaNUNJRkxXWkZaT2t5dzRhajV6a2Jad195WEtF?oc=5\" target=\"_blank\">This was a cost-saving way to travel the world.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRU9HSlhQdW16RXU1Y2ZsMlJxZDhzd1NsRnl3dDhqZlplLU1HLURTRlBnZ3NHV0RSSGxiWWExUGNGVTBHNFczZzJaRUUtMjdpWldQQ0lVQklldDJaNUNJRkxXWkZaT2t5dzRhajV6a2Jad195WEtF?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-25T11:15:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 24 Oct 2026 06:00:16 GMT",
+          "source": "CNN"
+        }
+      ]
+    },
+    {
+      "id": "690fcfcff9ac",
+      "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus - Al Jazeera",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVJhS2FEZ2NJd040UWJBeTA1N2ZfRmlxLW02RG5GNEtvOU9IVGZYTzMzclpNMGhtTXlKS2NHcHR0SjU3bzdmaW9waEJybFNTQXQ4RFl1ejU5WGZFdGl0WG9rWHQzNmRJU05MUFVELWZ0MXlOai10SmQycElYQW5Ob0Y0ZnloRi1HU3BxR3JhWUc4bVhvUVY2Q19IM1U5cC1ITkQwczhXdzhSU3",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVJhS2FEZ2NJd040UWJBeTA1N2ZfRmlxLW02RG5GNEtvOU9IVGZYTzMzclpNMGhtTXlKS2NHcHR0SjU3bzdmaW9waEJybFNTQXQ4RFl1ejU5WGZFdGl0WG9rWHQzNmRJU05MUFVELWZ0MXlOai10SmQycElYQW5Ob0Y0ZnloRi1HU3BxR3JhWUc4bVhvUVY2Q19IM1U5cC1ITkQwczhXdzhSU3JxTUtuWlZvaTAzdWPSAbwBQVVfeXFMTjFYRnNvTkF6dVY3TENtX0tpdmZyRHBOWjMzNlpvUTdFRE1KN1hCMFh2T1M5SS1XUzczaHB5SWEyOEl6UkptVnZaYUpsYVJSZjc0LUJLc3Vodmcta25mVFViY1RlMlVseWxhRzg5NDJRXzhxMW41elVQN0tYYnp6LUxWSlVnMjRJNFhuLTJ4Z3F2aS1jdzBaTU1jTTBtYm5Jd1MzNDNQaVBIQTM4ZTBVdjBvQkVpZEwyWEJ4MkU?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-25T11:15:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 25 Oct 2026 05:40:46 GMT",
+          "source": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "id": "41f481bc3904",
+      "title": "Shorter breaks and experience-led trips set to reshape travel in 2027 - ITIJ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUF4ZWJQR3NKZTQtTE13bTFEc01wc2ZQSDVtQU1pYzlNQ3VNdFFHaEpJQ3RfejJWWnJIbmRTbnBUQ0FYbmhzbzhMYXZlakxuajBERTM1VGpGV1VOMzk3b0Q3NlNwTVFndUctTVhGSV9ZM3ZHUU14Zy1lckZUa2lkS0gtQmpKTWZrQzdCUkRIZTlubC1LTjBoeGJ0SHI?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUF4ZWJQR3NKZTQtTE13bTFEc01wc2ZQSDVtQU1pYzlNQ3VNdFFHaEpJQ3RfejJWWnJIbmRTbnBUQ0FYbmhzbzhMYXZlakxuajBERTM1VGpGV1VOMzk3b0Q3NlNwTVFndUctTVhGSV9ZM3ZHUU14Zy1lckZUa2lkS0gtQmpKTWZrQzdCUkRIZTlubC1LTjBoeGJ0SHI?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,7 +198,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 25 Oct 2026 08:08:16 GMT",
+          "source": "ITIJ"
+        }
+      ]
+    },
+    {
+      "id": "f38633f28347",
+      "title": "18FT Travel Trailer Works Some Serious Magic to Fit Everything Onboard - autoevolution",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlhfT2MtQmNsX0t3dFZoc2pBWlM2azdQanFsS0EyU1BBWlV1MzdHWkRRM3ZxQzBJaGdXb1c1R1NUamtnZjYxN3M5Q3lYNHFSX2VGbVM5dnhSV05kQ3l3Y2hZUFVxQkt0c3lOR3RnNl9PV2lIZFZmVmJMOXZCb0FPd2JEVzMzbkNJTkhYWWlWUkhON1kxMG9mVUNKZ2tDQkNhTFh4ZXNwWGdHN3",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlhfT2MtQmNsX0t3dFZoc2pBWlM2azdQanFsS0EyU1BBWlV1MzdHWkRRM3ZxQzBJaGdXb1c1R1NUamtnZjYxN3M5Q3lYNHFSX2VGbVM5dnhSV05kQ3l3Y2hZUFVxQkt0c3lOR3RnNl9PV2lIZFZmVmJMOXZCb0FPd2JEVzMzbkNJTkhYWWlWUkhON1kxMG9mVUNKZ2tDQkNhTFh4ZXNwWGdHN3NEeUtuc1MxcXU3d09C?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-25T11:15:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 24 Oct 2026 20:22:17 GMT",
+          "source": "autoevolution"
+        }
+      ]
+    },
+    {
+      "id": "c440fcc8d387",
+      "title": "Best of the World 2027 - National Geographic",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE15OUkwMUc3azh4T0MySE5pQXA2ZE93b3plNHBTNXlDQnFDQnA1TXl1VklaTWZPbXZucl9uMGkwLXlHMV9PaXJxMEJmYUhMOXlWQXVJQVZXRjFwN3ZpUXlEc1hEdmh3czJtNzhWbS1XcXlfMFpqRzJqaEpjbG4?oc=5\" target=\"_blank\">Best of the World 2027</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15OUkwMUc3azh4T0MySE5pQXA2ZE93b3plNHBTNXlDQnFDQnA1TXl1VklaTWZPbXZucl9uMGkwLXlHMV9PaXJxMEJmYUhMOXlWQXVJQVZXRjFwN3ZpUXlEc1hEdmh3czJtNzhWbS1XcXlfMFpqRzJqaEpjbG4?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
           "published": "Tue, 20 Oct 2026 11:05:34 GMT",
@@ -211,14 +251,14 @@
       "title": "Air Canada cancels 5 more routes to U.S. destinations for 2027 - National - Global News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFoyQ0FOZjgzcU40dnBPRUE2RFhHWWRGdVd2UTV4RThYX3VNaG14RmkteFVOX2RZVjFzUU9Hd1R3bm9IQ0pybHJJS29LY200aUUxMF9zQmVfWWVmbXJTdnJpakhpR0dWVy1waTZSbWJqVV9LTjV4dS1rbms3TVZwRDBncldFN2JKQk1MNA?oc=5\" target=\"_blank\">Air Canada cancel",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFoyQ0FOZjgzcU40dnBPRUE2RFhHWWRGdVd2UTV4RThYX3VNaG14RmkteFVOX2RZVjFzUU9Hd1R3bm9IQ0pybHJJS29LY200aUUxMF9zQmVfWWVmbXJTdnJpakhpR0dWVy1waTZSbWJqVV9LTjV4dS1rbms3TVZwRDBncldFN2JKQk1MNA?oc=5",
-      "score": 54.0,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
           "published": "Thu, 22 Oct 2026 15:44:44 GMT",
@@ -231,46 +271,6 @@
       "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTENRVVZMYXBtSFZubUttRXU5a1MzaU1ZTExPeGZwdUFtRDBvb3lPcVRPc2pqVWhFcGtLOGY0ZmhzSnJpM0pocGt3eDd6QTZqa1lOVWc2TnMyUkEwVWVRN1JJNHpwaHdlY1dBQTAxdEo3ekMxN3ZLbldiQUJ2VzNTNFY4aVR1QU45S04yZGRIY0JmVWxVWnUtNlhIMjl1Wm9hZ3VId2wxdU1QRW",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTENRVVZMYXBtSFZubUttRXU5a1MzaU1ZTExPeGZwdUFtRDBvb3lPcVRPc2pqVWhFcGtLOGY0ZmhzSnJpM0pocGt3eDd6QTZqa1lOVWc2TnMyUkEwVWVRN1JJNHpwaHdlY1dBQTAxdEo3ekMxN3ZLbldiQUJ2VzNTNFY4aVR1QU45S04yZGRIY0JmVWxVWnUtNlhIMjl1Wm9hZ3VId2wxdU1QRWU5QWQzQlVMQzU?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 24 Oct 2026 23:01:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "id": "0b30a85c3fc3",
-      "title": "Gorgeous B.C. destinations top best resorts in Canada rankings - Daily Hive",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEZmczNTRnItbkNEMEplNC1xUGdvRjhzZF9saUQ2RHlPa2IybjdPa2ZaMGxlSy1acml4RWx3QnpXTTJpZlpZcERKQ2V2M1dYV2ZYSnN4SjFZaFlrTTZtaXlFbWhxR3Q3b09CUEZXbXFmZkN2X0RiMk81Y2IzNXM1NFdR?oc=5\" target=\"_blank\">Gorgeous B.C. destinations top ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEZmczNTRnItbkNEMEplNC1xUGdvRjhzZF9saUQ2RHlPa2IybjdPa2ZaMGxlSy1acml4RWx3QnpXTTJpZlpZcERKQ2V2M1dYV2ZYSnN4SjFZaFlrTTZtaXlFbWhxR3Q3b09CUEZXbXFmZkN2X0RiMk81Y2IzNXM1NFdR?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 24 Oct 2026 16:00:00 GMT",
-          "source": "Daily Hive"
-        }
-      ]
-    },
-    {
-      "id": "1a3393ec3090",
-      "title": "How the Swiss want to travel to the UK - Transport & Environment",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmJHOWNPREEwMGw1WnJDalNLdXhIS1U4WlYzMUp4VTNyN01HWGFWTWRIYWZBdUpxU21vMVc3NTkxVUh4bHl3b0JydFkzVjB4cVlVUlI1ak9UbWhsNXRFeUttZE5sUWVyYWU1QjN2YTZXMlRIZ1hMZVZITV9aNEFDNUJRUzk0STAySWttUw?oc=5\" target=\"_blank\">How the Swiss wan",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmJHOWNPREEwMGw1WnJDalNLdXhIS1U4WlYzMUp4VTNyN01HWGFWTWRIYWZBdUpxU21vMVc3NTkxVUh4bHl3b0JydFkzVjB4cVlVUlI1ak9UbWhsNXRFeUttZE5sUWVyYWU1QjN2YTZXMlRIZ1hMZVZITV9aNEFDNUJRUzk0STAySWttUw?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 24 Oct 2026 23:59:45 GMT",
-          "source": "Transport & Environment"
+          "published": "Sat, 24 Oct 2026 22:40:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
     {
-      "id": "3673ec2d1479",
-      "title": "Travel Advisory: Saudi Arabia October 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1YNm5XZVAxa1dpQzVleUQyU1FQdzVLUmJSMDd0dXVTLVdrNm5BM01Vbmx3bURQM0RKWno4cjhjR3k3NDluUzVHRE50cU9UYmsyb3BXRWZGb0hnT1I4MEJsaDdoZEN4d2FzUHNrNGo4NjJ3c2tyMkE?oc=5\" target=\"_blank\">Travel Advisory: Saudi Arabia October 2026</a>&n",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YNm5XZVAxa1dpQzVleUQyU1FQdzVLUmJSMDd0dXVTLVdrNm5BM01Vbmx3bURQM0RKWno4cjhjR3k3NDluUzVHRE50cU9UYmsyb3BXRWZGb0hnT1I4MEJsaDdoZEN4d2FzUHNrNGo4NjJ3c2tyMkE?oc=5",
+      "id": "ccd765ffdbd4",
+      "title": "Uganda to impose 21-day quarantine on returning citizens with Congo travel history - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaWEweDRwbzhDSUxWMmNkVVFsa2w4M1dxODllY0tBYW9XU0ZsRkdrWklIU2tSWEhwMW9WT29NenFUMTlWNHBkbl9xdTl3U3hON1Z2MURncExuZWpYN09sUHBGVF9HSkVZb3VqUVUzd3RBYmdwMEVDWnNWQzhpM0QwUGVJNk1XMUxSWFhoSy1La0hvUHQ2UXJMWXBVZWFvV21xZUJTRDhubGNaNF",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaWEweDRwbzhDSUxWMmNkVVFsa2w4M1dxODllY0tBYW9XU0ZsRkdrWklIU2tSWEhwMW9WT29NenFUMTlWNHBkbl9xdTl3U3hON1Z2MURncExuZWpYN09sUHBGVF9HSkVZb3VqUVUzd3RBYmdwMEVDWnNWQzhpM0QwUGVJNk1XMUxSWFhoSy1La0hvUHQ2UXJMWXBVZWFvV21xZUJTRDhubGNaNFVhaVY2TjUtcHJ4bGQxYl9NMUMyczdGcHZFRkhfcnI4czE4RXAyTjFtU1VkUWR2WFZ5bk9KcElR?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,51 +298,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 24 Oct 2026 07:02:15 GMT",
-          "source": "U.S. Embassy & Consulates in Saudi Arabia (.gov)"
-        }
-      ]
-    },
-    {
-      "id": "508cc903a094",
-      "title": "Aldrich Potgieter, the PGA Tour's longest hitter, is a smart traveler too - Golfweek",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPVlRvQ05TQ1Q0QTJtNVd6UHlGVXpsRk5fa09BY1BmYVdnRzE4SjhQU01WZWVFZUEyTDlBcGpHR1JGT2E0aVFHRDJ1MGtqMDh0ckVrU3FFaFFUZkYtNlJSTFpqU2JjNVJBTUhZelUyVGtINU1PazZueVl2dHBybnJBRTdXQUlMRDFpQ085V2I4TE04LTlVenhjdXNmdXpWSUVJWFJ3MnNrZFJqYl",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVlRvQ05TQ1Q0QTJtNVd6UHlGVXpsRk5fa09BY1BmYVdnRzE4SjhQU01WZWVFZUEyTDlBcGpHR1JGT2E0aVFHRDJ1MGtqMDh0ckVrU3FFaFFUZkYtNlJSTFpqU2JjNVJBTUhZelUyVGtINU1PazZueVl2dHBybnJBRTdXQUlMRDFpQ085V2I4TE04LTlVenhjdXNmdXpWSUVJWFJ3MnNrZFJqYlVrZHRCVDgyZlhFRkZ6NF9GUllYRDUzdi1mT3RBaFdlZjlyLTg?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 24 Oct 2026 16:01:00 GMT",
-          "source": "Golfweek"
-        }
-      ]
-    },
-    {
-      "id": "b521d97f71b6",
-      "title": "Canada updates travel advisory for Saudi Arabia amid ongoing attacks - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTNtVWZUSENUbHAtYTZoVGxLX0ZxeWRUMnNsNnYwSVRFSGlYaFlHVjdHYjhBNDNqWFFnRGdVVW51Nk1PZ3ZSTUwtTGtEVE9GVC1Fd18ybTJPSmlndVd3SW5xenVOS19YdHpUd1ZsMDk5dExPdWZEYnB4LW9jeE0wV3J4WG1ScDhlWmJPNU5kOG1feExtWHhDZXlvM3pPMVNoRl90YXI5a2VORE",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTNtVWZUSENUbHAtYTZoVGxLX0ZxeWRUMnNsNnYwSVRFSGlYaFlHVjdHYjhBNDNqWFFnRGdVVW51Nk1PZ3ZSTUwtTGtEVE9GVC1Fd18ybTJPSmlndVd3SW5xenVOS19YdHpUd1ZsMDk5dExPdWZEYnB4LW9jeE0wV3J4WG1ScDhlWmJPNU5kOG1feExtWHhDZXlvM3pPMVNoRl90YXI5a2VOREk?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 23 Oct 2026 02:04:00 GMT",
-          "source": "CTV News"
+          "published": "Sun, 25 Oct 2026 10:57:53 GMT",
+          "source": "Reuters"
         }
       ]
     },
@@ -351,14 +311,14 @@
       "title": "Winter road conditions on Highway 63 cause several vehicles to get stuck, traffic jams: RCMP - CBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0NUeDlmN0lEdDhiQkFCNldZRGFQRG1Vbnl1RVFKZWtFb3NLbUI0eENGQ29Na09UakpRQzdqc0NlN1JfZ3F2S2puQml2OU1VX0xLZldBcmxFZG95bG80b1F0UFpWaGMtMFhhZE02U3BIVC1MZkRSVDJydTNpZ2hkN2tsMndUYjZVV2xiYzRDZ0Jla3VFTnk4R21hdDRhU3JPSDB0Mg?oc=5\" t",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0NUeDlmN0lEdDhiQkFCNldZRGFQRG1Vbnl1RVFKZWtFb3NLbUI0eENGQ29Na09UakpRQzdqc0NlN1JfZ3F2S2puQml2OU1VX0xLZldBcmxFZG95bG80b1F0UFpWaGMtMFhhZE02U3BIVC1MZkRSVDJydTNpZ2hkN2tsMndUYjZVV2xiYzRDZ0Jla3VFTnk4R21hdDRhU3JPSDB0Mg?oc=5",
-      "score": 28.8,
+      "score": 36.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
           "published": "Sat, 24 Oct 2026 17:05:00 GMT",
@@ -367,18 +327,38 @@
       ]
     },
     {
-      "id": "6698a01ec5df",
-      "title": "Air Canada to phase out routes to these U.S. destinations in 2027 - CTV News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3dTelhwQWpTUFZlenFBMURtNDdYNS0tVEpKbXpxUUtIQzNka3huZm1xNXhTWnhDeHBOUDNqajRKMUZxRHlOVXRYZjBsRmJNNmJJMldKSGhCU01pcTdSb0ppMFZNRFpPWlpuOHNDUlFtenZUb1Jrcm54RUZjQnNvTTNDdUxwOUVQQXJ6WmtrbU1HWTYwV0g4Q2M2Q1hjYVAxYTI0Qw?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3dTelhwQWpTUFZlenFBMURtNDdYNS0tVEpKbXpxUUtIQzNka3huZm1xNXhTWnhDeHBOUDNqajRKMUZxRHlOVXRYZjBsRmJNNmJJMldKSGhCU01pcTdSb0ppMFZNRFpPWlpuOHNDUlFtenZUb1Jrcm54RUZjQnNvTTNDdUxwOUVQQXJ6WmtrbU1HWTYwV0g4Q2M2Q1hjYVAxYTI0Qw?oc=5",
-      "score": 25.2,
+      "id": "8bd0dc0b952d",
+      "title": "6 Canadian Cities Tourists Love, But Locals Wish They'd Avoid - Yahoo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSTZmN2R3Z3J1MTRMTEd3ZG9OX05RX1NkNkk3ekF5SGl1eWJQa2Q4cmNuYXdUd3QyUWFJR25JaEQ2YzJTQ3BhbzcwNnYzYjFnTDlSZDJBMnA5bDc5ZTVKRkVIVmI5eXlDLVFqYXhRTEUyX3dtcEtJSnZGcjFzajc1clJIV3cxMWxwUWMyMzBwUUVxNVBudE5ZdHd3?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSTZmN2R3Z3J1MTRMTEd3ZG9OX05RX1NkNkk3ekF5SGl1eWJQa2Q4cmNuYXdUd3QyUWFJR25JaEQ2YzJTQ3BhbzcwNnYzYjFnTDlSZDJBMnA5bDc5ZTVKRkVIVmI5eXlDLVFqYXhRTEUyX3dtcEtJSnZGcjFzajc1clJIV3cxMWxwUWMyMzBwUUVxNVBudE5ZdHd3?oc=5",
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 25 Oct 2026 09:14:53 GMT",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "id": "6698a01ec5df",
+      "title": "Air Canada to phase out routes to these U.S. destinations in 2027 - CTV News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3dTelhwQWpTUFZlenFBMURtNDdYNS0tVEpKbXpxUUtIQzNka3huZm1xNXhTWnhDeHBOUDNqajRKMUZxRHlOVXRYZjBsRmJNNmJJMldKSGhCU01pcTdSb0ppMFZNRFpPWlpuOHNDUlFtenZUb1Jrcm54RUZjQnNvTTNDdUxwOUVQQXJ6WmtrbU1HWTYwV0g4Q2M2Q1hjYVAxYTI0Qw?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3dTelhwQWpTUFZlenFBMURtNDdYNS0tVEpKbXpxUUtIQzNka3huZm1xNXhTWnhDeHBOUDNqajRKMUZxRHlOVXRYZjBsRmJNNmJJMldKSGhCU01pcTdSb0ppMFZNRFpPWlpuOHNDUlFtenZUb1Jrcm54RUZjQnNvTTNDdUxwOUVQQXJ6WmtrbU1HWTYwV0g4Q2M2Q1hjYVAxYTI0Qw?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
           "published": "Fri, 23 Oct 2026 09:00:00 GMT",
@@ -391,6 +371,26 @@
       "title": "‘It’s cold, but it’s real nice’: American travellers give P.E.I.’s tourism season added momentum - CTV News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1R3RExUTEVTT1VYR2lqUzFhZXhlcERFNi1YbTRvbDNRSEo5VWtHbS1qbkp5UTJmVGJnc2taQlpXUUJxQmhFUW04Qmh2MjduYy1WOXBkMnpQUGtDdk44WUZyMGczamdQXzdKMTdSV1lnRm5BUnlzN1hNZURud1EzeDhZUVFTeWF2M05wUkdNNTBONjFEZUJmYmlwQkNtalVXZjktYm5LbjFLbG",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1R3RExUTEVTT1VYR2lqUzFhZXhlcERFNi1YbTRvbDNRSEo5VWtHbS1qbkp5UTJmVGJnc2taQlpXUUJxQmhFUW04Qmh2MjduYy1WOXBkMnpQUGtDdk44WUZyMGczamdQXzdKMTdSV1lnRm5BUnlzN1hNZURud1EzeDhZUVFTeWF2M05wUkdNNTBONjFEZUJmYmlwQkNtalVXZjktYm5LbjFLbGkyX1AzRWFQSUhWX0I1TDY0RHBnSG5pYVU?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "CA",
+      "first_seen": "2026-10-25T11:15:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 23 Oct 2026 16:47:32 GMT",
+          "source": "CTV News"
+        }
+      ]
+    },
+    {
+      "id": "55cb6abf8c63",
+      "title": "Travel Advisor Success Story: Rocky Horan, Scott & Thomas - TravelPulse",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWxGT1ZxQnpIREdSTGZGTk5KbGhBRHE5NUJFTndJd09weW5uMm81SWUzYTZvanZiVnN6STBaTTQ3WHFmcUJVdFVlUW56bU5QRUVlTW5qVzVJcVlCVE4zN0xmT3Frc2FPblFEYjJCTjNsV0gtckJKZkRCTzNOYjVNXzJPQ2Z4eWdSSWFyZGgtUFFHS2VKdGh4SQ?oc=5\" target=\"_blank\">T",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWxGT1ZxQnpIREdSTGZGTk5KbGhBRHE5NUJFTndJd09weW5uMm81SWUzYTZvanZiVnN6STBaTTQ3WHFmcUJVdFVlUW56bU5QRUVlTW5qVzVJcVlCVE4zN0xmT3Frc2FPblFEYjJCTjNsV0gtckJKZkRCTzNOYjVNXzJPQ2Z4eWdSSWFyZGgtUFFHS2VKdGh4SQ?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "CA",
-      "first_seen": "2026-10-25T04:31:00+00:00",
+      "first_seen": "2026-10-25T11:15:49+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 23 Oct 2026 16:47:32 GMT",
-          "source": "CTV News"
+          "published": "Sun, 25 Oct 2026 11:05:07 GMT",
+          "source": "TravelPulse"
         }
       ]
     }
