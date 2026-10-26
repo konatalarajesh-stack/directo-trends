@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "US",
-  "generated_at": "2026-10-26T04:44:55+00:00",
+  "generated_at": "2026-10-26T12:59:04+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
       "id": "beeaab68062f",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
           "published": "Sun, 25 Oct 2026 15:07:26 GMT",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "id": "74bcacb56a9a",
-      "title": "Whole Foods Market’s Food And Beverage Trend Predictions For 2027 - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlUzZlR3MUFia29QdXp1MUdKNDdaMDE2ZTJDX0FQZDVpOEZIaXJ5VkdBbjVtT0ZObzM3R3FraW01Ry1rcUN3TFFWOFNoOHV3elhkOEdUWF9FVEhIWTJlVkFDazFjTDZ5ZXlTdDkxUXRkUGZwR3FLNEVuNEtvMlRKRXRUYUdLNWlyZlFjeGVnZGItT0xKMjBQQnBTMnZPdWtSRkFJa3gxdTljWG",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlUzZlR3MUFia29QdXp1MUdKNDdaMDE2ZTJDX0FQZDVpOEZIaXJ5VkdBbjVtT0ZObzM3R3FraW01Ry1rcUN3TFFWOFNoOHV3elhkOEdUWF9FVEhIWTJlVkFDazFjTDZ5ZXlTdDkxUXRkUGZwR3FLNEVuNEtvMlRKRXRUYUdLNWlyZlFjeGVnZGItT0xKMjBQQnBTMnZPdWtSRkFJa3gxdTljWG1IRUUyNEdMMERyTnJIakxWdQ?oc=5",
+      "id": "cf4963e32347",
+      "title": "GLP-1 Growth Serves Up New Food Trends - The Food Institute",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkwzMGQzUHpfQU9BTzdQdXlzVEhMQVpNYU5HaWdvclQ3Sk9hSzV5RjRsWklZTEswYms2bG1DeWQ4QXR1NFJCQkVIUlh4YnlRRFphc3FvU19ObkdHOW56Mk1GZGNPcDZhQkZjU0EtOW5FWC00VFpKVHkwUE1wNl9vcFgzYVQ2Zw?oc=5\" target=\"_blank\">GLP-1 Growth Serves Up Ne",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkwzMGQzUHpfQU9BTzdQdXlzVEhMQVpNYU5HaWdvclQ3Sk9hSzV5RjRsWklZTEswYms2bG1DeWQ4QXR1NFJCQkVIUlh4YnlRRFphc3FvU19ObkdHOW56Mk1GZGNPcDZhQkZjU0EtOW5FWC00VFpKVHkwUE1wNl9vcFgzYVQ2Zw?oc=5",
       "score": 86.4,
       "sources": [
         "google_news"
@@ -38,7 +38,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 26 Oct 2026 04:23:34 GMT",
+          "source": "The Food Institute"
+        }
+      ]
+    },
+    {
+      "id": "74bcacb56a9a",
+      "title": "Whole Foods Market’s Food And Beverage Trend Predictions For 2027 - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlUzZlR3MUFia29QdXp1MUdKNDdaMDE2ZTJDX0FQZDVpOEZIaXJ5VkdBbjVtT0ZObzM3R3FraW01Ry1rcUN3TFFWOFNoOHV3elhkOEdUWF9FVEhIWTJlVkFDazFjTDZ5ZXlTdDkxUXRkUGZwR3FLNEVuNEtvMlRKRXRUYUdLNWlyZlFjeGVnZGItT0xKMjBQQnBTMnZPdWtSRkFJa3gxdTljWG",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlUzZlR3MUFia29QdXp1MUdKNDdaMDE2ZTJDX0FQZDVpOEZIaXJ5VkdBbjVtT0ZObzM3R3FraW01Ry1rcUN3TFFWOFNoOHV3elhkOEdUWF9FVEhIWTJlVkFDazFjTDZ5ZXlTdDkxUXRkUGZwR3FLNEVuNEtvMlRKRXRUYUdLNWlyZlFjeGVnZGItT0xKMjBQQnBTMnZPdWtSRkFJa3gxdTljWG1IRUUyNEdMMERyTnJIakxWdQ?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
           "published": "Thu, 22 Oct 2026 12:21:39 GMT",
@@ -47,18 +67,38 @@
       ]
     },
     {
-      "id": "bd5be3c6bfa6",
-      "title": "The Next Big Things: Our Top Food Trend Predictions for 2027 - Whole Foods Market",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVQ5VENabGFland6V19LWUFkQW5ubmtqZVV6OVhiM3pKV1BLTEEtalhMdnZheDRfZUVKWlpxXzVMcFNDWW9yS094Yk9TNHdrQk9OVUZjeVQ4bERhTG9CSmNrem10SmFtWE14aUd6eUlNbmxlUU03VV9saXpoekpGTVdyTXhCQQ?oc=5\" target=\"_blank\">The Next Big Things: Our ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVQ5VENabGFland6V19LWUFkQW5ubmtqZVV6OVhiM3pKV1BLTEEtalhMdnZheDRfZUVKWlpxXzVMcFNDWW9yS094Yk9TNHdrQk9OVUZjeVQ4bERhTG9CSmNrem10SmFtWE14aUd6eUlNbmxlUU03VV9saXpoekpGTVdyTXhCQQ?oc=5",
-      "score": 82.8,
+      "id": "9d4903f8d055",
+      "title": "What diets are consumers following? - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE81UjU0NGdlVkRJZjJYVEpubmRsRzgxelpVbnVjVDF5UGFBYV9aX3doN2x1NXJWRWh4cDg3bHR3a2k4TlA0UnZuTzNhMFVmZi1tZ0VBcWJOUElXdzFsYV94Z2NhUUNJbFBRNlVMWDVIT2M1Z0o5?oc=5\" target=\"_blank\">What diets are consumers following?</a>&nbsp;&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81UjU0NGdlVkRJZjJYVEpubmRsRzgxelpVbnVjVDF5UGFBYV9aX3doN2x1NXJWRWh4cDg3bHR3a2k4TlA0UnZuTzNhMFVmZi1tZ0VBcWJOUElXdzFsYV94Z2NhUUNJbFBRNlVMWDVIT2M1Z0o5?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 26 Oct 2026 10:52:50 GMT",
+          "source": "FoodNavigator.com"
+        }
+      ]
+    },
+    {
+      "id": "bd5be3c6bfa6",
+      "title": "The Next Big Things: Our Top Food Trend Predictions for 2027 - Whole Foods Market",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVQ5VENabGFland6V19LWUFkQW5ubmtqZVV6OVhiM3pKV1BLTEEtalhMdnZheDRfZUVKWlpxXzVMcFNDWW9yS094Yk9TNHdrQk9OVUZjeVQ4bERhTG9CSmNrem10SmFtWE14aUd6eUlNbmxlUU03VV9saXpoekpGTVdyTXhCQQ?oc=5\" target=\"_blank\">The Next Big Things: Our ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVQ5VENabGFland6V19LWUFkQW5ubmtqZVV6OVhiM3pKV1BLTEEtalhMdnZheDRfZUVKWlpxXzVMcFNDWW9yS094Yk9TNHdrQk9OVUZjeVQ4bERhTG9CSmNrem10SmFtWE14aUd6eUlNbmxlUU03VV9saXpoekpGTVdyTXhCQQ?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 23:58:51 GMT",
@@ -67,50 +107,10 @@
       ]
     },
     {
-      "id": "8501e1c33a4f",
-      "title": "All-You-Can-Eat Buffets Are Back. Here Are Some of the Best. - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2lNcU0zY1RwLUs0dnRrNnA2QjBtbi1nUTN0ejRqN2hobjRVcWxPSVM0Zy1CSGZHMGd2eWxQVFB1dGU5OVk1MHhKZUthOFk4X2VscDdLdmdFa3dzZ3FnMXJUd19Dd2lKMFg3Nk05TW5BQjdFNnVqaF9Pb3otRjl1SmlSOGMzY3dnVW5QQg?oc=5\" target=\"_blank\">All-You-Can-Eat B",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2lNcU0zY1RwLUs0dnRrNnA2QjBtbi1nUTN0ejRqN2hobjRVcWxPSVM0Zy1CSGZHMGd2eWxQVFB1dGU5OVk1MHhKZUthOFk4X2VscDdLdmdFa3dzZ3FnMXJUd19Dd2lKMFg3Nk05TW5BQjdFNnVqaF9Pb3otRjl1SmlSOGMzY3dnVW5QQg?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 25 Oct 2026 14:31:23 GMT",
-          "source": "WSJ"
-        }
-      ]
-    },
-    {
       "id": "0721fc377fc5",
       "title": "SNAP Tracker: People Are Losing Food Assistance as the Harmful 2025 Republican Reconciliation Law Is Implemented - Center on Budget and Policy Priorities",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGFIS3FVRDhqWEdQZUQ3OFFWZG1WaEZNOGN5a2JEcXpOeDB3ME9idGxJNEp1RkRENl9wc1NwZDJ4ZGxGWG1YY3hzS2lKSzc0Wm4xU2xGMmNzellfWXhaZVVEbGxVT095QTk0dTZNMjl3UXI4bGpkVEZXZWdGUTlBakxOb0Rxb3ZrbWZNejB2VDhUdzRya2pFaEVlV1ZKSlE4b0R2TXFHWGVGX2",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGFIS3FVRDhqWEdQZUQ3OFFWZG1WaEZNOGN5a2JEcXpOeDB3ME9idGxJNEp1RkRENl9wc1NwZDJ4ZGxGWG1YY3hzS2lKSzc0Wm4xU2xGMmNzellfWXhaZVVEbGxVT095QTk0dTZNMjl3UXI4bGpkVEZXZWdGUTlBakxOb0Rxb3ZrbWZNejB2VDhUdzRya2pFaEVlV1ZKSlE4b0R2TXFHWGVGX2o1bE4tbTdB?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 23 Oct 2026 23:50:00 GMT",
-          "source": "Center on Budget and Policy Priorities"
-        }
-      ]
-    },
-    {
-      "id": "ffa3ea04ea10",
-      "title": "10 Emerging Flavor Trends for 2027 - The Food Institute",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXhaNzUwQm5IOHB1OHRoWWRmYl8ycHEzejltcjVmX25XMnNsb2EtS2pQWU00blI0U1BYV20zdkFLSUk0ZjRlbkEzOGNhNGkxSVBRTWRuVGdQSkFMamJiRDFmTDdtdUVIbFpQTzZjTTdIR3E4WHJXTGxjYkNuY2FCVA?oc=5\" target=\"_blank\">10 Emerging Flavor Trends for 202",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXhaNzUwQm5IOHB1OHRoWWRmYl8ycHEzejltcjVmX25XMnNsb2EtS2pQWU00blI0U1BYV20zdkFLSUk0ZjRlbkEzOGNhNGkxSVBRTWRuVGdQSkFMamJiRDFmTDdtdUVIbFpQTzZjTTdIR3E4WHJXTGxjYkNuY2FCVA?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,11 +118,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 19 Oct 2026 14:35:36 GMT",
-          "source": "The Food Institute"
+          "published": "Fri, 23 Oct 2026 23:50:00 GMT",
+          "source": "Center on Budget and Policy Priorities"
         }
       ]
     },
@@ -138,13 +138,36 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 07:00:00 GMT",
           "source": "Food & Wine"
         }
       ]
+    },
+    {
+      "id": "f83cb7febe01",
+      "title": "I Tested Viral TikTok Recipes",
+      "summary": "This episode is sponsored by Squarespace. Head to http://bit.ly/squarespacebabish to save 10% off your first purchase of a website or domain using code BABISH.\n\nOn this episode of With Babish, we're making viral TikTok recipes!\n\nRecipes: https://www.babi.sh/recipes/trying-tiktok-",
+      "url": "https://www.youtube.com/watch?v=COvngm7VbZs",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-10-26T12:52:05+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "COvngm7VbZs",
+          "published": "2026-10-24T13:00:09+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "4d2f066f5a72",
@@ -158,7 +181,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
           "published": "Thu, 08 Oct 2026 14:05:10 GMT",
@@ -178,7 +201,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
           "published": "Thu, 15 Oct 2026 07:00:00 GMT",
@@ -202,7 +225,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
           "published": "Thu, 22 Oct 2026 13:00:00 GMT",
@@ -211,10 +234,10 @@
       ]
     },
     {
-      "id": "f27581c6210e",
-      "title": "Top 10 food and beverage trends set to shape 2027 - FoodNavigator.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHpuVkRHVjQyUUR2cmZkazRyYTdLVTc0NjVuSUZFNUNFRTVESFZGMVFqZmlSOEFzaTNzOEVZUHRkNWpNbnRwQXdONFFyM01UR0hjeU9USlZIMU1LQkFqYXoyMUIyckJEYmV5NEswa2cyU1dMRjN4TE9ONm5kLXBXT3JIcnV2SFZZQzI1RE5iVUZoX3hNemdzYThrTkZxMElU?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHpuVkRHVjQyUUR2cmZkazRyYTdLVTc0NjVuSUZFNUNFRTVESFZGMVFqZmlSOEFzaTNzOEVZUHRkNWpNbnRwQXdONFFyM01UR0hjeU9USlZIMU1LQkFqYXoyMUIyckJEYmV5NEswa2cyU1dMRjN4TE9ONm5kLXBXT3JIcnV2SFZZQzI1RE5iVUZoX3hNemdzYThrTkZxMElU?oc=5",
+      "id": "8501e1c33a4f",
+      "title": "All-You-Can-Eat Buffets Are Back. Here Are Some of the Best. - WSJ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2lNcU0zY1RwLUs0dnRrNnA2QjBtbi1nUTN0ejRqN2hobjRVcWxPSVM0Zy1CSGZHMGd2eWxQVFB1dGU5OVk1MHhKZUthOFk4X2VscDdLdmdFa3dzZ3FnMXJUd19Dd2lKMFg3Nk05TW5BQjdFNnVqaF9Pb3otRjl1SmlSOGMzY3dnVW5QQg?oc=5\" target=\"_blank\">All-You-Can-Eat B",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2lNcU0zY1RwLUs0dnRrNnA2QjBtbi1nUTN0ejRqN2hobjRVcWxPSVM0Zy1CSGZHMGd2eWxQVFB1dGU5OVk1MHhKZUthOFk4X2VscDdLdmdFa3dzZ3FnMXJUd19Dd2lKMFg3Nk05TW5BQjdFNnVqaF9Pb3otRjl1SmlSOGMzY3dnVW5QQg?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -222,31 +245,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-          "source": "FoodNavigator.com"
-        }
-      ]
-    },
-    {
-      "id": "030aff4c6fcb",
-      "title": "13 Fast Food Trends We Hope Disappear After 2026 - Tasting Table",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdWhLbjBRY3BvVU1GVzVBTXg5Mldfdloyck1ZTmtDN1BjYWs4WldaRjNDVFFoSldpdjJKZEhCeGt5cXRrMVpodlk4bTJrckNvSG9ydUF3R0xCdl9tRkRDeDhmaXFWQlRiRndtNXlUbkZZeXluOVlFUXB5OENLZUU?oc=5\" target=\"_blank\">13 Fast Food Trends We Hope Disappea",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdWhLbjBRY3BvVU1GVzVBTXg5Mldfdloyck1ZTmtDN1BjYWs4WldaRjNDVFFoSldpdjJKZEhCeGt5cXRrMVpodlk4bTJrckNvSG9ydUF3R0xCdl9tRkRDeDhmaXFWQlRiRndtNXlUbkZZeXluOVlFUXB5OENLZUU?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 20 Oct 2026 18:20:00 GMT",
-          "source": "Tasting Table"
+          "published": "Sun, 25 Oct 2026 12:00:00 GMT",
+          "source": "WSJ"
         }
       ]
     },
@@ -255,6 +258,26 @@
       "title": "The Biggest Food Trends of 2026 So Far - Taste of Home",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5\" target=\"_blank\">The Biggest Food Trends of 2026 So Far</a>&nbsp;&nbsp;<font color=\"#",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xa0FkU3BLaWNEYmFxZEQweC1DSDJPakdYeEtTRWc2WlgySHhybnpUOVMxRWhPdW9ibjYxdmcyZkkyem5rMG01ejUzTFVVMk5mckc2WnM4Rk1Kd1JNRVpjVVpiRmc1VDg?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "US",
+      "first_seen": "2026-10-26T12:49:44+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+          "source": "Taste of Home"
+        }
+      ]
+    },
+    {
+      "id": "030aff4c6fcb",
+      "title": "13 Fast Food Trends We Hope Disappear After 2026 - Tasting Table",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdWhLbjBRY3BvVU1GVzVBTXg5Mldfdloyck1ZTmtDN1BjYWs4WldaRjNDVFFoSldpdjJKZEhCeGt5cXRrMVpodlk4bTJrckNvSG9ydUF3R0xCdl9tRkRDeDhmaXFWQlRiRndtNXlUbkZZeXluOVlFUXB5OENLZUU?oc=5\" target=\"_blank\">13 Fast Food Trends We Hope Disappea",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdWhLbjBRY3BvVU1GVzVBTXg5Mldfdloyck1ZTmtDN1BjYWs4WldaRjNDVFFoSldpdjJKZEhCeGt5cXRrMVpodlk4bTJrckNvSG9ydUF3R0xCdl9tRkRDeDhmaXFWQlRiRndtNXlUbkZZeXluOVlFUXB5OENLZUU?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -262,11 +285,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-          "source": "Taste of Home"
+          "published": "Tue, 20 Oct 2026 18:20:00 GMT",
+          "source": "Tasting Table"
         }
       ]
     },
@@ -282,7 +305,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 11:33:57 GMT",
@@ -291,10 +314,10 @@
       ]
     },
     {
-      "id": "ed52544afecd",
-      "title": "Whole Foods predicts these food and drink trends will be popular in 2027 - USA Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdW9zNVJtRk5FOE5La01YcWE5OEVjdDNWTGNzQmI1eVNTTVRnM1VGbEZtaEJUZWlnOUVhWXJpWUhkNW5PajdQREd4aTJuYlM3anQwZ2FVWkVsa0tKZnhDcHg2N0hXbEJUME9JS2Y3Rnl5dk1sRXd0YUlYVXJybmEtdGFTNWc1dVBud2l6dVRXdlVaTG95cEoxNmIwSmhlN193ZTBuRTVlYjJhRF",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdW9zNVJtRk5FOE5La01YcWE5OEVjdDNWTGNzQmI1eVNTTVRnM1VGbEZtaEJUZWlnOUVhWXJpWUhkNW5PajdQREd4aTJuYlM3anQwZ2FVWkVsa0tKZnhDcHg2N0hXbEJUME9JS2Y3Rnl5dk1sRXd0YUlYVXJybmEtdGFTNWc1dVBud2l6dVRXdlVaTG95cEoxNmIwSmhlN193ZTBuRTVlYjJhRFRraXpETDlYQ2hIQXlVMWdsLQ?oc=5",
+      "id": "44227ecb60e0",
+      "title": "Goodbye, Swicy: These 5 Food Trends Will Take Over 2027 - Sporked",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSldWLWZheUQ0eHVZMEs3Z2VtM0UtYWRsQjNfUnRRdmFPSEwyLUtmNTJuZWJQY1NIMnA5clVBMU9PUjEtQVRyZXpWaGNueVJaWXRCeFJfWW9YWEd3NjRPZlBZandOdENqV1VoOExCUkw4OEFXQWhLbFVOTTZyaFJqY3pzTjhuOThFSEE?oc=5\" target=\"_blank\">Goodbye, Swicy: Thes",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSldWLWZheUQ0eHVZMEs3Z2VtM0UtYWRsQjNfUnRRdmFPSEwyLUtmNTJuZWJQY1NIMnA5clVBMU9PUjEtQVRyZXpWaGNueVJaWXRCeFJfWW9YWEd3NjRPZlBZandOdENqV1VoOExCUkw4OEFXQWhLbFVOTTZyaFJqY3pzTjhuOThFSEE?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -302,19 +325,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "source": "USA Today"
+          "published": "Sun, 18 Oct 2026 16:38:38 GMT",
+          "source": "Sporked"
         }
       ]
     },
     {
-      "id": "49ff5a09a098",
-      "title": "The Surprising Food Trend That's Going to Be Huge in 2027 - Good Housekeeping",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGoxTHhwNVRCVnlsdjQ2bno0N012ZDlMYV95em5JbThMQUtWYnFnS3IzRU82RGR3LU5XQmIxa0NzbUNTNEhrRlNZZ2l5S3Uyd2hDSTFsZUJxQVdNcTF5VlBEeEtUXzFDVFVqNkVvNXYxLTZVdDZZd0ctVGY1T0JreG1NVkxCb01ycmtvSEdsckgyTVQx?oc=5\" target=\"_blank\">The Sur",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGoxTHhwNVRCVnlsdjQ2bno0N012ZDlMYV95em5JbThMQUtWYnFnS3IzRU82RGR3LU5XQmIxa0NzbUNTNEhrRlNZZ2l5S3Uyd2hDSTFsZUJxQVdNcTF5VlBEeEtUXzFDVFVqNkVvNXYxLTZVdDZZd0ctVGY1T0JreG1NVkxCb01ycmtvSEdsckgyTVQx?oc=5",
+      "id": "ffa3ea04ea10",
+      "title": "10 Emerging Flavor Trends for 2027 - The Food Institute",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXhaNzUwQm5IOHB1OHRoWWRmYl8ycHEzejltcjVmX25XMnNsb2EtS2pQWU00blI0U1BYV20zdkFLSUk0ZjRlbkEzOGNhNGkxSVBRTWRuVGdQSkFMamJiRDFmTDdtdUVIbFpQTzZjTTdIR3E4WHJXTGxjYkNuY2FCVA?oc=5\" target=\"_blank\">10 Emerging Flavor Trends for 202",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXhaNzUwQm5IOHB1OHRoWWRmYl8ycHEzejltcjVmX25XMnNsb2EtS2pQWU00blI0U1BYV20zdkFLSUk0ZjRlbkEzOGNhNGkxSVBRTWRuVGdQSkFMamJiRDFmTDdtdUVIbFpQTzZjTTdIR3E4WHJXTGxjYkNuY2FCVA?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -322,19 +345,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "source": "Good Housekeeping"
+          "published": "Mon, 19 Oct 2026 14:35:36 GMT",
+          "source": "The Food Institute"
         }
       ]
     },
     {
-      "id": "44227ecb60e0",
-      "title": "Goodbye, Swicy: These 5 Food Trends Will Take Over 2027 - Sporked",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSldWLWZheUQ0eHVZMEs3Z2VtM0UtYWRsQjNfUnRRdmFPSEwyLUtmNTJuZWJQY1NIMnA5clVBMU9PUjEtQVRyZXpWaGNueVJaWXRCeFJfWW9YWEd3NjRPZlBZandOdENqV1VoOExCUkw4OEFXQWhLbFVOTTZyaFJqY3pzTjhuOThFSEE?oc=5\" target=\"_blank\">Goodbye, Swicy: Thes",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSldWLWZheUQ0eHVZMEs3Z2VtM0UtYWRsQjNfUnRRdmFPSEwyLUtmNTJuZWJQY1NIMnA5clVBMU9PUjEtQVRyZXpWaGNueVJaWXRCeFJfWW9YWEd3NjRPZlBZandOdENqV1VoOExCUkw4OEFXQWhLbFVOTTZyaFJqY3pzTjhuOThFSEE?oc=5",
+      "id": "f27581c6210e",
+      "title": "Top 10 food and beverage trends set to shape 2027 - FoodNavigator.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHpuVkRHVjQyUUR2cmZkazRyYTdLVTc0NjVuSUZFNUNFRTVESFZGMVFqZmlSOEFzaTNzOEVZUHRkNWpNbnRwQXdONFFyM01UR0hjeU9USlZIMU1LQkFqYXoyMUIyckJEYmV5NEswa2cyU1dMRjN4TE9ONm5kLXBXT3JIcnV2SFZZQzI1RE5iVUZoX3hNemdzYThrTkZxMElU?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHpuVkRHVjQyUUR2cmZkazRyYTdLVTc0NjVuSUZFNUNFRTVESFZGMVFqZmlSOEFzaTNzOEVZUHRkNWpNbnRwQXdONFFyM01UR0hjeU9USlZIMU1LQkFqYXoyMUIyckJEYmV5NEswa2cyU1dMRjN4TE9ONm5kLXBXT3JIcnV2SFZZQzI1RE5iVUZoX3hNemdzYThrTkZxMElU?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -342,11 +365,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 18 Oct 2026 16:38:38 GMT",
-          "source": "Sporked"
+          "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+          "source": "FoodNavigator.com"
         }
       ]
     },
@@ -362,7 +385,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
           "published": "Tue, 22 Sep 2026 07:00:00 GMT",
@@ -371,10 +394,10 @@
       ]
     },
     {
-      "id": "4fe57ed411fe",
-      "title": "‘Comfort in a bowl’: porridge hotter than ever as fibremaxxers get their oats - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUtZLUpQdDZmX3h1UFpuUDJMRVpycWZpU2tZRzhBbDN5ZG1xYUw0NVhoakgtSGtBTkhsU1Z5WG5NUlhyS1dhZ0VrSnN1S24wTjZqUWhyVVloWmhrZ2hUX0tla3BzZi1lREFPRWJfaGhGTUNsaEFGVGNrdFk1SEVJazZRY0dDM2VPcTlhdjV2cVBkRVQ1b0MzbmNlUUVEWW5qR0NHcm5KeVpSSF",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUtZLUpQdDZmX3h1UFpuUDJMRVpycWZpU2tZRzhBbDN5ZG1xYUw0NVhoakgtSGtBTkhsU1Z5WG5NUlhyS1dhZ0VrSnN1S24wTjZqUWhyVVloWmhrZ2hUX0tla3BzZi1lREFPRWJfaGhGTUNsaEFGVGNrdFk1SEVJazZRY0dDM2VPcTlhdjV2cVBkRVQ1b0MzbmNlUUVEWW5qR0NHcm5KeVpSSFA5TUdPREROTEpKRDRBRFA0?oc=5",
+      "id": "49ff5a09a098",
+      "title": "The Surprising Food Trend That's Going to Be Huge in 2027 - Good Housekeeping",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGoxTHhwNVRCVnlsdjQ2bno0N012ZDlMYV95em5JbThMQUtWYnFnS3IzRU82RGR3LU5XQmIxa0NzbUNTNEhrRlNZZ2l5S3Uyd2hDSTFsZUJxQVdNcTF5VlBEeEtUXzFDVFVqNkVvNXYxLTZVdDZZd0ctVGY1T0JreG1NVkxCb01ycmtvSEdsckgyTVQx?oc=5\" target=\"_blank\">The Sur",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGoxTHhwNVRCVnlsdjQ2bno0N012ZDlMYV95em5JbThMQUtWYnFnS3IzRU82RGR3LU5XQmIxa0NzbUNTNEhrRlNZZ2l5S3Uyd2hDSTFsZUJxQVdNcTF5VlBEeEtUXzFDVFVqNkVvNXYxLTZVdDZZd0ctVGY1T0JreG1NVkxCb01ycmtvSEdsckgyTVQx?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +405,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "US",
-      "first_seen": "2026-10-26T04:35:50+00:00",
+      "first_seen": "2026-10-26T12:49:44+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 24 Oct 2026 05:00:00 GMT",
-          "source": "The Guardian"
+          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+          "source": "Good Housekeeping"
         }
       ]
     }
