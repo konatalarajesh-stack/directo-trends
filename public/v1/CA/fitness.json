@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "CA",
-  "generated_at": "2026-10-27T05:02:32+00:00",
+  "generated_at": "2026-10-27T12:10:46+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 25,
   "trends": [
     {
-      "id": "89c268c3ede0",
-      "title": "Mamdani is using NYPD gym to host pickup basketball games with friends - Politico",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSndFaHVickxWMS1XQ1NGOERFS3hEX0Q2aUFtdlNhdUZ3U0ZPSEs4ZzRvMGR2NG5qcmVJaEw5Y3FCaU5wZjl0NVdvdTdtUVJMd2pnWHpHalZyYTBwbXV5SllNU0pGcnFObDJkVmphLUYyZjFzNXhTbnV5czMxbEJhbU5XdVIyWXNYYmV5aXVrRWZla2R5LU1TNUJyS2dXRmV2VDRFZHdIZjhzZ0",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSndFaHVickxWMS1XQ1NGOERFS3hEX0Q2aUFtdlNhdUZ3U0ZPSEs4ZzRvMGR2NG5qcmVJaEw5Y3FCaU5wZjl0NVdvdTdtUVJMd2pnWHpHalZyYTBwbXV5SllNU0pGcnFObDJkVmphLUYyZjFzNXhTbnV5czMxbEJhbU5XdVIyWXNYYmV5aXVrRWZla2R5LU1TNUJyS2dXRmV2VDRFZHdIZjhzZ0NhOWp0b1pFY2FiTlk?oc=5",
+      "id": "3f1e665d8e28",
+      "title": "Spotlight: 60 minutes, four teammates and one great cause: Toronto fitness challenge returns - TorontoToday.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNTWtueWdsV2lTWGZzbk1RalJHVzFnNnVXM09PSUFSU1kxUHA4aWd5dkxwR3lEVXk2SF9FVXFZN1lFYXN2em5Mc0xGeUMwQXJTdTBYdG5zNHp2b1ZKemo4MnAtTF93czN3ZTlPWWMyckt5TmFZVVRaU0dnbjZRZnRaV0RFU2NwWTVkNWJoZzhFcEdTc0w3TFk3QU5yazFEYmRhUWJXUndfc19PNk",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTWtueWdsV2lTWGZzbk1RalJHVzFnNnVXM09PSUFSU1kxUHA4aWd5dkxwR3lEVXk2SF9FVXFZN1lFYXN2em5Mc0xGeUMwQXJTdTBYdG5zNHp2b1ZKemo4MnAtTF93czN3ZTlPWWMyckt5TmFZVVRaU0dnbjZRZnRaV0RFU2NwWTVkNWJoZzhFcEdTc0w3TFk3QU5yazFEYmRhUWJXUndfc19PNkU5RVBDMTI0eG44dXYyNFZPSGNubnZvd3oz?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+          "source": "TorontoToday.ca"
+        }
+      ]
+    },
+    {
+      "id": "89c268c3ede0",
+      "title": "Mamdani is using NYPD gym to host pickup basketball games with friends - Politico",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSndFaHVickxWMS1XQ1NGOERFS3hEX0Q2aUFtdlNhdUZ3U0ZPSEs4ZzRvMGR2NG5qcmVJaEw5Y3FCaU5wZjl0NVdvdTdtUVJMd2pnWHpHalZyYTBwbXV5SllNU0pGcnFObDJkVmphLUYyZjFzNXhTbnV5czMxbEJhbU5XdVIyWXNYYmV5aXVrRWZla2R5LU1TNUJyS2dXRmV2VDRFZHdIZjhzZ0",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSndFaHVickxWMS1XQ1NGOERFS3hEX0Q2aUFtdlNhdUZ3U0ZPSEs4ZzRvMGR2NG5qcmVJaEw5Y3FCaU5wZjl0NVdvdTdtUVJMd2pnWHpHalZyYTBwbXV5SllNU0pGcnFObDJkVmphLUYyZjFzNXhTbnV5czMxbEJhbU5XdVIyWXNYYmV5aXVrRWZla2R5LU1TNUJyS2dXRmV2VDRFZHdIZjhzZ0NhOWp0b1pFY2FiTlk?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
           "published": "Mon, 26 Oct 2026 21:08:00 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "fd6fdfda893c",
-      "title": "Sharon Stone, 68, stays strong with 'little and often' exercise – 6 ways she builds movement into her day - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONFVzOEdtMWZWX19NM0tDdHpQaXFlOTBTX20xV3YtQmN1eXlranVNUHQzS2dMc3dGem95Tjh0X2hOREYtckc2RjdzTTJmYVhKell1a3FlZlVNS2FSam1oWFNwZW5GaW42Yk9tNE9KdmJKUm1CbWRLNmw5UWVFUzFNZmQ4dURqM0o3MWsyUEcwb3dycE1WT20w?oc=5\" target=\"_blank\">Sha",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFVzOEdtMWZWX19NM0tDdHpQaXFlOTBTX20xV3YtQmN1eXlranVNUHQzS2dMc3dGem95Tjh0X2hOREYtckc2RjdzTTJmYVhKell1a3FlZlVNS2FSam1oWFNwZW5GaW42Yk9tNE9KdmJKUm1CbWRLNmw5UWVFUzFNZmQ4dURqM0o3MWsyUEcwb3dycE1WT20w?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 26 Oct 2026 18:08:23 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "6f63c35d0fbc",
-      "title": "Fitbit Edge Review: Google's Best Fitness Tracker With a Screen - PCMag",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM2JRbWY3ZFoycWN5Uk1XTk1IMG5pZ2JoVFdOMlV2eUxrdTRvZXhTQ3dIeVJ5RG4xc1NGNG9PWFYtLWVFZEJLajBmUmcxTGFodWtWYzRyMHI5cmhp?oc=5\" target=\"_blank\">Fitbit Edge Review: Google's Best Fitness Tracker With a Screen</a>&nbsp;&nbsp;<fon",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM2JRbWY3ZFoycWN5Uk1XTk1IMG5pZ2JoVFdOMlV2eUxrdTRvZXhTQ3dIeVJ5RG4xc1NGNG9PWFYtLWVFZEJLajBmUmcxTGFodWtWYzRyMHI5cmhp?oc=5",
+      "id": "492039564164",
+      "title": "How to Save Your Fitness Routine From the Cold-Weather Slump - InsideHook",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzNVVmdEbzFSY1BENFloV1F4YkRWWmJSbXpDcldrMHFwZnlvWnZPZmRtdmpFekp3VFUzUDY3MW5ncHhEZV9FeTRPSEVXSXJzVEhTRUNIVUdySERBN0NhaHY0U0JZXzh4Y2VHMVkySm1YSjY3V2ZEN0dCVFF0NkdaSkFkMURKV0pr?oc=5\" target=\"_blank\">How to Save Your Fitnes",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzNVVmdEbzFSY1BENFloV1F4YkRWWmJSbXpDcldrMHFwZnlvWnZPZmRtdmpFekp3VFUzUDY3MW5ncHhEZV9FeTRPSEVXSXJzVEhTRUNIVUdySERBN0NhaHY0U0JZXzh4Y2VHMVkySm1YSjY3V2ZEN0dCVFF0NkdaSkFkMURKV0pr?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,11 +58,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 26 Oct 2026 22:01:13 GMT",
-          "source": "PCMag"
+          "published": "Tue, 27 Oct 2026 10:39:00 GMT",
+          "source": "InsideHook"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
           "published": "Tue, 27 Oct 2026 00:30:00 GMT",
@@ -87,10 +87,10 @@
       ]
     },
     {
-      "id": "c89106bbc6e8",
-      "title": "Coca-Cola's Sports Beverage Portfolio: Can it Capture Fitness Demand? - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLVFEMjZ2Y3ZDNVVIQ3c5cW1UZDVHbndxaGpmQmVnc0tVNHRBN0w0dllFZmw2MmJQZVNjdzRHc0phNlJpQi1uUFJlVFEzQ1QzSmtCSHVZRzl4VWRqUEdTUXVCd25QZ2pfSWtIbUo5NTdtOW50ZnVfRUZFNmw4UjdSUVYzNzhoWlFJVWtNVGEwS2hzNnBwcnFVZGRwOXdVWTU3VW4xajZsYWNsd1",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLVFEMjZ2Y3ZDNVVIQ3c5cW1UZDVHbndxaGpmQmVnc0tVNHRBN0w0dllFZmw2MmJQZVNjdzRHc0phNlJpQi1uUFJlVFEzQ1QzSmtCSHVZRzl4VWRqUEdTUXVCd25QZ2pfSWtIbUo5NTdtOW50ZnVfRUZFNmw4UjdSUVYzNzhoWlFJVWtNVGEwS2hzNnBwcnFVZGRwOXdVWTU3VW4xajZsYWNsd1F4eURBWWE5bkhzejh2VExSLU5sWFBydk96a0pfQnVONkpDdV9jVWtpbnR6eUprZ0dmNmwzdzh6cw?oc=5",
+      "id": "fd6fdfda893c",
+      "title": "Sharon Stone, 68, stays strong with 'little and often' exercise – 6 ways she builds movement into her day - Women's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONFVzOEdtMWZWX19NM0tDdHpQaXFlOTBTX20xV3YtQmN1eXlranVNUHQzS2dMc3dGem95Tjh0X2hOREYtckc2RjdzTTJmYVhKell1a3FlZlVNS2FSam1oWFNwZW5GaW42Yk9tNE9KdmJKUm1CbWRLNmw5UWVFUzFNZmQ4dURqM0o3MWsyUEcwb3dycE1WT20w?oc=5\" target=\"_blank\">Sha",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFVzOEdtMWZWX19NM0tDdHpQaXFlOTBTX20xV3YtQmN1eXlranVNUHQzS2dMc3dGem95Tjh0X2hOREYtckc2RjdzTTJmYVhKell1a3FlZlVNS2FSam1oWFNwZW5GaW42Yk9tNE9KdmJKUm1CbWRLNmw5UWVFUzFNZmQ4dURqM0o3MWsyUEcwb3dycE1WT20w?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,7 +98,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 26 Oct 2026 18:08:23 GMT",
+          "source": "Women's Health"
+        }
+      ]
+    },
+    {
+      "id": "c89106bbc6e8",
+      "title": "Coca-Cola's Sports Beverage Portfolio: Can it Capture Fitness Demand? - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLVFEMjZ2Y3ZDNVVIQ3c5cW1UZDVHbndxaGpmQmVnc0tVNHRBN0w0dllFZmw2MmJQZVNjdzRHc0phNlJpQi1uUFJlVFEzQ1QzSmtCSHVZRzl4VWRqUEdTUXVCd25QZ2pfSWtIbUo5NTdtOW50ZnVfRUZFNmw4UjdSUVYzNzhoWlFJVWtNVGEwS2hzNnBwcnFVZGRwOXdVWTU3VW4xajZsYWNsd1",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLVFEMjZ2Y3ZDNVVIQ3c5cW1UZDVHbndxaGpmQmVnc0tVNHRBN0w0dllFZmw2MmJQZVNjdzRHc0phNlJpQi1uUFJlVFEzQ1QzSmtCSHVZRzl4VWRqUEdTUXVCd25QZ2pfSWtIbUo5NTdtOW50ZnVfRUZFNmw4UjdSUVYzNzhoWlFJVWtNVGEwS2hzNnBwcnFVZGRwOXdVWTU3VW4xajZsYWNsd1F4eURBWWE5bkhzejh2VExSLU5sWFBydk96a0pfQnVONkpDdV9jVWtpbnR6eUprZ0dmNmwzdzh6cw?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
           "published": "Mon, 26 Oct 2026 16:34:52 GMT",
@@ -107,30 +127,10 @@
       ]
     },
     {
-      "id": "e99593b22a41",
-      "title": "Get your sweat on at these ten Bloor-Yorkville gyms and studios - Toronto Life",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1nb2M4b016YjJfZUhIQ3NHcF9XSmdWdmVzQ0g1eTE0bkc4U1BYdF8tdGpwX2NiRTBCMU0zVDZnSktnaTYxdmVrUms3ZG1GbGQ5TWR5cTA1MlNSaDlLMUU1RXU3MTVCNUR6NTZkSUlIajVLTzZOYVRaUXJ3?oc=5\" target=\"_blank\">Get your sweat on at these ten Bloor-Yorkvi",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nb2M4b016YjJfZUhIQ3NHcF9XSmdWdmVzQ0g1eTE0bkc4U1BYdF8tdGpwX2NiRTBCMU0zVDZnSktnaTYxdmVrUms3ZG1GbGQ5TWR5cTA1MlNSaDlLMUU1RXU3MTVCNUR6NTZkSUlIajVLTzZOYVRaUXJ3?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 26 Oct 2026 14:27:58 GMT",
-          "source": "Toronto Life"
-        }
-      ]
-    },
-    {
-      "id": "33895c8ccaad",
-      "title": "Fitness: Exercise is shown to slow aging in breast cancer survivors - Montreal Gazette",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDZmNjZ5NkV6aTdaWFNWUGVfbnNvdkRLcmZuVUlMd3RBOWtzdWZZNEwxS2J1dkhIaUJzRFc4RmktRlVXZ1pKOTljSmYtbG1HMnJMcVg3elZQNkFPREU2YmpKZ29nYXZfVFByX28wbW1zZ0hiMkVEcFh6UV9KbE5fSnQwbWx6Wk9xNWN5VUM1VlN4ak1qZ1JxTml3Tk5Jd1I3Z2R0ZlNR?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDZmNjZ5NkV6aTdaWFNWUGVfbnNvdkRLcmZuVUlMd3RBOWtzdWZZNEwxS2J1dkhIaUJzRFc4RmktRlVXZ1pKOTljSmYtbG1HMnJMcVg3elZQNkFPREU2YmpKZ29nYXZfVFByX28wbW1zZ0hiMkVEcFh6UV9KbE5fSnQwbWx6Wk9xNWN5VUM1VlN4ak1qZ1JxTml3Tk5Jd1I3Z2R0ZlNR?oc=5",
+      "id": "e7f3a0123450",
+      "title": "T3 becomes official partner of Islanders gym - Canadian Hockey League",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMlIxbElVT2lpOFlqR1dRMkhRbWhYbzUyUXVEWDJUZ29haDJ1V1RnWmlLN1o5VW9LQ1NScWdFM3ZFN0U3cnFZX1lvdl9xbzRLajRQSy1VTlJRNWxhSkxmUmdjV3REVkVOZUFQYUFwMm4wVU9nZzVSdmlEbjR6WlVuZ2YxV1FWNU94OVFyUA?oc=5\" target=\"_blank\">T3 becomes offici",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMlIxbElVT2lpOFlqR1dRMkhRbWhYbzUyUXVEWDJUZ29haDJ1V1RnWmlLN1o5VW9LQ1NScWdFM3ZFN0U3cnFZX1lvdl9xbzRLajRQSy1VTlJRNWxhSkxmUmdjV3REVkVOZUFQYUFwMm4wVU9nZzVSdmlEbjR6WlVuZ2YxV1FWNU94OVFyUA?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,7 +138,93 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 22 Oct 2026 14:28:18 GMT",
+          "source": "Canadian Hockey League"
+        }
+      ]
+    },
+    {
+      "id": "d1c39831f9a8",
+      "title": "Luxury Toronto gym opening massive studio in new neighbourhood next month - blogTO",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0xdWJYRnpwWm9XYUpDSEc4RXJpWUR3SlJaNWl5QXVvZGhQUS1ZNWNmbnI5R2lYTXpoVjdsM3ByR0s1RE5rYW1Rc1pQbC10MnBpZmptM2JnV1JuaXB6WTZ4Z0JBWmJzZzVGV0IzYVpxMU1GeDhWNzc2U2k2bkVNUQ?oc=5\" target=\"_blank\">Luxury Toronto gym opening massive st",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xdWJYRnpwWm9XYUpDSEc4RXJpWUR3SlJaNWl5QXVvZGhQUS1ZNWNmbnI5R2lYTXpoVjdsM3ByR0s1RE5rYW1Rc1pQbC10MnBpZmptM2JnV1JuaXB6WTZ4Z0JBWmJzZzVGV0IzYVpxMU1GeDhWNzc2U2k2bkVNUQ?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-27T12:01:43+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 21 Oct 2026 14:20:58 GMT",
+          "source": "blogTO"
+        }
+      ]
+    },
+    {
+      "id": "5051ea5c163f",
+      "title": "Your Dumbbell Grip Is KILLING Your Gains!",
+      "summary": "If your wrists hurt when you dumbbell bench press, take a closer look at how you are holding the weights. A small change in your grip may help make this chest exercise more comfortable without completely changing the way you press. In this video, I show you a dumbbell bench press",
+      "url": "https://www.youtube.com/watch?v=j_5du-KhOu4",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "j_5du-KhOu4",
+          "published": "2026-10-26T17:17:28+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "d02b10f35fb1",
+      "title": "Dr. Mike Won't Arm Wrestle",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/eM9vRNLzfhg",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "eM9vRNLzfhg",
+          "published": "2026-10-26T19:00:02+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "33895c8ccaad",
+      "title": "Fitness: Exercise is shown to slow aging in breast cancer survivors - Montreal Gazette",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDZmNjZ5NkV6aTdaWFNWUGVfbnNvdkRLcmZuVUlMd3RBOWtzdWZZNEwxS2J1dkhIaUJzRFc4RmktRlVXZ1pKOTljSmYtbG1HMnJMcVg3elZQNkFPREU2YmpKZ29nYXZfVFByX28wbW1zZ0hiMkVEcFh6UV9KbE5fSnQwbWx6Wk9xNWN5VUM1VlN4ak1qZ1JxTml3Tk5Jd1I3Z2R0ZlNR?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDZmNjZ5NkV6aTdaWFNWUGVfbnNvdkRLcmZuVUlMd3RBOWtzdWZZNEwxS2J1dkhIaUJzRFc4RmktRlVXZ1pKOTljSmYtbG1HMnJMcVg3elZQNkFPREU2YmpKZ29nYXZfVFByX28wbW1zZ0hiMkVEcFh6UV9KbE5fSnQwbWx6Wk9xNWN5VUM1VlN4ak1qZ1JxTml3Tk5Jd1I3Z2R0ZlNR?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
           "published": "Sun, 25 Oct 2026 15:07:52 GMT",
@@ -147,50 +233,56 @@
       ]
     },
     {
-      "id": "4fe1a34ba332",
-      "title": "Health & Fitness Association Remembers Dr. Tyler Cooper - Health & Fitness Association",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEFZNWJHdExYeVZrdFMzY0I3eENYYWF6M0VXU0xSX2ZST3ZrbmNLOENscVJ6RnJjOE1OTE42UWF5bUt3cklXVFQxY3FITWdHeVl3VnljNHh0cTNPUnMzcTlrSkRIMG1wS0lacHlweUgxMTFpWk9XNC1mbHdrQWZGTjQtMHlOVG1nb3ZTM3hNTQ?oc=5\" target=\"_blank\">Health & Fitn",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEFZNWJHdExYeVZrdFMzY0I3eENYYWF6M0VXU0xSX2ZST3ZrbmNLOENscVJ6RnJjOE1OTE42UWF5bUt3cklXVFQxY3FITWdHeVl3VnljNHh0cTNPUnMzcTlrSkRIMG1wS0lacHlweUgxMTFpWk9XNC1mbHdrQWZGTjQtMHlOVG1nb3ZTM3hNTQ?oc=5",
-      "score": 64.8,
+      "id": "d4f536840066",
+      "title": "The ONLY 2 Dumbbell Triceps Exercises You Need (NO, SERIOUSLY!)",
+      "summary": "Get big triceps here - https://athleanx.com\nSubscribe to the channel here - http://bit.ly/2b0coMW\n\nWhat if I told you that here were only 2 dumbbell triceps exercises you need to grow bigger triceps, would you believe me? In this video, I am going to show you how only two dumbbel",
+      "url": "https://www.youtube.com/watch?v=X6LXOWzmUmY",
+      "score": 59.29,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:04+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 26 Oct 2026 18:13:29 GMT",
-          "source": "Health & Fitness Association"
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "X6LXOWzmUmY",
+          "published": "2026-10-20T15:19:04+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "763837dc5d38",
-      "title": "Australia give Steve Smith chance to prove fitness ahead of South Africa series decider - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1VuaFV1Ync3U3pTZHBITHR2aTcwWC1QUWJsLVM0NWR4TjV1bHdSZHBfdzVsUXdqV01oczRBSHRNdmU1Ym1YcWhWQmpueTBNLTdkUklZTnpvTzRRZE5qODFpTHVzajNyUUpEYWRhUV9CN09Ua1l3VURXeXFXYzZSaG1PaWM1SmZON1MwQkV5aW9SeFVwc2Q5YjUwbTVaQkJUSFJ3TXFYckUyVG",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1VuaFV1Ync3U3pTZHBITHR2aTcwWC1QUWJsLVM0NWR4TjV1bHdSZHBfdzVsUXdqV01oczRBSHRNdmU1Ym1YcWhWQmpueTBNLTdkUklZTnpvTzRRZE5qODFpTHVzajNyUUpEYWRhUV9CN09Ua1l3VURXeXFXYzZSaG1PaWM1SmZON1MwQkV5aW9SeFVwc2Q5YjUwbTVaQkJUSFJ3TXFYckUyVGh5QlZfWlRGX1ZFcUZQQUstVVBn?oc=5",
-      "score": 61.2,
+      "id": "5b6651fc8d96",
+      "title": "How to Build the Reacher Physique",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
+      "url": "https://www.youtube.com/watch?v=z0K-2kjPRCM",
+      "score": 59.29,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:06+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 26 Oct 2026 21:55:00 GMT",
-          "source": "The Guardian"
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "z0K-2kjPRCM",
+          "published": "2026-10-26T16:00:17+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "6f2befee346c",
-      "title": "Timberwolves and Lynx Partner with U.S. Bank to Renovate Gym at Pillsbury United Communities’ Brian Coyle Center - NBA.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR0poblRhcXZDSXNWZFpfc0I2Z1BhZ2h3UDA0NnlDYkZFMlFpTGdraFB5SDZKMHFIWVVWLU5aUS1WU1JsaTFyUmQ1dHJuQlloTVBIcWc1QUxaWGw4a2hPMXVoOW5aQS1mTDF1M0dXSHpYMTJJbUt4UHNHdHBaNEdGcEs3ZS1ROC1KdDJOMnNyWTlCZzVuRzM5U0xBM3RrX25oNFVmOUxFODZCbW",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR0poblRhcXZDSXNWZFpfc0I2Z1BhZ2h3UDA0NnlDYkZFMlFpTGdraFB5SDZKMHFIWVVWLU5aUS1WU1JsaTFyUmQ1dHJuQlloTVBIcWc1QUxaWGw4a2hPMXVoOW5aQS1mTDF1M0dXSHpYMTJJbUt4UHNHdHBaNEdGcEs3ZS1ROC1KdDJOMnNyWTlCZzVuRzM5U0xBM3RrX25oNFVmOUxFODZCbWxObTg5ZDQzSC04NTlqcmZvcHVoOVhpbEQ3M2xHdjhjNXJCOVZPcEVydlFIOA?oc=5",
+      "id": "6f63c35d0fbc",
+      "title": "Fitbit Edge Review: Google's Best Fitness Tracker With a Screen - PCMag",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM2JRbWY3ZFoycWN5Uk1XTk1IMG5pZ2JoVFdOMlV2eUxrdTRvZXhTQ3dIeVJ5RG4xc1NGNG9PWFYtLWVFZEJLajBmUmcxTGFodWtWYzRyMHI5cmhp?oc=5\" target=\"_blank\">Fitbit Edge Review: Google's Best Fitness Tracker With a Screen</a>&nbsp;&nbsp;<fon",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM2JRbWY3ZFoycWN5Uk1XTk1IMG5pZ2JoVFdOMlV2eUxrdTRvZXhTQ3dIeVJ5RG4xc1NGNG9PWFYtLWVFZEJLajBmUmcxTGFodWtWYzRyMHI5cmhp?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +290,88 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 26 Oct 2026 15:50:00 GMT",
-          "source": "NBA.com"
+          "published": "Mon, 26 Oct 2026 22:01:13 GMT",
+          "source": "PCMag"
         }
       ]
     },
     {
-      "id": "90a72d5c3a00",
-      "title": "SLT Sues Lagree Fitness Over Megaformer Supply, Territorial Rights - Athletech News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0pzM1ZCVVV1NXdvemt3cUVEZl9IcXJDYTdldXpuUUYtR2NWc2xSOFY3UDBOVGtLcWVTZmw4WEV6blVUdXE0N3pEb3FsRnNvZy05QjMyUTYwa0NXZFF4MGREeUl4OXZhZGZaVzh3TmZlTk41WWZ1RHFfS2hZQ0ppdFNFRnYxTzN2MUJDYWFUazN5UFI5?oc=5\" target=\"_blank\">SLT Sue",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0pzM1ZCVVV1NXdvemt3cUVEZl9IcXJDYTdldXpuUUYtR2NWc2xSOFY3UDBOVGtLcWVTZmw4WEV6blVUdXE0N3pEb3FsRnNvZy05QjMyUTYwa0NXZFF4MGREeUl4OXZhZGZaVzh3TmZlTk41WWZ1RHFfS2hZQ0ppdFNFRnYxTzN2MUJDYWFUazN5UFI5?oc=5",
+      "id": "d5989d8f9087",
+      "title": "STOP Messing Up RDL’s! (I’M BEGGING YOU)",
+      "summary": "Romanian deadlift form starts with one movement: the hip hinge. If you want to build bigger hamstrings and glutes with RDLs, you need to understand how to move your hips instead of simply bending forward to lower the weight. In this video, I’ll show you a common Romanian deadlift",
+      "url": "https://www.youtube.com/shorts/FA-Lj34jOPI",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:04+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "FA-Lj34jOPI",
+          "published": "2026-10-16T19:41:29+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "6fc2218d7cf2",
+      "title": "Anatoly’s Lifts Don’t Add Up",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/WznRAXE9O-w",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "WznRAXE9O-w",
+          "published": "2026-10-26T13:00:01+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "85912224d5a1",
+      "title": "How To Improve Your Shape On A GLP-1",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/pgixBI3_od0",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "pgixBI3_od0",
+          "published": "2026-10-25T19:00:05+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "fd03832e8e6f",
+      "title": "The five-minute stair workout that could add years to your life - The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVN4ZHE3WGhOQ21xNm9ndlNmZEZsb3F6MVNpbGhKQlJ0elRmMTFMa2h6V3Y0Slk1MGFWNXRBVTBiX281dEpVbnluMXgxejBCcVlScDZ0dVltYzZBMmFESUlrNEJNR0tMME82dDhqTU9La19DUEMwVTlESXBjTmdZOWhTU181N3FaUHk3VlZ0amFuTDhQeFM3WUl1cDNSTHRZ?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVN4ZHE3WGhOQ21xNm9ndlNmZEZsb3F6MVNpbGhKQlJ0elRmMTFMa2h6V3Y0Slk1MGFWNXRBVTBiX281dEpVbnluMXgxejBCcVlScDZ0dVltYzZBMmFESUlrNEJNR0tMME82dDhqTU9La19DUEMwVTlESXBjTmdZOWhTU181N3FaUHk3VlZ0amFuTDhQeFM3WUl1cDNSTHRZ?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +379,42 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 26 Oct 2026 21:29:21 GMT",
-          "source": "Athletech News"
+          "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+          "source": "The Telegraph"
         }
       ]
     },
     {
-      "id": "6196753d0d5a",
-      "title": "Brantford gym hosts OPP First Responders Day - BrantBeacon",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1xVDVvRzVmZ2hSV3g5MjJ5RzhNTjhjNk9YUHFPRy1MNGtSTWlqTmJDRUNkMHc5R0ZmaGpKRE1SMm9KSk8yU051MlpleHA0cGJHb3k3MHBMc1FKN1poSjBVbVpKT0UxUXAyaDQ4cV9vNEhLemNtQTFnTFMzVV8?oc=5\" target=\"_blank\">Brantford gym hosts OPP First Responders",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xVDVvRzVmZ2hSV3g5MjJ5RzhNTjhjNk9YUHFPRy1MNGtSTWlqTmJDRUNkMHc5R0ZmaGpKRE1SMm9KSk8yU051MlpleHA0cGJHb3k3MHBMc1FKN1poSjBVbVpKT0UxUXAyaDQ4cV9vNEhLemNtQTFnTFMzVV8?oc=5",
+      "id": "b0eac246a467",
+      "title": "Would You Pay $350K a Year to Get Jacked?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/NTFWfB4TyTA",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "NTFWfB4TyTA",
+          "published": "2026-10-25T13:00:00+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "938832ade279",
+      "title": "I knew I'd like the Fitbit Edge - 2 weeks later, here are 3 reasons why I love it - Woman & Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBsMWRmTVVRZ1d5dFNTOHo5QVMtSWtWYnllSHBwUmY5RGJYcVRFNGVsRm85WGY4cWlRR29yVGNsd2YtWEJjYkgzWGFsczlITHRMbXhhV3cwM2h2RUptOURHX2ZiT2NkSjA5V01jeFV0Q1FYY01Fem05MWVlZFBVQQ?oc=5\" target=\"_blank\">I knew I'd like the Fitbit Edge - 2 w",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsMWRmTVVRZ1d5dFNTOHo5QVMtSWtWYnllSHBwUmY5RGJYcVRFNGVsRm85WGY4cWlRR29yVGNsd2YtWEJjYkgzWGFsczlITHRMbXhhV3cwM2h2RUptOURHX2ZiT2NkSjA5V01jeFV0Q1FYY01Fem05MWVlZFBVQQ?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +422,65 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 26 Oct 2026 02:22:56 GMT",
-          "source": "BrantBeacon"
+          "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+          "source": "Woman & Home"
         }
       ]
     },
     {
-      "id": "656795def20e",
-      "title": "What I Love (and What I Don't) About the New Una Fitness Watch - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mMURuaThLRWdCOHNTaTZvbEw4VndSTHg3blBYODdncGtVejU1SGxfMWJvRW04WE5LanZuTl9pVFBjRkJyM2VDcHBXcWdrVUVUdXVJeExZRDFIdw?oc=5\" target=\"_blank\">What I Love (and What I Don't) About the New Una Fitness Watch</a>&nbsp;&nbsp;<font c",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mMURuaThLRWdCOHNTaTZvbEw4VndSTHg3blBYODdncGtVejU1SGxfMWJvRW04WE5LanZuTl9pVFBjRkJyM2VDcHBXcWdrVUVUdXVJeExZRDFIdw?oc=5",
+      "id": "a5340c63066c",
+      "title": "Thor's Arms Are 24 inches?!",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/bfG9M_UlmPo",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "bfG9M_UlmPo",
+          "published": "2026-10-24T19:00:25+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "5ca55611f561",
+      "title": "How Strong Is Anatoly ACTUALLY?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/nIoD0SVmbQs",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "nIoD0SVmbQs",
+          "published": "2026-10-24T13:00:33+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "5a3cdddc7758",
+      "title": "A master trainer gave me this low-impact core workout, and it’s a game-changer for strong abs and lower backs - Tom's Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUHJDQmh5M0MxdFVxSHhaeko5bFNWMmpyTmR2V1plM0cxUnVibEpqVjZQUVRqTmJpWE1qN2tsUDdlZm9ZbGRldVdVQUViZktBYkM2YnZmNGk3WnRSa2xwVFdxbWpXZ3VMUkQ0WXFTZHNMbXZTS01zV1RFaUlqVEYyTno1X0xUNU9IbWdYS1RpYnZNNU0wRE1xeEMyMm4zR1o2T0RyX0FUbXJUUE",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUHJDQmh5M0MxdFVxSHhaeko5bFNWMmpyTmR2V1plM0cxUnVibEpqVjZQUVRqTmJpWE1qN2tsUDdlZm9ZbGRldVdVQUViZktBYkM2YnZmNGk3WnRSa2xwVFdxbWpXZ3VMUkQ0WXFTZHNMbXZTS01zV1RFaUlqVEYyTno1X0xUNU9IbWdYS1RpYnZNNU0wRE1xeEMyMm4zR1o2T0RyX0FUbXJUUEVweVRGS3lTY2JqUW9Rd0o1TU5fYXFoeXc0OXUzV0ZxcXRNN0s0R2dqWktONFdDODdxUk9jSUVRZGRSQQ?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +488,42 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 26 Oct 2026 19:00:00 GMT",
-          "source": "Lifehacker"
+          "published": "Tue, 27 Oct 2026 08:30:00 GMT",
+          "source": "Tom's Guide"
         }
       ]
     },
     {
-      "id": "fe8a3f3eef40",
-      "title": "You also don't need to replicate your 'long ride' on the turbo trainer - Cycling Weekly",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNcl9UdlBOZU5BcmZkeHRpY2FmS1NtUDUtVU1FRHV1UDVTRUkwVHZIRGVYSlBqZEhSRGJvWGNTeF8teTBjYmxvcHRCbmJPMnlKdV9fQlowSTNzVEdZMUxDemhyX2dJUDlzOVdpSmFwekwwUnBBX1dBbmJvZU1tMGR4M0ZPRmQ2SnhOcjZJZ0p5aTdaYV93MzUxM084TlhnX3V2NUt2MEhCbHdnbz",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcl9UdlBOZU5BcmZkeHRpY2FmS1NtUDUtVU1FRHV1UDVTRUkwVHZIRGVYSlBqZEhSRGJvWGNTeF8teTBjYmxvcHRCbmJPMnlKdV9fQlowSTNzVEdZMUxDemhyX2dJUDlzOVdpSmFwekwwUnBBX1dBbmJvZU1tMGR4M0ZPRmQ2SnhOcjZJZ0p5aTdaYV93MzUxM084TlhnX3V2NUt2MEhCbHdnbzdONHZJOTM5eTZXN05LRHR6V1J2TmR3YTNublUxSjFxbDNpbDhaQWRhNUN2amFndzdYSF81VlV2aU1LME5CSVNBVVY5TDgxblhiWmVuMV9JUVYySnNOMEE?oc=5",
+      "id": "e82bccea0d9c",
+      "title": "Liver King's Apology Didn't Fool Dr. Mike",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/WEOEaTe-nFE",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-27T12:04:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "WEOEaTe-nFE",
+          "published": "2026-10-23T19:00:24+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "6196753d0d5a",
+      "title": "Brantford gym hosts OPP First Responders Day - BrantBeacon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1xVDVvRzVmZ2hSV3g5MjJ5RzhNTjhjNk9YUHFPRy1MNGtSTWlqTmJDRUNkMHc5R0ZmaGpKRE1SMm9KSk8yU051MlpleHA0cGJHb3k3MHBMc1FKN1poSjBVbVpKT0UxUXAyaDQ4cV9vNEhLemNtQTFnTFMzVV8?oc=5\" target=\"_blank\">Brantford gym hosts OPP First Responders",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xVDVvRzVmZ2hSV3g5MjJ5RzhNTjhjNk9YUHFPRy1MNGtSTWlqTmJDRUNkMHc5R0ZmaGpKRE1SMm9KSk8yU051MlpleHA0cGJHb3k3MHBMc1FKN1poSjBVbVpKT0UxUXAyaDQ4cV9vNEhLemNtQTFnTFMzVV8?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,131 +531,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
+      "first_seen": "2026-10-27T12:01:43+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 26 Oct 2026 09:16:26 GMT",
-          "source": "Cycling Weekly"
-        }
-      ]
-    },
-    {
-      "id": "23bbf597c8c3",
-      "title": "Esquimalt Parks and Recreation brings fitness and festive fun for the holidays - Victoria News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnJvOU1KZ2wxYjU1WmVyS3FOOUlBcGhjS2twY2dHU0hGYTU3N2tFMEpXV25yaTA1X1VPT1FLSDExNXRtRVNJZE9BcmVCRW5yWHNxTWJKRUlMaE9BVTJrQ3d0cE5Ja1pYRWxmSXNtbVFwSW03aW9NclB4d0YtMVhDR3doaTFOaGJRdG9UVWZ3ak13MXByS0RRRlQ4azNEMTVJN0hucjZaN09mbE",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnJvOU1KZ2wxYjU1WmVyS3FOOUlBcGhjS2twY2dHU0hGYTU3N2tFMEpXV25yaTA1X1VPT1FLSDExNXRtRVNJZE9BcmVCRW5yWHNxTWJKRUlMaE9BVTJrQ3d0cE5Ja1pYRWxmSXNtbVFwSW03aW9NclB4d0YtMVhDR3doaTFOaGJRdG9UVWZ3ak13MXByS0RRRlQ4azNEMTVJN0hucjZaN09mbEN6a09jMWZZdzlIYkU?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 26 Oct 2026 01:32:53 GMT",
-          "source": "Victoria News"
-        }
-      ]
-    },
-    {
-      "id": "62318049d68f",
-      "title": "This is the fitness-focused smartwatch to get for under $200 - Android Police",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHZpc1dCb3lYTW5aZGZweDMyT2ZyZDd3STJ4bG0zbTAwZnhPV2RKS0pYd2dXYnd6X19rSEtLdHZZVlJLVjVONUlQMUM4alZfVjRJQWVpNUc2VDRJQ29VbHBCSWFXeFRzSHRONmJHMWZFbEMtbnlaaDZaVU9IUFZUbFVGX2xRUDNRVkNaaEVLNncyMFNq?oc=5\" target=\"_blank\">This is",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHZpc1dCb3lYTW5aZGZweDMyT2ZyZDd3STJ4bG0zbTAwZnhPV2RKS0pYd2dXYnd6X19rSEtLdHZZVlJLVjVONUlQMUM4alZfVjRJQWVpNUc2VDRJQ29VbHBCSWFXeFRzSHRONmJHMWZFbEMtbnlaaDZaVU9IUFZUbFVGX2xRUDNRVkNaaEVLNncyMFNq?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 26 Oct 2026 19:43:31 GMT",
-          "source": "Android Police"
-        }
-      ]
-    },
-    {
-      "id": "6611cd261f03",
-      "title": "Wearable technology tracking: The fine line between awareness and stress - UT Physicians",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjejV3Sko5RHBvc05RRUM4NmRoUFhzVVlIUUNkblVRQkNQaWU1NFc1b2Q2T3B4UW1QTVZERUlRVlMwYmhVcE5vVUFibzdaT1IzaHRtVjMzOHBOZ25DNnhzUkJNQ0ZQX3ZY?oc=5\" target=\"_blank\">Wearable technology tracking: The fine line between awareness and s",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjejV3Sko5RHBvc05RRUM4NmRoUFhzVVlIUUNkblVRQkNQaWU1NFc1b2Q2T3B4UW1QTVZERUlRVlMwYmhVcE5vVUFibzdaT1IzaHRtVjMzOHBOZ25DNnhzUkJNQ0ZQX3ZY?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 26 Oct 2026 20:37:15 GMT",
-          "source": "UT Physicians"
-        }
-      ]
-    },
-    {
-      "id": "84663898c55c",
-      "title": "Payton Pritchard's wild summer workout routine revealed - BasketNews.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGgxeWk3YlI5Z2Riams0WlEtWmpCeXpEWjFRNGJidUFJVURxU3IzWTJLZ1FSQUE3Z2lQeVpQNUg4UEtfTWltQlMzTGJzS3Z1enVmRXc3WFlpNDFUeFRaVEFKMW5zeU8tSUVQemxxeUN0TW1DbkM5RVB0dUZsNW4zSVZ0ZThaUGNBR1d4Mk81cFBsemhwODIxcTZn?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGgxeWk3YlI5Z2Riams0WlEtWmpCeXpEWjFRNGJidUFJVURxU3IzWTJLZ1FSQUE3Z2lQeVpQNUg4UEtfTWltQlMzTGJzS3Z1enVmRXc3WFlpNDFUeFRaVEFKMW5zeU8tSUVQemxxeUN0TW1DbkM5RVB0dUZsNW4zSVZ0ZThaUGNBR1d4Mk81cFBsemhwODIxcTZn?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 26 Oct 2026 18:02:57 GMT",
-          "source": "BasketNews.com"
-        }
-      ]
-    },
-    {
-      "id": "f952027a5e48",
-      "title": "How Alison Hammond, 51, builds lower-body strength – 4 moves for stronger legs and glutes - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV0pyeFVqY3pfYndqZW1hdnJqZGhsOXZBQ3NJajFZbzVZaW94blEyQlIwbzlOZGR5M01aQ3BvYlhWMXJ0SmhXampNNlNwR0xMOUNTUHlvOWRjYmg2ZUp6cjFJTG52MmZvcC1abnlSVU9jeFBfNldEcy1FUHc3aF9LeWVsTEVfZWV4ZEpTcjNfTGNmXzNkSEtZRFBxV0RvTEpZV1dpX0VNcno?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV0pyeFVqY3pfYndqZW1hdnJqZGhsOXZBQ3NJajFZbzVZaW94blEyQlIwbzlOZGR5M01aQ3BvYlhWMXJ0SmhXampNNlNwR0xMOUNTUHlvOWRjYmg2ZUp6cjFJTG52MmZvcC1abnlSVU9jeFBfNldEcy1FUHc3aF9LeWVsTEVfZWV4ZEpTcjNfTGNmXzNkSEtZRFBxV0RvTEpZV1dpX0VNcno?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 27 Oct 2026 00:52:05 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "001bf1fc20cb",
-      "title": "What happens when a simple workout transcends into an ‘experience’ - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0tKNGlCRlo0VU5JLXdIVmhrLWh2cDF2eUNWVHN0Q19FVTNCSWtoRzZJcHdYTC1tVDhuRG02REFVN25sQnBLOHhCcFJrbGd0d2hqQWF3Z2d3ZkJZTkdHQmZ5ZzVRU0I3dzJTUURWX1F4dy02TlRZbkJ0aTkzclVjTkNIai1GcEplRld1ZjFMb0R0TzhKalV5cWxNVTd5Zm90dmxlaFp0WGt3WD",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0tKNGlCRlo0VU5JLXdIVmhrLWh2cDF2eUNWVHN0Q19FVTNCSWtoRzZJcHdYTC1tVDhuRG02REFVN25sQnBLOHhCcFJrbGd0d2hqQWF3Z2d3ZkJZTkdHQmZ5ZzVRU0I3dzJTUURWX1F4dy02TlRZbkJ0aTkzclVjTkNIai1GcEplRld1ZjFMb0R0TzhKalV5cWxNVTd5Zm90dmxlaFp0WGt3WDFja0ViVnQxRm8?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-27T04:53:28+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 26 Oct 2026 12:58:00 GMT",
-          "source": "The Independent"
+          "published": "Mon, 26 Oct 2026 02:22:56 GMT",
+          "source": "BrantBeacon"
         }
       ]
     }
