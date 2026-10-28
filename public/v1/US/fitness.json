@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "US",
-  "generated_at": "2026-10-28T05:37:45+00:00",
+  "generated_at": "2026-10-28T12:50:53+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 25,
   "trends": [
     {
       "id": "f20a8cf7ffa5",
@@ -18,10 +18,10 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 28 Oct 2026 05:27:35 GMT",
+          "published": "Tue, 27 Oct 2026 16:27:00 GMT",
           "source": "The New York Times"
         }
       ]
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 01:03:00 GMT",
@@ -47,10 +47,10 @@
       ]
     },
     {
-      "id": "21f0ea5dcf88",
-      "title": "Planet Fitness opens Randallstown location - Maryland Daily Record",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXpQMnVScEJZMXNBcXBWMlgwQzh4VWFNRnFQbzk3eDh3eHhEb1I1bEhEcm5oR1JQa1l1VlJjeFdaQUYxTTFKN0VuNlRxSUQtZVNvejNFZWRvX3ZGRHdBenRCN2dyZ0RZSU1MUFJNMFlPMHhBMmNMTURRaG8wZ3RtZ0xYWjJvY1FE?oc=5\" target=\"_blank\">Planet Fitness opens Ra",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXpQMnVScEJZMXNBcXBWMlgwQzh4VWFNRnFQbzk3eDh3eHhEb1I1bEhEcm5oR1JQa1l1VlJjeFdaQUYxTTFKN0VuNlRxSUQtZVNvejNFZWRvX3ZGRHdBenRCN2dyZ0RZSU1MUFJNMFlPMHhBMmNMTURRaG8wZ3RtZ0xYWjJvY1FE?oc=5",
+      "id": "c25452fbf890",
+      "title": "Douglas Ghost Walk returns to Mt. Jumbo Gym for final time - Juneau Empire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1RVS1NoRUxMWnRNcnR0NE9MdU5icGU2Y3RleFZOd1NfWnNGbWE5QnVwVEQ3dVJxdDVMOXJVWkk3Mll0RHNNcWVNc0hhUzBfQmJQT1NVd1N5THNhcUxYRzV3RHhBZUpSNGhIeTNPY0xDLUhUZVdZa0RDOVB1eTVxSm9BVFZoZ3lVaG1wQnlxNnh5WEV1aVhEZkhPeENqcDg?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1RVS1NoRUxMWnRNcnR0NE9MdU5icGU2Y3RleFZOd1NfWnNGbWE5QnVwVEQ3dVJxdDVMOXJVWkk3Mll0RHNNcWVNc0hhUzBfQmJQT1NVd1N5THNhcUxYRzV3RHhBZUpSNGhIeTNPY0xDLUhUZVdZa0RDOVB1eTVxSm9BVFZoZ3lVaG1wQnlxNnh5WEV1aVhEZkhPeENqcDg?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,7 +58,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 28 Oct 2026 11:30:55 GMT",
+          "source": "Juneau Empire"
+        }
+      ]
+    },
+    {
+      "id": "21f0ea5dcf88",
+      "title": "Planet Fitness opens Randallstown location - Maryland Daily Record",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXpQMnVScEJZMXNBcXBWMlgwQzh4VWFNRnFQbzk3eDh3eHhEb1I1bEhEcm5oR1JQa1l1VlJjeFdaQUYxTTFKN0VuNlRxSUQtZVNvejNFZWRvX3ZGRHdBenRCN2dyZ0RZSU1MUFJNMFlPMHhBMmNMTURRaG8wZ3RtZ0xYWjJvY1FE?oc=5\" target=\"_blank\">Planet Fitness opens Ra",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXpQMnVScEJZMXNBcXBWMlgwQzh4VWFNRnFQbzk3eDh3eHhEb1I1bEhEcm5oR1JQa1l1VlJjeFdaQUYxTTFKN0VuNlRxSUQtZVNvejNFZWRvX3ZGRHdBenRCN2dyZ0RZSU1MUFJNMFlPMHhBMmNMTURRaG8wZ3RtZ0xYWjJvY1FE?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
           "published": "Tue, 27 Oct 2026 18:06:03 GMT",
@@ -67,22 +87,22 @@
       ]
     },
     {
-      "id": "12f1d3c47275",
-      "title": "Planet Fitness Is Closing Locations: See Complete List of Shuttered Clubs for 2026 - Inc.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZktfMWYyMjBDQzZCa3hxaXY3X0l0NmFqdlAzRDExRFJLR1pMUVZjb1Q5SUE5TUVnUGQ3bmpERk1UTloxTlQ3dE96d0dSVVBqNElzeGpJQzluc1JaMmtLM3RUeTdKZFRVSTVieU81WENtLWtYd3RiM0xmVUpYQkotMGFrX0duNEZBc0szSFBxNTlXaV9GcXJaQkFlOGc1aWl0cnBQdjlPM0Y?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZktfMWYyMjBDQzZCa3hxaXY3X0l0NmFqdlAzRDExRFJLR1pMUVZjb1Q5SUE5TUVnUGQ3bmpERk1UTloxTlQ3dE96d0dSVVBqNElzeGpJQzluc1JaMmtLM3RUeTdKZFRVSTVieU81WENtLWtYd3RiM0xmVUpYQkotMGFrX0duNEZBc0szSFBxNTlXaV9GcXJaQkFlOGc1aWl0cnBQdjlPM0Y?oc=5",
-      "score": 79.2,
+      "id": "8eaabdb1a283",
+      "title": "LA Fitness invests millions in Tampa market with modernized concept Elevate - The Business Journals",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORlMzSmZEVHBNMWotQm5qazdoRk9aNHF0SkhqTzNkLWcweHFvNmFscUR2M29QTF9CQVhIU0prdVBxN0lVZXpDNmZ3dHhrMi16VUZEZ0xEb1oydV9JakZpRjczTHZRUTRNekEtazgtZkh6dzlNOGU1VjAtRjBTWFY3U0QySUFPMkNvbDJrSGRVZmU?oc=5\" target=\"_blank\">LA Fitness i",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlMzSmZEVHBNMWotQm5qazdoRk9aNHF0SkhqTzNkLWcweHFvNmFscUR2M29QTF9CQVhIU0prdVBxN0lVZXpDNmZ3dHhrMi16VUZEZ0xEb1oydV9JakZpRjczTHZRUTRNekEtazgtZkh6dzlNOGU1VjAtRjBTWFY3U0QySUFPMkNvbDJrSGRVZmU?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 22 Oct 2026 13:45:55 GMT",
-          "source": "Inc.com"
+          "published": "Wed, 28 Oct 2026 10:59:00 GMT",
+          "source": "The Business Journals"
         }
       ]
     },
@@ -91,14 +111,14 @@
       "title": "Pagano workout circuit challenges every fitness level - The Redstone Rocket",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWFVM3NEUWVDbS0yT0RVUENLdXh5Rk1zR21CQ2JYM3Y2QVRxemU5TjhQVmVUODBFT2xjS3RXcjI0ZGhlejdkSk5waVY2RnVHV3hZcERXNXpwdHFsdW92UFdma2U1dy1rRkFrdGZoQnhFTHVLZWpYUjBpNDE3OEstMVBxc3dNa3BQNzB6OVdpSGhKZw?oc=5\" target=\"_blank\">Pagano wo",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWFVM3NEUWVDbS0yT0RVUENLdXh5Rk1zR21CQ2JYM3Y2QVRxemU5TjhQVmVUODBFT2xjS3RXcjI0ZGhlejdkSk5waVY2RnVHV3hZcERXNXpwdHFsdW92UFdma2U1dy1rRkFrdGZoQnhFTHVLZWpYUjBpNDE3OEstMVBxc3dNa3BQNzB6OVdpSGhKZw?oc=5",
-      "score": 75.6,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 05:00:00 GMT",
@@ -107,28 +127,8 @@
       ]
     },
     {
-      "id": "c4d54db2bd61",
-      "title": "Behind the Field Gym Renovation Process - The Forum - The Student News Site of the Latin School of Chicago",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHJ3RnRGa2VmNVpTSms1dnZManM1TEJIbzZnemRlMnZLN2d4QjQ2N2VYV1BGMmcxRG55OUVaaHFrTU85TWF3NjhacnRhLVFiN08yVHd6MVViYV9iSF9SeGphTVBMLWY0LVZHQlRjUXhzYWVjSWR4R1Z3WUxvNUVvS0x3?oc=5\" target=\"_blank\">Behind the Field Gym Renovation",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHJ3RnRGa2VmNVpTSms1dnZManM1TEJIbzZnemRlMnZLN2d4QjQ2N2VYV1BGMmcxRG55OUVaaHFrTU85TWF3NjhacnRhLVFiN08yVHd6MVViYV9iSF9SeGphTVBMLWY0LVZHQlRjUXhzYWVjSWR4R1Z3WUxvNUVvS0x3?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 28 Oct 2026 04:59:57 GMT",
-          "source": "The Forum - The Student News Site of the Latin School of Chicago"
-        }
-      ]
-    },
-    {
-      "id": "a05c20bcb484",
-      "title": "Masked man sparks panic at Titusville Planet Fitness, police say - WKMG",
+      "id": "8ad85d230753",
+      "title": "Masked man sparks panic at Titusville Planet Fitness - WKMG",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWExS1Rsbl9GUDRNbUdaMnROVGFENUVMMm51TUpzTllacUxBNFFUM3J3U3RXNmR4cmthV3BzcFRPTGZCQnBPaUItdGd0d29UekdoYkpMUkFYV2VLcmN5enh0NVNJdzRheDhqbGJtZlBhcmc5YWZ1Tl9faDVPRkNvZUI5ZGJkT0tJVGFVSUhLSEY4NG1lYUNZRDN4d0hiMzZzdWdjLVBKeFNndE",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWExS1Rsbl9GUDRNbUdaMnROVGFENUVMMm51TUpzTllacUxBNFFUM3J3U3RXNmR4cmthV3BzcFRPTGZCQnBPaUItdGd0d29UekdoYkpMUkFYV2VLcmN5enh0NVNJdzRheDhqbGJtZlBhcmc5YWZ1Tl9faDVPRkNvZUI5ZGJkT0tJVGFVSUhLSEY4NG1lYUNZRDN4d0hiMzZzdWdjLVBKeFNndE1xaVM2Ymt5aERTdw?oc=5",
       "score": 68.4,
@@ -138,7 +138,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 03:06:19 GMT",
@@ -147,10 +147,10 @@
       ]
     },
     {
-      "id": "f242cf3eb983",
-      "title": "LA Fitness Opens 30,000-Square-Foot Gym in Tampa - TBBW",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQklJSHJ6ZEZPWmpPTzA0OW4tLWVJS2JIbThpR3p2WTltVC15SXI1T1NZSHpQMlNnVUt0STVUZUdVRU9Pc2xReXpKaDhYNmZuRU1fQ1J6Tm5fNEs3?oc=5\" target=\"_blank\">LA Fitness Opens 30,000-Square-Foot Gym in Tampa</a>&nbsp;&nbsp;<font color=\"#6f6f6",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQklJSHJ6ZEZPWmpPTzA0OW4tLWVJS2JIbThpR3p2WTltVC15SXI1T1NZSHpQMlNnVUt0STVUZUdVRU9Pc2xReXpKaDhYNmZuRU1fQ1J6Tm5fNEs3?oc=5",
+      "id": "f1e9f9363457",
+      "title": "WIU hosting National Senior Health and Fitness Day event Wednesday - WGEM",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjNlSWVLOGpxYlJ5VFBjNVNCVWUxR05RNnV2YkMyS3VfN0Q0X3NkQjBubGwzNzY1WktPaHVUVU50eEFXbHZ5N0dJbENJTTRnU2x5WV94bEJuT0Nmd1BmSWNsZVZwYXExR2NlOTVPaF9DM0FtZjAycGZQbVV1N1E5bHROTmN5Z1RnQy1QOGhvelpiTDk3cEdlbGprONIBrwFBVV95cUxQZ2FZV3",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjNlSWVLOGpxYlJ5VFBjNVNCVWUxR05RNnV2YkMyS3VfN0Q0X3NkQjBubGwzNzY1WktPaHVUVU50eEFXbHZ5N0dJbENJTTRnU2x5WV94bEJuT0Nmd1BmSWNsZVZwYXExR2NlOTVPaF9DM0FtZjAycGZQbVV1N1E5bHROTmN5Z1RnQy1QOGhvelpiTDk3cEdlbGprONIBrwFBVV95cUxQZ2FZV3VZcHFTb0cyUzRnQzlDZ3R5WDItcEJZaU1PcHNwWnZSZE15VUVYX21MTjl0TFZzT1VOd0ozakI5OXpnaU1laTNfVzRBVjRWVzVJY1EyMDlRNzREZmIwOWVWWGlld1Y2YkNCYmFvcTFaM2R0NUp0anJPYlJNQmR0QWhwSW8tYndkcHZIQU9hdGQxYjVwMFFDenJvNHhueW1SWnd1RFdLSmdMUHNB?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,65 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 27 Oct 2026 18:28:55 GMT",
-          "source": "TBBW"
+          "published": "Wed, 28 Oct 2026 00:11:00 GMT",
+          "source": "WGEM"
         }
       ]
     },
     {
-      "id": "fb6c7cca60f7",
-      "title": "Pulaski Heights names gym for Ramona McGee, a first for an LRSD female coach - KATV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxPYTVJcF9TWmJGaWJGbklNUU02ZjFZSkdIZk9PMldxczYyQmtISzV5amJnSGhKakdISmtmUHlzV3NKX21walRqTTlXWXR0MWZ5b2lCWjktcXozZWM5UlBKVUpIcFN4aDZIOThIOElrQm9md3dNeWNhOTVNTWZBYU9RTWYxb3AzbnJacmRKSGVsaDlZY3ktQUp6LWZGMUJvREFMNmJXbkYtVHJaTT",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPYTVJcF9TWmJGaWJGbklNUU02ZjFZSkdIZk9PMldxczYyQmtISzV5amJnSGhKakdISmtmUHlzV3NKX21walRqTTlXWXR0MWZ5b2lCWjktcXozZWM5UlBKVUpIcFN4aDZIOThIOElrQm9md3dNeWNhOTVNTWZBYU9RTWYxb3AzbnJacmRKSGVsaDlZY3ktQUp6LWZGMUJvREFMNmJXbkYtVHJaTTQyOVVNTXZNRUE5RVRzdVVwcEQtckR5Y0M3bmN0djR2czNhOXZPRFpuYVZ6eC1tQnBsR29RUkdnbWtXVmtla3MtWmptY3RnZHlrSWdlajBSRFRRdXZrR2xuLVhiUmV0ZWo1aXptZ2JpcW12UDg4SWRhRXVMeDZ6SHoyLUNNOTJmbnI4MDV1VFlMY040a2dxUFdEakw5aGtSdWRqMmNWdkJGaW11d0FaaDJu?oc=5",
+      "id": "702298648297",
+      "title": "Please STOP Gripping Your Dumbbells Like This!",
+      "summary": "If your wrists hurt when you dumbbell bench press, take a closer look at how you are holding the weights. A small change in your grip may help make this chest exercise more comfortable without completely changing the way you press. In this video, I show you a dumbbell bench press",
+      "url": "https://www.youtube.com/watch?v=j_5du-KhOu4",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:10+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "j_5du-KhOu4",
+          "published": "2026-10-26T17:17:28+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "330d425ab35c",
+      "title": "Joe Rogan Said Exercise Won't Make You Lose Weight",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/oSKqU7-kDbE",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:13+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "oSKqU7-kDbE",
+          "published": "2026-10-27T19:00:15+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "c0e23f71663e",
+      "title": "Providence Equity to acquire Fitness Park from FFC, M Capital and Momentum - PEI Private Equity",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLW9idzlkcnRHQXFfcThlbXY1UU9aLUlCV25tdEp1eUFXWTlPcHFTb185MXlfSkNtYlZrd1o5VEZrTkhSZGFWdjhGZkdLYTNZNkJ5WWRnU1VJanVIcnV1ZWlITlBSWFJtUlJQUVN4eThsZmFCd3ZaNVI2SlpwUEs0YUF0R3BRQkMyTTZnM2l1R3h0ZTBtX2tOU1J6YlA3QnRSa3drRzFFN2tseD",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLW9idzlkcnRHQXFfcThlbXY1UU9aLUlCV25tdEp1eUFXWTlPcHFTb185MXlfSkNtYlZrd1o5VEZrTkhSZGFWdjhGZkdLYTNZNkJ5WWRnU1VJanVIcnV1ZWlITlBSWFJtUlJQUVN4eThsZmFCd3ZaNVI2SlpwUEs0YUF0R3BRQkMyTTZnM2l1R3h0ZTBtX2tOU1J6YlA3QnRSa3drRzFFN2tseDk4X0xQNmxwZDEtODMw?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,13 +224,59 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 27 Oct 2026 23:24:09 GMT",
-          "source": "KATV"
+          "published": "Wed, 28 Oct 2026 09:45:44 GMT",
+          "source": "PEI Private Equity"
         }
       ]
+    },
+    {
+      "id": "d4f536840066",
+      "title": "The ONLY 2 Dumbbell Triceps Exercises You Need (NO, SERIOUSLY!)",
+      "summary": "Get big triceps here - https://athleanx.com\nSubscribe to the channel here - http://bit.ly/2b0coMW\n\nWhat if I told you that here were only 2 dumbbell triceps exercises you need to grow bigger triceps, would you believe me? In this video, I am going to show you how only two dumbbel",
+      "url": "https://www.youtube.com/watch?v=X6LXOWzmUmY",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:10+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "X6LXOWzmUmY",
+          "published": "2026-10-20T15:19:04+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "3505676243e5",
+      "title": "Dr Mike Reacts to AI Dr Mike",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/aCfD4xVyzCM",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:13+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "aCfD4xVyzCM",
+          "published": "2026-10-27T13:00:37+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "58d9da9b9d15",
@@ -198,7 +290,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
           "published": "Mon, 26 Oct 2026 21:08:00 GMT",
@@ -207,10 +299,79 @@
       ]
     },
     {
-      "id": "79618c920adf",
-      "title": "Fashion, fitness, beauty boutiques coming to Water Street Tampa - Business Observer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0p3Z3RNTk1KN0lzeEUxelNnUDdabUgwSVVqQVhJN0tSUDg0MkxYLTBsWUt0dkd3VWFWbWZRNklEd1RvcHllcHdLNEVQc3ZrV3lraWRqUFpFZGcyeVBiN2U5b2RpWHZ2cmF6Q3hoa3JRX2dVNVdYS1FMQ2tyTFYxVmFNbF9YXzlfeWFXbHZyMXlGczlkNG9BUUxwRE9weXVsTXVjTHlLWUE2cG",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0p3Z3RNTk1KN0lzeEUxelNnUDdabUgwSVVqQVhJN0tSUDg0MkxYLTBsWUt0dkd3VWFWbWZRNklEd1RvcHllcHdLNEVQc3ZrV3lraWRqUFpFZGcyeVBiN2U5b2RpWHZ2cmF6Q3hoa3JRX2dVNVdYS1FMQ2tyTFYxVmFNbF9YXzlfeWFXbHZyMXlGczlkNG9BUUxwRE9weXVsTXVjTHlLWUE2cGhZTm9ySEJ6TUM?oc=5",
+      "id": "d5989d8f9087",
+      "title": "STOP Messing Up RDL’s! (I’M BEGGING YOU)",
+      "summary": "Romanian deadlift form starts with one movement: the hip hinge. If you want to build bigger hamstrings and glutes with RDLs, you need to understand how to move your hips instead of simply bending forward to lower the weight. In this video, I’ll show you a common Romanian deadlift",
+      "url": "https://www.youtube.com/shorts/FA-Lj34jOPI",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:10+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "FA-Lj34jOPI",
+          "published": "2026-10-16T19:41:29+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "d02b10f35fb1",
+      "title": "Dr. Mike Won't Arm Wrestle",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/eM9vRNLzfhg",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:13+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "eM9vRNLzfhg",
+          "published": "2026-10-26T19:00:02+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "5b6651fc8d96",
+      "title": "How to Build the Reacher Physique",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
+      "url": "https://www.youtube.com/watch?v=z0K-2kjPRCM",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:13+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "z0K-2kjPRCM",
+          "published": "2026-10-26T16:00:17+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "1c02a058441e",
+      "title": "Need help moving? This Detroiter offers space, support and motivation - Detroit Free Press",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZjQtTnRCYy05Sm1aTER6eXoxbnMtTG5TbnBpWU1SaWdrdUZKdklTTjhGT0hBWTR3cmRybTFxdUFUWi0xYl9oREplMlVUWlIza1ZYYzVVeFI3WExvNG9ab1ZBS3NCR0x6ZEJBcDEzMzFVZjl1TWxnaE05SmdabG1uQXprdG9wZlBFMkhpMjVCOGxkWEY0Ymg3T2ltUFIxWEZ3ZzNkUWJyaVM4ZF",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZjQtTnRCYy05Sm1aTER6eXoxbnMtTG5TbnBpWU1SaWdrdUZKdklTTjhGT0hBWTR3cmRybTFxdUFUWi0xYl9oREplMlVUWlIza1ZYYzVVeFI3WExvNG9ab1ZBS3NCR0x6ZEJBcDEzMzFVZjl1TWxnaE05SmdabG1uQXprdG9wZlBFMkhpMjVCOGxkWEY0Ymg3T2ltUFIxWEZ3ZzNkUWJyaVM4ZFY5QkdZWFhyNXg4cWY3d1FPSlpvS2dTaDg0akprTlU1TQ?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,19 +379,42 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 27 Oct 2026 16:10:00 GMT",
-          "source": "Business Observer"
+          "published": "Wed, 28 Oct 2026 11:04:00 GMT",
+          "source": "Detroit Free Press"
         }
       ]
     },
     {
-      "id": "c96099ad19f1",
-      "title": "Kevin Zeitler offseason workout in Wisconsin - Milwaukee Journal Sentinel",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGZ4cnJoN1BqVVozc0NOcG9Jb0JmQlhrSVdWYXUtSEthOU1CVWNjZVVtTWliczJOYmc2Zjc0UjhTcU1QWTFJem0xc3FsUlR4bWFxWWxzQkNYUU1DN0FGdm9jY0lSZ2N3YVIwbldfZTJQTlpvOHAxNVZQazFvcWVFQVQ5eEVOMFM5ZVpDR0RqZ0JHWm5ab2ROWWswWUNjTXBGRElicGsyaGhEY3",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGZ4cnJoN1BqVVozc0NOcG9Jb0JmQlhrSVdWYXUtSEthOU1CVWNjZVVtTWliczJOYmc2Zjc0UjhTcU1QWTFJem0xc3FsUlR4bWFxWWxzQkNYUU1DN0FGdm9jY0lSZ2N3YVIwbldfZTJQTlpvOHAxNVZQazFvcWVFQVQ5eEVOMFM5ZVpDR0RqZ0JHWm5ab2ROWWswWUNjTXBGRElicGsyaGhEY3luV1BiR21wWjQwLWMzbm9tUDEzT0VmaHhvdlQ0?oc=5",
+      "id": "6fc2218d7cf2",
+      "title": "Anatoly’s Lifts Don’t Add Up",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/WznRAXE9O-w",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:13+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "WznRAXE9O-w",
+          "published": "2026-10-26T13:00:01+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "c4d54db2bd61",
+      "title": "Behind the Field Gym Renovation Process - The Forum - The Student News Site of the Latin School of Chicago",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHJ3RnRGa2VmNVpTSms1dnZManM1TEJIbzZnemRlMnZLN2d4QjQ2N2VYV1BGMmcxRG55OUVaaHFrTU85TWF3NjhacnRhLVFiN08yVHd6MVViYV9iSF9SeGphTVBMLWY0LVZHQlRjUXhzYWVjSWR4R1Z3WUxvNUVvS0x3?oc=5\" target=\"_blank\">Behind the Field Gym Renovation",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHJ3RnRGa2VmNVpTSms1dnZManM1TEJIbzZnemRlMnZLN2d4QjQ2N2VYV1BGMmcxRG55OUVaaHFrTU85TWF3NjhacnRhLVFiN08yVHd6MVViYV9iSF9SeGphTVBMLWY0LVZHQlRjUXhzYWVjSWR4R1Z3WUxvNUVvS0x3?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -238,19 +422,65 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 27 Oct 2026 21:40:00 GMT",
-          "source": "Milwaukee Journal Sentinel"
+          "published": "Wed, 28 Oct 2026 04:59:57 GMT",
+          "source": "The Forum - The Student News Site of the Latin School of Chicago"
         }
       ]
     },
     {
-      "id": "d211cd0d14e9",
-      "title": "Houston, We Have a Workout: Watch This Peloton Ride With Astronaut Jessica Meir - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSE03aWh5Mi1sNDBwaGlfNG5fV0VBSjJRMFBjS3VBMzg4TzlzMzdISG04U1pnaEV6aENSbGJaSXRYbXAxbnRUN0RiVlBwYWdENWdIdlN2VFhPOS1LNTV0QkFPYXBIVTlxN0NSdlRKUGR5dGVMMGh6NVptMm9jNC1yZ2ctTzFXVkVJbEpJYUN0LWk?oc=5\" target=\"_blank\">Houston, We ",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSE03aWh5Mi1sNDBwaGlfNG5fV0VBSjJRMFBjS3VBMzg4TzlzMzdISG04U1pnaEV6aENSbGJaSXRYbXAxbnRUN0RiVlBwYWdENWdIdlN2VFhPOS1LNTV0QkFPYXBIVTlxN0NSdlRKUGR5dGVMMGh6NVptMm9jNC1yZ2ctTzFXVkVJbEpJYUN0LWk?oc=5",
+      "id": "85912224d5a1",
+      "title": "How To Improve Your Shape On A GLP-1",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/pgixBI3_od0",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:13+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "pgixBI3_od0",
+          "published": "2026-10-25T19:00:05+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "b0eac246a467",
+      "title": "Would You Pay $350K a Year to Get Jacked?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/NTFWfB4TyTA",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:13+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "NTFWfB4TyTA",
+          "published": "2026-10-25T13:00:00+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "f242cf3eb983",
+      "title": "LA Fitness Opens 30,000-Square-Foot Gym in Tampa - TBBW",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQklJSHJ6ZEZPWmpPTzA0OW4tLWVJS2JIbThpR3p2WTltVC15SXI1T1NZSHpQMlNnVUt0STVUZUdVRU9Pc2xReXpKaDhYNmZuRU1fQ1J6Tm5fNEs3?oc=5\" target=\"_blank\">LA Fitness Opens 30,000-Square-Foot Gym in Tampa</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQklJSHJ6ZEZPWmpPTzA0OW4tLWVJS2JIbThpR3p2WTltVC15SXI1T1NZSHpQMlNnVUt0STVUZUdVRU9Pc2xReXpKaDhYNmZuRU1fQ1J6Tm5fNEs3?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -258,19 +488,42 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 28 Oct 2026 00:10:24 GMT",
-          "source": "CNET"
+          "published": "Tue, 27 Oct 2026 18:28:55 GMT",
+          "source": "TBBW"
         }
       ]
     },
     {
-      "id": "cc65eaeda54c",
-      "title": "Crunch Fitness eying early 2027 opening for new location in Kingwood - Community Impact Newspaper",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUZKOHNhbjdpTFhFUnJVOTcwcHk4M0FidWJLQ2VTS3phR2FySFJPWmptdnF5ZkY2SzVnYjY4alVtaTU4ZnNLNHpoM0pBVlhPREtiSWF2d09JcVRpblAtc1pBOURJZ0F4VXE4SGJNY1lIdXpoNHhKMjlRY0tzRi1faGYtV2VMMTRuVS1IaDVmNnBncHRPN1IzVXFmY2VjbWxRNC1MM0ZMWkR2Rm",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUZKOHNhbjdpTFhFUnJVOTcwcHk4M0FidWJLQ2VTS3phR2FySFJPWmptdnF5ZkY2SzVnYjY4alVtaTU4ZnNLNHpoM0pBVlhPREtiSWF2d09JcVRpblAtc1pBOURJZ0F4VXE4SGJNY1lIdXpoNHhKMjlRY0tzRi1faGYtV2VMMTRuVS1IaDVmNnBncHRPN1IzVXFmY2VjbWxRNC1MM0ZMWkR2RmpjUW9JZ0ZxRVdiQ0NSSVlYVG9vbjAwd09TeGJCLW9HVXpSeWM1?oc=5",
+      "id": "a5340c63066c",
+      "title": "Thor's Arms Are 24 inches?!",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/bfG9M_UlmPo",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-28T12:44:13+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "bfG9M_UlmPo",
+          "published": "2026-10-24T19:00:25+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "374b65241638",
+      "title": "How Gym Chains Can Train Every Location the Same Way - Athletech News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjFmMEFtZUlncWZZLTl1eW5UT0JqUXlQc09SbXU1dk95S1ZoTG53VmlHVW9ncVNoMUZVMlBnMTY4ZkZNYnUyWnJzVjFvdXZWR0NwRmM3T3VPOEdPSXMzRUFMQU5tYnh2R2dnMjZES0FvOE93MmI2RC1LRHpSNmZDeEs1R0dNdw?oc=5\" target=\"_blank\">How Gym Chains Can Train ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjFmMEFtZUlncWZZLTl1eW5UT0JqUXlQc09SbXU1dk95S1ZoTG53VmlHVW9ncVNoMUZVMlBnMTY4ZkZNYnUyWnJzVjFvdXZWR0NwRmM3T3VPOEdPSXMzRUFMQU5tYnh2R2dnMjZES0FvOE93MmI2RC1LRHpSNmZDeEs1R0dNdw?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -278,131 +531,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
+      "first_seen": "2026-10-28T12:41:46+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 28 Oct 2026 01:22:00 GMT",
-          "source": "Community Impact Newspaper"
-        }
-      ]
-    },
-    {
-      "id": "f917b1332c38",
-      "title": "Fitness-anchored retail center in Broward sold for $16M - The Business Journals",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdHZZUFZVdHhGcGh0SlhWbG9KSDNnZlp6YzJ3OHNjYmNyNVNTb0U4ZmplaXZxMlRTYkJ0MTVrdVVtLWlZZVpfVW5wQURkUDFoRjUzMzJqdEwwSVRpSjBLU0ZRRjFLVDVSa0ZfRHdqbHZvRjVvanlXZXQwV1NETjV2VEprNDVlaFg2Y2RvZGljbDVoRlRPRGlySDNKRFZIdw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHZZUFZVdHhGcGh0SlhWbG9KSDNnZlp6YzJ3OHNjYmNyNVNTb0U4ZmplaXZxMlRTYkJ0MTVrdVVtLWlZZVpfVW5wQURkUDFoRjUzMzJqdEwwSVRpSjBLU0ZRRjFLVDVSa0ZfRHdqbHZvRjVvanlXZXQwV1NETjV2VEprNDVlaFg2Y2RvZGljbDVoRlRPRGlySDNKRFZIdw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 28 Oct 2026 03:15:00 GMT",
-          "source": "The Business Journals"
-        }
-      ]
-    },
-    {
-      "id": "f0c4e4afad62",
-      "title": "This 53-Year-Old Got More Swole With Age. He Swears By These 4 Training Strategies. - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0V2VUtMSFZIdUN6OHpLR25uSDF5SFl5Ynlnc1JHWGp0cXQ0U3N3eUlBSnQtVkU1N0ZJLWgzSW1sYVUxV3diaXA1OWY1dVhMdFl4MU5vLWpxS1d0a0hhdkhuOUVDaHRpdEw2SWpDd3hVREpKaFVvYVNKTnZzQVNQTA?oc=5\" target=\"_blank\">This 53-Year-Old Got More Swole W",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0V2VUtMSFZIdUN6OHpLR25uSDF5SFl5Ynlnc1JHWGp0cXQ0U3N3eUlBSnQtVkU1N0ZJLWgzSW1sYVUxV3diaXA1OWY1dVhMdFl4MU5vLWpxS1d0a0hhdkhuOUVDaHRpdEw2SWpDd3hVREpKaFVvYVNKTnZzQVNQTA?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 27 Oct 2026 16:28:00 GMT",
-          "source": "Men's Health"
-        }
-      ]
-    },
-    {
-      "id": "277f1023c8d7",
-      "title": "Creatine beyond the gym - KXLY.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXpCVkRvdjlvUWp5WFVfcFFYQzFCYndiQTQ0ZUlJSjdSWDBRdGtrOE1iNVdjdUlueGdPWU5XalBRRUI2LUJ4M3MyYURlS3VHZF9fV2RCb0NVVzI2OTBBUFdpenpzbmI3ZFFodUo2c2FHTWhQS0cwcEE5bHVRdDRhcFRjcWhLMk5URlN1aVlXZWxhN2xKaV9KN1hrMjJSc28?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXpCVkRvdjlvUWp5WFVfcFFYQzFCYndiQTQ0ZUlJSjdSWDBRdGtrOE1iNVdjdUlueGdPWU5XalBRRUI2LUJ4M3MyYURlS3VHZF9fV2RCb0NVVzI2OTBBUFdpenpzbmI3ZFFodUo2c2FHTWhQS0cwcEE5bHVRdDRhcFRjcWhLMk5URlN1aVlXZWxhN2xKaV9KN1hrMjJSc28?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 28 Oct 2026 01:58:00 GMT",
-          "source": "KXLY.com"
-        }
-      ]
-    },
-    {
-      "id": "4dbff457b0bc",
-      "title": "41-year-old gym chain closes locations and won’t let members quit - TheStreet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVRZRlk2SGtfQnlGQm9maF9FU1E3bGRfMWc2Z29razBEdERUME1uWV9ndUVLeTg4eG56czhObW8tWW1DVm1nYWxoZmVLcnpBS0JRTERxUUhqdDBqOVhVZWZLVUpsUFkwV3FOZnE0dXNjNWRhRW94bC1KNlZGb1BfWHBmMHJ5aDV5a1FwMmMxM19CLXRIcnpPXzdteERWVDA?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVRZRlk2SGtfQnlGQm9maF9FU1E3bGRfMWc2Z29razBEdERUME1uWV9ndUVLeTg4eG56czhObW8tWW1DVm1nYWxoZmVLcnpBS0JRTERxUUhqdDBqOVhVZWZLVUpsUFkwV3FOZnE0dXNjNWRhRW94bC1KNlZGb1BfWHBmMHJ5aDV5a1FwMmMxM19CLXRIcnpPXzdteERWVDA?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 27 Oct 2026 21:09:46 GMT",
-          "source": "TheStreet"
-        }
-      ]
-    },
-    {
-      "id": "8366a06993dc",
-      "title": "New York-based fitness studio to open in River Oaks - Community Impact Newspaper",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVVSX3RWLVEtd21YcS1GZUpBUWNUTzV2R0xkdkF6WnRuSTVheVNmTGFpQU9UMXpIaEY2UF9HblRCa0g1ZTVwc1RnWjZrNnVYLTZDVTY5SmgyT2lTN3kxMEVxR3M1cjVEMlZMbGoxUklzaTZaUkd2QmpoUTh1UjVrZU1sTmJFcFZjSUpUamFsZlVBM2hFMXVvWGR1TWljNHlpVmFPeTBLeWxMQ1",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVVSX3RWLVEtd21YcS1GZUpBUWNUTzV2R0xkdkF6WnRuSTVheVNmTGFpQU9UMXpIaEY2UF9HblRCa0g1ZTVwc1RnWjZrNnVYLTZDVTY5SmgyT2lTN3kxMEVxR3M1cjVEMlZMbGoxUklzaTZaUkd2QmpoUTh1UjVrZU1sTmJFcFZjSUpUamFsZlVBM2hFMXVvWGR1TWljNHlpVmFPeTBLeWxMQ1hHQXgyb0R6U3l2dHc1?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 27 Oct 2026 21:40:00 GMT",
-          "source": "Community Impact Newspaper"
-        }
-      ]
-    },
-    {
-      "id": "7b7895e44c70",
-      "title": "Crunch Fitness coming to Commons at Willowbrook | Spring - Klein - Community Impact Newspaper",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPTllDbUVFd0dnNm1JcHRJNkxsS25vd1VVNFdtTlBYY2phVmhkcHRYNlJjU2MtdExESE5sdWJIZGY4M1BUUk5XeWF6U3VFMEpRdVZOZEM5TzM0a0RlVDhPWE1oaVZwazJud1RzSWY3NHdzOVQxZjM1bEtvYXlvNmppNEFVUjRKeExQeC1lLUx1SkdPbHF5MWViMDhTYVNCTkk?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTllDbUVFd0dnNm1JcHRJNkxsS25vd1VVNFdtTlBYY2phVmhkcHRYNlJjU2MtdExESE5sdWJIZGY4M1BUUk5XeWF6U3VFMEpRdVZOZEM5TzM0a0RlVDhPWE1oaVZwazJud1RzSWY3NHdzOVQxZjM1bEtvYXlvNmppNEFVUjRKeExQeC1lLUx1SkdPbHF5MWViMDhTYVNCTkk?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-10-28T05:28:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 27 Oct 2026 19:02:00 GMT",
-          "source": "Community Impact Newspaper"
+          "published": "Wed, 28 Oct 2026 10:30:00 GMT",
+          "source": "Athletech News"
         }
       ]
     }
