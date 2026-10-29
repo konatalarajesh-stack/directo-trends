@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "IN",
-  "generated_at": "2026-10-28T22:39:17+00:00",
+  "generated_at": "2026-10-29T05:46:24+00:00",
   "cache_ttl_hours": 6,
-  "count": 21,
+  "count": 20,
   "trends": [
     {
       "id": "47cf7176390e",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 14:12:53 GMT",
@@ -38,7 +38,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 12:16:00 GMT",
@@ -47,10 +47,10 @@
       ]
     },
     {
-      "id": "6dcd62391222",
-      "title": "TikTok Turns Food Trends Into Local Restaurant Recommendations - Android Headlines",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbm5BUmZsRHo0NVNTZUJ1Y0JORUZDcW8zTEszWHB2NmlTUHNLZXgtV3B5RWZUc2RUbDV4WWY1aHhKV0dmLWhqbW5vOGsxcXUwaXZ0R3VScmFnNTRFcmQyM3c1NVBBQzdENXZ1U2ZuQU9IU1dydEZiQWNiTldNSUdwOUFDQTlHSkVrZmxzcVR5VWVDNVpIUGNpS3o1dWFGRkMxQ25zT1JhU0FSRk",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbm5BUmZsRHo0NVNTZUJ1Y0JORUZDcW8zTEszWHB2NmlTUHNLZXgtV3B5RWZUc2RUbDV4WWY1aHhKV0dmLWhqbW5vOGsxcXUwaXZ0R3VScmFnNTRFcmQyM3c1NVBBQzdENXZ1U2ZuQU9IU1dydEZiQWNiTldNSUdwOUFDQTlHSkVrZmxzcVR5VWVDNVpIUGNpS3o1dWFGRkMxQ25zT1JhU0FSRkF1?oc=5",
+      "id": "4b68b8181927",
+      "title": "Fact or Fad? Parsing Food Trends From Real Nutrition Science to Support Health - TriplePundit",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBNU1d6Y0xHYTNuOEV4bUM4bVdfYkx5ckF6YVQyQnc3d25OTnIzazBuMnNMR0ZPWnY2XzNldjYtNFFua01LOVhhOW5YSk9EREVfbXktWjUzWkVVU1VmbnFRemF6d28wQXdtU1E?oc=5\" target=\"_blank\">Fact or Fad? Parsing Food Trends From Real Nutrition Science to ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNU1d6Y0xHYTNuOEV4bUM4bVdfYkx5ckF6YVQyQnc3d25OTnIzazBuMnNMR0ZPWnY2XzNldjYtNFFua01LOVhhOW5YSk9EREVfbXktWjUzWkVVU1VmbnFRemF6d28wQXdtU1E?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,7 +58,27 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 27 Oct 2026 18:32:05 GMT",
+          "source": "TriplePundit"
+        }
+      ]
+    },
+    {
+      "id": "6dcd62391222",
+      "title": "TikTok Turns Food Trends Into Local Restaurant Recommendations - Android Headlines",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbm5BUmZsRHo0NVNTZUJ1Y0JORUZDcW8zTEszWHB2NmlTUHNLZXgtV3B5RWZUc2RUbDV4WWY1aHhKV0dmLWhqbW5vOGsxcXUwaXZ0R3VScmFnNTRFcmQyM3c1NVBBQzdENXZ1U2ZuQU9IU1dydEZiQWNiTldNSUdwOUFDQTlHSkVrZmxzcVR5VWVDNVpIUGNpS3o1dWFGRkMxQ25zT1JhU0FSRk",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbm5BUmZsRHo0NVNTZUJ1Y0JORUZDcW8zTEszWHB2NmlTUHNLZXgtV3B5RWZUc2RUbDV4WWY1aHhKV0dmLWhqbW5vOGsxcXUwaXZ0R3VScmFnNTRFcmQyM3c1NVBBQzdENXZ1U2ZuQU9IU1dydEZiQWNiTldNSUdwOUFDQTlHSkVrZmxzcVR5VWVDNVpIUGNpS3o1dWFGRkMxQ25zT1JhU0FSRkF1?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "IN",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 20:57:38 GMT",
@@ -71,14 +91,14 @@
       "title": "Nestle USA names top trends for 2027 - Food Business News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnVqU05HcVB6UXh3dFY2R2dxc2J5akVwWmhpQzROX0FmUjlScjJFNlQ5M3Ezalc2NzlVN0Q5aldNZGZpZXRITkpOLVhvSXcwMFoxX0NzX1NmbzVhQ3JSNGZxdzUzSDB2OVpuSmx5WWRZZG0xbmp4QVFTT21xc29lMUtHamhCMXYtWmk4RQ?oc=5\" target=\"_blank\">Nestle USA names ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnVqU05HcVB6UXh3dFY2R2dxc2J5akVwWmhpQzROX0FmUjlScjJFNlQ5M3Ezalc2NzlVN0Q5aldNZGZpZXRITkpOLVhvSXcwMFoxX0NzX1NmbzVhQ3JSNGZxdzUzSDB2OVpuSmx5WWRZZG0xbmp4QVFTT21xc29lMUtHamhCMXYtWmk4RQ?oc=5",
-      "score": 79.2,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 11:22:15 GMT",
@@ -87,22 +107,22 @@
       ]
     },
     {
-      "id": "4b68b8181927",
-      "title": "Fact or Fad? Parsing Food Trends From Real Nutrition Science to Support Health - TriplePundit",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBNU1d6Y0xHYTNuOEV4bUM4bVdfYkx5ckF6YVQyQnc3d25OTnIzazBuMnNMR0ZPWnY2XzNldjYtNFFua01LOVhhOW5YSk9EREVfbXktWjUzWkVVU1VmbnFRemF6d28wQXdtU1E?oc=5\" target=\"_blank\">Fact or Fad? Parsing Food Trends From Real Nutrition Science to ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNU1d6Y0xHYTNuOEV4bUM4bVdfYkx5ckF6YVQyQnc3d25OTnIzazBuMnNMR0ZPWnY2XzNldjYtNFFua01LOVhhOW5YSk9EREVfbXktWjUzWkVVU1VmbnFRemF6d28wQXdtU1E?oc=5",
-      "score": 75.6,
+      "id": "f346cb80a346",
+      "title": "Pongamia Food Oils Market Size, Share, Trends 2036 - Future Market Insights",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ZHdYWW41TGZFTVNrOEhGWkg4eEZSa0RjTzRDV280UkpFdFhqR28zWjZQSkZLR2hGVHhRMGY0dkF4Q2c0OXBPeWdnek5BLW9DYXlsQk1pT2pNemx4XzdRZldJRnIxUWtDN0tzOXNUdFBLOGhodjZpTzlB?oc=5\" target=\"_blank\">Pongamia Food Oils Market Size, Share, Tren",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ZHdYWW41TGZFTVNrOEhGWkg4eEZSa0RjTzRDV280UkpFdFhqR28zWjZQSkZLR2hGVHhRMGY0dkF4Q2c0OXBPeWdnek5BLW9DYXlsQk1pT2pNemx4XzdRZldJRnIxUWtDN0tzOXNUdFBLOGhodjZpTzlB?oc=5",
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 27 Oct 2026 18:32:05 GMT",
-          "source": "TriplePundit"
+          "published": "Tue, 27 Oct 2026 18:30:00 GMT",
+          "source": "Future Market Insights"
         }
       ]
     },
@@ -111,26 +131,6 @@
       "title": "The ‘South Park’ Boys Have Beef with Food Trends in New Episode - Animation Magazine",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWU81ZXhSVzhCWm40cFJUNWE3bW0tWUJmOGVFLVlReXhEQi02WTlBTGNfZ1JMbTVzRVdwYnBnWTFVb19MZUVFT3YwdDJzTzlSXzBNNmpqWWVXTm1OVkxVUTRxdlBqNmZzcWsyem5yV0RLaTBuaE8wcEhjZUZ6RENhcFRTbFI3cDRjRVowNGVtb2E0a3RYRHlKUFZaaG9MS0hBUnQ3eF9XTQ?oc=",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWU81ZXhSVzhCWm40cFJUNWE3bW0tWUJmOGVFLVlReXhEQi02WTlBTGNfZ1JMbTVzRVdwYnBnWTFVb19MZUVFT3YwdDJzTzlSXzBNNmpqWWVXTm1OVkxVUTRxdlBqNmZzcWsyem5yV0RLaTBuaE8wcEhjZUZ6RENhcFRTbFI3cDRjRVowNGVtb2E0a3RYRHlKUFZaaG9MS0hBUnQ3eF9XTQ?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 28 Oct 2026 18:25:43 GMT",
-          "source": "Animation Magazine"
-        }
-      ]
-    },
-    {
-      "id": "f346cb80a346",
-      "title": "Pongamia Food Oils Market Size, Share, Trends 2036 - Future Market Insights",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ZHdYWW41TGZFTVNrOEhGWkg4eEZSa0RjTzRDV280UkpFdFhqR28zWjZQSkZLR2hGVHhRMGY0dkF4Q2c0OXBPeWdnek5BLW9DYXlsQk1pT2pNemx4XzdRZldJRnIxUWtDN0tzOXNUdFBLOGhodjZpTzlB?oc=5\" target=\"_blank\">Pongamia Food Oils Market Size, Share, Tren",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ZHdYWW41TGZFTVNrOEhGWkg4eEZSa0RjTzRDV280UkpFdFhqR28zWjZQSkZLR2hGVHhRMGY0dkF4Q2c0OXBPeWdnek5BLW9DYXlsQk1pT2pNemx4XzdRZldJRnIxUWtDN0tzOXNUdFBLOGhodjZpTzlB?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,11 +138,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 27 Oct 2026 18:30:00 GMT",
-          "source": "Future Market Insights"
+          "published": "Wed, 28 Oct 2026 18:25:43 GMT",
+          "source": "Animation Magazine"
         }
       ]
     },
@@ -158,36 +158,13 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 13:44:49 GMT",
           "source": "Hyderabad Mail"
         }
       ]
-    },
-    {
-      "id": "f83cb7febe01",
-      "title": "I Tested Viral TikTok Recipes",
-      "summary": "This episode is sponsored by Squarespace. Head to http://bit.ly/squarespacebabish to save 10% off your first purchase of a website or domain using code BABISH.\n\nOn this episode of With Babish, we're making viral TikTok recipes!\n\nRecipes: https://www.babi.sh/recipes/trying-tiktok-",
-      "url": "https://www.youtube.com/watch?v=COvngm7VbZs",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "cooking",
-      "region": "global",
-      "first_seen": "2026-10-28T22:32:36+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
-          "channel_title": "Binging with Babish",
-          "video_id": "COvngm7VbZs",
-          "published": "2026-10-24T13:00:09+00:00"
-        }
-      ],
-      "is_global": true
     },
     {
       "id": "c83a17f18e0c",
@@ -201,7 +178,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Tue, 27 Oct 2026 10:06:09 GMT",
@@ -221,7 +198,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 11 Mar 2026 07:00:00 GMT",
@@ -241,7 +218,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Mon, 26 Oct 2026 10:52:50 GMT",
@@ -261,7 +238,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Mon, 26 Oct 2026 04:23:34 GMT",
@@ -281,7 +258,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 23:58:51 GMT",
@@ -301,7 +278,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Fri, 04 Sep 2026 11:33:57 GMT",
@@ -310,10 +287,10 @@
       ]
     },
     {
-      "id": "66aed8ec9984",
-      "title": "Research report: Food insecurity during a cost‑of‑living crisis: trends - Bioengineer.org",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUGp4cW8zd2tVa1paQUh1MEtFWTliVWJWcU94a0VSUi16VVk0cTdRM1VXMzlnMS1JYWllOVgxSVlURnFvWXM2cUxBTlZiRkxsYXBiLUNmNWlGM2oxNFBOLW04M1pkSVdXcDlWeEtITV9qS0ZhOW9OMEtzVFg3dVZQSXpMWUp5VlZtbVNmNV8wZ192SnBYbERRX0ZwZkdicDlvNjVhaUdDVWI3X2",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUGp4cW8zd2tVa1paQUh1MEtFWTliVWJWcU94a0VSUi16VVk0cTdRM1VXMzlnMS1JYWllOVgxSVlURnFvWXM2cUxBTlZiRkxsYXBiLUNmNWlGM2oxNFBOLW04M1pkSVdXcDlWeEtITV9qS0ZhOW9OMEtzVFg3dVZQSXpMWUp5VlZtbVNmNV8wZ192SnBYbERRX0ZwZkdicDlvNjVhaUdDVWI3X2htdmNEVU1hZUdKUmxhTEZsNEJRWF9PM1d1OWE3dGNweDRFb2hGWGwzNHVwRjVYNFVLbDhGSW9qMmw?oc=5",
+      "id": "bb3c0fa7e2bd",
+      "title": "Recipe report: FSD Chefs Immersion West Coast - FoodService Director",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BYTzJ5Q21xa05Rb3p5SXlMYy1TbGFzRnJCbEpzUzdyNnJxSHZDazh1elE0dno0XzFScDZiaU42WFJkelJQOVJWSW1KT29CRHpLSl96S3l5bWo0ZWkyNWFrT3FPM21pMVBZWkR6TEQtanZzM3hCYWtXSjRpZ3J3OGM4bTdYZUpsVVpsUms4UG1hQWVrcTlpeWNjaWN1STZiNXF3?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BYTzJ5Q21xa05Rb3p5SXlMYy1TbGFzRnJCbEpzUzdyNnJxSHZDazh1elE0dno0XzFScDZiaU42WFJkelJQOVJWSW1KT29CRHpLSl96S3l5bWo0ZWkyNWFrT3FPM21pMVBZWkR6TEQtanZzM3hCYWtXSjRpZ3J3OGM4bTdYZUpsVVpsUms4UG1hQWVrcTlpeWNjaWN1STZiNXF3?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -321,11 +298,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 28 Oct 2026 07:17:29 GMT",
-          "source": "Bioengineer.org"
+          "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+          "source": "FoodService Director"
         }
       ]
     },
@@ -341,7 +318,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 14 Oct 2026 07:00:00 GMT",
@@ -350,10 +327,10 @@
       ]
     },
     {
-      "id": "cc495bf1bdc5",
-      "title": "8 Food Trends You’ll See Everywhere in 2027, According to Whole Foods Market - Martha Stewart",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1nc3BJN1g4NFpURTlMak1JZTk0Yllkd1Uwd29hdVNmRWppanpJVzAtTlZnTlpKRjVzWU5kQWtETF9UWXQ2eU1YLTIwcDBmVjVqR3QzNTN6YllWTy15S3lEM3hQaW16ZDVXTGFOVTVLaHRZVm9PQXVTR2RESnQ0M1E?oc=5\" target=\"_blank\">8 Food Trends You’ll See Everywhere ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nc3BJN1g4NFpURTlMak1JZTk0Yllkd1Uwd29hdVNmRWppanpJVzAtTlZnTlpKRjVzWU5kQWtETF9UWXQ2eU1YLTIwcDBmVjVqR3QzNTN6YllWTy15S3lEM3hQaW16ZDVXTGFOVTVLaHRZVm9PQXVTR2RESnQ0M1E?oc=5",
+      "id": "66aed8ec9984",
+      "title": "Research report: Food insecurity during a cost‑of‑living crisis: trends - Bioengineer.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUGp4cW8zd2tVa1paQUh1MEtFWTliVWJWcU94a0VSUi16VVk0cTdRM1VXMzlnMS1JYWllOVgxSVlURnFvWXM2cUxBTlZiRkxsYXBiLUNmNWlGM2oxNFBOLW04M1pkSVdXcDlWeEtITV9qS0ZhOW9OMEtzVFg3dVZQSXpMWUp5VlZtbVNmNV8wZ192SnBYbERRX0ZwZkdicDlvNjVhaUdDVWI3X2",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUGp4cW8zd2tVa1paQUh1MEtFWTliVWJWcU94a0VSUi16VVk0cTdRM1VXMzlnMS1JYWllOVgxSVlURnFvWXM2cUxBTlZiRkxsYXBiLUNmNWlGM2oxNFBOLW04M1pkSVdXcDlWeEtITV9qS0ZhOW9OMEtzVFg3dVZQSXpMWUp5VlZtbVNmNV8wZ192SnBYbERRX0ZwZkdicDlvNjVhaUdDVWI3X2htdmNEVU1hZUdKUmxhTEZsNEJRWF9PM1d1OWE3dGNweDRFb2hGWGwzNHVwRjVYNFVLbDhGSW9qMmw?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -361,19 +338,19 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "source": "Martha Stewart"
+          "published": "Wed, 28 Oct 2026 07:17:29 GMT",
+          "source": "Bioengineer.org"
         }
       ]
     },
     {
-      "id": "860fe4aaa6c1",
-      "title": "Natural Food Stocks to Gain Momentum as Health Trends Drive Demand - Zacks Investment Research",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmZmRjF4NDJpMnRjWjRJN0FPWUplR2toSkc5d0ZiQ3pFNHhMRzZvc3ZaeWNBTzBONGJPNjlrS21lbFV3b0oyd0o2VlpUQndOWVlBakVFS0tiRnhiVm12bmdCekRZbUYycjVSd2dGQWlmT2xrNHFidG5FenlNWVRkaFd5RXpVanpKczZRaHFvWUZUajZQQnBwaWZxTUF5eXVsTHlCWjBqMHFocG",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmZmRjF4NDJpMnRjWjRJN0FPWUplR2toSkc5d0ZiQ3pFNHhMRzZvc3ZaeWNBTzBONGJPNjlrS21lbFV3b0oyd0o2VlpUQndOWVlBakVFS0tiRnhiVm12bmdCekRZbUYycjVSd2dGQWlmT2xrNHFidG5FenlNWVRkaFd5RXpVanpKczZRaHFvWUZUajZQQnBwaWZxTUF5eXVsTHlCWjBqMHFocGM?oc=5",
+      "id": "f450ff355c6c",
+      "title": "German diners develop taste for NZ farmed venison - Farmers Weekly",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxORjdpRzRmNVVtdXNZZzZYdUloRW1WcWNOb0lVM3B2TGFzaG1BUFdwdXp4TTJid2RzdlRMQS1TSUNkcWY3VDUwTEo1S0FhRVFFVHNLU1p2eGlueDFTU3ljNHFwSThwY0ZlaHVFc0x2UVp4M1pFNjd2eFkyNmZYYXJDQXhSYXB4SS05elRNa2U2ajNqNWJWYnFjNzN6a19lZjl0b2Y1Y1d6N2VVQ3",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORjdpRzRmNVVtdXNZZzZYdUloRW1WcWNOb0lVM3B2TGFzaG1BUFdwdXp4TTJid2RzdlRMQS1TSUNkcWY3VDUwTEo1S0FhRVFFVHNLU1p2eGlueDFTU3ljNHFwSThwY0ZlaHVFc0x2UVp4M1pFNjd2eFkyNmZYYXJDQXhSYXB4SS05elRNa2U2ajNqNWJWYnFjNzN6a19lZjl0b2Y1Y1d6N2VVQ3RGMG01QUN0SWlXSHlabVVhTFpMSXIybE54bmhoM1lsVU5QeTNsNzNURHBYZw?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -381,11 +358,11 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 27 Oct 2026 16:00:16 GMT",
-          "source": "Zacks Investment Research"
+          "published": "Thu, 29 Oct 2026 01:05:37 GMT",
+          "source": "Farmers Weekly"
         }
       ]
     },
@@ -401,7 +378,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Tue, 27 Oct 2026 13:41:24 GMT",
@@ -421,7 +398,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "IN",
-      "first_seen": "2026-10-28T22:30:17+00:00",
+      "first_seen": "2026-10-29T05:37:29+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 20:51:45 GMT",
