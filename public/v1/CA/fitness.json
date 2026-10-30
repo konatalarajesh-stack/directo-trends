@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "CA",
-  "generated_at": "2026-10-29T22:51:01+00:00",
+  "generated_at": "2026-10-30T05:45:05+00:00",
   "cache_ttl_hours": 6,
-  "count": 19,
+  "count": 20,
   "trends": [
     {
-      "id": "28998bd3b104",
-      "title": "Spotlight: How to pick a fitness club you’ll still use six months from now - Guelph News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjdZUU5aR1BJQU04azJjQ3kzMWVHbDVUZzhtamFBbEFCZmtDOFlOSGkzb1lZQ2hrMTZXeVJ1N0RxRUp2cHgtWG1INzZfMmJ4UGtncHZuZGhEQUZIaWI0US1WVFh0Zk5EZGF2Q3BqdW15YjlVOGFoZ29UNzhHQWkxZWtCOGFMTm5HS2NFblIwdXd4cWtWRzN4dTk0dmpxZVhHNlFxUk9aVGdIWk",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjdZUU5aR1BJQU04azJjQ3kzMWVHbDVUZzhtamFBbEFCZmtDOFlOSGkzb1lZQ2hrMTZXeVJ1N0RxRUp2cHgtWG1INzZfMmJ4UGtncHZuZGhEQUZIaWI0US1WVFh0Zk5EZGF2Q3BqdW15YjlVOGFoZ29UNzhHQWkxZWtCOGFMTm5HS2NFblIwdXd4cWtWRzN4dTk0dmpxZVhHNlFxUk9aVGdIWkhBdXc?oc=5",
+      "id": "27b87259a381",
+      "title": "Centennial College - Centennial Wins Gold at York Regional Police Fitness and Report Writing Challenge - Education News Canada",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxON21LMFlEdlE3OFVXZ2wxcFpsS0tYUEJGZlZFam1fQlc1WTZwSFUtQ2xJbGdIZ1lTTkthbGhjYzdRTEFjSk1LcjczellqX1UzV1hVay1VRDdwb3ExNEtIVVBELS1TSzVvVDhyalFaSDJzSVl3Q25qNlctbmJLVDRNNkl1RUhHNGtZWjFWbVc0OXlrVHBIQmpRQTA2RUNEUE5yb3MtMUJtSDFEdU",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON21LMFlEdlE3OFVXZ2wxcFpsS0tYUEJGZlZFam1fQlc1WTZwSFUtQ2xJbGdIZ1lTTkthbGhjYzdRTEFjSk1LcjczellqX1UzV1hVay1VRDdwb3ExNEtIVVBELS1TSzVvVDhyalFaSDJzSVl3Q25qNlctbmJLVDRNNkl1RUhHNGtZWjFWbVc0OXlrVHBIQmpRQTA2RUNEUE5yb3MtMUJtSDFEdUVGWERsRFpjcUF0TzZyNlJldVdOa21xdFhHUXVqNWhRRThnazVuVkRwQXZGbGFxaGxjRWxjRFV6dzZzMF8za0xiN2x2ZWExbWc?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 30 Oct 2026 04:04:57 GMT",
+          "source": "Education News Canada"
+        }
+      ]
+    },
+    {
+      "id": "28998bd3b104",
+      "title": "Spotlight: How to pick a fitness club you’ll still use six months from now - Guelph News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjdZUU5aR1BJQU04azJjQ3kzMWVHbDVUZzhtamFBbEFCZmtDOFlOSGkzb1lZQ2hrMTZXeVJ1N0RxRUp2cHgtWG1INzZfMmJ4UGtncHZuZGhEQUZIaWI0US1WVFh0Zk5EZGF2Q3BqdW15YjlVOGFoZ29UNzhHQWkxZWtCOGFMTm5HS2NFblIwdXd4cWtWRzN4dTk0dmpxZVhHNlFxUk9aVGdIWk",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjdZUU5aR1BJQU04azJjQ3kzMWVHbDVUZzhtamFBbEFCZmtDOFlOSGkzb1lZQ2hrMTZXeVJ1N0RxRUp2cHgtWG1INzZfMmJ4UGtncHZuZGhEQUZIaWI0US1WVFh0Zk5EZGF2Q3BqdW15YjlVOGFoZ29UNzhHQWkxZWtCOGFMTm5HS2NFblIwdXd4cWtWRzN4dTk0dmpxZVhHNlFxUk9aVGdIWkhBdXc?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
           "published": "Thu, 29 Oct 2026 11:00:00 GMT",
@@ -27,30 +47,30 @@
       ]
     },
     {
-      "id": "6207514fa359",
-      "title": "Want to Get Stronger Without the Male Gaze? There’s a Gym for That. - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMU1tNnNuWnhxc0FINUVXYTBrcW92anVJb2lfM2xXNGVjTko1Y3VWeTVOTGZxMHFjRDl2a1RsdU9ON1RtUVpfQWVDSlU0NWV0SVFaYXFZZXBJdlFFZ0lmcUNZakFNT2xwS2ktRUtvNFcxOFNrUldJLUlkaEhiZw?oc=5\" target=\"_blank\">Want to Get Stronger Without the Male",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMU1tNnNuWnhxc0FINUVXYTBrcW92anVJb2lfM2xXNGVjTko1Y3VWeTVOTGZxMHFjRDl2a1RsdU9ON1RtUVpfQWVDSlU0NWV0SVFaYXFZZXBJdlFFZ0lmcUNZakFNT2xwS2ktRUtvNFcxOFNrUldJLUlkaEhiZw?oc=5",
-      "score": 86.4,
+      "id": "5fca114715f3",
+      "title": "Exam season limiting fitness time for BCIT students - BCIT News Journalism Program",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9zaWFHb3NlYTgtQzN0NXlmXzFnRGFPX05NQlNOTTBaVFprWUlpTWgxa1B1bHdkdU03emVacVlxYThnaktmQlFOOWtqdUI1aG5wWHBqWHA5M05UMmMtaVRkS1dkQmJjVWg5T2lXTzBzU0FkY1Z6YmZhRTBDREIxUQ?oc=5\" target=\"_blank\">Exam season limiting fitness time for",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zaWFHb3NlYTgtQzN0NXlmXzFnRGFPX05NQlNOTTBaVFprWUlpTWgxa1B1bHdkdU03emVacVlxYThnaktmQlFOOWtqdUI1aG5wWHBqWHA5M05UMmMtaVRkS1dkQmJjVWg5T2lXTzBzU0FkY1Z6YmZhRTBDREIxUQ?oc=5",
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 27 Oct 2026 07:00:00 GMT",
-          "source": "The New York Times"
+          "published": "Thu, 29 Oct 2026 23:03:31 GMT",
+          "source": "BCIT News Journalism Program"
         }
       ]
     },
     {
-      "id": "190e4df97106",
-      "title": "Parkland Valley seniors’ fitness group aims for comeback after years of inactivity - The Spec",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZW1UcUtVb2xyeno2UWtRNG5RWGNPT1V1QjlXUjFrY0hFNVRTZGhjSG1SenJEZVhFYkJKQUJNSjg3UUp3V1YxUnFsbXBPejdLcnNsRDlsdVBobGhKeUhZNmdzSl9acl8tclg5eldTbld5UHhteTIxem9iY3I1MWVoRUdySlJfTEhmeEIzUVluQThJdlV4UVNvV3k4Q3htVUptYXo5WExTaC1vej",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZW1UcUtVb2xyeno2UWtRNG5RWGNPT1V1QjlXUjFrY0hFNVRTZGhjSG1SenJEZVhFYkJKQUJNSjg3UUp3V1YxUnFsbXBPejdLcnNsRDlsdVBobGhKeUhZNmdzSl9acl8tclg5eldTbld5UHhteTIxem9iY3I1MWVoRUdySlJfTEhmeEIzUVluQThJdlV4UVNvV3k4Q3htVUptYXo5WExTaC1vejFoTkh2TGgtVlpfUEk3aHR2ZTZCSXEtZ1VaUWlEdW5PajByR21QbFF3NGZWZFV1TVB5NE1sUVVNY09MTE5YRXdjY1pZTmVIS3d1Y295S25tQQ?oc=5",
+      "id": "82867798d82e",
+      "title": "Capably Human Launches to Build the Field of Capability Fitness - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXMzS0Frc08xVTloSlRNZXMzeWpvVlZTYk1qVC1JZ1ZweGMtSE1ISDI1bDVRUGdRc3NlMjJHVDZIYU5aTmZOYURpMEZfV1h2eUk5OWZ3Y3NTbGpEbS1OWmsxbDlUcFdSSm5XUkFiS0VlaEY4X3h6dWFDRUhzUzE3N0pzMEY2S0RZbXRVaXdUSWlKNmFqeXpFaEdGSzk0cEZ0OC1uY3d3QmM0U3",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXMzS0Frc08xVTloSlRNZXMzeWpvVlZTYk1qVC1JZ1ZweGMtSE1ISDI1bDVRUGdRc3NlMjJHVDZIYU5aTmZOYURpMEZfV1h2eUk5OWZ3Y3NTbGpEbS1OWmsxbDlUcFdSSm5XUkFiS0VlaEY4X3h6dWFDRUhzUzE3N0pzMEY2S0RZbXRVaXdUSWlKNmFqeXpFaEdGSzk0cEZ0OC1uY3d3QmM0U3VQVVI4dG1GcE5Za0kwczJiamV1YklmcFdzTXRWQThXaXRhQTBMd3F2SEFYT3pwSXRDejIyVDBjYw?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -58,11 +78,31 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 29 Oct 2026 20:17:33 GMT",
-          "source": "The Spec"
+          "published": "Thu, 29 Oct 2026 13:15:07 GMT",
+          "source": "The Globe and Mail"
+        }
+      ]
+    },
+    {
+      "id": "445cbe3e7c19",
+      "title": "Parkland Valley seniors' fitness group aims for comeback after years of inactivity - SportsCage.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3JzWVNxQk1vZ2lLZ3dsOGZfdlp2bV9xRUU1cWVPSWV2RG5sdHhudlMxV0phcjk5UkY0Uk5USDFlYnhQRFh4ZzVjZGdlU3dGeXpWWEVkalZhdXVHck1QbmV3NkZTaGhzbXBtc25sNmkydC1NdUVnZ1oxNEpseVhNV25sYTNvMWJiS2ZoSUZXSTRMWlF3UVZrSDZHaDZMS3d0S1Y2NzJTaVZBUF",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3JzWVNxQk1vZ2lLZ3dsOGZfdlp2bV9xRUU1cWVPSWV2RG5sdHhudlMxV0phcjk5UkY0Uk5USDFlYnhQRFh4ZzVjZGdlU3dGeXpWWEVkalZhdXVHck1QbmV3NkZTaGhzbXBtc25sNmkydC1NdUVnZ1oxNEpseVhNV25sYTNvMWJiS2ZoSUZXSTRMWlF3UVZrSDZHaDZMS3d0S1Y2NzJTaVZBUFc4N2FKaXg2NmJieWtjeXdNdGZqZWw?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-30T05:35:56+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 29 Oct 2026 20:15:17 GMT",
+          "source": "SportsCage.com"
         }
       ]
     },
@@ -71,26 +111,6 @@
       "title": "Try the classic speed workout that took a 53-year-old’s 5K time from 25mins to sub-21 - Runner's World",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0lwVFlnQmc5aFdyRDNfZmh2YTZrVTR2Mi1EVWQ5YUhWUFBRLTJST3p4Y1FWbnpnai1HcHhlQ0RoakE0d0RTT2p2QWdQOEgyVU9fVjV2MlhtSzVVRmtJOGJBUFV5eFNzcUZvOVRJQWFhZ3dMTXdRckU0czNTdXotUFJUQmV6M2lWdTZ0d0NQRQ?oc=5\" target=\"_blank\">Try the class",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0lwVFlnQmc5aFdyRDNfZmh2YTZrVTR2Mi1EVWQ5YUhWUFBRLTJST3p4Y1FWbnpnai1HcHhlQ0RoakE0d0RTT2p2QWdQOEgyVU9fVjV2MlhtSzVVRmtJOGJBUFV5eFNzcUZvOVRJQWFhZ3dMTXdRckU0czNTdXotUFJUQmV6M2lWdTZ0d0NQRQ?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 18:24:59 GMT",
-          "source": "Runner's World"
-        }
-      ]
-    },
-    {
-      "id": "578e0716bbae",
-      "title": "(LIVESTREAMs!)TRAINSWEATEAT HYROX NICE broadcasts - Vantage Data Centers",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxQeUZQZHpMeFIydTJYRGppakgwdzlPMmU4blprX3RGZUVqWEZyTm8ydmpELXJnc3dwYkRkdXNseHdYSGpuYWFyNnB4T0xUb3V5Z1A4QTJYMHl0aTY4Z3B0eXZpM2hMdzIzS3pORU0tb3J5Y0E2UmV1Vm9HOXdOZWlRSUNENVh3U2E1M2YyNjhZUWJwcl9BaFItRFU4WTVRWWpJYnZpWXhaOVJpZT",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQeUZQZHpMeFIydTJYRGppakgwdzlPMmU4blprX3RGZUVqWEZyTm8ydmpELXJnc3dwYkRkdXNseHdYSGpuYWFyNnB4T0xUb3V5Z1A4QTJYMHl0aTY4Z3B0eXZpM2hMdzIzS3pORU0tb3J5Y0E2UmV1Vm9HOXdOZWlRSUNENVh3U2E1M2YyNjhZUWJwcl9BaFItRFU4WTVRWWpJYnZpWXhaOVJpZTJCS3BFbkhuREpsQTVSTENTYzZwa0poVGRaR2kzcHhRcEZqVVI5ZUQyaExVY0Vpek1KTTZVNXkxSW1pcDh6QVFneFFRYmZmS3E5NkhNR3lwcDVTcXZQcE1YWVdBRTMwN3BiY3B1ZVZQOFpmaTVpWXB3Q2o0T0R2TWYwdFB1ejJ3TkFkVm14UkpsVHRDQkMxb2Ex?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -98,11 +118,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 29 Oct 2026 11:45:08 GMT",
-          "source": "Vantage Data Centers"
+          "published": "Thu, 29 Oct 2026 18:24:59 GMT",
+          "source": "Runner's World"
         }
       ]
     },
@@ -118,7 +138,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 13:56:10 GMT",
@@ -127,10 +147,10 @@
       ]
     },
     {
-      "id": "5f632e7f5679",
-      "title": "FitLab, Parent Company of Assault Fitness and RPM Training, Files for Bankruptcy - The Barbell Spin",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ01CWVozTlV0VzhGWG1XRktpS0ktUm9qNXhqNmN3UktDR00tZ1hCaGlXdmR2QUN5RVJKMUNoNzExWDZ6MTJmMFlIeGd5bEpKOXIzeDVNLUtjWXhkZWxLYnpyVnVpUGxURWRJZGc0WHNNN1ljLTY3eVZPM3pWWVRYbmtmaGduMEF6RjNlNHV1VjdUOWFoZFBZTTliakhoLTZ5MkhJdmNfVzNJYn",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ01CWVozTlV0VzhGWG1XRktpS0ktUm9qNXhqNmN3UktDR00tZ1hCaGlXdmR2QUN5RVJKMUNoNzExWDZ6MTJmMFlIeGd5bEpKOXIzeDVNLUtjWXhkZWxLYnpyVnVpUGxURWRJZGc0WHNNN1ljLTY3eVZPM3pWWVRYbmtmaGduMEF6RjNlNHV1VjdUOWFoZFBZTTliakhoLTZ5MkhJdmNfVzNJYnFMZGRVSTIwRmw?oc=5",
+      "id": "578e0716bbae",
+      "title": "(LIVESTREAMs!)TRAINSWEATEAT HYROX NICE broadcasts - Vantage Data Centers",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxQeUZQZHpMeFIydTJYRGppakgwdzlPMmU4blprX3RGZUVqWEZyTm8ydmpELXJnc3dwYkRkdXNseHdYSGpuYWFyNnB4T0xUb3V5Z1A4QTJYMHl0aTY4Z3B0eXZpM2hMdzIzS3pORU0tb3J5Y0E2UmV1Vm9HOXdOZWlRSUNENVh3U2E1M2YyNjhZUWJwcl9BaFItRFU4WTVRWWpJYnZpWXhaOVJpZT",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQeUZQZHpMeFIydTJYRGppakgwdzlPMmU4blprX3RGZUVqWEZyTm8ydmpELXJnc3dwYkRkdXNseHdYSGpuYWFyNnB4T0xUb3V5Z1A4QTJYMHl0aTY4Z3B0eXZpM2hMdzIzS3pORU0tb3J5Y0E2UmV1Vm9HOXdOZWlRSUNENVh3U2E1M2YyNjhZUWJwcl9BaFItRFU4WTVRWWpJYnZpWXhaOVJpZTJCS3BFbkhuREpsQTVSTENTYzZwa0poVGRaR2kzcHhRcEZqVVI5ZUQyaExVY0Vpek1KTTZVNXkxSW1pcDh6QVFneFFRYmZmS3E5NkhNR3lwcDVTcXZQcE1YWVdBRTMwN3BiY3B1ZVZQOFpmaTVpWXB3Q2o0T0R2TWYwdFB1ejJ3TkFkVm14UkpsVHRDQkMxb2Ex?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -138,7 +158,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 29 Oct 2026 11:45:08 GMT",
+          "source": "Vantage Data Centers"
+        }
+      ]
+    },
+    {
+      "id": "5f632e7f5679",
+      "title": "FitLab, Parent Company of Assault Fitness and RPM Training, Files for Bankruptcy - The Barbell Spin",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ01CWVozTlV0VzhGWG1XRktpS0ktUm9qNXhqNmN3UktDR00tZ1hCaGlXdmR2QUN5RVJKMUNoNzExWDZ6MTJmMFlIeGd5bEpKOXIzeDVNLUtjWXhkZWxLYnpyVnVpUGxURWRJZGc0WHNNN1ljLTY3eVZPM3pWWVRYbmtmaGduMEF6RjNlNHV1VjdUOWFoZFBZTTliakhoLTZ5MkhJdmNfVzNJYn",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ01CWVozTlV0VzhGWG1XRktpS0ktUm9qNXhqNmN3UktDR00tZ1hCaGlXdmR2QUN5RVJKMUNoNzExWDZ6MTJmMFlIeGd5bEpKOXIzeDVNLUtjWXhkZWxLYnpyVnVpUGxURWRJZGc0WHNNN1ljLTY3eVZPM3pWWVRYbmtmaGduMEF6RjNlNHV1VjdUOWFoZFBZTTliakhoLTZ5MkhJdmNfVzNJYnFMZGRVSTIwRmw?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
           "published": "Thu, 29 Oct 2026 19:04:12 GMT",
@@ -147,30 +187,10 @@
       ]
     },
     {
-      "id": "7fefbb20dba6",
-      "title": "What Olympic Gold Medalist Tara Davis-Woodhall Uses to Recover After Her Hardest Training Days - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDJPZURYNGUyaFpfZWk0V2s3Si1MM1RVV1ItX3cwb3F5bXl1ZUhkeHc0cnlKUUdDallncGlyNVdPWnN4aFBMSnd1SlUyZzR3ekFaZ19UOG5Pd2d3TEZ2dDRFRmFBYnExOUhzQkQ0cXJIVEU5NnppY202VV80d0ZzMEhFWmRYa2hpOVByUy02a0xQTGZl?oc=5\" target=\"_blank\">What Ol",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDJPZURYNGUyaFpfZWk0V2s3Si1MM1RVV1ItX3cwb3F5bXl1ZUhkeHc0cnlKUUdDallncGlyNVdPWnN4aFBMSnd1SlUyZzR3ekFaZ19UOG5Pd2d3TEZ2dDRFRmFBYnExOUhzQkQ0cXJIVEU5NnppY202VV80d0ZzMEhFWmRYa2hpOVByUy02a0xQTGZl?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 19:55:00 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "eb995cfd2f66",
-      "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock - Amazon Web Services (AWS)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORVpySVBLQTJqcEdqekNvZkh5RUV5bEM3SHpJTC1wYlFId214TzVmVVdSVU9UVFFqRlpvNkUzZm0xRnYxcjZvNEJTSkRlQjdPY1haRWliS2Y1dlp0dzBlMTVGOTZiaDJUTF9zVjdRaWtUUXNYeDN0QkhheGJxT1RTMGdtOXlfa0dXaE02R2Z3aDloLVg0XzJHXzRpQ0NKZll6bE1TV1EzbXM2Qm",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVpySVBLQTJqcEdqekNvZkh5RUV5bEM3SHpJTC1wYlFId214TzVmVVdSVU9UVFFqRlpvNkUzZm0xRnYxcjZvNEJTSkRlQjdPY1haRWliS2Y1dlp0dzBlMTVGOTZiaDJUTF9zVjdRaWtUUXNYeDN0QkhheGJxT1RTMGdtOXlfa0dXaE02R2Z3aDloLVg0XzJHXzRpQ0NKZll6bE1TV1EzbXM2QmlXWDJN?oc=5",
+      "id": "00599f517457",
+      "title": "Crew & Co Family Gym Opens in Kelowna Dec. 1 - Business Examiner",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzdiX3JmUDJMRXZ5a1NwUzZIVG9wTk5ZOGZxd0t6LTJlUEhDWjJ1QXpxQUFaTzFKMGlSS01kLS0zTEZNd2hXYlVBS3hqMWhlXzhQcFFVV1BmS2tjdzB5UjZnRkxUTmtMclFmNGdlbXI1VkRWVGplaGV4R3JFM0Y3eXZyQU1QSFFjRm91bERwRGhJSUpqR0tTTg?oc=5\" target=\"_blank\">C",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzdiX3JmUDJMRXZ5a1NwUzZIVG9wTk5ZOGZxd0t6LTJlUEhDWjJ1QXpxQUFaTzFKMGlSS01kLS0zTEZNd2hXYlVBS3hqMWhlXzhQcFFVV1BmS2tjdzB5UjZnRkxUTmtMclFmNGdlbXI1VkRWVGplaGV4R3JFM0Y3eXZyQU1QSFFjRm91bERwRGhJSUpqR0tTTg?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -178,35 +198,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 29 Oct 2026 18:16:38 GMT",
-          "source": "Amazon Web Services (AWS)"
-        }
-      ]
-    },
-    {
-      "id": "82867798d82e",
-      "title": "Capably Human Launches to Build the Field of Capability Fitness - The Globe and Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXMzS0Frc08xVTloSlRNZXMzeWpvVlZTYk1qVC1JZ1ZweGMtSE1ISDI1bDVRUGdRc3NlMjJHVDZIYU5aTmZOYURpMEZfV1h2eUk5OWZ3Y3NTbGpEbS1OWmsxbDlUcFdSSm5XUkFiS0VlaEY4X3h6dWFDRUhzUzE3N0pzMEY2S0RZbXRVaXdUSWlKNmFqeXpFaEdGSzk0cEZ0OC1uY3d3QmM0U3",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXMzS0Frc08xVTloSlRNZXMzeWpvVlZTYk1qVC1JZ1ZweGMtSE1ISDI1bDVRUGdRc3NlMjJHVDZIYU5aTmZOYURpMEZfV1h2eUk5OWZ3Y3NTbGpEbS1OWmsxbDlUcFdSSm5XUkFiS0VlaEY4X3h6dWFDRUhzUzE3N0pzMEY2S0RZbXRVaXdUSWlKNmFqeXpFaEdGSzk0cEZ0OC1uY3d3QmM0U3VQVVI4dG1GcE5Za0kwczJiamV1YklmcFdzTXRWQThXaXRhQTBMd3F2SEFYT3pwSXRDejIyVDBjYw?oc=5",
-      "score": 55.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 13:15:07 GMT",
-          "source": "The Globe and Mail"
-        },
-        {
-          "published": "Thu, 29 Oct 2026 15:36:42 GMT",
-          "source": "The National Law Review"
+          "published": "Tue, 27 Oct 2026 09:58:47 GMT",
+          "source": "Business Examiner"
         }
       ]
     },
@@ -222,7 +218,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 22:06:00 GMT",
@@ -231,10 +227,10 @@
       ]
     },
     {
-      "id": "031c4aba7b68",
-      "title": "Miss Manners: Gym goers are more worried about their phones than their exercise - Cleveland.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenpGQ0tHS3A2LTdmSlU4NDYzR1pRbDluQzRxSHB5M1dsdGpMRlpxeFFxY3BvNS15Unl3OUZxd0FRazJTTTM5WFNsdC14eG0zREoxdzVPLTdoYk1Kckg0cVdUb0tDZWxTNm9pSEptc3BkUklVaDBzNjItVlUtSjcwX05fVF94RUdjSjZHVjY1d3hic3NKRXNSUldrVEhlZVRmU25ESkRuVGItTX",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenpGQ0tHS3A2LTdmSlU4NDYzR1pRbDluQzRxSHB5M1dsdGpMRlpxeFFxY3BvNS15Unl3OUZxd0FRazJTTTM5WFNsdC14eG0zREoxdzVPLTdoYk1Kckg0cVdUb0tDZWxTNm9pSEptc3BkUklVaDBzNjItVlUtSjcwX05fVF94RUdjSjZHVjY1d3hic3NKRXNSUldrVEhlZVRmU25ESkRuVGItTXRPRGVjX0lQQVJ2LU9QVG5EajhlSEJQQdIB1gFBVV95cUxNSHZoV3JjdmNFNXJIQVU3bjJ6N3c4R2xCaGNtMkJySnVOb1B6UFlfaEJ6TVF5azJpczVBZ1R5cEhyVzJ0dGdsSjNYUjluOGpiQTljUDdsdm40S3RXcEpBUURnWnl4eTlUcXA0TjhBTWFoREZNa1h2V0NzNzEwT3FZRlVKRDZHX3N1MkpCd2tqRGY4VV9Sems5U3ZOUU5GbVJNUm5wNmU2YkVnSnFyZmpWZ093d2Y5QkhXaWozRWdtSTlXbmNEVFcwblBydC1rdUlxWmpGYTRB?oc=5",
+      "id": "5197adc5120c",
+      "title": "I tried supermodel Karlie Kloss’s upper-body workout with light weights and I was surprised by how effective it was - Fit&Well",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYkJIWlF3N1VENXJ5b3FlUjZEejlsc3hyLTAyMzVJT1V4Ujg1SE9ubUo4MkRHZDBZVXowWnlNZTRaS1lxUmJWSHgzUGVHaVFkaVlPRkhtc3p2UWd3V2c2ZW9RdFlGYTA0NnlFdVVnOFV5ck1lX2ppa2ttd3k2Ukh4aklDdzY2b3l2bW9CT01WSFRsRTBYVG1FVUhTZFY2bWR6RkZGbWlRSEstLW",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYkJIWlF3N1VENXJ5b3FlUjZEejlsc3hyLTAyMzVJT1V4Ujg1SE9ubUo4MkRHZDBZVXowWnlNZTRaS1lxUmJWSHgzUGVHaVFkaVlPRkhtc3p2UWd3V2c2ZW9RdFlGYTA0NnlFdVVnOFV5ck1lX2ppa2ttd3k2Ukh4aklDdzY2b3l2bW9CT01WSFRsRTBYVG1FVUhTZFY2bWR6RkZGbWlRSEstLW1LOU1YVko5dE5OOE5ZU1Fyckxjd25KYWo4YnczTGtFWHE4YnczZko4MmJtTVJLQmxVS0VTYnhBLXFNOEVYWVZYM2JPajBTTU1TVXhwZWVfek0?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -242,7 +238,107 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 30 Oct 2026 01:00:00 GMT",
+          "source": "Fit&Well"
+        }
+      ]
+    },
+    {
+      "id": "94523fbc18fd",
+      "title": "Forget the Gym: 7 Everyday Tasks That Count as Exercise, According to the World Health Organization - Grazia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3RCTjMyX3RJREx6VlZWbURiVmNSUTJLSWhyQTRvTHhCWHJ2N2F1VUpZcUZ1UjA4b1lMSzZzeVBidXZTRUdxR0tXRTlQdzB2Zy1PbENwOVF5MGN0aDRuYTFhWWhiUWdPTVBPNndRSmpvckJvOXpOSWxNeGhna21WbW1tdlBuVklRN283Z21rMkplanVoQ2JLT2FFRkxFaVBxLWZMd09RNFJTaj",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3RCTjMyX3RJREx6VlZWbURiVmNSUTJLSWhyQTRvTHhCWHJ2N2F1VUpZcUZ1UjA4b1lMSzZzeVBidXZTRUdxR0tXRTlQdzB2Zy1PbENwOVF5MGN0aDRuYTFhWWhiUWdPTVBPNndRSmpvckJvOXpOSWxNeGhna21WbW1tdlBuVklRN283Z21rMkplanVoQ2JLT2FFRkxFaVBxLWZMd09RNFJTajNNU2FPN3JpZWQ0aUNqSEktZThWNkhEMUZXOG45ekpKWVBxRVZibVEyZjBmWnZiZzg?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-30T05:35:56+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 29 Oct 2026 22:44:08 GMT",
+          "source": "Grazia"
+        }
+      ]
+    },
+    {
+      "id": "e24ab2612e5e",
+      "title": "Westsyde residents welcome proposed changes to Westsyde Pool and Fitness Centre hours - CFJC Today Kamloops",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXh4S1lUOTZERUF0OUVaTExqZWlnRkNKOHhPUkdQb2VucDNmdXF4RXozSnRrb0dkWF9iYnFfazJ6bFllVUxTNXVkQVZ4YVc2eGFzZUhFUDc4Y1Z2MV9KOWIxb00zMnZNSkZ1M3hkRzVhMnk1cDNHTVQzem44WVA5VWlqWDlmcklEdDFGVGpESHBoYWpCdWE1c3prZ2hpZUZHdXpKN2lQdjV2Zn",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXh4S1lUOTZERUF0OUVaTExqZWlnRkNKOHhPUkdQb2VucDNmdXF4RXozSnRrb0dkWF9iYnFfazJ6bFllVUxTNXVkQVZ4YVc2eGFzZUhFUDc4Y1Z2MV9KOWIxb00zMnZNSkZ1M3hkRzVhMnk1cDNHTVQzem44WVA5VWlqWDlmcklEdDFGVGpESHBoYWpCdWE1c3prZ2hpZUZHdXpKN2lQdjV2ZnlleFNmSHR5bnp4a0NZcnBB?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-30T05:35:56+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 28 Oct 2026 23:17:08 GMT",
+          "source": "CFJC Today Kamloops"
+        }
+      ]
+    },
+    {
+      "id": "7fefbb20dba6",
+      "title": "What Olympic Gold Medalist Tara Davis-Woodhall Uses to Recover After Her Hardest Training Days - Women's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDJPZURYNGUyaFpfZWk0V2s3Si1MM1RVV1ItX3cwb3F5bXl1ZUhkeHc0cnlKUUdDallncGlyNVdPWnN4aFBMSnd1SlUyZzR3ekFaZ19UOG5Pd2d3TEZ2dDRFRmFBYnExOUhzQkQ0cXJIVEU5NnppY202VV80d0ZzMEhFWmRYa2hpOVByUy02a0xQTGZl?oc=5\" target=\"_blank\">What Ol",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDJPZURYNGUyaFpfZWk0V2s3Si1MM1RVV1ItX3cwb3F5bXl1ZUhkeHc0cnlKUUdDallncGlyNVdPWnN4aFBMSnd1SlUyZzR3ekFaZ19UOG5Pd2d3TEZ2dDRFRmFBYnExOUhzQkQ0cXJIVEU5NnppY202VV80d0ZzMEhFWmRYa2hpOVByUy02a0xQTGZl?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-30T05:35:56+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 29 Oct 2026 19:55:00 GMT",
+          "source": "Women's Health"
+        }
+      ]
+    },
+    {
+      "id": "eb995cfd2f66",
+      "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock - Amazon Web Services (AWS)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORVpySVBLQTJqcEdqekNvZkh5RUV5bEM3SHpJTC1wYlFId214TzVmVVdSVU9UVFFqRlpvNkUzZm0xRnYxcjZvNEJTSkRlQjdPY1haRWliS2Y1dlp0dzBlMTVGOTZiaDJUTF9zVjdRaWtUUXNYeDN0QkhheGJxT1RTMGdtOXlfa0dXaE02R2Z3aDloLVg0XzJHXzRpQ0NKZll6bE1TV1EzbXM2Qm",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVpySVBLQTJqcEdqekNvZkh5RUV5bEM3SHpJTC1wYlFId214TzVmVVdSVU9UVFFqRlpvNkUzZm0xRnYxcjZvNEJTSkRlQjdPY1haRWliS2Y1dlp0dzBlMTVGOTZiaDJUTF9zVjdRaWtUUXNYeDN0QkhheGJxT1RTMGdtOXlfa0dXaE02R2Z3aDloLVg0XzJHXzRpQ0NKZll6bE1TV1EzbXM2QmlXWDJN?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-30T05:35:56+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 29 Oct 2026 18:16:38 GMT",
+          "source": "Amazon Web Services (AWS)"
+        }
+      ]
+    },
+    {
+      "id": "031c4aba7b68",
+      "title": "Miss Manners: Gym goers are more worried about their phones than their exercise - Cleveland.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenpGQ0tHS3A2LTdmSlU4NDYzR1pRbDluQzRxSHB5M1dsdGpMRlpxeFFxY3BvNS15Unl3OUZxd0FRazJTTTM5WFNsdC14eG0zREoxdzVPLTdoYk1Kckg0cVdUb0tDZWxTNm9pSEptc3BkUklVaDBzNjItVlUtSjcwX05fVF94RUdjSjZHVjY1d3hic3NKRXNSUldrVEhlZVRmU25ESkRuVGItTX",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenpGQ0tHS3A2LTdmSlU4NDYzR1pRbDluQzRxSHB5M1dsdGpMRlpxeFFxY3BvNS15Unl3OUZxd0FRazJTTTM5WFNsdC14eG0zREoxdzVPLTdoYk1Kckg0cVdUb0tDZWxTNm9pSEptc3BkUklVaDBzNjItVlUtSjcwX05fVF94RUdjSjZHVjY1d3hic3NKRXNSUldrVEhlZVRmU25ESkRuVGItTXRPRGVjX0lQQVJ2LU9QVG5EajhlSEJQQdIB1gFBVV95cUxNSHZoV3JjdmNFNXJIQVU3bjJ6N3c4R2xCaGNtMkJySnVOb1B6UFlfaEJ6TVF5azJpczVBZ1R5cEhyVzJ0dGdsSjNYUjluOGpiQTljUDdsdm40S3RXcEpBUURnWnl4eTlUcXA0TjhBTWFoREZNa1h2V0NzNzEwT3FZRlVKRDZHX3N1MkpCd2tqRGY4VV9Sems5U3ZOUU5GbVJNUm5wNmU2YkVnSnFyZmpWZ093d2Y5QkhXaWozRWdtSTlXbmNEVFcwblBydC1rdUlxWmpGYTRB?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
           "published": "Thu, 29 Oct 2026 13:00:00 GMT",
@@ -251,118 +347,18 @@
       ]
     },
     {
-      "id": "fb21feb27c90",
-      "title": "Fitness is for everyone - peicanada.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWZ0a3Q0Y2c4QTFYZFg0VmVQRU1wMnA1Vm9RWWM0ZFhmYnNrdHp0UHRrUnJXV2l4bXdRTmtXN2lQTlZ6WjZYMk9oNUNxbmx1R0FvaGw2bHNJSHB4NVc1LWt0WGVmNkFMTlg2Uk82OV9FbDNaZ2xTbUw3WlpLVElhbnRBZDJvSy15SU16cUxwODV5elQ1RmJoV3hHYThfTnV4bmlSNEZhY05Vb0",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWZ0a3Q0Y2c4QTFYZFg0VmVQRU1wMnA1Vm9RWWM0ZFhmYnNrdHp0UHRrUnJXV2l4bXdRTmtXN2lQTlZ6WjZYMk9oNUNxbmx1R0FvaGw2bHNJSHB4NVc1LWt0WGVmNkFMTlg2Uk82OV9FbDNaZ2xTbUw3WlpLVElhbnRBZDJvSy15SU16cUxwODV5elQ1RmJoV3hHYThfTnV4bmlSNEZhY05Vb0toRDJmZERSODBTM0ZZZm9V?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 28 Oct 2026 07:30:00 GMT",
-          "source": "peicanada.com"
-        }
-      ]
-    },
-    {
-      "id": "99cb375f2cef",
-      "title": "Wales scrum-half Hardy faces World Cup fitness race - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8taFBYbGxlODdRUXoyb3BGalR6ODVveU04UEt0X3N0Ulp6SjlySUFGODlQa2VLMzVzeVdLMVhrLUthS1VILUxGSnhKOWpCRkxfbXEwbDg0U3E0dG5CN29PWnRPU1ZJbkJGbzVWYQ?oc=5\" target=\"_blank\">Wales scrum-half Hardy faces World Cup fitness race</a>&nbsp;",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8taFBYbGxlODdRUXoyb3BGalR6ODVveU04UEt0X3N0Ulp6SjlySUFGODlQa2VLMzVzeVdLMVhrLUthS1VILUxGSnhKOWpCRkxfbXEwbDg0U3E0dG5CN29PWnRPU1ZJbkJGbzVWYQ?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 16:22:40 GMT",
-          "source": "BBC"
-        }
-      ]
-    },
-    {
-      "id": "89c268c3ede0",
-      "title": "Mamdani is using NYPD gym to host pickup basketball games with friends - Politico",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSndFaHVickxWMS1XQ1NGOERFS3hEX0Q2aUFtdlNhdUZ3U0ZPSEs4ZzRvMGR2NG5qcmVJaEw5Y3FCaU5wZjl0NVdvdTdtUVJMd2pnWHpHalZyYTBwbXV5SllNU0pGcnFObDJkVmphLUYyZjFzNXhTbnV5czMxbEJhbU5XdVIyWXNYYmV5aXVrRWZla2R5LU1TNUJyS2dXRmV2VDRFZHdIZjhzZ0",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSndFaHVickxWMS1XQ1NGOERFS3hEX0Q2aUFtdlNhdUZ3U0ZPSEs4ZzRvMGR2NG5qcmVJaEw5Y3FCaU5wZjl0NVdvdTdtUVJMd2pnWHpHalZyYTBwbXV5SllNU0pGcnFObDJkVmphLUYyZjFzNXhTbnV5czMxbEJhbU5XdVIyWXNYYmV5aXVrRWZla2R5LU1TNUJyS2dXRmV2VDRFZHdIZjhzZ0NhOWp0b1pFY2FiTlk?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 26 Oct 2026 21:08:00 GMT",
-          "source": "Politico"
-        }
-      ]
-    },
-    {
-      "id": "d1c39831f9a8",
-      "title": "Luxury Toronto gym opening massive studio in new neighbourhood next month - blogTO",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0xdWJYRnpwWm9XYUpDSEc4RXJpWUR3SlJaNWl5QXVvZGhQUS1ZNWNmbnI5R2lYTXpoVjdsM3ByR0s1RE5rYW1Rc1pQbC10MnBpZmptM2JnV1JuaXB6WTZ4Z0JBWmJzZzVGV0IzYVpxMU1GeDhWNzc2U2k2bkVNUQ?oc=5\" target=\"_blank\">Luxury Toronto gym opening massive st",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xdWJYRnpwWm9XYUpDSEc4RXJpWUR3SlJaNWl5QXVvZGhQUS1ZNWNmbnI5R2lYTXpoVjdsM3ByR0s1RE5rYW1Rc1pQbC10MnBpZmptM2JnV1JuaXB6WTZ4Z0JBWmJzZzVGV0IzYVpxMU1GeDhWNzc2U2k2bkVNUQ?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 21 Oct 2026 14:20:58 GMT",
-          "source": "blogTO"
-        }
-      ]
-    },
-    {
-      "id": "0c68c87b8a41",
-      "title": "Garmin's Fitness Revenue Jumps 16%, but Its Financial Results Reveal Nothing About Edge Bike Computer Sales - TodoMountainBike",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamNIbU9aX3BPVnZDRGIwREg0bG1jR3VmeXl6djU5dlRkOGJMUEZxX1pHdC1ZcVV0VzZobzUzX3N2ZEtqUEpKczlvLTFMVzRGYlJja3RCcENnYWItdjh2RzEwbTJpRS14NnZNVy1iWVNmRmV4Y2k4NHZCNlRIbW9UVzZyanlpQlFDNUN2b2xITExLWGdSdE5tNjl0OW05QUROOTlOQ09EbXo2Sk",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamNIbU9aX3BPVnZDRGIwREg0bG1jR3VmeXl6djU5dlRkOGJMUEZxX1pHdC1ZcVV0VzZobzUzX3N2ZEtqUEpKczlvLTFMVzRGYlJja3RCcENnYWItdjh2RzEwbTJpRS14NnZNVy1iWVNmRmV4Y2k4NHZCNlRIbW9UVzZyanlpQlFDNUN2b2xITExLWGdSdE5tNjl0OW05QUROOTlOQ09EbXo2SkhNdFhTTlYxeVR2ODg2aDhxSWFtM2ZiMG8wYmRSbGZTXzhsWi1mV3RHWUxIRjQ?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 17:32:56 GMT",
-          "source": "TodoMountainBike"
-        }
-      ]
-    },
-    {
       "id": "189bbb60ef63",
       "title": "Alberta RCMP invites would-be officers to fitness workshops - Medicine Hat News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDdKQ0pWamRWYWZpWXhZX3VoTEJabmR2TW5ESWJDUWFXd0pOT21MU3RMNFR6ZUJySEI4TkdSS1hSdDc3MFpCb0NDLV80NkZ4LS1XTFVzNm9JNlFjalBaMkRKeldNempBdkN4R1Q0WGZnR2dfY0NsMDlNdVUtYlQ5enUxSlk5d2cwNGxHbmpXR3prdV8zZWRab3RRemZYcktrT0tnY2pLOEl5QV",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDdKQ0pWamRWYWZpWXhZX3VoTEJabmR2TW5ESWJDUWFXd0pOT21MU3RMNFR6ZUJySEI4TkdSS1hSdDc3MFpCb0NDLV80NkZ4LS1XTFVzNm9JNlFjalBaMkRKeldNempBdkN4R1Q0WGZnR2dfY0NsMDlNdVUtYlQ5enUxSlk5d2cwNGxHbmpXR3prdV8zZWRab3RRemZYcktrT0tnY2pLOEl5QVJvbjBCZWE0LWh5dw?oc=5",
-      "score": 25.2,
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 14:55:43 GMT",
@@ -375,6 +371,26 @@
       "title": "Iran arrests fitness blogger over hijab-free workout videos - Iran International",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OWVd3Z2F6eElPU0FiU0xpc3hhX0tPTjhNeDJBZ1FFX1F6R3JCWnFqZEluTHdYZzI3V0g3djZpcnJCakM3SFFLeXcyMmY4RTVib3c?oc=5\" target=\"_blank\">Iran arrests fitness blogger over hijab-free workout videos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OWVd3Z2F6eElPU0FiU0xpc3hhX0tPTjhNeDJBZ1FFX1F6R3JCWnFqZEluTHdYZzI3V0g3djZpcnJCakM3SFFLeXcyMmY4RTVib3c?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "CA",
+      "first_seen": "2026-10-30T05:35:56+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 28 Oct 2026 15:56:56 GMT",
+          "source": "Iran International"
+        }
+      ]
+    },
+    {
+      "id": "c89106bbc6e8",
+      "title": "Coca-Cola's Sports Beverage Portfolio: Can it Capture Fitness Demand? - The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLVFEMjZ2Y3ZDNVVIQ3c5cW1UZDVHbndxaGpmQmVnc0tVNHRBN0w0dllFZmw2MmJQZVNjdzRHc0phNlJpQi1uUFJlVFEzQ1QzSmtCSHVZRzl4VWRqUEdTUXVCd25QZ2pfSWtIbUo5NTdtOW50ZnVfRUZFNmw4UjdSUVYzNzhoWlFJVWtNVGEwS2hzNnBwcnFVZGRwOXdVWTU3VW4xajZsYWNsd1",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLVFEMjZ2Y3ZDNVVIQ3c5cW1UZDVHbndxaGpmQmVnc0tVNHRBN0w0dllFZmw2MmJQZVNjdzRHc0phNlJpQi1uUFJlVFEzQ1QzSmtCSHVZRzl4VWRqUEdTUXVCd25QZ2pfSWtIbUo5NTdtOW50ZnVfRUZFNmw4UjdSUVYzNzhoWlFJVWtNVGEwS2hzNnBwcnFVZGRwOXdVWTU3VW4xajZsYWNsd1F4eURBWWE5bkhzejh2VExSLU5sWFBydk96a0pfQnVONkpDdV9jVWtpbnR6eUprZ0dmNmwzdzh6cw?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +398,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "CA",
-      "first_seen": "2026-10-29T22:41:36+00:00",
+      "first_seen": "2026-10-30T05:35:56+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 28 Oct 2026 15:56:56 GMT",
-          "source": "Iran International"
+          "published": "Mon, 26 Oct 2026 16:10:00 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     }
