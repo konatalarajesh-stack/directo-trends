@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "AU",
-  "generated_at": "2026-10-31T12:23:13+00:00",
+  "generated_at": "2026-10-31T21:35:28+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "7fda5e3a7e85",
-      "title": "Sam Wood’s name stripped from fitness brand - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1Rsa2dUQ0FBRUFuMXlzelJRWnZiQkM2UTZ1VnloVEhrMGFjV0NVOWVDTW5jSXFMOE9BakJOb01kZXVnUENoYjEyZ3N1Zlc1LTNxcUxFZTNSNXdzQVJGOGViRWk1c29ZVklTeVItYkhnRkVJdWxrQWlXNUFpX2dGeWJsZXU5TkRVeGpRTmpKS1Y2cnVzQUtuOVFLRFRMQVVTaUFGeGNicUhWX1",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1Rsa2dUQ0FBRUFuMXlzelJRWnZiQkM2UTZ1VnloVEhrMGFjV0NVOWVDTW5jSXFMOE9BakJOb01kZXVnUENoYjEyZ3N1Zlc1LTNxcUxFZTNSNXdzQVJGOGViRWk1c29ZVklTeVItYkhnRkVJdWxrQWlXNUFpX2dGeWJsZXU5TkRVeGpRTmpKS1Y2cnVzQUtuOVFLRFRMQVVTaUFGeGNicUhWX18xZTU4aHZR?oc=5",
+      "id": "ac64cc524eeb",
+      "title": "How to actually start exercising, according to fitness experts - News.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUDBBbzVKUHdjc1QxMENINkFVa0FBV0F2V1NiNUhub2pNRXRhcWJKRm9ybUEwckZJTHNsY29aUXJzTXRXSUw3V2s0d3VBY2d5cXFGR3NER2ljS1A5bHd5cDU2NkN3ZV9pTWJBWTc0Zmlkc3dYLURVSHMtUHJOMk5ndi1QeHkyU3dMZ1JhYi1UZUc3bzBPVHc4NDFBWkkyWGo4UVN4cVZYTjY1ZH",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUDBBbzVKUHdjc1QxMENINkFVa0FBV0F2V1NiNUhub2pNRXRhcWJKRm9ybUEwckZJTHNsY29aUXJzTXRXSUw3V2s0d3VBY2d5cXFGR3NER2ljS1A5bHd5cDU2NkN3ZV9pTWJBWTc0Zmlkc3dYLURVSHMtUHJOMk5ndi1QeHkyU3dMZ1JhYi1UZUc3bzBPVHc4NDFBWkkyWGo4UVN4cVZYTjY1ZHlaOHFqLWMzVlE2UG81WWtfd2l1UGx3b3pvOVhUSXF0dlFZdUdxYnNuSHMtUi1HdGhNc1FwNWRhYTFJNXhKX3V5cUFR?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
+      "first_seen": "2026-10-31T21:26:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 31 Oct 2026 17:57:20 GMT",
+          "source": "News.com.au"
+        }
+      ]
+    },
+    {
+      "id": "7fda5e3a7e85",
+      "title": "Sam Wood’s name stripped from fitness brand - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1Rsa2dUQ0FBRUFuMXlzelJRWnZiQkM2UTZ1VnloVEhrMGFjV0NVOWVDTW5jSXFMOE9BakJOb01kZXVnUENoYjEyZ3N1Zlc1LTNxcUxFZTNSNXdzQVJGOGViRWk1c29ZVklTeVItYkhnRkVJdWxrQWlXNUFpX2dGeWJsZXU5TkRVeGpRTmpKS1Y2cnVzQUtuOVFLRFRMQVVTaUFGeGNicUhWX1",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1Rsa2dUQ0FBRUFuMXlzelJRWnZiQkM2UTZ1VnloVEhrMGFjV0NVOWVDTW5jSXFMOE9BakJOb01kZXVnUENoYjEyZ3N1Zlc1LTNxcUxFZTNSNXdzQVJGOGViRWk1c29ZVklTeVItYkhnRkVJdWxrQWlXNUFpX2dGeWJsZXU5TkRVeGpRTmpKS1Y2cnVzQUtuOVFLRFRMQVVTaUFGeGNicUhWX18xZTU4aHZR?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-31T21:26:12+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 23:16:00 GMT",
@@ -27,10 +47,10 @@
       ]
     },
     {
-      "id": "349230f14524",
-      "title": "Revealed: No sign of Snezana in Sam Wood empire rebrand - The Nightly",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSzZTdTZuaU02djBYX1VXQWx1MnEySmk4ZTJxbzFIQUtvSTFTU1BVcS03MnF5Z0dmQTRySTFTU2dvQVIzVi1pSlNtNm9udjVFMUJZbVpBLWpjVjRwbFJXa1oyY0JMcF9ZYjd6c21sS09vLWZuQW9oUXBoams3dEQzdjMwd0JkZlBSQlRybG1tVGwwamRSYjhRa2NYLVhIWTM3VUgyTUQ0eXhzM0",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSzZTdTZuaU02djBYX1VXQWx1MnEySmk4ZTJxbzFIQUtvSTFTU1BVcS03MnF5Z0dmQTRySTFTU2dvQVIzVi1pSlNtNm9udjVFMUJZbVpBLWpjVjRwbFJXa1oyY0JMcF9ZYjd6c21sS09vLWZuQW9oUXBoams3dEQzdjMwd0JkZlBSQlRybG1tVGwwamRSYjhRa2NYLVhIWTM3VUgyTUQ0eXhzM0x2RkRLLUVobGM2UTVlcUx2Z2lmeEUyM0t4cURHOGlKY2ZqOHJDUkNrMlkxNk1pYzNOMXZIR0RkSTlSTDA4Uzdv?oc=5",
+      "id": "cfbb0042e197",
+      "title": "Emma Willis' PT swears by this gym workout to build functional strength - here's how to do it - Woman & Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBlR0hSTWx0ZnpsT09acGJRYUxPMnhZZWNma1pWWm5hazVSRU14TFZNaHJfXzdxbXZpeUxFMFRRRVJBUk5BT2FTbXdzX0pmUkhEUVYta2NOeUc3UV92NW5MMmg4N00tdXdVNWdnVFMwMElIdVVHWHNaOEJKRENRaDA?oc=5\" target=\"_blank\">Emma Willis' PT swears by this gym w",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlR0hSTWx0ZnpsT09acGJRYUxPMnhZZWNma1pWWm5hazVSRU14TFZNaHJfXzdxbXZpeUxFMFRRRVJBUk5BT2FTbXdzX0pmUkhEUVYta2NOeUc3UV92NW5MMmg4N00tdXdVNWdnVFMwMElIdVVHWHNaOEJKRENRaDA?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -38,7 +58,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
+      "first_seen": "2026-10-31T21:26:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 31 Oct 2026 18:00:00 GMT",
+          "source": "Woman & Home"
+        }
+      ]
+    },
+    {
+      "id": "349230f14524",
+      "title": "Revealed: No sign of Snezana in Sam Wood empire rebrand - The Nightly",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSzZTdTZuaU02djBYX1VXQWx1MnEySmk4ZTJxbzFIQUtvSTFTU1BVcS03MnF5Z0dmQTRySTFTU2dvQVIzVi1pSlNtNm9udjVFMUJZbVpBLWpjVjRwbFJXa1oyY0JMcF9ZYjd6c21sS09vLWZuQW9oUXBoams3dEQzdjMwd0JkZlBSQlRybG1tVGwwamRSYjhRa2NYLVhIWTM3VUgyTUQ0eXhzM0",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSzZTdTZuaU02djBYX1VXQWx1MnEySmk4ZTJxbzFIQUtvSTFTU1BVcS03MnF5Z0dmQTRySTFTU2dvQVIzVi1pSlNtNm9udjVFMUJZbVpBLWpjVjRwbFJXa1oyY0JMcF9ZYjd6c21sS09vLWZuQW9oUXBoams3dEQzdjMwd0JkZlBSQlRybG1tVGwwamRSYjhRa2NYLVhIWTM3VUgyTUQ0eXhzM0x2RkRLLUVobGM2UTVlcUx2Z2lmeEUyM0t4cURHOGlKY2ZqOHJDUkNrMlkxNk1pYzNOMXZIR0RkSTlSTDA4Uzdv?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-31T21:26:12+00:00",
       "raw_samples": [
         {
           "published": "Thu, 29 Oct 2026 05:09:32 GMT",
@@ -51,14 +91,14 @@
       "title": "Sam Wood’s fitness empire rebrands after parent company severed ties - Nine.com.au",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPemN2QUVNYk1lU0Y4dWtkaGw3MHpzYVVEZlNubi1HSFpSMl95UWNnZjE1MjBILU11ZUprMWcwZnc0bmw2MmtDZndjcUViZFZTbUxJLWRjYlhFZWFTU1dhTkR6UnpKOS1IV1FlOFkxQ3ZRa1VqcmhqaGxZUG5Dc2piMWFaU2VVNXpDSUFXU2RzMi15RVpfLU9TUS1YbnBEazhhR0ZtVGVSYTY2eV",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPemN2QUVNYk1lU0Y4dWtkaGw3MHpzYVVEZlNubi1HSFpSMl95UWNnZjE1MjBILU11ZUprMWcwZnc0bmw2MmtDZndjcUViZFZTbUxJLWRjYlhFZWFTU1dhTkR6UnpKOS1IV1FlOFkxQ3ZRa1VqcmhqaGxZUG5Dc2piMWFaU2VVNXpDSUFXU2RzMi15RVpfLU9TUS1YbnBEazhhR0ZtVGVSYTY2eVJHajI0YVJGdzZWQ1g1NFk4TUgzUk1BTUJTb0xERk5RYw?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
+      "first_seen": "2026-10-31T21:26:12+00:00",
       "raw_samples": [
         {
           "published": "Wed, 28 Oct 2026 22:00:57 GMT",
@@ -67,70 +107,10 @@
       ]
     },
     {
-      "id": "d93651279c30",
-      "title": "How Kelly Rutherford, 57, stays fit without the gym – her 3 go-to workouts - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNb01uY2U2cUxJTG43UWxIVHZUTVI0MzNaWC1oZ2dkY2NIcjlqV3hHSWRFQVBvQ3hjQ0VwejltcFM0dDFOLU5MWUk4eWl1N0JIT1hQQ1VKOE80ZlFINDJCRXh2bjhORk5aVnFSSEtwVVFqT2lzR0E1VHpGOGo4bDMxTnI0TDJZeVRPZi03YllUVQ?oc=5\" target=\"_blank\">How Kelly Rut",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb01uY2U2cUxJTG43UWxIVHZUTVI0MzNaWC1oZ2dkY2NIcjlqV3hHSWRFQVBvQ3hjQ0VwejltcFM0dDFOLU5MWUk4eWl1N0JIT1hQQ1VKOE80ZlFINDJCRXh2bjhORk5aVnFSSEtwVVFqT2lzR0E1VHpGOGo4bDMxTnI0TDJZeVRPZi03YllUVQ?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 31 Oct 2026 12:03:28 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "fd852f5493f4",
-      "title": "Swim Sport Fitness online timetable temporarily suspended - Shoalhaven City Council",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3BPUlZkLUoxYkYwNU9STVVvRzRybkxiVkpmbUNHdHl6VUlpems2c0VmSS1uSElLWC1UM0k3QVN6VVlJaVR5LVNsTGx4UU9VVjI1cm9vNU5SUjRQcHZHRF9Fd1dvSnlhT1NEWGdOVWwwVUJ0UHdQS1A2c3FSS1ZwZ0pHbnBJV3JuVGI4U3FtWXQ1MjZUTkFfWjNIQnl3dnZfNE85RnJiYnc1ZW",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3BPUlZkLUoxYkYwNU9STVVvRzRybkxiVkpmbUNHdHl6VUlpems2c0VmSS1uSElLWC1UM0k3QVN6VVlJaVR5LVNsTGx4UU9VVjI1cm9vNU5SUjRQcHZHRF9Fd1dvSnlhT1NEWGdOVWwwVUJ0UHdQS1A2c3FSS1ZwZ0pHbnBJV3JuVGI4U3FtWXQ1MjZUTkFfWjNIQnl3dnZfNE85RnJiYnc1ZWZBQXVULW9qbThfMFhWOS1JWU1EUEY3VTg0UzJKVg?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 26 Oct 2026 06:38:51 GMT",
-          "source": "Shoalhaven City Council"
-        }
-      ]
-    },
-    {
       "id": "71c0cf7d9872",
       "title": "Iran arrests fitness blogger over hijab-free workout videos - Iran International",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OWVd3Z2F6eElPU0FiU0xpc3hhX0tPTjhNeDJBZ1FFX1F6R3JCWnFqZEluTHdYZzI3V0g3djZpcnJCakM3SFFLeXcyMmY4RTVib3c?oc=5\" target=\"_blank\">Iran arrests fitness blogger over hijab-free workout videos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OWVd3Z2F6eElPU0FiU0xpc3hhX0tPTjhNeDJBZ1FFX1F6R3JCWnFqZEluTHdYZzI3V0g3djZpcnJCakM3SFFLeXcyMmY4RTVib3c?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 28 Oct 2026 15:56:56 GMT",
-          "source": "Iran International"
-        }
-      ]
-    },
-    {
-      "id": "007fd56228dd",
-      "title": "Inside $20m takeover of controversial Gold Coast gym - Real Estate",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1FVazdHd2ZVVjJLWjhKVnhrckgwRi13bnN4cnpXX0RTWGdRRUJQVF93VU5jeGM4b2plM1IxSXZ4QjdfeUJBZzhGaFZoVldOYnhKZU5OczBqdEZNUWUwYXpUa2FJeDAtUVVBN2tSWU1TeUx0QUlCZWZ3NFpqX2g2cUJMejhpSWp6cGtDRjJ2d3Q?oc=5\" target=\"_blank\">Inside $20m ",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1FVazdHd2ZVVjJLWjhKVnhrckgwRi13bnN4cnpXX0RTWGdRRUJQVF93VU5jeGM4b2plM1IxSXZ4QjdfeUJBZzhGaFZoVldOYnhKZU5OczBqdEZNUWUwYXpUa2FJeDAtUVVBN2tSWU1TeUx0QUlCZWZ3NFpqX2g2cUJMejhpSWp6cGtDRjJ2d3Q?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -138,11 +118,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
+      "first_seen": "2026-10-31T21:26:12+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 26 Oct 2026 18:09:37 GMT",
-          "source": "Real Estate"
+          "published": "Wed, 28 Oct 2026 15:56:56 GMT",
+          "source": "Iran International"
         }
       ]
     },
@@ -158,7 +138,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:21+00:00",
+      "first_seen": "2026-10-31T21:28:32+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -170,10 +150,10 @@
       "is_global": true
     },
     {
-      "id": "6fb9a361b020",
-      "title": "The Worst \"Ab Pulldown\" Advice I've Ever Heard | He REALLY Said that?",
+      "id": "644e05cf7b3b",
+      "title": "I haven't trained for 2 months... (and got sick)",
       "summary": "🏆 GET MY FREE PROGRAM NOW:  https://muscularstrength.com/guaranteed_gains_sign_up_FREE \n\n📨 Join My MAILING LIST: https://muscularstrength.com/mailing-list\n\n💪🏻 CHECK OUT MY HOME & GYM WORKOUT PROGRAMS: https://muscularstrength.com/program-selector \n\n💯🏋️ONLINE COACHING: https://mus",
-      "url": "https://www.youtube.com/shorts/JU8nxrZAPnY",
+      "url": "https://www.youtube.com/shorts/2xOJC152nAQ",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -181,22 +161,22 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:23+00:00",
+      "first_seen": "2026-10-31T21:28:33+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
           "channel_title": "ScottHermanFitness",
-          "video_id": "JU8nxrZAPnY",
-          "published": "2026-10-29T17:22:14+00:00"
+          "video_id": "2xOJC152nAQ",
+          "published": "2026-10-31T14:43:07+00:00"
         }
       ],
       "is_global": true
     },
     {
-      "id": "40f5ed362640",
-      "title": "This Bodybuilder’s Wife Confiscated His Tren",
+      "id": "72cb851ce558",
+      "title": "Larry Wheels Benched 405 for 32 Reps!",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/sFwcOY-UCMM",
+      "url": "https://www.youtube.com/shorts/0_YYAyaNONg",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -204,22 +184,22 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:24+00:00",
+      "first_seen": "2026-10-31T21:28:34+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
           "channel_title": "Renaissance Periodization",
-          "video_id": "sFwcOY-UCMM",
-          "published": "2026-10-30T19:00:36+00:00"
+          "video_id": "0_YYAyaNONg",
+          "published": "2026-10-31T13:30:30+00:00"
         }
       ],
       "is_global": true
     },
     {
-      "id": "b9a5b7f2e3f0",
-      "title": "Sex offender found after escaping from gym west of Brisbane - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVlYXFkZmxJdUdXTFBFNHR4VUdCdW5FM2tXSVhaYzlkamFZNnd2LWVUdlMzOUNLeVZFTWhGU3BPeDZsVDNPR20yVnU5UE10SE9RT2NzVUk3cVVnQzY1NGhSWHBRcFJVR28tVzdjY2JOVlRjRmRkS1pLdWNRMXFnNTJMRjhFWEltS3NyRDdIaGdDck0wNHIw?oc=5\" target=\"_blank\">Sex",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVlYXFkZmxJdUdXTFBFNHR4VUdCdW5FM2tXSVhaYzlkamFZNnd2LWVUdlMzOUNLeVZFTWhGU3BPeDZsVDNPR20yVnU5UE10SE9RT2NzVUk3cVVnQzY1NGhSWHBRcFJVR28tVzdjY2JOVlRjRmRkS1pLdWNRMXFnNTJMRjhFWEltS3NyRDdIaGdDck0wNHIw?oc=5",
+      "id": "fd852f5493f4",
+      "title": "Swim Sport Fitness online timetable temporarily suspended - Shoalhaven City Council",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3BPUlZkLUoxYkYwNU9STVVvRzRybkxiVkpmbUNHdHl6VUlpems2c0VmSS1uSElLWC1UM0k3QVN6VVlJaVR5LVNsTGx4UU9VVjI1cm9vNU5SUjRQcHZHRF9Fd1dvSnlhT1NEWGdOVWwwVUJ0UHdQS1A2c3FSS1ZwZ0pHbnBJV3JuVGI4U3FtWXQ1MjZUTkFfWjNIQnl3dnZfNE85RnJiYnc1ZW",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3BPUlZkLUoxYkYwNU9STVVvRzRybkxiVkpmbUNHdHl6VUlpems2c0VmSS1uSElLWC1UM0k3QVN6VVlJaVR5LVNsTGx4UU9VVjI1cm9vNU5SUjRQcHZHRF9Fd1dvSnlhT1NEWGdOVWwwVUJ0UHdQS1A2c3FSS1ZwZ0pHbnBJV3JuVGI4U3FtWXQ1MjZUTkFfWjNIQnl3dnZfNE85RnJiYnc1ZWZBQXVULW9qbThfMFhWOS1JWU1EUEY3VTg0UzJKVg?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -227,35 +207,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
+      "first_seen": "2026-10-31T21:26:12+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 28 Oct 2026 08:32:27 GMT",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        },
-        {
-          "published": "Wed, 28 Oct 2026 08:32:27 GMT",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        }
-      ]
-    },
-    {
-      "id": "b55c82ac0777",
-      "title": "Sam Wood’s fitness empire officially rebrands - News.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOTTlfMkQyUXphTVBqYmF2M1NLTHh1MC00VnFjNUNpb1A2UHNzYlRrMFVTNjYxMEs2Ulg5cng5aUh4Q3l0ZlV6Vlo0YlpqaUdaWm11NVd1R0luRUxTM2J5dDFYZG9nTUJ0cmR4OHkwZkt5NFJCZDQ4RWN0SzhxX2ZjRGthSzdXMUxwNkNobDktV0ZSZVZyRlVzMElVSThBeUJUbXJSUDltMEZ0NU",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTTlfMkQyUXphTVBqYmF2M1NLTHh1MC00VnFjNUNpb1A2UHNzYlRrMFVTNjYxMEs2Ulg5cng5aUh4Q3l0ZlV6Vlo0YlpqaUdaWm11NVd1R0luRUxTM2J5dDFYZG9nTUJ0cmR4OHkwZkt5NFJCZDQ4RWN0SzhxX2ZjRGthSzdXMUxwNkNobDktV0ZSZVZyRlVzMElVSThBeUJUbXJSUDltMEZ0NUdHNEpOUUNCZzZhMjBEa1FQcGdyNVcyU195Zm9lSml1WlFNeEhlSFp1NUhjaWp1aXF3UzRhRTBZXy1LODhpNDdxblk3V3pyeXNIb01jaXA2RmVFVW5lRlNKX3R0TEdtUEltNFHSAZMCQVVfeXFMT1FmMVBiRUFqMjJocHVFRzBfSDNNWGRBQmt4NXhQSTJJOUFvbzJaS0dXVnhIcy1BOC1NSlViRzhEalFQMG55alVhbXJNNW9rZ1otYmZfZ19nRDZSdEdvUzE5WGZGU3NaWjlkclJGbU9qLUltY3pudWRnazB5R0Y5aktRUEFscGwzTUJleUt5NTRDaFk3SFZLQVEwZ1NBZXNYMWpubnFZc3NfQnl0THRuOGxSVXJmUC05UlpiQmtWMTFrc2Qxcm5OQXBWbl9wQmxTbUN5MGszRlhWYVB5dVVUb0FGa1pqb01JLXhrd2xLaF8wcURGcHAzYW5NUHV1a2lOQ3RJYWVscFhBMTZ5cFRNd3VYTVE?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 18:33:30 GMT",
-          "source": "News.com.au"
+          "published": "Mon, 26 Oct 2026 06:38:51 GMT",
+          "source": "Shoalhaven City Council"
         }
       ]
     },
@@ -271,7 +227,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:21+00:00",
+      "first_seen": "2026-10-31T21:28:32+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -283,10 +239,10 @@
       "is_global": true
     },
     {
-      "id": "f8fb928889b4",
-      "title": "Exercise Scientist Critiques the Strongest 19-Year-Old",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hype\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isra",
-      "url": "https://www.youtube.com/watch?v=JjPzRBkFe2E",
+      "id": "6fb9a361b020",
+      "title": "The Worst \"Ab Pulldown\" Advice I've Ever Heard | He REALLY Said that?",
+      "summary": "🏆 GET MY FREE PROGRAM NOW:  https://muscularstrength.com/guaranteed_gains_sign_up_FREE \n\n📨 Join My MAILING LIST: https://muscularstrength.com/mailing-list\n\n💪🏻 CHECK OUT MY HOME & GYM WORKOUT PROGRAMS: https://muscularstrength.com/program-selector \n\n💯🏋️ONLINE COACHING: https://mus",
+      "url": "https://www.youtube.com/shorts/JU8nxrZAPnY",
       "score": 59.29,
       "sources": [
         "youtube"
@@ -294,7 +250,73 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:24+00:00",
+      "first_seen": "2026-10-31T21:28:33+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
+          "channel_title": "ScottHermanFitness",
+          "video_id": "JU8nxrZAPnY",
+          "published": "2026-10-29T17:22:14+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "40f5ed362640",
+      "title": "This Bodybuilder’s Wife Confiscated His Tren",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/sFwcOY-UCMM",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-31T21:28:34+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "sFwcOY-UCMM",
+          "published": "2026-10-30T19:00:36+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "007fd56228dd",
+      "title": "Inside $20m takeover of controversial Gold Coast gym - Real Estate",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1FVazdHd2ZVVjJLWjhKVnhrckgwRi13bnN4cnpXX0RTWGdRRUJQVF93VU5jeGM4b2plM1IxSXZ4QjdfeUJBZzhGaFZoVldOYnhKZU5OczBqdEZNUWUwYXpUa2FJeDAtUVVBN2tSWU1TeUx0QUlCZWZ3NFpqX2g2cUJMejhpSWp6cGtDRjJ2d3Q?oc=5\" target=\"_blank\">Inside $20m ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1FVazdHd2ZVVjJLWjhKVnhrckgwRi13bnN4cnpXX0RTWGdRRUJQVF93VU5jeGM4b2plM1IxSXZ4QjdfeUJBZzhGaFZoVldOYnhKZU5OczBqdEZNUWUwYXpUa2FJeDAtUVVBN2tSWU1TeUx0QUlCZWZ3NFpqX2g2cUJMejhpSWp6cGtDRjJ2d3Q?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-31T21:26:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 26 Oct 2026 18:09:37 GMT",
+          "source": "Real Estate"
+        }
+      ]
+    },
+    {
+      "id": "f8fb928889b4",
+      "title": "Exercise Scientist Critiques the Strongest 19-Year-Old",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hype\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isra",
+      "url": "https://www.youtube.com/watch?v=JjPzRBkFe2E",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-10-31T21:28:34+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -306,22 +328,50 @@
       "is_global": true
     },
     {
-      "id": "50124e852f2b",
-      "title": "Leisure centre reaches construction milestone - Yahoo News Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHJmOHJVN1BkWVVvcElJazVYdGpZVDV1SjctSElXMTJyd1RQeG1KaHJIVUlXTk9qdVV1WERQWUJZUzgwR05FVkR2a2swQjZGY1NHUmdmRUVYRnBNUUU2S0xubTY1SzY0aU1zQkV6MWZlZjU3RG5TSFo2TmdVYkhvX0hfWFAtazZUcXFkc01vZw?oc=5\" target=\"_blank\">Leisure centr",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHJmOHJVN1BkWVVvcElJazVYdGpZVDV1SjctSElXMTJyd1RQeG1KaHJIVUlXTk9qdVV1WERQWUJZUzgwR05FVkR2a2swQjZGY1NHUmdmRUVYRnBNUUU2S0xubTY1SzY0aU1zQkV6MWZlZjU3RG5TSFo2TmdVYkhvX0hfWFAtazZUcXFkc01vZw?oc=5",
-      "score": 57.6,
+      "id": "b9a5b7f2e3f0",
+      "title": "Sex offender found after escaping from gym west of Brisbane - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVlYXFkZmxJdUdXTFBFNHR4VUdCdW5FM2tXSVhaYzlkamFZNnd2LWVUdlMzOUNLeVZFTWhGU3BPeDZsVDNPR20yVnU5UE10SE9RT2NzVUk3cVVnQzY1NGhSWHBRcFJVR28tVzdjY2JOVlRjRmRkS1pLdWNRMXFnNTJMRjhFWEltS3NyRDdIaGdDck0wNHIw?oc=5\" target=\"_blank\">Sex",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVlYXFkZmxJdUdXTFBFNHR4VUdCdW5FM2tXSVhaYzlkamFZNnd2LWVUdlMzOUNLeVZFTWhGU3BPeDZsVDNPR20yVnU5UE10SE9RT2NzVUk3cVVnQzY1NGhSWHBRcFJVR28tVzdjY2JOVlRjRmRkS1pLdWNRMXFnNTJMRjhFWEltS3NyRDdIaGdDck0wNHIw?oc=5",
+      "score": 55.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
+      "first_seen": "2026-10-31T21:26:12+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 31 Oct 2026 07:07:03 GMT",
-          "source": "Yahoo News Australia"
+          "published": "Wed, 28 Oct 2026 08:32:27 GMT",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "published": "Wed, 28 Oct 2026 08:32:27 GMT",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ]
+    },
+    {
+      "id": "dd740486b6cb",
+      "title": "Organiser of boxing event targeted by drive-by shooting reveals sudden closure - SMH.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUDJ6RlJPQzk1eXlDTU1hR09aVlA0eld4MWR5VmVpNW16cFBWZTRZdmJGa2hVdGJjYnlrR0VYbTUxVnlNcU9uellUNGFWRktWa25UYWJWVW1CR0Mtdzg4R3hXREt4MmNQVWRKbjdKMU9NaXl5ZU1pZlY3Z2x3RUNzdXlYV0VYbXNmNEg5U1UxcFlWTTZ6YXY1Qkw1TzlEQmJkVmQzc0Z0Ymo1NG",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUDJ6RlJPQzk1eXlDTU1hR09aVlA0eld4MWR5VmVpNW16cFBWZTRZdmJGa2hVdGJjYnlrR0VYbTUxVnlNcU9uellUNGFWRktWa25UYWJWVW1CR0Mtdzg4R3hXREt4MmNQVWRKbjdKMU9NaXl5ZU1pZlY3Z2x3RUNzdXlYV0VYbXNmNEg5U1UxcFlWTTZ6YXY1Qkw1TzlEQmJkVmQzc0Z0Ymo1NGI4MjBwRnJqZ2FaMjNfRFZSU2JwNFNsb2JvQ1l5T1oySmlFNWdMakdSWlI2TVpfdw?oc=5",
+      "score": 55.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-31T21:26:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 30 Oct 2026 02:47:56 GMT",
+          "source": "SMH.com.au"
+        },
+        {
+          "published": "Fri, 30 Oct 2026 02:47:56 GMT",
+          "source": "Brisbane Times"
         }
       ]
     },
@@ -330,14 +380,14 @@
       "title": "Two Short Workouts a Week Still Builds Muscle",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/gYtJFRvmt9M",
-      "score": 56.98,
+      "score": 54.669999999999995,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:24+00:00",
+      "first_seen": "2026-10-31T21:28:34+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -349,18 +399,38 @@
       "is_global": true
     },
     {
+      "id": "d93651279c30",
+      "title": "How Kelly Rutherford, 57, stays fit without the gym – her 3 go-to workouts - Women's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNb01uY2U2cUxJTG43UWxIVHZUTVI0MzNaWC1oZ2dkY2NIcjlqV3hHSWRFQVBvQ3hjQ0VwejltcFM0dDFOLU5MWUk4eWl1N0JIT1hQQ1VKOE80ZlFINDJCRXh2bjhORk5aVnFSSEtwVVFqT2lzR0E1VHpGOGo4bDMxTnI0TDJZeVRPZi03YllUVQ?oc=5\" target=\"_blank\">How Kelly Rut",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb01uY2U2cUxJTG43UWxIVHZUTVI0MzNaWC1oZ2dkY2NIcjlqV3hHSWRFQVBvQ3hjQ0VwejltcFM0dDFOLU5MWUk4eWl1N0JIT1hQQ1VKOE80ZlFINDJCRXh2bjhORk5aVnFSSEtwVVFqT2lzR0E1VHpGOGo4bDMxTnI0TDJZeVRPZi03YllUVQ?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-31T21:26:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 31 Oct 2026 12:04:12 GMT",
+          "source": "Women's Health"
+        }
+      ]
+    },
+    {
       "id": "c2ed5699310e",
       "title": "Creatine's 'Water Weight' Goes Inside the Muscle",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/IfCIOFBykqE",
-      "score": 54.669999999999995,
+      "score": 52.35999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:24+00:00",
+      "first_seen": "2026-10-31T21:28:34+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -372,22 +442,22 @@
       "is_global": true
     },
     {
-      "id": "ce88a6e9f007",
-      "title": "Organiser of boxing event targeted by drive-by shooting reveals sudden closure - Brisbane Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRzF1cmw3aTNVNVJTQXVqU2dTMHc4TFB6ODhVc09zNy1ISUNLZ0lNNTNLQVc0NzdZTG5ncjJBYmc0akp6LW1IT0Z6bkJTbUFLSlBfZTBxMjYwR3dHR3hTUzFBamZSMTJSc3YzQ1IzMTNrWjVERmRnT2UyaHlxMWxNQWQwMlJLaEVHSk15N0ljZm42ZjB6aHpKUjJySnhMM3VuNjNDZlhPVGJvME",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRzF1cmw3aTNVNVJTQXVqU2dTMHc4TFB6ODhVc09zNy1ISUNLZ0lNNTNLQVc0NzdZTG5ncjJBYmc0akp6LW1IT0Z6bkJTbUFLSlBfZTBxMjYwR3dHR3hTUzFBamZSMTJSc3YzQ1IzMTNrWjVERmRnT2UyaHlxMWxNQWQwMlJLaEVHSk15N0ljZm42ZjB6aHpKUjJySnhMM3VuNjNDZlhPVGJvMEFKUW0xeER0bkVpbnNzTWpnV0N5WVhZUTJ2RW9YTXgwa2U5YkhKZEVmdVBjT3RhXzVPb0pwVnJfS0I3V0E?oc=5",
-      "score": 54.0,
+      "id": "6aea316d7c63",
+      "title": "How Hill Sprints Are Powering Greg Rutherford's Fitness Comeback – Build Strength and Cardio Without the Gym - Men's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHNtNmRyS0prY1VtY04wYTdTbWhiYi15bG9ENl9LN04xbVBXQTV4MDVaelhlRTlmVWQxOHR0X2ZqWktRaWpNZkh3RmpjWFNyNEhWYW5WVndyT2NsUVBBNGtwbmprMFdsUzNXRHNZaFd0b0JPM2ppOUhYQTFXdTZxdUVCVjZlcVRvb1ItM01ZUHFVZ1lmMkhoMw?oc=5\" target=\"_blank\">H",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHNtNmRyS0prY1VtY04wYTdTbWhiYi15bG9ENl9LN04xbVBXQTV4MDVaelhlRTlmVWQxOHR0X2ZqWktRaWpNZkh3RmpjWFNyNEhWYW5WVndyT2NsUVBBNGtwbmprMFdsUzNXRHNZaFd0b0JPM2ppOUhYQTFXdTZxdUVCVjZlcVRvb1ItM01ZUHFVZ1lmMkhoMw?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
+      "first_seen": "2026-10-31T21:26:12+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 30 Oct 2026 02:47:56 GMT",
-          "source": "Brisbane Times"
+          "published": "Sat, 31 Oct 2026 15:05:53 GMT",
+          "source": "Men's Health"
         }
       ]
     },
@@ -396,14 +466,14 @@
       "title": "Is a Workout Cortisol Spike Always Bad?",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/FGWF_OjPZC4",
-      "score": 52.35999999999999,
+      "score": 50.05,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:24+00:00",
+      "first_seen": "2026-10-31T21:28:34+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -415,38 +485,18 @@
       "is_global": true
     },
     {
-      "id": "14d723fe881b",
-      "title": "Level X owners take on former Change gym location in Broadbeach - Australasian Leisure Management Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOVR2Mk1YaVJWQUZrLU9GR0NmUHVYS0c2M0RJaGJscDIxQkhfWl92Y0N2bWxPSHRpa3BKLWtad1ZlWWRSSndlQVQzcE9ETWt2UjZvdmFWZ1FQRHJzMUYwejg1enF6cFdwOWJ1RmxMckczcDYxZWF6SlhLTS1QeWdyb2t1WnBhc2J6c1hudTUtVzBxdjJGd1NSM2NmdDhCSWM?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOVR2Mk1YaVJWQUZrLU9GR0NmUHVYS0c2M0RJaGJscDIxQkhfWl92Y0N2bWxPSHRpa3BKLWtad1ZlWWRSSndlQVQzcE9ETWt2UjZvdmFWZ1FQRHJzMUYwejg1enF6cFdwOWJ1RmxMckczcDYxZWF6SlhLTS1QeWdyb2t1WnBhc2J6c1hudTUtVzBxdjJGd1NSM2NmdDhCSWM?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 00:30:28 GMT",
-          "source": "Australasian Leisure Management Magazine"
-        }
-      ]
-    },
-    {
       "id": "ebbd07278033",
       "title": "Bad Sleep Might Be Worse for Muscle Growth Than We Thought",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike I",
       "url": "https://www.youtube.com/watch?v=A3NGVvKBOyk",
-      "score": 50.05,
+      "score": 47.74,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:24+00:00",
+      "first_seen": "2026-10-31T21:28:34+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -458,18 +508,38 @@
       "is_global": true
     },
     {
+      "id": "d2e5fef444fd",
+      "title": "The Simple Diet and Fitness Routine That Helped This Man Lose 65kg in 365 Days – And the Hacks He Swears By - Yahoo Life UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkFISU5zQTRNYmxWNG1ScFFSVHdGb19kQlRCUnM0ZFpaRTBTdWtVVzZhXzVwb2pscEpaTUpJdXNmbUdWTGxGNlZ3ZmtoY250bFlneWFQc2hsWmhlRGtFVHBDZC1JZldqV25xYzgzTWpDYlZyQ0R0cXg1aTRBX3l1ekNR?oc=5\" target=\"_blank\">The Simple Diet and Fitness Rou",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkFISU5zQTRNYmxWNG1ScFFSVHdGb19kQlRCUnM0ZFpaRTBTdWtVVzZhXzVwb2pscEpaTUpJdXNmbUdWTGxGNlZ3ZmtoY250bFlneWFQc2hsWmhlRGtFVHBDZC1JZldqV25xYzgzTWpDYlZyQ0R0cXg1aTRBX3l1ekNR?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-10-31T21:26:12+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 31 Oct 2026 17:00:00 GMT",
+          "source": "Yahoo Life UK"
+        }
+      ]
+    },
+    {
       "id": "05007d107bac",
       "title": "Want Bigger Glutes? Watch Your Strength Numbers",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
       "url": "https://www.youtube.com/shorts/Rx8Hc2SOuUw",
-      "score": 47.74,
+      "score": 45.43,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-10-31T12:16:24+00:00",
+      "first_seen": "2026-10-31T21:28:34+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -479,69 +549,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "fab22a70b236",
-      "title": "Try the classic speed workout that took a 53-year-old’s 5K time from 25mins to sub-21 - Runner's World",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0lwVFlnQmc5aFdyRDNfZmh2YTZrVTR2Mi1EVWQ5YUhWUFBRLTJST3p4Y1FWbnpnai1HcHhlQ0RoakE0d0RTT2p2QWdQOEgyVU9fVjV2MlhtSzVVRmtJOGJBUFV5eFNzcUZvOVRJQWFhZ3dMTXdRckU0czNTdXotUFJUQmV6M2lWdTZ0d0NQRQ?oc=5\" target=\"_blank\">Try the class",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0lwVFlnQmc5aFdyRDNfZmh2YTZrVTR2Mi1EVWQ5YUhWUFBRLTJST3p4Y1FWbnpnai1HcHhlQ0RoakE0d0RTT2p2QWdQOEgyVU9fVjV2MlhtSzVVRmtJOGJBUFV5eFNzcUZvOVRJQWFhZ3dMTXdRckU0czNTdXotUFJUQmV6M2lWdTZ0d0NQRQ?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 18:24:59 GMT",
-          "source": "Runner's World"
-        }
-      ]
-    },
-    {
-      "id": "330d425ab35c",
-      "title": "Joe Rogan Said Exercise Won't Make You Lose Weight",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/oSKqU7-kDbE",
-      "score": 45.43,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-10-31T12:16:24+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
-          "channel_title": "Renaissance Periodization",
-          "video_id": "oSKqU7-kDbE",
-          "published": "2026-10-27T19:00:15+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "41738477874c",
-      "title": "King Charles depicted as boxing champion as he visits Bahamas gym - ESPN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQU9IdXFNR1VZLVVUc3pYRFAtZ1dBQWU5TUFCdE4tdjFfSHA5ekExMHJqdXZRdi1VYXpxLVRRSW41YUVaTFFyNkFSTERzMEU2N3R4MHNKMDVqYVJvcl9JVXRhZThvVGZpTlR4MmNVUlM4M3NjdnRWMnRteWJFYlBZZHZEUS1fWWxpdmViZEtpRU9fTDB2c054THNpSDdGNk9MRTJoYk1CM2s1dn",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQU9IdXFNR1VZLVVUc3pYRFAtZ1dBQWU5TUFCdE4tdjFfSHA5ekExMHJqdXZRdi1VYXpxLVRRSW41YUVaTFFyNkFSTERzMEU2N3R4MHNKMDVqYVJvcl9JVXRhZThvVGZpTlR4MmNVUlM4M3NjdnRWMnRteWJFYlBZZHZEUS1fWWxpdmViZEtpRU9fTDB2c054THNpSDdGNk9MRTJoYk1CM2s1dnM?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-10-31T12:14:00+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 20:01:37 GMT",
-          "source": "ESPN"
-        }
-      ]
     }
   ]
 }
