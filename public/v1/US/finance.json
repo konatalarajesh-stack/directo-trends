@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "US",
-  "generated_at": "2026-10-30T22:22:49+00:00",
+  "generated_at": "2026-10-31T05:35:01+00:00",
   "cache_ttl_hours": 6,
-  "count": 25,
+  "count": 20,
   "trends": [
     {
-      "id": "30183223706e",
-      "title": "Stock Market Today, Oct. 30: Amazon Misses Revenue and Earnings Expectations - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNmhYNjZBOVV2ZW1RcTNRZndKOGdMZ1RZcVBkVTlZcmE2SzdrTkxyUWw0MG9QcDN2UjdTNm52RGxxejFKTUR0Qm40dkFZXy1NckdVS1ZZR0d5bHc4V3BDWFI0RE5MSGhibTRVaDFGQUtHQlRaMXlRdS1RUTM2ckZ5blVaNzdQVkxSM0JiYjBQWF9WM3pXMV9GbUo0T3c1MmZDeGVSQi03cE5ZYk",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNmhYNjZBOVV2ZW1RcTNRZndKOGdMZ1RZcVBkVTlZcmE2SzdrTkxyUWw0MG9QcDN2UjdTNm52RGxxejFKTUR0Qm40dkFZXy1NckdVS1ZZR0d5bHc4V3BDWFI0RE5MSGhibTRVaDFGQUtHQlRaMXlRdS1RUTM2ckZ5blVaNzdQVkxSM0JiYjBQWF9WM3pXMV9GbUo0T3c1MmZDeGVSQi03cE5ZYkcyUWdHaUVSZU5PRVp0ejBJdEIzX2VkMTRfZkRDNXNZcmo0QjQ?oc=5",
+      "id": "793f22ccf60d",
+      "title": "Dave Ramsey Says Personal Finance Is 80% Behavior. Here Are 3 Retirement Mistakes to Avoid - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDNCLXVlTUVVcUYxMkFjUmdYMlN2cUZZR1RfTW93dlpza05USVYyMTN3VGFqc0pWU0hJYmRBT0VYVlBCT2lLbFdKQVZzUnFzQVhNaTIzUTV3VTZnOE4zMmt6XzFwQ0ZtUkM3bzRfeGVBOEJHSTQtQXprTjZyQzdudFhXbTd3OG5SSUZWTkdOZGxDTzhrcEE?oc=5\" target=\"_blank\">Dave",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDNCLXVlTUVVcUYxMkFjUmdYMlN2cUZZR1RfTW93dlpza05USVYyMTN3VGFqc0pWU0hJYmRBT0VYVlBCT2lLbFdKQVZzUnFzQVhNaTIzUTV3VTZnOE4zMmt6XzFwQ0ZtUkM3bzRfeGVBOEJHSTQtQXprTjZyQzdudFhXbTd3OG5SSUZWTkdOZGxDTzhrcEE?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,11 +18,51 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 30 Oct 2026 21:23:14 GMT",
+          "published": "Fri, 30 Oct 2026 22:08:50 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "30183223706e",
+      "title": "Stock Market Today, Oct. 30: Amazon Misses Revenue and Earnings Expectations - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNmhYNjZBOVV2ZW1RcTNRZndKOGdMZ1RZcVBkVTlZcmE2SzdrTkxyUWw0MG9QcDN2UjdTNm52RGxxejFKTUR0Qm40dkFZXy1NckdVS1ZZR0d5bHc4V3BDWFI0RE5MSGhibTRVaDFGQUtHQlRaMXlRdS1RUTM2ckZ5blVaNzdQVkxSM0JiYjBQWF9WM3pXMV9GbUo0T3c1MmZDeGVSQi03cE5ZYk",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNmhYNjZBOVV2ZW1RcTNRZndKOGdMZ1RZcVBkVTlZcmE2SzdrTkxyUWw0MG9QcDN2UjdTNm52RGxxejFKTUR0Qm40dkFZXy1NckdVS1ZZR0d5bHc4V3BDWFI0RE5MSGhibTRVaDFGQUtHQlRaMXlRdS1RUTM2ckZ5blVaNzdQVkxSM0JiYjBQWF9WM3pXMV9GbUo0T3c1MmZDeGVSQi03cE5ZYkcyUWdHaUVSZU5PRVp0ejBJdEIzX2VkMTRfZkRDNXNZcmo0QjQ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-10-31T05:25:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 30 Oct 2026 22:15:00 GMT",
           "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "2e171bcf7540",
+      "title": "Nasdaq Falls Another 747 Points as Intel Is Way Outside: Stock Market Today - Kiplinger",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXEzaGtrZnhTbHkweXJkdkplRlNGcVVIMjhuQkV3RDRzVTFkZFEwZzI3ZFlpaUQzbTFPT1RvUVN1bVIycmZuUXVMYlNibVJoWWhqZmZpb2xlUWRBWC02dVAyTDlaQ0ZVZHZ6ZlRMWEdvZ2wxNFNjTU9waVdkMGpvNE1qM1VOdXlzTFB0OEEzSEFDaWFGRUdtTUlmc1dJODA4LTc5eEZXeGVUSG",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXEzaGtrZnhTbHkweXJkdkplRlNGcVVIMjhuQkV3RDRzVTFkZFEwZzI3ZFlpaUQzbTFPT1RvUVN1bVIycmZuUXVMYlNibVJoWWhqZmZpb2xlUWRBWC02dVAyTDlaQ0ZVZHZ6ZlRMWEdvZ2wxNFNjTU9waVdkMGpvNE1qM1VOdXlzTFB0OEEzSEFDaWFGRUdtTUlmc1dJODA4LTc5eEZXeGVUSGwtWW9qZGdNamgwSmJp?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-10-31T05:25:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 30 Oct 2026 20:25:16 GMT",
+          "source": "Kiplinger"
         }
       ]
     },
@@ -31,14 +71,14 @@
       "title": "You can expect the stock market to rally no matter who wins on Election Day - MarketWatch",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFdRa2lwMlpzZndhakxjMXlWQUNHak43STVpTEJ6MGFtZDRBT0tvejY3Ty11cVo0X25FelVXTkFXWWdfaDNHZjhRSkZrYndwZWVueGhweHRNUGkxOXdwejN4M1FNS1dSNTF6OF8xVDhXajRpQjNucnA3V1ZsQm5iZWlVMFdWQzFEZWlzRkhCblhLUi1QZjZ0LWdUd2pUbWxEeUpTRlpSdVBFSH",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFdRa2lwMlpzZndhakxjMXlWQUNHak43STVpTEJ6MGFtZDRBT0tvejY3Ty11cVo0X25FelVXTkFXWWdfaDNHZjhRSkZrYndwZWVueGhweHRNUGkxOXdwejN4M1FNS1dSNTF6OF8xVDhXajRpQjNucnA3V1ZsQm5iZWlVMFdWQzFEZWlzRkhCblhLUi1QZjZ0LWdUd2pUbWxEeUpTRlpSdVBFSHF4bnlZU3Bac0dnMWdYaUE?oc=5",
-      "score": 86.4,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
           "published": "Fri, 30 Oct 2026 17:32:00 GMT",
@@ -47,22 +87,22 @@
       ]
     },
     {
-      "id": "7c974c73394c",
-      "title": "If a Stock Market Crash Is Coming, Take This Advice From Charlie Munger - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUEItcVlpWjN0cWtKVDdLd2dhVWNWeURMek5VUnFIWFp3NHZ0UWg5SjNucHRMeTFyZ1daZThRNk5Zcy1GUjBEYkl6VFZiS3ByeDVfb1JMTFhnQ3F2QzJWWGFkRENqM3p3LWdmS0dfVjhBV0R4Vk9YWUt6cFZncXZ1TFhibXlOTko3RWdYeUN3S3BJcVFWU1ZfWHZRMVF6Zw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEItcVlpWjN0cWtKVDdLd2dhVWNWeURMek5VUnFIWFp3NHZ0UWg5SjNucHRMeTFyZ1daZThRNk5Zcy1GUjBEYkl6VFZiS3ByeDVfb1JMTFhnQ3F2QzJWWGFkRENqM3p3LWdmS0dfVjhBV0R4Vk9YWUt6cFZncXZ1TFhibXlOTko3RWdYeUN3S3BJcVFWU1ZfWHZRMVF6Zw?oc=5",
-      "score": 82.8,
+      "id": "236b3d1142ad",
+      "title": "10 Best Investments: Where to Invest in 2026 - NerdWallet",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0tWG85SGZJVHVCYkp0bWxkZDFtM0w5REUxZ3VOcGdWQ0JWTTluVWlMLXhtNHRaYzRsaGh4Q1B2UXNxUkR1LWFTdFlzdHBpNzhFNGxLbW9ISFBOVTl3OXZZLW12UGFVa1JyYWM5dmVldUZUeEN5eDIxblVqbWFWQQ?oc=5\" target=\"_blank\">10 Best Investments: Where to Invest ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tWG85SGZJVHVCYkp0bWxkZDFtM0w5REUxZ3VOcGdWQ0JWTTluVWlMLXhtNHRaYzRsaGh4Q1B2UXNxUkR1LWFTdFlzdHBpNzhFNGxLbW9ISFBOVTl3OXZZLW12UGFVa1JyYWM5dmVldUZUeEN5eDIxblVqbWFWQQ?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 28 Oct 2026 15:35:00 GMT",
-          "source": "Yahoo Finance"
+          "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+          "source": "NerdWallet"
         }
       ]
     },
@@ -71,14 +111,14 @@
       "title": "Alphabet Sheds Half a Trillion in Market Value in Stock’s Worst Day Ever - WSJ",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGV1bXVNOXFOR1NrQndfTDlkLTlxemh6b0JkY0l0LWhZUTJIUWVadTdDOXl2aG1WZ1JVT0l2TzE4OURJMFhKSlctVmptS2UwZmpzajRHT19BaEF1dzNaWjRVcjh3YnY1MV93dkt3V2dTZXNFdEpHTHJ2T3FzSHowekRBclY0eWw2bWRrZHhnajNyNlFncy10TmdTSHBBYkMtUk1KaV8tMXc0bG",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGV1bXVNOXFOR1NrQndfTDlkLTlxemh6b0JkY0l0LWhZUTJIUWVadTdDOXl2aG1WZ1JVT0l2TzE4OURJMFhKSlctVmptS2UwZmpzajRHT19BaEF1dzNaWjRVcjh3YnY1MV93dkt3V2dTZXNFdEpHTHJ2T3FzSHowekRBclY0eWw2bWRrZHhnajNyNlFncy10TmdTSHBBYkMtUk1KaV8tMXc0bG8x?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
           "published": "Thu, 29 Oct 2026 21:20:00 GMT",
@@ -87,42 +127,22 @@
       ]
     },
     {
-      "id": "dce72f45db2d",
-      "title": "76% of U.S. Investors Fear Public Debt Will Cut Retirement Benefits. Social Security's 2032 Shortfall Could Take $550 From a $2,500 Monthly Check - 24/7 Wall St.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOcUxYMExFM2NOSVZqYTZmTDJjVEZjUWx3elNxT0ZxY1Y3RG1rQm9ZNlVBVHVrNzRmRERLcUZzNTI0V0prUWNpMXhSS2RZZEU3b3BpOXB0ZFlKejIzb1VlelVtQ3JSRUY4YVRKU2owcktXVHNqblpmV2xlQ092STd1enZnSHdvd2hlQ3ZtZG0xR2tsWGIxajMxMmZybWE5elRlM3VrMGtqSy1wSk",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcUxYMExFM2NOSVZqYTZmTDJjVEZjUWx3elNxT0ZxY1Y3RG1rQm9ZNlVBVHVrNzRmRERLcUZzNTI0V0prUWNpMXhSS2RZZEU3b3BpOXB0ZFlKejIzb1VlelVtQ3JSRUY4YVRKU2owcktXVHNqblpmV2xlQ092STd1enZnSHdvd2hlQ3ZtZG0xR2tsWGIxajMxMmZybWE5elRlM3VrMGtqSy1wSkxIM2c2UXlTYmswbHpHU3RHVmxhVG43WlBndGpWbE5UUWk2OWdqZDZLczNGZnYxSW9TN0s0dFJsZEpwdFVoVUN2Q1YxT0YzVGVfS1BxQTFHakE4TU9BS083WVhibjZobS1raHczYnc2cnNtc3pkcUUtWldZb0F5ZTZNbTJyeU1COGF0Zw?oc=5",
-      "score": 75.6,
+      "id": "838b4b8e03dd",
+      "title": "A historic drop for Alphabet's stock drags the US market lower - The Washington Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTRBYjBxN1A3bE9QM2Iyb0FjZ2YzcGl5RHJBTlJTMERkX2Y5c1k3MExwTkp6X2pnRHh1cFdDM0pacVozY0NnWkVpaVRUc1hSM0g5amVkYmdsdGJpczh3dG9sUHVTY21sb1YzdThCNGV5OXJYczNFT1l3eUVSeVdVbVpPWU9zZXBxTFIySkZQWUgwUDZESkxSNDhKWGNwSVQ2NXh6RjQ1d3oyQT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTRBYjBxN1A3bE9QM2Iyb0FjZ2YzcGl5RHJBTlJTMERkX2Y5c1k3MExwTkp6X2pnRHh1cFdDM0pacVozY0NnWkVpaVRUc1hSM0g5amVkYmdsdGJpczh3dG9sUHVTY21sb1YzdThCNGV5OXJYczNFT1l3eUVSeVdVbVpPWU9zZXBxTFIySkZQWUgwUDZESkxSNDhKWGNwSVQ2NXh6RjQ1d3oyQTVROTlEZktvRDRsYk1SN2stUEViRVF6QQ?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 30 Oct 2026 02:00:00 GMT",
-          "source": "24/7 Wall St."
-        }
-      ]
-    },
-    {
-      "id": "c79fd1f8d2a9",
-      "title": "Nasdaq Drops 365 Points on Alphabet's Rare Double Miss: Stock Market Today - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0lSQ3RDMGc3dlV4eFNKdXJlQU5jQlRPSjRiZTY4NTF4UnhyYi1sWVNBWnYteWRNNGN2RUNpMWJmMXNMWmxDTVdUc01PMzNSemxRbDJlTkRBeXRyZG5CTUZXWW8zR2NEcXhMbnZfMWdjcEtBUG1fM21QOUowamNYOWtiV3BBenY4bnNPMXRncHRjV0hOREVrdm1Wc2YzeEJrN1hGRVRhLU5TQQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0lSQ3RDMGc3dlV4eFNKdXJlQU5jQlRPSjRiZTY4NTF4UnhyYi1sWVNBWnYteWRNNGN2RUNpMWJmMXNMWmxDTVdUc01PMzNSemxRbDJlTkRBeXRyZG5CTUZXWW8zR2NEcXhMbnZfMWdjcEtBUG1fM21QOUowamNYOWtiV3BBenY4bnNPMXRncHRjV0hOREVrdm1Wc2YzeEJrN1hGRVRhLU5TQQ?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 29 Oct 2026 20:08:22 GMT",
-          "source": "Kiplinger"
+          "published": "Fri, 30 Oct 2026 03:43:22 GMT",
+          "source": "The Washington Post"
         }
       ]
     },
@@ -131,14 +151,14 @@
       "title": "If a Stock Market Crash Is Coming, History Suggests These Are 2 Crucial Moves to Make. - The Motley Fool",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTmljdXhDdnM3Mkg4VnlONEkwNm9sZU1JbVFlWUdvV3NSRFpPd3RZVHJqTnR4VkVza3BJTS1VaGtKcEliQTRHTFBnQjRIMGd1MXpscEVwX0pBRHNCd04wSjRCTGM3Y0pJRTZpYTYwYmVkX3dOTG9yc25QQ2JmYVVtZEZwd0FqdW9NTzFBMU1oenc0Y3Bic1c3NE56NTJ6eTItbUdHNFNBSmQ3U2",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTmljdXhDdnM3Mkg4VnlONEkwNm9sZU1JbVFlWUdvV3NSRFpPd3RZVHJqTnR4VkVza3BJTS1VaGtKcEliQTRHTFBnQjRIMGd1MXpscEVwX0pBRHNCd04wSjRCTGM3Y0pJRTZpYTYwYmVkX3dOTG9yc25QQ2JmYVVtZEZwd0FqdW9NTzFBMU1oenc0Y3Bic1c3NE56NTJ6eTItbUdHNFNBSmQ3U205UDBWNzFLcDNoTjI4NkdhYjJtcTdRd0tXN2c?oc=5",
-      "score": 68.4,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
           "published": "Fri, 30 Oct 2026 12:15:00 GMT",
@@ -147,76 +167,10 @@
       ]
     },
     {
-      "id": "4b54d7ec577a",
-      "title": "Why the stock market and economy may seem out of sync - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9vcWg0QXpqWk91X05BclFWbHdfOXotd2YzRlBpS0lSeFN4ZGJwSDhvRE5uWkliU095bnYyMy11cEktM3U1SGZXd24wdlRoajBrTDVOR01wUGNDMElqbFVheEJjUko2MTk5Vlpad3hYQWVzRk90QkRuSUpUOFZUQdIBgwFBVV95cUxOU0NUczI0QXNNbXlrWTlINlBJTkVGZHFtQi1tS05ocmVsWl",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vcWg0QXpqWk91X05BclFWbHdfOXotd2YzRlBpS0lSeFN4ZGJwSDhvRE5uWkliU095bnYyMy11cEktM3U1SGZXd24wdlRoajBrTDVOR01wUGNDMElqbFVheEJjUko2MTk5Vlpad3hYQWVzRk90QkRuSUpUOFZUQdIBgwFBVV95cUxOU0NUczI0QXNNbXlrWTlINlBJTkVGZHFtQi1tS05ocmVsWlVzcWFNRjhic01aVWxSdWRCRU1ISTU0WnVrX1E4RGRZWG0tWHcxa3BqSnhLSXNhSzlNb2k1Z3g1V3Y4SkRoUUVmMUsyTTNZTmZIVWpHYzJsM3FYVUpGaWtzVQ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-          "source": "CNBC"
-        }
-      ]
-    },
-    {
-      "id": "a75bff9e8e26",
-      "title": "Crazy Tenant Destroyed This Guy's Property...",
-      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
-      "url": "https://www.youtube.com/shorts/ZARs2LQTCeI",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-30T22:16:02+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "ZARs2LQTCeI",
-          "published": "2026-10-30T17:00:24+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "5ac17b264d95",
-      "title": "The Numbers Behind Anthropic",
-      "summary": "Link to prospectus: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\n\n00:00 - Introduction\n02:06 - Founder Letter\n03:16 - Capital Structure\n05:58 - Operations\n07:47 - The Finances\n12:57 - Off-Balance Sheet Commitments\n13:56 - The Risks\n\nAnth",
-      "url": "https://www.youtube.com/watch?v=6ZrgRjdJs3o",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-30T22:16:03+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
-          "channel_title": "The Plain Bagel",
-          "video_id": "6ZrgRjdJs3o",
-          "published": "2026-10-28T15:00:08+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "e0903f769e64",
-      "title": "Q4 2026 Stock Market Outlook: Individual Stock Selection Looks Increasingly Important - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWlZdDVaR203U3VJdFl4bFI2UEtURlJtdHBSLXhJcHBkVmNDWUM2ODFsUVp3Und1dVdJdGlQdnNpbHdMZUhMSl9odXVZZGpRWEtVb1ZHaGJEbGowczBIZHdxTXpHS0F3bXZiWGYwRW9UVHNvZjVnVDhaZHZRQnU0bFJEQklvb1ZlNWgzdVdnZHkyR0FSVFJvUVVoUk9ENGlqUWNoUlVSZHl5Ml",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWlZdDVaR203U3VJdFl4bFI2UEtURlJtdHBSLXhJcHBkVmNDWUM2ODFsUVp3Und1dVdJdGlQdnNpbHdMZUhMSl9odXVZZGpRWEtVb1ZHaGJEbGowczBIZHdxTXpHS0F3bXZiWGYwRW9UVHNvZjVnVDhaZHZRQnU0bFJEQklvb1ZlNWgzdVdnZHkyR0FSVFJvUVVoUk9ENGlqUWNoUlVSZHl5MlUyVEo4MFROM1BQT3JfVzJpMQ?oc=5",
+      "id": "7c974c73394c",
+      "title": "If a Stock Market Crash Is Coming, Take This Advice From Charlie Munger - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUEItcVlpWjN0cWtKVDdLd2dhVWNWeURMek5VUnFIWFp3NHZ0UWg5SjNucHRMeTFyZ1daZThRNk5Zcy1GUjBEYkl6VFZiS3ByeDVfb1JMTFhnQ3F2QzJWWGFkRENqM3p3LWdmS0dfVjhBV0R4Vk9YWUt6cFZncXZ1TFhibXlOTko3RWdYeUN3S3BJcVFWU1ZfWHZRMVF6Zw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEItcVlpWjN0cWtKVDdLd2dhVWNWeURMek5VUnFIWFp3NHZ0UWg5SjNucHRMeTFyZ1daZThRNk5Zcy1GUjBEYkl6VFZiS3ByeDVfb1JMTFhnQ3F2QzJWWGFkRENqM3p3LWdmS0dfVjhBV0R4Vk9YWUt6cFZncXZ1TFhibXlOTko3RWdYeUN3S3BJcVFWU1ZfWHZRMVF6Zw?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -224,65 +178,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-          "source": "Morningstar"
+          "published": "Wed, 28 Oct 2026 15:35:00 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
-      "id": "867bfa11d8e4",
-      "title": "NBA Player On Using Facebook MarketPlace...",
-      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
-      "url": "https://www.youtube.com/shorts/YHRmA8vTDPY",
-      "score": 59.29,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-30T22:16:02+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "YHRmA8vTDPY",
-          "published": "2026-10-29T16:00:08+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "f05e53856c2a",
-      "title": "The Impact of Alberta's Referendum Results",
-      "summary": "Alberta just had its independence referendum - today, we'll discuss the results, and what it means for Alberta, Canada, and Quebec.\n\nDISCLAIMER:\nThis channel is for education purposes only and does not constitute financial advice - Richard is not responsible for investment action",
-      "url": "https://www.youtube.com/watch?v=27JRiGRlVaQ",
-      "score": 59.29,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-30T22:16:03+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
-          "channel_title": "The Plain Bagel",
-          "video_id": "27JRiGRlVaQ",
-          "published": "2026-10-22T16:57:57+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "8b63e330b850",
-      "title": "For Gen Z, Building Wealth Is in the Stock Market, Not the Housing Market - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5\" target=\"_blank\">For Gen Z, Building Wealth Is in the Stoc",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5",
+      "id": "c79fd1f8d2a9",
+      "title": "Nasdaq Drops 365 Points on Alphabet's Rare Double Miss: Stock Market Today - Kiplinger",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0lSQ3RDMGc3dlV4eFNKdXJlQU5jQlRPSjRiZTY4NTF4UnhyYi1sWVNBWnYteWRNNGN2RUNpMWJmMXNMWmxDTVdUc01PMzNSemxRbDJlTkRBeXRyZG5CTUZXWW8zR2NEcXhMbnZfMWdjcEtBUG1fM21QOUowamNYOWtiV3BBenY4bnNPMXRncHRjV0hOREVrdm1Wc2YzeEJrN1hGRVRhLU5TQQ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0lSQ3RDMGc3dlV4eFNKdXJlQU5jQlRPSjRiZTY4NTF4UnhyYi1sWVNBWnYteWRNNGN2RUNpMWJmMXNMWmxDTVdUc01PMzNSemxRbDJlTkRBeXRyZG5CTUZXWW8zR2NEcXhMbnZfMWdjcEtBUG1fM21QOUowamNYOWtiV3BBenY4bnNPMXRncHRjV0hOREVrdm1Wc2YzeEJrN1hGRVRhLU5TQQ?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -290,65 +198,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-          "source": "The New York Times"
+          "published": "Thu, 29 Oct 2026 20:08:22 GMT",
+          "source": "Kiplinger"
         }
       ]
     },
     {
-      "id": "1b07bfa768c3",
-      "title": "BREAKING: The Fed Just Froze Rates — Here’s What Happens After EVERY Midterm Since 1950!",
-      "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: https://sofi.com/graham | Let's talk about the Federal Reserve Rate Pause and what this means for the stock market / economy going forward - Enjoy! Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENT",
-      "url": "https://www.youtube.com/watch?v=MN82nDZ8eXo",
-      "score": 56.98,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-30T22:16:02+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "MN82nDZ8eXo",
-          "published": "2026-10-28T20:00:23+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "9c9a4bff845a",
-      "title": "An Urgent Warning For ALL Investors",
-      "summary": "Start your 7-day free trial + unlock 4 extra months of Surfshark VPN — head to https://surfshark.com/graham or use code GRAHAM at checkout! | Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nSTART BUILDING WEA",
-      "url": "https://www.youtube.com/watch?v=pYySHOdSEQc",
-      "score": 54.669999999999995,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-30T22:16:02+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "pYySHOdSEQc",
-          "published": "2026-10-21T20:00:39+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "688442c277d8",
-      "title": "Is a stock market correction coming? Most Americans think so - USA Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcU9XXzlBd2pHZEtnY1RXSndVRHNycnF3Ym5GYWh4aFNGcjZZaDRRTmp0SjQ5clBqN2F0YVhDS1hoQmI0OXcyNkFLblZ2cTEtYjljSlZxd3Etd0I1M05fTi1iOVlDaUx2WWNmX1B5TVVzWUR3WER0RWl6Tnc0N0hJNlM1RHdaMmR0ZlZaQV9QVGxOZld1ajYxeC11UEVkTnZGcHVNUGpCUk90Nn",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcU9XXzlBd2pHZEtnY1RXSndVRHNycnF3Ym5GYWh4aFNGcjZZaDRRTmp0SjQ5clBqN2F0YVhDS1hoQmI0OXcyNkFLblZ2cTEtYjljSlZxd3Etd0I1M05fTi1iOVlDaUx2WWNmX1B5TVVzWUR3WER0RWl6Tnc0N0hJNlM1RHdaMmR0ZlZaQV9QVGxOZld1ajYxeC11UEVkTnZGcHVNUGpCUk90NnNjX25Ldzl3Y2xxMjhp?oc=5",
+      "id": "ddf6e52d5ed8",
+      "title": "Going low-risk in your portfolio is riskier than you think - The Washington Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnZWTzNHN1kzdk5qV2xCa3FoeUdyNnhEam9lUjh1dXl1THpCQmlnOWIxTTBNR1FDQlc2UHNZbmNIREx6aEFJcUpHb0pPZzVmMGttb3ZQUVdSbTFCRzdJRGZpWHN0Nzk1THJmWHBRTzI0djdob3c2WGpxMW40U3VqZmxWcnVvOWc?oc=5\" target=\"_blank\">Going low-risk in your p",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnZWTzNHN1kzdk5qV2xCa3FoeUdyNnhEam9lUjh1dXl1THpCQmlnOWIxTTBNR1FDQlc2UHNZbmNIREx6aEFJcUpHb0pPZzVmMGttb3ZQUVdSbTFCRzdJRGZpWHN0Nzk1THJmWHBRTzI0djdob3c2WGpxMW40U3VqZmxWcnVvOWc?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -356,42 +218,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 04 Oct 2026 07:00:00 GMT",
-          "source": "USA Today"
+          "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "source": "The Washington Post"
         }
       ]
     },
     {
-      "id": "bb530eba4a9a",
-      "title": "Turning $100K Into $2.5M 🤯",
-      "summary": "Thanks for watching!",
-      "url": "https://www.youtube.com/shorts/yBH_ES9824Q",
-      "score": 52.35999999999999,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "global",
-      "first_seen": "2026-10-30T22:16:02+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-          "channel_title": "Graham Stephan",
-          "video_id": "yBH_ES9824Q",
-          "published": "2026-10-20T15:00:38+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "0ffd65d51d0a",
-      "title": "Where the US Stock Market May Be Heading Next and What to Buy Now - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDBYRXR4TFFoQzdnQ0ZieFctRk9aNGlGczZuMFNlUm02YTB1ZDhhWDlSM0pRS3JrekVWckZQRnFKcnRGeGl2aFpCVGd6ZldHMkNXTWpHd09UMDVGaUx1d3ZPX2lzWmREOGttM0x4Z3ZFcXN4NnZtd1c5QUdIelQ4d2taWDFQcFRpUktiejlnNG56Qk9jekNTcVBBZks?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDBYRXR4TFFoQzdnQ0ZieFctRk9aNGlGczZuMFNlUm02YTB1ZDhhWDlSM0pRS3JrekVWckZQRnFKcnRGeGl2aFpCVGd6ZldHMkNXTWpHd09UMDVGaUx1d3ZPX2lzWmREOGttM0x4Z3ZFcXN4NnZtd1c5QUdIelQ4d2taWDFQcFRpUktiejlnNG56Qk9jekNTcVBBZks?oc=5",
+      "id": "eb8c5b1b83ab",
+      "title": "How to Buy Stocks Online: A Guide to Placing Your First Trade - NerdWallet",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE51a1VScWFza0E1M1pyRzlvM005M2lvTTdsaUUxR3M2Vi1lRXFEazlMZ21xRkF5QUkxc2Z0cU5YLWkzNnJZOEw5S0Z6bExzOW9VMU5CLUx5V19YNGJPU0Z6dHhoaENkWkYxUHB2dg?oc=5\" target=\"_blank\">How to Buy Stocks Online: A Guide to Placing Your First Trade",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51a1VScWFza0E1M1pyRzlvM005M2lvTTdsaUUxR3M2Vi1lRXFEazlMZ21xRkF5QUkxc2Z0cU5YLWkzNnJZOEw5S0Z6bExzOW9VMU5CLUx5V19YNGJPU0Z6dHhoaENkWkYxUHB2dg?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -399,19 +238,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-          "source": "Morningstar"
+          "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+          "source": "NerdWallet"
         }
       ]
     },
     {
-      "id": "6a936ebb3c65",
-      "title": "Gen Z, Locked Out of Home Buying, Puts Its Money in the Market - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQRDBqT21pUXVKQVhfN05BbzJ6V0ZVS0lIRFptckhxOE1oZ2pIUWFSNW1YQmd0TkhyOWJzM0dzdHU4S0lxazdmTUQ5a3RZNEVaeU5LNHlienpxRkc3UFlxMFVaOVFKaF92OHZPOEdFaVE1TEltcU1DQ01IQ2ZSYXYtTl9NZVk?oc=5\" target=\"_blank\">Gen Z, Locked Out of Home Bu",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRDBqT21pUXVKQVhfN05BbzJ6V0ZVS0lIRFptckhxOE1oZ2pIUWFSNW1YQmd0TkhyOWJzM0dzdHU4S0lxazdmTUQ5a3RZNEVaeU5LNHlienpxRkc3UFlxMFVaOVFKaF92OHZPOEdFaVE1TEltcU1DQ01IQ2ZSYXYtTl9NZVk?oc=5",
+      "id": "0b7c505366d8",
+      "title": "3 Dividend-Paying Value Stocks That Let You Rest Easy Even if the Stock Market Sell-Off Worsens in November. - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQU21jYWFYTDc0MDhPd1JtU045Y1dlUjhMZnhfelNpRlF4VDQ5YjhHd2t5alRqb09xYXdvNElRQm1nenFCS2hwTE45RnJtbmZsQ3h2Y2NhSURhTTgtajNzUHZNSmZiTFlKTkVWNVNPUHh2amhicHRjVWNPNUJTQjlDV0dVZlVVYmU1UVlJYzlvQ0UyUEFNX2xnNg?oc=5\" target=\"_blank\">3",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU21jYWFYTDc0MDhPd1JtU045Y1dlUjhMZnhfelNpRlF4VDQ5YjhHd2t5alRqb09xYXdvNElRQm1nenFCS2hwTE45RnJtbmZsQ3h2Y2NhSURhTTgtajNzUHZNSmZiTFlKTkVWNVNPUHh2amhicHRjVWNPNUJTQjlDV0dVZlVVYmU1UVlJYzlvQ0UyUEFNX2xnNg?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -419,19 +258,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 15 Feb 2026 08:00:00 GMT",
-          "source": "WSJ"
+          "published": "Fri, 30 Oct 2026 23:30:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "f4f7ea7482ae",
-      "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1E2amItQ3FhU2dOQV8zdTZyZTBURDlETkZPWXJzVnpubnJXS2V5ZTBFLUlrTlYxOU1TZGhmemxvN1hsMWNFZkxLaVRQU3phaFFUanpDb3pBQk41V25TcnVSVkZNekJpSzdnZFhMZ2hEcUFfaUJRdGllalloX2dRc01BLUbSAYoBQVVfeXFMUFJXc29QVkdGd1R4LTY3NFotOW9FdnJDYmdNRm",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1E2amItQ3FhU2dOQV8zdTZyZTBURDlETkZPWXJzVnpubnJXS2V5ZTBFLUlrTlYxOU1TZGhmemxvN1hsMWNFZkxLaVRQU3phaFFUanpDb3pBQk41V25TcnVSVkZNekJpSzdnZFhMZ2hEcUFfaUJRdGllalloX2dRc01BLUbSAYoBQVVfeXFMUFJXc29QVkdGd1R4LTY3NFotOW9FdnJDYmdNRmg1Z0lUcFVsd212SGVzcDJJRk0wVUQ0YmQxdFFtTWRrRTM0azVQVWlXMzRzQWRvWmxRVlE1LWdlWnZ3Q0xXMm03ZW1UZU93ZzM4M3hCMlNfU3drTjczT3BzY1ZHVWNGT19ZTUpBcnVR?oc=5",
+      "id": "e31ac3e3b34f",
+      "title": "The stock market's best 6 months of the year start Monday: Chart of the Day - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTBUT0VyV2xWU0V2R0Qza0pERDRodHN5bDJ5YzE1UTBneWdBWl95cmN0M2pUV0pQbGlDNWFiOEYxOHFYZTlTaWFZYTg3bWRrQ3NhZHg1RTc5V2dhTDBlT1M5Ml9MaER5cnRlaVNuOWxMOFkyNHVua0JQdHdsQno5eWZGUjJDaFZ2cDUtdmpyWHFBNzFad1lJZE5yUHVqUFdhZ09IVVRKUlZONT",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTBUT0VyV2xWU0V2R0Qza0pERDRodHN5bDJ5YzE1UTBneWdBWl95cmN0M2pUV0pQbGlDNWFiOEYxOHFYZTlTaWFZYTg3bWRrQ3NhZHg1RTc5V2dhTDBlT1M5Ml9MaER5cnRlaVNuOWxMOFkyNHVua0JQdHdsQno5eWZGUjJDaFZ2cDUtdmpyWHFBNzFad1lJZE5yUHVqUFdhZ09IVVRKUlZONTFRa1hiVXczQ041eTlYaTZVV3pyTWRDTHpYVlR1YzF3?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -439,11 +278,111 @@
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 08 Aug 2026 07:00:00 GMT",
-          "source": "CNBC"
+          "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "30bac3d6e54e",
+      "title": "Stock Market Today, Oct. 29: ADT Surges 33% on $10 Per Share All-Cash Acquisition Deal - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0pldTRTM19HYnpPajRzSlRPdXpDWkxaWXBPcEVWa1RLYWl0dXFJM1F1WV80TS1fYlNYdmh1R1ZCWTlsY2UwSVQwVlpWZ2NmZ256VmRBRENLUjVhZ2ZiY19jclM0OF9GRkhqdEtGWk9fVUdjdHpHZkozeWtLVk95b3RWNnJsSE41cF9iY0ZoNTE2eElB?oc=5\" target=\"_blank\">Stock M",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0pldTRTM19HYnpPajRzSlRPdXpDWkxaWXBPcEVWa1RLYWl0dXFJM1F1WV80TS1fYlNYdmh1R1ZCWTlsY2UwSVQwVlpWZ2NmZ256VmRBRENLUjVhZ2ZiY19jclM0OF9GRkhqdEtGWk9fVUdjdHpHZkozeWtLVk95b3RWNnJsSE41cF9iY0ZoNTE2eElB?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-10-31T05:25:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 29 Oct 2026 21:16:12 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "7c711364c119",
+      "title": "If a Bear Market Is Coming, Here's Exactly How I'm Preparing My Investment Portfolio - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQOURwT1lsa3RfRjRkNVV6QkVfbDZJcWNUOUlQaHhadjh3azd0ajc4Yng5bUZlaDRjRmNrdjEyd1k5V1NIdVJuMFk2RzZrZC10MlJSOFg3cjJRY25oemdoSzJ0SzVrYnRjSTRzTHJnQnc3aHV5YmNXeVFTaEFmNnZJeGFKRDNHZGpPZlFvT21USUZlM0d1WjkxUw?oc=5\" target=\"_blank\">I",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOURwT1lsa3RfRjRkNVV6QkVfbDZJcWNUOUlQaHhadjh3azd0ajc4Yng5bUZlaDRjRmNrdjEyd1k5V1NIdVJuMFk2RzZrZC10MlJSOFg3cjJRY25oemdoSzJ0SzVrYnRjSTRzTHJnQnc3aHV5YmNXeVFTaEFmNnZJeGFKRDNHZGpPZlFvT21USUZlM0d1WjkxUw?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-10-31T05:25:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 28 Oct 2026 13:15:00 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "e1a9c105a37b",
+      "title": "Stock Market Today, Oct. 29: Norwegian Cruise Line Holdings Beats Q3 Estimates, Raises Full-Year Guidance - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNElBelZLc05yMmd3SXFDMXE2U2pRUkFFZU1oaWJpbUU5Tm5CcmlDaU1feDU5aTF4SkhkY242OFphNUxFMGNqLW02cHh0NDNFb0cxbmxwU3RsM1o5TnB1YUJfM19LQXRkX3V0bWZSRkVYTTVGRXpvM242eGY0RTlDNTJwbG5VZEJyTUFlUlBiRXZMY25u?oc=5\" target=\"_blank\">Stock M",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNElBelZLc05yMmd3SXFDMXE2U2pRUkFFZU1oaWJpbUU5Tm5CcmlDaU1feDU5aTF4SkhkY242OFphNUxFMGNqLW02cHh0NDNFb0cxbmxwU3RsM1o5TnB1YUJfM19LQXRkX3V0bWZSRkVYTTVGRXpvM242eGY0RTlDNTJwbG5VZEJyTUFlUlBiRXZMY25u?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-10-31T05:25:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 29 Oct 2026 21:08:36 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "a4d78b905093",
+      "title": "Is the stock market open on Columbus Day, Indigenous Peoples Day? - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdUxaQ0dZRTY2Wmo0WElseFdGeC0yOU1GM0NxUEktek8yOVlwalFEeVJiMnB6enBYN3NleVI1LW5FckkyY1FrYzhibTZLTGw2YktDc0FwVTI4THJyVGZwRHQwaTZCOVA1NHJBRU5RalBLaVFZNlN5dEJ6RHBaTXI1TFRWQVNqcXZzMGRidVFueHVoMll6ZUtPWHlxaHk0ZnlhaTRfdU5lQVBnaG",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdUxaQ0dZRTY2Wmo0WElseFdGeC0yOU1GM0NxUEktek8yOVlwalFEeVJiMnB6enBYN3NleVI1LW5FckkyY1FrYzhibTZLTGw2YktDc0FwVTI4THJyVGZwRHQwaTZCOVA1NHJBRU5RalBLaVFZNlN5dEJ6RHBaTXI1TFRWQVNqcXZzMGRidVFueHVoMll6ZUtPWHlxaHk0ZnlhaTRfdU5lQVBnaGJPaGVOMU96UFYwMkpVRG5fMTAySTMwMUljQURFc0hIbmttdWt4ZXRpZ3p3?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-10-31T05:25:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 11 Oct 2026 07:00:00 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "3d4484118963",
+      "title": "Q4 2026 US Stock Market Outlook: Individual Stock Selection Looks Increasingly Important - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEpyZ09qWUw1WUh3QWc0NC03NWdDcEtqOFNuVXVLZVJmWENpSWVPTWV5VG1DUzI0WVRDcXFPOWFMMUl3RVlINjBIZWhWNWY1Ri1YMGRhdWdvQUVlRHVkOVVubWdMSmctbHNtb2F3N2NhNFBXR29EX3gyeGQwYW9HckFGTDgzLWdoR2hBNjVHRjA0cTZHWW1mX2R2N3pySHBiQnZiOFIySng2R0",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEpyZ09qWUw1WUh3QWc0NC03NWdDcEtqOFNuVXVLZVJmWENpSWVPTWV5VG1DUzI0WVRDcXFPOWFMMUl3RVlINjBIZWhWNWY1Ri1YMGRhdWdvQUVlRHVkOVVubWdMSmctbHNtb2F3N2NhNFBXR29EX3gyeGQwYW9HckFGTDgzLWdoR2hBNjVHRjA0cTZHWW1mX2R2N3pySHBiQnZiOFIySng2R0stamsyVEcxNDlhVHU4ZGRheDN3X0lMUzYyRnJZS1M2aTM?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "US",
+      "first_seen": "2026-10-31T05:25:57+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+          "source": "Morningstar"
         }
       ]
     },
@@ -452,77 +391,17 @@
       "title": "Stock Market Today, Oct. 29: Amazon Falls on Q3 Earnings Report and Capex Concerns - The Motley Fool",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFRzM2kyTk8tXzItUGUySmh0TFBvZ0lReDZ0bzdBeUV3WG5HamVVN0ZTZmJJbHRScXFJLVZYT3R1OFV4UVdxdXpEdUJVZThJbUN5a3N5S3BfZ1lzWkJqbHlKZTJXbVlvX2NpSkEzMHoyVE9GMnpId29MTTFOUFBBRDNFRFhLTGpJSDBhdlRMRFJPUGtfZXdqMC1ONmF6djlqd0NHVjBidDEtdX",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFRzM2kyTk8tXzItUGUySmh0TFBvZ0lReDZ0bzdBeUV3WG5HamVVN0ZTZmJJbHRScXFJLVZYT3R1OFV4UVdxdXpEdUJVZThJbUN5a3N5S3BfZ1lzWkJqbHlKZTJXbVlvX2NpSkEzMHoyVE9GMnpId29MTTFOUFBBRDNFRFhLTGpJSDBhdlRMRFJPUGtfZXdqMC1ONmF6djlqd0NHVjBidDEtdXczd21GMXlRVG9kd0NYM0xZRTc4VEdDRjNQUmxuOE5zNjB4ZVY2em1xR2p1Yw?oc=5",
-      "score": 39.6,
+      "score": 21.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
+      "first_seen": "2026-10-31T05:25:57+00:00",
       "raw_samples": [
         {
           "published": "Thu, 29 Oct 2026 21:00:05 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "0ff6031c8b63",
-      "title": "Trump says outside funds 'run my money' after disclosure shows billions in 2025 revenue - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpzcndnVWVNSHFtWmlTUzZYQmhzaHp4bFZ1RjBremVZNHY0T0loVHpRM0Jmc3RXMHFvcG8zeTBLUjNfVDZKZ1NnRmxMdWtCcmJ4bFo4T3Zha0tiUVEtVXVyMDdWMFN0bld1bTVkd0dFbkxKSVZNMkR3UzVUeTZ2N1BzVFZVOEhad3IwbUh30gGTAUFVX3lxTFB5a3c5T1ZSaXFrdWh6bHZNVz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpzcndnVWVNSHFtWmlTUzZYQmhzaHp4bFZ1RjBremVZNHY0T0loVHpRM0Jmc3RXMHFvcG8zeTBLUjNfVDZKZ1NnRmxMdWtCcmJ4bFo4T3Zha0tiUVEtVXVyMDdWMFN0bld1bTVkd0dFbkxKSVZNMkR3UzVUeTZ2N1BzVFZVOEhad3IwbUh30gGTAUFVX3lxTFB5a3c5T1ZSaXFrdWh6bHZNVzNhcnJjY1MzdWZ0UWxldm1iaDE2UW02bFp5UEJ3TzhkVW8wU3hwYVhZOFgyWGNlRFhlNy11QzRDblczWnQyeFZMUGZURl9ybkVhcWwyaU1UcHB6WWV1bHU4alU5ZlA0bEVVVmlwbUp6OERjbzNGdXJlTngxaFplNFBuMA?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "source": "CNBC"
-        }
-      ]
-    },
-    {
-      "id": "781ab895216e",
-      "title": "How Will Mega-IPOs Change the Face of the US Stock Market? - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDVwb1R6M2FTNTR6cEJpc3FIUHB2WktCcXVEY243Sk5rVGI2aUIycTF2NTI2OUpkaGpJMUZRVVlwZEpsWEx4b09TSEtId0JseXdiempSc2JxWmg2eXRzWUF6MlpXMjhfQ3lLQzg5TjFTN2ZULWQ4RGZqLS1kMjNISVp1NEotaXM5X19jMWVmSWN5SVM5?oc=5\" target=\"_blank\">How Wil",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDVwb1R6M2FTNTR6cEJpc3FIUHB2WktCcXVEY243Sk5rVGI2aUIycTF2NTI2OUpkaGpJMUZRVVlwZEpsWEx4b09TSEtId0JseXdiempSc2JxWmg2eXRzWUF6MlpXMjhfQ3lLQzg5TjFTN2ZULWQ4RGZqLS1kMjNISVp1NEotaXM5X19jMWVmSWN5SVM5?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-          "source": "Morningstar"
-        }
-      ]
-    },
-    {
-      "id": "d73e7352755e",
-      "title": "Best Stocks to Buy Now: Our Buy-and-Hold Picks for October 2026 - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9wNkxPeDc4b1BlS0FNQnJ4T2xRMWZlNEZCdFFiNkFCRXVvWjlVRXBMWGFsR1hOVW9KcE93Z0ZHWjRwX2ZuTWVmQ0w1WUd5d2xDZ0tfS2c3bG5PaUdTR05VcHpxNFhTOWZtcmc?oc=5\" target=\"_blank\">Best Stocks to Buy Now: Our Buy-and-Hold Picks for October 2026<",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wNkxPeDc4b1BlS0FNQnJ4T2xRMWZlNEZCdFFiNkFCRXVvWjlVRXBMWGFsR1hOVW9KcE93Z0ZHWjRwX2ZuTWVmQ0w1WUd5d2xDZ0tfS2c3bG5PaUdTR05VcHpxNFhTOWZtcmc?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "US",
-      "first_seen": "2026-10-30T22:13:40+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
           "source": "The Motley Fool"
         }
       ]
