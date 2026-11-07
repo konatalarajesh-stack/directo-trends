@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "CA",
-  "generated_at": "2026-11-07T05:58:57+00:00",
+  "generated_at": "2026-11-07T13:01:37+00:00",
   "cache_ttl_hours": 6,
-  "count": 17,
+  "count": 25,
   "trends": [
     {
       "id": "7aafdbe267d3",
@@ -18,11 +18,31 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 07 Nov 2026 05:03:45 GMT",
+          "published": "Sat, 07 Nov 2026 05:00:13 GMT",
           "source": "Financial Times"
+        }
+      ]
+    },
+    {
+      "id": "41762850f871",
+      "title": "3 big stock market stories you might have missed this week - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWxhYzVNU3htYUZWSVY5emE5ZTZlWTE2dFllWDlZalhMUkRzMk9WQ3ZmVEI0bV9VaHRMZjRTTnJYOEszOUNseGJuelpmNXVXWlRIcUdSVElzYTlrMU4yRDdBTWROeEw2MTJHRXh4ZEtsNjdqQk0xU01YTHE3ek9rdg?oc=5\" target=\"_blank\">3 big stock market stories you mi",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWxhYzVNU3htYUZWSVY5emE5ZTZlWTE2dFllWDlZalhMUkRzMk9WQ3ZmVEI0bV9VaHRMZjRTTnJYOEszOUNseGJuelpmNXVXWlRIcUdSVElzYTlrMU4yRDdBTWROeEw2MTJHRXh4ZEtsNjdqQk0xU01YTHE3ek9rdg?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-07T12:52:30+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 07 Nov 2026 07:56:00 GMT",
+          "source": "Yahoo Finance UK"
         }
       ]
     },
@@ -38,7 +58,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
         {
           "published": "Fri, 06 Nov 2026 20:34:00 GMT",
@@ -58,7 +78,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
         {
           "published": "Thu, 05 Nov 2026 20:00:00 GMT",
@@ -78,7 +98,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
         {
           "published": "Wed, 04 Nov 2026 17:09:59 GMT",
@@ -98,7 +118,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
         {
           "published": "Fri, 06 Nov 2026 16:16:00 GMT",
@@ -107,86 +127,84 @@
       ]
     },
     {
-      "id": "9c2eae70f785",
-      "title": "Nasdaq Adds 264 Points as Tech Stocks Rebound, But Ends the Week Lower: Stock Market Today - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGFQSVNMYVVmWVlOWno0RGJGYXZBdWVvVmFrUlRoZl9QQTlnbTllSWtMUnlNRlFURkdnZ1l5alotdFo2emUwNVdVYktRTjdfQUFzWDNFQ2U4XzY3Q0JNOGFJVGdyaVYxdFhXNkE0T09oaVVlbFVHczlpSzVtd0lLYVpiTkUzdUgyNVd6SnJyd3hESlYwaVFZYl9pS0ZtZ1BzdDZqclFsQ25FQk",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGFQSVNMYVVmWVlOWno0RGJGYXZBdWVvVmFrUlRoZl9QQTlnbTllSWtMUnlNRlFURkdnZ1l5alotdFo2emUwNVdVYktRTjdfQUFzWDNFQ2U4XzY3Q0JNOGFJVGdyaVYxdFhXNkE0T09oaVVlbFVHczlpSzVtd0lLYVpiTkUzdUgyNVd6SnJyd3hESlYwaVFZYl9pS0ZtZ1BzdDZqclFsQ25FQkt0a29vdWk0UnhQb3BZUVNxN0xFdzA0QQ?oc=5",
-      "score": 68.4,
+      "id": "48fbdcc785e9",
+      "title": "Billionaire Investor Bill Ackman Just Issued a Blunt Warning to Wall Street - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3pvbTRHdkktc3V4ZW4zUWVqWmRYazdLbFVNX1ROOEN4U2VUQmE1VDZ2X2x0WmNrVjA2RUlqUkFlT0xFQzFrdUlpRmY1aGtGdV9PQURZQ0w1dUcyZENYbEhKVGRPOHFQeXh3RThBOVB0bGxHdmlxUzNVUHFlUmN5Z29jamRONWhhSHNTdWZyUUd2M1Iz?oc=5\" target=\"_blank\">Billion",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3pvbTRHdkktc3V4ZW4zUWVqWmRYazdLbFVNX1ROOEN4U2VUQmE1VDZ2X2x0WmNrVjA2RUlqUkFlT0xFQzFrdUlpRmY1aGtGdV9PQURZQ0w1dUcyZENYbEhKVGRPOHFQeXh3RThBOVB0bGxHdmlxUzNVUHFlUmN5Z29jamRONWhhSHNTdWZyUUd2M1Iz?oc=5",
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 06 Nov 2026 21:09:39 GMT",
-          "source": "Kiplinger"
-        }
-      ]
-    },
-    {
-      "id": "4b8c4ec45238",
-      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOS09mUGRzT2FGdy1xdnpFMEREemFaNE5mZk9RRVZXQlZyVEQtYkJHN18wQUU3QkppYUp2cTBnYndyd3BFamxQQ3RERVU4cHdwQjlqX3l3R2R0SkwyT3A3QWhORld3c28zNXgtNWxVT1VhdENmWmwzLTMxdy1yTU9OS0E0eHVjNXpNdUJ6dkp5ZDloZThOM19sRU9tYWg0Zw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS09mUGRzT2FGdy1xdnpFMEREemFaNE5mZk9RRVZXQlZyVEQtYkJHN18wQUU3QkppYUp2cTBnYndyd3BFamxQQ3RERVU4cHdwQjlqX3l3R2R0SkwyT3A3QWhORld3c28zNXgtNWxVT1VhdENmWmwzLTMxdy1yTU9OS0E0eHVjNXpNdUJ6dkp5ZDloZThOM19sRU9tYWg0Zw?oc=5",
-      "score": 63.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 06 Nov 2026 15:50:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "published": "Fri, 06 Nov 2026 15:30:00 GMT",
+          "published": "Sat, 07 Nov 2026 10:15:00 GMT",
           "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "89e7c141e33a",
-      "title": "Be ready for a stock market crash - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5fbXVYOXdQM01GUkx1eFhYR1p0dXhIS3ZwUW03TVV2emdaaVZFS2dLMi1rMFFBMy1sRWhQaExIZU5nWnk4bWpubi1yV3FnV09IdVhJcUVkWC1fR3JCLXRFUkVaRTYwQ3BNZmUxRzA1OFNna3drTDhWZ1Vhd0JBZw?oc=5\" target=\"_blank\">Be ready for a stock market crash</a>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fbXVYOXdQM01GUkx1eFhYR1p0dXhIS3ZwUW03TVV2emdaaVZFS2dLMi1rMFFBMy1sRWhQaExIZU5nWnk4bWpubi1yV3FnV09IdVhJcUVkWC1fR3JCLXRFUkVaRTYwQ3BNZmUxRzA1OFNna3drTDhWZ1Vhd0JBZw?oc=5",
-      "score": 59.4,
+      "id": "2e9cd11bce9e",
+      "title": "I Shouldn’t Have Paid my Internet Bill…",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/M7YeGnFscz4",
+      "score": 61.599999999999994,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "region": "global",
+      "first_seen": "2026-11-07T12:54:47+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 06 Nov 2026 13:21:00 GMT",
-          "source": "Yahoo Finance UK"
-        },
-        {
-          "published": "Fri, 06 Nov 2026 08:28:51 GMT",
-          "source": "Yahoo Finance UK"
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "M7YeGnFscz4",
+          "published": "2026-11-04T21:00:18+00:00"
         }
-      ]
+      ],
+      "is_global": true
+    },
+    {
+      "id": "5ac17b264d95",
+      "title": "The Numbers Behind Anthropic",
+      "summary": "Link to prospectus: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\n\n00:00 - Introduction\n02:06 - Founder Letter\n03:16 - Capital Structure\n05:58 - Operations\n07:47 - The Finances\n12:57 - Off-Balance Sheet Commitments\n13:56 - The Risks\n\nAnth",
+      "url": "https://www.youtube.com/watch?v=6ZrgRjdJs3o",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-07T12:54:48+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+          "channel_title": "The Plain Bagel",
+          "video_id": "6ZrgRjdJs3o",
+          "published": "2026-10-28T15:00:08+00:00"
+        }
+      ],
+      "is_global": true
     },
     {
       "id": "431f084bdd18",
       "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks - WSJ",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjhNSkxWaHNDNkkxUE51NVdvLXhyVzJ5ZGRmUHNrSUlNcG05TXRBZ2JVV3RPWk45RUxySTlZME9BRklSTFBTTzJUX294eHF5MXRkeGRMejl4SmY2MFJCckxRcmZnWXVoYnV5ang4VDZmenBqbU1Ld0NKSWIyMGdDOUxZaVhUWFVfRzg1eHlwbnk3OENMVFVybkVxc3k0b1ExMlY0WVdoSGFSdG",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjhNSkxWaHNDNkkxUE51NVdvLXhyVzJ5ZGRmUHNrSUlNcG05TXRBZ2JVV3RPWk45RUxySTlZME9BRklSTFBTTzJUX294eHF5MXRkeGRMejl4SmY2MFJCckxRcmZnWXVoYnV5ang4VDZmenBqbU1Ld0NKSWIyMGdDOUxZaVhUWFVfRzg1eHlwbnk3OENMVFVybkVxc3k0b1ExMlY0WVdoSGFSdGFPclpsdWFTUHdfaVN6cnJaRUo4WFVEUQ?oc=5",
-      "score": 57.6,
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
         {
           "published": "Thu, 05 Nov 2026 21:41:00 GMT",
@@ -195,10 +213,99 @@
       ]
     },
     {
-      "id": "e268db66b31c",
-      "title": "Stock Market Today: Election Results Continue to Ease Market Fears - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXpFLURUZjdQRjVwS25ZN01ZWk91Qkc1Zk9EVkNGYzM5aUVXYmNLRGdhSm44OTBJSDRCNTdvWC03VXA1dHc3QnlwYVBuREJ1eDlndmV6SzNXUWZ6QlN0NEhxYWRRUGFvLUh4YU16cW1YYWNEcUZadUhpNThWYkE2NGhoQ0Vlc0YxRlMtWGg0QlZyN0pJd3VjbTZJa25KRy0xb0E?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXpFLURUZjdQRjVwS25ZN01ZWk91Qkc1Zk9EVkNGYzM5aUVXYmNLRGdhSm44OTBJSDRCNTdvWC03VXA1dHc3QnlwYVBuREJ1eDlndmV6SzNXUWZ6QlN0NEhxYWRRUGFvLUh4YU16cW1YYWNEcUZadUhpNThWYkE2NGhoQ0Vlc0YxRlMtWGg0QlZyN0pJd3VjbTZJa25KRy0xb0E?oc=5",
+      "id": "2565df00284a",
+      "title": "Do \"Entrepreneurs\" Know Basic Finance? 😭",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/TZB5XqLgyFk",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-07T12:54:47+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "TZB5XqLgyFk",
+          "published": "2026-11-03T23:00:23+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "efa24f6ece6c",
+      "title": "November US Stock Market Outlook: How to Position Your Portfolio for the Remainder of 2026 - Morningstar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORkZRRXhtM2xiS3czaEZoRzVoWFFfbzczY2ZrRnhXWGN6ZUR2Wng2Z01yejNUUE9SaE9NdjNMM1FFQk41ZEJaenZtV1BtRzNPV1MzZHRaaEc0VkVZb2VUNmVpUlU0dWtMaHhpSVhsTkszNmxzbmprS0NKb2xrYUpMQ0pDQjl1dWRHdFJWNllwN3RlNThkUzJUMkVhX3JhZHA5eVhHWXUyN0RJaG",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkZRRXhtM2xiS3czaEZoRzVoWFFfbzczY2ZrRnhXWGN6ZUR2Wng2Z01yejNUUE9SaE9NdjNMM1FFQk41ZEJaenZtV1BtRzNPV1MzZHRaaEc0VkVZb2VUNmVpUlU0dWtMaHhpSVhsTkszNmxzbmprS0NKb2xrYUpMQ0pDQjl1dWRHdFJWNllwN3RlNThkUzJUMkVhX3JhZHA5eVhHWXUyN0RJaGpYaEFtQ0Vrbmt0WFV4andxaQ?oc=5",
+      "score": 57.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-07T12:52:30+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 06 Nov 2026 07:30:18 GMT",
+          "source": "Morningstar"
+        }
+      ]
+    },
+    {
+      "id": "b5d2eb2ebf69",
+      "title": "It Started: Homebuyer Demand Just Collapsed - Buyers Getting 20-40% Discounts!",
+      "summary": "Download the FREE Upside App here https://yt.link/rxTTB4m and use code Graham25 to get an extra 25 cents back per gallon on your first tank of gas! Thank you Upside for sponsoring this video! | Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblosso",
+      "url": "https://www.youtube.com/watch?v=Iam0GgMsAi4",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-07T12:54:47+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "Iam0GgMsAi4",
+          "published": "2026-11-02T21:02:06+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "50fda6281087",
+      "title": "Everyone Claims To Be An \"Entrepreneur\"🤦‍♂️",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/EU1IY-LKEyw",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-07T12:54:47+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "EU1IY-LKEyw",
+          "published": "2026-11-02T16:00:01+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "af9de3c0a214",
+      "title": "Stock Market Faces a Worst-Case Scenario After Midterm Elections. History Says This Will Happen Next. - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWdzUldWVXhHaTZSTmw1dnBJT3lpazFuYV9veURKQnpCTGJqQVRxQXNNbXp4b1Z0MmxCQVFYYWpDNl9ZTW9aTjlYNnRtbEdWaWNBYWNpTGxFdzBrVjVmRVdvSDhMZUZaNTJRRk1XdkdpSzFkSlpYQ0NSSnR5ZXJndmpNN2xZaEZCOVc3bEIta1V5UHJKNTFnVmhR?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWdzUldWVXhHaTZSTmw1dnBJT3lpazFuYV9veURKQnpCTGJqQVRxQXNNbXp4b1Z0MmxCQVFYYWpDNl9ZTW9aTjlYNnRtbEdWaWNBYWNpTGxFdzBrVjVmRVdvSDhMZUZaNTJRRk1XdkdpSzFkSlpYQ0NSSnR5ZXJndmpNN2xZaEZCOVc3bEIta1V5UHJKNTFnVmhR?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -206,7 +313,183 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 07 Nov 2026 10:32:02 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "published": "Sat, 07 Nov 2026 10:12:00 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "a52445301704",
+      "title": "Warren Buffett's Top Advice for Investors Bracing for a Market Crash - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNrbUw1WGhFYUhTa2l4XzF2eDhvT1JGX1FMM1pMRDFteDVhY3A4WDdWQlZxZk1wT0NvVmk5SzlnaEV5bUtIZlRlUlp0amhOck5jZGpXc0V0cWlzSTZENHlyd205ZU82eENPRDRFYTJPV0s2aU5ycjZMMkphRFZERW8tc0UzUmlZVFF3?oc=5\" target=\"_blank\">Warren Buffett's To",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNrbUw1WGhFYUhTa2l4XzF2eDhvT1JGX1FMM1pMRDFteDVhY3A4WDdWQlZxZk1wT0NvVmk5SzlnaEV5bUtIZlRlUlp0amhOck5jZGpXc0V0cWlzSTZENHlyd205ZU82eENPRDRFYTJPV0s2aU5ycjZMMkphRFZERW8tc0UzUmlZVFF3?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-07T12:52:30+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 07 Nov 2026 12:30:00 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "b1f5a65c26ea",
+      "title": "Ranking WORST Ways To Lose Money 💰...",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/MyGkRmeUYDo",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-07T12:54:47+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "MyGkRmeUYDo",
+          "published": "2026-10-31T19:30:12+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "89e7c141e33a",
+      "title": "Be ready for a stock market crash - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5fbXVYOXdQM01GUkx1eFhYR1p0dXhIS3ZwUW03TVV2emdaaVZFS2dLMi1rMFFBMy1sRWhQaExIZU5nWnk4bWpubi1yV3FnV09IdVhJcUVkWC1fR3JCLXRFUkVaRTYwQ3BNZmUxRzA1OFNna3drTDhWZ1Vhd0JBZw?oc=5\" target=\"_blank\">Be ready for a stock market crash</a>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fbXVYOXdQM01GUkx1eFhYR1p0dXhIS3ZwUW03TVV2emdaaVZFS2dLMi1rMFFBMy1sRWhQaExIZU5nWnk4bWpubi1yV3FnV09IdVhJcUVkWC1fR3JCLXRFUkVaRTYwQ3BNZmUxRzA1OFNna3drTDhWZ1Vhd0JBZw?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-07T12:52:30+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 06 Nov 2026 13:21:00 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "a75bff9e8e26",
+      "title": "Crazy Tenant Destroyed This Guy's Property...",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/ZARs2LQTCeI",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-07T12:54:47+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "ZARs2LQTCeI",
+          "published": "2026-10-30T17:00:24+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "867bfa11d8e4",
+      "title": "NBA Player On Using Facebook MarketPlace...",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/YHRmA8vTDPY",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-07T12:54:47+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "YHRmA8vTDPY",
+          "published": "2026-10-29T16:00:08+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "cdacce7c2918",
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZHVFTXVUM2pMMmxKRHZfbUNhM2RaNjRmbGJDQ0xLT1hKSzJZR2NLVUI2Y0ZRdFdKNzUtZlJjZVJ1dV9UWWFWR3ppcVVSUzE3Tk9FU1gtTW9Dd3dQTmFoR3NqVjBqWndpZkFKMzdCQkJObjdhVk9aOGxudS1oWW1fOENoMTNwYjBCcWQ2czFjVUJWRU9YalE?oc=5\" target=\"_blank\">If a",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZHVFTXVUM2pMMmxKRHZfbUNhM2RaNjRmbGJDQ0xLT1hKSzJZR2NLVUI2Y0ZRdFdKNzUtZlJjZVJ1dV9UWWFWR3ppcVVSUzE3Tk9FU1gtTW9Dd3dQTmFoR3NqVjBqWndpZkFKMzdCQkJObjdhVk9aOGxudS1oWW1fOENoMTNwYjBCcWQ2czFjVUJWRU9YalE?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-07T12:52:30+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 06 Nov 2026 15:30:00 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "1b07bfa768c3",
+      "title": "BREAKING: The Fed Just Froze Rates — Here’s What Happens After EVERY Midterm Since 1950!",
+      "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: https://sofi.com/graham | Let's talk about the Federal Reserve Rate Pause and what this means for the stock market / economy going forward - Enjoy! Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENT",
+      "url": "https://www.youtube.com/watch?v=MN82nDZ8eXo",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-07T12:54:47+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "MN82nDZ8eXo",
+          "published": "2026-10-28T20:00:23+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "e268db66b31c",
+      "title": "Stock Market Today: Election Results Continue to Ease Market Fears - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXpFLURUZjdQRjVwS25ZN01ZWk91Qkc1Zk9EVkNGYzM5aUVXYmNLRGdhSm44OTBJSDRCNTdvWC03VXA1dHc3QnlwYVBuREJ1eDlndmV6SzNXUWZ6QlN0NEhxYWRRUGFvLUh4YU16cW1YYWNEcUZadUhpNThWYkE2NGhoQ0Vlc0YxRlMtWGg0QlZyN0pJd3VjbTZJa25KRy0xb0E?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXpFLURUZjdQRjVwS25ZN01ZWk91Qkc1Zk9EVkNGYzM5aUVXYmNLRGdhSm44OTBJSDRCNTdvWC03VXA1dHc3QnlwYVBuREJ1eDlndmV6SzNXUWZ6QlN0NEhxYWRRUGFvLUh4YU16cW1YYWNEcUZadUhpNThWYkE2NGhoQ0Vlc0YxRlMtWGg0QlZyN0pJd3VjbTZJa25KRy0xb0E?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
         {
           "published": "Fri, 06 Nov 2026 14:28:16 GMT",
@@ -215,85 +498,25 @@
       ]
     },
     {
-      "id": "770c306a85df",
-      "title": "5 Companies Buying Back Their Own Stock Hand Over Fist As the Stock Market Sells Off - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQRW5uMjdOLTRhN0tVc3JXUnpiWlA2b0lKYlpPS19RM1lQREFIV2d1cWQ5V0J2NlNNSDM1bWkzeFdVT1ZQbjlnTlZnX0xkSndvUTk3UG5pUHJwcTY4NHpjUU1MV3ppRjRIZEljd0xjWDVRSHhSOEFRVzZjSFR0Vno4ODhMVTYwaDcyXzN6WlhjZVVTdG1ZNHZrV1JPT1hyZmhXczhFbWRZaTVoOF",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRW5uMjdOLTRhN0tVc3JXUnpiWlA2b0lKYlpPS19RM1lQREFIV2d1cWQ5V0J2NlNNSDM1bWkzeFdVT1ZQbjlnTlZnX0xkSndvUTk3UG5pUHJwcTY4NHpjUU1MV3ppRjRIZEljd0xjWDVRSHhSOEFRVzZjSFR0Vno4ODhMVTYwaDcyXzN6WlhjZVVTdG1ZNHZrV1JPT1hyZmhXczhFbWRZaTVoOF9OMnREcnFYZjBIYml4TWZJVmNuY3BXNUtKNnc?oc=5",
-      "score": 50.4,
+      "id": "4140bcab9859",
+      "title": "Nasdaq Stock Market Correction: 3 Words From Warren Buffett To Remember RIght Now - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZDNZX3M5QzdfMjFlUjRrcUFsTUcyRXVkbC1fUFRrWVNrMElyZ2Z1RzFvNXN4TGdTYjVQYmhnSG10eEVOakVicXJEcGpxR28yd011Mi1TWDQ1cmQxa3JmV3I2MEx0TU5ZYVdmV29XNmZpRFNLRUMzT2ZkSk9fR21PV3k5NGZPSGFCT0Nzck5YU0kzRFJ1MFBWVWQzS1dtQQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDNZX3M5QzdfMjFlUjRrcUFsTUcyRXVkbC1fUFRrWVNrMElyZ2Z1RzFvNXN4TGdTYjVQYmhnSG10eEVOakVicXJEcGpxR28yd011Mi1TWDQ1cmQxa3JmV3I2MEx0TU5ZYVdmV29XNmZpRFNLRUMzT2ZkSk9fR21PV3k5NGZPSGFCT0Nzck5YU0kzRFJ1MFBWVWQzS1dtQQ?oc=5",
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
-        {
-          "published": "Fri, 06 Nov 2026 19:47:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "60de468b002c",
-      "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjBKVy1TeU1tU1RNWEQ3YXZGRmxEaVJMSWFjVEtOX0hNYkpVbkxwcXJkWGNDeFFzNENKdWJFWXVfdVBaVUpVU3pLaERCTVBVS015S3dsRUhTczBRYjdtWWMtbl90a3lYaV9TcjIzRFozVXd3eHE0cHdnUWpFY2tZbUhhZzBnZEszU2loeXJiby14M1E?oc=5\" target=\"_blank\">Stock Ma",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjBKVy1TeU1tU1RNWEQ3YXZGRmxEaVJMSWFjVEtOX0hNYkpVbkxwcXJkWGNDeFFzNENKdWJFWXVfdVBaVUpVU3pLaERCTVBVS015S3dsRUhTczBRYjdtWWMtbl90a3lYaV9TcjIzRFozVXd3eHE0cHdnUWpFY2tZbUhhZzBnZEszU2loeXJiby14M1E?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 06 Nov 2026 22:25:02 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "ef501e08c6d3",
-      "title": "Nasdaq Stock Market Correction: 3 Words From Warren Buffett To Remember Right Now - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2s5ZTNSZ21PYlVINzJOeXZDeUwxRGNhbnNDYkN0VzB6dF8tRGtaMXJxQkc1RlBULWJmUjBSTnR1MGIyV3NZNzB6c2RBYVBIZWRjNmR4Qm42TnBMdkdROFJhWklGbzNRNzlSOHdTUmI5dEVaVzBfTlNFX2s2a0V0dGcwNU5Vcm81cUdPZ1Z5SER0THR5VklsZlNrb0ctVmFzZXN6bjFaRUthUj",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2s5ZTNSZ21PYlVINzJOeXZDeUwxRGNhbnNDYkN0VzB6dF8tRGtaMXJxQkc1RlBULWJmUjBSTnR1MGIyV3NZNzB6c2RBYVBIZWRjNmR4Qm42TnBMdkdROFJhWklGbzNRNzlSOHdTUmI5dEVaVzBfTlNFX2s2a0V0dGcwNU5Vcm81cUdPZ1Z5SER0THR5VklsZlNrb0ctVmFzZXN6bjFaRUthUjdvbkVWbTQwUXk4eC03d1c4TUFn?oc=5",
-      "score": 41.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 06 Nov 2026 06:07:00 GMT",
-          "source": "The Motley Fool"
-        },
         {
           "published": "Fri, 06 Nov 2026 06:27:00 GMT",
           "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "84fbe820da0c",
-      "title": "Yikes! The Stock Market Just Did Something It Has Never Done Before. History Is Clear About What Comes Next. - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXZ6aTcwUDlZYkQwWXJjQkhfUFhOUzVuT0hLTXZGel80cFV4ME4wakZpaVFTMGVwdVZvUlBvMy1xdDFCZVM2VnctbG9Ebk1qd0h3YkJnRUE2WEtVMGU3dUJCc3g0SzlqdDZxTzhmRXhLbW5LWlBVaWtzdUs5V0dBeUJ6b2dXdDJSdFk1cnlRUGE4YWs?oc=5\" target=\"_blank\">Yikes! T",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXZ6aTcwUDlZYkQwWXJjQkhfUFhOUzVuT0hLTXZGel80cFV4ME4wakZpaVFTMGVwdVZvUlBvMy1xdDFCZVM2VnctbG9Ebk1qd0h3YkJnRUE2WEtVMGU3dUJCc3g0SzlqdDZxTzhmRXhLbW5LWlBVaWtzdUs5V0dBeUJ6b2dXdDJSdFk1cnlRUGE4YWs?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
-      "raw_samples": [
+        },
         {
-          "published": "Fri, 06 Nov 2026 09:12:00 GMT",
+          "published": "Fri, 06 Nov 2026 06:07:00 GMT",
           "source": "The Motley Fool"
         }
       ]
@@ -303,58 +526,18 @@
       "title": "Stock Market Today, Nov. 5: Amazon Shares Slide as Technology Selloff Erases Early Gains - Yahoo Finance",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPT1hBWi11VWIxcnd2cDlwR1RaSVhUYnZNLUxnc3hIS0w1cDRPYXJ2R0ItLW9XblVMOHh5cllxeGlBQzlHd3dvelZ5TmJNSmZacDdwTzU4RHpvamJPTkJ2blJaUnlMN0VKVW9uZUlSN01JVnZMVnNlTF9RLTlkbElYUE9aZFp5TlZLNGxDeU1NS3F3M28?oc=5\" target=\"_blank\">Stock Ma",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT1hBWi11VWIxcnd2cDlwR1RaSVhUYnZNLUxnc3hIS0w1cDRPYXJ2R0ItLW9XblVMOHh5cllxeGlBQzlHd3dvelZ5TmJNSmZacDdwTzU4RHpvamJPTkJ2blJaUnlMN0VKVW9uZUlSN01JVnZMVnNlTF9RLTlkbElYUE9aZFp5TlZLNGxDeU1NS3F3M28?oc=5",
-      "score": 28.8,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
+      "first_seen": "2026-11-07T12:52:30+00:00",
       "raw_samples": [
         {
           "published": "Thu, 05 Nov 2026 22:59:37 GMT",
           "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "78eccefe9f47",
-      "title": "Stock Market Today, Nov. 5: Nasdaq Suffers Worst Day in 18 Months as AI Trade Comes Under Fire - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYTJTRVhydmRiVkhUVkw0N3BJM1ZzVFFmbW9CUXJVYjZMWmN3bkphMG10Tmk5eFo2NWpzSVhpQXBNXzdTZ0QyRmNDMENQdU9EUDhza2VDSlREaGRwNjZxWllpbzJiTElzX2ZuLUtzNk9la2lBX3FTNE9WWEZpUDlBcTlKNWVTMEh2R2NQQ0lteE9EelE?oc=5\" target=\"_blank\">Stock Ma",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYTJTRVhydmRiVkhUVkw0N3BJM1ZzVFFmbW9CUXJVYjZMWmN3bkphMG10Tmk5eFo2NWpzSVhpQXBNXzdTZ0QyRmNDMENQdU9EUDhza2VDSlREaGRwNjZxWllpbzJiTElzX2ZuLUtzNk9la2lBX3FTNE9WWEZpUDlBcTlKNWVTMEh2R2NQQ0lteE9EelE?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 05 Nov 2026 22:15:02 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "8292a1b53bac",
-      "title": "Nasdaq Stock Market Correction: Here's the Most Attractive Bargain in the \"Magnificent Seven\" - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOYl9Rb1JBcEJ6RUVub2FGakZxRi1pdm9uYy1NLXVIN0g1TTZScmRBZ0ZoZlVvR2VLaHc2Tk8tWnVrN2NpbmVaWlJMYUtiaHdkOUR0NUhGZDQwTzVVbkx6WUdDQjRuUnlHbDJ2WlFROXp0MDl1ZGFrRmMwWE9kWE1zYTBKdGJsRW9jN3JGTnk4Yzk5Mm9NTUJQSmFZdVpfaVlNaGpYajlGUWlvQ3",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYl9Rb1JBcEJ6RUVub2FGakZxRi1pdm9uYy1NLXVIN0g1TTZScmRBZ0ZoZlVvR2VLaHc2Tk8tWnVrN2NpbmVaWlJMYUtiaHdkOUR0NUhGZDQwTzVVbkx6WUdDQjRuUnlHbDJ2WlFROXp0MDl1ZGFrRmMwWE9kWE1zYTBKdGJsRW9jN3JGTnk4Yzk5Mm9NTUJQSmFZdVpfaVlNaGpYajlGUWlvQ3VJM1NtcDdBNVFQdHc0MHFkWHpVMU5JYkh2OEptRUZqSGRMQQ?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-07T05:49:56+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 06 Nov 2026 15:21:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     }
