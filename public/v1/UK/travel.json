@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "UK",
-  "generated_at": "2026-11-10T19:48:07+00:00",
+  "generated_at": "2026-11-11T06:08:15+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "059a361e24ec",
-      "title": "UK weather: Dense fog threatens travel disruption on Tuesday - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMd2t6d21kRHNQd2lneFcySkJ0ZmN1Z25yeUJGcGZfT0M2NUxJVjVYNlB4Y3gxQzlxN2ViRnppdUFacF8wYklNU2c4V1FNTEQ1V0tCS2dzRkoyaWdTWHpZ?oc=5\" target=\"_blank\">UK weather: Dense fog threatens travel disruption on Tuesday</a>&nbsp;&nbsp;<fo",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMd2t6d21kRHNQd2lneFcySkJ0ZmN1Z25yeUJGcGZfT0M2NUxJVjVYNlB4Y3gxQzlxN2ViRnppdUFacF8wYklNU2c4V1FNTEQ1V0tCS2dzRkoyaWdTWHpZ?oc=5",
+      "id": "1e80a54b70bf",
+      "title": "News briefs: Virgin/Delta, Globalstar, Bolt, beam, BT4Europe - The Business Travel Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXkxSnZYbWVwSUg1QXA4al9OZG9RV1lVYVNHbUJhZ1lEYURXTTJTcE5qTHduVG0wcFdSX2NjSVE4TW5pVmJmdmhrd0NaSzZzS1VsRnNHZ0E0ZlVQcUl3S1hvUGg2ZnExV2hxbzgwXy11eVB1UzcxTkxpV1RTNHk0NzM3cDh1QW5HeFNUbXNxdWc0Z1E?oc=5\" target=\"_blank\">News bri",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXkxSnZYbWVwSUg1QXA4al9OZG9RV1lVYVNHbUJhZ1lEYURXTTJTcE5qTHduVG0wcFdSX2NjSVE4TW5pVmJmdmhrd0NaSzZzS1VsRnNHZ0E0ZlVQcUl3S1hvUGg2ZnExV2hxbzgwXy11eVB1UzcxTkxpV1RTNHk0NzM3cDh1QW5HeFNUbXNxdWc0Z1E?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 11 Nov 2026 01:21:10 GMT",
+          "source": "The Business Travel Magazine"
+        }
+      ]
+    },
+    {
+      "id": "059a361e24ec",
+      "title": "UK weather: Dense fog threatens travel disruption on Tuesday - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMd2t6d21kRHNQd2lneFcySkJ0ZmN1Z25yeUJGcGZfT0M2NUxJVjVYNlB4Y3gxQzlxN2ViRnppdUFacF8wYklNU2c4V1FNTEQ1V0tCS2dzRkoyaWdTWHpZ?oc=5\" target=\"_blank\">UK weather: Dense fog threatens travel disruption on Tuesday</a>&nbsp;&nbsp;<fo",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMd2t6d21kRHNQd2lneFcySkJ0ZmN1Z25yeUJGcGZfT0M2NUxJVjVYNlB4Y3gxQzlxN2ViRnppdUFacF8wYklNU2c4V1FNTEQ1V0tCS2dzRkoyaWdTWHpZ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
       "raw_samples": [
         {
           "published": "Tue, 10 Nov 2026 07:12:46 GMT",
@@ -31,14 +51,14 @@
       "title": "Riviera Travel showcases ‘Cinderella’ destinations ‘just outside wish lists’ - Travel Weekly - Home",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkFZYzIwVUlVU0pYRzNZNE5meWNkSm5YekpPcm9ENUdBaHZ1dDUwejNHUm5ILWp5eENna0I1T1Ryc2t5cW56X01yT3YtTzVnSjZjU3ZvZU1UdEVGRXY0azFHVjJ4cUlLaXNQMzZWOTZ6eWIydHlxbTJiV185MWhER0pwS1ljdHdiMHFKQlhNRnNjalotS1JPTkZNdmttdVBNbDJRc2Z6UQ?oc=",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkFZYzIwVUlVU0pYRzNZNE5meWNkSm5YekpPcm9ENUdBaHZ1dDUwejNHUm5ILWp5eENna0I1T1Ryc2t5cW56X01yT3YtTzVnSjZjU3ZvZU1UdEVGRXY0azFHVjJ4cUlLaXNQMzZWOTZ6eWIydHlxbTJiV185MWhER0pwS1ljdHdiMHFKQlhNRnNjalotS1JPTkZNdmttdVBNbDJRc2Z6UQ?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
+      "first_seen": "2026-11-11T05:59:19+00:00",
       "raw_samples": [
         {
           "published": "Tue, 10 Nov 2026 15:18:00 GMT",
@@ -47,18 +67,118 @@
       ]
     },
     {
-      "id": "fa4d1a49a78a",
-      "title": "Editor's Letter: Introducing Our Winter Travel Issue - Condé Nast Traveler",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSkg4T29HdHRhTXljcmY2eGN4T21pdVRodjFqcWpxZ3UxNDBMaVVxdWtZVlNUcVRuZXlIb0laLVlBS3BtT2JNVDVhY282d3E3UGZmcjZValVuanVjZ3I2c2RMQ3RvSmMyMXdiRjF3?oc=5\" target=\"_blank\">Editor's Letter: Introducing Our Winter Travel Issue</a>&nb",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSkg4T29HdHRhTXljcmY2eGN4T21pdVRodjFqcWpxZ3UxNDBMaVVxdWtZVlNUcVRuZXlIb0laLVlBS3BtT2JNVDVhY282d3E3UGZmcjZValVuanVjZ3I2c2RMQ3RvSmMyMXdiRjF3?oc=5",
-      "score": 82.8,
+      "id": "a7703e77a389",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder - TechCrunch",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnlSclk3NV81R05vWFNYbUZUTWh1Y3Voc3lqQ1k4aVhldHBXWVdFUVpTMTZJVS16WUw3Sllwd1dsWnJQclExMG5uU29mX2lpNlotQ1lTdXJkNUMtbDZYcnVWQVJ3aDRJRE9EVElkVENSMHlEN29rc1FwMDN3X1d3RVV6TG1XRmJoRkE5aU9KQm12R0dLQmsxUVpVbUZlTENq?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnlSclk3NV81R05vWFNYbUZUTWh1Y3Voc3lqQ1k4aVhldHBXWVdFUVpTMTZJVS16WUw3Sllwd1dsWnJQclExMG5uU29mX2lpNlotQ1lTdXJkNUMtbDZYcnVWQVJ3aDRJRE9EVElkVENSMHlEN29rc1FwMDN3X1d3RVV6TG1XRmJoRkE5aU9KQm12R0dLQmsxUVpVbUZlTENq?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 10 Nov 2026 21:08:52 GMT",
+          "source": "TechCrunch"
+        }
+      ]
+    },
+    {
+      "id": "04c1352d0610",
+      "title": "10 Best Cultural Breaks For 2027, According To European Best Destinations - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFpwM0MzOE02eUlQa2ZFTmEtQUZBWG4wa1FDRWw3RjlEUzhUMTlkT2FJZjlwT0sxMUhGYVFleU1vMVVZTldHS19HZ2JRQ1dZSGJWWkNFRWNxWnZrQkMtOVJObnpPTjlCOWV4WDFtbk1YZWtISlp2cGNJUjJyT3QxaWJBUFIzdEgtTEhPWWJ1N243dkh5ZlVzTkRLaUVIdVNlQzhNUHl3NF9qNU",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFpwM0MzOE02eUlQa2ZFTmEtQUZBWG4wa1FDRWw3RjlEUzhUMTlkT2FJZjlwT0sxMUhGYVFleU1vMVVZTldHS19HZ2JRQ1dZSGJWWkNFRWNxWnZrQkMtOVJObnpPTjlCOWV4WDFtbk1YZWtISlp2cGNJUjJyT3QxaWJBUFIzdEgtTEhPWWJ1N243dkh5ZlVzTkRLaUVIdVNlQzhNUHl3NF9qNUlLNDhxWVk3b2xGaDVQeF9HSkZkcnU5T1NRdjJZ?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 10 Nov 2026 22:58:22 GMT",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "id": "41478f0d8409",
+      "title": "EU Boss Regrets Border Queues, Rules Out Further Entry-Exit System Suspensions - Business Travel News Europe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1V1Ym01eWxObXB3R3RPMnkwX2V3M2JRVDd0MW44b2pRZE4tbHBQdmNmYmJGRExmUEdjT2VaNUJuR001ZmoxeUxvVmI1RmNsUGQ2WHJUUnRPY3B0RmV2ZVQwZkFWVGRYNXAwa2tKaGZfVUJMZ3hvNUNhaEdMZ1F0LVRzZGx5bmZxSTczTEd1SERYcGdjRVo0LVhCX0t0NUtZNFcybWl2XzRBT1",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1V1Ym01eWxObXB3R3RPMnkwX2V3M2JRVDd0MW44b2pRZE4tbHBQdmNmYmJGRExmUEdjT2VaNUJuR001ZmoxeUxvVmI1RmNsUGQ2WHJUUnRPY3B0RmV2ZVQwZkFWVGRYNXAwa2tKaGZfVUJMZ3hvNUNhaEdMZ1F0LVRzZGx5bmZxSTczTEd1SERYcGdjRVo0LVhCX0t0NUtZNFcybWl2XzRBT1A3Tk52d3p5djdOXzZkMkk1THlQNDFESFJlVVZmRQ?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 11 Nov 2026 05:52:53 GMT",
+          "source": "Business Travel News Europe"
+        }
+      ]
+    },
+    {
+      "id": "665235c23ead",
+      "title": "Europe tourism construction projects rise 51% in Q3 2026 - Hotel Management Network",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1dHT3R2cXZlQkVxRVZYckJwZG96QVliQURYWXNodDAtYjF1SjZLQnRncko0a2dKVlY5YWoxeEZxckFIOFh3UFY3RDQxQmlUT1VOVHliUVpVV1ZJS1l6M1MxdkdqVEdJeGVla2U0NEJsZUhZVWIwNk1Hd2NwR1k3S2ktZ2g3MzFncnJpMnJBd2dzbE1LMFZXekxIeGVOOV9YenNib2hOTjE?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1dHT3R2cXZlQkVxRVZYckJwZG96QVliQURYWXNodDAtYjF1SjZLQnRncko0a2dKVlY5YWoxeEZxckFIOFh3UFY3RDQxQmlUT1VOVHliUVpVV1ZJS1l6M1MxdkdqVEdJeGVla2U0NEJsZUhZVWIwNk1Hd2NwR1k3S2ktZ2g3MzFncnJpMnJBd2dzbE1LMFZXekxIeGVOOV9YenNib2hOTjE?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 11 Nov 2026 03:25:20 GMT",
+          "source": "Hotel Management Network"
+        }
+      ]
+    },
+    {
+      "id": "658993ea94db",
+      "title": "Jet2 names most popular summer holiday destinations for 2027 - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0JKZGo3dkVHSENmUFI2QlhPTkhlMVJqaXpuT1ZneVE2NWxZdDN4NzY5TTdZazYyNV9zb1Z6Ylh0N28ydnF0R0xZdUlRd01MY1cxUVZhT0JjcDY4M2tHdzdRNUFmZzQ1UWFBM1dMS2Vqc3VBdTdOZmZhSGtMR0tyZVhWdERsSDdnV2VBRjJmcDBtNFV5NlFmajV6ejZfZ2RjREE2WjVBTQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0JKZGo3dkVHSENmUFI2QlhPTkhlMVJqaXpuT1ZneVE2NWxZdDN4NzY5TTdZazYyNV9zb1Z6Ylh0N28ydnF0R0xZdUlRd01MY1cxUVZhT0JjcDY4M2tHdzdRNUFmZzQ1UWFBM1dMS2Vqc3VBdTdOZmZhSGtMR0tyZVhWdERsSDdnV2VBRjJmcDBtNFV5NlFmajV6ejZfZ2RjREE2WjVBTQ?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 09 Nov 2026 11:21:00 GMT",
+          "source": "The Independent"
+        }
+      ]
+    },
+    {
+      "id": "fa4d1a49a78a",
+      "title": "Editor's Letter: Introducing Our Winter Travel Issue - Condé Nast Traveler",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSkg4T29HdHRhTXljcmY2eGN4T21pdVRodjFqcWpxZ3UxNDBMaVVxdWtZVlNUcVRuZXlIb0laLVlBS3BtT2JNVDVhY282d3E3UGZmcjZValVuanVjZ3I2c2RMQ3RvSmMyMXdiRjF3?oc=5\" target=\"_blank\">Editor's Letter: Introducing Our Winter Travel Issue</a>&nb",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSkg4T29HdHRhTXljcmY2eGN4T21pdVRodjFqcWpxZ3UxNDBMaVVxdWtZVlNUcVRuZXlIb0laLVlBS3BtT2JNVDVhY282d3E3UGZmcjZValVuanVjZ3I2c2RMQ3RvSmMyMXdiRjF3?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
       "raw_samples": [
         {
           "published": "Tue, 10 Nov 2026 14:00:00 GMT",
@@ -67,130 +187,10 @@
       ]
     },
     {
-      "id": "4b685694dfe3",
-      "title": "Delays as 44 tonne abnormal load to travel on major roads - Ipswich Star",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaDI1S3pQUFFxcGdEMmFyOEU4NENOSjFadGpuTzBvZmRkQndRamZvTUU4a3hZeTFJQ2F1eDZJbnNVb1NoNDVFejRaSGFEaDJUTTFKOXpySjgzaThFQ0lvOU56NkEwVm44QjlHeHdsWEVrUTdQRVliV3JrX2h2RHB0cHMwN2dRNENKd3poOU9teG9SYlZlQVhuQTIxQQ?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaDI1S3pQUFFxcGdEMmFyOEU4NENOSjFadGpuTzBvZmRkQndRamZvTUU4a3hZeTFJQ2F1eDZJbnNVb1NoNDVFejRaSGFEaDJUTTFKOXpySjgzaThFQ0lvOU56NkEwVm44QjlHeHdsWEVrUTdQRVliV3JrX2h2RHB0cHMwN2dRNENKd3poOU9teG9SYlZlQVhuQTIxQQ?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 17:00:00 GMT",
-          "source": "Ipswich Star"
-        }
-      ]
-    },
-    {
-      "id": "ecc579e9eccc",
-      "title": "Travel insurer highlights health risks at major tourist landmarks - ITIJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1R6Y3FtX25ZX2poWjd1RlpOMXJhUENuUUhNaHE5d3ctd0ZReFhNM3RnNF9xQkxpS3VKLXFrSlBEUlhIS3Z3aFpYN0xJMXJkanpYUkMzMTBDSzlFUGpOZUxaNVdTbmhScUtPZDAtVFNWdWV3cl9FT0pNeW9wTW9rbnJOcEZSVEx2Vm1zaXU4UHJfS243WkUzTzJCOA?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1R6Y3FtX25ZX2poWjd1RlpOMXJhUENuUUhNaHE5d3ctd0ZReFhNM3RnNF9xQkxpS3VKLXFrSlBEUlhIS3Z3aFpYN0xJMXJkanpYUkMzMTBDSzlFUGpOZUxaNVdTbmhScUtPZDAtVFNWdWV3cl9FT0pNeW9wTW9rbnJOcEZSVEx2Vm1zaXU4UHJfS243WkUzTzJCOA?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 15:05:47 GMT",
-          "source": "ITIJ"
-        }
-      ]
-    },
-    {
-      "id": "423e218c6e4a",
-      "title": "Spanish general strike puts travel on high alert with disruption to air and rail services expected - TTG Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVFaWG9uOWlHT05KaGJoT2dPQVA2dms2VjN3dXV5VjROdjZvdUxWUFloYTNLcVhlM3p2RFBsN3QzeWNicERXdFNXZGo5cjljX2IydUNTdTEwNmIydl9HanpfdGNvSHZxSjlLUUhaa2t0aGNweWY5T1ZDQV9PbFFuSDdoWlN1MnRRTnZndmVHVndwRm40X3V2Y2ZXUjZIWTNXSzZNYURmaVdPdj",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVFaWG9uOWlHT05KaGJoT2dPQVA2dms2VjN3dXV5VjROdjZvdUxWUFloYTNLcVhlM3p2RFBsN3QzeWNicERXdFNXZGo5cjljX2IydUNTdTEwNmIydl9HanpfdGNvSHZxSjlLUUhaa2t0aGNweWY5T1ZDQV9PbFFuSDdoWlN1MnRRTnZndmVHVndwRm40X3V2Y2ZXUjZIWTNXSzZNYURmaVdPdjJhMFNSRTdpdXpwdlpvc0xkVw?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 16:52:57 GMT",
-          "source": "TTG Media"
-        }
-      ]
-    },
-    {
-      "id": "a45ef7c2cc4e",
-      "title": "Guyana and Mozambique pitch tourism as engine of economic transformation - Travel Tomorrow",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEc1bExyVXU3aV9rRWltcjdVRTZsQlhRSzlITTVrWnUyZjU1U0tmamZ2MGdqT2d5MHpGVS13cTMyRjItN0xyZFpSUWR3Z0ozYzRUZmVjbGRENGZ4M05VV2VwNllMY2NSeVlJekppOVBWTzY0Q3lsTWdpUm1UUjhYb2VJQ19GSFdGVTlSTjhsME14TmdpU3NMYlV0eWpZaGRnYmc?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEc1bExyVXU3aV9rRWltcjdVRTZsQlhRSzlITTVrWnUyZjU1U0tmamZ2MGdqT2d5MHpGVS13cTMyRjItN0xyZFpSUWR3Z0ozYzRUZmVjbGRENGZ4M05VV2VwNllMY2NSeVlJekppOVBWTzY0Q3lsTWdpUm1UUjhYb2VJQ19GSFdGVTlSTjhsME14TmdpU3NMYlV0eWpZaGRnYmc?oc=5",
-      "score": 68.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 12:25:15 GMT",
-          "source": "Travel Tomorrow"
-        }
-      ]
-    },
-    {
-      "id": "08239c64420d",
-      "title": "OpenAI Acquires AI Travel Agent Odessia - The Information",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXZGTWs3akI4NHc2ZkJ0WUp0djlMeHlQVVk4MXc1Ym9zWVpvTnVCVnI2dlU5TW00WTBKajlheWRsZm1IVDdVTG90ZXB3U09kN1hNbVVDellsd0lBSzJRSG9XUG1sVTN6VUJGSHF1QmkyUXFHT2tNTFQ4NzM4YXZfTGMwSFNOMjA?oc=5\" target=\"_blank\">OpenAI Acquires AI Trave",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXZGTWs3akI4NHc2ZkJ0WUp0djlMeHlQVVk4MXc1Ym9zWVpvTnVCVnI2dlU5TW00WTBKajlheWRsZm1IVDdVTG90ZXB3U09kN1hNbVVDellsd0lBSzJRSG9XUG1sVTN6VUJGSHF1QmkyUXFHT2tNTFQ4NzM4YXZfTGMwSFNOMjA?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 18:39:00 GMT",
-          "source": "The Information"
-        }
-      ]
-    },
-    {
-      "id": "6bd71717f40a",
-      "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSV9UWGVpeFlBeWJJOW1KQlhvejh0ZHNtQmY0TzJLMTd4MUxDdmxnQVJndDlmS3VReHFwQktzUnRKTWZpMDJocUNCUmhyQ1dvSEtyWmJaeWxoeUFlS2lHYkYybEpfeG1COHpqSXMxc1hvaEZDNFVtWUx3QnU5YmZJbDRmcVhtVTlWd05BQmlObzFQYjhPZU52c1J0N0JIZzdDaWZ0dGpKYmFsQQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSV9UWGVpeFlBeWJJOW1KQlhvejh0ZHNtQmY0TzJLMTd4MUxDdmxnQVJndDlmS3VReHFwQktzUnRKTWZpMDJocUNCUmhyQ1dvSEtyWmJaeWxoeUFlS2lHYkYybEpfeG1COHpqSXMxc1hvaEZDNFVtWUx3QnU5YmZJbDRmcVhtVTlWd05BQmlObzFQYjhPZU52c1J0N0JIZzdDaWZ0dGpKYmFsQQ?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 13:38:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "id": "0dea3fdb39a7",
-      "title": "Airline capacity cuts threaten Europe’s 2027 travel demand - Hospitality Investor",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnRYU3BFdEM3S1RqQ2ZZV19vemZkZUhSNkFZbDNrX1BfY3JDWERtX25abzV3YVlwb2VlczJycU1oc3ZqaE04MnhXaXlEeTNOZm5vMVRqZno0MERyNGdKZm1HVjI3Z25LZW43c2I1bnUwbk0xeVQyb0VjSFZhRi1kUGJIRDN6YVJ0UWo0WWtzUV9kajE3N2p6SXc4c1IwbGlyZzNVM29iQQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnRYU3BFdEM3S1RqQ2ZZV19vemZkZUhSNkFZbDNrX1BfY3JDWERtX25abzV3YVlwb2VlczJycU1oc3ZqaE04MnhXaXlEeTNOZm5vMVRqZno0MERyNGdKZm1HVjI3Z25LZW43c2I1bnUwbk0xeVQyb0VjSFZhRi1kUGJIRDN6YVJ0UWo0WWtzUV9kajE3N2p6SXc4c1IwbGlyZzNVM29iQQ?oc=5",
+      "id": "774e88248b83",
+      "title": "Harry Potter turns 25 with five magical railway destinations across the UK - Travel Tomorrow",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkR1dm5uN01KWEI1UFJodmdXeHBUaHBfZkxORC1rSkpNUW4tUDFzWGZFYWZiR3dlM1Z3Q1B5THJra1k2N3ZZWDJfREstOEF5RUpETXM2UkI2cHQyZ3NCdjEtT3p4SENVSlBfU2N4VmtZQ2FFZ09yQm1UU1Uxbk5CMWd1R3hFUFJrQUVKVGhka01Bc1RtNHJnMUdiVjRaejYyWndzTw?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkR1dm5uN01KWEI1UFJodmdXeHBUaHBfZkxORC1rSkpNUW4tUDFzWGZFYWZiR3dlM1Z3Q1B5THJra1k2N3ZZWDJfREstOEF5RUpETXM2UkI2cHQyZ3NCdjEtT3p4SENVSlBfU2N4VmtZQ2FFZ09yQm1UU1Uxbk5CMWd1R3hFUFJrQUVKVGhka01Bc1RtNHJnMUdiVjRaejYyWndzTw?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,167 +198,7 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 13:36:38 GMT",
-          "source": "Hospitality Investor"
-        }
-      ]
-    },
-    {
-      "id": "d5e6c0c2ed5a",
-      "title": "Gray Dawes expands Nordic reach with strategic partnership - The Business Travel Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWJ2U0s4QkdBdFkxaERNbGFFQW9LSjVSNFJoUTEwMEVvWUhrazl2cUduUXJ0NmYxLVJFaVcyV2taenlNOU42Y0c4TDEwajhuWkdlQmhzV29PeWh6VENFNDBSMzZNSzVGU1V1b1p2VHlfd1NOYXczM3RNaE5XOGFGNXZBUGEtZlo1OW8yTHhsOWlIN2hkeVljVjRycEs?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWJ2U0s4QkdBdFkxaERNbGFFQW9LSjVSNFJoUTEwMEVvWUhrazl2cUduUXJ0NmYxLVJFaVcyV2taenlNOU42Y0c4TDEwajhuWkdlQmhzV29PeWh6VENFNDBSMzZNSzVGU1V1b1p2VHlfd1NOYXczM3RNaE5XOGFGNXZBUGEtZlo1OW8yTHhsOWlIN2hkeVljVjRycEs?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 11:48:45 GMT",
-          "source": "The Business Travel Magazine"
-        }
-      ]
-    },
-    {
-      "id": "59245a2406ca",
-      "title": "Foreign Office issues urgent new travel warning for Spain - starts November 11 - AOL.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZldXQjdqNHpqbDNXYllRWEs3U2dYaVpEMTROTkZaVEFqTTM5dUFuX2ZsLUV3LTBZWVRmQVF5MVVrTjNxWWp6ZnZfTnI2TUNsYnRIMV9VMUVCSnd5QnZrbWtFU0FPS084aG4zeUJ2U19hMWctUzhtbkNydGtXWU40S2JnRXBVODZw?oc=5\" target=\"_blank\">Foreign Office issues u",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZldXQjdqNHpqbDNXYllRWEs3U2dYaVpEMTROTkZaVEFqTTM5dUFuX2ZsLUV3LTBZWVRmQVF5MVVrTjNxWWp6ZnZfTnI2TUNsYnRIMV9VMUVCSnd5QnZrbWtFU0FPS084aG4zeUJ2U19hMWctUzhtbkNydGtXWU40S2JnRXBVODZw?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 16:22:29 GMT",
-          "source": "AOL.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "16612f7b611f",
-      "title": "Lufthansa Takes Page from Streetwear's Playbook with US Launch of Travel Etiquette Collection — LBB - LBB - Little Black Book",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxONGtjWkxPTURzOWJYN1RhMU1FbWdkUG0wa0I4ejlRcU5IN0xKc2ZGWlhWUUsxSmt5VmZ4VG5BbWxTTkp6NmZFX2VVa0NRMlBabzZTNlhxcVdOWk5DaWZPY015b3U4d2t2WVBDSHJVUC0wUFJrcEIycGJ2dDBldll1eVhrdHFzUzlPUUcxY0IyVTJVbjV2akhrSXBtcWN4OGhPWUlYQ0RIcFgxOV",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGtjWkxPTURzOWJYN1RhMU1FbWdkUG0wa0I4ejlRcU5IN0xKc2ZGWlhWUUsxSmt5VmZ4VG5BbWxTTkp6NmZFX2VVa0NRMlBabzZTNlhxcVdOWk5DaWZPY015b3U4d2t2WVBDSHJVUC0wUFJrcEIycGJ2dDBldll1eVhrdHFzUzlPUUcxY0IyVTJVbjV2akhrSXBtcWN4OGhPWUlYQ0RIcFgxOVo0NTZMYl9lU185NVVHMHZ3bw?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 11:41:54 GMT",
-          "source": "LBB - Little Black Book"
-        }
-      ]
-    },
-    {
-      "id": "ee961060e3c8",
-      "title": "Prices Prop Up Travel as Demand Cools - Skift",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE41b29JWkRXZFhZUGJRcHBLTDhfNlEyVGZKTURNTTdQUlBGaXlWLWluWGZ3R3FQM1MxRThMYnpDQnplemRxSl93b3hTQ2FlYmgweWRIRVpabkNEYXRDVkJjeUswTzhOeVl3ZHRNZFk2UGxIMnFzelE?oc=5\" target=\"_blank\">Prices Prop Up Travel as Demand Cools</a>&nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41b29JWkRXZFhZUGJRcHBLTDhfNlEyVGZKTURNTTdQUlBGaXlWLWluWGZ3R3FQM1MxRThMYnpDQnplemRxSl93b3hTQ2FlYmgweWRIRVpabkNEYXRDVkJjeUswTzhOeVl3ZHRNZFk2UGxIMnFzelE?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 17:14:52 GMT",
-          "source": "Skift"
-        }
-      ]
-    },
-    {
-      "id": "4f352e66b003",
-      "title": "Jet2 reveals 2027’s top holiday destinations – and number one is a classic - Metro.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3ZTLTNlTVVXUEdpZHFpblMtNVFPZE1ER1Vlc2NtU2RXNnlQRFRFZ19uMHRSYnZOamlHbXZZY1FCX1ZxYzBHVGF4M19lWVdLSnQ4SC1HRGwzaXdTc2xrM0VyOTRLTktzaVVZRE1TQ0xuZkRnQXhQRHMxRlZ0bTdMTzZxRERQY25hSzNlVnljRjdKOFdWR0M2dzY5UWZ5QVRzQm14ZHduTWzSAa",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3ZTLTNlTVVXUEdpZHFpblMtNVFPZE1ER1Vlc2NtU2RXNnlQRFRFZ19uMHRSYnZOamlHbXZZY1FCX1ZxYzBHVGF4M19lWVdLSnQ4SC1HRGwzaXdTc2xrM0VyOTRLTktzaVVZRE1TQ0xuZkRnQXhQRHMxRlZ0bTdMTzZxRERQY25hSzNlVnljRjdKOFdWR0M2dzY5UWZ5QVRzQm14ZHduTWzSAa4BQVVfeXFMUEhCc2RrX2ZCRTVIZ2t1bHFTUEtiS1pKakthZWhWM2RMeDRIbXBpNDl2WEVCUWNwTDF3OWZNbGEtT3pCZUF6YUxDalFMMURiOER5TTItS1FCU01XaHpzVFV3QTh3dURJOHE1VERjVmNVblBMMTRlUFJZX2Z3QzVfdkZkSnA2RC11Z1dQOC04VzhldU9wVm9RWnVfS2UyU0FlTUdSeTgxTjQydG1lRWpB?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 13:00:00 GMT",
-          "source": "Metro.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "227e9812d212",
-      "title": "The Future of European Tourism Is Already Here - Hospitality Net",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxON0FIX0picVI1cWpWSS1lNDRtQkN2cVlURk11SU9hLWM0OW5EZW1fTlYzeEJuTWNkTElDa0toYkh4OXI1TWY1YkNmTU9iOWxjSVR6cHB3SGQza3otSWZYbnFTQ2xRSVZkdWVtVFhjUExDRE56MHNucVBIMlp3b1l4T1RDTUd4cVVDNWJNUEFDXy1tV2g2cGZwVQ?oc=5\" target=\"_blank\">T",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0FIX0picVI1cWpWSS1lNDRtQkN2cVlURk11SU9hLWM0OW5EZW1fTlYzeEJuTWNkTElDa0toYkh4OXI1TWY1YkNmTU9iOWxjSVR6cHB3SGQza3otSWZYbnFTQ2xRSVZkdWVtVFhjUExDRE56MHNucVBIMlp3b1l4T1RDTUd4cVVDNWJNUEFDXy1tV2g2cGZwVQ?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 12:08:15 GMT",
-          "source": "Hospitality Net"
-        }
-      ]
-    },
-    {
-      "id": "376dbbb8ea56",
-      "title": "Hays Travel customers raise almost £12k through foreign currency donations - Travel Weekly - Home",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGJNblFpb1hab0p0MFlmdVhrNlRKeXFQek4yNTNVZnI5UDdyb0JjMUNvamRrWnByTUV3MHlQVm81d3lYeVBmdl9Jb3MyZmpYOUhtNzdPVW1rT0pXZFI1QlVleENmY2FPcHRja0ZKZ2xDQXF0eC1oLUJ0LV9jaVMtQWtfcmZqVmpoSTZNdjBUd245SUQxQm5fTzVsNjh0LUhkRlNSN1lYQm4?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGJNblFpb1hab0p0MFlmdVhrNlRKeXFQek4yNTNVZnI5UDdyb0JjMUNvamRrWnByTUV3MHlQVm81d3lYeVBmdl9Jb3MyZmpYOUhtNzdPVW1rT0pXZFI1QlVleENmY2FPcHRja0ZKZ2xDQXF0eC1oLUJ0LV9jaVMtQWtfcmZqVmpoSTZNdjBUd245SUQxQm5fTzVsNjh0LUhkRlNSN1lYQm4?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 15:42:00 GMT",
-          "source": "Travel Weekly - Home"
-        }
-      ]
-    },
-    {
-      "id": "774e88248b83",
-      "title": "Harry Potter turns 25 with five magical railway destinations across the UK - Travel Tomorrow",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkR1dm5uN01KWEI1UFJodmdXeHBUaHBfZkxORC1rSkpNUW4tUDFzWGZFYWZiR3dlM1Z3Q1B5THJra1k2N3ZZWDJfREstOEF5RUpETXM2UkI2cHQyZ3NCdjEtT3p4SENVSlBfU2N4VmtZQ2FFZ09yQm1UU1Uxbk5CMWd1R3hFUFJrQUVKVGhka01Bc1RtNHJnMUdiVjRaejYyWndzTw?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkR1dm5uN01KWEI1UFJodmdXeHBUaHBfZkxORC1rSkpNUW4tUDFzWGZFYWZiR3dlM1Z3Q1B5THJra1k2N3ZZWDJfREstOEF5RUpETXM2UkI2cHQyZ3NCdjEtT3p4SENVSlBfU2N4VmtZQ2FFZ09yQm1UU1Uxbk5CMWd1R3hFUFJrQUVKVGhka01Bc1RtNHJnMUdiVjRaejYyWndzTw?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
+      "first_seen": "2026-11-11T05:59:19+00:00",
       "raw_samples": [
         {
           "published": "Tue, 10 Nov 2026 16:05:59 GMT",
@@ -367,10 +207,170 @@
       ]
     },
     {
-      "id": "4622b8ef6a51",
-      "title": "Santa’s Lapland unwraps reduced rates for travel agents - Travel Weekly - Home",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOci1ONkNPQjc1TjdWTndhYld2cTlGczQ0b1lKMGVnRHR0UnBPYmNOdzB1S3pGTUdmb3RCSVYyWW1fTldrZDRuREowZDY1dWxZRmVUTzFJQU9YVGJ0SFFsbHZEY201ZnJRVGFiVGJoWmVmV29XSTJudFRhSHZVMzJlaTROZjZwY1ZpWVotQ2VTZw?oc=5\" target=\"_blank\">Santa’s Lapla",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOci1ONkNPQjc1TjdWTndhYld2cTlGczQ0b1lKMGVnRHR0UnBPYmNOdzB1S3pGTUdmb3RCSVYyWW1fTldrZDRuREowZDY1dWxZRmVUTzFJQU9YVGJ0SFFsbHZEY201ZnJRVGFiVGJoWmVmV29XSTJudFRhSHZVMzJlaTROZjZwY1ZpWVotQ2VTZw?oc=5",
+      "id": "275865dca6fe",
+      "title": "'I still make the coffee!': UK and Ireland's top agency boss reveals her leadership secrets after double Travel Industry Awards win - TTG Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0hXdVphUmF0THlRMmxMeFhCM3dCVl9QRGcwOTQ2QU9xX2RUbmxPT1dYNzlwazlxcGxSQ2VTQXZnVlFLRXoyQ0tuZ0RkNzdubjcySGM2OVhmVFRQRG9PbWlrSDdWTm5iSlgxN1RZOVlXcFpvUHFQTE5OR24xLXZ3azZMa2VtR0dpdnFDWFg4cW9yZDlqX3gzdXVEbXoxMW1qVUlPcDg3NXhyMz",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0hXdVphUmF0THlRMmxMeFhCM3dCVl9QRGcwOTQ2QU9xX2RUbmxPT1dYNzlwazlxcGxSQ2VTQXZnVlFLRXoyQ0tuZ0RkNzdubjcySGM2OVhmVFRQRG9PbWlrSDdWTm5iSlgxN1RZOVlXcFpvUHFQTE5OR24xLXZ3azZMa2VtR0dpdnFDWFg4cW9yZDlqX3gzdXVEbXoxMW1qVUlPcDg3NXhyMzA0N1dVWWYtZ1JoQXlEMkkwbTdjQmJWQQ?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 11 Nov 2026 02:37:46 GMT",
+          "source": "TTG Media"
+        }
+      ]
+    },
+    {
+      "id": "3e5c4cfa0cdf",
+      "title": "Flawed EU border checks threaten author Jojo Moyes with two-year travel ban in EES error that could affect thousands of UK travellers - Which?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBaS3owSFBVZUdSSExjNTBsLWNYQXB3RVdacERYNTF4Tjh0RjVjUUpxRlVCOG1jdkJDNEtSdldxeGhCUDlFT0dmRUxubmZFSDR6cmNwNmFiYUc0dC1hSXExalJydndTZ21YLXJ1WVg4ZFhFTVlMenJfNExUdw?oc=5\" target=\"_blank\">Flawed EU border checks threaten author J",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaS3owSFBVZUdSSExjNTBsLWNYQXB3RVdacERYNTF4Tjh0RjVjUUpxRlVCOG1jdkJDNEtSdldxeGhCUDlFT0dmRUxubmZFSDR6cmNwNmFiYUc0dC1hSXExalJydndTZ21YLXJ1WVg4ZFhFTVlMenJfNExUdw?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 10 Nov 2026 11:04:12 GMT",
+          "source": "Which?"
+        }
+      ]
+    },
+    {
+      "id": "861130cec7ed",
+      "title": "Stagecoach West acquires Cheney Travel - CBW Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5VMGI2NzRkTmFOQ3lINjI1aUJLMU13czNwb1U2emp1aXVpMGxIVlEtLVNSWmozQjVqckhYUWZnWTBlUThsOWpxS0xmRHpHN29fQUwxRXNzRmZ2VDZla1ZMMTByaHVZUk1nX0c4UC1xV1c?oc=5\" target=\"_blank\">Stagecoach West acquires Cheney Travel</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VMGI2NzRkTmFOQ3lINjI1aUJLMU13czNwb1U2emp1aXVpMGxIVlEtLVNSWmozQjVqckhYUWZnWTBlUThsOWpxS0xmRHpHN29fQUwxRXNzRmZ2VDZla1ZMMTByaHVZUk1nX0c4UC1xV1c?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Wed, 11 Nov 2026 05:25:59 GMT",
+          "source": "CBW Magazine"
+        }
+      ]
+    },
+    {
+      "id": "59245a2406ca",
+      "title": "Foreign Office issues urgent new travel warning for Spain - starts November 11 - AOL.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZldXQjdqNHpqbDNXYllRWEs3U2dYaVpEMTROTkZaVEFqTTM5dUFuX2ZsLUV3LTBZWVRmQVF5MVVrTjNxWWp6ZnZfTnI2TUNsYnRIMV9VMUVCSnd5QnZrbWtFU0FPS084aG4zeUJ2U19hMWctUzhtbkNydGtXWU40S2JnRXBVODZw?oc=5\" target=\"_blank\">Foreign Office issues u",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZldXQjdqNHpqbDNXYllRWEs3U2dYaVpEMTROTkZaVEFqTTM5dUFuX2ZsLUV3LTBZWVRmQVF5MVVrTjNxWWp6ZnZfTnI2TUNsYnRIMV9VMUVCSnd5QnZrbWtFU0FPS084aG4zeUJ2U19hMWctUzhtbkNydGtXWU40S2JnRXBVODZw?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 10 Nov 2026 16:45:18 GMT",
+          "source": "AOL.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "08239c64420d",
+      "title": "OpenAI Acquires AI Travel Agent Odessia - The Information",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXZGTWs3akI4NHc2ZkJ0WUp0djlMeHlQVVk4MXc1Ym9zWVpvTnVCVnI2dlU5TW00WTBKajlheWRsZm1IVDdVTG90ZXB3U09kN1hNbVVDellsd0lBSzJRSG9XUG1sVTN6VUJGSHF1QmkyUXFHT2tNTFQ4NzM4YXZfTGMwSFNOMjA?oc=5\" target=\"_blank\">OpenAI Acquires AI Trave",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXZGTWs3akI4NHc2ZkJ0WUp0djlMeHlQVVk4MXc1Ym9zWVpvTnVCVnI2dlU5TW00WTBKajlheWRsZm1IVDdVTG90ZXB3U09kN1hNbVVDellsd0lBSzJRSG9XUG1sVTN6VUJGSHF1QmkyUXFHT2tNTFQ4NzM4YXZfTGMwSFNOMjA?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 10 Nov 2026 18:39:00 GMT",
+          "source": "The Information"
+        }
+      ]
+    },
+    {
+      "id": "4b685694dfe3",
+      "title": "Delays as 44 tonne abnormal load to travel on major roads - Ipswich Star",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaDI1S3pQUFFxcGdEMmFyOEU4NENOSjFadGpuTzBvZmRkQndRamZvTUU4a3hZeTFJQ2F1eDZJbnNVb1NoNDVFejRaSGFEaDJUTTFKOXpySjgzaThFQ0lvOU56NkEwVm44QjlHeHdsWEVrUTdQRVliV3JrX2h2RHB0cHMwN2dRNENKd3poOU9teG9SYlZlQVhuQTIxQQ?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaDI1S3pQUFFxcGdEMmFyOEU4NENOSjFadGpuTzBvZmRkQndRamZvTUU4a3hZeTFJQ2F1eDZJbnNVb1NoNDVFejRaSGFEaDJUTTFKOXpySjgzaThFQ0lvOU56NkEwVm44QjlHeHdsWEVrUTdQRVliV3JrX2h2RHB0cHMwN2dRNENKd3poOU9teG9SYlZlQVhuQTIxQQ?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 10 Nov 2026 17:00:00 GMT",
+          "source": "Ipswich Star"
+        }
+      ]
+    },
+    {
+      "id": "5720edff06b1",
+      "title": "Report: Travel teams taking on wider roles despite lean staffing - The Business Travel Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRy0tRXRpajlpeDZSLXh3R2QzR1A2VjNlS1lWNzd3NE5zSmJWdmsyS1J6LWNqcHFHeFlwOWJJTGZaSHpzNnRZYmdZVXp6UGM4eWFjSTNueEkwQVh5cmxuNkpqdFRiWjZzT3ZUeG1VNEs4S1pma2k5b3Nmd3pXZDNEanlzT3BWamFEdmIyX2V0enYxR3E0VVFtR191enZjZw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRy0tRXRpajlpeDZSLXh3R2QzR1A2VjNlS1lWNzd3NE5zSmJWdmsyS1J6LWNqcHFHeFlwOWJJTGZaSHpzNnRZYmdZVXp6UGM4eWFjSTNueEkwQVh5cmxuNkpqdFRiWjZzT3ZUeG1VNEs4S1pma2k5b3Nmd3pXZDNEanlzT3BWamFEdmIyX2V0enYxR3E0VVFtR191enZjZw?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 10 Nov 2026 23:41:37 GMT",
+          "source": "The Business Travel Magazine"
+        }
+      ]
+    },
+    {
+      "id": "376dbbb8ea56",
+      "title": "Hays Travel customers raise almost £12k through foreign currency donations - Travel Weekly - Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGJNblFpb1hab0p0MFlmdVhrNlRKeXFQek4yNTNVZnI5UDdyb0JjMUNvamRrWnByTUV3MHlQVm81d3lYeVBmdl9Jb3MyZmpYOUhtNzdPVW1rT0pXZFI1QlVleENmY2FPcHRja0ZKZ2xDQXF0eC1oLUJ0LV9jaVMtQWtfcmZqVmpoSTZNdjBUd245SUQxQm5fTzVsNjh0LUhkRlNSN1lYQm4?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGJNblFpb1hab0p0MFlmdVhrNlRKeXFQek4yNTNVZnI5UDdyb0JjMUNvamRrWnByTUV3MHlQVm81d3lYeVBmdl9Jb3MyZmpYOUhtNzdPVW1rT0pXZFI1QlVleENmY2FPcHRja0ZKZ2xDQXF0eC1oLUJ0LV9jaVMtQWtfcmZqVmpoSTZNdjBUd245SUQxQm5fTzVsNjh0LUhkRlNSN1lYQm4?oc=5",
+      "score": 28.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "UK",
+      "first_seen": "2026-11-11T05:59:19+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 10 Nov 2026 15:42:00 GMT",
+          "source": "Travel Weekly - Home"
+        }
+      ]
+    },
+    {
+      "id": "7cf1e3802a71",
+      "title": "Thick fog disrupts travel with further weather warning issued - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CRFVBV3JPaGJEN0cydUJjRTNPOGs3U0d6c0liRG1MUGVXbHFaOUg5cmVIbTJGRzRJcGhUY3h1cjUtVkZfZ0RKSE5yME95TVNFamZsYlhhOHRWSFBsUURj?oc=5\" target=\"_blank\">Thick fog disrupts travel with further weather warning issued</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CRFVBV3JPaGJEN0cydUJjRTNPOGs3U0d6c0liRG1MUGVXbHFaOUg5cmVIbTJGRzRJcGhUY3h1cjUtVkZfZ0RKSE5yME95TVNFamZsYlhhOHRWSFBsUURj?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
+      "first_seen": "2026-11-11T05:59:19+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 10 Nov 2026 13:33:00 GMT",
-          "source": "Travel Weekly - Home"
+          "published": "Sun, 08 Nov 2026 16:12:24 GMT",
+          "source": "BBC"
         }
       ]
     },
     {
-      "id": "a8ed548bfffd",
-      "title": "Beyond peak season: How destinations can attract tourists year-round - Travel Tomorrow",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQzV4Y0ZrcTV1S3VLZ0pWcm5VTi04REp3VHg1MXY5X3VmXzJIQ0c5ZDlBUFFKV09SNDBvdlMzbDk4RDJMNDVhUmxlZVpQbHpkSER4SEpQd3dQUnYyczBRYXFiN1U5SnVsWkhTQjUtNnlnaE5aaVEzdVBLZUtwVTJMeHZsQ19RZmtib1AxNEpXUlA1TDFHQ0hwOWpkWQ?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQzV4Y0ZrcTV1S3VLZ0pWcm5VTi04REp3VHg1MXY5X3VmXzJIQ0c5ZDlBUFFKV09SNDBvdlMzbDk4RDJMNDVhUmxlZVpQbHpkSER4SEpQd3dQUnYyczBRYXFiN1U5SnVsWkhTQjUtNnlnaE5aaVEzdVBLZUtwVTJMeHZsQ19RZmtib1AxNEpXUlA1TDFHQ0hwOWpkWQ?oc=5",
+      "id": "582359be2d85",
+      "title": "Hays Travel aims to be late bookings ‘market leader’ - Travel Weekly - Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUF9wbG5EUTB1bnBBUkdOTmprYThpX1l3YmtTUzNVZHRmdlVDaks3MUVpNGx0N1lTWENEQ0ZfalN1TFpBVjZBcWxVbHhEOFhvSFM1Ri0wdXZWNkwyT3JnbkpFemJWSG1CMnF2MUlVRWc0dTJGVDdZR0pCNWg2VTRlbkEtbTFjVmhoTkE?oc=5\" target=\"_blank\">Hays Travel aims to ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUF9wbG5EUTB1bnBBUkdOTmprYThpX1l3YmtTUzNVZHRmdlVDaks3MUVpNGx0N1lTWENEQ0ZfalN1TFpBVjZBcWxVbHhEOFhvSFM1Ri0wdXZWNkwyT3JnbkpFemJWSG1CMnF2MUlVRWc0dTJGVDdZR0pCNWg2VTRlbkEtbTFjVmhoTkE?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "UK",
-      "first_seen": "2026-11-10T19:39:10+00:00",
+      "first_seen": "2026-11-11T05:59:19+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 10 Nov 2026 11:35:04 GMT",
-          "source": "Travel Tomorrow"
+          "published": "Tue, 10 Nov 2026 16:04:00 GMT",
+          "source": "Travel Weekly - Home"
         }
       ]
     }
