@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "UK",
-  "generated_at": "2026-11-13T06:38:04+00:00",
+  "generated_at": "2026-11-13T19:43:29+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 25,
   "trends": [
     {
-      "id": "3010b1d958c5",
-      "title": "'We just ran' - One killed, four injured in shooting near Washington DC gym - BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PVDd3QzVnQkZHak1UcHpHNlNxSElVVDdkNzRPRWJmTWZKNzNLbHlRSjdLT2JqbUtHMld2a2RJTFlka3FyRmFacDFJbzBFRGUxYWR4dUwteXYwbFk?oc=5\" target=\"_blank\">'We just ran' - One killed, four injured in shooting near Washington DC gym</a>&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PVDd3QzVnQkZHak1UcHpHNlNxSElVVDdkNzRPRWJmTWZKNzNLbHlRSjdLT2JqbUtHMld2a2RJTFlka3FyRmFacDFJbzBFRGUxYWR4dUwteXYwbFk?oc=5",
+      "id": "0ffb4315de69",
+      "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5\" target=\"_blank\">Condo manager say",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,11 +18,31 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 19:24:33 GMT",
-          "source": "BBC"
+          "published": "Fri, 13 Nov 2026 15:25:00 GMT",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "id": "f465e16c023c",
+      "title": "DC gym shooter gave ominous quote on mold issues months before he opened fire that left one dead and four hurt - The Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQb282eHBNOFZTODRiWEFNSnJYajh1dTFlV2pQMEJSQVBoQW1tcHRCS0lWMXlhMFRweURpanhBcU42U2t2SDdtQ1hUT2plUktuNEN6cHNIMzlVTHVCVWNTVHJsbW1mWWhCVFpQUHRaaW4wWlBrVTkzVEFUeHQ1RjhsYVEySndTcGxVZFgxOW9LRWkwTmEtdldnWHItRDFYVUhXb21YT1hWd1d4aj",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb282eHBNOFZTODRiWEFNSnJYajh1dTFlV2pQMEJSQVBoQW1tcHRCS0lWMXlhMFRweURpanhBcU42U2t2SDdtQ1hUT2plUktuNEN6cHNIMzlVTHVCVWNTVHJsbW1mWWhCVFpQUHRaaW4wWlBrVTkzVEFUeHQ1RjhsYVEySndTcGxVZFgxOW9LRWkwTmEtdldnWHItRDFYVUhXb21YT1hWd1d4ajk5d1VWbmpoOXBvbVE?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "UK",
+      "first_seen": "2026-11-13T19:34:29+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 13 Nov 2026 17:00:00 GMT",
+          "source": "The Independent"
         }
       ]
     },
@@ -31,14 +51,14 @@
       "title": "Man shot dead in Washington DC gym is named - Sky News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFVpeEstZlRtVEtKYy1jY2poMFVCRWRqYnlNaGxJQVNtbUplS1RvRVBOcjJtdzdXZlVfQUJrV0pBZFlkOUxUdHoxX3BUeEpESUVoajlmbzdnTjUycjVjZGt1UmN3ZUJxX1VVZ0VDTVZvd0dHOG1aN1B1dXA1ZHhZNHBtT3J3dWZmczNNbkwwQUUxV0lXam9BdXp4bjJpT2JxT1V3?oc=5\" tar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFVpeEstZlRtVEtKYy1jY2poMFVCRWRqYnlNaGxJQVNtbUplS1RvRVBOcjJtdzdXZlVfQUJrV0pBZFlkOUxUdHoxX3BUeEpESUVoajlmbzdnTjUycjVjZGt1UmN3ZUJxX1VVZ0VDTVZvd0dHOG1aN1B1dXA1ZHhZNHBtT3J3dWZmczNNbkwwQUUxV0lXam9BdXp4bjJpT2JxT1V3?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
           "published": "Thu, 12 Nov 2026 21:58:27 GMT",
@@ -47,30 +67,10 @@
       ]
     },
     {
-      "id": "7d8ba6396661",
-      "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9aRlpPZ3ZXU0swRnRfaXFfOU1IcWFnLXdJbXZ5N29HTW5mMGxPamluR25zbC1aMkpjZUxXSVJ5ZGhkVVRIMmR1bEVLT1RiS1RtWTM2MExyOXAyWmF1MFZBWU92alRiMXpFVDNNYmxqZWc2aGZ5SFZvTHh6blI?oc=5\" target=\"_blank\">Police identify suspect and victim in Wa",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aRlpPZ3ZXU0swRnRfaXFfOU1IcWFnLXdJbXZ5N29HTW5mMGxPamluR25zbC1aMkpjZUxXSVJ5ZGhkVVRIMmR1bEVLT1RiS1RtWTM2MExyOXAyWmF1MFZBWU92alRiMXpFVDNNYmxqZWc2aGZ5SFZvTHh6blI?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 12 Nov 2026 14:09:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "id": "e4e7e83b77ad",
-      "title": "Balancing recovery and match fitness - RB Leipzig",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRV9zeGZNaE9rMko2TWdFY0xDcEVXU1NkN21pSk9sZkdoamVrZkFISlRnUEZNN2FiSldIazRSRUtNbXNlWmdNVWxtMWlaMC1yUTdmWGJ2eEI1OEtYdWFfdXBzQUhFZ0F2ckVra1lRWHlxU0JJYWZCZWtCMDNNTExIZzJOdU1fNnBTWEE?oc=5\" target=\"_blank\">Balancing recovery a",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRV9zeGZNaE9rMko2TWdFY0xDcEVXU1NkN21pSk9sZkdoamVrZkFISlRnUEZNN2FiSldIazRSRUtNbXNlWmdNVWxtMWlaMC1yUTdmWGJ2eEI1OEtYdWFfdXBzQUhFZ0F2ckVra1lRWHlxU0JJYWZCZWtCMDNNTExIZzJOdU1fNnBTWEE?oc=5",
+      "id": "3010b1d958c5",
+      "title": "'We just ran' - One killed, four injured in shooting near Washington DC gym - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PVDd3QzVnQkZHak1UcHpHNlNxSElVVDdkNzRPRWJmTWZKNzNLbHlRSjdLT2JqbUtHMld2a2RJTFlka3FyRmFacDFJbzBFRGUxYWR4dUwteXYwbFk?oc=5\" target=\"_blank\">'We just ran' - One killed, four injured in shooting near Washington DC gym</a>&nbsp",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PVDd3QzVnQkZHak1UcHpHNlNxSElVVDdkNzRPRWJmTWZKNzNLbHlRSjdLT2JqbUtHMld2a2RJTFlka3FyRmFacDFJbzBFRGUxYWR4dUwteXYwbFk?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,19 +78,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 17:01:44 GMT",
-          "source": "RB Leipzig"
+          "published": "Thu, 12 Nov 2026 19:24:33 GMT",
+          "source": "BBC"
         }
       ]
     },
     {
-      "id": "47351c78668e",
-      "title": "The surprisingly simple one-move workout CrossFit champion Mat Fraser uses more than any other - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDczdWQwOTU5WmtPdmE0TEEzbjhkbVI1NDNoak02QWlFRmJaUmZ3X3A2YTJnNkFvVkF6cjVXUTQtZ0Z2R211WndoQ3Q2M0FFZ3lvLUVFNTR5X05rYlJ5YW1Kdk8tY2Q1Wnc5QldKY0lKRHdCeWhhX0Q0N0N3SF9QN1BhSEhsdHJITUE2dGQ5TmlsSWhGbWZ6T0lnQzRWMUJ6Yko4ckZPYlA?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDczdWQwOTU5WmtPdmE0TEEzbjhkbVI1NDNoak02QWlFRmJaUmZ3X3A2YTJnNkFvVkF6cjVXUTQtZ0Z2R211WndoQ3Q2M0FFZ3lvLUVFNTR5X05rYlJ5YW1Kdk8tY2Q1Wnc5QldKY0lKRHdCeWhhX0Q0N0N3SF9QN1BhSEhsdHJITUE2dGQ5TmlsSWhGbWZ6T0lnQzRWMUJ6Yko4ckZPYlA?oc=5",
+      "id": "9e5d17d452eb",
+      "title": "Chris Hemsworth and Elsa Pataky reveal 7-hour gruelling family workout with kids - www.hellomagazine.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHczeGR2bkNZWWk4dUxhcEs1M2pKa0gtekJQUkNnZ2twVEdndUhNUExHU0VEMFJFUzRvVVN1V3lYYnRoYlRHYmN6VHV4RGYycVNhYWRLbTd1M3BOMTdBM2l5ZWhtcnRtMXhDM0hGaDNKUE12cVB4OUdWa0ItajhxdUN6dmdOLUlGZWl2NHhiZXFGbG1adDlzcjVzdktQbEtnTmxHY1Fxczk2bU",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHczeGR2bkNZWWk4dUxhcEs1M2pKa0gtekJQUkNnZ2twVEdndUhNUExHU0VEMFJFUzRvVVN1V3lYYnRoYlRHYmN6VHV4RGYycVNhYWRLbTd1M3BOMTdBM2l5ZWhtcnRtMXhDM0hGaDNKUE12cVB4OUdWa0ItajhxdUN6dmdOLUlGZWl2NHhiZXFGbG1adDlzcjVzdktQbEtnTmxHY1Fxczk2bUNCUjdreg?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,11 +98,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 13 Nov 2026 06:00:00 GMT",
-          "source": "The Independent"
+          "published": "Fri, 13 Nov 2026 16:04:25 GMT",
+          "source": "www.hellomagazine.com"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
           "published": "Fri, 13 Nov 2026 06:15:41 GMT",
@@ -127,10 +127,10 @@
       ]
     },
     {
-      "id": "12309003f3cb",
-      "title": "Why 'Easy Cardio Beats Weight Training' for Kick-Starting Weight Loss – 3 Ways to Make Walking Work for You - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnQzd1NvbTRVMFlnaWIwS2ltTU12MWt3ckJOM0JJb3duQTM3S0VqUjhlU1hPMmlYU1p5b3RQQ1JWbFRDSmtzcWRfT3RiZl83bWJHWC1UTDliWXZNZUdWOC1oQjVoS3VVMW43OTN1eG1mQjc2aDhCaExnTTgzUmxXQUt0NmVhOEVfX09YV05GblVNeVE1c2lXRWJFY0FIX1U?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnQzd1NvbTRVMFlnaWIwS2ltTU12MWt3ckJOM0JJb3duQTM3S0VqUjhlU1hPMmlYU1p5b3RQQ1JWbFRDSmtzcWRfT3RiZl83bWJHWC1UTDliWXZNZUdWOC1oQjVoS3VVMW43OTN1eG1mQjc2aDhCaExnTTgzUmxXQUt0NmVhOEVfX09YV05GblVNeVE1c2lXRWJFY0FIX1U?oc=5",
+      "id": "692b38de2b20",
+      "title": "Pontllanfraith gym lodges new plans for expansion - Caerphilly Observer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3RrQ056Z2Vzd2JKRWNMR3ExYjFyT1ZKSWJQaGQ4SGxVTExGNXpaQnRQUWp5RVh0S2o0dnlRbjd6c1ZpUmRtZWx2djJDWjE4LU02ZmswVjRuekVHZl9jQV9MYTNYbzJtMGJWeGtqRHRVZGh0TjdSUXlUcVlPVGVZVlZSWHZzNmQyVUpvVzB0S0p3UVB0dXc?oc=5\" target=\"_blank\">Pont",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3RrQ056Z2Vzd2JKRWNMR3ExYjFyT1ZKSWJQaGQ4SGxVTExGNXpaQnRQUWp5RVh0S2o0dnlRbjd6c1ZpUmRtZWx2djJDWjE4LU02ZmswVjRuekVHZl9jQV9MYTNYbzJtMGJWeGtqRHRVZGh0TjdSUXlUcVlPVGVZVlZSWHZzNmQyVUpvVzB0S0p3UVB0dXc?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,91 +138,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 13 Nov 2026 06:07:51 GMT",
-          "source": "Men's Health"
-        }
-      ]
-    },
-    {
-      "id": "8b3d378890d1",
-      "title": "15 festive ideas for fitness freaks — who love fuzzy slippers - Financial Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8tUkVTUUJ2ZlBXNEFuOTRXbHFTcm1ZTEtIZ2stdERDaUlVclJUc0tndHpiZnBRUEVRMnpwOFlsQy05T2ZJM3BpOHMwUjlQZjFjVHU4YU9jbmdOcmpWRWl5RmhPRHdhZXptb01tclQ3TmQ?oc=5\" target=\"_blank\">15 festive ideas for fitness freaks — who love fuzzy sli",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tUkVTUUJ2ZlBXNEFuOTRXbHFTcm1ZTEtIZ2stdERDaUlVclJUc0tndHpiZnBRUEVRMnpwOFlsQy05T2ZJM3BpOHMwUjlQZjFjVHU4YU9jbmdOcmpWRWl5RmhPRHdhZXptb01tclQ3TmQ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 12 Nov 2026 16:00:07 GMT",
-          "source": "Financial Times"
-        }
-      ]
-    },
-    {
-      "id": "9dcb912cc774",
-      "title": "How EastEnders icon Nina Wadia, 57, lost 2 stone 'gradually' by walking & moving daily: 'I like to be active' - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUEJmemNmOW5VNUVtRGY3bFgzaEY3R2x6ZEh0NVNpSlFzWFU4NVBlVnRKZXROVTJkVHRIOEp3elpkVHRtYmVONkdkU1NuUFNpSFpxWkJnVHRYZXZHTXhuSzBhcTJaYVlXQWFkNURVTVJZRXZZS2VJVTVydzFZbWl1cTVOVk10VXE4aGw3alBiQnR3bGFCSHBydw?oc=5\" target=\"_blank\">H",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUEJmemNmOW5VNUVtRGY3bFgzaEY3R2x6ZEh0NVNpSlFzWFU4NVBlVnRKZXROVTJkVHRIOEp3elpkVHRtYmVONkdkU1NuUFNpSFpxWkJnVHRYZXZHTXhuSzBhcTJaYVlXQWFkNURVTVJZRXZZS2VJVTVydzFZbWl1cTVOVk10VXE4aGw3alBiQnR3bGFCSHBydw?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 13 Nov 2026 06:06:17 GMT",
-          "source": "Women's Health"
-        }
-      ]
-    },
-    {
-      "id": "f2f9519f3555",
-      "title": "Your fitness may say less about cellular aging than you think - News-Medical",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnRiQmVlT1c1RFRJVE16UWdwOFNHZ0pLLXU0VGN4cFBpZW1NZXVLaTRpRFFPWWJxMTR2LWZjUTNjbTdFM3BjM1NLYkJ3OU92SUs3cHlBQjlueFdxcXQtbHJZZklCa0QtSzlrcF8yLXZFMzg5OVBoVW1RUDJtaU5sYVA3ekxWbzZTVTd1ODNoX3BVeVlOcEZfejloa1Awd3hId3JBN0c4NWVBT0",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnRiQmVlT1c1RFRJVE16UWdwOFNHZ0pLLXU0VGN4cFBpZW1NZXVLaTRpRFFPWWJxMTR2LWZjUTNjbTdFM3BjM1NLYkJ3OU92SUs3cHlBQjlueFdxcXQtbHJZZklCa0QtSzlrcF8yLXZFMzg5OVBoVW1RUDJtaU5sYVA3ekxWbzZTVTd1ODNoX3BVeVlOcEZfejloa1Awd3hId3JBN0c4NWVBT09rb1E?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 13 Nov 2026 02:42:00 GMT",
-          "source": "News-Medical"
-        }
-      ]
-    },
-    {
-      "id": "2cb369f48e62",
-      "title": "One killed and four injured in gym shooting rampage a mile from White House - London Evening Standard",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9NN3lpd0llRml1ZWhlX1hvNUdEbVg4aWpwM0w4MXVRdF8wWW96Ry1pOFNFSG5YSGYwa3hJamZxOVBHbDd4N1BDUHpNczNvNXhCM2ctREJhaVJoWGFlYnJzSHdma2FyVE5NbUduZzVjSDhIajdzVERPMVhWSTVrWEE?oc=5\" target=\"_blank\">One killed and four injured in gym s",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NN3lpd0llRml1ZWhlX1hvNUdEbVg4aWpwM0w4MXVRdF8wWW96Ry1pOFNFSG5YSGYwa3hJamZxOVBHbDd4N1BDUHpNczNvNXhCM2ctREJhaVJoWGFlYnJzSHdma2FyVE5NbUduZzVjSDhIajdzVERPMVhWSTVrWEE?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 13 Nov 2026 03:09:41 GMT",
-          "source": "London Evening Standard"
+          "published": "Fri, 13 Nov 2026 17:18:12 GMT",
+          "source": "Caerphilly Observer"
         }
       ]
     },
@@ -231,14 +151,14 @@
       "title": "Wiltshire woman began own fitness class after feeling like 'token disabled person' - BBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE03VUV0YXZLMVhMSVI0cWt3MGJfQzNIMDV5VGRTeG02Mmp5NHFIeVVzRi1pREwxZUNvUUJ6TmVxTUR6SU9kOUNzYjVJX3lRMWhySXZiTWV2UTlNM1E?oc=5\" target=\"_blank\">Wiltshire woman began own fitness class after feeling like 'token disabled person'</",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03VUV0YXZLMVhMSVI0cWt3MGJfQzNIMDV5VGRTeG02Mmp5NHFIeVVzRi1pREwxZUNvUUJ6TmVxTUR6SU9kOUNzYjVJX3lRMWhySXZiTWV2UTlNM1E?oc=5",
-      "score": 50.4,
+      "score": 64.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
           "published": "Tue, 10 Nov 2026 06:36:40 GMT",
@@ -247,162 +167,381 @@
       ]
     },
     {
-      "id": "46565e657b48",
-      "title": "Witness recalls Washington DC gym shooting - Sky News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXc1dG02STJ6Tl83bVR4SUxXRUhnSHdrSWJkSFFrU1FOREhXX25LS29FTUJDSktCbFg3WDBBQ19KOGQ2ZkRMYm93NF9DdVlXVDl5YV9rbTJ0VE52S0lseWN4QUN2YjhLTXlZWklYQXA2aGRYbldiVWs1b2M3T3Y1NW1nak8?oc=5\" target=\"_blank\">Witness recalls Washington D",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXc1dG02STJ6Tl83bVR4SUxXRUhnSHdrSWJkSFFrU1FOREhXX25LS29FTUJDSktCbFg3WDBBQ19KOGQ2ZkRMYm93NF9DdVlXVDl5YV9rbTJ0VE52S0lseWN4QUN2YjhLTXlZWklYQXA2aGRYbldiVWs1b2M3T3Y1NW1nak8?oc=5",
-      "score": 46.8,
+      "id": "936062e8de28",
+      "title": "Best Home Ab Workout // Just 10 Min // 6 PACK GUARANTEED!",
+      "summary": "If you are looking for the best home ab workout you can do without any equipment, this 10 minute follow along routine is a great place to start. In this video, I’m going to take you through seven bodyweight ab exercises that you can do in the comfort of your own home, whether you",
+      "url": "https://www.youtube.com/watch?v=v34abuQ-iF8",
+      "score": 61.599999999999994,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:49+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 15:23:22 GMT",
-          "source": "Sky News"
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "v34abuQ-iF8",
+          "published": "2026-11-12T18:53:59+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "d8eb99ec125c",
-      "title": "Emergency doctor was gunman reportedly behind DC gym shooting - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmc4X0dSQU9jd3ZmWGswc3JRZHU3dWhZM0pmZDBYNTk0dWpSQmQwQzJuTTFuN1VzY3hHa21wakhybHItRXZBOUE0M3ZKYmIwZ1ZzLUgzNlAwMTdwTlpHa0FDN1JWSk5UUVhsRFg2NExzNGpGd1g4czhLcmUyYUp2eE9TOVU2VGZFek8yNElCb2xadw?oc=5\" target=\"_blank\">Emergency",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmc4X0dSQU9jd3ZmWGswc3JRZHU3dWhZM0pmZDBYNTk0dWpSQmQwQzJuTTFuN1VzY3hHa21wakhybHItRXZBOUE0M3ZKYmIwZ1ZzLUgzNlAwMTdwTlpHa0FDN1JWSk5UUVhsRFg2NExzNGpGd1g4czhLcmUyYUp2eE9TOVU2VGZFek8yNElCb2xadw?oc=5",
-      "score": 43.2,
+      "id": "4b23d481e1d7",
+      "title": "I lost it all...",
+      "summary": "🏆 GET MY FREE PROGRAM NOW:  https://muscularstrength.com/guaranteed_gains_sign_up_FREE \n\n📨 Join My MAILING LIST: https://muscularstrength.com/mailing-list\n\n💪🏻 CHECK OUT MY HOME & GYM WORKOUT PROGRAMS: https://muscularstrength.com/program-selector \n\n💯🏋️ONLINE COACHING: https://mus",
+      "url": "https://www.youtube.com/shorts/98_WHn82a48",
+      "score": 61.599999999999994,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:50+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 21:36:00 GMT",
-          "source": "The Independent"
+          "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
+          "channel_title": "ScottHermanFitness",
+          "video_id": "98_WHn82a48",
+          "published": "2026-11-08T16:31:22+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "9b4ff840ad20",
-      "title": "'More weights than ever': Mel B's midlife fitness shift – and 4 types of movement she relies on at 51 - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEdwbkFFUUtxZmk0Q3k0OTBaQjZKMktZS1RvNmM3QVphUV81TTg3V3hnWERSSHJTRTdoeXJSWmRhdF9KYnc2U1lwR1ZRWkxYZG5BV2JLdmlzZVpBU251alpJaDBOZndwT21tSWZxU0VGTnFXQmo5WG1yUHhXN3NuN3NFUFExSU9ISkFfZQ?oc=5\" target=\"_blank\">'More weights tha",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEdwbkFFUUtxZmk0Q3k0OTBaQjZKMktZS1RvNmM3QVphUV81TTg3V3hnWERSSHJTRTdoeXJSWmRhdF9KYnc2U1lwR1ZRWkxYZG5BV2JLdmlzZVpBU251alpJaDBOZndwT21tSWZxU0VGTnFXQmo5WG1yUHhXN3NuN3NFUFExSU9ISkFfZQ?oc=5",
-      "score": 39.6,
+      "id": "59314a5ad523",
+      "title": "Exercise Scientist Examines Gen Z’s Steroid Epidemic: How Bad Is It?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hype\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isra",
+      "url": "https://www.youtube.com/watch?v=mKD7pPfj-5Q",
+      "score": 61.599999999999994,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:51+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 13:01:31 GMT",
-          "source": "Women's Health"
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "mKD7pPfj-5Q",
+          "published": "2026-11-13T17:00:44+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "85d8963849cf",
-      "title": "Explorer Ash Dykes Builds Real-World Strength with 3 Bodyweight Movements – His 15-Minute 'Famous 10' Workout - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNakxHam1LcnNjb084aGRVaDZpN0Fxb2dFMVBnSDNHU1haTERSUGtVc3dpdlFnWWtWRDFucks4cTBJUDlwR2tzVDMzaG1LcUNEQkpaOU81VmtYLVNscDNuSlRWdzJGT1lDWWJqTmEtY3VqMlZFOHItcVpoV3BfSGhHQTNuRQ?oc=5\" target=\"_blank\">Explorer Ash Dykes Builds Rea",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakxHam1LcnNjb084aGRVaDZpN0Fxb2dFMVBnSDNHU1haTERSUGtVc3dpdlFnWWtWRDFucks4cTBJUDlwR2tzVDMzaG1LcUNEQkpaOU81VmtYLVNscDNuSlRWdzJGT1lDWWJqTmEtY3VqMlZFOHItcVpoV3BfSGhHQTNuRQ?oc=5",
-      "score": 36.0,
+      "id": "12309003f3cb",
+      "title": "Why 'Easy Cardio Beats Weight Training' for Kick-Starting Weight Loss – 3 Ways to Make Walking Work for You - Men's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnQzd1NvbTRVMFlnaWIwS2ltTU12MWt3ckJOM0JJb3duQTM3S0VqUjhlU1hPMmlYU1p5b3RQQ1JWbFRDSmtzcWRfT3RiZl83bWJHWC1UTDliWXZNZUdWOC1oQjVoS3VVMW43OTN1eG1mQjc2aDhCaExnTTgzUmxXQUt0NmVhOEVfX09YV05GblVNeVE1c2lXRWJFY0FIX1U?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnQzd1NvbTRVMFlnaWIwS2ltTU12MWt3ckJOM0JJb3duQTM3S0VqUjhlU1hPMmlYU1p5b3RQQ1JWbFRDSmtzcWRfT3RiZl83bWJHWC1UTDliWXZNZUdWOC1oQjVoS3VVMW43OTN1eG1mQjc2aDhCaExnTTgzUmxXQUt0NmVhOEVfX09YV05GblVNeVE1c2lXRWJFY0FIX1U?oc=5",
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 11 Nov 2026 15:49:01 GMT",
+          "published": "Fri, 13 Nov 2026 06:12:46 GMT",
           "source": "Men's Health"
         }
       ]
     },
     {
-      "id": "ea418b9dc3c2",
-      "title": "Fred Sirieix, 54, Walks 10K Steps a Day for 100 Days – His 20-Minute Rule Makes Any Walk a Full-Body Workout - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWU4UlRxSXQ2VS1nekttNUM3THV2OHBiMWJycjdEc1ZVYVNXRmJReGJrUWV5ZVhzRDNTNVhiMkhOOFNvWUlpMkZhWDFrellxNE85R3ZnaWxENmdqWHBlOV9yUWxRZjFZeHZfSV92TDljeEdRZUJDeEt2clRmUk9pSjFSM3ltbE1BeE5kbXJiTUJrVFltVGtfYXMyYw?oc=5\" target=\"_blan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWU4UlRxSXQ2VS1nekttNUM3THV2OHBiMWJycjdEc1ZVYVNXRmJReGJrUWV5ZVhzRDNTNVhiMkhOOFNvWUlpMkZhWDFrellxNE85R3ZnaWxENmdqWHBlOV9yUWxRZjFZeHZfSV92TDljeEdRZUJDeEt2clRmUk9pSjFSM3ltbE1BeE5kbXJiTUJrVFltVGtfYXMyYw?oc=5",
-      "score": 32.4,
+      "id": "c8d7510c341d",
+      "title": "The ONLY 2 DB Biceps Exercises You Need (NO, SERIOUSLY!)",
+      "summary": "Get big biceps here - https://athleanx.com\nSubscribe to the ATHLEAN-X channel here - http://bit.ly/2b0coMW\n\nWhat if I told you that here were only 2 dumbbell biceps exercises you need to grow bigger biceps, would you believe me? In this video, I am going to show you how only two ",
+      "url": "https://www.youtube.com/watch?v=hzoaClKPAUs",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:49+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "hzoaClKPAUs",
+          "published": "2026-11-09T18:20:12+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "eef2eba304e3",
+      "title": "Eric English: PEDs & Peptides (A lot Worse Than I Thought)",
+      "summary": "🏆 GET MY FREE PROGRAM NOW:  https://muscularstrength.com/guaranteed_gains_sign_up_FREE \n\n📨 Join My MAILING LIST: https://muscularstrength.com/mailing-list\n\n💪🏻 CHECK OUT MY HOME & GYM WORKOUT PROGRAMS: https://muscularstrength.com/program-selector \n\n💯🏋️ONLINE COACHING: https://mus",
+      "url": "https://www.youtube.com/watch?v=PHJDF52lkps",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:50+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
+          "channel_title": "ScottHermanFitness",
+          "video_id": "PHJDF52lkps",
+          "published": "2026-11-05T19:57:49+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "e04c54e45bfc",
+      "title": "Dr. Mike Believes Larry's Gear Usage",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/ZYc3AeB15uw",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:51+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "ZYc3AeB15uw",
+          "published": "2026-11-13T14:00:05+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "e4e7e83b77ad",
+      "title": "Balancing recovery and match fitness - RB Leipzig",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRV9zeGZNaE9rMko2TWdFY0xDcEVXU1NkN21pSk9sZkdoamVrZkFISlRnUEZNN2FiSldIazRSRUtNbXNlWmdNVWxtMWlaMC1yUTdmWGJ2eEI1OEtYdWFfdXBzQUhFZ0F2ckVra1lRWHlxU0JJYWZCZWtCMDNNTExIZzJOdU1fNnBTWEE?oc=5\" target=\"_blank\">Balancing recovery a",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRV9zeGZNaE9rMko2TWdFY0xDcEVXU1NkN21pSk9sZkdoamVrZkFISlRnUEZNN2FiSldIazRSRUtNbXNlWmdNVWxtMWlaMC1yUTdmWGJ2eEI1OEtYdWFfdXBzQUhFZ0F2ckVra1lRWHlxU0JJYWZCZWtCMDNNTExIZzJOdU1fNnBTWEE?oc=5",
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 16:47:34 GMT",
-          "source": "Men's Health"
+          "published": "Thu, 12 Nov 2026 17:01:44 GMT",
+          "source": "RB Leipzig"
         }
       ]
     },
     {
-      "id": "e9a2c3d1428d",
-      "title": "Oprah Winfrey, 72, builds lifelong strength with weighted walking – her simple routine and why it’s effective - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnY4YTBJa0lmbDhmQUNCSktTQzZISjczOVVUV0RPZjNYbmo2VUI2UzJ5TjhwWnR1YndZUFd4NG9qek54MTYxbjBFQUJhYnUzTFh2M0RIMU5SeXdYa3A3NTF2ZmpEWDZRZEZqdW9UUjcwV0JxNnpybHQtQjhUVVpSal85cjlJanQ3X0xzaw?oc=5\" target=\"_blank\">Oprah Winfrey, 72",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnY4YTBJa0lmbDhmQUNCSktTQzZISjczOVVUV0RPZjNYbmo2VUI2UzJ5TjhwWnR1YndZUFd4NG9qek54MTYxbjBFQUJhYnUzTFh2M0RIMU5SeXdYa3A3NTF2ZmpEWDZRZEZqdW9UUjcwV0JxNnpybHQtQjhUVVpSal85cjlJanQ3X0xzaw?oc=5",
-      "score": 28.8,
+      "id": "06159faa689f",
+      "title": "Give Me 2 Dumbbells... I'll Build You a BIGGER Chest",
+      "summary": "Build a Big Chest Here - https://athleanx.com\nSubscribe to This Channel Here - http://bit.ly/2b0coMW\n\nIf you want to learn how to build a big chest with dumbbells only, then you’ve come to the right video. I’m going to show you how to build your upper chest, develop your lower pe",
+      "url": "https://www.youtube.com/watch?v=GOxz6bLRMsk",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:49+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "GOxz6bLRMsk",
+          "published": "2026-11-05T17:53:35+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "5049808f0a6a",
+      "title": "Trainers LOVE confusing you for views (Tired Of It Yet?)",
+      "summary": "🏆 GET MY FREE PROGRAM NOW:  https://muscularstrength.com/guaranteed_gains_sign_up_FREE \n\n📨 Join My MAILING LIST: https://muscularstrength.com/mailing-list\n\n💪🏻 CHECK OUT MY HOME & GYM WORKOUT PROGRAMS: https://muscularstrength.com/program-selector \n\n💯🏋️ONLINE COACHING: https://mus",
+      "url": "https://www.youtube.com/shorts/WWdApj3WDcw",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:50+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
+          "channel_title": "ScottHermanFitness",
+          "video_id": "WWdApj3WDcw",
+          "published": "2026-11-03T14:46:43+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "32520df2e7d6",
+      "title": "Should Women Really Train Differently?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/51holPmSuyI",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:51+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "51holPmSuyI",
+          "published": "2026-11-12T20:00:07+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "5831bdb4f29d",
+      "title": "It's Weird, But it Drops Body Fat Faster Than Dieting!",
+      "summary": "Want to lose weight without counting calories, tracking macros, or weighing every bite of food? You can. In this video, I’m showing you a simple, visual way to eat for fat loss using the food already on your plate. No calorie-counting app, complicated diet rules, or endless food ",
+      "url": "https://www.youtube.com/watch?v=hRg-HRt0flU",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:49+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "hRg-HRt0flU",
+          "published": "2026-11-01T18:04:12+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "644e05cf7b3b",
+      "title": "I haven't trained for 2 months... (and got sick)",
+      "summary": "🏆 GET MY FREE PROGRAM NOW:  https://muscularstrength.com/guaranteed_gains_sign_up_FREE \n\n📨 Join My MAILING LIST: https://muscularstrength.com/mailing-list\n\n💪🏻 CHECK OUT MY HOME & GYM WORKOUT PROGRAMS: https://muscularstrength.com/program-selector \n\n💯🏋️ONLINE COACHING: https://mus",
+      "url": "https://www.youtube.com/shorts/2xOJC152nAQ",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:50+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
+          "channel_title": "ScottHermanFitness",
+          "video_id": "2xOJC152nAQ",
+          "published": "2026-10-31T14:43:07+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "2e0e436bff3e",
+      "title": "Are You Doing TOO MANY Sets?",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/6anrlwwZQ98",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:51+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "6anrlwwZQ98",
+          "published": "2026-11-12T14:00:20+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "225dfc62caaa",
+      "title": "A fitness expert says this overlooked exercise could help protect your bones as you get older, and it's so simple you can do it while making your morning cup of tea - T3",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5zRG94VFpvRjJ0OWVCbmEtN1V2V2tqSGdPUTJndjNsaW40WkZUYjIxaTVxR3BfZ3FtWWk0d2pURE9zcGlpUVdadkhPQTBXVHE2bk96Zm5tc1VUYjhHX2dqeEh3cFJ3X2NUSEpBcndncFhIUQ?oc=5\" target=\"_blank\">A fitness expert says this overlooked exercise could ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zRG94VFpvRjJ0OWVCbmEtN1V2V2tqSGdPUTJndjNsaW40WkZUYjIxaTVxR3BfZ3FtWWk0d2pURE9zcGlpUVdadkhPQTBXVHE2bk96Zm5tc1VUYjhHX2dqeEh3cFJ3X2NUSEpBcndncFhIUQ?oc=5",
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 19:38:08 GMT",
-          "source": "Women's Health"
+          "published": "Fri, 13 Nov 2026 11:30:00 GMT",
+          "source": "T3"
         }
       ]
     },
     {
-      "id": "e08fff2134a7",
-      "title": "The Best Fitness Gifts for People Who Say “Rest Day” Like It’s a Swear Word - Outside Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBheFJ1bl90OVFnLTExN0IzUDIxdVNPbWswZnU0WHVOajlMYXNVVGlydldLeFNTakFwTy1pSFpZLXc3Vm5BcVNjbXFZZjBoOVkwQnVrM0lUSWszZFpoQWZNQ2lFYm9kYm54ZV9KQl9UeGgwZXpoNU1LM3BLYw?oc=5\" target=\"_blank\">The Best Fitness Gifts for People Who Say",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBheFJ1bl90OVFnLTExN0IzUDIxdVNPbWswZnU0WHVOajlMYXNVVGlydldLeFNTakFwTy1pSFpZLXc3Vm5BcVNjbXFZZjBoOVkwQnVrM0lUSWszZFpoQWZNQ2lFYm9kYm54ZV9KQl9UeGgwZXpoNU1LM3BLYw?oc=5",
-      "score": 25.2,
+      "id": "9dad993cb795",
+      "title": "Exercise Scientist Debunks Lifting Myths",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/yLxMc0nTce4",
+      "score": 52.35999999999999,
       "sources": [
-        "google_news"
+        "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
-      "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "region": "global",
+      "first_seen": "2026-11-13T19:36:51+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 14:24:40 GMT",
-          "source": "Outside Magazine"
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "yLxMc0nTce4",
+          "published": "2026-11-11T20:00:05+00:00"
         }
-      ]
+      ],
+      "is_global": true
     },
     {
-      "id": "6d47887be620",
-      "title": "One dead and four injured after shooting at gay-owned gym in Washington DC - attitude.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2pSLW5LcTYybi1lSV9lUW1jR19XUEVUazdCVHN0UUItT19WYXJoYlItd2VLR3JpazdhU2lZRkZTNHRpdnFMUEhLaHBtWV9xczRwNXFEZjRfM0FKWUlwbDFxNlJRdmswaXVLM0hvVnRCYWNVTThkRVhpQ1BDLV9pZjVGdmVSMmVleUE?oc=5\" target=\"_blank\">One dead and four in",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2pSLW5LcTYybi1lSV9lUW1jR19XUEVUazdCVHN0UUItT19WYXJoYlItd2VLR3JpazdhU2lZRkZTNHRpdnFMUEhLaHBtWV9xczRwNXFEZjRfM0FKWUlwbDFxNlJRdmswaXVLM0hvVnRCYWNVTThkRVhpQ1BDLV9pZjVGdmVSMmVleUE?oc=5",
-      "score": 21.6,
+      "id": "f83cb37d61de",
+      "title": "Aryna Sabalenka shows off curves in figure-hugging workout attire as smitten fans say 'obsessed with you' - The Sun",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQenc5bkZlenZUaVR5bGI2NXpkMjBaMlMzaUIzWlduazV0ZDFOaF9URERsOHR2UnFscS1VckNGd3ZiREhQOG4zcTlEdUNpaDI3bE94Rm1vTFZBZldSaVlhWHRydm5ESUZSR0hfSl9KRGw5NTBRcG9pZDBObVNmZ2pWSmFFZ3ZQNUtFSHo4U25DYVhrei0tX1dpXzVTUQ?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQenc5bkZlenZUaVR5bGI2NXpkMjBaMlMzaUIzWlduazV0ZDFOaF9URERsOHR2UnFscS1VckNGd3ZiREhQOG4zcTlEdUNpaDI3bE94Rm1vTFZBZldSaVlhWHRydm5ESUZSR0hfSl9KRGw5NTBRcG9pZDBObVNmZ2pWSmFFZ3ZQNUtFSHo4U25DYVhrei0tX1dpXzVTUQ?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "UK",
-      "first_seen": "2026-11-13T06:28:30+00:00",
+      "first_seen": "2026-11-13T19:34:29+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 16:16:46 GMT",
-          "source": "attitude.co.uk"
+          "published": "Fri, 13 Nov 2026 16:23:00 GMT",
+          "source": "The Sun"
         }
       ]
     }
