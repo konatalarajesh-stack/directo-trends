@@ -2,30 +2,46 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "AU",
-  "generated_at": "2026-11-15T06:23:52+00:00",
+  "generated_at": "2026-11-15T18:54:51+00:00",
   "cache_ttl_hours": 6,
-  "count": 17,
+  "count": 25,
   "trends": [
     {
-      "id": "34659ce74fb5",
-      "title": "Nov. 25 Will Be a Critical Day for the Stock Market - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmZBRDFGMC1LS1dtTVZOU0ZsRUhpWHliUURJZmlqZkFPWENrdUJJbXpBeUM1Q0RISFZtMGRsQ0hjXy1IZEc3cndaVHNGdnc3dUhzSGxtbGFwN0lqUVFXa0Z5U3hCdkgwa2Jrd3h4VFFZbEppQk1yQjRwQ25pNXFYNnlrc0FSdFM2SFJKdjlXSDExaFRa?oc=5\" target=\"_blank\">Nov. 25",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmZBRDFGMC1LS1dtTVZOU0ZsRUhpWHliUURJZmlqZkFPWENrdUJJbXpBeUM1Q0RISFZtMGRsQ0hjXy1IZEc3cndaVHNGdnc3dUhzSGxtbGFwN0lqUVFXa0Z5U3hCdkgwa2Jrd3h4VFFZbEppQk1yQjRwQ25pNXFYNnlrc0FSdFM2SFJKdjlXSDExaFRa?oc=5",
-      "score": 88.2,
+      "id": "d6158a24ca78",
+      "title": "What might come first: a stock market crash or boom? - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHAwekVlNkp6SklQTmx2UkpLaloybWRTaHpueUl2VldnWWFiZ1MwcElfSVlxRXl4M3lSWFJjQVpSemVYR3VoRWdQd3dnYlZoRGhRY0FSZkExcjFGd0ZIUWRoYTVXNzJpNmVFU0JfTVNMb1FLYlRmLUxadTAwTVBVbGZMWU0?oc=5\" target=\"_blank\">What might come first: a sto",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHAwekVlNkp6SklQTmx2UkpLaloybWRTaHpueUl2VldnWWFiZ1MwcElfSVlxRXl4M3lSWFJjQVpSemVYR3VoRWdQd3dnYlZoRGhRY0FSZkExcjFGd0ZIUWRoYTVXNzJpNmVFU0JfTVNMb1FLYlRmLUxadTAwTVBVbGZMWU0?oc=5",
+      "score": 90.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
+      "first_seen": "2026-11-15T18:45:49+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 15 Nov 2026 03:20:00 GMT",
-          "source": "Yahoo Finance"
-        },
+          "published": "Sun, 15 Nov 2026 08:32:27 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "78bd5c6336a0",
+      "title": "The Stock Market's Election Day Rally Just Taught Investors a Crucial Lesson - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUJBV0thU1hNWF95QndMaVVSV1JLbTUwVkpVeDdIZi1KcTlrMEVjWWE2c3VuR08weS1hYjJONmtYV2hsamNaVmlib3VwRGZQNVVDRWluR3ZHYjZ2bnBRREE5a3VpTU4zX0hMUWdxOWpEYmZSaDJYaENXMkFvYkszLWdUSXh3UlJHNUo4ZXZpTmM4bWItbUhQZw?oc=5\" target=\"_blank\">T",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUJBV0thU1hNWF95QndMaVVSV1JLbTUwVkpVeDdIZi1KcTlrMEVjWWE2c3VuR08weS1hYjJONmtYV2hsamNaVmlib3VwRGZQNVVDRWluR3ZHYjZ2bnBRREE5a3VpTU4zX0hMUWdxOWpEYmZSaDJYaENXMkFvYkszLWdUSXh3UlJHNUo4ZXZpTmM4bWItbUhQZw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-15T18:45:49+00:00",
+      "raw_samples": [
         {
-          "published": "Sun, 15 Nov 2026 03:00:00 GMT",
+          "published": "Sun, 15 Nov 2026 12:15:00 GMT",
           "source": "The Motley Fool"
         }
       ]
@@ -42,7 +58,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
+      "first_seen": "2026-11-15T18:45:49+00:00",
       "raw_samples": [
         {
           "published": "Mon, 12 Oct 2026 07:00:00 GMT",
@@ -51,10 +67,10 @@
       ]
     },
     {
-      "id": "868ea17c19ea",
-      "title": "Record Highs, a 57-Year Low in Jobless Claims, and a Stock Market Bubble: Inside the Weirdest Market in History - Briefs Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9nUG42Vm9BQVh2Z2ZCUC0tWExMZU9GOWJlSVpVaTVBeWxUVE5zNFFhaXctUzRmWjBpaVFva3ppY1ZMQWw5Mkh0MlNEOHRwTFhxamlVNUthZUFqVW92bGZyUnhkYXo3TUtidEE?oc=5\" target=\"_blank\">Record Highs, a 57-Year Low in Jobless Claims, and a Stock Marke",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nUG42Vm9BQVh2Z2ZCUC0tWExMZU9GOWJlSVpVaTVBeWxUVE5zNFFhaXctUzRmWjBpaVFva3ppY1ZMQWw5Mkh0MlNEOHRwTFhxamlVNUthZUFqVW92bGZyUnhkYXo3TUtidEE?oc=5",
+      "id": "e0b19fdbd98d",
+      "title": "This week on the stock market: the Anthropic IPO and Nvidia’s earnings - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUVHbXhqTmZkX2RjWTI4amZVbUVDcWo5R2x1cTdtb3JGbWMyWFUwU2NVSW1KQ0VHWF9kUGZLQm9yVFBVTnMwaTRvalVqQ1pyQW9iTTYwRzlsNDdreUpsNEpFcmdPLTM5bHpHbEVHZzAxZ21jQTZIcW5hRkc1UUJTOTJzMnBPNzA?oc=5\" target=\"_blank\">This week on the stock m",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUVHbXhqTmZkX2RjWTI4amZVbUVDcWo5R2x1cTdtb3JGbWMyWFUwU2NVSW1KQ0VHWF9kUGZLQm9yVFBVTnMwaTRvalVqQ1pyQW9iTTYwRzlsNDdreUpsNEpFcmdPLTM5bHpHbEVHZzAxZ21jQTZIcW5hRkc1UUJTOTJzMnBPNzA?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -62,7 +78,47 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
+      "first_seen": "2026-11-15T18:45:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 15 Nov 2026 14:33:00 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "68a55df8a095",
+      "title": "The Stock Market Is Doing Something for Only the 6th Time in 156 Years, and History Says It's Clear What Comes Next for Stocks - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDk0M3pBZFVxN2dFRjVfakVoM3FOeXI2YXY0ODFqbmtkbXZGdVEyaEs5dV8xWnhNd1V0WWZpOG5rc054aFZOR2RNUXpIVV9aUGprbzBjSUNuQXNpdzBtQlFJd2RGZDFUcDNrc3llMkVpcFl4Q1lTbFQ3YzJBbUN2dmFaWTJheVpha0pDcXRQaTJIb0oyZHQ0Z0pzZEdZemg1ME01dVd0TzY3SG",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDk0M3pBZFVxN2dFRjVfakVoM3FOeXI2YXY0ODFqbmtkbXZGdVEyaEs5dV8xWnhNd1V0WWZpOG5rc054aFZOR2RNUXpIVV9aUGprbzBjSUNuQXNpdzBtQlFJd2RGZDFUcDNrc3llMkVpcFl4Q1lTbFQ3YzJBbUN2dmFaWTJheVpha0pDcXRQaTJIb0oyZHQ0Z0pzZEdZemg1ME01dVd0TzY3SGlxTER6MnRNVFpSZ1R2M3NKT2h6TGJIM3BGYk5kTzBCYU5kWEtSUk1DeQ?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-15T18:45:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 15 Nov 2026 11:36:00 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "868ea17c19ea",
+      "title": "Record Highs, a 57-Year Low in Jobless Claims, and a Stock Market Bubble: Inside the Weirdest Market in History - Briefs Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9nUG42Vm9BQVh2Z2ZCUC0tWExMZU9GOWJlSVpVaTVBeWxUVE5zNFFhaXctUzRmWjBpaVFva3ppY1ZMQWw5Mkh0MlNEOHRwTFhxamlVNUthZUFqVW92bGZyUnhkYXo3TUtidEE?oc=5\" target=\"_blank\">Record Highs, a 57-Year Low in Jobless Claims, and a Stock Marke",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nUG42Vm9BQVh2Z2ZCUC0tWExMZU9GOWJlSVpVaTVBeWxUVE5zNFFhaXctUzRmWjBpaVFva3ppY1ZMQWw5Mkh0MlNEOHRwTFhxamlVNUthZUFqVW92bGZyUnhkYXo3TUtidEE?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-15T18:45:49+00:00",
       "raw_samples": [
         {
           "published": "Sat, 14 Nov 2026 14:57:55 GMT",
@@ -71,50 +127,10 @@
       ]
     },
     {
-      "id": "ae5b77c0787c",
-      "title": "Personal Finance: Jobs report confirms stable labor market - Chattanooga Times Free Press",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQXzRyRkJkd2VldGNnbmdxYzFWejRKejBtZnh4ajlzRDVpc3M5RlAzSnZWMXI2SXpnVVU5YXUtS3NPaldkeHV6VFZaX2pCYmxELUtVQndVQU84b01oY1p0RTlpOFBObnFQdEVlOWI5TkpzRG9hOXZQQjJlOEo5UHRqSExvekVpZjN4TnFyYnVNNHdabW8?oc=5\" target=\"_blank\">Personal",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQXzRyRkJkd2VldGNnbmdxYzFWejRKejBtZnh4ajlzRDVpc3M5RlAzSnZWMXI2SXpnVVU5YXUtS3NPaldkeHV6VFZaX2pCYmxELUtVQndVQU84b01oY1p0RTlpOFBObnFQdEVlOWI5TkpzRG9hOXZQQjJlOEo5UHRqSExvekVpZjN4TnFyYnVNNHdabW8?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 14 Nov 2026 17:00:00 GMT",
-          "source": "Chattanooga Times Free Press"
-        }
-      ]
-    },
-    {
-      "id": "65a5eda831a7",
-      "title": "Is CoreWeave Stock a Buy After Its Latest Earnings? - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1dYWW9iT2Y3amZ6S0VnVFdzcGFzcFB3QzJLN2pKdkpsT1duZDJwa3UzVWxyUnVNaFZxcEt5S3pUeFJRamJDeFNScDVOdG5iejhScS1sUnQ5N2NhclIzbG9FbC1yQ1hvbVEyVGd3OGQ3RFlsQ2ZmLXYyUmFtRDRpTmxzclYtVmh5YlBEZTFZUUpyQm9GdlBNRw?oc=5\" target=\"_blank\">I",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1dYWW9iT2Y3amZ6S0VnVFdzcGFzcFB3QzJLN2pKdkpsT1duZDJwa3UzVWxyUnVNaFZxcEt5S3pUeFJRamJDeFNScDVOdG5iejhScS1sUnQ5N2NhclIzbG9FbC1yQ1hvbVEyVGd3OGQ3RFlsQ2ZmLXYyUmFtRDRpTmxzclYtVmh5YlBEZTFZUUpyQm9GdlBNRw?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 14 Nov 2026 20:47:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "46d3ecea8307",
-      "title": "The bull market in stocks is being put to the test. 2027 may not be any easier. - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGw0NGRFeU56OXRVV2hGcHVESVlnX0d4NWQzVkM0LTJaZDVscVBDaEdJY3VqQTJMRWxsenFzY3VxSGR6R2QzVENNUFdoMXMyNEt4eWI0bFpOaWhXN2luNF8wRFA3MmxJeUduTjhOdURWcEdfS0E1ZDJFR0MzOWtKLTVLQjB0N0RjTWRxVlRIeWhhSG9xQVFVYmNvaE9hRE5YMl84QTRYcHNRdU",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGw0NGRFeU56OXRVV2hGcHVESVlnX0d4NWQzVkM0LTJaZDVscVBDaEdJY3VqQTJMRWxsenFzY3VxSGR6R2QzVENNUFdoMXMyNEt4eWI0bFpOaWhXN2luNF8wRFA3MmxJeUduTjhOdURWcEdfS0E1ZDJFR0MzOWtKLTVLQjB0N0RjTWRxVlRIeWhhSG9xQVFVYmNvaE9hRE5YMl84QTRYcHNRdUUxc3B4eWNveWU5OFNjMWV0VEd1WGt0LTZWQkk0X3NlRFJLbFk?oc=5",
+      "id": "5c27a5ba69a0",
+      "title": "The investing mistake millions of investors still make - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5\" target=\"_blank\">The investing",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -122,27 +138,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 13 Nov 2026 13:47:13 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "5c27a5ba69a0",
-      "title": "The investing mistake millions of investors still make - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5\" target=\"_blank\">The investing",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
+      "first_seen": "2026-11-15T18:45:49+00:00",
       "raw_samples": [
         {
           "published": "Wed, 09 Sep 2026 07:00:00 GMT",
@@ -151,10 +147,76 @@
       ]
     },
     {
-      "id": "f17f282478ab",
-      "title": "Should You Invest in the Stock Market Now or Wait for a Pullback? History Offers a Clear Answer. - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNMFEySUV5bUJsNC0tNGFkZU5WcXVEeldOYnlZWm1zQjZ5eWQ2elBOdUZnODFUSUF5aUZDRkdZdS1UWVV2b1hxTzNKQTF3aGdzcXdGNGtjcWtWdXkxWkJWTU82RUZmNXU3aGFyeVo2Unk2emZaWHJkY0VGRDRudDhGOURpSC1fT0FRVjBacXdVV0dRU01sYlE?oc=5\" target=\"_blank\">Shou",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMFEySUV5bUJsNC0tNGFkZU5WcXVEeldOYnlZWm1zQjZ5eWQ2elBOdUZnODFUSUF5aUZDRkdZdS1UWVV2b1hxTzNKQTF3aGdzcXdGNGtjcWtWdXkxWkJWTU82RUZmNXU3aGFyeVo2Unk2emZaWHJkY0VGRDRudDhGOURpSC1fT0FRVjBacXdVV0dRU01sYlE?oc=5",
+      "id": "d13808ec2338",
+      "title": "Where are the opportunities in the UK stock market? - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm11aHZKVWQtM1d2Y2NUcEladklaREctQ1hXcG5PNTBWQjVNRzJsc1VoOHhRQjFnLTdUeDRBTGd6NHNrTjBmYWtOTHVVelduRnBCbmE4WkJWNHdJZTZIZWFGQkxORDE1MFdTSWp0OGUwendaZE1ucDZXOVRfdmNTMkwwTmV1aDN0aEpoRA?oc=5\" target=\"_blank\">Where are the opp",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm11aHZKVWQtM1d2Y2NUcEladklaREctQ1hXcG5PNTBWQjVNRzJsc1VoOHhRQjFnLTdUeDRBTGd6NHNrTjBmYWtOTHVVelduRnBCbmE4WkJWNHdJZTZIZWFGQkxORDE1MFdTSWp0OGUwendaZE1ucDZXOVRfdmNTMkwwTmV1aDN0aEpoRA?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-15T18:45:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 15 Nov 2026 17:06:00 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
+    },
+    {
+      "id": "39b2969343d6",
+      "title": "NBA Player On Flying Private...",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/LindcarFLOo",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-15T18:48:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "LindcarFLOo",
+          "published": "2026-11-12T23:00:01+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "defe3345875a",
+      "title": "Canada Just Made Some Big Tax Changes",
+      "summary": "Budget 2026: https://budget.canada.ca/2026/report-rapport/pdf/budget-2026.pdf\nBudget Highlights: https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html\n\n00:00 - Introduction \n01:57 - Budget Overview\n02:53 - Industry Investments\n03:57 - Mega Deducti",
+      "url": "https://www.youtube.com/watch?v=V6Vm1LU0kbQ",
+      "score": 61.599999999999994,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-15T18:48:07+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+          "channel_title": "The Plain Bagel",
+          "video_id": "V6Vm1LU0kbQ",
+          "published": "2026-11-13T17:00:14+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "0e4cf287a78c",
+      "title": "Nvidia's Troubles Are a Stark Reminder of This Investing Lesson - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOODdHYXM1c0MzeTlFX1ZINExDMjNIb25nNXdkWkMyckFITjA1cE1RX2MzSXMwZE8tUlZ2dlZzLWJRcFZXaXRfRWY4TWpwLTZPSDRsQVdvMElSeGVjNDdZaWF2WWl1d2dJYnhSMUF2YjFOelpseFlQMHk5WDRzT2x2c3Z2NDZLOUgzNEppekdXRWJTZGRXaG16U3F0dkN1eUpNN1VkZFZST3c?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOODdHYXM1c0MzeTlFX1ZINExDMjNIb25nNXdkWkMyckFITjA1cE1RX2MzSXMwZE8tUlZ2dlZzLWJRcFZXaXRfRWY4TWpwLTZPSDRsQVdvMElSeGVjNDdZaWF2WWl1d2dJYnhSMUF2YjFOelpseFlQMHk5WDRzT2x2c3Z2NDZLOUgzNEppekdXRWJTZGRXaG16U3F0dkN1eUpNN1VkZFZST3c?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -162,19 +224,42 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
+      "first_seen": "2026-11-15T18:45:49+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 14 Nov 2026 14:36:00 GMT",
+          "published": "Sun, 15 Nov 2026 15:45:00 GMT",
           "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "324b0d7e4ff9",
-      "title": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next. - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUZfeDBBaDdsRmN6TnJEc01FMnloVkxNNTNBS0taMEhnN0h4V2FBSTA0cFdOSm9TMmdNcDdwNDdfUjd2R0xLSkZqc0dFaERYU0Z4ODVUTDJoQkpqVTBpQ2JvTGJZT3BiQld0Q3IyVWNSSllGbmVOYmJ3Tk1aUWEwZ3doT1NIX195WnpNeTYxYmE1NkhzU0xuNDRYdlc3bjdlX09fSWpn?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUZfeDBBaDdsRmN6TnJEc01FMnloVkxNNTNBS0taMEhnN0h4V2FBSTA0cFdOSm9TMmdNcDdwNDdfUjd2R0xLSkZqc0dFaERYU0Z4ODVUTDJoQkpqVTBpQ2JvTGJZT3BiQld0Q3IyVWNSSllGbmVOYmJ3Tk1aUWEwZ3doT1NIX195WnpNeTYxYmE1NkhzU0xuNDRYdlc3bjdlX09fSWpn?oc=5",
+      "id": "6c8510ff8ca9",
+      "title": "How Is This Legal??",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/O90f-V62Gyw",
+      "score": 59.29,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-15T18:48:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "O90f-V62Gyw",
+          "published": "2026-11-11T21:30:15+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "93adfa286b09",
+      "title": "History Says This Dividend Stock Can Protect Your Portfolio if a Stock Market Slump Is Coming - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUFIYnVFZlZYdDFocE5RV2E4VTJLMkl5RWRJNm01em5yWkFyQ1VwMURXXzllenh5Ym9mM0k4UHRsajJUMUlFYjJmMGVQZnpjbm5fMUlRYTRhMmVlNG9kRmVJcko1VEFXV1p2OFcxbWZYbElUQTcycGV4T2toOFM5M21mMS1rNHh0OVJNSE52a3lQQ1NBWW1F?oc=5\" target=\"_blank\">His",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUFIYnVFZlZYdDFocE5RV2E4VTJLMkl5RWRJNm01em5yWkFyQ1VwMURXXzllenh5Ym9mM0k4UHRsajJUMUlFYjJmMGVQZnpjbm5fMUlRYTRhMmVlNG9kRmVJcko1VEFXV1p2OFcxbWZYbElUQTcycGV4T2toOFM5M21mMS1rNHh0OVJNSE52a3lQQ1NBWW1F?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -182,63 +267,158 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
+      "first_seen": "2026-11-15T18:45:49+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 14 Nov 2026 15:20:02 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "0e129580edf2",
-      "title": "UK Stock Market Today: FTSE 100 Futures Edge Lower On Sticky US Inflation Concerns - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORVRWM3BRUkhxemlSeHlPa01oTnRqUEswaFp2SUgzY01BUHdMRzBXTUV1VHJjc1p1ZkFCZDd0bDZqLWdldThvRm9tQUh2bnB6RUItQVdfcXN0R1FXVzkxTDR2bGpnNU5jTG90SXBSRXNnX2prSjBnVURfbC1yVHRyR0R5cjdxM25fWkllSmhvZjVMdUJoREhkcmpLQUlrNk0?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVRWM3BRUkhxemlSeHlPa01oTnRqUEswaFp2SUgzY01BUHdMRzBXTUV1VHJjc1p1ZkFCZDd0bDZqLWdldThvRm9tQUh2bnB6RUItQVdfcXN0R1FXVzkxTDR2bGpnNU5jTG90SXBSRXNnX2prSjBnVURfbC1yVHRyR0R5cjdxM25fWkllSmhvZjVMdUJoREhkcmpLQUlrNk0?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 12 Nov 2026 07:12:00 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "8e31bf6a191f",
-      "title": "Prediction: Nov. 18 Will Be a Massive Day for the Stock Market - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQb285Njh2RGthblNyTDVSY1gtalE2OGkxTzBSQmpmdkdPdEJpMEZPSlVxaVBrZ2pfbU96aldfM29zV0VjRk5XV2V6YzFsaFRsSDhDbWRjbGN3bG1uYVhPUjdxS09EVFJ1UmNLTXBhMk9LV3RvOWNYQjh1MFBuSkdBYXFPR1Y3SUo0LTVrMmFlZmJidUotMFlxU19kN3duWjJYRkNud3BR?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb285Njh2RGthblNyTDVSY1gtalE2OGkxTzBSQmpmdkdPdEJpMEZPSlVxaVBrZ2pfbU96aldfM29zV0VjRk5XV2V6YzFsaFRsSDhDbWRjbGN3bG1uYVhPUjdxS09EVFJ1UmNLTXBhMk9LV3RvOWNYQjh1MFBuSkdBYXFPR1Y3SUo0LTVrMmFlZmJidUotMFlxU19kN3duWjJYRkNud3BR?oc=5",
-      "score": 48.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 14 Nov 2026 09:10:00 GMT",
+          "published": "Sun, 15 Nov 2026 15:15:00 GMT",
           "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "21b5a4ba6449",
+      "title": "It Started: The BIGGEST Wealth Transfer Of Our Lifetime Has Just Begun!",
+      "summary": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: https://sofi.com/graham | Let's talk about the next economic boom, stock market performance in 2027, and how you could profit - Enjoy! Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HE",
+      "url": "https://www.youtube.com/watch?v=8J_36MGSdVI",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-15T18:48:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "8J_36MGSdVI",
+          "published": "2026-11-10T21:00:13+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "b66d102e2672",
+      "title": "CRAZIEST TikTok Money Advice...",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/OjDJGu_oLC0",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-15T18:48:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "OjDJGu_oLC0",
+          "published": "2026-11-09T17:00:22+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "2e9cd11bce9e",
+      "title": "I Shouldn’t Have Paid my Internet Bill…",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/M7YeGnFscz4",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-15T18:48:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "M7YeGnFscz4",
+          "published": "2026-11-04T21:00:18+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "34659ce74fb5",
+      "title": "Nov. 25 Will Be a Critical Day for the Stock Market - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmZBRDFGMC1LS1dtTVZOU0ZsRUhpWHliUURJZmlqZkFPWENrdUJJbXpBeUM1Q0RISFZtMGRsQ0hjXy1IZEc3cndaVHNGdnc3dUhzSGxtbGFwN0lqUVFXa0Z5U3hCdkgwa2Jrd3h4VFFZbEppQk1yQjRwQ25pNXFYNnlrc0FSdFM2SFJKdjlXSDExaFRa?oc=5\" target=\"_blank\">Nov. 25",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmZBRDFGMC1LS1dtTVZOU0ZsRUhpWHliUURJZmlqZkFPWENrdUJJbXpBeUM1Q0RISFZtMGRsQ0hjXy1IZEc3cndaVHNGdnc3dUhzSGxtbGFwN0lqUVFXa0Z5U3hCdkgwa2Jrd3h4VFFZbEppQk1yQjRwQ25pNXFYNnlrc0FSdFM2SFJKdjlXSDExaFRa?oc=5",
+      "score": 52.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-15T18:45:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 15 Nov 2026 03:20:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "published": "Fri, 13 Nov 2026 22:01:00 GMT",
+          "published": "Sun, 15 Nov 2026 03:00:00 GMT",
           "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "a2d07196943d",
-      "title": "MercadoLibre vs. Uber Technologies: Which Consumer Network Stock Is a Better Buy for 2027? - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnM0bnlaRGJRX0pyZUFRdjAwTm9RNmtIVzgwZmJyR3NTUFlYc2w1MUY3b0JKamNGNTRGRzE3TzBUTmhjTGZvMy0wSVduOVRQNzZpQjBJUFFPblRpMlUyb0ZQc0M4MVRfY2RkbkJNUkZ6QlgzX1BTc0I0YTdzc29KUW5heWZoNUtub1lFUEN0Nkd3WW1zeHpmbjlVcm1mVUlhMnF6dzJFNm45Wk",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnM0bnlaRGJRX0pyZUFRdjAwTm9RNmtIVzgwZmJyR3NTUFlYc2w1MUY3b0JKamNGNTRGRzE3TzBUTmhjTGZvMy0wSVduOVRQNzZpQjBJUFFPblRpMlUyb0ZQc0M4MVRfY2RkbkJNUkZ6QlgzX1BTc0I0YTdzc29KUW5heWZoNUtub1lFUEN0Nkd3WW1zeHpmbjlVcm1mVUlhMnF6dzJFNm45WkU?oc=5",
+      "id": "2565df00284a",
+      "title": "Do \"Entrepreneurs\" Know Basic Finance? 😭",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/TZB5XqLgyFk",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-15T18:48:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "TZB5XqLgyFk",
+          "published": "2026-11-03T23:00:23+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "b5d2eb2ebf69",
+      "title": "It Started: Homebuyer Demand Just Collapsed - Buyers Getting 20-40% Discounts!",
+      "summary": "Download the FREE Upside App here https://yt.link/rxTTB4m and use code Graham25 to get an extra 25 cents back per gallon on your first tank of gas! Thank you Upside for sponsoring this video! | Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblosso",
+      "url": "https://www.youtube.com/watch?v=Iam0GgMsAi4",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-15T18:48:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "Iam0GgMsAi4",
+          "published": "2026-11-02T21:02:06+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "46d3ecea8307",
+      "title": "The bull market in stocks is being put to the test. 2027 may not be any easier. - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGw0NGRFeU56OXRVV2hGcHVESVlnX0d4NWQzVkM0LTJaZDVscVBDaEdJY3VqQTJMRWxsenFzY3VxSGR6R2QzVENNUFdoMXMyNEt4eWI0bFpOaWhXN2luNF8wRFA3MmxJeUduTjhOdURWcEdfS0E1ZDJFR0MzOWtKLTVLQjB0N0RjTWRxVlRIeWhhSG9xQVFVYmNvaE9hRE5YMl84QTRYcHNRdU",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGw0NGRFeU56OXRVV2hGcHVESVlnX0d4NWQzVkM0LTJaZDVscVBDaEdJY3VqQTJMRWxsenFzY3VxSGR6R2QzVENNUFdoMXMyNEt4eWI0bFpOaWhXN2luNF8wRFA3MmxJeUduTjhOdURWcEdfS0E1ZDJFR0MzOWtKLTVLQjB0N0RjTWRxVlRIeWhhSG9xQVFVYmNvaE9hRE5YMl84QTRYcHNRdUUxc3B4eWNveWU5OFNjMWV0VEd1WGt0LTZWQkk0X3NlRFJLbFk?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -246,19 +426,82 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
+      "first_seen": "2026-11-15T18:45:49+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 14 Nov 2026 15:32:02 GMT",
+          "published": "Fri, 13 Nov 2026 13:47:13 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
-      "id": "fbe4283df1b2",
-      "title": "Stock Market Crash: What History Says Comes Next After the Market's Big Single-Day Dip. - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVXVCRWFRazQ3b094alFiUUl1eVc1WG1EdDVua1NBSURJMnl2QVRSeXpFQkU2WE41MHBLR25wNUhCQ3pTVE5Db3FFNEt6UGZpWWV5X1FJWGNYRDVZeFpmMy1WUy1fUjdyTktnVGduYlRHX2xlR3IwQklQRjd0WEdnYTQ3R1VzWVFfdkNqaHQtWnlBNE1aeWh1STNldExLbFdSbWNMU1ZuYVFWWT",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVXVCRWFRazQ3b094alFiUUl1eVc1WG1EdDVua1NBSURJMnl2QVRSeXpFQkU2WE41MHBLR25wNUhCQ3pTVE5Db3FFNEt6UGZpWWV5X1FJWGNYRDVZeFpmMy1WUy1fUjdyTktnVGduYlRHX2xlR3IwQklQRjd0WEdnYTQ3R1VzWVFfdkNqaHQtWnlBNE1aeWh1STNldExLbFdSbWNMU1ZuYVFWWTRKQnN0Z0lyVHpFZlJqcGJPblZWTkV0Zw?oc=5",
+      "id": "50fda6281087",
+      "title": "Everyone Claims To Be An \"Entrepreneur\"🤦‍♂️",
+      "summary": "Add me on Instagram: GPStephan\n\nFOLLOW MY INVESTMENTS / STOCKS HERE: https://getblossom.onelink.me/SOfu/grahamstephan \n\nPROMOTIONAL OFFER: Get a TRANSFER BONUS when you sign up and make a deposit using my paid affiliate link for WeBull: https://www.webull.com/k/GrahamStephan\n\nSTA",
+      "url": "https://www.youtube.com/shorts/EU1IY-LKEyw",
+      "score": 45.43,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "global",
+      "first_seen": "2026-11-15T18:48:06+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+          "channel_title": "Graham Stephan",
+          "video_id": "EU1IY-LKEyw",
+          "published": "2026-11-02T16:00:01+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "ae332d57df39",
+      "title": "Forget Former Nvidia CEO Jensen Huang -- This Is the Real Question Investors Need to Ask About Nvidia Stock - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd3hKeFRLT3JKU1p3aGJmMl9PN2Z0ZzFqUWJJYUdOSU5OMjNNb0Zpa1Ztc2lPYl90Tlk2djlTaTFvb1NEaVgtWldlYkZSU09RbDFxWi1YWU9hZktPQktTZ0xCSTZIV0lUSExubGlyYWZMQXFmY0hmTG9wQ0UyVko3LVlNRXpDZ1FkSkt2a05waVlObXRlbWxLVFJBZmJxMGVRdjlTUDNUUUx4Mm",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd3hKeFRLT3JKU1p3aGJmMl9PN2Z0ZzFqUWJJYUdOSU5OMjNNb0Zpa1Ztc2lPYl90Tlk2djlTaTFvb1NEaVgtWldlYkZSU09RbDFxWi1YWU9hZktPQktTZ0xCSTZIV0lUSExubGlyYWZMQXFmY0hmTG9wQ0UyVko3LVlNRXpDZ1FkSkt2a05waVlObXRlbWxLVFJBZmJxMGVRdjlTUDNUUUx4MmE1OXBMaUZNMmljRENjcV9VSTcySEVDeEJuZHRvN2gxS3ZWS0VNWEEycy1aQ2hta2VSUlNKUw?oc=5",
+      "score": 43.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-15T18:45:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 15 Nov 2026 07:10:00 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "f4c1ace49058",
+      "title": "Nike Stock Just Jumped 13%. Should You Buy the Stock on the Way Up? - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUm84YTgxWnpVakhyVVVEbUxEM05EakxXSEQ4M1ZtQmRQOHIxbjBXUGFiOGctaDNRRWtuNEZ6MTFlOUZUNnJ0LWdlNDhfOTBLLUJ0Qmp6UlEzQ3JFSlhCQ3RlS0REb05WSUEtOEhyZFhQdzdYY2dKckxGWGNBSFJYSDVrQU96OGZxQklqS05lWXJPQmxsRzlTakw1OU9udmdKWGFxT2Z5YWFod0",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUm84YTgxWnpVakhyVVVEbUxEM05EakxXSEQ4M1ZtQmRQOHIxbjBXUGFiOGctaDNRRWtuNEZ6MTFlOUZUNnJ0LWdlNDhfOTBLLUJ0Qmp6UlEzQ3JFSlhCQ3RlS0REb05WSUEtOEhyZFhQdzdYY2dKckxGWGNBSFJYSDVrQU96OGZxQklqS05lWXJPQmxsRzlTakw1OU9udmdKWGFxT2Z5YWFod00?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-15T18:45:49+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 15 Nov 2026 14:15:00 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "2e80e2282005",
+      "title": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHVQMlQwdWpSNW5jTDVlNEttZmI0WUd4N0pDU1hZb1ctMF8tVGtLSUFMX2NoRXN6MlpTYnN6cnFvZjVwMEdYYWdLTjdWWTdEUTg0dktuZmpRcmxDU0cxOENFWGZVc1Z6M0xMQmdteXJBSF85VWFRYkJsYl9UVVB1cnJKeDJqb3JxQkNOTDFaX3QyOU01?oc=5\" target=\"_blank\">Stock M",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHVQMlQwdWpSNW5jTDVlNEttZmI0WUd4N0pDU1hZb1ctMF8tVGtLSUFMX2NoRXN6MlpTYnN6cnFvZjVwMEdYYWdLTjdWWTdEUTg0dktuZmpRcmxDU0cxOENFWGZVc1Z6M0xMQmdteXJBSF85VWFRYkJsYl9UVVB1cnJKeDJqb3JxQkNOTDFaX3QyOU01?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -266,43 +509,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
+      "first_seen": "2026-11-15T18:45:49+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 15:03:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "54e8e5519a52",
-      "title": "If a Stock Market Crash Is Coming, Warren Buffett’s 6-Word Advice Is the Smartest Move You Can Make - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxONGd6NnRDZHRCX1N0d1daUGVTMTNac3RLNThFR2tUak5kcWJGamVnRGNNaUZsSDgxVTdfR205LWhHNW9icVhxRzVoMmFObEpUdXo4dmtEc1dabHFGWkJXVWk4MkNCV1NSNkdhQnRjdkhNUS04YUMyaUNuZmtQUE5ieXdPM2Z1NFlBa0QwMDFwNTVOVkZGYXFzLVVqTlVjZw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGd6NnRDZHRCX1N0d1daUGVTMTNac3RLNThFR2tUak5kcWJGamVnRGNNaUZsSDgxVTdfR205LWhHNW9icVhxRzVoMmFObEpUdXo4dmtEc1dabHFGWkJXVWk4MkNCV1NSNkdhQnRjdkhNUS04YUMyaUNuZmtQUE5ieXdPM2Z1NFlBa0QwMDFwNTVOVkZGYXFzLVVqTlVjZw?oc=5",
-      "score": 34.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 13 Nov 2026 07:29:00 GMT",
+          "published": "Fri, 13 Nov 2026 22:13:55 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "published": "Fri, 13 Nov 2026 07:09:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "f905fe02eb22",
-      "title": "Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVE5fbXpLV2tpeUZNa08xNktTeW5EYmJlN0ZCV3dlR0lTY2xqaC1ITlQyc1hxZ3BZUlF3b0JTNUVKcGxpOWFZRzlPTDJvdjY3cU1zMUVTeE1zZnF6VDFqMjQwV1FaQTFkdUZJNUVzeUVXV3dzZ0x4OVlRek8yamFfSm4wZW84OGJjU2FxX0tpSVhFY0Q5NEk2Rk9waUR1Tm9NanZELVRabV8zeW",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVE5fbXpLV2tpeUZNa08xNktTeW5EYmJlN0ZCV3dlR0lTY2xqaC1ITlQyc1hxZ3BZUlF3b0JTNUVKcGxpOWFZRzlPTDJvdjY3cU1zMUVTeE1zZnF6VDFqMjQwV1FaQTFkdUZJNUVzeUVXV3dzZ0x4OVlRek8yamFfSm4wZW84OGJjU2FxX0tpSVhFY0Q5NEk2Rk9waUR1Tm9NanZELVRabV8zeWVpZFdubGVreVQtMjFxMXU3SzNhcUtiTDlMNWpQcGNSWmJNQjNnaFllbUxIcXFza0FfUnh0S0hQYWd3NHZTdERRdmttNVdxNktOTnI5Vlp3?oc=5",
+      "id": "65a5eda831a7",
+      "title": "Is CoreWeave Stock a Buy After Its Latest Earnings? - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1dYWW9iT2Y3amZ6S0VnVFdzcGFzcFB3QzJLN2pKdkpsT1duZDJwa3UzVWxyUnVNaFZxcEt5S3pUeFJRamJDeFNScDVOdG5iejhScS1sUnQ5N2NhclIzbG9FbC1yQ1hvbVEyVGd3OGQ3RFlsQ2ZmLXYyUmFtRDRpTmxzclYtVmh5YlBEZTFZUUpyQm9GdlBNRw?oc=5\" target=\"_blank\">I",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1dYWW9iT2Y3amZ6S0VnVFdzcGFzcFB3QzJLN2pKdkpsT1duZDJwa3UzVWxyUnVNaFZxcEt5S3pUeFJRamJDeFNScDVOdG5iejhScS1sUnQ5N2NhclIzbG9FbC1yQ1hvbVEyVGd3OGQ3RFlsQ2ZmLXYyUmFtRDRpTmxzclYtVmh5YlBEZTFZUUpyQm9GdlBNRw?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -310,51 +529,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
+      "first_seen": "2026-11-15T18:45:49+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 13 Nov 2026 22:44:00 GMT",
+          "published": "Sat, 14 Nov 2026 20:47:00 GMT",
           "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "4ce5c185549a",
-      "title": "Prediction: This Small-Cap Value ETF Will Beat the S&P 500 Over the Next 10 Years - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXhwMlFZZXB2Z0hSM3Uzc0haUUNUamRLVmNlMkp4cmxVdHN1R1BDM1cyaUJzUmtpc1U2UndoaE02QmI3TUp1UkgzeUJxMFVnRXhMaXhCbnQ5SHhCMnhtOTZfV2xnOUJKS3R5b2FOWmVBOW9MeC1DQnZvcDFFSVpyY2t6VXN4dEZVaDhfcUVuM3R2Y1JmdldN?oc=5\" target=\"_blank\">Pre",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXhwMlFZZXB2Z0hSM3Uzc0haUUNUamRLVmNlMkp4cmxVdHN1R1BDM1cyaUJzUmtpc1U2UndoaE02QmI3TUp1UkgzeUJxMFVnRXhMaXhCbnQ5SHhCMnhtOTZfV2xnOUJKS3R5b2FOWmVBOW9MeC1DQnZvcDFFSVpyY2t6VXN4dEZVaDhfcUVuM3R2Y1JmdldN?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 14 Nov 2026 15:30:00 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "dffe181a28ea",
-      "title": "You can beat the stock market by avoiding its worst days. But you won’t - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWVnOVFPSUFFWWNsU29qZEpjenJPalhCX1M1eEZTVDBsWEpUZ2h6WUg3bEpKcjZ5cjJHUVJUTXFvd01iTWc5aUtiaFkzS2ZoVDJ5Q2lodUExaTQtcWd0TWNCNDh2UVF3bk5reFQwdFMxNUpTQ3F1NkZZSExLTWZHYUZ1enA3YlBhcVJBN0dsQW9rczloTmJaS2s1ajZsYWxoXzdhQ1RpRXVTQV",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWVnOVFPSUFFWWNsU29qZEpjenJPalhCX1M1eEZTVDBsWEpUZ2h6WUg3bEpKcjZ5cjJHUVJUTXFvd01iTWc5aUtiaFkzS2ZoVDJ5Q2lodUExaTQtcWd0TWNCNDh2UVF3bk5reFQwdFMxNUpTQ3F1NkZZSExLTWZHYUZ1enA3YlBhcVJBN0dsQW9rczloTmJaS2s1ajZsYWxoXzdhQ1RpRXVTQVB5d1E?oc=5",
-      "score": 21.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-15T06:14:52+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 27 Mar 2026 01:27:50 GMT",
-          "source": "Morningstar Australia"
         }
       ]
     }
