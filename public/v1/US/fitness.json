@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "US",
-  "generated_at": "2026-11-14T22:25:42+00:00",
+  "generated_at": "2026-11-15T06:23:52+00:00",
   "cache_ttl_hours": 6,
-  "count": 23,
+  "count": 20,
   "trends": [
     {
-      "id": "3f40541dd72e",
-      "title": "Why an ice bath may be worse than doing nothing to recover after a workout - Scientific American",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGdfMUU5Ri1DcWFxdy0wOEFaQXI5YlNQendzdFJCOHV1YmZzWG5jZW5udm9jUWsxQTBaVzNnbDZOcUNYdDRLejB4QzlpSHZ4UktMYllMLVFHNl81ek1sYkxqY3llNkZxbFlqQmY3TFpXNm1jRmZBRUsxSnZtSnNUWkRNMmZfWDZXRkhsSkxVTEktZFBoNTdlbFhKX2RDNEl2UVg5RXJOSWFPQW",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGdfMUU5Ri1DcWFxdy0wOEFaQXI5YlNQendzdFJCOHV1YmZzWG5jZW5udm9jUWsxQTBaVzNnbDZOcUNYdDRLejB4QzlpSHZ4UktMYllMLVFHNl81ek1sYkxqY3llNkZxbFlqQmY3TFpXNm1jRmZBRUsxSnZtSnNUWkRNMmZfWDZXRkhsSkxVTEktZFBoNTdlbFhKX2RDNEl2UVg5RXJOSWFPQWtET200X1FocDBhcWhiVEE?oc=5",
+      "id": "14caaaca8de3",
+      "title": "1/ST TV to Discontinue Morning Workout Videos - BloodHorse",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVm9raDlnbWxNQUNNcm9FX0RTTU50T2VkQXFjQjdxdnNJWjM4LUl6R2VqSFpWNENNbFlCN09VbEJTVDRvOE93VGMwTUhKME9tN3BTVVlmc25wZFU5ZEJXVVI5bmkzN0lucGI2VHZ1dmRPOURaaTB1RzdtVGc1cG5nTFQyQTNkM0hoTEJXS05zUERNN2hOUEZKTm0xeHFZZE5sc0pz?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVm9raDlnbWxNQUNNcm9FX0RTTU50T2VkQXFjQjdxdnNJWjM4LUl6R2VqSFpWNENNbFlCN09VbEJTVDRvOE93VGMwTUhKME9tN3BTVVlmc25wZFU5ZEJXVVI5bmkzN0lucGI2VHZ1dmRPOURaaTB1RzdtVGc1cG5nTFQyQTNkM0hoTEJXS05zUERNN2hOUEZKTm0xeHFZZE5sc0pz?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 15 Nov 2026 04:58:35 GMT",
+          "source": "BloodHorse"
+        }
+      ]
+    },
+    {
+      "id": "3f40541dd72e",
+      "title": "Why an ice bath may be worse than doing nothing to recover after a workout - Scientific American",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGdfMUU5Ri1DcWFxdy0wOEFaQXI5YlNQendzdFJCOHV1YmZzWG5jZW5udm9jUWsxQTBaVzNnbDZOcUNYdDRLejB4QzlpSHZ4UktMYllMLVFHNl81ek1sYkxqY3llNkZxbFlqQmY3TFpXNm1jRmZBRUsxSnZtSnNUWkRNMmZfWDZXRkhsSkxVTEktZFBoNTdlbFhKX2RDNEl2UVg5RXJOSWFPQW",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGdfMUU5Ri1DcWFxdy0wOEFaQXI5YlNQendzdFJCOHV1YmZzWG5jZW5udm9jUWsxQTBaVzNnbDZOcUNYdDRLejB4QzlpSHZ4UktMYllMLVFHNl81ek1sYkxqY3llNkZxbFlqQmY3TFpXNm1jRmZBRUsxSnZtSnNUWkRNMmZfWDZXRkhsSkxVTEktZFBoNTdlbFhKX2RDNEl2UVg5RXJOSWFPQWtET200X1FocDBhcWhiVEE?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
           "published": "Sat, 14 Nov 2026 16:00:00 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "14caaaca8de3",
-      "title": "1/ST TV to Discontinue Morning Workout Videos - BloodHorse",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVm9raDlnbWxNQUNNcm9FX0RTTU50T2VkQXFjQjdxdnNJWjM4LUl6R2VqSFpWNENNbFlCN09VbEJTVDRvOE93VGMwTUhKME9tN3BTVVlmc25wZFU5ZEJXVVI5bmkzN0lucGI2VHZ1dmRPOURaaTB1RzdtVGc1cG5nTFQyQTNkM0hoTEJXS05zUERNN2hOUEZKTm0xeHFZZE5sc0pz?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVm9raDlnbWxNQUNNcm9FX0RTTU50T2VkQXFjQjdxdnNJWjM4LUl6R2VqSFpWNENNbFlCN09VbEJTVDRvOE93VGMwTUhKME9tN3BTVVlmc25wZFU5ZEJXVVI5bmkzN0lucGI2VHZ1dmRPOURaaTB1RzdtVGc1cG5nTFQyQTNkM0hoTEJXS05zUERNN2hOUEZKTm0xeHFZZE5sc0pz?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 14 Nov 2026 16:57:50 GMT",
-          "source": "BloodHorse"
-        }
-      ]
-    },
-    {
-      "id": "7d775873e199",
-      "title": "Social Media Mythbusters: Do Post-Workout Sprays Prevent Acne? - Dermatology Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWktkMGV6bi01WDJhdFk3OVFCT0FENVN6cDJ3dllwZWNYMGE2OWVpamZkdF80T3duMXVobkVSQXU4WHZNN2VKSUhmU0hKZTREVld1T1lndFQzNzJYNDNLSWs4RFJhV3FuLTJraDRlNnNuZDBYb3JtTmU5eGVfVVFwQzBOLVdyNnptcW45bW9rZFBGZGU3OFFUQmJibWluMFI4?oc=5\" target=",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWktkMGV6bi01WDJhdFk3OVFCT0FENVN6cDJ3dllwZWNYMGE2OWVpamZkdF80T3duMXVobkVSQXU4WHZNN2VKSUhmU0hKZTREVld1T1lndFQzNzJYNDNLSWs4RFJhV3FuLTJraDRlNnNuZDBYb3JtTmU5eGVfVVFwQzBOLVdyNnptcW45bW9rZFBGZGU3OFFUQmJibWluMFI4?oc=5",
+      "id": "fd0217900aeb",
+      "title": "'Multiple people' shot at fitness center in Washington: council member - AFP.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUNna1p2ckcyemVwMkJLS014NnZQOVpzSk0xYUplejZEclVtdmZoMDFUay1weUQ2dGN1SmJSM3gtMG1lbXI3aVlCT3Vwd3VFMGdURVh4UllGQ2JrZDBBUDNOaWoxUkVBNFJkQUJJNVVPNEJGUVo5WXFCSW5hblJXQ0NYYnF4TzBMZ3RJeA?oc=5\" target=\"_blank\">'Multiple people'",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUNna1p2ckcyemVwMkJLS014NnZQOVpzSk0xYUplejZEclVtdmZoMDFUay1weUQ2dGN1SmJSM3gtMG1lbXI3aVlCT3Vwd3VFMGdURVh4UllGQ2JrZDBBUDNOaWoxUkVBNFJkQUJJNVVPNEJGUVo5WXFCSW5hblJXQ0NYYnF4TzBMZ3RJeA?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,27 +58,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 14 Nov 2026 17:03:09 GMT",
-          "source": "Dermatology Times"
-        }
-      ]
-    },
-    {
-      "id": "fd0217900aeb",
-      "title": "'Multiple people' shot at fitness center in Washington: council member - AFP.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUNna1p2ckcyemVwMkJLS014NnZQOVpzSk0xYUplejZEclVtdmZoMDFUay1weUQ2dGN1SmJSM3gtMG1lbXI3aVlCT3Vwd3VFMGdURVh4UllGQ2JrZDBBUDNOaWoxUkVBNFJkQUJJNVVPNEJGUVo5WXFCSW5hblJXQ0NYYnF4TzBMZ3RJeA?oc=5\" target=\"_blank\">'Multiple people'",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUNna1p2ckcyemVwMkJLS014NnZQOVpzSk0xYUplejZEclVtdmZoMDFUay1weUQ2dGN1SmJSM3gtMG1lbXI3aVlCT3Vwd3VFMGdURVh4UllGQ2JrZDBBUDNOaWoxUkVBNFJkQUJJNVVPNEJGUVo5WXFCSW5hblJXQ0NYYnF4TzBMZ3RJeA?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
           "published": "Thu, 12 Nov 2026 15:02:19 GMT",
@@ -87,26 +67,62 @@
       ]
     },
     {
-      "id": "e708210f3c66",
-      "title": "Is Planet Fitness open in VT on Thanksgiving 2026? See hours - Burlington Free Press",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnBKTWd0cU9UbmZKRGgtdXNhdzh0d2xNRTdWUkdEbTd2R3c4RzM2MnpWU2QwYWhpU1lWRGNLN0dFM2ZWVXpLOXpJUTR3bVpCQWk3TTNZdWdaRklURlBTYWZhTjVQZ0lCdmtTMGk3U21wcFF3Y09paGJoRl9EODlIdWFZNlFnTVZyUzVwdHRhbXdUU0V5WFN5YklIbi1VU29pNDNQY3ExbndISG",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnBKTWd0cU9UbmZKRGgtdXNhdzh0d2xNRTdWUkdEbTd2R3c4RzM2MnpWU2QwYWhpU1lWRGNLN0dFM2ZWVXpLOXpJUTR3bVpCQWk3TTNZdWdaRklURlBTYWZhTjVQZ0lCdmtTMGk3U21wcFF3Y09paGJoRl9EODlIdWFZNlFnTVZyUzVwdHRhbXdUU0V5WFN5YklIbi1VU29pNDNQY3ExbndISGMxaFhJaVJkTjJHU195Z0lPblBkVnhzTzRYS0tINGF0M3BhNVhkS2ZpeXB6ckpST3lncm1aaHdEX1o?oc=5",
-      "score": 73.8,
+      "id": "33b778b05876",
+      "title": "The 10 Best Gifts for Health and Fitness Nuts - Time Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWxtb1RfdFYwQmZlRWxrTl9hQ1prdDFEdVhxamVvdmhXNVNTSjBsdmIwaUxISG1iaTZwYzVwZTVheGRtSEc3c0hWTlFtYUZuMDRGNmdEV1QteDBWTkFqRDRUVGVLWEZLRExwbHBhWXlvUmxzWmxtR1ZtaG5kanF3OA?oc=5\" target=\"_blank\">The 10 Best Gifts for Health and ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWxtb1RfdFYwQmZlRWxrTl9hQ1prdDFEdVhxamVvdmhXNVNTSjBsdmIwaUxISG1iaTZwYzVwZTVheGRtSEc3c0hWTlFtYUZuMDRGNmdEV1QteDBWTkFqRDRUVGVLWEZLRExwbHBhWXlvUmxzWmxtR1ZtaG5kanF3OA?oc=5",
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 14 Nov 2026 10:02:00 GMT",
-          "source": "Burlington Free Press"
-        },
+          "published": "Thu, 12 Nov 2026 15:07:03 GMT",
+          "source": "Time Magazine"
+        }
+      ]
+    },
+    {
+      "id": "7d775873e199",
+      "title": "Social Media Mythbusters: Do Post-Workout Sprays Prevent Acne? - Dermatology Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWktkMGV6bi01WDJhdFk3OVFCT0FENVN6cDJ3dllwZWNYMGE2OWVpamZkdF80T3duMXVobkVSQXU4WHZNN2VKSUhmU0hKZTREVld1T1lndFQzNzJYNDNLSWs4RFJhV3FuLTJraDRlNnNuZDBYb3JtTmU5eGVfVVFwQzBOLVdyNnptcW45bW9rZFBGZGU3OFFUQmJibWluMFI4?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWktkMGV6bi01WDJhdFk3OVFCT0FENVN6cDJ3dllwZWNYMGE2OWVpamZkdF80T3duMXVobkVSQXU4WHZNN2VKSUhmU0hKZTREVld1T1lndFQzNzJYNDNLSWs4RFJhV3FuLTJraDRlNnNuZDBYb3JtTmU5eGVfVVFwQzBOLVdyNnptcW45bW9rZFBGZGU3OFFUQmJibWluMFI4?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-11-15T06:14:44+00:00",
+      "raw_samples": [
         {
-          "published": "Sat, 14 Nov 2026 10:03:00 GMT",
-          "source": "The Providence Journal"
+          "published": "Sat, 14 Nov 2026 17:03:09 GMT",
+          "source": "Dermatology Times"
+        }
+      ]
+    },
+    {
+      "id": "79787a52cd0b",
+      "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5\" target=\"_blank\">Condo manager say",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-11-15T06:14:44+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 13 Nov 2026 15:25:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
@@ -122,7 +138,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
           "published": "Sat, 14 Nov 2026 11:00:00 GMT",
@@ -131,10 +147,10 @@
       ]
     },
     {
-      "id": "33b778b05876",
-      "title": "The 10 Best Gifts for Health and Fitness Nuts - Time Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWxtb1RfdFYwQmZlRWxrTl9hQ1prdDFEdVhxamVvdmhXNVNTSjBsdmIwaUxISG1iaTZwYzVwZTVheGRtSEc3c0hWTlFtYUZuMDRGNmdEV1QteDBWTkFqRDRUVGVLWEZLRExwbHBhWXlvUmxzWmxtR1ZtaG5kanF3OA?oc=5\" target=\"_blank\">The 10 Best Gifts for Health and ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWxtb1RfdFYwQmZlRWxrTl9hQ1prdDFEdVhxamVvdmhXNVNTSjBsdmIwaUxISG1iaTZwYzVwZTVheGRtSEc3c0hWTlFtYUZuMDRGNmdEV1QteDBWTkFqRDRUVGVLWEZLRExwbHBhWXlvUmxzWmxtR1ZtaG5kanF3OA?oc=5",
+      "id": "0cb322d34d2f",
+      "title": "Declan Rice reveals World Cup fitness frustrations but in ‘good place’ with England again - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2p2bjFlY243NjhMQWxzTm1GN20tRDhQTUtqMTFPOG01SmNYQ0haSXhOVE44WUVUbEF0ZzdmbXhrSE41TGVTUFNsWXZkWmNGLTlOamM5Yk5veS12VTh1WmFKNXNHMU5zSFh6S2c4cGtKVzU0VnN2Sm9RV1l1elZVcldNOEdhY1Zuc2ZJR3JMWlAwdVdiU2c?oc=5\" target=\"_blank\">Decl",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2p2bjFlY243NjhMQWxzTm1GN20tRDhQTUtqMTFPOG01SmNYQ0haSXhOVE44WUVUbEF0ZzdmbXhrSE41TGVTUFNsWXZkWmNGLTlOamM5Yk5veS12VTh1WmFKNXNHMU5zSFh6S2c4cGtKVzU0VnN2Sm9RV1l1elZVcldNOEdhY1Zuc2ZJR3JMWlAwdVdiU2c?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -142,42 +158,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 12 Nov 2026 15:07:03 GMT",
-          "source": "Time Magazine"
+          "published": "Sat, 14 Nov 2026 20:30:13 GMT",
+          "source": "The New York Times"
         }
       ]
     },
     {
-      "id": "936062e8de28",
-      "title": "Best Home Ab Workout // Just 10 Min // 6 PACK GUARANTEED!",
-      "summary": "If you are looking for the best home ab workout you can do without any equipment, this 10 minute follow along routine is a great place to start. In this video, I’m going to take you through seven bodyweight ab exercises that you can do in the comfort of your own home, whether you",
-      "url": "https://www.youtube.com/watch?v=v34abuQ-iF8",
-      "score": 61.599999999999994,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-11-14T22:18:55+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
-          "channel_title": "ATHLEAN-X™",
-          "video_id": "v34abuQ-iF8",
-          "published": "2026-11-12T18:53:59+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "79787a52cd0b",
-      "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5\" target=\"_blank\">Condo manager say",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5",
+      "id": "8039a2171a05",
+      "title": "Community mourns condo manager slain at Logan Circle VIDA Fitness - NBC4 Washington",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGpoMFFDOVdpd3B5U09aMjYyRmV6c29pMmFRc2lfbDJsNUVGVmNuVHRDV2tNeE0ySVBaU0YzSjRaV3hHcnRlVGpkOHFTdHd6eGtpVk1ZWkZZeU41bFNuY04wajV0RURvRlM5SmpYNW03WmJ0V1F5WkQ1NnhwVXlvOFJTX2swTTg1MzRvYVpIeE5tSEFhSzhMRUN1bHBqbFlZWEEzOWh5S1HSAb",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGpoMFFDOVdpd3B5U09aMjYyRmV6c29pMmFRc2lfbDJsNUVGVmNuVHRDV2tNeE0ySVBaU0YzSjRaV3hHcnRlVGpkOHFTdHd6eGtpVk1ZWkZZeU41bFNuY04wajV0RURvRlM5SmpYNW03WmJ0V1F5WkQ1NnhwVXlvOFJTX2swTTg1MzRvYVpIeE5tSEFhSzhMRUN1bHBqbFlZWEEzOWh5S1HSAbABQVVfeXFMTmVXeTBDemYxTlF5a3J0YWY3Z3hJZFdqOWIzNjdhLWtSYUpidE81UzdoMkduYVM5bHdrMDRtVEdZbEM1MmZySGVBLW1DUVAwck5MN2lWTUh3Z0ZmbVYzbXl4NlhJcTJKLWdWVnljazduUGo3M2ZySWxNLWdwdWFTTEJidXlUMVlTaDlfRUUyUlhtdU0wSEdaMWphLUhpbnVZNUdkMW5YUEpJaVBwUDNrcjk?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -185,42 +178,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 13 Nov 2026 15:25:00 GMT",
-          "source": "The Guardian"
+          "published": "Sat, 14 Nov 2026 23:24:52 GMT",
+          "source": "NBC4 Washington"
         }
       ]
     },
     {
-      "id": "c8d7510c341d",
-      "title": "The ONLY 2 DB Biceps Exercises You Need (NO, SERIOUSLY!)",
-      "summary": "Get big biceps here - https://athleanx.com\nSubscribe to the ATHLEAN-X channel here - http://bit.ly/2b0coMW\n\nWhat if I told you that here were only 2 dumbbell biceps exercises you need to grow bigger biceps, would you believe me? In this video, I am going to show you how only two ",
-      "url": "https://www.youtube.com/watch?v=hzoaClKPAUs",
-      "score": 59.29,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-11-14T22:18:55+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
-          "channel_title": "ATHLEAN-X™",
-          "video_id": "hzoaClKPAUs",
-          "published": "2026-11-09T18:20:12+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "a972ec870ce8",
-      "title": "Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised the Show There Would Be “No Controversy” - The Hollywood Reporter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDdEVGJwWkw5ZDBXcXRDeU9pQkxPMnN3ZEhCNVBQUTdoOVpHYWs1ZUVmRHVzQUVDd1J4S0FNclZRLXJuWm5ERURidXBCUlVBOVJTZ3Y2UHZPR0QxdlpldjRLQjVIWURSQmVObzZXdTRpLUk4RGxUamtocW5RN0l1VGtHZ280dHlCZkVZRkFXcHZtWTlUbi1tSTg0TkU4YVBxV1dSaQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDdEVGJwWkw5ZDBXcXRDeU9pQkxPMnN3ZEhCNVBQUTdoOVpHYWs1ZUVmRHVzQUVDd1J4S0FNclZRLXJuWm5ERURidXBCUlVBOVJTZ3Y2UHZPR0QxdlpldjRLQjVIWURSQmVObzZXdTRpLUk4RGxUamtocW5RN0l1VGtHZ280dHlCZkVZRkFXcHZtWTlUbi1tSTg0TkU4YVBxV1dSaQ?oc=5",
+      "id": "412b1f86e18c",
+      "title": "Fitness instructor helps lead 60 people to safety during deadly shooting at DC gym - WUSA9",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZGZIbUZyaEQzSFdtMWF6NHg0VjY0NUtjcFN5a2NueXREWEZ1RnhHVXBZWk5ubDI0WEFhTVR0RlpUbzhDLVdmbWMwbElpREhpdDE2NEJ4a1BTeDhsdXNTT2V4Y1BKbVU4bG5ybm1CVW4wOXNPNzlESTBfVGZaWEpfTmVwdTRWU1RQNnFYRVc2d0tjQWhTemgtMUFaWUFBRVk1V0pwMUs4c0hkaX",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZGZIbUZyaEQzSFdtMWF6NHg0VjY0NUtjcFN5a2NueXREWEZ1RnhHVXBZWk5ubDI0WEFhTVR0RlpUbzhDLVdmbWMwbElpREhpdDE2NEJ4a1BTeDhsdXNTT2V4Y1BKbVU4bG5ybm1CVW4wOXNPNzlESTBfVGZaWEpfTmVwdTRWU1RQNnFYRVc2d0tjQWhTemgtMUFaWUFBRVk1V0pwMUs4c0hkaXlENUZhSG1oYmRpaFVLSUs3dmNKWldZN0RLS0lEb0lKWjZFUXlDa21kbTY2QmpVeHZLVzB2ejUzdEtHbDMwYU1MZnBGUThMRXhqZHc?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -228,65 +198,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 14 Nov 2026 17:28:28 GMT",
-          "source": "The Hollywood Reporter"
+          "published": "Fri, 13 Nov 2026 04:29:00 GMT",
+          "source": "WUSA9"
         }
       ]
     },
     {
-      "id": "06159faa689f",
-      "title": "Give Me 2 Dumbbells... I'll Build You a BIGGER Chest",
-      "summary": "Build a Big Chest Here - https://athleanx.com\nSubscribe to This Channel Here - http://bit.ly/2b0coMW\n\nIf you want to learn how to build a big chest with dumbbells only, then you’ve come to the right video. I’m going to show you how to build your upper chest, develop your lower pe",
-      "url": "https://www.youtube.com/watch?v=GOxz6bLRMsk",
-      "score": 56.98,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-11-14T22:18:55+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
-          "channel_title": "ATHLEAN-X™",
-          "video_id": "GOxz6bLRMsk",
-          "published": "2026-11-05T17:53:35+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "5831bdb4f29d",
-      "title": "It's Weird, But it Drops Body Fat Faster Than Dieting!",
-      "summary": "Want to lose weight without counting calories, tracking macros, or weighing every bite of food? You can. In this video, I’m showing you a simple, visual way to eat for fat loss using the food already on your plate. No calorie-counting app, complicated diet rules, or endless food ",
-      "url": "https://www.youtube.com/watch?v=hRg-HRt0flU",
-      "score": 54.669999999999995,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-11-14T22:18:55+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
-          "channel_title": "ATHLEAN-X™",
-          "video_id": "hRg-HRt0flU",
-          "published": "2026-11-01T18:04:12+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "327c034242ea",
-      "title": "Westbrook gym hosts weightlifting competition to benefit Make-A-Wish Maine - WMTW",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWxiVVF3VUEwdmRtS2dBNlh3R2g4VzBJemdKZzFXcnRiZ1JKTy1UUkJ2MjE5WjJCSmFkSGlNcDFsSjNwRmVtSXdPYk9fbWJqOFd3bm1kenlFVERER0xTRmNWZDlfQy1JUHdxZFpyRUVJQTFtdEsyZ19aMnNQZVE0bVZjSXdjME4yUlFxM1FYSG9VVnpySnFfak5GaVBFTjVkblZPazdpU2VnTU",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWxiVVF3VUEwdmRtS2dBNlh3R2g4VzBJemdKZzFXcnRiZ1JKTy1UUkJ2MjE5WjJCSmFkSGlNcDFsSjNwRmVtSXdPYk9fbWJqOFd3bm1kenlFVERER0xTRmNWZDlfQy1JUHdxZFpyRUVJQTFtdEsyZ19aMnNQZVE0bVZjSXdjME4yUlFxM1FYSG9VVnpySnFfak5GaVBFTjVkblZPazdpU2VnTUJHWnU3TXZB?oc=5",
+      "id": "12a0852bd0ea",
+      "title": "DWTS Star Rylee Arnold’s Fitness Routine Revealed, Courtesy of Sister Lindsay Arnold - E! News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUnREQnA4VHZuQ3FHb3FNalNlYlBjbUoyU2FkdXZDNEpEZkNiMF90Ty1Id0J5cldhdWxlSFZ6d3hMbVpnOWlFYzN1WjlaLThqcW5UcFdMOEs2T1R2WnFCWWt4cnVROHpsSFRXNlpIS1FWYzBISFREZnc1VXdUdU5Vc1Q5dUw5cXI1ZTFrY3ZuV2w3cVNIVE1BbW9tdUhzLXBXc0l4Tw?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUnREQnA4VHZuQ3FHb3FNalNlYlBjbUoyU2FkdXZDNEpEZkNiMF90Ty1Id0J5cldhdWxlSFZ6d3hMbVpnOWlFYzN1WjlaLThqcW5UcFdMOEs2T1R2WnFCWWt4cnVROHpsSFRXNlpIS1FWYzBISFREZnc1VXdUdU5Vc1Q5dUw5cXI1ZTFrY3ZuV2w3cVNIVE1BbW9tdUhzLXBXc0l4Tw?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -294,11 +218,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 14 Nov 2026 17:19:00 GMT",
-          "source": "WMTW"
+          "published": "Fri, 13 Nov 2026 19:21:00 GMT",
+          "source": "E! News"
         }
       ]
     },
@@ -314,7 +238,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
           "published": "Sat, 14 Nov 2026 16:14:00 GMT",
@@ -323,10 +247,10 @@
       ]
     },
     {
-      "id": "412b1f86e18c",
-      "title": "Fitness instructor helps lead 60 people to safety during deadly shooting at DC gym - WUSA9",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZGZIbUZyaEQzSFdtMWF6NHg0VjY0NUtjcFN5a2NueXREWEZ1RnhHVXBZWk5ubDI0WEFhTVR0RlpUbzhDLVdmbWMwbElpREhpdDE2NEJ4a1BTeDhsdXNTT2V4Y1BKbVU4bG5ybm1CVW4wOXNPNzlESTBfVGZaWEpfTmVwdTRWU1RQNnFYRVc2d0tjQWhTemgtMUFaWUFBRVk1V0pwMUs4c0hkaX",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZGZIbUZyaEQzSFdtMWF6NHg0VjY0NUtjcFN5a2NueXREWEZ1RnhHVXBZWk5ubDI0WEFhTVR0RlpUbzhDLVdmbWMwbElpREhpdDE2NEJ4a1BTeDhsdXNTT2V4Y1BKbVU4bG5ybm1CVW4wOXNPNzlESTBfVGZaWEpfTmVwdTRWU1RQNnFYRVc2d0tjQWhTemgtMUFaWUFBRVk1V0pwMUs4c0hkaXlENUZhSG1oYmRpaFVLSUs3dmNKWldZN0RLS0lEb0lKWjZFUXlDa21kbTY2QmpVeHZLVzB2ejUzdEtHbDMwYU1MZnBGUThMRXhqZHc?oc=5",
+      "id": "558b4a7b59d5",
+      "title": "Paws on the Pavement: Ocala Fitness Run Raises Vital Funds for Rescue Dogs - WCJB",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeHpGaGtqOGo4T1pBSG84bnpSMG50NzFuTnNCa2NQMWE5MFBMb1U3cm1yVWZsRlRxRW5tR0VyaWlIaUVYQ1E3clRJVmhJVEctaFNySXR1NjFweVlyT05SVFFFUTlkMm5Ba21WcDhjbnFwTnE1Snh3WmVKcmtOWnFkdVBlVzFXM0k2X1JESjM0VnR2U3NvckRPUk1nR2pPRVFTdGhN?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeHpGaGtqOGo4T1pBSG84bnpSMG50NzFuTnNCa2NQMWE5MFBMb1U3cm1yVWZsRlRxRW5tR0VyaWlIaUVYQ1E3clRJVmhJVEctaFNySXR1NjFweVlyT05SVFFFUTlkMm5Ba21WcDhjbnFwTnE1Snh3WmVKcmtOWnFkdVBlVzFXM0k2X1JESjM0VnR2U3NvckRPUk1nR2pPRVFTdGhN?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -334,19 +258,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 13 Nov 2026 04:29:00 GMT",
-          "source": "WUSA9"
+          "published": "Sun, 15 Nov 2026 04:58:00 GMT",
+          "source": "WCJB"
         }
       ]
     },
     {
-      "id": "12a0852bd0ea",
-      "title": "DWTS Star Rylee Arnold’s Fitness Routine Revealed, Courtesy of Sister Lindsay Arnold - E! News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUnREQnA4VHZuQ3FHb3FNalNlYlBjbUoyU2FkdXZDNEpEZkNiMF90Ty1Id0J5cldhdWxlSFZ6d3hMbVpnOWlFYzN1WjlaLThqcW5UcFdMOEs2T1R2WnFCWWt4cnVROHpsSFRXNlpIS1FWYzBISFREZnc1VXdUdU5Vc1Q5dUw5cXI1ZTFrY3ZuV2w3cVNIVE1BbW9tdUhzLXBXc0l4Tw?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUnREQnA4VHZuQ3FHb3FNalNlYlBjbUoyU2FkdXZDNEpEZkNiMF90Ty1Id0J5cldhdWxlSFZ6d3hMbVpnOWlFYzN1WjlaLThqcW5UcFdMOEs2T1R2WnFCWWt4cnVROHpsSFRXNlpIS1FWYzBISFREZnc1VXdUdU5Vc1Q5dUw5cXI1ZTFrY3ZuV2w3cVNIVE1BbW9tdUhzLXBXc0l4Tw?oc=5",
+      "id": "e708210f3c66",
+      "title": "Is Planet Fitness open in VT on Thanksgiving 2026? See hours - Burlington Free Press",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnBKTWd0cU9UbmZKRGgtdXNhdzh0d2xNRTdWUkdEbTd2R3c4RzM2MnpWU2QwYWhpU1lWRGNLN0dFM2ZWVXpLOXpJUTR3bVpCQWk3TTNZdWdaRklURlBTYWZhTjVQZ0lCdmtTMGk3U21wcFF3Y09paGJoRl9EODlIdWFZNlFnTVZyUzVwdHRhbXdUU0V5WFN5YklIbi1VU29pNDNQY3ExbndISG",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnBKTWd0cU9UbmZKRGgtdXNhdzh0d2xNRTdWUkdEbTd2R3c4RzM2MnpWU2QwYWhpU1lWRGNLN0dFM2ZWVXpLOXpJUTR3bVpCQWk3TTNZdWdaRklURlBTYWZhTjVQZ0lCdmtTMGk3U21wcFF3Y09paGJoRl9EODlIdWFZNlFnTVZyUzVwdHRhbXdUU0V5WFN5YklIbi1VU29pNDNQY3ExbndISGMxaFhJaVJkTjJHU195Z0lPblBkVnhzTzRYS0tINGF0M3BhNVhkS2ZpeXB6ckpST3lncm1aaHdEX1o?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -354,11 +278,51 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 13 Nov 2026 19:21:00 GMT",
-          "source": "E! News"
+          "published": "Sat, 14 Nov 2026 10:02:00 GMT",
+          "source": "Burlington Free Press"
+        }
+      ]
+    },
+    {
+      "id": "d556c43d0619",
+      "title": "Alaska high school football star dies after suddenly collapsing in gym class - New York Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3JDR0FnUzNmQWJoMUZ4OE9XdmNtckJScDlaRzFObWRyM1NXQVBFM1IyazBJMHB3ZEUyLW12Ujl1VUdOM0RqRUhRNXpOM2F4OHA2M2ticVdRZ1VWYXlMN05jTi1IcDFISkdjRkpzQ3ViTnZGWDJ0dnJSN25Ba2RJMGY1Y0xTWTV2c0h4MDVURTY2cmJBUE5vbElQTE5nQTlkeDRYcVhWSmZxbH",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3JDR0FnUzNmQWJoMUZ4OE9XdmNtckJScDlaRzFObWRyM1NXQVBFM1IyazBJMHB3ZEUyLW12Ujl1VUdOM0RqRUhRNXpOM2F4OHA2M2ticVdRZ1VWYXlMN05jTi1IcDFISkdjRkpzQ3ViTnZGWDJ0dnJSN25Ba2RJMGY1Y0xTWTV2c0h4MDVURTY2cmJBUE5vbElQTE5nQTlkeDRYcVhWSmZxbHVPekNtMF9UZW1JQU41Ylpr?oc=5",
+      "score": 39.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-11-15T06:14:44+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 15 Nov 2026 02:55:00 GMT",
+          "source": "New York Post"
+        }
+      ]
+    },
+    {
+      "id": "a972ec870ce8",
+      "title": "Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised the Show There Would Be “No Controversy” - The Hollywood Reporter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDdEVGJwWkw5ZDBXcXRDeU9pQkxPMnN3ZEhCNVBQUTdoOVpHYWs1ZUVmRHVzQUVDd1J4S0FNclZRLXJuWm5ERURidXBCUlVBOVJTZ3Y2UHZPR0QxdlpldjRLQjVIWURSQmVObzZXdTRpLUk4RGxUamtocW5RN0l1VGtHZ280dHlCZkVZRkFXcHZtWTlUbi1tSTg0TkU4YVBxV1dSaQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDdEVGJwWkw5ZDBXcXRDeU9pQkxPMnN3ZEhCNVBQUTdoOVpHYWs1ZUVmRHVzQUVDd1J4S0FNclZRLXJuWm5ERURidXBCUlVBOVJTZ3Y2UHZPR0QxdlpldjRLQjVIWURSQmVObzZXdTRpLUk4RGxUamtocW5RN0l1VGtHZ280dHlCZkVZRkFXcHZtWTlUbi1tSTg0TkU4YVBxV1dSaQ?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "US",
+      "first_seen": "2026-11-15T06:14:44+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 14 Nov 2026 17:28:28 GMT",
+          "source": "The Hollywood Reporter"
         }
       ]
     },
@@ -367,14 +331,14 @@
       "title": "Mass shooting at popular gay-owned VIDA Fitness in D.C. leaves one dead, suspect barricaded - Advocate.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBQU2RCSjA3VmkxdW00MkdLMGZGcHFlYWZfVTdweW5Cd2J4MU0xRmduUWlndlFtYTJQeDBiNjNXTzVfZDZYV25KZHZrdk9adzRDSzE3VUpPdDRyblNCOTRBMkRVUWczbzc2YkJSTVpMcGE?oc=5\" target=\"_blank\">Mass shooting at popular gay-owned VIDA Fitness in D.C. ",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQU2RCSjA3VmkxdW00MkdLMGZGcHFlYWZfVTdweW5Cd2J4MU0xRmduUWlndlFtYTJQeDBiNjNXTzVfZDZYV25KZHZrdk9adzRDSzE3VUpPdDRyblNCOTRBMkRVUWczbzc2YkJSTVpMcGE?oc=5",
-      "score": 39.6,
+      "score": 32.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
           "published": "Thu, 12 Nov 2026 17:06:26 GMT",
@@ -383,50 +347,10 @@
       ]
     },
     {
-      "id": "eb7c1b03b81c",
-      "title": "Inside the High-Tech Fitness Revolution, How A-Listers Stay in Shape - Yahoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzZOeVVTTlBzeTVaMHhEUm5HLWJMZXZpampMTW9PdWFtUUJDZFdRaGRHWkxndTJRQlJyRzh2ZnJScDljLWhKYmUzWl8zRFlGM2VYN2dub3IzekstbGo2UVZVdFVjZ2dla2g5MXR5OG9MNnA0cjdaZFN5Q1FiT3ZtUzlkX01xem1PQjdEUGZNREMxdXRVTUE?oc=5\" target=\"_blank\">Insi",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzZOeVVTTlBzeTVaMHhEUm5HLWJMZXZpampMTW9PdWFtUUJDZFdRaGRHWkxndTJRQlJyRzh2ZnJScDljLWhKYmUzWl8zRFlGM2VYN2dub3IzekstbGo2UVZVdFVjZ2dla2g5MXR5OG9MNnA0cjdaZFN5Q1FiT3ZtUzlkX01xem1PQjdEUGZNREMxdXRVTUE?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 14 Nov 2026 08:45:37 GMT",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
       "id": "659571204cf8",
       "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four - The Guardian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9aRlpPZ3ZXU0swRnRfaXFfOU1IcWFnLXdJbXZ5N29HTW5mMGxPamluR25zbC1aMkpjZUxXSVJ5ZGhkVVRIMmR1bEVLT1RiS1RtWTM2MExyOXAyWmF1MFZBWU92alRiMXpFVDNNYmxqZWc2aGZ5SFZvTHh6blI?oc=5\" target=\"_blank\">Police identify suspect and victim in Wa",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aRlpPZ3ZXU0swRnRfaXFfOU1IcWFnLXdJbXZ5N29HTW5mMGxPamluR25zbC1aMkpjZUxXSVJ5ZGhkVVRIMmR1bEVLT1RiS1RtWTM2MExyOXAyWmF1MFZBWU92alRiMXpFVDNNYmxqZWc2aGZ5SFZvTHh6blI?oc=5",
-      "score": 32.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 12 Nov 2026 14:09:00 GMT",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "id": "b79215bb38b4",
-      "title": "Megyn Kelly Accuses Dakota Johnson of Staging Paparazzi Photos Leaving the Gym Because She Wants ‘Attention': ‘Would You Look at What She's Wearing?' - Yahoo Lifestyle Canada",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ1h3TlBCQUtoRk9Rb293YkdqTjl1clZfUTVNc2NZTXBoUUtPbXAwallCSkZidGo0YUJ4LWZWZlRlR0ZNYnc5R3NSeWpGc29tRjNDLW55N01Tb185RkEzQWhYOFJMWTlldHlicEdyMWJjWHBhYlAwa2ZRMmdSUTk0ek5n?oc=5\" target=\"_blank\">Megyn Kelly Accuses Dakota John",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ1h3TlBCQUtoRk9Rb293YkdqTjl1clZfUTVNc2NZTXBoUUtPbXAwallCSkZidGo0YUJ4LWZWZlRlR0ZNYnc5R3NSeWpGc29tRjNDLW55N01Tb185RkEzQWhYOFJMWTlldHlicEdyMWJjWHBhYlAwa2ZRMmdSUTk0ek5n?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -434,11 +358,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 14 Nov 2026 18:49:51 GMT",
-          "source": "Yahoo Lifestyle Canada"
+          "published": "Thu, 12 Nov 2026 14:09:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
@@ -454,7 +378,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
           "published": "Thu, 12 Nov 2026 20:48:06 GMT",
@@ -474,7 +398,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "US",
-      "first_seen": "2026-11-14T22:16:33+00:00",
+      "first_seen": "2026-11-15T06:14:44+00:00",
       "raw_samples": [
         {
           "published": "Fri, 13 Nov 2026 00:31:00 GMT",
