@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "AU",
-  "generated_at": "2026-11-19T07:23:06+00:00",
+  "generated_at": "2026-11-19T20:37:40+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "ea821725cdb4",
-      "title": "Logan gym destroyed by suspicious overnight blaze - The Courier Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVJ6YmtoY3lpbEtjeHFDVFU4YWpRWnpTTUFnZFhiZkZxY3g2OXc1MjV6WWt6MGJ0RGJLWmRLTTZkZ0E2U284a1lSLWl0V1ZvaEpWLVNCMktJOTZHelBfQnNIVnJtazBSRG1XZlRBaDFWQXVZOGs0Z1NGejZTdkNOelJhSzI0Z1FiU192Qy02aE1kMVdmUGk5a0JNSGIzOU1VMkRHLXMxUWhFZF",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVJ6YmtoY3lpbEtjeHFDVFU4YWpRWnpTTUFnZFhiZkZxY3g2OXc1MjV6WWt6MGJ0RGJLWmRLTTZkZ0E2U284a1lSLWl0V1ZvaEpWLVNCMktJOTZHelBfQnNIVnJtazBSRG1XZlRBaDFWQXVZOGs0Z1NGejZTdkNOelJhSzI0Z1FiU192Qy02aE1kMVdmUGk5a0JNSGIzOU1VMkRHLXMxUWhFZFZranFEWkJibFVaX1V5N0UydXptbUNJcUcxN0g2T05JSU1KOWcwSHlSdkY2cw?oc=5",
+      "id": "a4e29a6894e8",
+      "title": "The major 24-hour gym eyeing up new location in Subiaco - PerthNow",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUJIVXFCX09hT1FVbnAyYXE2Um5tMmI3a0E0NURqLUxvYzBSYThnZW52S252QU1kQ0l3UG1iT3VYdEF2R3B0ZmkzWXpTUTdYYkxMRDN2NDFTbnNTcG0wZXhUTjdBZVk5TmRUbWtSSTVSVldMNU1oSmVOamRtbkNuVnZUVXROVm8wVWxyRUJSUER2RFQtdEhKd0RpdmZ3Q1ZZdXV4VzU1a0Fzbl",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUJIVXFCX09hT1FVbnAyYXE2Um5tMmI3a0E0NURqLUxvYzBSYThnZW52S252QU1kQ0l3UG1iT3VYdEF2R3B0ZmkzWXpTUTdYYkxMRDN2NDFTbnNTcG0wZXhUTjdBZVk5TmRUbWtSSTVSVldMNU1oSmVOamRtbkNuVnZUVXROVm8wVWxyRUJSUER2RFQtdEhKd0RpdmZ3Q1ZZdXV4VzU1a0Fzbl8xLWpGWEJfWUNkV2JtUDFJZlk5NEs1enFlRkVrck53?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
+      "first_seen": "2026-11-19T20:28:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "PerthNow"
+        }
+      ]
+    },
+    {
+      "id": "ea821725cdb4",
+      "title": "Logan gym destroyed by suspicious overnight blaze - The Courier Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVJ6YmtoY3lpbEtjeHFDVFU4YWpRWnpTTUFnZFhiZkZxY3g2OXc1MjV6WWt6MGJ0RGJLWmRLTTZkZ0E2U284a1lSLWl0V1ZvaEpWLVNCMktJOTZHelBfQnNIVnJtazBSRG1XZlRBaDFWQXVZOGs0Z1NGejZTdkNOelJhSzI0Z1FiU192Qy02aE1kMVdmUGk5a0JNSGIzOU1VMkRHLXMxUWhFZF",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVJ6YmtoY3lpbEtjeHFDVFU4YWpRWnpTTUFnZFhiZkZxY3g2OXc1MjV6WWt6MGJ0RGJLWmRLTTZkZ0E2U284a1lSLWl0V1ZvaEpWLVNCMktJOTZHelBfQnNIVnJtazBSRG1XZlRBaDFWQXVZOGs0Z1NGejZTdkNOelJhSzI0Z1FiU192Qy02aE1kMVdmUGk5a0JNSGIzOU1VMkRHLXMxUWhFZFZranFEWkJibFVaX1V5N0UydXptbUNJcUcxN0g2T05JSU1KOWcwSHlSdkY2cw?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:36+00:00",
       "raw_samples": [
         {
           "published": "Thu, 19 Nov 2026 00:51:00 GMT",
@@ -31,14 +51,14 @@
       "title": "Arson investigation launched as Brisbane gym destroyed by inferno - News24",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXk4N2ZSVXprdU1YdHZvODZjLTZCN2FFQWNTcnlJLTFaTTdTWHIwM0tYa3B1bEEzeEZNc1hJbHJ0Qmo3a3BfOWJMc1hsbmVuVjNQVWd2YnNiejMwaTZic3NTbE5XZ2JLVlduQTlMSDBndzRiNTJuTGdZYmRxaVEza3RTSmVKNWl3dXlxc1UyQ2F1bm90VW5CQmdtVkZaTkF0WW1ubUdXY0Z4M1",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXk4N2ZSVXprdU1YdHZvODZjLTZCN2FFQWNTcnlJLTFaTTdTWHIwM0tYa3B1bEEzeEZNc1hJbHJ0Qmo3a3BfOWJMc1hsbmVuVjNQVWd2YnNiejMwaTZic3NTbE5XZ2JLVlduQTlMSDBndzRiNTJuTGdZYmRxaVEza3RTSmVKNWl3dXlxc1UyQ2F1bm90VW5CQmdtVkZaTkF0WW1ubUdXY0Z4M1V1Y2pMdV9yWU04c1Q1ZmpIblNtamFXSDJVM1FPN2tIZGt1aFVXcmthbDFyYzVpM3hESTZjWXpFRmY2eE1fMVdN0gHwAUFVX3lxTE5iUUxhaXNzWkRmVHh1VXJHR1BFSmVNcmJ1bGtrMUdvcUQ5d0l4Zm1iSXczX21rYWNxb1ZQU2J2QnpEeWpaenl1VmczQjczVlU5Q1o3eElNUHdqSzZEZDNsenF5dmhjR2lxX3ZnWjBQeVFFeXFjMlZTcGJpanpjclpTanA0UFNLOFlZbU4tZTlxMVZzVnNZT3VuVGZUX0phdGYtWkdSd0Fra185U3FPUjFiUWtIMk5wTGVIRExZQTBOSUJBSk83UkV4VmxTY0xMbmp6R0Z0T3pYVkVwWXpfcHA3UUJLZDFYMWpzMDJYNVVWLQ?oc=5",
-      "score": 86.4,
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
+      "first_seen": "2026-11-19T20:28:36+00:00",
       "raw_samples": [
         {
           "published": "Thu, 19 Nov 2026 00:28:02 GMT",
@@ -47,30 +67,10 @@
       ]
     },
     {
-      "id": "6dafe8bdecea",
-      "title": "Gym destroyed in suspicious fire at Slacks Creek - 7NEWS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQYnVqSHFpbmtCcUp6VlVYWTF4ZUQ0cDEyal91OU5CelRaNTJUaVlPeGMwQ3ZSS2NTM0lCOUtiSV9UcndaMXBvU3Mta25nNzlDcWNXYlRkZGJqVm84T0hnNkQzWGVuWFVlMTdjSDFNc2IybVVDQUQ4MGM4cTdMMmJzdy1KaVZvbm9zYWpPMkY1NXpxVG1JUVcxNlVmSW9LQQ?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnVqSHFpbmtCcUp6VlVYWTF4ZUQ0cDEyal91OU5CelRaNTJUaVlPeGMwQ3ZSS2NTM0lCOUtiSV9UcndaMXBvU3Mta25nNzlDcWNXYlRkZGJqVm84T0hnNkQzWGVuWFVlMTdjSDFNc2IybVVDQUQ4MGM4cTdMMmJzdy1KaVZvbm9zYWpPMkY1NXpxVG1JUVcxNlVmSW9LQQ?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 18 Nov 2026 19:39:16 GMT",
-          "source": "7NEWS"
-        }
-      ]
-    },
-    {
-      "id": "abd5c22c0413",
-      "title": "Florence Pugh shares workout video from the gym - Nine.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGdTbDB0LVNwQ1lZcTgzN3lQZnBjNno5Y0VEdkdDWThNWlJQMFI0NDBXU0VFUkZCUi1aVDhqQzR2NFQzbk1ic1VzbmxGX3AzcXNkbHdvNEVoNjJVLUdxanBZZ1JkV09OeFJQejBDWTBNY05mWXJvS1U3NzFIX1lGdE1ydTNHZ0RGMWZjN3pCb1NhYWQtelJKSEtGWmxpb0FpWGo1akROaXl2YU",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGdTbDB0LVNwQ1lZcTgzN3lQZnBjNno5Y0VEdkdDWThNWlJQMFI0NDBXU0VFUkZCUi1aVDhqQzR2NFQzbk1ic1VzbmxGX3AzcXNkbHdvNEVoNjJVLUdxanBZZ1JkV09OeFJQejBDWTBNY05mWXJvS1U3NzFIX1lGdE1ydTNHZ0RGMWZjN3pCb1NhYWQtelJKSEtGWmxpb0FpWGo1akROaXl2YUFTcXFpZHRzSjV2bm9LLVE?oc=5",
+      "id": "24fe782ab461",
+      "title": "ServiceNow’s ‘mind gym’ gives employees a workout in critical thinking - Human Resources Director",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFYX0lrQUhNUDBwb0VUWGdzTU9WbWMzSkxvRkhGWlpJQ05OU2thR04wQWFSMGN6NF9EWm1ONDBTNFpwMFlKU2VNeDB0YTBGaTcwVDFiVXVvblFOTWlPMU9OODJYd0dTYlpBbXpUNjhaX2EySEhTZjRhZHpOend1eU5CV2pQV2pNS09hT0xwWnhpWXVfT2F3WDNtZjFaVUk1b1EzbTRReFg4Qn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFYX0lrQUhNUDBwb0VUWGdzTU9WbWMzSkxvRkhGWlpJQ05OU2thR04wQWFSMGN6NF9EWm1ONDBTNFpwMFlKU2VNeDB0YTBGaTcwVDFiVXVvblFOTWlPMU9OODJYd0dTYlpBbXpUNjhaX2EySEhTZjRhZHpOend1eU5CV2pQV2pNS09hT0xwWnhpWXVfT2F3WDNtZjFaVUk1b1EzbTRReFg4QnBSME1HZ3gyaw?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -78,19 +78,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
+      "first_seen": "2026-11-19T20:28:36+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 18 Nov 2026 21:31:52 GMT",
-          "source": "Nine.com.au"
+          "published": "Thu, 19 Nov 2026 19:48:01 GMT",
+          "source": "Human Resources Director"
         }
       ]
     },
     {
-      "id": "0c2176dcc21d",
-      "title": "Mountain Magic transforms Maleny Gym - Glasshouse Country & Maleny News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE15LVlYelNxODNyWmNLeE5DYlVFSjN5U1dhVVhYcDY0d2R6X0lHTGREMnl2QXdNVWVLUUJaUjBHNlhiOHBLVFRUdjhFZFZkNF9jRUVqeFFtbWNwcE5iS281QUNTS1hISmprdUFR?oc=5\" target=\"_blank\">Mountain Magic transforms Maleny Gym</a>&nbsp;&nbsp;<font color",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15LVlYelNxODNyWmNLeE5DYlVFSjN5U1dhVVhYcDY0d2R6X0lHTGREMnl2QXdNVWVLUUJaUjBHNlhiOHBLVFRUdjhFZFZkNF9jRUVqeFFtbWNwcE5iS281QUNTS1hISmprdUFR?oc=5",
+      "id": "3f42677292e3",
+      "title": "Exercise Intensity May Affect Post-Workout Cooling: Study - Mirage News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNWEdDSjZlbDBqcHBXME1YN1pVV1RRSnp5d2d6UDRHYnBnRm1ieEQ0Rm1VSXZ6VExmWHRaa0l4WHhYQjdNelpFYlg3c09wX3ZVcVVfdUhUcmhSeEtfWTJkV1FHeEJ0VlVjTmgyVTEzUk9ZVTczSG1mYWxNbUZjUDM1WE90MFo?oc=5\" target=\"_blank\">Exercise Intensity May Affec",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWEdDSjZlbDBqcHBXME1YN1pVV1RRSnp5d2d6UDRHYnBnRm1ieEQ0Rm1VSXZ6VExmWHRaa0l4WHhYQjdNelpFYlg3c09wX3ZVcVVfdUhUcmhSeEtfWTJkV1FHeEJ0VlVjTmgyVTEzUk9ZVTczSG1mYWxNbUZjUDM1WE90MFo?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -98,19 +98,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
+      "first_seen": "2026-11-19T20:28:36+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 19 Nov 2026 01:41:27 GMT",
-          "source": "Glasshouse Country & Maleny News"
+          "published": "Thu, 19 Nov 2026 11:52:00 GMT",
+          "source": "Mirage News"
         }
       ]
     },
     {
-      "id": "cb69b7ec76d6",
-      "title": "Here’s the least amount of exercise you can get away with and still age well - Scientific American",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkI4NmtWa25SVkZBVTA1bW9mOUVGaHRMNk42TWtrSm8xYV9FRGgzQlJCbFhyeTVndEswekdwOTlLRVl5RUtQbVFsaUs4eEhtNWhXU2VDaURmd3lQZ2p6QTNnM3dXVEllbGlXVHNZeDFFTDFTS0JNVjFBWEo3eGpVbk04WjM1OFhnRlAxdy1NeENoYmJfN0VR?oc=5\" target=\"_blank\">Her",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkI4NmtWa25SVkZBVTA1bW9mOUVGaHRMNk42TWtrSm8xYV9FRGgzQlJCbFhyeTVndEswekdwOTlLRVl5RUtQbVFsaUs4eEhtNWhXU2VDaURmd3lQZ2p6QTNnM3dXVEllbGlXVHNZeDFFTDFTS0JNVjFBWEo3eGpVbk04WjM1OFhnRlAxdy1NeENoYmJfN0VR?oc=5",
+      "id": "e2411fb6ef42",
+      "title": "How to increase your health with the fitness app in GTA 6 - Polygon.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9XRV9pV21oRmtSdWZsTG1aNUJ0VUdzdVdwX3NKYXhDZW5xNHFJVmtfOGFPanlFWi1QNDdCRUplb2ZnbnlHZ0QwOENUaWcwMWFrdDdHanBHZl9kcHdwb1pFME9yRXNLRElLRlhiRk5SOGFTaTh1RWc?oc=5\" target=\"_blank\">How to increase your health with the fitness app",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XRV9pV21oRmtSdWZsTG1aNUJ0VUdzdVdwX3NKYXhDZW5xNHFJVmtfOGFPanlFWi1QNDdCRUplb2ZnbnlHZ0QwOENUaWcwMWFrdDdHanBHZl9kcHdwb1pFME9yRXNLRElLRlhiRk5SOGFTaTh1RWc?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,19 +118,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
+      "first_seen": "2026-11-19T20:28:36+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-          "source": "Scientific American"
+          "published": "Thu, 19 Nov 2026 11:01:18 GMT",
+          "source": "Polygon.com"
         }
       ]
     },
     {
-      "id": "fdee6743185f",
-      "title": "Arsonist filled container with fuel, drove mum's car to gym and started a fire - twice - Newcastle Herald",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkNmNXRsYmhxSWNuV01FU2c3ZTRCdnZYNnhfeWE5YW1yLUlqbGYxRC15X3ZyS2Q4blZZbm5pdk40MHc0ZVVxQXZWN0Izd3B4cjJaYUpfRDdneTNnNTc4ZlgzUEJZcmF5LWtGcnhyZDVQX0FKMmlDTXFSN095TWtNMV9ST080MWx5Tll3WkYzQml4a1pBZ1NCVE9lSTBmX01QalYyYU51alc?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkNmNXRsYmhxSWNuV01FU2c3ZTRCdnZYNnhfeWE5YW1yLUlqbGYxRC15X3ZyS2Q4blZZbm5pdk40MHc0ZVVxQXZWN0Izd3B4cjJaYUpfRDdneTNnNTc4ZlgzUEJZcmF5LWtGcnhyZDVQX0FKMmlDTXFSN095TWtNMV9ST080MWx5Tll3WkYzQml4a1pBZ1NCVE9lSTBmX01QalYyYU51alc?oc=5",
+      "id": "0517bee188f3",
+      "title": "Should You Run or Cycle? Experts Reveal Which Type of Cardio Is Best for Getting in Shape - Prevention",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTliOGpobllzVDEtcUJxZFhlbWtmNTdZLXd0d2ptNkpxSDdnVjIyby1MNnJLYW5fRjF2cFFWUnJNa2tZYkJkMUE1XzcxU3psZ3lRMkNkSmVYZzZpOHFRUmdGN3BVTWxOc1dzM0lWWUVlNHNwY1dGSi12ODMxMEl6WGE5dmd4bXo0RVZDNjlzOUFVWVVvQk5ENDRoQjZPLUdSMFJDV3VSYU4?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTliOGpobllzVDEtcUJxZFhlbWtmNTdZLXd0d2ptNkpxSDdnVjIyby1MNnJLYW5fRjF2cFFWUnJNa2tZYkJkMUE1XzcxU3psZ3lRMkNkSmVYZzZpOHFRUmdGN3BVTWxOc1dzM0lWWUVlNHNwY1dGSi12ODMxMEl6WGE5dmd4bXo0RVZDNjlzOUFVWVVvQk5ENDRoQjZPLUdSMFJDV3VSYU4?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +138,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
+      "first_seen": "2026-11-19T20:28:36+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 19 Nov 2026 04:00:59 GMT",
-          "source": "Newcastle Herald"
+          "published": "Thu, 19 Nov 2026 17:24:36 GMT",
+          "source": "Prevention"
         }
       ]
     },
     {
-      "id": "0212491ab7e3",
-      "title": "How this CEO wins the morning (and it’s not just the 5.30am gym) - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU29JVEpycjZpaE9YTTJNR0JtQmpLREd5SWItTmRDaGtFelVRNUJJMHNRM20zRm5QVTV5d2RLemtHSWREVVBwYVl1dnFHQmpCeXdDU09lOXF1dUZXYWVQSDkxWmQwekJPM1E5LXdOUG5ZalB3WlQ0U1NtVHF6SUtKQlozdEpwYUFEb1NIMjVkOXhiSzVhdVh2Z0ZBTEE5bUJkM3k2WURKOTIzMV",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU29JVEpycjZpaE9YTTJNR0JtQmpLREd5SWItTmRDaGtFelVRNUJJMHNRM20zRm5QVTV5d2RLemtHSWREVVBwYVl1dnFHQmpCeXdDU09lOXF1dUZXYWVQSDkxWmQwekJPM1E5LXdOUG5ZalB3WlQ0U1NtVHF6SUtKQlozdEpwYUFEb1NIMjVkOXhiSzVhdVh2Z0ZBTEE5bUJkM3k2WURKOTIzMV9ReUdQTEV0UEJvREpwM1F6V3dCM2l0RHc?oc=5",
+      "id": "43ec63847331",
+      "title": "J-Hope’s workout routine: How BTS’s Hobi maintains stage stamina and strength - Tatler Asia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTZuNHZ0SGsxRkFkdzkyUDhfTGNVTW51MjVoZE5CNFZzeXdSWUpnWkRjeHQ0YWw2ak9vSnN5WW5MaWZMYWY4V1FGc0xoeEVGQUZZUm9BQ3BDb1NCQkhwOVk0TTJrREczUm1URUtnek9YdWNCc0NTSU1NUWNfWTl3UjJJdw?oc=5\" target=\"_blank\">J-Hope’s workout routine: How",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTZuNHZ0SGsxRkFkdzkyUDhfTGNVTW51MjVoZE5CNFZzeXdSWUpnWkRjeHQ0YWw2ak9vSnN5WW5MaWZMYWY4V1FGc0xoeEVGQUZZUm9BQ3BDb1NCQkhwOVk0TTJrREczUm1URUtnek9YdWNCc0NTSU1NUWNfWTl3UjJJdw?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
+      "first_seen": "2026-11-19T20:28:36+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 17 Nov 2026 09:30:00 GMT",
-          "source": "AFR"
+          "published": "Thu, 19 Nov 2026 03:31:29 GMT",
+          "source": "Tatler Asia"
         }
       ]
     },
     {
-      "id": "702298648297",
-      "title": "Please STOP Gripping Your Dumbbells Like This!",
-      "summary": "Your wrists shouldn’t be the reason you cut your chest workout short. If you get wrist pain when doing a dumbbell bench press, take a look at how you’re gripping the weight.\n\nThe problem? Grabbing the dumbbell right in the middle and letting the thumb side of your hand drop can p",
-      "url": "https://www.youtube.com/shorts/YBMmxQXa24M",
+      "id": "454473566d47",
+      "title": "How to Target Your Lower Abs (GET A FLATTER STOMACH)",
+      "summary": "Get a flat stomach here - https://athleanx.com/flatstomach  \nSubscribe to this channel here - http://bit.ly/2b0coMW\n\nIf you want more visible lower abs, pay attention to what happens *after* you bring your knees up. Can you curl your pelvis toward your chest, or do your legs move",
+      "url": "https://www.youtube.com/watch?v=XtOeHrX0gVQ",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -178,13 +178,13 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-19T07:16:18+00:00",
+      "first_seen": "2026-11-19T20:30:54+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
           "channel_title": "ATHLEAN-X™",
-          "video_id": "YBMmxQXa24M",
-          "published": "2026-11-17T18:27:29+00:00"
+          "video_id": "XtOeHrX0gVQ",
+          "published": "2026-11-19T17:39:13+00:00"
         }
       ],
       "is_global": true
@@ -201,7 +201,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-19T07:16:19+00:00",
+      "first_seen": "2026-11-19T20:30:55+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -213,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "8f016aec7c40",
-      "title": "How White VS Brown Rice Misses the Point",
+      "id": "8abc00b6f88c",
+      "title": "Dr Mike Challenges the Fear of Pesticide Residue",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/iP90BBjHfn0",
+      "url": "https://www.youtube.com/shorts/2OLo1nob00g",
       "score": 61.599999999999994,
       "sources": [
         "youtube"
@@ -224,22 +224,22 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-19T07:16:21+00:00",
+      "first_seen": "2026-11-19T20:30:57+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
           "channel_title": "Renaissance Periodization",
-          "video_id": "iP90BBjHfn0",
-          "published": "2026-11-18T20:00:34+00:00"
+          "video_id": "2OLo1nob00g",
+          "published": "2026-11-19T20:00:02+00:00"
         }
       ],
       "is_global": true
     },
     {
-      "id": "0b12fd7df732",
-      "title": "29 Fitness Gifts For The Gym Fanatic Who Has It All - MindBodyGreen",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1nQnAwd2J5T3JManRWT3A3a052R0FPdUVXSzFmcUoxNXdHRE41RTYzR1Nqcl9GUWktQlFZV19EN3M1ZWl0QWJfMUs2THFVUlhYck5kb0RERzRERjlkQUlwdktEQTV4dDdkVlRraGtjWQ?oc=5\" target=\"_blank\">29 Fitness Gifts For The Gym Fanatic Who Has It All</a>&n",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nQnAwd2J5T3JManRWT3A3a052R0FPdUVXSzFmcUoxNXdHRE41RTYzR1Nqcl9GUWktQlFZV19EN3M1ZWl0QWJfMUs2THFVUlhYck5kb0RERzRERjlkQUlwdktEQTV4dDdkVlRraGtjWQ?oc=5",
+      "id": "a9cfd6877f41",
+      "title": "Monica Galetti, 51, uses NEAT movement and weight training to stay strong – 3 simple habits you can copy - Women's Health",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTN6RUpwbEd6SDlzMkY2dHBFZm9XeENfdUxRbUZkVFBEM3JDY1NMQURPbXBEaHA5Y3c1U3ZRRXRId0h5d3JSZ3FncVJ3OW1VSjVjYkptaWNvdVlpZEJoTWU0ZUJjT2w2d0Q1a3MxbjEwWXRhdGE2NzdSa3FLd0VMLWRn?oc=5\" target=\"_blank\">Monica Galetti, 51, uses NEAT m",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTN6RUpwbEd6SDlzMkY2dHBFZm9XeENfdUxRbUZkVFBEM3JDY1NMQURPbXBEaHA5Y3c1U3ZRRXRId0h5d3JSZ3FncVJ3OW1VSjVjYkptaWNvdVlpZEJoTWU0ZUJjT2w2d0Q1a3MxbjEwWXRhdGE2NzdSa3FLd0VMLWRn?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -247,19 +247,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
+      "first_seen": "2026-11-19T20:28:36+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 18 Nov 2026 23:01:56 GMT",
-          "source": "MindBodyGreen"
+          "published": "Thu, 19 Nov 2026 19:04:04 GMT",
+          "source": "Women's Health"
         }
       ]
     },
     {
-      "id": "5d681ca1be3e",
-      "title": "This Fixes 95% of Posture Problems (FAST!)",
-      "summary": "If you want to learn how to fix bad posture in 22 days, this step by step video gives you a plan for improving posture with stretches and strengthening exercises. Instead of guessing which posture exercises you need, I’m going to show you six simple tests you can perform at home ",
-      "url": "https://www.youtube.com/watch?v=633UP8zXNI8",
+      "id": "702298648297",
+      "title": "Please STOP Gripping Your Dumbbells Like This!",
+      "summary": "Your wrists shouldn’t be the reason you cut your chest workout short. If you get wrist pain when doing a dumbbell bench press, take a look at how you’re gripping the weight.\n\nThe problem? Grabbing the dumbbell right in the middle and letting the thumb side of your hand drop can p",
+      "url": "https://www.youtube.com/shorts/YBMmxQXa24M",
       "score": 59.29,
       "sources": [
         "youtube"
@@ -267,13 +267,13 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-19T07:16:18+00:00",
+      "first_seen": "2026-11-19T20:30:54+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
           "channel_title": "ATHLEAN-X™",
-          "video_id": "633UP8zXNI8",
-          "published": "2026-11-16T17:24:40+00:00"
+          "video_id": "YBMmxQXa24M",
+          "published": "2026-11-17T18:27:29+00:00"
         }
       ],
       "is_global": true
@@ -290,7 +290,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-19T07:16:19+00:00",
+      "first_seen": "2026-11-19T20:30:55+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -302,10 +302,10 @@
       "is_global": true
     },
     {
-      "id": "623aafba7483",
-      "title": "Aldi vs. Whole Foods: Is Expensive Food Worth It?",
-      "summary": "Dr. Mike  shops at Aldi and Whole Foods to see if expensive food is worth it for bodybuilding!\n\nThe UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced scienc",
-      "url": "https://www.youtube.com/watch?v=BaP79XMRlb8",
+      "id": "f22c487998c8",
+      "title": "Sleep Builds Muscle Like a Drug",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/63BAYfMO6Do",
       "score": 59.29,
       "sources": [
         "youtube"
@@ -313,22 +313,22 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-19T07:16:21+00:00",
+      "first_seen": "2026-11-19T20:30:57+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
           "channel_title": "Renaissance Periodization",
-          "video_id": "BaP79XMRlb8",
-          "published": "2026-11-18T17:00:17+00:00"
+          "video_id": "63BAYfMO6Do",
+          "published": "2026-11-19T14:00:13+00:00"
         }
       ],
       "is_global": true
     },
     {
-      "id": "6efc07037c50",
-      "title": "Police investigate suspected arson at Slacks Creek gym - MyCity Logan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDlFOFNtRWxhblJJS3U0bllBZTNJbHJYOTlKRUdpNDB1azhwRmNORi1seU5GVnV2WktqMkNhY2tWSVgxWlFOdU5Oc1JKVjl1VngtX1ppcmRqdDVwTmhDTFU1SjlpZ0xqQnFVSGtFR01fOC0tRXJEMFZEY25lS003dURyZ3NaRWtfNnc?oc=5\" target=\"_blank\">Police investigate s",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDlFOFNtRWxhblJJS3U0bllBZTNJbHJYOTlKRUdpNDB1azhwRmNORi1seU5GVnV2WktqMkNhY2tWSVgxWlFOdU5Oc1JKVjl1VngtX1ppcmRqdDVwTmhDTFU1SjlpZ0xqQnFVSGtFR01fOC0tRXJEMFZEY25lS003dURyZ3NaRWtfNnc?oc=5",
+      "id": "ef40b219b499",
+      "title": "At 90, she teaches fitness classes. She became an instructor at 75. - The Washington Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3lMWGZHS2hPTEZ3Y2kwX1BWa1FKSzlham1aMklaUncwcmc1MjliVWVQVVNfR2pGR0NGUWxXU3ZEMDRkLXpFYVJ2UlcwSFZmQ1lrZ0tLdjV3LUFvUndUbmpTWF9KU2huTjlJZ2g4NmVSRzB1THJHRkxmdU5iSTRubUpnTWRHOVNzZ2ppemZ5RlVuM2pycVFFUUllaGVqWGdRMi16cjk4MmVaeV",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3lMWGZHS2hPTEZ3Y2kwX1BWa1FKSzlham1aMklaUncwcmc1MjliVWVQVVNfR2pGR0NGUWxXU3ZEMDRkLXpFYVJ2UlcwSFZmQ1lrZ0tLdjV3LUFvUndUbmpTWF9KU2huTjlJZ2g4NmVSRzB1THJHRkxmdU5iSTRubUpnTWRHOVNzZ2ppemZ5RlVuM2pycVFFUUllaGVqWGdRMi16cjk4MmVaeVdlTWJJXw?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -336,19 +336,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
+      "first_seen": "2026-11-19T20:28:36+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 18 Nov 2026 22:52:03 GMT",
-          "source": "MyCity Logan"
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "The Washington Post"
         }
       ]
     },
     {
-      "id": "936062e8de28",
-      "title": "Best Home Ab Workout // Just 10 Min // 6 PACK GUARANTEED!",
-      "summary": "If you are looking for the best home ab workout you can do without any equipment, this 10 minute follow along routine is a great place to start. In this video, I’m going to take you through seven bodyweight ab exercises that you can do in the comfort of your own home, whether you",
-      "url": "https://www.youtube.com/watch?v=v34abuQ-iF8",
+      "id": "5d681ca1be3e",
+      "title": "This Fixes 95% of Posture Problems (FAST!)",
+      "summary": "If you want to learn how to fix bad posture in 22 days, this step by step video gives you a plan for improving posture with stretches and strengthening exercises. Instead of guessing which posture exercises you need, I’m going to show you six simple tests you can perform at home ",
+      "url": "https://www.youtube.com/watch?v=633UP8zXNI8",
       "score": 56.98,
       "sources": [
         "youtube"
@@ -356,7 +356,53 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-19T07:16:18+00:00",
+      "first_seen": "2026-11-19T20:30:54+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+          "channel_title": "ATHLEAN-X™",
+          "video_id": "633UP8zXNI8",
+          "published": "2026-11-16T17:24:40+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "8f016aec7c40",
+      "title": "How White VS Brown Rice Misses the Point",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/iP90BBjHfn0",
+      "score": 56.98,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-19T20:30:57+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "iP90BBjHfn0",
+          "published": "2026-11-18T20:00:34+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "936062e8de28",
+      "title": "Best Home Ab Workout // Just 10 Min // 6 PACK GUARANTEED!",
+      "summary": "If you are looking for the best home ab workout you can do without any equipment, this 10 minute follow along routine is a great place to start. In this video, I’m going to take you through seven bodyweight ab exercises that you can do in the comfort of your own home, whether you",
+      "url": "https://www.youtube.com/watch?v=v34abuQ-iF8",
+      "score": 54.669999999999995,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-19T20:30:54+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -368,56 +414,10 @@
       "is_global": true
     },
     {
-      "id": "eef2eba304e3",
-      "title": "Eric English: PEDs & Peptides (A lot Worse Than I Thought)",
-      "summary": "🏆 GET MY FREE PROGRAM NOW:  https://muscularstrength.com/guaranteed_gains_sign_up_FREE \n\n📨 Join My MAILING LIST: https://muscularstrength.com/mailing-list\n\n💪🏻 CHECK OUT MY HOME & GYM WORKOUT PROGRAMS: https://muscularstrength.com/program-selector \n\n💯🏋️ONLINE COACHING: https://mus",
-      "url": "https://www.youtube.com/watch?v=PHJDF52lkps",
-      "score": 56.98,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-11-19T07:16:19+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
-          "channel_title": "ScottHermanFitness",
-          "video_id": "PHJDF52lkps",
-          "published": "2026-11-05T19:57:49+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "6902509bfbd1",
-      "title": "Bathroom Pullup Hack - Worth Doing?",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/Kq3W9vhnz18",
-      "score": 56.98,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-11-19T07:16:21+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
-          "channel_title": "Renaissance Periodization",
-          "video_id": "Kq3W9vhnz18",
-          "published": "2026-11-18T14:00:13+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "c8d7510c341d",
-      "title": "The ONLY 2 DB Biceps Exercises You Need (NO, SERIOUSLY!)",
-      "summary": "Get big biceps here - https://athleanx.com\nSubscribe to the ATHLEAN-X channel here - http://bit.ly/2b0coMW\n\nWhat if I told you that here were only 2 dumbbell biceps exercises you need to grow bigger biceps, would you believe me? In this video, I am going to show you how only two ",
-      "url": "https://www.youtube.com/watch?v=hzoaClKPAUs",
+      "id": "623aafba7483",
+      "title": "Aldi vs. Whole Foods: Is Expensive Food Worth It?",
+      "summary": "Dr. Mike  shops at Aldi and Whole Foods to see if expensive food is worth it for bodybuilding!\n\nThe UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced scienc",
+      "url": "https://www.youtube.com/watch?v=BaP79XMRlb8",
       "score": 54.669999999999995,
       "sources": [
         "youtube"
@@ -425,7 +425,50 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-19T07:16:18+00:00",
+      "first_seen": "2026-11-19T20:30:57+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "BaP79XMRlb8",
+          "published": "2026-11-18T17:00:17+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "511ac995eea7",
+      "title": "A world-first use of a fitness tracker is helping unlock the mysteries of horse's hearts - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUhOSU80OHpjbFZPNTM4NGdfVXZGeDlqb2kzZkc0YThTOTFNQURpb3d5cFEtYkhGakhkQmpjekhnMTBqakdaaHNHV3hHX0xtb2pBeXdKWUE2b05md3VqS1BaM21ieDhxb2JsZzBrN3UtZVN0TldtQnQyM3FscjlXWVNzbk5GOE1STVhvZGNxdkhoODJuN2RXUXd4UEwyRHYwTFBfc21yeWxHMX",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUhOSU80OHpjbFZPNTM4NGdfVXZGeDlqb2kzZkc0YThTOTFNQURpb3d5cFEtYkhGakhkQmpjekhnMTBqakdaaHNHV3hHX0xtb2pBeXdKWUE2b05md3VqS1BaM21ieDhxb2JsZzBrN3UtZVN0TldtQnQyM3FscjlXWVNzbk5GOE1STVhvZGNxdkhoODJuN2RXUXd4UEwyRHYwTFBfc21yeWxHMXFtT3RyRWhtZDBIdERfOTE4V1pJeFRSUmcwMV90cw?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 19 Nov 2026 10:00:00 GMT",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "c8d7510c341d",
+      "title": "The ONLY 2 DB Biceps Exercises You Need (NO, SERIOUSLY!)",
+      "summary": "Get big biceps here - https://athleanx.com\nSubscribe to the ATHLEAN-X channel here - http://bit.ly/2b0coMW\n\nWhat if I told you that here were only 2 dumbbell biceps exercises you need to grow bigger biceps, would you believe me? In this video, I am going to show you how only two ",
+      "url": "https://www.youtube.com/watch?v=hzoaClKPAUs",
+      "score": 52.35999999999999,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-19T20:30:54+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -437,18 +480,61 @@
       "is_global": true
     },
     {
-      "id": "df2e6d0faaad",
-      "title": "Beginners Can Build Muscle Without Bulking",
+      "id": "6902509bfbd1",
+      "title": "Bathroom Pullup Hack - Worth Doing?",
       "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/gLExL8z5xpQ",
-      "score": 54.669999999999995,
+      "url": "https://www.youtube.com/shorts/Kq3W9vhnz18",
+      "score": 52.35999999999999,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-19T07:16:21+00:00",
+      "first_seen": "2026-11-19T20:30:57+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "Kq3W9vhnz18",
+          "published": "2026-11-18T14:00:13+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "cb69b7ec76d6",
+      "title": "Here’s the least amount of exercise you can get away with and still age well - Scientific American",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkI4NmtWa25SVkZBVTA1bW9mOUVGaHRMNk42TWtrSm8xYV9FRGgzQlJCbFhyeTVndEswekdwOTlLRVl5RUtQbVFsaUs4eEhtNWhXU2VDaURmd3lQZ2p6QTNnM3dXVEllbGlXVHNZeDFFTDFTS0JNVjFBWEo3eGpVbk04WjM1OFhnRlAxdy1NeENoYmJfN0VR?oc=5\" target=\"_blank\">Her",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkI4NmtWa25SVkZBVTA1bW9mOUVGaHRMNk42TWtrSm8xYV9FRGgzQlJCbFhyeTVndEswekdwOTlLRVl5RUtQbVFsaUs4eEhtNWhXU2VDaURmd3lQZ2p6QTNnM3dXVEllbGlXVHNZeDFFTDFTS0JNVjFBWEo3eGpVbk04WjM1OFhnRlAxdy1NeENoYmJfN0VR?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:36+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+          "source": "Scientific American"
+        }
+      ]
+    },
+    {
+      "id": "df2e6d0faaad",
+      "title": "Beginners Can Build Muscle Without Bulking",
+      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
+      "url": "https://www.youtube.com/shorts/gLExL8z5xpQ",
+      "score": 50.05,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-19T20:30:57+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -458,92 +544,6 @@
         }
       ],
       "is_global": true
-    },
-    {
-      "id": "9850e558039a",
-      "title": "Billie Eilish’s Weight Loss Journey: How Fitness Became Part of Her Routine While Her Views on Body Image Continued to Evolve - 大和ミュージアム（呉市海事歴史科学館）",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxQaFR0STJiSnFIRGRrdmNwV3Bsb0gzbEdEQzVBbjUtQ0RuV0R0TGtmMkg2bUptdDNrWElHR3V5N3dRclcwYkI2M3VyNzhKRDlfRDNoajNNQi1iYm83aDZvQzdTdVN5bDE1Q3Rlb3hrdkNDUlZlZTVpczFmOVpfZWZZdFdHakktVVNqRXNDZ2RVN0poT0RBNWVabmdPbmRUU3Z0cV9xWFVHaUwwaU",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQaFR0STJiSnFIRGRrdmNwV3Bsb0gzbEdEQzVBbjUtQ0RuV0R0TGtmMkg2bUptdDNrWElHR3V5N3dRclcwYkI2M3VyNzhKRDlfRDNoajNNQi1iYm83aDZvQzdTdVN5bDE1Q3Rlb3hrdkNDUlZlZTVpczFmOVpfZWZZdFdHakktVVNqRXNDZ2RVN0poT0RBNWVabmdPbmRUU3Z0cV9xWFVHaUwwaUVTcjBvYVJoOEFBaUNkTmU1ZzFpSjlCRk5HTWJ0OUw1eE9YMFRCOGdLbnJmUThvQjlNRXAtM2l6OXotTlh3V2FEVXNkWUlkeWVZN3ZDNThzYlRYZkk4ZTlBQ01YczgtUlVvOHRVVDNScF9NOWo4a2hnZDVsTFpoMXlHWFYxYTFWcHZYaUJDX21qUGpwbmY3NXowWThHaVVTb0Z0cGlDR2c?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 19 Nov 2026 04:32:40 GMT",
-          "source": "大和ミュージアム（呉市海事歴史科学館）"
-        }
-      ]
-    },
-    {
-      "id": "06159faa689f",
-      "title": "Give Me 2 Dumbbells... I'll Build You a BIGGER Chest",
-      "summary": "Build a Big Chest Here - https://athleanx.com\nSubscribe to This Channel Here - http://bit.ly/2b0coMW\n\nIf you want to learn how to build a big chest with dumbbells only, then you’ve come to the right video. I’m going to show you how to build your upper chest, develop your lower pe",
-      "url": "https://www.youtube.com/watch?v=GOxz6bLRMsk",
-      "score": 52.35999999999999,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-11-19T07:16:18+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
-          "channel_title": "ATHLEAN-X™",
-          "video_id": "GOxz6bLRMsk",
-          "published": "2026-11-05T17:53:35+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "40140984a618",
-      "title": "Jumping High And Far Are The Same Skill",
-      "summary": "The UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hyped\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced science content! ➡️https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg/join\n\nFeaturing Dr. Mike Isr",
-      "url": "https://www.youtube.com/shorts/aS5X-xZ82-I",
-      "score": 52.35999999999999,
-      "sources": [
-        "youtube"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "global",
-      "first_seen": "2026-11-19T07:16:21+00:00",
-      "raw_samples": [
-        {
-          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
-          "channel_title": "Renaissance Periodization",
-          "video_id": "aS5X-xZ82-I",
-          "published": "2026-11-17T14:00:01+00:00"
-        }
-      ],
-      "is_global": true
-    },
-    {
-      "id": "43ec63847331",
-      "title": "J-Hope’s workout routine: How BTS’s Hobi maintains stage stamina and strength - Tatler Asia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTZuNHZ0SGsxRkFkdzkyUDhfTGNVTW51MjVoZE5CNFZzeXdSWUpnWkRjeHQ0YWw2ak9vSnN5WW5MaWZMYWY4V1FGc0xoeEVGQUZZUm9BQ3BDb1NCQkhwOVk0TTJrREczUm1URUtnek9YdWNCc0NTSU1NUWNfWTl3UjJJdw?oc=5\" target=\"_blank\">J-Hope’s workout routine: How",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTZuNHZ0SGsxRkFkdzkyUDhfTGNVTW51MjVoZE5CNFZzeXdSWUpnWkRjeHQ0YWw2ak9vSnN5WW5MaWZMYWY4V1FGc0xoeEVGQUZZUm9BQ3BDb1NCQkhwOVk0TTJrREczUm1URUtnek9YdWNCc0NTSU1NUWNfWTl3UjJJdw?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:01+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 19 Nov 2026 03:31:29 GMT",
-          "source": "Tatler Asia"
-        }
-      ]
     }
   ]
 }

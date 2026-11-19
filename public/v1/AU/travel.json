@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "AU",
-  "generated_at": "2026-11-19T07:23:06+00:00",
+  "generated_at": "2026-11-19T20:37:40+00:00",
   "cache_ttl_hours": 6,
-  "count": 20,
+  "count": 18,
   "trends": [
     {
-      "id": "961904e4ccca",
-      "title": "Territory leads the nation as cruise tourism surges 30% in two years - Tourism and Events NT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3Y0LVptMGRVUlJKWVNDcUVmcE9HVHdEdFQ0cGhuV3FCS1M1VjJxbVBhdUVERzZoay1xcTFCMFdieVhQbWRWVUZ1WWViYzRMVVFKSkEyX3ZFZHVmVExVNElsVmxwbUVEb2pqekVQcDQ3cEhGVmFldnpMV1VkMk5IRzBDM3FxT09nSkdHWTBCcXFVWjFiM1dmWHdZU1BtcWdHd2hMRTFEWWtxUG",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3Y0LVptMGRVUlJKWVNDcUVmcE9HVHdEdFQ0cGhuV3FCS1M1VjJxbVBhdUVERzZoay1xcTFCMFdieVhQbWRWVUZ1WWViYzRMVVFKSkEyX3ZFZHVmVExVNElsVmxwbUVEb2pqekVQcDQ3cEhGVmFldnpMV1VkMk5IRzBDM3FxT09nSkdHWTBCcXFVWjFiM1dmWHdZU1BtcWdHd2hMRTFEWWtxUGFUTFg4?oc=5",
+      "id": "0dfa7bdf8db1",
+      "title": "UK Travel & Tourism Faces 925,000-Worker Shortfall | WTTC - World Travel & Tourism Council (WTTC)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0taFljcE12NVVfbjdsM3FzQ0NNb2JycHctaHhON2djWUFWSkYxQlBTMFcwSFJONWI0cmZJMW43OFZGbGQ4T09HTFF6OHJIelNwTTNWcHJDa2l6ZkdMUnB4XzgxZG8xeFN6WnAyQ0F2MXJvdDVoTDBtMQ?oc=5\" target=\"_blank\">UK Travel & Tourism Faces 925,000-Worker Shor",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0taFljcE12NVVfbjdsM3FzQ0NNb2JycHctaHhON2djWUFWSkYxQlBTMFcwSFJONWI0cmZJMW43OFZGbGQ4T09HTFF6OHJIelNwTTNWcHJDa2l6ZkdMUnB4XzgxZG8xeFN6WnAyQ0F2MXJvdDVoTDBtMQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 19 Nov 2026 12:21:24 GMT",
+          "source": "World Travel & Tourism Council (WTTC)"
+        }
+      ]
+    },
+    {
+      "id": "457cedb200c5",
+      "title": "He left corporate life and burnt his suits. Now he sells $3m holidays - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU1mT0J6WVh0TTJnS1o3VFhJaGtmLU1kbXVYVHluZ0NaTlVBTmdubHIyNFFhaUNqdmNFQUxnNGZZQ0h4UGdsRTVzYnY4TW91dXh3N01TaU9icFplVlN1cVB1YUFWZDYtQ2hsLV9DRzFNR3NwMnRKQmN6VHpFbU9UNVBIOVJtdzE1Nk44cmZEVG5WYkg4WHlmZ1lKOW14X3o4UmVlWl9aVmpJUG",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU1mT0J6WVh0TTJnS1o3VFhJaGtmLU1kbXVYVHluZ0NaTlVBTmdubHIyNFFhaUNqdmNFQUxnNGZZQ0h4UGdsRTVzYnY4TW91dXh3N01TaU9icFplVlN1cVB1YUFWZDYtQ2hsLV9DRzFNR3NwMnRKQmN6VHpFbU9UNVBIOVJtdzE1Nk44cmZEVG5WYkg4WHlmZ1lKOW14X3o4UmVlWl9aVmpJUG9CUW5oMTBNVExvODEyUmZ6VmlLMFlZVXNv?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:51+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "AFR"
+        }
+      ]
+    },
+    {
+      "id": "961904e4ccca",
+      "title": "Territory leads the nation as cruise tourism surges 30% in two years - Tourism and Events NT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3Y0LVptMGRVUlJKWVNDcUVmcE9HVHdEdFQ0cGhuV3FCS1M1VjJxbVBhdUVERzZoay1xcTFCMFdieVhQbWRWVUZ1WWViYzRMVVFKSkEyX3ZFZHVmVExVNElsVmxwbUVEb2pqekVQcDQ3cEhGVmFldnpMV1VkMk5IRzBDM3FxT09nSkdHWTBCcXFVWjFiM1dmWHdZU1BtcWdHd2hMRTFEWWtxUG",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3Y0LVptMGRVUlJKWVNDcUVmcE9HVHdEdFQ0cGhuV3FCS1M1VjJxbVBhdUVERzZoay1xcTFCMFdieVhQbWRWVUZ1WWViYzRMVVFKSkEyX3ZFZHVmVExVNElsVmxwbUVEb2pqekVQcDQ3cEhGVmFldnpMV1VkMk5IRzBDM3FxT09nSkdHWTBCcXFVWjFiM1dmWHdZU1BtcWdHd2hMRTFEWWtxUGFUTFg4?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
           "published": "Thu, 19 Nov 2026 06:19:36 GMT",
@@ -27,22 +67,106 @@
       ]
     },
     {
-      "id": "28dab91a1662",
-      "title": "Australian tourism investment pipeline reaches record $81.1 billion - Australasian Leisure Management Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0ZDbUlkZzJaMkktUGFUeWlNMkYtWm80NTZPVnNvbUxNLVZRTmhDSnVMbUpSTlRmdVZqckZ2cTNTUk94OTlUb1B5ZXBXMHduNS11ekpEMDV5RGhoMHVuN0VLUHFteFZKMFVwbWdJVHZlTkNJa181dHZNdFJWMjhTYUNKeldhUUkxQTlUVFhCXzJjYmZCR1pkcUtWelAyTjJQYWc?oc=5\" targ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0ZDbUlkZzJaMkktUGFUeWlNMkYtWm80NTZPVnNvbUxNLVZRTmhDSnVMbUpSTlRmdVZqckZ2cTNTUk94OTlUb1B5ZXBXMHduNS11ekpEMDV5RGhoMHVuN0VLUHFteFZKMFVwbWdJVHZlTkNJa181dHZNdFJWMjhTYUNKeldhUUkxQTlUVFhCXzJjYmZCR1pkcUtWelAyTjJQYWc?oc=5",
-      "score": 86.4,
+      "id": "e9ee0972491c",
+      "title": "Overlooked Asia – 10 underrated destinations you should visit - SMH.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVV4ajY4VDE2NUkyUWdMd1AtcVktZUtWb1VfMzZUb1U3X0V1OFpaUFJsTzk4dkItbS14eEs5T0p6eFExRnNvbkFtam5tNktKZndTaVBYOTNFeEl2SElING1JZlhXWnVHWDU4d2pVT3JtOEZ2WEdzQmV6MWdSNWxaSmpQbmVPdTVkOV8takZFcDhLcklOX0YyRjV1VmFQR1MwRjhrQkpjQklkVl",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVV4ajY4VDE2NUkyUWdMd1AtcVktZUtWb1VfMzZUb1U3X0V1OFpaUFJsTzk4dkItbS14eEs5T0p6eFExRnNvbkFtam5tNktKZndTaVBYOTNFeEl2SElING1JZlhXWnVHWDU4d2pVT3JtOEZ2WEdzQmV6MWdSNWxaSmpQbmVPdTVkOV8takZFcDhLcklOX0YyRjV1VmFQR1MwRjhrQkpjQklkVllzd3ktbFNiVy1UdXBZYWd3QTR6WUk1SEE?oc=5",
+      "score": 77.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 18 Nov 2026 23:34:24 GMT",
-          "source": "Australasian Leisure Management Magazine"
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "SMH.com.au"
+        },
+        {
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "The Age"
+        }
+      ]
+    },
+    {
+      "id": "938e177f618c",
+      "title": "Australia is one of the world's top migration destinations. Is that at risk of shifting? - SBS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM3UzZVVBMW9DaHNtSTV4aURzWi1sVEJHbHJpNm03MU90azZ1TW56SktfaElJenQ5WUg1blRuNlNxRTN4MVFRX3RSSjg4NFRBX3pfbl9Nd2NCOV9jci1yZXludUxiOWlPcWlUc0g0ZzREVUY5b0ZGR3JJV0psR2RGR055UUo3c3JVSHk0?oc=5\" target=\"_blank\">Australia is one of",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM3UzZVVBMW9DaHNtSTV4aURzWi1sVEJHbHJpNm03MU90azZ1TW56SktfaElJenQ5WUg1blRuNlNxRTN4MVFRX3RSSjg4NFRBX3pfbl9Nd2NCOV9jci1yZXludUxiOWlPcWlUc0g0ZzREVUY5b0ZGR3JJV0psR2RGR055UUo3c3JVSHk0?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:51+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 19 Nov 2026 18:50:29 GMT",
+          "source": "SBS"
+        }
+      ]
+    },
+    {
+      "id": "33e99c2f7160",
+      "title": "Tourism industry urges Labor to back Macquarie Point stadium ahead of cost update - Pulse Tasmania",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1pkNUJSVGM2eE5uTzdZb3pMSV9SejZVWWhrX1MzN0t4ZTg1bXJwYjY4QUZSUGFwRU1OTm43cXR3bVV2UU5VeWxHY1kxaDV4Z0cyVW9MbHVLOHlrZ09ldmg0NWhVRzNibmR2Nld6OHZlV3ZpeWE2NTgwSkVyWnM1U2dOcFNDYTJTYVhTNlR5Yjl3M2gwVHhTb1ZsUHJpMnBKeloxNGp1Ml8yM2",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1pkNUJSVGM2eE5uTzdZb3pMSV9SejZVWWhrX1MzN0t4ZTg1bXJwYjY4QUZSUGFwRU1OTm43cXR3bVV2UU5VeWxHY1kxaDV4Z0cyVW9MbHVLOHlrZ09ldmg0NWhVRzNibmR2Nld6OHZlV3ZpeWE2NTgwSkVyWnM1U2dOcFNDYTJTYVhTNlR5Yjl3M2gwVHhTb1ZsUHJpMnBKeloxNGp1Ml8yM2ttTUVxOWwyT19PUzg?oc=5",
+      "score": 68.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:51+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "Pulse Tasmania"
+        }
+      ]
+    },
+    {
+      "id": "45a7500f843e",
+      "title": "Regional destination two hours from Sydney booming for summer - Nine.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2hCMUVOZ0hUUGhkYXRKa0RCaGxEZURfUXVMRHFfbFppT2hvREs5RzZwYkFLTFFrWjZpSks0THRvdWRhQlFPNG1mNmJ1VG4wRmxtU19Zbi1rZlZEcHpyd3dpV3RrVUxRd0hma2pyTmpyN1RaR3k2WmFsSWFiSU5PYUhPb2pVTFh2SVljY2xlREJqQXdPRUZuVzJUazBNUWxZTTg3OA?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2hCMUVOZ0hUUGhkYXRKa0RCaGxEZURfUXVMRHFfbFppT2hvREs5RzZwYkFLTFFrWjZpSks0THRvdWRhQlFPNG1mNmJ1VG4wRmxtU19Zbi1rZlZEcHpyd3dpV3RrVUxRd0hma2pyTmpyN1RaR3k2WmFsSWFiSU5PYUhPb2pVTFh2SVljY2xlREJqQXdPRUZuVzJUazBNUWxZTTg3OA?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:51+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "Nine.com.au"
+        }
+      ]
+    },
+    {
+      "id": "3b4140aae604",
+      "title": "How I reduce porphyria triggers so I can stay healthy when I travel - Porphyria News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tTWFk5S1N5LXVPa3daUVZUZFZ4SEZLX1lUSVZ6WmNoQjdjRF9fR2FaNXF5NXRTRzBrMEQxclpySjRfc0JDeGFCYXd6QnZSaGl1Mkd1OVhWdFJLU29MeU0xckJyQ3l5NGFCZFc5QU9MQ1JNZjZSOHNUWktxX2NSams1aTRrVUNDRTVVaW80OTBtZ21ibUE?oc=5\" target=\"_blank\">How ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tTWFk5S1N5LXVPa3daUVZUZFZ4SEZLX1lUSVZ6WmNoQjdjRF9fR2FaNXF5NXRTRzBrMEQxclpySjRfc0JDeGFCYXd6QnZSaGl1Mkd1OVhWdFJLU29MeU0xckJyQ3l5NGFCZFc5QU9MQ1JNZjZSOHNUWktxX2NSams1aTRrVUNDRTVVaW80OTBtZ21ibUE?oc=5",
+      "score": 61.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:51+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 19 Nov 2026 15:27:22 GMT",
+          "source": "Porphyria News"
         }
       ]
     },
@@ -51,17 +175,17 @@
       "title": "Tourism, travel groups warn against tax hike - The Australian",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUTNvMHQwRWNGQVdXaXAyNHItVUgwREQ5VWJxQXpuVXNfVlBYRl9HbFpIaVEtX1lEd0pCU0xSN0tQR19vQ0t3UFhfdFR3enhMX2JLajZFM3c4ektsay1TUUxOQ2JhQy1DLXlsTTFWc0tTckFUd1hMbGlTZ2VCT0tsR3dvY3pLVnRwT0VCM1pTa0lHbEV0eFJQZlhxWXROSmc5bE03QlhYQkFYMW",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUTNvMHQwRWNGQVdXaXAyNHItVUgwREQ5VWJxQXpuVXNfVlBYRl9HbFpIaVEtX1lEd0pCU0xSN0tQR19vQ0t3UFhfdFR3enhMX2JLajZFM3c4ektsay1TUUxOQ2JhQy1DLXlsTTFWc0tTckFUd1hMbGlTZ2VCT0tsR3dvY3pLVnRwT0VCM1pTa0lHbEV0eFJQZlhxWXROSmc5bE03QlhYQkFYMWl0Q25ucTl6TW5ZV0JxQWQzcWlxc1pEZ2tLVzlYMUNrSUNac3YybHpPN1pRbjU?oc=5",
-      "score": 82.8,
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 19 Nov 2026 06:58:50 GMT",
+          "published": "Thu, 19 Nov 2026 07:05:10 GMT",
           "source": "The Australian"
         }
       ]
@@ -71,14 +195,14 @@
       "title": "Black Friday Travel Deals Have Landed. Here Are Some of the Best. - Broadsheet",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0xqX3JyOGU0Qk5IY2hqV0hYVmdOaDU3S0dmNm1qby11aTVRbjFkWWVoVjlidFZfUUhlUXhETm92Sk85Nml3N1NZNUtfLTNoYkhvbjlCTjVNVUx3THloSm9KcnBXUDV2TnNUR2l2MndvYU1waWZlOUdWcTFFWGZlcWxLcjBpVzR5OUJFWDFDV1RSbTVM?oc=5\" target=\"_blank\">Black F",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0xqX3JyOGU0Qk5IY2hqV0hYVmdOaDU3S0dmNm1qby11aTVRbjFkWWVoVjlidFZfUUhlUXhETm92Sk85Nml3N1NZNUtfLTNoYkhvbjlCTjVNVUx3THloSm9KcnBXUDV2TnNUR2l2MndvYU1waWZlOUdWcTFFWGZlcWxLcjBpVzR5OUJFWDFDV1RSbTVM?oc=5",
-      "score": 79.2,
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
           "published": "Thu, 19 Nov 2026 07:02:57 GMT",
@@ -87,58 +211,18 @@
       ]
     },
     {
-      "id": "98988929f2ae",
-      "title": "Outback Cycling wins major NT tourism award - Bicycle Network",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOSm1DSTZCR0JhSUxxVHM3NnBhUUJmM3Nhek9kNk52WnBzN2otVl9ienBqbjB1UTV5N1MzQnlnUGQ5SWliUlllblFXQm5felFDQUw2RGFRQV9pV3k5WEFrR3JGUHlaSmIzYV9WVE9HeVotOXdNdC1DMXZ1MG1iOVdxNzB3SzA4aXdTZE5KLUxUQ3Y4QjRCT2hjTTRB?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSm1DSTZCR0JhSUxxVHM3NnBhUUJmM3Nhek9kNk52WnBzN2otVl9ienBqbjB1UTV5N1MzQnlnUGQ5SWliUlllblFXQm5felFDQUw2RGFRQV9pV3k5WEFrR3JGUHlaSmIzYV9WVE9HeVotOXdNdC1DMXZ1MG1iOVdxNzB3SzA4aXdTZE5KLUxUQ3Y4QjRCT2hjTTRB?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 18 Nov 2026 22:56:45 GMT",
-          "source": "Bicycle Network"
-        }
-      ]
-    },
-    {
-      "id": "1c193f51dab0",
-      "title": "APT centenary 100-day luxury world tour - RACV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2ZmUlo1QkswUEowYTNhRFpIYlFaSEgzZ2U2dTZPZGNvUWdRSkg3eUVZRHdCaW9VbzZmTktZa2x3aHZYQmFUXzhKU3NILWdHZEJWYk0xdTU2aENsMlJPWFpwSXgwZUd1VkU0VzAzVlpvaDNaTWY3dUZJZGRBX3V6UmhPSXhMMTFKSnc?oc=5\" target=\"_blank\">APT centenary 100-da",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2ZmUlo1QkswUEowYTNhRFpIYlFaSEgzZ2U2dTZPZGNvUWdRSkg3eUVZRHdCaW9VbzZmTktZa2x3aHZYQmFUXzhKU3NILWdHZEJWYk0xdTU2aENsMlJPWFpwSXgwZUd1VkU0VzAzVlpvaDNaTWY3dUZJZGRBX3V6UmhPSXhMMTFKSnc?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 19 Nov 2026 02:31:53 GMT",
-          "source": "RACV"
-        }
-      ]
-    },
-    {
       "id": "ce33a4ceeb00",
       "title": "Australia’s tourism investment pipeline hits A$81.1 billion as visitor spending grows - Proactive Investors Australia",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmhJTTJrd3ZjSVVLTXBuWXBnYlZ0WGQ4X3hGZzNnVy12Q3haeWIyUVRMWGZRanZURlphQXhFS19JR010aEVpdjhZbDhXVGNMb1pBUFZuMW1qdkgwczlkaS1mYXFWUW1seDFuMXVHeXRTdzFWMlVPNjVmRkh2dVFpX3FzT0dHRGlYMzhMbGVkSW9kc1ZUaWZTZXM0ZVlUNEhCcG11cVF0UE5WT2",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmhJTTJrd3ZjSVVLTXBuWXBnYlZ0WGQ4X3hGZzNnVy12Q3haeWIyUVRMWGZRanZURlphQXhFS19JR010aEVpdjhZbDhXVGNMb1pBUFZuMW1qdkgwczlkaS1mYXFWUW1seDFuMXVHeXRTdzFWMlVPNjVmRkh2dVFpX3FzT0dHRGlYMzhMbGVkSW9kc1ZUaWZTZXM0ZVlUNEhCcG11cVF0UE5WT21GdkxrLXRzUXVRY1VBMHpYVXZn?oc=5",
-      "score": 68.4,
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
           "published": "Thu, 19 Nov 2026 04:56:39 GMT",
@@ -147,42 +231,22 @@
       ]
     },
     {
-      "id": "dd55f930d655",
-      "title": "57,400 hotel rooms coming as Aussie tourism investment hits record $81B+ - Karryon",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1wYUNhTE5xZmI0dEIzSkdKZTlzb1NGVV9nMFNXTllyU0dyNWtCSEZVcWg5NVpLRlRYeGVBQmNocjRXRE4zYzBmZ1ViYzVmWllXay1HRGFONVFKb2k1QWQ5NDYxV3ZMOXRfd05obUJDUW9xMVNBZTVscExJUjk?oc=5\" target=\"_blank\">57,400 hotel rooms coming as Aussie tour",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wYUNhTE5xZmI0dEIzSkdKZTlzb1NGVV9nMFNXTllyU0dyNWtCSEZVcWg5NVpLRlRYeGVBQmNocjRXRE4zYzBmZ1ViYzVmWllXay1HRGFONVFKb2k1QWQ5NDYxV3ZMOXRfd05obUJDUW9xMVNBZTVscExJUjk?oc=5",
-      "score": 64.8,
+      "id": "479c6a21fef8",
+      "title": "Penetrating the US luxury tourism market - eKathimerini.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmdLaEdCVFdNbzh1ak5UeVc2T3lDbVRoaGVmTklraWZXWkRBZk5yUnlhTlNGWWx1TzR0bTN4OEZJSTVVWjdmdE9fSUNqa29JXzRtdmF4NG1PaWIxWGRqbHZFRHpLTzlldmUxaEdvNWp0VEJqU1QxM2hfcUJUVjI5MDRBOVBibUFQYV9BOXoxMA?oc=5\" target=\"_blank\">Penetrating t",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmdLaEdCVFdNbzh1ak5UeVc2T3lDbVRoaGVmTklraWZXWkRBZk5yUnlhTlNGWWx1TzR0bTN4OEZJSTVVWjdmdE9fSUNqa29JXzRtdmF4NG1PaWIxWGRqbHZFRHpLTzlldmUxaEdvNWp0VEJqU1QxM2hfcUJUVjI5MDRBOVBibUFQYV9BOXoxMA?oc=5",
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 19 Nov 2026 01:43:39 GMT",
-          "source": "Karryon"
-        }
-      ]
-    },
-    {
-      "id": "4170fa46c29a",
-      "title": "Labor comrades fill the Qantas Chairman’s Lounge - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONURjeE1HQzgzUDA3amJGeTUxbXhGakt2aThLYm9BbElDQkNDUE1CeDdkUklhek9DQ1NEOXhKei1jcTFHVXQ4VklzUjU3WERtODFhNnJLQTRoLXlTQm5mR0szMTMyaHJnTHptLXlacWFpRXFCTTY2enRzLVNMYm81cnRTWDBkeFJ6YjhkYVktVzZINnRtZTEtSnBuU1M?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONURjeE1HQzgzUDA3amJGeTUxbXhGakt2aThLYm9BbElDQkNDUE1CeDdkUklhek9DQ1NEOXhKei1jcTFHVXQ4VklzUjU3WERtODFhNnJLQTRoLXlTQm5mR0szMTMyaHJnTHptLXlacWFpRXFCTTY2enRzLVNMYm81cnRTWDBkeFJ6YjhkYVktVzZINnRtZTEtSnBuU1M?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 19 Nov 2026 06:00:00 GMT",
-          "source": "AFR"
+          "published": "Thu, 19 Nov 2026 13:17:40 GMT",
+          "source": "eKathimerini.com"
         }
       ]
     },
@@ -191,14 +255,14 @@
       "title": "Tourism investment in Australia reaches A$81.1 billion - Ticker News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ2FIbkVQa1NSRjhLZFlsZEllWU9KVmxzMXhxaFhmaVBrQjNNOFQzeXQyYl9vNXZydFI0S0Q1bWx4OHU1cEJwZDFodWVtdlRnRkdhQ1BVcXhRdmdEQlVhV1FTQ2tsRDRtbVBoekpiYlF2bWctTlVobG85ZEIyM3ZCcFB3?oc=5\" target=\"_blank\">Tourism investment in Australia",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ2FIbkVQa1NSRjhLZFlsZEllWU9KVmxzMXhxaFhmaVBrQjNNOFQzeXQyYl9vNXZydFI0S0Q1bWx4OHU1cEJwZDFodWVtdlRnRkdhQ1BVcXhRdmdEQlVhV1FTQ2tsRDRtbVBoekpiYlF2bWctTlVobG85ZEIyM3ZCcFB3?oc=5",
-      "score": 57.6,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
           "published": "Thu, 19 Nov 2026 05:44:44 GMT",
@@ -207,90 +271,10 @@
       ]
     },
     {
-      "id": "459bd89bf35d",
-      "title": "New Health Travel Pilot Eases Financial Pressure on Aboriginal Patients Across the North Coast - Northern Rivers Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeHAySUsyYlJrYWJwSS1STGNKdmMySjFfWWhMalZDZDZNd05mTVMyNWJvX1JOcDVBTHRDU0JDb3ZlbjEzZ21YWXBMRDRKZkJqYWlvLU9yajdWLVpNWVZtSm9DQ0l4WmNEQmpWYVpJejRVTlNtTFljODhYcnVxRXhYaHhrRUNpaHB3UjNDMHdhNEJuMVYtOHdBV2tlNXJfdy1FU2ZGVm93Zy1yaz",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeHAySUsyYlJrYWJwSS1STGNKdmMySjFfWWhMalZDZDZNd05mTVMyNWJvX1JOcDVBTHRDU0JDb3ZlbjEzZ21YWXBMRDRKZkJqYWlvLU9yajdWLVpNWVZtSm9DQ0l4WmNEQmpWYVpJejRVTlNtTFljODhYcnVxRXhYaHhrRUNpaHB3UjNDMHdhNEJuMVYtOHdBV2tlNXJfdy1FU2ZGVm93Zy1yazR2VHVaSzVDNWF2SExId0Fj?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 18 Nov 2026 23:26:05 GMT",
-          "source": "Northern Rivers Times"
-        }
-      ]
-    },
-    {
-      "id": "7754ba17ccc5",
-      "title": "[APAC] From wanderlust to locked in: The travel decision journey 2027​ - YouGov",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB0TkwtMXI1WDltb3BJc3Y5VzZIUUk4QVo5d3EtUlFRUXVOWW5HdEZzZmFMR1FscnJYbHVmRUtZY1AyLTRMY2ltT1hnM2Q1akRWeFlMQTJsNTJ3dHZycmdwZy1oX0IxanhrdnV3ZWMtQnBHazJQ?oc=5\" target=\"_blank\">[APAC] From wanderlust to locked in: The travel dec",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0TkwtMXI1WDltb3BJc3Y5VzZIUUk4QVo5d3EtUlFRUXVOWW5HdEZzZmFMR1FscnJYbHVmRUtZY1AyLTRMY2ltT1hnM2Q1akRWeFlMQTJsNTJ3dHZycmdwZy1oX0IxanhrdnV3ZWMtQnBHazJQ?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 19 Nov 2026 04:05:18 GMT",
-          "source": "YouGov"
-        }
-      ]
-    },
-    {
-      "id": "95d0d98d2160",
-      "title": "Making Waves at COP31: Tourism Launches Ocean Catalyst Group to Safeguard Coastlines - World Travel & Tourism Council (WTTC)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMnlsVUo5d1N2cWFORThWYzZuMk5DdTdEVFM1bHY4YTVuZW1FS01UdERXOE9RSVZEa3hIQVBpdl9IeHZ5WGNZVzhtMVZld3lZcDh1c3hLMzUxSW9IcVE?oc=5\" target=\"_blank\">Making Waves at COP31: Tourism Launches Ocean Catalyst Group to Safeguard Coastl",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMnlsVUo5d1N2cWFORThWYzZuMk5DdTdEVFM1bHY4YTVuZW1FS01UdERXOE9RSVZEa3hIQVBpdl9IeHZ5WGNZVzhtMVZld3lZcDh1c3hLMzUxSW9IcVE?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 18 Nov 2026 16:18:00 GMT",
-          "source": "World Travel & Tourism Council (WTTC)"
-        }
-      ]
-    },
-    {
-      "id": "8af932a06e93",
-      "title": "A 12-minute nap and 30 hours of running: is this your next holiday? - The Canberra Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2E0N29ua0MwV2xsNDJjRzR3UlJhNzdRUHk2ejhGQ3luUkxIZFdWal9jZGxzNG91S0llTW4tb1VEYTlCQmJleEJyNlY3VVlWVkljMXhDWFBJN0tVR1VuZ3p6c2xyZHlrT1JSTm1qbG1kU1BqX1JoMGN5TjV4RERoU2hRZjlDMGs1VC1fNS14LWd4ODFGUl9XWlFxVDNvdFVHcXAyeENsQUVTRW",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2E0N29ua0MwV2xsNDJjRzR3UlJhNzdRUHk2ejhGQ3luUkxIZFdWal9jZGxzNG91S0llTW4tb1VEYTlCQmJleEJyNlY3VVlWVkljMXhDWFBJN0tVR1VuZ3p6c2xyZHlrT1JSTm1qbG1kU1BqX1JoMGN5TjV4RERoU2hRZjlDMGs1VC1fNS14LWd4ODFGUl9XWlFxVDNvdFVHcXAyeENsQUVTRWZ2WkFJ?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 19 Nov 2026 03:19:15 GMT",
-          "source": "The Canberra Times"
-        }
-      ]
-    },
-    {
-      "id": "450ec9321362",
-      "title": "Forestry transition grants aim to transform Benalla into tourism hub - Corowa Free Press",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUVxR1kzMUhLODd0NUt1aVQzM2tnRlZyc0ZhaWFpSkdsdjRnc1BIblJ3WTIzUml5bVhoQjZtdG9iZXVtMDNDSVFZNktLdHAyd2NUZDhRSFBmSFpwTVg5Wk9oSDlXNUFxVUkwc1V6bWdMcU5QQjM1clNIYjdXOW9aZThYVmNid3dZMkNKM1NyZThxb3IzMTlWX3NuWXdseDRYOWxJVGhSWFpMUD",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUVxR1kzMUhLODd0NUt1aVQzM2tnRlZyc0ZhaWFpSkdsdjRnc1BIblJ3WTIzUml5bVhoQjZtdG9iZXVtMDNDSVFZNktLdHAyd2NUZDhRSFBmSFpwTVg5Wk9oSDlXNUFxVUkwc1V6bWdMcU5QQjM1clNIYjdXOW9aZThYVmNid3dZMkNKM1NyZThxb3IzMTlWX3NuWXdseDRYOWxJVGhSWFpMUDVMV3c?oc=5",
+      "id": "c18b11641749",
+      "title": "Travel quiz: Mount Rushmore is in which US state? - SMH.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOamFpaHl2N1Q0UUNyTHVVbjkxekllWmdha0otRnZNU0tsakxLV1d5cXpWVllxTTRIb3JMWGcxX25wSXZMMzRYNmUtblVCdEFOMG5RX1VOc3ZWLUpLSGxiUDduOEdDMEM0eldSWElESHpfX2tlcjhwRlFtdUZqcXlHT1BHdWFuMGpNWmphaXNyaEhLMmFLdzVlRjVBSlgzemVDZklGbmQ1RC1LVn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOamFpaHl2N1Q0UUNyTHVVbjkxekllWmdha0otRnZNU0tsakxLV1d5cXpWVllxTTRIb3JMWGcxX25wSXZMMzRYNmUtblVCdEFOMG5RX1VOc3ZWLUpLSGxiUDduOEdDMEM0eldSWElESHpfX2tlcjhwRlFtdUZqcXlHT1BHdWFuMGpNWmphaXNyaEhLMmFLdzVlRjVBSlgzemVDZklGbmQ1RC1LVnNidDQtdU52dw?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,39 +282,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 19 Nov 2026 03:20:25 GMT",
-          "source": "Corowa Free Press"
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "SMH.com.au"
         }
       ]
     },
     {
-      "id": "fd7d5387d84b",
-      "title": "Citigroup Becomes Substantial Shareholder in Flight Centre Travel Group with 6.01% Stake - Kalkine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTBtbmd3YXRPU05zc2NfNkRYMTFvV05EWjhqeWRLai15Z2xtcEY2OEp0NG5DbEM2V0U0WUU2T053UHZmR095VXlKaHFFN3U3YVpIRXdzOXROSy15Z1B1M1VUb3lPcHJpdkNwSENZNl9rbFlQNnpjeHZqcndTYmZqZVJHNDlCTDA2YlFFdEhxWC1kUE0tZE1DMGlXRzAxOHpkMGlySHNKZ2hOMT",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTBtbmd3YXRPU05zc2NfNkRYMTFvV05EWjhqeWRLai15Z2xtcEY2OEp0NG5DbEM2V0U0WUU2T053UHZmR095VXlKaHFFN3U3YVpIRXdzOXROSy15Z1B1M1VUb3lPcHJpdkNwSENZNl9rbFlQNnpjeHZqcndTYmZqZVJHNDlCTDA2YlFFdEhxWC1kUE0tZE1DMGlXRzAxOHpkMGlySHNKZ2hOMTFkdlJnR0pSQ3FLNFRMSUcwT1dLS1FJY2ttcUpN?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 19 Nov 2026 06:56:56 GMT",
-          "source": "Kalkine"
-        }
-      ]
-    },
-    {
-      "id": "7ec37c83029d",
-      "title": "Australia’s “devastating” second year of cruise tourism decline - Seatrade Cruise News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWV6X2h0c1VqVkZCSUlzTlI2UjUwUDF1dTJjUUEtWW5LLUxMMW5mZGpEWFJiWnhYdG5TSlpWdVFMc1dWd3JETEF3T1dzUElxbmQ3SzZhZ25JUVBGMDJtX05ra0FKTkFCMVNDc1l2SkNmckM5SHBWWEM3RUFBZVZadFQ0Q20wVzdvTUhoZWRIY0RSMkJlRGQ1Ym5QNzNCZnVoSGZCcFFXcEdqMH",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWV6X2h0c1VqVkZCSUlzTlI2UjUwUDF1dTJjUUEtWW5LLUxMMW5mZGpEWFJiWnhYdG5TSlpWdVFMc1dWd3JETEF3T1dzUElxbmQ3SzZhZ25JUVBGMDJtX05ra0FKTkFCMVNDc1l2SkNmckM5SHBWWEM3RUFBZVZadFQ0Q20wVzdvTUhoZWRIY0RSMkJlRGQ1Ym5QNzNCZnVoSGZCcFFXcEdqMHR1MkdRVUxn?oc=5",
+      "id": "8f07c3705065",
+      "title": "How Generation Z is doing schoolies differently - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0xpWHhRS083UlpndlpaaUZpWVI1SmdZeUF4VEJnREZDUld5U05oWkphNWREWld5Ylo5Q2hrdlRYNnNOX0tYcDAzVklib2xqVEJjZ2NJeXdQZmRoU1ZPSWppZXY4d1c3eDNiYXU0QkZKdmtNb0pyYWI5VUpPbGttNm92QlBDbmtvYUpQeFFMZGJGR0RZZ2FBSEFRZ2Z3eDZ0TGV1OHlvUUlKQQ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0xpWHhRS083UlpndlpaaUZpWVI1SmdZeUF4VEJnREZDUld5U05oWkphNWREWld5Ylo5Q2hrdlRYNnNOX0tYcDAzVklib2xqVEJjZ2NJeXdQZmRoU1ZPSWppZXY4d1c3eDNiYXU0QkZKdmtNb0pyYWI5VUpPbGttNm92QlBDbmtvYUpQeFFMZGJGR0RZZ2FBSEFRZ2Z3eDZ0TGV1OHlvUUlKQQ?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +302,43 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 18 Nov 2026 23:48:37 GMT",
-          "source": "Seatrade Cruise News"
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "AFR"
         }
       ]
     },
     {
-      "id": "8b5e281f7c46",
-      "title": "Landmark tourism property earmarked for expansion - Sunshine Coast News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWF4c0dqbTBJSWxfMHBRRlJPSGJLWmJzZ2xOdFZjMGNodjU3YW11V3cwWTFVNFBlQnUtYnkxOUZXRnBsNndqOGhXdEpWdUNCVXdsVlFkRVFSbUc1TkhLMkNLaER4akR6MjVQcWVfWDBXaUkxbGdkemZNSFZBb29EU292Zi1Vek1GaFFLYlROSWhsX2xDcUk5SE10M1oxU2s?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWF4c0dqbTBJSWxfMHBRRlJPSGJLWmJzZ2xOdFZjMGNodjU3YW11V3cwWTFVNFBlQnUtYnkxOUZXRnBsNndqOGhXdEpWdUNCVXdsVlFkRVFSbUc1TkhLMkNLaER4akR6MjVQcWVfWDBXaUkxbGdkemZNSFZBb29EU292Zi1Vek1GaFFLYlROSWhsX2xDcUk5SE10M1oxU2s?oc=5",
+      "id": "ce4ce7c8e95a",
+      "title": "Hotel loyalty points just got more interesting - The Age",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQX2haTGMtS0VFZ0Q0NTVReWdPWnMxMXdJQVc0aU9GQUVNNExjbWJhd0xpaW5nN2lyRVVXUmc2NjdONDlRVU84WFpHcWhBZGUwcjlJazZkZUtjWnE5aEN5Q01HUW1QRFJNZV9QdHZvdW9OeXg3U3Y1MXN1ZzRaZnhwY2xMTFhodGJZS1lIS3AtampFbzJzNUJYVDVLX3VQbHpNQ184U2ROajdWRF",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX2haTGMtS0VFZ0Q0NTVReWdPWnMxMXdJQVc0aU9GQUVNNExjbWJhd0xpaW5nN2lyRVVXUmc2NjdONDlRVU84WFpHcWhBZGUwcjlJazZkZUtjWnE5aEN5Q01HUW1QRFJNZV9QdHZvdW9OeXg3U3Y1MXN1ZzRaZnhwY2xMTFhodGJZS1lIS3AtampFbzJzNUJYVDVLX3VQbHpNQ184U2ROajdWRFRP?oc=5",
+      "score": 30.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-19T20:28:51+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "The Age"
+        },
+        {
+          "published": "Thu, 19 Nov 2026 18:00:00 GMT",
+          "source": "SMH.com.au"
+        }
+      ]
+    },
+    {
+      "id": "9333339f37ec",
+      "title": "The hotel light switch mystery driving guests to ‘curses and cusses’ around the world - The Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNdHcxb0tIVTM5MkJIbEpOcDBFNnFJZjRzWGlNXy0zeldtZW41cG9DcWlzeGh1eDk0Q2J4ZXFXSUx3Q3dQaWFXWlJHUEliQVFjR2p5UWU1SmFINzJTWFQ3VTFhRlVyRzcyd3pqZy1HYks5OXAzUXBxeldtZU9TRWg1X3Z0eXZ2aXlqREo3WHpMbUh3NzQ4eldnNEF2OVBYZHpYaDJyVUVrcmtBdE",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdHcxb0tIVTM5MkJIbEpOcDBFNnFJZjRzWGlNXy0zeldtZW41cG9DcWlzeGh1eDk0Q2J4ZXFXSUx3Q3dQaWFXWlJHUEliQVFjR2p5UWU1SmFINzJTWFQ3VTFhRlVyRzcyd3pqZy1HYks5OXAzUXBxeldtZU9TRWg1X3Z0eXZ2aXlqREo3WHpMbUh3NzQ4eldnNEF2OVBYZHpYaDJyVUVrcmtBdE8wckNNQ0tOTEdKM2lDS3k4RzFIOFhRUjZTMXQ1bWxfdUlhRGtBYmpydlRySkpaSUdhM3ZTUV95NlRiWGRsZW9YSUF5eEg5OTlYOGxZbVE5aXdTRXEwSUVTMkpKOWEyeTQ4RWUzUG5GbGY?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,39 +346,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 18 Nov 2026 17:58:55 GMT",
-          "source": "Sunshine Coast News"
+          "published": "Thu, 19 Nov 2026 18:30:53 GMT",
+          "source": "The Australian"
         }
       ]
     },
     {
-      "id": "6049a89d7445",
-      "title": "ACT: Canberra’s first active travel street a step closer - Bicycle Network",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHpmbm5YdVVGa1JEdDAwT1BaU3pqY2xTX01kZEIzeXVhVEllMy1mZkNfWXFieGlLN3UtS2NoMWJwb0dGZXlVRE9ZU0NudVRDeWJ2bTJRVE9DMjJZZDg3NWs4RG5SR1hVdVJudU02SW5CekVfYVp1Nlh6NTN2TUY2YTZoUVhTTTJrcS10MS1FZTY4eElLb2o3RTN1MllsZlZYWVBRQnJFeXQ?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHpmbm5YdVVGa1JEdDAwT1BaU3pqY2xTX01kZEIzeXVhVEllMy1mZkNfWXFieGlLN3UtS2NoMWJwb0dGZXlVRE9ZU0NudVRDeWJ2bTJRVE9DMjJZZDg3NWs4RG5SR1hVdVJudU02SW5CekVfYVp1Nlh6NTN2TUY2YTZoUVhTTTJrcS10MS1FZTY4eElLb2o3RTN1MllsZlZYWVBRQnJFeXQ?oc=5",
-      "score": 25.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 18 Nov 2026 23:02:30 GMT",
-          "source": "Bicycle Network"
-        }
-      ]
-    },
-    {
-      "id": "a24d768a737c",
-      "title": "Melbourne Airport sets a new record for international travel - Karryon",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGR4cHh6Q3gwbmFCbHNqbjN4TG1aTnJIcXlDSnNibk9RaF9IMVVCeXFNVFo0dmlYTjJGY2VRN1pNT2JKZDZHWlBITFhkN2lxNUVYTjZSQm1fUjNBbDJ5cFo1UndMem1sTTd6Z0YtSFA4TVptek12ZDE0aklwcG5jMg?oc=5\" target=\"_blank\">Melbourne Airport sets a new reco",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGR4cHh6Q3gwbmFCbHNqbjN4TG1aTnJIcXlDSnNibk9RaF9IMVVCeXFNVFo0dmlYTjJGY2VRN1pNT2JKZDZHWlBITFhkN2lxNUVYTjZSQm1fUjNBbDJ5cFo1UndMem1sTTd6Z0YtSFA4TVptek12ZDE0aklwcG5jMg?oc=5",
+      "id": "24372d7f7821",
+      "title": "AI chatbots fuelling overtourism crisis by pushing the same destinations, study warns - The Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPU2pjeDJ0cHJLSGFnVmw0UzctQ3dHbDVobjZ2Nzg3bnAyc3JZbm0yVVpZUnZPMExhSXRTZTBMVTYtWHFLbjlBZGRwcDNJcGlyM0UtM0trajhiSjh6ay11b09GeExWRkNUYk9GeGhCdkMyMzQ4Z19NbU04TU9wckRSVWhFMEt1Yjg3dEFublBLaDJfNHVPa2tlSHdJbmhENjFzOUpuZGVjcjBYeF",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPU2pjeDJ0cHJLSGFnVmw0UzctQ3dHbDVobjZ2Nzg3bnAyc3JZbm0yVVpZUnZPMExhSXRTZTBMVTYtWHFLbjlBZGRwcDNJcGlyM0UtM0trajhiSjh6ay11b09GeExWRkNUYk9GeGhCdkMyMzQ4Z19NbU04TU9wckRSVWhFMEt1Yjg3dEFublBLaDJfNHVPa2tlSHdJbmhENjFzOUpuZGVjcjBYeFdFWm5GZnFmUi1PaHBwMzlGT2lLSEw0R0Q1dFlDOXNpMDdDbXlqak5rOHRVNmtDTmhURkxIdlQ5WVRGQ2g1N0hwcFg5VmVRYm9jTUl3RXdhcXo5NlRCUDBhVVVRUHpFQVJaZ3ZhVGZpWmI?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +366,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-19T20:28:51+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 19 Nov 2026 01:34:06 GMT",
-          "source": "Karryon"
+          "published": "Thu, 19 Nov 2026 07:38:10 GMT",
+          "source": "The Australian"
         }
       ]
     }
