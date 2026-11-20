@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "global",
-  "generated_at": "2026-11-19T20:37:40+00:00",
+  "generated_at": "2026-11-20T07:10:36+00:00",
   "cache_ttl_hours": 6,
-  "count": 2,
+  "count": 3,
   "trends": [
     {
       "id": "999e965890a0",
@@ -18,13 +18,35 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-11-19T20:31:01+00:00",
+      "first_seen": "2026-11-20T07:03:57+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
           "channel_title": "Binging with Babish",
           "video_id": "PL-I1v6aWgQ",
-          "published": "2026-11-18T16:09:18+00:00"
+          "published": "2026-11-20T05:19:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "e624317271dd",
+      "title": "Binging with Babish Live Stream",
+      "summary": null,
+      "url": "https://www.youtube.com/watch?v=2k2EJc5mjmc",
+      "score": 84.7,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-11-20T07:03:57+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "2k2EJc5mjmc",
+          "published": "2026-11-19T21:09:25+00:00"
         }
       ]
     },
@@ -33,14 +55,14 @@
       "title": "10 Levels of Potatoes (ft @FallowChefs) | With Babish",
       "summary": "This episode is sponsored by Cometeer. Get $20 off your first order here: https://cometeer.com/babish\n\nOn this episode of With Babish, we're making 10 levels of potatoes. Thank you to Jack and Will from @FallowChefs for helping with level 10!\n\nRecipes: https://www.babi.sh/recipes",
       "url": "https://www.youtube.com/watch?v=dUtnimSrLSQ",
-      "score": 84.7,
+      "score": 81.4,
       "sources": [
         "youtube"
       ],
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-11-19T20:31:01+00:00",
+      "first_seen": "2026-11-20T07:03:57+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
