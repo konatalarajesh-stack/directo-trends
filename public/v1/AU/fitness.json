@@ -2,23 +2,67 @@
   "schema_version": 1,
   "niche": "fitness",
   "region": "AU",
-  "generated_at": "2026-11-20T20:09:36+00:00",
+  "generated_at": "2026-11-21T07:05:30+00:00",
   "cache_ttl_hours": 6,
   "count": 25,
   "trends": [
     {
-      "id": "a4e29a6894e8",
-      "title": "The major 24-hour gym eyeing up new location in Subiaco - PerthNow",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUJIVXFCX09hT1FVbnAyYXE2Um5tMmI3a0E0NURqLUxvYzBSYThnZW52S252QU1kQ0l3UG1iT3VYdEF2R3B0ZmkzWXpTUTdYYkxMRDN2NDFTbnNTcG0wZXhUTjdBZVk5TmRUbWtSSTVSVldMNU1oSmVOamRtbkNuVnZUVXROVm8wVWxyRUJSUER2RFQtdEhKd0RpdmZ3Q1ZZdXV4VzU1a0Fzbl",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUJIVXFCX09hT1FVbnAyYXE2Um5tMmI3a0E0NURqLUxvYzBSYThnZW52S252QU1kQ0l3UG1iT3VYdEF2R3B0ZmkzWXpTUTdYYkxMRDN2NDFTbnNTcG0wZXhUTjdBZVk5TmRUbWtSSTVSVldMNU1oSmVOamRtbkNuVnZUVXROVm8wVWxyRUJSUER2RFQtdEhKd0RpdmZ3Q1ZZdXV4VzU1a0Fzbl8xLWpGWEJfWUNkV2JtUDFJZlk5NEs1enFlRkVrck53?oc=5",
-      "score": 90.0,
+      "id": "6dafe8bdecea",
+      "title": "Gym destroyed in suspicious fire at Slacks Creek - 7NEWS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQYnVqSHFpbmtCcUp6VlVYWTF4ZUQ0cDEyal91OU5CelRaNTJUaVlPeGMwQ3ZSS2NTM0lCOUtiSV9UcndaMXBvU3Mta25nNzlDcWNXYlRkZGJqVm84T0hnNkQzWGVuWFVlMTdjSDFNc2IybVVDQUQ4MGM4cTdMMmJzdy1KaVZvbm9zYWpPMkY1NXpxVG1JUVcxNlVmSW9LQQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnVqSHFpbmtCcUp6VlVYWTF4ZUQ0cDEyal91OU5CelRaNTJUaVlPeGMwQ3ZSS2NTM0lCOUtiSV9UcndaMXBvU3Mta25nNzlDcWNXYlRkZGJqVm84T0hnNkQzWGVuWFVlMTdjSDFNc2IybVVDQUQ4MGM4cTdMMmJzdy1KaVZvbm9zYWpPMkY1NXpxVG1JUVcxNlVmSW9LQQ?oc=5",
+      "score": 86.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
+      "first_seen": "2026-11-21T06:56:21+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 21 Nov 2026 01:23:46 GMT",
+          "source": "7NEWS"
+        }
+      ]
+    },
+    {
+      "id": "9a3e1bdb322b",
+      "title": "Fenech surprises Tszyu at gym - Fox Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNeDNaU3p0VWVZUG1EMzlhcTB4RWU5OER4V0FsaGVFU3RScDhSN1Q0c0ZOODMzWkdVMFJONUM2YnZvaUVnNlo0cUFWa1FTNmViSGJydU5aeV8wZVh5dnF1cUZmMm5ZeTY0MDNfQVNYLVJBaGpreTNVbm42NTNEbGZUcGdNU1FUN2Z5MUdzZ2p4dmd3cENIUkhnSVlualNOa0s3ZGxiZA?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeDNaU3p0VWVZUG1EMzlhcTB4RWU5OER4V0FsaGVFU3RScDhSN1Q0c0ZOODMzWkdVMFJONUM2YnZvaUVnNlo0cUFWa1FTNmViSGJydU5aeV8wZVh5dnF1cUZmMm5ZeTY0MDNfQVNYLVJBaGpreTNVbm42NTNEbGZUcGdNU1FUN2Z5MUdzZ2p4dmd3cENIUkhnSVlualNOa0s3ZGxiZA?oc=5",
+      "score": 84.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-11-21T06:56:21+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 21 Nov 2026 04:54:00 GMT",
+          "source": "Fox Sports"
+        },
+        {
+          "published": "Sat, 21 Nov 2026 04:54:00 GMT",
+          "source": "CODE Sports"
+        }
+      ]
+    },
+    {
+      "id": "a4e29a6894e8",
+      "title": "The major 24-hour gym eyeing up new location in Subiaco - PerthNow",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUJIVXFCX09hT1FVbnAyYXE2Um5tMmI3a0E0NURqLUxvYzBSYThnZW52S252QU1kQ0l3UG1iT3VYdEF2R3B0ZmkzWXpTUTdYYkxMRDN2NDFTbnNTcG0wZXhUTjdBZVk5TmRUbWtSSTVSVldMNU1oSmVOamRtbkNuVnZUVXROVm8wVWxyRUJSUER2RFQtdEhKd0RpdmZ3Q1ZZdXV4VzU1a0Fzbl",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUJIVXFCX09hT1FVbnAyYXE2Um5tMmI3a0E0NURqLUxvYzBSYThnZW52S252QU1kQ0l3UG1iT3VYdEF2R3B0ZmkzWXpTUTdYYkxMRDN2NDFTbnNTcG0wZXhUTjdBZVk5TmRUbWtSSTVSVldMNU1oSmVOamRtbkNuVnZUVXROVm8wVWxyRUJSUER2RFQtdEhKd0RpdmZ3Q1ZZdXV4VzU1a0Fzbl8xLWpGWEJfWUNkV2JtUDFJZlk5NEs1enFlRkVrck53?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "AU",
+      "first_seen": "2026-11-21T06:56:21+00:00",
       "raw_samples": [
         {
           "published": "Thu, 19 Nov 2026 18:00:00 GMT",
@@ -27,22 +71,22 @@
       ]
     },
     {
-      "id": "601785ce9827",
-      "title": "Skullcandy Crusher 540 Active Wireless Workout Headphones (Coal Black) Review - Cubed3",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDJROUEwNUtkVkg1WUxscDdRTktLLUNjSWRKY0lKcXFfWDV3SFVPSEhEb2xTYUFGZnBtdFJvNFMtQUtVekoxZ3Vmb0ZyNDMtVllIMjZzUW85YUJXb0NYOEU5b05BRUxITldvdnV0WWkyS3JGTGpjVzBVenRNY1RDR3dfMVlQT2VPM3NCZXp0clpXdU53aDRDM3V1R2dSZkhhdnI4VUxQOGtHcn",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDJROUEwNUtkVkg1WUxscDdRTktLLUNjSWRKY0lKcXFfWDV3SFVPSEhEb2xTYUFGZnBtdFJvNFMtQUtVekoxZ3Vmb0ZyNDMtVllIMjZzUW85YUJXb0NYOEU5b05BRUxITldvdnV0WWkyS3JGTGpjVzBVenRNY1RDR3dfMVlQT2VPM3NCZXp0clpXdU53aDRDM3V1R2dSZkhhdnI4VUxQOGtHcnlJTDlR?oc=5",
-      "score": 86.4,
+      "id": "ea821725cdb4",
+      "title": "Logan gym destroyed by suspicious overnight blaze - The Courier Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVJ6YmtoY3lpbEtjeHFDVFU4YWpRWnpTTUFnZFhiZkZxY3g2OXc1MjV6WWt6MGJ0RGJLWmRLTTZkZ0E2U284a1lSLWl0V1ZvaEpWLVNCMktJOTZHelBfQnNIVnJtazBSRG1XZlRBaDFWQXVZOGs0Z1NGejZTdkNOelJhSzI0Z1FiU192Qy02aE1kMVdmUGk5a0JNSGIzOU1VMkRHLXMxUWhFZF",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVJ6YmtoY3lpbEtjeHFDVFU4YWpRWnpTTUFnZFhiZkZxY3g2OXc1MjV6WWt6MGJ0RGJLWmRLTTZkZ0E2U284a1lSLWl0V1ZvaEpWLVNCMktJOTZHelBfQnNIVnJtazBSRG1XZlRBaDFWQXVZOGs0Z1NGejZTdkNOelJhSzI0Z1FiU192Qy02aE1kMVdmUGk5a0JNSGIzOU1VMkRHLXMxUWhFZFZranFEWkJibFVaX1V5N0UydXptbUNJcUcxN0g2T05JSU1KOWcwSHlSdkY2cw?oc=5",
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
+      "first_seen": "2026-11-21T06:56:21+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 20 Nov 2026 09:04:07 GMT",
-          "source": "Cubed3"
+          "published": "Thu, 19 Nov 2026 00:51:00 GMT",
+          "source": "The Courier Mail"
         }
       ]
     },
@@ -51,66 +95,6 @@
       "title": "Fitness, fun and 14 personal bests - Lakes Post",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5VXzlQRUYwM2Q4R3VvQldIV0wtUWRSYjNRTnBIT2ZmUk9yb0VpRW40MkxZTFpQSnE2dFc3THdaekpvNG1FZnRQR2lZSVpnX25BQkJENGtkU0w1UXFLYy1DbVZxSzZUUFN1aU1MbUtpMUhzdXc?oc=5\" target=\"_blank\">Fitness, fun and 14 personal bests</a>&nbsp;&nbsp;<f",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VXzlQRUYwM2Q4R3VvQldIV0wtUWRSYjNRTnBIT2ZmUk9yb0VpRW40MkxZTFpQSnE2dFc3THdaekpvNG1FZnRQR2lZSVpnX25BQkJENGtkU0w1UXFLYy1DbVZxSzZUUFN1aU1MbUtpMUhzdXc?oc=5",
-      "score": 82.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 20 Nov 2026 19:03:44 GMT",
-          "source": "Lakes Post"
-        }
-      ]
-    },
-    {
-      "id": "6c3ba42571fa",
-      "title": "Fitness On Demand rebrands as OSMOTION - Australasian Leisure Management Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1GWThSLTZNbXgwTkdzemN1dTJKWl9Wd0pWejF5Ukp1NG02UW1leG85MzZsdmxTbENsRUl1VTZ3QXhPY21Zal9jSHd1VF96THhYR19rMnA3QTZtR3dXSnZWTm0tZG15QnhnVGVvSTBSNklIaFZCM0V1ZktFYmxYZw?oc=5\" target=\"_blank\">Fitness On Demand rebrands as OSMOTIO",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GWThSLTZNbXgwTkdzemN1dTJKWl9Wd0pWejF5Ukp1NG02UW1leG85MzZsdmxTbENsRUl1VTZ3QXhPY21Zal9jSHd1VF96THhYR19rMnA3QTZtR3dXSnZWTm0tZG15QnhnVGVvSTBSNklIaFZCM0V1ZktFYmxYZw?oc=5",
-      "score": 79.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 20 Nov 2026 05:08:27 GMT",
-          "source": "Australasian Leisure Management Magazine"
-        }
-      ]
-    },
-    {
-      "id": "eb6bad0907ca",
-      "title": "How The Demands Of Leadership Can Affect Cardiovascular Fitness - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHpSa29CV0x2SG5hQU02aFdUdlJ4bEZLZG9FOVgzR2JfZF9Vc3hlMWNfQjZ2NDMxU2lGaTNyc0pWUTdoMTUtbjZMbUFOUTNBckV5bDZ3MkJxVWk1bk14WW9rN1ZrMkY2SFdQTmpJVWNLRVZnNWVxakNaMmN3c0NIUE5YVDQtSk41NmVGUVgwM0NIN3ctaHZQejI5WlhScWRERW1iQ0d2V1pkdD",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHpSa29CV0x2SG5hQU02aFdUdlJ4bEZLZG9FOVgzR2JfZF9Vc3hlMWNfQjZ2NDMxU2lGaTNyc0pWUTdoMTUtbjZMbUFOUTNBckV5bDZ3MkJxVWk1bk14WW9rN1ZrMkY2SFdQTmpJVWNLRVZnNWVxakNaMmN3c0NIUE5YVDQtSk41NmVGUVgwM0NIN3ctaHZQejI5WlhScWRERW1iQ0d2V1pkdDdMdEI3M2NVOUxxYm5ybGc?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "fitness",
-      "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 20 Nov 2026 19:45:44 GMT",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "id": "582441e7902a",
-      "title": "The sweet spot for how much strength training you really need to live longer - The Australian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaFVzdjNrMThQZWxYZFVycVVUTjJkWFVJc3BTbXhIYTF6WlgyUmg3ZjJONjJmVlVhaUhoUFI5b1FLbEh1S2s0bzhVdEY2LUkwZjEwclpvc2xXQlFrQW1rRjhMNlh6M1F2Q2JkMzA2Y2hZYzR2NXVCZnRnR3ExSU1ONk5LR25VNER0TEJrRWMxal9ZbUJkTVR0TVBWR21sMUFmRmdyQjQ0eFRpRm",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaFVzdjNrMThQZWxYZFVycVVUTjJkWFVJc3BTbXhIYTF6WlgyUmg3ZjJONjJmVlVhaUhoUFI5b1FLbEh1S2s0bzhVdEY2LUkwZjEwclpvc2xXQlFrQW1rRjhMNlh6M1F2Q2JkMzA2Y2hZYzR2NXVCZnRnR3ExSU1ONk5LR25VNER0TEJrRWMxal9ZbUJkTVR0TVBWR21sMUFmRmdyQjQ0eFRpRmxxYm5JMDZNR0QwTm1uTzVuSHZsczcwYWVPSmR2NDg1eFRNTWxKUkVXcER0MHBIRENhSnVLR2FOTkpMRDlZRzlrcXhobm9PUQ?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,19 +102,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
+      "first_seen": "2026-11-21T06:56:21+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 20 Nov 2026 18:35:04 GMT",
-          "source": "The Australian"
+          "published": "Fri, 20 Nov 2026 19:03:07 GMT",
+          "source": "Lakes Post"
         }
       ]
     },
     {
-      "id": "182be68b3e24",
-      "title": "Former Adelaide Crows headquarters set for a new chapter as West Lakes eyes major fitness and wellness hub - Glam Adelaide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGtGUVBZQzJ3TmVhc2tiVURlTEliT0xJWml1cEVhRmVhUEFsdkhpbUw4VXQ4M3pnaTFTZGlGNDFVeFhjcUNlQmt2clFvaVpiR1V6Tnl5TGlLMmF3UjMtVldKSENPRENaRHluYXdNaEpVLXUyZXUyRjFDbWxWcHZCY05OSUdxb1dNSFRXM2kyU1lReFJMcElhSTg2T3MtZXFyN0huSHNSLVlJb2",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGtGUVBZQzJ3TmVhc2tiVURlTEliT0xJWml1cEVhRmVhUEFsdkhpbUw4VXQ4M3pnaTFTZGlGNDFVeFhjcUNlQmt2clFvaVpiR1V6Tnl5TGlLMmF3UjMtVldKSENPRENaRHluYXdNaEpVLXUyZXUyRjFDbWxWcHZCY05OSUdxb1dNSFRXM2kyU1lReFJMcElhSTg2T3MtZXFyN0huSHNSLVlJb2JqdzdDeEVEQmx1MVhJT3RyOVA4U05LYVZ3WGdZMEdVSVo4clVs?oc=5",
+      "id": "289c37be6394",
+      "title": "Arson investigation launched as Brisbane gym destroyed by inferno - News24",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXk4N2ZSVXprdU1YdHZvODZjLTZCN2FFQWNTcnlJLTFaTTdTWHIwM0tYa3B1bEEzeEZNc1hJbHJ0Qmo3a3BfOWJMc1hsbmVuVjNQVWd2YnNiejMwaTZic3NTbE5XZ2JLVlduQTlMSDBndzRiNTJuTGdZYmRxaVEza3RTSmVKNWl3dXlxc1UyQ2F1bm90VW5CQmdtVkZaTkF0WW1ubUdXY0Z4M1",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXk4N2ZSVXprdU1YdHZvODZjLTZCN2FFQWNTcnlJLTFaTTdTWHIwM0tYa3B1bEEzeEZNc1hJbHJ0Qmo3a3BfOWJMc1hsbmVuVjNQVWd2YnNiejMwaTZic3NTbE5XZ2JLVlduQTlMSDBndzRiNTJuTGdZYmRxaVEza3RTSmVKNWl3dXlxc1UyQ2F1bm90VW5CQmdtVkZaTkF0WW1ubUdXY0Z4M1V1Y2pMdV9yWU04c1Q1ZmpIblNtamFXSDJVM1FPN2tIZGt1aFVXcmthbDFyYzVpM3hESTZjWXpFRmY2eE1fMVdN0gHwAUFVX3lxTE5iUUxhaXNzWkRmVHh1VXJHR1BFSmVNcmJ1bGtrMUdvcUQ5d0l4Zm1iSXczX21rYWNxb1ZQU2J2QnpEeWpaenl1VmczQjczVlU5Q1o3eElNUHdqSzZEZDNsenF5dmhjR2lxX3ZnWjBQeVFFeXFjMlZTcGJpanpjclpTanA0UFNLOFlZbU4tZTlxMVZzVnNZT3VuVGZUX0phdGYtWkdSd0Fra185U3FPUjFiUWtIMk5wTGVIRExZQTBOSUJBSk83UkV4VmxTY0xMbmp6R0Z0T3pYVkVwWXpfcHA3UUJLZDFYMWpzMDJYNVVWLQ?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,19 +122,19 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
+      "first_seen": "2026-11-21T06:56:21+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 20 Nov 2026 18:29:13 GMT",
-          "source": "Glam Adelaide"
+          "published": "Thu, 19 Nov 2026 00:28:02 GMT",
+          "source": "News24"
         }
       ]
     },
     {
-      "id": "21bc78549be1",
-      "title": "GTA 6 daily routine: What you should do every day and why it matters - Red Bull",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YSHljb0dJRE9fakxIMVJzMnQ0TWw4VHcwQlVkVGlvZEUtZE10dGlhY2NJcnBPRW1FalRqc0VUbDRFdFFObko1c2ctQWlLb2ptQjZmN2l6czhmRk41Y0RqQmJVOGNNcW8?oc=5\" target=\"_blank\">GTA 6 daily routine: What you should do every day and why it matters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YSHljb0dJRE9fakxIMVJzMnQ0TWw4VHcwQlVkVGlvZEUtZE10dGlhY2NJcnBPRW1FalRqc0VUbDRFdFFObko1c2ctQWlLb2ptQjZmN2l6czhmRk41Y0RqQmJVOGNNcW8?oc=5",
+      "id": "02fa66f09b02",
+      "title": "Phages rewire bacterial fitness: beyond killing in host-associated disease - Nature",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iWnR4ZGkweFZXcDNYTjktNERyVHJYOWZhVC1UX2lhdXRlZlprWmQxUlZ6RTdZSWxZUjluQmlEcGpmcTk0azMtTFVuTzRtanBMUlpIWGVuOERDWERDbS13?oc=5\" target=\"_blank\">Phages rewire bacterial fitness: beyond killing in host-associated disease</a>&",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iWnR4ZGkweFZXcDNYTjktNERyVHJYOWZhVC1UX2lhdXRlZlprWmQxUlZ6RTdZSWxZUjluQmlEcGpmcTk0azMtTFVuTzRtanBMUlpIWGVuOERDWERDbS13?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,11 +142,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
+      "first_seen": "2026-11-21T06:56:21+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 20 Nov 2026 10:39:26 GMT",
-          "source": "Red Bull"
+          "published": "Fri, 20 Nov 2026 18:01:15 GMT",
+          "source": "Nature"
         }
       ]
     },
@@ -178,7 +162,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:51+00:00",
+      "first_seen": "2026-11-21T06:58:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -201,7 +185,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:52+00:00",
+      "first_seen": "2026-11-21T06:58:39+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -224,7 +208,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:53+00:00",
+      "first_seen": "2026-11-21T06:58:41+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -236,10 +220,10 @@
       "is_global": true
     },
     {
-      "id": "ea821725cdb4",
-      "title": "Logan gym destroyed by suspicious overnight blaze - The Courier Mail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVJ6YmtoY3lpbEtjeHFDVFU4YWpRWnpTTUFnZFhiZkZxY3g2OXc1MjV6WWt6MGJ0RGJLWmRLTTZkZ0E2U284a1lSLWl0V1ZvaEpWLVNCMktJOTZHelBfQnNIVnJtazBSRG1XZlRBaDFWQXVZOGs0Z1NGejZTdkNOelJhSzI0Z1FiU192Qy02aE1kMVdmUGk5a0JNSGIzOU1VMkRHLXMxUWhFZF",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVJ6YmtoY3lpbEtjeHFDVFU4YWpRWnpTTUFnZFhiZkZxY3g2OXc1MjV6WWt6MGJ0RGJLWmRLTTZkZ0E2U284a1lSLWl0V1ZvaEpWLVNCMktJOTZHelBfQnNIVnJtazBSRG1XZlRBaDFWQXVZOGs0Z1NGejZTdkNOelJhSzI0Z1FiU192Qy02aE1kMVdmUGk5a0JNSGIzOU1VMkRHLXMxUWhFZFZranFEWkJibFVaX1V5N0UydXptbUNJcUcxN0g2T05JSU1KOWcwSHlSdkY2cw?oc=5",
+      "id": "eb6bad0907ca",
+      "title": "How The Demands Of Leadership Can Affect Cardiovascular Fitness - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHpSa29CV0x2SG5hQU02aFdUdlJ4bEZLZG9FOVgzR2JfZF9Vc3hlMWNfQjZ2NDMxU2lGaTNyc0pWUTdoMTUtbjZMbUFOUTNBckV5bDZ3MkJxVWk1bk14WW9rN1ZrMkY2SFdQTmpJVWNLRVZnNWVxakNaMmN3c0NIUE5YVDQtSk41NmVGUVgwM0NIN3ctaHZQejI5WlhScWRERW1iQ0d2V1pkdD",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHpSa29CV0x2SG5hQU02aFdUdlJ4bEZLZG9FOVgzR2JfZF9Vc3hlMWNfQjZ2NDMxU2lGaTNyc0pWUTdoMTUtbjZMbUFOUTNBckV5bDZ3MkJxVWk1bk14WW9rN1ZrMkY2SFdQTmpJVWNLRVZnNWVxakNaMmN3c0NIUE5YVDQtSk41NmVGUVgwM0NIN3ctaHZQejI5WlhScWRERW1iQ0d2V1pkdDdMdEI3M2NVOUxxYm5ybGc?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -247,11 +231,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
+      "first_seen": "2026-11-21T06:56:21+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 19 Nov 2026 00:51:00 GMT",
-          "source": "The Courier Mail"
+          "published": "Fri, 20 Nov 2026 19:45:44 GMT",
+          "source": "Forbes"
         }
       ]
     },
@@ -267,7 +251,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:51+00:00",
+      "first_seen": "2026-11-21T06:58:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -290,7 +274,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:52+00:00",
+      "first_seen": "2026-11-21T06:58:39+00:00",
       "raw_samples": [
         {
           "channel_id": "UCEtMRF1ywKMc4sf3EXYyDzw",
@@ -313,7 +297,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:53+00:00",
+      "first_seen": "2026-11-21T06:58:41+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -325,10 +309,10 @@
       "is_global": true
     },
     {
-      "id": "289c37be6394",
-      "title": "Arson investigation launched as Brisbane gym destroyed by inferno - News24",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXk4N2ZSVXprdU1YdHZvODZjLTZCN2FFQWNTcnlJLTFaTTdTWHIwM0tYa3B1bEEzeEZNc1hJbHJ0Qmo3a3BfOWJMc1hsbmVuVjNQVWd2YnNiejMwaTZic3NTbE5XZ2JLVlduQTlMSDBndzRiNTJuTGdZYmRxaVEza3RTSmVKNWl3dXlxc1UyQ2F1bm90VW5CQmdtVkZaTkF0WW1ubUdXY0Z4M1",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXk4N2ZSVXprdU1YdHZvODZjLTZCN2FFQWNTcnlJLTFaTTdTWHIwM0tYa3B1bEEzeEZNc1hJbHJ0Qmo3a3BfOWJMc1hsbmVuVjNQVWd2YnNiejMwaTZic3NTbE5XZ2JLVlduQTlMSDBndzRiNTJuTGdZYmRxaVEza3RTSmVKNWl3dXlxc1UyQ2F1bm90VW5CQmdtVkZaTkF0WW1ubUdXY0Z4M1V1Y2pMdV9yWU04c1Q1ZmpIblNtamFXSDJVM1FPN2tIZGt1aFVXcmthbDFyYzVpM3hESTZjWXpFRmY2eE1fMVdN0gHwAUFVX3lxTE5iUUxhaXNzWkRmVHh1VXJHR1BFSmVNcmJ1bGtrMUdvcUQ5d0l4Zm1iSXczX21rYWNxb1ZQU2J2QnpEeWpaenl1VmczQjczVlU5Q1o3eElNUHdqSzZEZDNsenF5dmhjR2lxX3ZnWjBQeVFFeXFjMlZTcGJpanpjclpTanA0UFNLOFlZbU4tZTlxMVZzVnNZT3VuVGZUX0phdGYtWkdSd0Fra185U3FPUjFiUWtIMk5wTGVIRExZQTBOSUJBSk83UkV4VmxTY0xMbmp6R0Z0T3pYVkVwWXpfcHA3UUJLZDFYMWpzMDJYNVVWLQ?oc=5",
+      "id": "d0da04daff42",
+      "title": "Robert Pattinson's Workout Routine And Diet Plan - Men's Health Magazine Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5IWkx3Z0Z2NWkyUTk0TFZVZGJlRFFkQnpzUzJ5aTRkYXhzTUJoR2czUUZzcV81TFh6MlFvdmt5UFdKRlBjd0QtemJFMVQyVG9NZm5LSXpsSncwb0FMazJ6X051RUk3enpzLW5XS2xTT3luajhZQ0Faeg?oc=5\" target=\"_blank\">Robert Pattinson's Workout Routine And Diet P",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IWkx3Z0Z2NWkyUTk0TFZVZGJlRFFkQnpzUzJ5aTRkYXhzTUJoR2czUUZzcV81TFh6MlFvdmt5UFdKRlBjd0QtemJFMVQyVG9NZm5LSXpsSncwb0FMazJ6X051RUk3enpzLW5XS2xTT3luajhZQ0Faeg?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -336,11 +320,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
+      "first_seen": "2026-11-21T06:56:21+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 19 Nov 2026 00:28:02 GMT",
-          "source": "News24"
+          "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+          "source": "Men's Health Magazine Australia"
         }
       ]
     },
@@ -356,7 +340,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:51+00:00",
+      "first_seen": "2026-11-21T06:58:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -379,7 +363,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:53+00:00",
+      "first_seen": "2026-11-21T06:58:41+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -402,7 +386,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:51+00:00",
+      "first_seen": "2026-11-21T06:58:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -425,7 +409,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:53+00:00",
+      "first_seen": "2026-11-21T06:58:41+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -437,10 +421,10 @@
       "is_global": true
     },
     {
-      "id": "4bdc21ca25f3",
-      "title": "Myzone Gym Floor Mode brings member community to life - Well Nation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMVhORkwzRTJXUTRBZVh6ZDdRRXd4eERxTDMySUFDbDlhQ0VjamVVSUJ6NEJOOXZjUW41UTloNk1jR200d1pOTUFjbFczZHcwX3M0Qlo4M1FwaEtkZEZDWlk5MVRnUUZFZkw1Qy0tLVBCcUNkdUdKcTlxMWhDOFZVZnJIMklZVl9mQnpMWFZJOEhyWW1HU1N3?oc=5\" target=\"_blank\">Myz",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMVhORkwzRTJXUTRBZVh6ZDdRRXd4eERxTDMySUFDbDlhQ0VjamVVSUJ6NEJOOXZjUW41UTloNk1jR200d1pOTUFjbFczZHcwX3M0Qlo4M1FwaEtkZEZDWlk5MVRnUUZFZkw1Qy0tLVBCcUNkdUdKcTlxMWhDOFZVZnJIMklZVl9mQnpMWFZJOEhyWW1HU1N3?oc=5",
+      "id": "182be68b3e24",
+      "title": "Former Adelaide Crows headquarters set for a new chapter as West Lakes eyes major fitness and wellness hub - Glam Adelaide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGtGUVBZQzJ3TmVhc2tiVURlTEliT0xJWml1cEVhRmVhUEFsdkhpbUw4VXQ4M3pnaTFTZGlGNDFVeFhjcUNlQmt2clFvaVpiR1V6Tnl5TGlLMmF3UjMtVldKSENPRENaRHluYXdNaEpVLXUyZXUyRjFDbWxWcHZCY05OSUdxb1dNSFRXM2kyU1lReFJMcElhSTg2T3MtZXFyN0huSHNSLVlJb2",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGtGUVBZQzJ3TmVhc2tiVURlTEliT0xJWml1cEVhRmVhUEFsdkhpbUw4VXQ4M3pnaTFTZGlGNDFVeFhjcUNlQmt2clFvaVpiR1V6Tnl5TGlLMmF3UjMtVldKSENPRENaRHluYXdNaEpVLXUyZXUyRjFDbWxWcHZCY05OSUdxb1dNSFRXM2kyU1lReFJMcElhSTg2T3MtZXFyN0huSHNSLVlJb2JqdzdDeEVEQmx1MVhJT3RyOVA4U05LYVZ3WGdZMEdVSVo4clVs?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -448,11 +432,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
+      "first_seen": "2026-11-21T06:56:21+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 20 Nov 2026 14:23:58 GMT",
-          "source": "Well Nation"
+          "published": "Fri, 20 Nov 2026 18:29:13 GMT",
+          "source": "Glam Adelaide"
         }
       ]
     },
@@ -468,7 +452,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:51+00:00",
+      "first_seen": "2026-11-21T06:58:38+00:00",
       "raw_samples": [
         {
           "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
@@ -491,7 +475,7 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:53+00:00",
+      "first_seen": "2026-11-21T06:58:41+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
@@ -503,10 +487,10 @@
       "is_global": true
     },
     {
-      "id": "3f124376de5a",
-      "title": "Jenny Powell, 58, uses light dumbbells to build core strength – 3 moves she relies on - Women's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUM1bXF3YXBCaDhrSnJOMVFmSDl0MWl0aFlWSFRTZzhveWxnemVEcFNoWnFvQ3VVakRtanVlR3NiNFVYV1JGTkMyU3NpbDhhWkVCUDZwWWJuMlNwaHZJcDNPblVqdHVuRTZxUndQM3I1cE91WlF4ZjlyUFlKaEdBM1ZialJIQnk0dkV6S25WS1RvVjdfRl83WndzcnFPNWc?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUM1bXF3YXBCaDhrSnJOMVFmSDl0MWl0aFlWSFRTZzhveWxnemVEcFNoWnFvQ3VVakRtanVlR3NiNFVYV1JGTkMyU3NpbDhhWkVCUDZwWWJuMlNwaHZJcDNPblVqdHVuRTZxUndQM3I1cE91WlF4ZjlyUFlKaEdBM1ZialJIQnk0dkV6S25WS1RvVjdfRl83WndzcnFPNWc?oc=5",
+      "id": "582441e7902a",
+      "title": "The sweet spot for how much strength training you really need to live longer - The Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaFVzdjNrMThQZWxYZFVycVVUTjJkWFVJc3BTbXhIYTF6WlgyUmg3ZjJONjJmVlVhaUhoUFI5b1FLbEh1S2s0bzhVdEY2LUkwZjEwclpvc2xXQlFrQW1rRjhMNlh6M1F2Q2JkMzA2Y2hZYzR2NXVCZnRnR3ExSU1ONk5LR25VNER0TEJrRWMxal9ZbUJkTVR0TVBWR21sMUFmRmdyQjQ0eFRpRm",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaFVzdjNrMThQZWxYZFVycVVUTjJkWFVJc3BTbXhIYTF6WlgyUmg3ZjJONjJmVlVhaUhoUFI5b1FLbEh1S2s0bzhVdEY2LUkwZjEwclpvc2xXQlFrQW1rRjhMNlh6M1F2Q2JkMzA2Y2hZYzR2NXVCZnRnR3ExSU1ONk5LR25VNER0TEJrRWMxal9ZbUJkTVR0TVBWR21sMUFmRmdyQjQ0eFRpRmxxYm5JMDZNR0QwTm1uTzVuSHZsczcwYWVPSmR2NDg1eFRNTWxKUkVXcER0MHBIRENhSnVLR2FOTkpMRDlZRzlrcXhobm9PUQ?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -514,11 +498,11 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "AU",
-      "first_seen": "2026-11-20T20:00:31+00:00",
+      "first_seen": "2026-11-21T06:56:21+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 20 Nov 2026 17:35:06 GMT",
-          "source": "Women's Health"
+          "published": "Fri, 20 Nov 2026 19:05:07 GMT",
+          "source": "The Australian"
         }
       ]
     },
@@ -534,13 +518,36 @@
       "source_count": 1,
       "niche": "fitness",
       "region": "global",
-      "first_seen": "2026-11-20T20:02:53+00:00",
+      "first_seen": "2026-11-21T06:58:41+00:00",
       "raw_samples": [
         {
           "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
           "channel_title": "Renaissance Periodization",
           "video_id": "iP90BBjHfn0",
           "published": "2026-11-18T20:00:34+00:00"
+        }
+      ],
+      "is_global": true
+    },
+    {
+      "id": "623aafba7483",
+      "title": "Aldi vs. Whole Foods: Is Expensive Food Worth It?",
+      "summary": "Dr. Mike  shops at Aldi and Whole Foods to see if expensive food is worth it for bodybuilding!\n\nThe UPDATED RP HYPERTROPHY APP: https://rpstrength.com/hypeapp\n\nBecome an RP channel member and get instant access to over 200 videos of exclusive in-depth training and advanced scienc",
+      "url": "https://www.youtube.com/watch?v=BaP79XMRlb8",
+      "score": 47.74,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "fitness",
+      "region": "global",
+      "first_seen": "2026-11-21T06:58:41+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+          "channel_title": "Renaissance Periodization",
+          "video_id": "BaP79XMRlb8",
+          "published": "2026-11-18T17:00:17+00:00"
         }
       ],
       "is_global": true
