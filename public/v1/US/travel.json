@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "US",
-  "generated_at": "2026-11-22T06:42:47+00:00",
+  "generated_at": "2026-11-22T19:38:02+00:00",
   "cache_ttl_hours": 6,
   "count": 20,
   "trends": [
     {
-      "id": "f7ef29871983",
-      "title": "Storms expected on both coasts threatens Thanksgiving travel - NPR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxsSmsyUk1zQTI4aGZBcHlQUVpfa1FDY0c3endISlE3QmNLY0t2bjNVaUxQSWl1WFBPZFI4Wk9PTzRvMTAxdVo3eDZuaTJnX2RFQ0Vob1dHXzU2cWJGWndYWUhibklxV0lDOFlPS3U1cFVoeUU1MmRyVGVaZDZHZTZ2dV8?oc=5\" target=\"_blank\">Storms expected on both coas",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxsSmsyUk1zQTI4aGZBcHlQUVpfa1FDY0c3endISlE3QmNLY0t2bjNVaUxQSWl1WFBPZFI4Wk9PTzRvMTAxdVo3eDZuaTJnX2RFQ0Vob1dHXzU2cWJGWndYWUhibklxV0lDOFlPS3U1cFVoeUU1MmRyVGVaZDZHZTZ2dV8?oc=5",
+      "id": "7c5b89b15003",
+      "title": "I took this viral $24 Amazon backpack from Switzerland to Hawaii. Here’s my verdict - CNN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9nMm1VZE5rVFpxaTRKY0YzcTktZTRTVDBfZWpxMW5tVTRMN0VfSV9MU1pNdlhJbmhwT0RvM1JEOGNqemx6SFhKUHVSdmp6UzA2N2Z5aFM4dE1ya2tEWkNXMUwxeGdBN2dRRjhzWDktMWRpaGlSU0hYWHozbVFvUQ?oc=5\" target=\"_blank\">I took this viral $24 Amazon backpack",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nMm1VZE5rVFpxaTRKY0YzcTktZTRTVDBfZWpxMW5tVTRMN0VfSV9MU1pNdlhJbmhwT0RvM1JEOGNqemx6SFhKUHVSdmp6UzA2N2Z5aFM4dE1ya2tEWkNXMUwxeGdBN2dRRjhzWDktMWRpaGlSU0hYWHozbVFvUQ?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,107 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 22 Nov 2026 15:03:00 GMT",
+          "source": "CNN"
+        }
+      ]
+    },
+    {
+      "id": "220599357725",
+      "title": "Thanksgiving travel weather forecast: The best and worst days to drive in Northern California - KCRA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWEySGVFclMyYXBNX3NfckJNYXhlZlYxMGRlYWZhMU1GeWZFLUZaYUdDZlRXbUI2LXVvYjQzLThCTzFvUUZGM3NraW1aRnYtTWFMenhDeTI2dXp5dldJa3VfTXdmSjFpcXBtSTdCZjhucWhMT0Jyd1BiajJhclJDX2FoVWN3R3liUEtvd0ZmREMxVk84RE1SQlVR?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWEySGVFclMyYXBNX3NfckJNYXhlZlYxMGRlYWZhMU1GeWZFLUZaYUdDZlRXbUI2LXVvYjQzLThCTzFvUUZGM3NraW1aRnYtTWFMenhDeTI2dXp5dldJa3VfTXdmSjFpcXBtSTdCZjhucWhMT0Jyd1BiajJhclJDX2FoVWN3R3liUEtvd0ZmREMxVk84RE1SQlVR?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-11-22T19:29:10+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 22 Nov 2026 16:45:00 GMT",
+          "source": "KCRA"
+        }
+      ]
+    },
+    {
+      "id": "66a1368cd7a3",
+      "title": "Bay Area airports, coast under extreme flood threat, residents told to avoid travel - Los Angeles Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDg1WWRFdTlXYklueE0zX2lxUFJwRDg1RmJMWFdFZXpwRXlkQzhBWFNuVG1yd09UdFN0b1NZcUh2dzBHbVdpSEdDamU2X0E3dU1wZ0w2NC02aWZNU1lCaDdubkVNdXNEYTRQN1FSaVhJM04tZFppSTctOG4zXzNYbmJva2NYaXlaVmc4WXBLZ1ZoWU1NUW9iSnZBWHFHclBkd2UyVHYtZm94aX",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDg1WWRFdTlXYklueE0zX2lxUFJwRDg1RmJMWFdFZXpwRXlkQzhBWFNuVG1yd09UdFN0b1NZcUh2dzBHbVdpSEdDamU2X0E3dU1wZ0w2NC02aWZNU1lCaDdubkVNdXNEYTRQN1FSaVhJM04tZFppSTctOG4zXzNYbmJva2NYaXlaVmc4WXBLZ1ZoWU1NUW9iSnZBWHFHclBkd2UyVHYtZm94aXd6M2NhQ0hUNzhvODNHejBqSVdGRF9abHRIakhrV0ZUMlZ0Zw?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-11-22T19:29:10+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 22 Nov 2026 17:10:57 GMT",
+          "source": "Los Angeles Times"
+        }
+      ]
+    },
+    {
+      "id": "2ecc8b88793e",
+      "title": "I took my daughter out of school for 2 weeks. Her principal told us to take the trip. - Business Insider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOUhlODhPQjBoakl1VXlFTThqemxhVk5SQzZ0NC01dXdVU0tIdDA1SnBuN3RpT3pUMDd4UG03YlF5NGZSTUUwSG9Eem1JNm1lM1lPMXNMaGk3WHhGVngzdXZIdUE1MTY3VzVTMkdudE9UaThVcXpJTHdGbi1jUmdOalh2Q2JjRktFbmNncUpCUjBleGM?oc=5\" target=\"_blank\">I took m",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOUhlODhPQjBoakl1VXlFTThqemxhVk5SQzZ0NC01dXdVU0tIdDA1SnBuN3RpT3pUMDd4UG03YlF5NGZSTUUwSG9Eem1JNm1lM1lPMXNMaGk3WHhGVngzdXZIdUE1MTY3VzVTMkdudE9UaThVcXpJTHdGbi1jUmdOalh2Q2JjRktFbmNncUpCUjBleGM?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-11-22T19:29:10+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 22 Nov 2026 11:28:00 GMT",
+          "source": "Business Insider"
+        }
+      ]
+    },
+    {
+      "id": "fca732c51115",
+      "title": "Relentless storm train takes aim at West Coast, threatening major Thanksgiving travel delays - FOX Weather",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0F0VTJIek1UZ0dUYzUxVDg4N1ZoUEtwbDJGMlE0bnB4VDJiNVNhc2lfYmVCZUhld3JGWlg4MzAxZjFoR1ZmaFhJd3pPNW1aNTlmSV9ITVYxRjlnTFVfQWV5YnZBNFZOY3VUWTdlZFVFbEJPVnllakw1ZnRmc3g3UXBIR2VGSVFzRXhtN3RqTkREX052QUQtZzQ4Qm1ocGNJaFdfMG5HWXF2RG",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0F0VTJIek1UZ0dUYzUxVDg4N1ZoUEtwbDJGMlE0bnB4VDJiNVNhc2lfYmVCZUhld3JGWlg4MzAxZjFoR1ZmaFhJd3pPNW1aNTlmSV9ITVYxRjlnTFVfQWV5YnZBNFZOY3VUWTdlZFVFbEJPVnllakw1ZnRmc3g3UXBIR2VGSVFzRXhtN3RqTkREX052QUQtZzQ4Qm1ocGNJaFdfMG5HWXF2RGRGbTl30gG0AUFVX3lxTE9sNTVFNkFLdC01MllWbzJZZ3YzWHhXNlRqcHdvOTc4N0tORWZPbUxIVU00ei1IMEd5VkRyOWtaekVsN3JzRW5lTVdyUXBsc2xfVnFXXzMyRDVzRFNLM0tUOXB4OGFfcHU5VmVKcnpJcmltaUxBT2JLd3VRR2gxc2hwUGZUY3NNN2JNX2lKWjhFQWl2aVJHWW9icmFNMS1tX21ETWMwYTFNOUtXN2EyX1JsZU9mYQ?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-11-22T19:29:10+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 22 Nov 2026 11:41:21 GMT",
+          "source": "FOX Weather"
+        }
+      ]
+    },
+    {
+      "id": "a2cbd0842c45",
+      "title": "Storms expected on both coasts threaten Thanksgiving travel - NPR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxsSmsyUk1zQTI4aGZBcHlQUVpfa1FDY0c3endISlE3QmNLY0t2bjNVaUxQSWl1WFBPZFI4Wk9PTzRvMTAxdVo3eDZuaTJnX2RFQ0Vob1dHXzU2cWJGWndYWUhibklxV0lDOFlPS3U1cFVoeUU1MmRyVGVaZDZHZTZ2dV8?oc=5\" target=\"_blank\">Storms expected on both coas",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxsSmsyUk1zQTI4aGZBcHlQUVpfa1FDY0c3endISlE3QmNLY0t2bjNVaUxQSWl1WFBPZFI4Wk9PTzRvMTAxdVo3eDZuaTJnX2RFQ0Vob1dHXzU2cWJGWndYWUhibklxV0lDOFlPS3U1cFVoeUU1MmRyVGVaZDZHZTZ2dV8?oc=5",
+      "score": 72.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
           "published": "Sat, 21 Nov 2026 18:22:46 GMT",
@@ -27,102 +127,142 @@
       ]
     },
     {
-      "id": "b1fea6b6177f",
-      "title": "FBI, TSA warn of potential terror threats before Thanksgiving travel rush: Report - NewsNation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWN1aWZJSVQ2UUdjel9RWWJTemdjYXFBaFNrZGNjVEExT3VmU0RaWkpuYU9OdnhRR1dablBsT3RYRzg0cWQ3Ui1KcFRYbnZDenFFV0trY1NMeWFnVkxxY1R5YmIxd3NzdnZ2ZkpubUt2ZG95MWQ1cC1hM2pPY0QtWGl4NkdDeU1mVlBodWJDZlg0SXhIdEQ1NGtoSjNJc1lx0gGmAUFVX3lxTE",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWN1aWZJSVQ2UUdjel9RWWJTemdjYXFBaFNrZGNjVEExT3VmU0RaWkpuYU9OdnhRR1dablBsT3RYRzg0cWQ3Ui1KcFRYbnZDenFFV0trY1NMeWFnVkxxY1R5YmIxd3NzdnZ2ZkpubUt2ZG95MWQ1cC1hM2pPY0QtWGl4NkdDeU1mVlBodWJDZlg0SXhIdEQ1NGtoSjNJc1lx0gGmAUFVX3lxTE9lVGxVVXQ2aVVsSXZhdldHZlpVMXoyd2pqT3U4TXJycmg3YjA2MEVSM3p4V0d0Y3MtaHBDZXRnLTNGWHpiN1R2WVh5TllxVEozWVFCc2Z1a1ROWlJCNFdrSjFXbEFrZk15MDlqbHcwSnBUdjRzNF9JZzBMNmNTY2RfbnBNV3ozNWN5VlVPQnBVNnFfS2pfMU5JdnhJd1VnUXU3aGtnMFE?oc=5",
-      "score": 86.4,
+      "id": "7d33af7a9409",
+      "title": "TRAVEL TROUBLES: What to watch ahead of Thanksgiving rush - KMBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUZtLWptY2lRTk9scGtYTXpHOU93eHRlSGlfbW5xYThuVWd5Z2dsVnVyQWZyZWJRdm9BZW41T2RPSVVWaXFVbWtBR3JKRmhwM29ja2JHQXYxSWd6QmdTUU83Ri1jcDJmZGI0VzEtcHNzWWdFS18zdTFhNEFPU05UVGZwakZfc1k1aWpWZHBTYnpaRVRDc1MwcEhRQVBMVFpqMjBpbFFrWWRwMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUZtLWptY2lRTk9scGtYTXpHOU93eHRlSGlfbW5xYThuVWd5Z2dsVnVyQWZyZWJRdm9BZW41T2RPSVVWaXFVbWtBR3JKRmhwM29ja2JHQXYxSWd6QmdTUU83Ri1jcDJmZGI0VzEtcHNzWWdFS18zdTFhNEFPU05UVGZwakZfc1k1aWpWZHBTYnpaRVRDc1MwcEhRQVBMVFpqMjBpbFFrWWRwMTUwX1hsd1hlNnI?oc=5",
+      "score": 68.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 22 Nov 2026 02:49:20 GMT",
+          "published": "Sun, 22 Nov 2026 16:46:00 GMT",
+          "source": "KMBC"
+        }
+      ]
+    },
+    {
+      "id": "b1fea6b6177f",
+      "title": "FBI, TSA warn of potential terror threats before Thanksgiving travel rush: Report - NewsNation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWN1aWZJSVQ2UUdjel9RWWJTemdjYXFBaFNrZGNjVEExT3VmU0RaWkpuYU9OdnhRR1dablBsT3RYRzg0cWQ3Ui1KcFRYbnZDenFFV0trY1NMeWFnVkxxY1R5YmIxd3NzdnZ2ZkpubUt2ZG95MWQ1cC1hM2pPY0QtWGl4NkdDeU1mVlBodWJDZlg0SXhIdEQ1NGtoSjNJc1lx0gGmAUFVX3lxTE",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWN1aWZJSVQ2UUdjel9RWWJTemdjYXFBaFNrZGNjVEExT3VmU0RaWkpuYU9OdnhRR1dablBsT3RYRzg0cWQ3Ui1KcFRYbnZDenFFV0trY1NMeWFnVkxxY1R5YmIxd3NzdnZ2ZkpubUt2ZG95MWQ1cC1hM2pPY0QtWGl4NkdDeU1mVlBodWJDZlg0SXhIdEQ1NGtoSjNJc1lx0gGmAUFVX3lxTE9lVGxVVXQ2aVVsSXZhdldHZlpVMXoyd2pqT3U4TXJycmg3YjA2MEVSM3p4V0d0Y3MtaHBDZXRnLTNGWHpiN1R2WVh5TllxVEozWVFCc2Z1a1ROWlJCNFdrSjFXbEFrZk15MDlqbHcwSnBUdjRzNF9JZzBMNmNTY2RfbnBNV3ozNWN5VlVPQnBVNnFfS2pfMU5JdnhJd1VnUXU3aGtnMFE?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-11-22T19:29:10+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 22 Nov 2026 05:26:32 GMT",
           "source": "NewsNation"
         }
       ]
     },
     {
-      "id": "b897be96a7f8",
-      "title": "Travel Photos | 2026 Week 11 at Dallas Cowboys - Tennessee Titans",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzBxN1dyT0hJeXEwaEZGYTJILWluVHZPZ1pNdUgtNGpPQ1dXOFg2STlBTVM0cU9GV0pfLWltdFpjTlNJYzNjRGhsLXBCeGtsZVNsTS1jaUdSUXVlUjBuRFFmZlJkYklhY3NpYUVEUlpjSWg2QXVESmZWVTdkc2M0WFo2UFZnOVZtMUJR?oc=5\" target=\"_blank\">Travel Photos | 202",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzBxN1dyT0hJeXEwaEZGYTJILWluVHZPZ1pNdUgtNGpPQ1dXOFg2STlBTVM0cU9GV0pfLWltdFpjTlNJYzNjRGhsLXBCeGtsZVNsTS1jaUdSUXVlUjBuRFFmZlJkYklhY3NpYUVEUlpjSWg2QXVESmZWVTdkc2M0WFo2UFZnOVZtMUJR?oc=5",
-      "score": 82.8,
+      "id": "3195ea2d3573",
+      "title": "Thanksgiving travel rush: What Conn. drivers need to know before hitting the road - NBC Connecticut",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUR0eUJlZ1FCSWx6SU4ybWJvSHVZaGN5dS04UjdvUVFCVVd2emxQa2k5Y2I0TFVRd3FBRTh3M0Y3TFVzX21yYnoxb1NlcGlpbWlyLUZzd2NJZ0J1T3pPX2xGdzRWN2kxR0w0MHp1ZWg3bmQyR1luLWNBUUc2ZW5vYzBubWF3R3NhVElqMGpLNFNPZHVWUmNLaVlkOGpzVXRFYWNBOXRua3lCb3",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUR0eUJlZ1FCSWx6SU4ybWJvSHVZaGN5dS04UjdvUVFCVVd2emxQa2k5Y2I0TFVRd3FBRTh3M0Y3TFVzX21yYnoxb1NlcGlpbWlyLUZzd2NJZ0J1T3pPX2xGdzRWN2kxR0w0MHp1ZWg3bmQyR1luLWNBUUc2ZW5vYzBubWF3R3NhVElqMGpLNFNPZHVWUmNLaVlkOGpzVXRFYWNBOXRua3lCb3VZMVRaU0hGSGc2elkydTVydWpjQkZMV0xfTEtXbHVB0gHSAUFVX3lxTFBrTFp2NldxcmhBN1RhRXBUcDI2S1B0ZmhHd3J5Q3NUcDR4Nml3aUp0djV3ZlBrXzhmRk1ieGdvM2I5Yi1Yb2tQdUFsNjBEUUNGOUxpZk1POXk2OFNKTmZYOFhzTzVJeVI1Qi1rX2pocnB5dE9kWXZkNlJNYTZ4Um9YU0Ftc2hrTDNuQlltMkNueU9ldE41UExJTzAwSzZacGNQLTdPazd3SDdiXzRSTTVQcm1TVVZieW52TnR1aEQxU3k3RmVBWTkxZzNyZDVXM1Jmdw?oc=5",
+      "score": 61.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 21 Nov 2026 22:34:51 GMT",
-          "source": "Tennessee Titans"
+          "published": "Sun, 22 Nov 2026 17:19:36 GMT",
+          "source": "NBC Connecticut"
         }
       ]
     },
     {
-      "id": "4f2edd3cab87",
-      "title": "WBB Preview: Raiders Travel to Stetson - Wright State University Athletics",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjA2WGUtNkpwdjBEcm1tUVhkMFBaaVhXZDVjaG1kbFJSZ0tGSlVEVWtVVDJkdGlVMEgwRGwyQkVkMGlsV2dwWWwyektna0xjbW1KdTAteVltTE9SdWZCQWxScjJORkQ3Y2ZhcmZMZjJmU1BqZ0xyQlU5NVFQcjcxc3lLT05VMkxfZ2pXQVJ6X0toSG5nWndDVEtB?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjA2WGUtNkpwdjBEcm1tUVhkMFBaaVhXZDVjaG1kbFJSZ0tGSlVEVWtVVDJkdGlVMEgwRGwyQkVkMGlsV2dwWWwyektna0xjbW1KdTAteVltTE9SdWZCQWxScjJORkQ3Y2ZhcmZMZjJmU1BqZ0xyQlU5NVFQcjcxc3lLT05VMkxfZ2pXQVJ6X0toSG5nWndDVEtB?oc=5",
-      "score": 79.2,
+      "id": "0a78677e7b74",
+      "title": "Gas prices ease in Connecticut ahead of Thanksgiving travel - WFSB",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPYjRObmlCRWtkd2JPbHJWSHQxTDNxV0pFWFhCUUtmUEU2cEdwOFVoRG9XVWFrVnpxUnYwRzBzV2FmelBJQUVVNHB6eW9QdTIwdTBhbmRTTkQ1YmNZWVczUzk4ekxVSFV5Wi02WEt0MkU5cmptR2NNdFlILVoyUFZuZ0Rpdms2UENJWHBmLWpZWQ?oc=5\" target=\"_blank\">Gas prices ea",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYjRObmlCRWtkd2JPbHJWSHQxTDNxV0pFWFhCUUtmUEU2cEdwOFVoRG9XVWFrVnpxUnYwRzBzV2FmelBJQUVVNHB6eW9QdTIwdTBhbmRTTkQ1YmNZWVczUzk4ekxVSFV5Wi02WEt0MkU5cmptR2NNdFlILVoyUFZuZ0Rpdms2UENJWHBmLWpZWQ?oc=5",
+      "score": 57.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 22 Nov 2026 00:32:47 GMT",
-          "source": "Wright State University Athletics"
+          "published": "Sun, 22 Nov 2026 16:49:00 GMT",
+          "source": "WFSB"
         }
       ]
     },
     {
-      "id": "80aa119ce324",
-      "title": "Lurie Warns Residents of Record Tide Levels, Advises Avoiding Travel Next Week - SFist",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkZvallndzhwZkZfaFFrWktmZjhoSXpoM1dfNWJEcmdDWXVhekw0QXRFd2l2cHYwRWNCS3FOeHhhaFg3anFBZEVOVTQxd2FfSGhVVmJpY0tuM1RxRXJ3eThvc1hVLTBnRV9xSEN0UUdzRXg1cWQwRjcySWxoUXBsZWNfdUlXeFp3U1ExWTJCd2tlVE9qQTNhejRPRDlHTDJycUxkUkFRUkJTcU",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkZvallndzhwZkZfaFFrWktmZjhoSXpoM1dfNWJEcmdDWXVhekw0QXRFd2l2cHYwRWNCS3FOeHhhaFg3anFBZEVOVTQxd2FfSGhVVmJpY0tuM1RxRXJ3eThvc1hVLTBnRV9xSEN0UUdzRXg1cWQwRjcySWxoUXBsZWNfdUlXeFp3U1ExWTJCd2tlVE9qQTNhejRPRDlHTDJycUxkUkFRUkJTcU0?oc=5",
-      "score": 75.6,
+      "id": "1a8893a23263",
+      "title": "Holiday travel issues amid Atlanta ground delay for Delta Airlines, report says - WKMG",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXlwT1lyczNOR3pGVmdpQ3Z0OXBPSWhXbDJwVG9QdHFBVUpRQnZreTFpbDlmR2JhM1VYNzJpUUpzN09YTk9UdXdNT0piZnJzb2JIY1gzMmduYnEwN1NROHlKUjVjMWpidzlJQUdmdlVYR0JIaHZtdFBUaWc3Vk1rUlY1U3VsNWQwQnA4cjdZN0c1RV8xRHRzcFo4Vm53N0EtZmFmMUR1U2hvTX",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXlwT1lyczNOR3pGVmdpQ3Z0OXBPSWhXbDJwVG9QdHFBVUpRQnZreTFpbDlmR2JhM1VYNzJpUUpzN09YTk9UdXdNT0piZnJzb2JIY1gzMmduYnEwN1NROHlKUjVjMWpidzlJQUdmdlVYR0JIaHZtdFBUaWc3Vk1rUlY1U3VsNWQwQnA4cjdZN0c1RV8xRHRzcFo4Vm53N0EtZmFmMUR1U2hvTXZhTlNIMGs4UlpuZ0RRRUJfTTlRVlpTU1FWeU5pN3Nn?oc=5",
+      "score": 54.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 21 Nov 2026 23:52:51 GMT",
-          "source": "SFist"
+          "published": "Sun, 22 Nov 2026 17:07:40 GMT",
+          "source": "WKMG"
         }
       ]
     },
     {
-      "id": "6d2a6ecca043",
-      "title": "Column | After my divorce, solo travel connected me with others — and myself - The Washington Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXBYRmhSeDlQajh3QkNkZHk3bVJjaGxEeG9aUG93OFFBQ3lUWXdnMDZNRW5qdmY0d2dVRG5sY2FwazVqSTJzRXJHS2tLZnplVExHTlAtQ0lrNmpnZE9sWkJIbEdnNFh1RERqeVZkZjg2N0wzTFdKMlM3VnhsQTJIZC10Mk1VMzNiTmMyTXZBOC05TWFLNjJqWHp1NTl5UkY1NVNSYmM4OVRLQ3",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXBYRmhSeDlQajh3QkNkZHk3bVJjaGxEeG9aUG93OFFBQ3lUWXdnMDZNRW5qdmY0d2dVRG5sY2FwazVqSTJzRXJHS2tLZnplVExHTlAtQ0lrNmpnZE9sWkJIbEdnNFh1RERqeVZkZjg2N0wzTFdKMlM3VnhsQTJIZC10Mk1VMzNiTmMyTXZBOC05TWFLNjJqWHp1NTl5UkY1NVNSYmM4OVRLQ3p0bk5J?oc=5",
-      "score": 72.0,
+      "id": "bed342e83d33",
+      "title": "Flight delay and travel chaos: CBF rejects Brasileirão postponement - Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVgyaFFvZGxURjVWVG1DSE92ZFp1Z1pNSmlvUGdLY19CTWh5MU9uc0xKeThkaEowUnByalN1eEwtUFF5NmtvQUFDQi1MTVFQT0ttMk9xeGlFS0EtcElsSTc2RjRsQ3A1cWhwbmd3UTE3SFFaOUpNX0Y3TUJFYS0xWXh5MnA?oc=5\" target=\"_blank\">Flight delay and travel chao",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVgyaFFvZGxURjVWVG1DSE92ZFp1Z1pNSmlvUGdLY19CTWh5MU9uc0xKeThkaEowUnByalN1eEwtUFF5NmtvQUFDQi1MTVFQT0ttMk9xeGlFS0EtcElsSTc2RjRsQ3A1cWhwbmd3UTE3SFFaOUpNX0Y3TUJFYS0xWXh5MnA?oc=5",
+      "score": 50.4,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 21 Nov 2026 18:00:00 GMT",
-          "source": "The Washington Post"
+          "published": "Sun, 22 Nov 2026 17:22:00 GMT",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "id": "6648ea04c05f",
+      "title": "Travel agencies are facing risks from data breaches - Taipei Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBydnNzOXZvQklDM0JwRVJCVDJPdGtMenpXT3g5d0NKTUgzdzZIRzRiX2lVWlNpUTBWUGl3S2N0QmNHZmd1U0ZqN2xiS3lwRmRGMFBEbkpiLXQtakJRVFp6Tk1ZcVpBTV9UQkxCb1BieFl5V1c5T19ULTVB?oc=5\" target=\"_blank\">Travel agencies are facing risks from data ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBydnNzOXZvQklDM0JwRVJCVDJPdGtMenpXT3g5d0NKTUgzdzZIRzRiX2lVWlNpUTBWUGl3S2N0QmNHZmd1U0ZqN2xiS3lwRmRGMFBEbkpiLXQtakJRVFp6Tk1ZcVpBTV9UQkxCb1BieFl5V1c5T19ULTVB?oc=5",
+      "score": 46.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "US",
+      "first_seen": "2026-11-22T19:29:10+00:00",
+      "raw_samples": [
+        {
+          "published": "Sun, 22 Nov 2026 16:00:00 GMT",
+          "source": "Taipei Times"
         }
       ]
     },
@@ -131,14 +271,14 @@
       "title": "Travel: A weekend in Augusta without golf - Christian Post",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUY1WUJpRGo3S010TUN2cFlFdEQ3TzNZRll4MkRoTkZTX0gtVUNwZDF6M3NqZXZoWkIyTl9ubDJ6ZG1GQUJrSXRqM0VEU2dpNnpmQjh4UnpLSkZPM0tRSWRHcFhOSk13YXloWWlQczhDM09jOGprOWlxVWlmYmJFZktwdS1mWEk?oc=5\" target=\"_blank\">Travel: A weekend in Aug",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUY1WUJpRGo3S010TUN2cFlFdEQ3TzNZRll4MkRoTkZTX0gtVUNwZDF6M3NqZXZoWkIyTl9ubDJ6ZG1GQUJrSXRqM0VEU2dpNnpmQjh4UnpLSkZPM0tRSWRHcFhOSk13YXloWWlQczhDM09jOGprOWlxVWlmYmJFZktwdS1mWEk?oc=5",
-      "score": 68.4,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
           "published": "Sun, 22 Nov 2026 05:07:00 GMT",
@@ -147,150 +287,10 @@
       ]
     },
     {
-      "id": "219d7980fb12",
-      "title": "Millions across 20+ states face Thanksgiving travel disruptions as powerful storms take aim at both coasts - FOX Weather",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDFVLVJYNlQ3c2tPWF9PMWpCR3phWWtERHZlTVZsYkY0V3ZSTE9HaVBkZk1wUW9uYjJnQ3BsODFpdWJZQU1OaC03Z3JUMnZVOFJFbU8teWk2OVh5R3hOVmpSUDBCaldNT3ltVEdBYmtaVVBjRlBMQldwN2NISHNTalhicWdQRHJONjQtYdIBkgFBVV95cUxNb1ZQaWg0V3ktNUhVckJvNEdLQV",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDFVLVJYNlQ3c2tPWF9PMWpCR3phWWtERHZlTVZsYkY0V3ZSTE9HaVBkZk1wUW9uYjJnQ3BsODFpdWJZQU1OaC03Z3JUMnZVOFJFbU8teWk2OVh5R3hOVmpSUDBCaldNT3ltVEdBYmtaVVBjRlBMQldwN2NISHNTalhicWdQRHJONjQtYdIBkgFBVV95cUxNb1ZQaWg0V3ktNUhVckJvNEdLQVlxWmkxX191SHFNLXJ6RE9QRTQySzJYMXFpRmlQODR3M3BjYVd3M0FWV2ROcllsUl9sZHVwZ2VOLWJwMV9wdWV1bnV2bnJ1WHY5X25XeTlpSWFxOWRPQ0lPWHZhOE44bHY4NXNCbllwYlJCaHoyQUR0ZGprc21YQQ?oc=5",
-      "score": 64.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 21 Nov 2026 14:33:00 GMT",
-          "source": "FOX Weather"
-        }
-      ]
-    },
-    {
-      "id": "f3434a7241df",
-      "title": "I’m A Travel Editor And This Unexpected Southern Destination Is At The Top Of My 2027 Travel Bucket List - Yahoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3JvWEd0V2VVd191YUVqQUxfV2ZSMVMyYTdtZDBPczl2eUJFdm5rczl5MFpzTlBkTTBOaElEUklWQlZMbFZ4MW9GZzRldzBSTzU0aEUzU1oybGMwX3FYQll6VWFtZENNajhRYTFmMmNDb3ZsZ256bDVqV3AyZG5iMjNXcHlnLWhPQjlWLU5lQWhzcVl5RTFiRDNxdHRUT05McG05UFFKRjVmSD",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3JvWEd0V2VVd191YUVqQUxfV2ZSMVMyYTdtZDBPczl2eUJFdm5rczl5MFpzTlBkTTBOaElEUklWQlZMbFZ4MW9GZzRldzBSTzU0aEUzU1oybGMwX3FYQll6VWFtZENNajhRYTFmMmNDb3ZsZ256bDVqV3AyZG5iMjNXcHlnLWhPQjlWLU5lQWhzcVl5RTFiRDNxdHRUT05McG05UFFKRjVmSDM1M0JhOG5RZEU?oc=5",
-      "score": 61.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 22 Nov 2026 02:25:00 GMT",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
-      "id": "7c114ecb230e",
-      "title": "Holiday Vehicle Preparation: A Simple Checklist to Reduce Travel Risks this Thanksgiving - WorkersCompensation.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdnNrdzlzRlRvZjcyT3Iyb3N1ZUZPVnhLZzNBVXlwLV80WkhlR2RaXzZ1OGQzMFN4bEdZWDIyRXVrWUF4VTJGRzF0dmNabS1UNUIwbF9tbC1QTVhydG1QTDhJZ00tNEVWOTRPN3ZRU3YzX25pczBHdnJTS1pWWU85ZTY5V2k3UmRfd2NSbTNFdWd5TjVtOUx6c0dweEhjTXp2bG5nMnFNZTVucG",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdnNrdzlzRlRvZjcyT3Iyb3N1ZUZPVnhLZzNBVXlwLV80WkhlR2RaXzZ1OGQzMFN4bEdZWDIyRXVrWUF4VTJGRzF0dmNabS1UNUIwbF9tbC1QTVhydG1QTDhJZ00tNEVWOTRPN3ZRU3YzX25pczBHdnJTS1pWWU85ZTY5V2k3UmRfd2NSbTNFdWd5TjVtOUx6c0dweEhjTXp2bG5nMnFNZTVucGFNSnpFMDdSTVVhdWliY1cwaVFxVWFRcUxaOW5CeUxTOUlUU19TelZKRVk5bw?oc=5",
-      "score": 57.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 22 Nov 2026 00:02:48 GMT",
-          "source": "WorkersCompensation.com"
-        }
-      ]
-    },
-    {
-      "id": "c9efacf8f076",
-      "title": "TRAVEL PHOTOS: Monochrome moments- Week 11 at Eagles - Steelers.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMENHODYtRWhyZEZGRklqRU5Rd3o3dGN3ZW5TWmhvWlFTQU1FMXpxbnV3SURCeG0yUmdGSTcwZ3FyZkoxQjJYVFZhazF3eUo0QmZscVRyalJqT2NlalQzNlFzaHhDUWEwTWJ2SlBIT2ZrWWdPSFp0ejQ3VTE4X1FSSTIzcnpqU1FtcFE?oc=5\" target=\"_blank\">TRAVEL PHOTOS: Monoc",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMENHODYtRWhyZEZGRklqRU5Rd3o3dGN3ZW5TWmhvWlFTQU1FMXpxbnV3SURCeG0yUmdGSTcwZ3FyZkoxQjJYVFZhazF3eUo0QmZscVRyalJqT2NlalQzNlFzaHhDUWEwTWJ2SlBIT2ZrWWdPSFp0ejQ3VTE4X1FSSTIzcnpqU1FtcFE?oc=5",
-      "score": 54.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 21 Nov 2026 23:04:56 GMT",
-          "source": "Steelers.com"
-        }
-      ]
-    },
-    {
-      "id": "794938a216c3",
-      "title": "7 Budget Pocket Travel Gadgets for Thanksgiving Trips - The Gadgeteer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2JRb3g5UXhqbHVCLUUyc2xZcVB2RjRmcU1CUS0xQkRMVlZhcThmQ3ltbGctcnhENEJnM2tacFZ2SmdWUTk1Mnkxc0tNeDhScWdWa3d1cV8zd3pzY2w5bHZTWGNyMk9iSEpieGd2UGppeWdOTFQtenEtakpWNkI3SDdva1ZyU08zUWtXTlRPUmNsNHhmY3c?oc=5\" target=\"_blank\">7 Bu",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2JRb3g5UXhqbHVCLUUyc2xZcVB2RjRmcU1CUS0xQkRMVlZhcThmQ3ltbGctcnhENEJnM2tacFZ2SmdWUTk1Mnkxc0tNeDhScWdWa3d1cV8zd3pzY2w5bHZTWGNyMk9iSEpieGd2UGppeWdOTFQtenEtakpWNkI3SDdva1ZyU08zUWtXTlRPUmNsNHhmY3c?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 22 Nov 2026 06:06:00 GMT",
-          "source": "The Gadgeteer"
-        }
-      ]
-    },
-    {
-      "id": "b1f1bba8466d",
-      "title": "Flying for Thanksgiving? PHL warns of busy travel days ahead - NBC10 Philadelphia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWoyWHRqWG9OQ0oya2JxSktxU0lyTGVWVEtHa1hVN0w5a1d5MkFzTEwtZWJUMXRpeVJTa25Wd1k1NUg3eXJaN0d3cmhwVmxhX0NJekFRR2xQZkNBNU81eFlMU2Y5UGM1aW1PN3VyWG9SN3J1WGI2MHA1N2cxSUpwRDVoWVZtUnB6ZVc5UGY4SmpXYUNVSGNxMC1pa3MxTVo2Ymtfc2dUTENlS1",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWoyWHRqWG9OQ0oya2JxSktxU0lyTGVWVEtHa1hVN0w5a1d5MkFzTEwtZWJUMXRpeVJTa25Wd1k1NUg3eXJaN0d3cmhwVmxhX0NJekFRR2xQZkNBNU81eFlMU2Y5UGM1aW1PN3VyWG9SN3J1WGI2MHA1N2cxSUpwRDVoWVZtUnB6ZVc5UGY4SmpXYUNVSGNxMC1pa3MxTVo2Ymtfc2dUTENlS1IzVE5ldtIBuAFBVV95cUxOZXlTeThOOFlvOVhWWUpDcFU3YWUtRDdPeUtvdmpfUFlvTkloWjVkel9RUFQ1WU9RVkJGXzNHam5ET3ViT0pWR195UVhrWExYRU5TdXhxcEJtcld5MXV6VWc5UG5ZWDBhQXI0ZG9sd1dDYWNjUmlQZWNWZXVkeVNZM3pJcjNRUUdtNWxGNWRNLXhVWFFMVl9wNnJ4U0tOTTFpQ04zc0RpUDVnbnBRWUN5b3hobGl0RHBJ?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Sun, 22 Nov 2026 04:15:03 GMT",
-          "source": "NBC10 Philadelphia"
-        }
-      ]
-    },
-    {
-      "id": "bfdf11c989f1",
-      "title": "Interview: AAA's travel (and traffic) predictions this Thanksgiving season - WBAL-TV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMllsa3VBNWJDUFl3cnptaFZpTmNXZ1kzeFJYS3g5YTBsMFRlcmJHNGFWTWd6M2plTl8tSTFqZTFCSkV1c01ueHF5Z05RMk1HdkNZblQ4YV85LWNiWGE4UENGOEZsR2NWeWxrRWUyNDZCcGpLRWRQTEF2d2lBM1c3S0NxNnBUNkVyNHhhS0hrckFKMGwzby1lemMzLWpCLVk?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMllsa3VBNWJDUFl3cnptaFZpTmNXZ1kzeFJYS3g5YTBsMFRlcmJHNGFWTWd6M2plTl8tSTFqZTFCSkV1c01ueHF5Z05RMk1HdkNZblQ4YV85LWNiWGE4UENGOEZsR2NWeWxrRWUyNDZCcGpLRWRQTEF2d2lBM1c3S0NxNnBUNkVyNHhhS0hrckFKMGwzby1lemMzLWpCLVk?oc=5",
-      "score": 43.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
-      "raw_samples": [
-        {
-          "published": "Sat, 21 Nov 2026 21:18:00 GMT",
-          "source": "WBAL-TV"
-        }
-      ]
-    },
-    {
-      "id": "1c8c033d74ce",
-      "title": "Maryland Thanksgiving travel forecast: Worst traffic times predicted - WBAL News Radio",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVlOSk1xZlM3Xy1mejJoV2xSdUVIcngzUEVtTW5jZlk3VjZIRkJONllYdkMxSUlfQjhhUXVUZHhxN1VubVJwa2k4eWt3dUJucmFaQzJWTER1d1VtdFZPbjg5Q2hoT0ltTDI5aWdhOTkxU0RCU0ctQ0E4eTZRckVjMDh0aHI0TU05WlpJWktUNGhxUG8z?oc=5\" target=\"_blank\">Marylan",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVlOSk1xZlM3Xy1mejJoV2xSdUVIcngzUEVtTW5jZlk3VjZIRkJONllYdkMxSUlfQjhhUXVUZHhxN1VubVJwa2k4eWt3dUJucmFaQzJWTER1d1VtdFZPbjg5Q2hoT0ltTDI5aWdhOTkxU0RCU0ctQ0E4eTZRckVjMDh0aHI0TU05WlpJWktUNGhxUG8z?oc=5",
+      "id": "54548bac9c57",
+      "title": "West Coast bracing for more coastal flooding as Thanksgiving travel week begins - ABC News - Breaking News, Latest News and Videos",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTN5SDFFYmdfeHRkclBXRE5VWUM1TUdDQ2dUbXliQkxlMHJieEhlMGZQaHZIbWFVMW5PYUc5b2NOWGFRZVE3QzFDTUVtV1ozMnZycnBjLXA5b01DNUp0LXBLZkd4NVlaRFlVV2NtOENLb25OODBybGoxZUZIOS1ITnhnaU1XbzEtbGRPMnJNOTRNM2pxeE05a21pSnhIU21sY3NXMdIBqgFBVV",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTN5SDFFYmdfeHRkclBXRE5VWUM1TUdDQ2dUbXliQkxlMHJieEhlMGZQaHZIbWFVMW5PYUc5b2NOWGFRZVE3QzFDTUVtV1ozMnZycnBjLXA5b01DNUp0LXBLZkd4NVlaRFlVV2NtOENLb25OODBybGoxZUZIOS1ITnhnaU1XbzEtbGRPMnJNOTRNM2pxeE05a21pSnhIU21sY3NXMdIBqgFBVV95cUxQaktNalpqQ2xmYkJYZEl4a205NTRING51eHpsQ0J5ZGsxamZSTGJkVk8wb1c2TGltSUZTbVctenEwLXlpeXJTNmNWWklqa25DTzQ3SzBTY2ZjTHgxVmZRMnZrOWhQNXkxMll5UnZhYVc0Qkx2TnpybDFlblptMlhHNFBjM0dhVXpiOE5TUWtvdXBRdTU0NzNHSzk5emZTeERvNUszd3QxMmlhdw?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -298,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 22 Nov 2026 00:15:04 GMT",
-          "source": "WBAL News Radio"
+          "published": "Sun, 22 Nov 2026 18:47:15 GMT",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ]
     },
     {
-      "id": "c9765539a9e5",
-      "title": "King tides could complicate Thanksgiving ferry travel - My Edmonds News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUY5VF9WYzBKT3VHaXgySUVOX0FtRHFoRGttRENsdTJUejNtcHdOeldxQUo3WVpxYXB4N2poSkxqWWxnNXROQXkybENXU2Q5Y0d5WnRIamxLaVVsTWJwa19pZUFaaWRpUDdXbmpLS0I0QjZpUGlCeHYwU1ZaY1hxR0RRWnEwWG9XQ1hfd3MwMTNSUQ?oc=5\" target=\"_blank\">King tide",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUY5VF9WYzBKT3VHaXgySUVOX0FtRHFoRGttRENsdTJUejNtcHdOeldxQUo3WVpxYXB4N2poSkxqWWxnNXROQXkybENXU2Q5Y0d5WnRIamxLaVVsTWJwa19pZUFaaWRpUDdXbmpLS0I0QjZpUGlCeHYwU1ZaY1hxR0RRWnEwWG9XQ1hfd3MwMTNSUQ?oc=5",
+      "id": "8d3787555494",
+      "title": "Delta flights to Atlanta impacted by automation issue as holiday travel starts - NBC Chicago",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXpjMjN3bk1NekhqYlpCQnNnVFd6dHcwWGRNUUdodUVjSFg1bTdfX2g3SUwtMFlPV2dJX245TjdGa29FQS1kS2hiWE1lRmV5UFRhaFQwWlZfSW9rOXgxbzlGeGtQMjI1Um1RbFQ2ZW9Bclo4akN5MFI3T0JIanNBMWE0UEVzUmdqZ3hfMUZhS1Z0V1RLQml5Y0Z4Vmd3ZTY1NXBLX2ljalo2Z2",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXpjMjN3bk1NekhqYlpCQnNnVFd6dHcwWGRNUUdodUVjSFg1bTdfX2g3SUwtMFlPV2dJX245TjdGa29FQS1kS2hiWE1lRmV5UFRhaFQwWlZfSW9rOXgxbzlGeGtQMjI1Um1RbFQ2ZW9Bclo4akN5MFI3T0JIanNBMWE0UEVzUmdqZ3hfMUZhS1Z0V1RLQml5Y0Z4Vmd3ZTY1NXBLX2ljalo2Z25jT0RQR3oxSWNtd1lSeTBPWXFwMmFybUnSAcsBQVVfeXFMTkpHMEFEamZzbVVkZzhEMlctVmJJTWdGTDdvZGlFcW0td3FoNnNXNjJkYml6UTNiN0g1OWppUzdQTTd2YUprNmlTQlBMTk1QWjZrYlpWaFRlYUQxb1BtMXRzU0NZQTNFeXRqRDI4SUJ6Sk9JTzd0d0FQa0ZXZ1REMmgxRmVBZTRiQVdiZGNDVV9iWDFxQ0dldzczam4xSUVVRm12cDlEZnF0Z3pqdnN6ek1hU2ItT19kb2lMRnpzVC1GaElMazNzV05JdU0?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -318,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 21 Nov 2026 21:25:00 GMT",
-          "source": "My Edmonds News"
+          "published": "Sun, 22 Nov 2026 15:43:35 GMT",
+          "source": "NBC Chicago"
         }
       ]
     },
     {
-      "id": "55aa7718569c",
-      "title": "Thanksgiving travel rush begins as millions hit the roads and skies - WGAL",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVG5zdzlUd21TZGxYMHd3Rm5BSUNNT0RFTWpjUmluOFhzUHNUQkliYnhXanBMSWxkcmNaa3VUYnpuYW9tV3ozaGRDSDlSZS02eVFIM292bmxMcFdlRHZsaFRuRkdzVTBBSElFQlRkNTRUYnMzMm9zOGxYQTd1Y0VIWjlleVNMSlhPaHhaWVljcWlZTFBkekZwTWhTLUh3TUJQSTlYQ0p0bWc?oc",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVG5zdzlUd21TZGxYMHd3Rm5BSUNNT0RFTWpjUmluOFhzUHNUQkliYnhXanBMSWxkcmNaa3VUYnpuYW9tV3ozaGRDSDlSZS02eVFIM292bmxMcFdlRHZsaFRuRkdzVTBBSElFQlRkNTRUYnMzMm9zOGxYQTd1Y0VIWjlleVNMSlhPaHhaWVljcWlZTFBkekZwTWhTLUh3TUJQSTlYQ0p0bWc?oc=5",
+      "id": "ce3be9b1816c",
+      "title": "I've traveled to over 100 countries. I'd recommend these 5 destinations for a festive holiday trip. - Business Insider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRnFXU1JKbUxESmdTenBDOXQ2SHZ4VEpQWEpjSFZ4VFNwVFVBd0FtSy1IRWtHUHgwMUFKZkRINnQ5WVZnd1JiQm5SS2xONkJ0REVRTXk5NjJfQ2Zqa1V1OEhoY2czRzVkSHk0UndJdDJMNkN6MTRuLUMwOFZuWFdfNUFJemlqLW1XSHdiWnpnVTlTbzNFTUlGQ1YxcWNlQQ?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnFXU1JKbUxESmdTenBDOXQ2SHZ4VEpQWEpjSFZ4VFNwVFVBd0FtSy1IRWtHUHgwMUFKZkRINnQ5WVZnd1JiQm5SS2xONkJ0REVRTXk5NjJfQ2Zqa1V1OEhoY2czRzVkSHk0UndJdDJMNkN6MTRuLUMwOFZuWFdfNUFJemlqLW1XSHdiWnpnVTlTbzNFTUlGQ1YxcWNlQQ?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -338,19 +338,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 22 Nov 2026 05:19:00 GMT",
-          "source": "WGAL"
+          "published": "Sun, 22 Nov 2026 16:09:00 GMT",
+          "source": "Business Insider"
         }
       ]
     },
     {
-      "id": "28dc98a2cfd9",
-      "title": "50 Unbelievable Early Black Friday Travel Deals You Don’t Want to Miss—Up to 90% Off Flights, Hotels, and More - Travel + Leisure",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVW8zU2FhYTRvLVg2X1hyYWRUTHpQdmRoQnByQ2M1SFZleEM0cEhtNmNUYnZWXzdjeHY2S29nbm9vcU5vZDVWM0k5Z0JKTVhndXdSc1JzYmM2M1hsUVRTckhNSVA2SE9ZWGxrRjNDUElBb2NqMk1zbDBTbWtDR3NJQWhWTHkyaEc4QXZmWU91QnNsZXVMQnN4N0t1M2NCSThHTlVDUHdVODFuUQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVW8zU2FhYTRvLVg2X1hyYWRUTHpQdmRoQnByQ2M1SFZleEM0cEhtNmNUYnZWXzdjeHY2S29nbm9vcU5vZDVWM0k5Z0JKTVhndXdSc1JzYmM2M1hsUVRTckhNSVA2SE9ZWGxrRjNDUElBb2NqMk1zbDBTbWtDR3NJQWhWTHkyaEc4QXZmWU91QnNsZXVMQnN4N0t1M2NCSThHTlVDUHdVODFuUQ?oc=5",
+      "id": "23df189438e3",
+      "title": "Capital One Travel has saved me thousands. Here are the features you need to know about - CNN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1QbF9uam5PT2FjUWZUelZ5ZlVid25DeUlBV2dFZ0NFS01ZWUtDTkdVVjR5OU1GVF9WbGh3MHVINTlHRTczdl94UENYaEMyRkUtVFZWb1dfX0FSTXhKeHRNMjN1SU9CNUVEWVpNY0pSQ1BrR0JObU9n?oc=5\" target=\"_blank\">Capital One Travel has saved me thousands. Here",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QbF9uam5PT2FjUWZUelZ5ZlVid25DeUlBV2dFZ0NFS01ZWUtDTkdVVjR5OU1GVF9WbGh3MHVINTlHRTczdl94UENYaEMyRkUtVFZWb1dfX0FSTXhKeHRNMjN1SU9CNUVEWVpNY0pSQ1BrR0JObU9n?oc=5",
       "score": 28.8,
       "sources": [
         "google_news"
@@ -358,19 +358,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 21 Nov 2026 11:00:00 GMT",
-          "source": "Travel + Leisure"
+          "published": "Sun, 22 Nov 2026 17:00:00 GMT",
+          "source": "CNN"
         }
       ]
     },
     {
-      "id": "950bd9f2888f",
-      "title": "Thanksgiving travel forecast 2026: storms on both coasts - The Weather Channel",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2EwMlVrVm5RcGJxdzZhZnB5OXVIOHd5WkVlNGtYQkE2LU9LdGROdXRBM2p6aUZfRnhRUHVfdzRINV84Nms0djRJcmVmUTBobXQ4YWV1bkJnVm5VR0tmbE9paTYxMi03blRkdmlNNEpXSU13eDZFWFZsSEczMHhPcnZqQjd3d1JlT2xyb2Z6TGZ6eDZvcXcxNnlPOXhDSUE?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2EwMlVrVm5RcGJxdzZhZnB5OXVIOHd5WkVlNGtYQkE2LU9LdGROdXRBM2p6aUZfRnhRUHVfdzRINV84Nms0djRJcmVmUTBobXQ4YWV1bkJnVm5VR0tmbE9paTYxMi03blRkdmlNNEpXSU13eDZFWFZsSEczMHhPcnZqQjd3d1JlT2xyb2Z6TGZ6eDZvcXcxNnlPOXhDSUE?oc=5",
+      "id": "d98b457dde0b",
+      "title": "Thanksgiving travel faces growing storm threat as heavy rain and strong winds could sweep the East Coast - FOX Weather",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBrbzNjMndwY0tQVmpxQVNRRnZqb056LUF3ZjNVaDRKNVJYSFNXVkExVGx0c3ZEQlhWcjRXWVpDRDhFdXZ1NVM0TW1vd2xPRGMxc1EzVFJoRF9leEM2YnBDVERMSnlHYllSTVhVZW9YNHRSV1FHT3IxSWNDNkZWOFVvaTVFblVGTlZPUTZTcFVjaWZXOW9YdDdfWHBDWUM5WGfSAacBQVVfeX",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBrbzNjMndwY0tQVmpxQVNRRnZqb056LUF3ZjNVaDRKNVJYSFNXVkExVGx0c3ZEQlhWcjRXWVpDRDhFdXZ1NVM0TW1vd2xPRGMxc1EzVFJoRF9leEM2YnBDVERMSnlHYllSTVhVZW9YNHRSV1FHT3IxSWNDNkZWOFVvaTVFblVGTlZPUTZTcFVjaWZXOW9YdDdfWHBDWUM5WGfSAacBQVVfeXFMTWZQWktFWDFST3h3eDZ6bC1qMzhxZmpmWUR2Q2lrTzB4Sm9TR1g3UHNEZkRNUjFlZnFFU0dSaVJLWkttOUl1LS1sbFRzOG1HU3oxX0NVbE9oS3FRd0JBd0RDWnZCbHF4ckpwWWRpMEFZcXhhY1EtTGVkR29XRzV1M0ViYUZGTjVMVktReUktanhNaEkzazUyT2p4cHpPVGt4Wm0xSHdZUEU?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -378,19 +378,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 21 Nov 2026 12:47:00 GMT",
-          "source": "The Weather Channel"
+          "published": "Sun, 22 Nov 2026 15:17:11 GMT",
+          "source": "FOX Weather"
         }
       ]
     },
     {
-      "id": "06214af0a4be",
-      "title": "Storms will impact holiday travel over the Sierra - KOLO | 8 News Now",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPd014dTBJWjNrNTZKUnV1czgxSXF0T1M2MFZQVWJfSWg5TGc5cjBGZlJRQmE5LVFXSVJtcmZRNlJpQWZvRVBZV1J4SXZXQ1NHVUlLbS1tdS1QWTYxLTZwYUpmc1AyNFI4NllPbHM1MDh1dlFheExWQ2RiYlh1N1RYVUVDb3M0N2PSAZsBQVVfeXFMUEswNjdvVWxWU0JzQXFQTkREZGw3ZW5RWn",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd014dTBJWjNrNTZKUnV1czgxSXF0T1M2MFZQVWJfSWg5TGc5cjBGZlJRQmE5LVFXSVJtcmZRNlJpQWZvRVBZV1J4SXZXQ1NHVUlLbS1tdS1QWTYxLTZwYUpmc1AyNFI4NllPbHM1MDh1dlFheExWQ2RiYlh1N1RYVUVDb3M0N2PSAZsBQVVfeXFMUEswNjdvVWxWU0JzQXFQTkREZGw3ZW5RWnhiU0piMXFUWS1QR0dZQkRnbUFteEtjS1NiOFgtQTJDZ3c5UG9sQ29heEM5bnpJOWJhSU11dVdfQ2pTUHlGSmNWSmh2UWtvQVFvN2Y5V3hOVlBrb3k1YjhET0dSbUkwdTRrYU9iaW5JdEVaWV9mLVhSaV9HNlZKR1J5MmM?oc=5",
+      "id": "d8e363cf9623",
+      "title": "Glitch delays Delta flights in Atlanta as Thanksgiving travel spikes - Yahoo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUhScHFYLWlkcHpkTXRBX2V5ajBDVzI4NVZHeGpVOVpBMXZiTTA3cnhaNE8zazhyanVoMVFya005OTREazVnYWk2VlNqb3RkU2FRcHdnLXlMOXEtQXVocldmaGNMNm8waDh3RjN4OGEtN2UyVEZkNnpkX3kyU3Z0RGJYVmlvTTN3ODcxVFF3cHBuRUE?oc=5\" target=\"_blank\">Glitch d",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUhScHFYLWlkcHpkTXRBX2V5ajBDVzI4NVZHeGpVOVpBMXZiTTA3cnhaNE8zazhyanVoMVFya005OTREazVnYWk2VlNqb3RkU2FRcHdnLXlMOXEtQXVocldmaGNMNm8waDh3RjN4OGEtN2UyVEZkNnpkX3kyU3Z0RGJYVmlvTTN3ODcxVFF3cHBuRUE?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -398,11 +398,11 @@
       "source_count": 1,
       "niche": "travel",
       "region": "US",
-      "first_seen": "2026-11-22T06:33:57+00:00",
+      "first_seen": "2026-11-22T19:29:10+00:00",
       "raw_samples": [
         {
-          "published": "Sun, 22 Nov 2026 05:19:00 GMT",
-          "source": "KOLO | 8 News Now"
+          "published": "Sun, 22 Nov 2026 17:27:08 GMT",
+          "source": "Yahoo"
         }
       ]
     }
