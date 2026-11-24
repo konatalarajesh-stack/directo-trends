@@ -2,9 +2,9 @@
   "schema_version": 1,
   "niche": "cooking",
   "region": "global",
-  "generated_at": "2026-11-23T23:56:23+00:00",
+  "generated_at": "2026-11-24T09:52:45+00:00",
   "cache_ttl_hours": 6,
-  "count": 2,
+  "count": 3,
   "trends": [
     {
       "id": "e52778ddd44f",
@@ -18,7 +18,7 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:42+00:00",
+      "first_seen": "2026-11-24T09:46:08+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
@@ -29,10 +29,10 @@
       ]
     },
     {
-      "id": "e624317271dd",
-      "title": "Binging with Babish Live Stream",
-      "summary": null,
-      "url": "https://www.youtube.com/watch?v=2k2EJc5mjmc",
+      "id": "999e965890a0",
+      "title": "Searching GTA VI for Food to Recreate",
+      "summary": "This stream is sponsored by CookUnity, where my pot roast is now available nationwide! Order here: http://cookunity.com/business/babish\n\nOr subscribe for lower prices on my meals, and save an additional 50% on your first week with code BABISH: http://cookunity.com/babish\n\nOn the ",
+      "url": "https://www.youtube.com/watch?v=PL-I1v6aWgQ",
       "score": 84.7,
       "sources": [
         "youtube"
@@ -40,7 +40,29 @@
       "source_count": 1,
       "niche": "cooking",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:42+00:00",
+      "first_seen": "2026-11-24T09:46:08+00:00",
+      "raw_samples": [
+        {
+          "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+          "channel_title": "Binging with Babish",
+          "video_id": "PL-I1v6aWgQ",
+          "published": "2026-11-20T05:19:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "e624317271dd",
+      "title": "Binging with Babish Live Stream",
+      "summary": null,
+      "url": "https://www.youtube.com/watch?v=2k2EJc5mjmc",
+      "score": 81.4,
+      "sources": [
+        "youtube"
+      ],
+      "source_count": 1,
+      "niche": "cooking",
+      "region": "global",
+      "first_seen": "2026-11-24T09:46:08+00:00",
       "raw_samples": [
         {
           "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",

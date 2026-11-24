@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "CA",
-  "generated_at": "2026-11-23T23:56:23+00:00",
+  "generated_at": "2026-11-24T09:52:45+00:00",
   "cache_ttl_hours": 6,
-  "count": 24,
+  "count": 25,
   "trends": [
     {
-      "id": "7f57ce5bb93a",
-      "title": "Is the stock market open on Thanksgiving and Black Friday? - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGxNaFVNcUlTOUdBMC05cnlFNk0xclZhd1JTZV9rRENvTFpkZDF4WnVLb1FWdmNmMDhOT0dpSDYzc3ljNFNYUTZSdm4ybnMxNlRzZkpCbkxrWG5NeHU3bGhRaUJlQkR3Uktjd2U3MDBDUWd2RGthRVhpVExtQmxCM2NocEdVZWpZM3liSzZXeFNHaWFHckRQajZRM1o3a29NbERKMHJESGRIbk",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGxNaFVNcUlTOUdBMC05cnlFNk0xclZhd1JTZV9rRENvTFpkZDF4WnVLb1FWdmNmMDhOT0dpSDYzc3ljNFNYUTZSdm4ybnMxNlRzZkpCbkxrWG5NeHU3bGhRaUJlQkR3Uktjd2U3MDBDUWd2RGthRVhpVExtQmxCM2NocEdVZWpZM3liSzZXeFNHaWFHckRQajZRM1o3a29NbERKMHJESGRIbk41SWxfSGV1cjlKSGZyLVB1RzhHOUtUS0RTc2RjSTRQNVFkUQ?oc=5",
+      "id": "e7dfa3ec48f5",
+      "title": "Weekly market wrap - Edward Jones",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVcxcmtaeVJRVm9kQ2VyWmVQNG9GNDZzWkJpT01xTUFJbVhYdGF6dG1qZndCb2hFaHhCM0I5NFk2RGxhY1drcWRHVnhyNzc0RWJvTU50S0dnWENrRk1UYVQ4S25xVHBtYzJsU1dabkhWeVBCckxzTHRpS3M2dklsOF84LTJRV1RJLVFRVUdGbHh2SE5CbFVPQVpROGtRa2M?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVcxcmtaeVJRVm9kQ2VyWmVQNG9GNDZzWkJpT01xTUFJbVhYdGF6dG1qZndCb2hFaHhCM0I5NFk2RGxhY1drcWRHVnhyNzc0RWJvTU50S0dnWENrRk1UYVQ4S25xVHBtYzJsU1dabkhWeVBCckxzTHRpS3M2dklsOF84LTJRV1RJLVFRVUdGbHh2SE5CbFVPQVpROGtRa2M?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+          "source": "Edward Jones"
+        }
+      ]
+    },
+    {
+      "id": "7f57ce5bb93a",
+      "title": "Is the stock market open on Thanksgiving and Black Friday? - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGxNaFVNcUlTOUdBMC05cnlFNk0xclZhd1JTZV9rRENvTFpkZDF4WnVLb1FWdmNmMDhOT0dpSDYzc3ljNFNYUTZSdm4ybnMxNlRzZkpCbkxrWG5NeHU3bGhRaUJlQkR3Uktjd2U3MDBDUWd2RGthRVhpVExtQmxCM2NocEdVZWpZM3liSzZXeFNHaWFHckRQajZRM1o3a29NbERKMHJESGRIbk",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGxNaFVNcUlTOUdBMC05cnlFNk0xclZhd1JTZV9rRENvTFpkZDF4WnVLb1FWdmNmMDhOT0dpSDYzc3ljNFNYUTZSdm4ybnMxNlRzZkpCbkxrWG5NeHU3bGhRaUJlQkR3Uktjd2U3MDBDUWd2RGthRVhpVExtQmxCM2NocEdVZWpZM3liSzZXeFNHaWFHckRQajZRM1o3a29NbERKMHJESGRIbk41SWxfSGV1cjlKSGZyLVB1RzhHOUtUS0RTc2RjSTRQNVFkUQ?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
           "published": "Mon, 23 Nov 2026 13:54:19 GMT",
@@ -27,21 +47,21 @@
       ]
     },
     {
-      "id": "ebdfe1bd12e5",
-      "title": "If You're Worried About the Stock Market Right Now, History Says This 1 Move Will Make or Break Your Portfolio - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVDFFd1hucmVjWDljX0VpZG1YV3V6ZE9Hamd4dE1OODhFY0xwN0lXY1pFNHlmSWF1eGlub0xJUzdOY3g2WU5GNXRkWGpBUWhhMGIya3lkQmpPMFhHNkd1djd0OVJNNWxKb0xLdTlqcHFkSHlwSWNzaTI3Mk9paHJrQngyTnFOTGZ5aXh4R1hOWXVtcGk0MEZybmM0RElKQk1XZUtTMXFVLXYzSH",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVDFFd1hucmVjWDljX0VpZG1YV3V6ZE9Hamd4dE1OODhFY0xwN0lXY1pFNHlmSWF1eGlub0xJUzdOY3g2WU5GNXRkWGpBUWhhMGIya3lkQmpPMFhHNkd1djd0OVJNNWxKb0xLdTlqcHFkSHlwSWNzaTI3Mk9paHJrQngyTnFOTGZ5aXh4R1hOWXVtcGk0MEZybmM0RElKQk1XZUtTMXFVLXYzSHBvME5qalo1UHdDYVdWRkc3WmJocXdTRnZWZWNlNnhwN09mSm14UC1HUmJzaWtheklNWDNSUzhuQ2JXZw?oc=5",
-      "score": 86.4,
+      "id": "9e17daadac0f",
+      "title": "A Stock Market Crash Could Be Life-Changing for Investors Who Own These 3 Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSGVfd2lURXdFZXQ4MzRhdGxPd015MGpFX3ZWY3RxNmdQOGlQNHg2V09pWVNuOUlRRW1WSEs4WnNhODRZQldia3pmWUt4NWVnTnZOcXFfRGxxZ0YyUHoybTNxS0p1cjlqOWVmVHJPUnZQcVVaVFQ1bHljM2ZQWjQ2N09Qc2NvRUlnZlRlU1JyanBISUpBRWI2aHMxaFM3R3N5dTY5NTFDRmE2UD",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSGVfd2lURXdFZXQ4MzRhdGxPd015MGpFX3ZWY3RxNmdQOGlQNHg2V09pWVNuOUlRRW1WSEs4WnNhODRZQldia3pmWUt4NWVnTnZOcXFfRGxxZ0YyUHoybTNxS0p1cjlqOWVmVHJPUnZQcVVaVFQ1bHljM2ZQWjQ2N09Qc2NvRUlnZlRlU1JyanBISUpBRWI2aHMxaFM3R3N5dTY5NTFDRmE2UDA4d2MtWEFpM203NHdwS1dpNjR6ajRlWUcxdldsTllodmt5STByaWx1ZllVVHVxMkNqamFyTmFvVlk?oc=5",
+      "score": 82.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 23 Nov 2026 18:45:02 GMT",
+          "published": "Tue, 24 Nov 2026 04:15:00 GMT",
           "source": "The Motley Fool"
         }
       ]
@@ -51,18 +71,38 @@
       "title": "Markets soar as Huang returns as Nvidia CEO - The Washington Post",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5\" target=\"_blank\">Markets ",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5",
-      "score": 82.8,
+      "score": 79.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 23 Nov 2026 23:22:26 GMT",
+          "published": "Tue, 24 Nov 2026 05:43:55 GMT",
           "source": "The Washington Post"
+        }
+      ]
+    },
+    {
+      "id": "5b646f29547a",
+      "title": "Is the Stock Market Open on Thanksgiving? Here’s the Holiday Trading Schedule - Investopedia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0x5OTNLc051N2dkUmtQTkRHQXpJaVpubnFIUm9oX0IwdW1sclFLZWl4SWljdGFZZHlnNkM0OVQ3cjltUERqRElkaVd1VnY3dEQtUWV3bGt0UXkwQnJzWnExbURsSTItQ2c3ZzVMX0loNkRMQmlreE5NZWJ1TDNsSk5ZTnAwSmg5dHdjVTZQOXBqMzV6Vk5RN3JXUXZGY3hYNG9YNkZZLTNRYT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0x5OTNLc051N2dkUmtQTkRHQXpJaVpubnFIUm9oX0IwdW1sclFLZWl4SWljdGFZZHlnNkM0OVQ3cjltUERqRElkaVd1VnY3dEQtUWV3bGt0UXkwQnJzWnExbURsSTItQ2c3ZzVMX0loNkRMQmlreE5NZWJ1TDNsSk5ZTnAwSmg5dHdjVTZQOXBqMzV6Vk5RN3JXUXZGY3hYNG9YNkZZLTNRYTFmMmViMW01a2w?oc=5",
+      "score": 75.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-24T09:43:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 23 Nov 2026 19:03:14 GMT",
+          "source": "Investopedia"
         }
       ]
     },
@@ -71,14 +111,14 @@
       "title": "Stocks are tumbling. Has the AI bubble finally burst? - USA Today",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZklrV0VpTVZhVlN2bWFING1HakdRdHNPaHBMNFA0Z29MSWI3N3lhRnVGeGVlUWZScGQzMm1GeVE5cnZPQ3RvUjI1MUVQbE5kWDctNFVFdWRYamJEdXlQRDBnSi1EblUzc3gxMDZCcklOcFNVby1mWFRweXFNWmh1WEdEcmxFUV9UM3RMSC13bkZ2dG1LbDQ0SFJOV05QV0JKM1VaZzdDTnVQR0",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZklrV0VpTVZhVlN2bWFING1HakdRdHNPaHBMNFA0Z29MSWI3N3lhRnVGeGVlUWZScGQzMm1GeVE5cnZPQ3RvUjI1MUVQbE5kWDctNFVFdWRYamJEdXlQRDBnSi1EblUzc3gxMDZCcklOcFNVby1mWFRweXFNWmh1WEdEcmxFUV9UM3RMSC13bkZ2dG1LbDQ0SFJOV05QV0JKM1VaZzdDTnVQR0NM?oc=5",
-      "score": 79.2,
+      "score": 72.0,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
           "published": "Mon, 23 Nov 2026 17:44:00 GMT",
@@ -87,50 +127,10 @@
       ]
     },
     {
-      "id": "97f5c16212f9",
-      "title": "Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last? - MarketWatch",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVJRdWlobDNsNFF2VmVjRlBva1phRWRBd2tPUWt1VnNyM3I2MHdWXzE0ejQ0TklZZ2VRSExBT3VhRml6S2ZaUVZaY0Jxa0ZrVGJIRHEtMVBqSkJqVkhiTEZyZzlLWUkwODE1WVpXRlRrbEowNHlXWHBNSnVsNVBJajdxOXZlci1fY3l2SFV1eVhQQnhUZUlPZ01BeDZBckpiQktJa1p0ZjhRVz",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVJRdWlobDNsNFF2VmVjRlBva1phRWRBd2tPUWt1VnNyM3I2MHdWXzE0ejQ0TklZZ2VRSExBT3VhRml6S2ZaUVZaY0Jxa0ZrVGJIRHEtMVBqSkJqVkhiTEZyZzlLWUkwODE1WVpXRlRrbEowNHlXWHBNSnVsNVBJajdxOXZlci1fY3l2SFV1eVhQQnhUZUlPZ01BeDZBckpiQktJa1p0ZjhRVzhKRko2cUtZNE9yMUd0Snk4aXE0MkZXdnZFMVJ6eWt6cFpSRjgwWGRr?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 23 Nov 2026 20:51:00 GMT",
-          "source": "MarketWatch"
-        }
-      ]
-    },
-    {
-      "id": "5262e76e1cce",
-      "title": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNUV8xQS1Xa09sWUwzZlR6YzZyQTBlRk1jRWJNNWFROHY1ZDdicFNhLXkwRWIyV3YtM2NJSXRJY05mTHhyU3JHTFRndEdmQlZEYXJlMVJzMmhmTGdXOFAzZERRdmduRjZXSmpBLWVWQjBxUWNIVDdHZ0M0VXdja3EyZ2xzWGhSVXc0d0VIczl5Y2UyMDlzTzdBbw?oc=5\" target=\"_blank\">W",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUV8xQS1Xa09sWUwzZlR6YzZyQTBlRk1jRWJNNWFROHY1ZDdicFNhLXkwRWIyV3YtM2NJSXRJY05mTHhyU3JHTFRndEdmQlZEYXJlMVJzMmhmTGdXOFAzZERRdmduRjZXSmpBLWVWQjBxUWNIVDdHZ0M0VXdja3EyZ2xzWGhSVXc0d0VIczl5Y2UyMDlzTzdBbw?oc=5",
-      "score": 72.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 23 Nov 2026 22:25:16 GMT",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "c11f4223e5be",
-      "title": "2 Reasons Anthropic’s IPO Is a Bigger Risk to the Stock Market Than SpaceX’s - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTJlVWExRUxZYWpLekJNSGdPVndYRHpPRmpWZXlfcjZoaTJLTmdOd29va0tVZlo5NXBHRThrRTB1cFlJNHFQY1lQc2lPRVVKVmtUXzJCcThjUWd6SG9qSzN6cVN6MExQWnBXRlJhLWRLZzR6eFVRQWVjaWRpb1dwZlJXZTJFZDZWLWFzeW5VQjk1RjlwRmpmd0tMTVpWSWtDc1dxaVc2bXdFbD",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTJlVWExRUxZYWpLekJNSGdPVndYRHpPRmpWZXlfcjZoaTJLTmdOd29va0tVZlo5NXBHRThrRTB1cFlJNHFQY1lQc2lPRVVKVmtUXzJCcThjUWd6SG9qSzN6cVN6MExQWnBXRlJhLWRLZzR6eFVRQWVjaWRpb1dwZlJXZTJFZDZWLWFzeW5VQjk1RjlwRmpmd0tMTVpWSWtDc1dxaVc2bXdFbDFNc2RraWtjLTdER0hKekJj?oc=5",
+      "id": "3d082eef88f3",
+      "title": "The Stock Market Just Entered a Correction. History Says Investors Who Make This 1 Move Right Now Will Win Out. - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSm1XOXpwbUlOXzJsaVFWMnhrc0JfWmFqZjdZUEh0T19vTndLRDVwNHZnczdvbFpZcFR1cExsdDlVMjJwaW9mYmZUdnc2eDlzWE9wOUhDdUI0OG9oXzFYbC1NYnFaZ1pFMzBzWHJBaUJBZDRNNUdGcVdyM0J3UGxocjRWd1ZMWHg3S3VRTVJ6V0RmZTZmaHhZUENUWG96bkJHVV93UFZMNkd0ZV",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSm1XOXpwbUlOXzJsaVFWMnhrc0JfWmFqZjdZUEh0T19vTndLRDVwNHZnczdvbFpZcFR1cExsdDlVMjJwaW9mYmZUdnc2eDlzWE9wOUhDdUI0OG9oXzFYbC1NYnFaZ1pFMzBzWHJBaUJBZDRNNUdGcVdyM0J3UGxocjRWd1ZMWHg3S3VRTVJ6V0RmZTZmaHhZUENUWG96bkJHVV93UFZMNkd0ZVUzVktsRjBlOUpZRTM4d1E4eTVCckdoY1JnbVo2eTJyQUFFNVhoSGRGS1Rhck1jU3Fqb1d2cWtIZVBUMkE?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -138,11 +138,31 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 23 Nov 2026 16:15:02 GMT",
+          "published": "Tue, 24 Nov 2026 08:00:02 GMT",
           "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "3648f4796942",
+      "title": "Stock Market Correction: Warren Buffett Has Brilliant Advice For Investors - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3hmVGZxM3RMZUc1NkdXb2pQc1A0aUFNakpuYURpV1VPb0xKd095NmpOZTZJWnhBX0Q4eW8zeXdfNXFTVmRtTTlya3Ytb2EyWHpPTk5ubl91NG1YRDNvRXprRkN2a3psTlFmZ0ZNQS1qQWNuUDlMRTZka29HcGlTVG1LYzNpdUlTZFNEd0hWZXhDLU1CNFhlYjJkVHgtd2d3UnJuSjRB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3hmVGZxM3RMZUc1NkdXb2pQc1A0aUFNakpuYURpV1VPb0xKd095NmpOZTZJWnhBX0Q4eW8zeXdfNXFTVmRtTTlya3Ytb2EyWHpPTk5ubl91NG1YRDNvRXprRkN2a3psTlFmZ0ZNQS1qQWNuUDlMRTZka29HcGlTVG1LYzNpdUlTZFNEd0hWZXhDLU1CNFhlYjJkVHgtd2d3UnJuSjRB?oc=5",
+      "score": 64.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-24T09:43:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 23 Nov 2026 10:32:02 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
@@ -158,7 +178,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:39+00:00",
+      "first_seen": "2026-11-24T09:46:05+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -181,7 +201,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:40+00:00",
+      "first_seen": "2026-11-24T09:46:06+00:00",
       "raw_samples": [
         {
           "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -193,10 +213,10 @@
       "is_global": true
     },
     {
-      "id": "d283d3bca3bf",
-      "title": "A battered stock market looks for the bottom: What to watch this week - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcU03UEttMkt2VHk0czNiZGxHNnB0MTR6Z2lvN01WUEF4VXZaejRWdV9IZ1d1b2YxUTc5bG9NUXVscVV4RjZ1TmdEdGtzWDdlb0JsQzhIWUozSHhGVFNSYW55aWpaalN4V1NlU21GWUpjYURFVU9YajkwZ3ltNXhvM2kwRW51T2RtYzVtajM4M3RvRmYwLUNQU1RHN0hjYmlsR3JGdTQ2WVNoMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcU03UEttMkt2VHk0czNiZGxHNnB0MTR6Z2lvN01WUEF4VXZaejRWdV9IZ1d1b2YxUTc5bG9NUXVscVV4RjZ1TmdEdGtzWDdlb0JsQzhIWUozSHhGVFNSYW55aWpaalN4V1NlU21GWUpjYURFVU9YajkwZ3ltNXhvM2kwRW51T2RtYzVtajM4M3RvRmYwLUNQU1RHN0hjYmlsR3JGdTQ2WVNoMThMNTNwZmI0VlB5NXhaYzZoLWxralZSSGM?oc=5",
+      "id": "0ba95a9c26a0",
+      "title": "Nvidia Poised For Biggest One Day Gain In History Of Stock Market As Jensen Huang Returns - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUllNzZaazk0eDdDc2xuZUx1c1lxczdlR3BITFJ3ZG43OTZlcjlmTUM0NS1BYnVKOEc1N3pZYzJiY0d6UGIzb1VYdDF1TkYwei04cTBVaHFwRjZhWW5FN25kNlZoSFlkWHFla2ZRLWptTThxTUNpYThmeXZvMmViZ3VreVRCbURNSGxjanFJLTI1WWV2LW9NdVpR?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUllNzZaazk0eDdDc2xuZUx1c1lxczdlR3BITFJ3ZG43OTZlcjlmTUM0NS1BYnVKOEc1N3pZYzJiY0d6UGIzb1VYdDF1TkYwei04cTBVaHFwRjZhWW5FN25kNlZoSFlkWHFla2ZRLWptTThxTUNpYThmeXZvMmViZ3VreVRCbURNSGxjanFJLTI1WWV2LW9NdVpR?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -204,10 +224,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 23 Nov 2026 12:06:56 GMT",
+          "published": "Mon, 23 Nov 2026 15:03:09 GMT",
           "source": "Yahoo Finance"
         }
       ]
@@ -224,7 +244,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:39+00:00",
+      "first_seen": "2026-11-24T09:46:05+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -236,10 +256,10 @@
       "is_global": true
     },
     {
-      "id": "664a77b89bf2",
-      "title": "Stock Market Sell-Off: Warren Buffett’s “Be Greedy” Rule Has a Catch Most Investors Forget - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWZtU19JUDJfdjVVa3QzMTVZekcydzIyZ1k3RV9PTFFHWkZyc1RoanVSRUNTMXA3bFlHb0tIelJzQ09uUGhqUUpzVXJHSDRyT3JYZnNhT1R6NkpPM3NZbEhWRm11ajZoUzlETGMzOVJ6R08xUTZxdnRvMkFJUEt6OXdOMWRlNTJWakZ5cENCTzNUeDNUOVpmUktmT2NsSm8xdjgzckg5X3JNQW",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWZtU19JUDJfdjVVa3QzMTVZekcydzIyZ1k3RV9PTFFHWkZyc1RoanVSRUNTMXA3bFlHb0tIelJzQ09uUGhqUUpzVXJHSDRyT3JYZnNhT1R6NkpPM3NZbEhWRm11ajZoUzlETGMzOVJ6R08xUTZxdnRvMkFJUEt6OXdOMWRlNTJWakZ5cENCTzNUeDNUOVpmUktmT2NsSm8xdjgzckg5X3JNQW9UZThrakNabEktTHR5cGU2LTdlU1FHTzJtUnNhQXV3?oc=5",
+      "id": "ebdfe1bd12e5",
+      "title": "If You're Worried About the Stock Market Right Now, History Says This 1 Move Will Make or Break Your Portfolio - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVDFFd1hucmVjWDljX0VpZG1YV3V6ZE9Hamd4dE1OODhFY0xwN0lXY1pFNHlmSWF1eGlub0xJUzdOY3g2WU5GNXRkWGpBUWhhMGIya3lkQmpPMFhHNkd1djd0OVJNNWxKb0xLdTlqcHFkSHlwSWNzaTI3Mk9paHJrQngyTnFOTGZ5aXh4R1hOWXVtcGk0MEZybmM0RElKQk1XZUtTMXFVLXYzSH",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVDFFd1hucmVjWDljX0VpZG1YV3V6ZE9Hamd4dE1OODhFY0xwN0lXY1pFNHlmSWF1eGlub0xJUzdOY3g2WU5GNXRkWGpBUWhhMGIya3lkQmpPMFhHNkd1djd0OVJNNWxKb0xLdTlqcHFkSHlwSWNzaTI3Mk9paHJrQngyTnFOTGZ5aXh4R1hOWXVtcGk0MEZybmM0RElKQk1XZUtTMXFVLXYzSHBvME5qalo1UHdDYVdWRkc3WmJocXdTRnZWZWNlNnhwN09mSm14UC1HUmJzaWtheklNWDNSUzhuQ2JXZw?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -247,10 +267,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 23 Nov 2026 13:51:01 GMT",
+          "published": "Mon, 23 Nov 2026 18:45:02 GMT",
           "source": "The Motley Fool"
         }
       ]
@@ -267,7 +287,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:39+00:00",
+      "first_seen": "2026-11-24T09:46:05+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -290,7 +310,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:39+00:00",
+      "first_seen": "2026-11-24T09:46:05+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -300,6 +320,26 @@
         }
       ],
       "is_global": true
+    },
+    {
+      "id": "3db1b2de68d5",
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Best Move Investors Should Make - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUxJUjFKbkdyZ200d3dodHR6T3d2WTN1UzQ3WUR4T1JKQ2hnTkc2bzJQcGF1am9fUjdXWm1QNDhnakNuLTBlYlVKTDZlMzQyTlVNbHp6Uy1FaTU4a01xMTZ3MzNjWC1OTVJqNko0UllLalpYdEtpZUpiSFh5RGEzNEs3LTNyblc1N2MxR29QNXR0UExDLUhIV0YxRldNZkZkV25sX1k1NHd1OG",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUxJUjFKbkdyZ200d3dodHR6T3d2WTN1UzQ3WUR4T1JKQ2hnTkc2bzJQcGF1am9fUjdXWm1QNDhnakNuLTBlYlVKTDZlMzQyTlVNbHp6Uy1FaTU4a01xMTZ3MzNjWC1OTVJqNko0UllLalpYdEtpZUpiSFh5RGEzNEs3LTNyblc1N2MxR29QNXR0UExDLUhIV0YxRldNZkZkV25sX1k1NHd1OGgtMWFVZHVNV1N0c3dFek4tc3FfRXpwZjBPT0NBZUJnZUw4NzBsMGhJRWU1dw?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-24T09:43:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 24 Nov 2026 01:00:00 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
     },
     {
       "id": "39b2969343d6",
@@ -313,7 +353,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:39+00:00",
+      "first_seen": "2026-11-24T09:46:05+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -325,10 +365,10 @@
       "is_global": true
     },
     {
-      "id": "58794353edee",
-      "title": "Nasdaq futures tripped a circuit breaker built for market crashes as Jensen Huang returned to Nvidia - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMUU4TU5rZk5fRHVMMnZyVVJSU2ctQWFjR0tYVlNaZUp2d1cwOXp5bGlyWm9sZmRzWHlCUmdEU3JwZ3Z5LW12TXR5cW5QY3pCNUxKT2tUbEQ2d2NnMlg3bDdkSWVTWEJCYVFvQVBXX05ESU5UMzV2aXJ5eThVbXBZcVU5NFltaFpFcDdLS3RfV2g3QUUxclV4TGVzcGM0VGpiNDVCYldhSmpnQ0",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMUU4TU5rZk5fRHVMMnZyVVJSU2ctQWFjR0tYVlNaZUp2d1cwOXp5bGlyWm9sZmRzWHlCUmdEU3JwZ3Z5LW12TXR5cW5QY3pCNUxKT2tUbEQ2d2NnMlg3bDdkSWVTWEJCYVFvQVBXX05ESU5UMzV2aXJ5eThVbXBZcVU5NFltaFpFcDdLS3RfV2g3QUUxclV4TGVzcGM0VGpiNDVCYldhSmpnQ0U4ZmdvU2ZNTkhvdU0xWTlBbzBqQ096dDRwSFlGY0FGRHBiUGphVXd3U0dOQVVMMnF1blR6T2NuYzhNUXh2eUd5c1NVbE1EcWV3XzFV?oc=5",
+      "id": "d283d3bca3bf",
+      "title": "A battered stock market looks for the bottom: What to watch this week - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcU03UEttMkt2VHk0czNiZGxHNnB0MTR6Z2lvN01WUEF4VXZaejRWdV9IZ1d1b2YxUTc5bG9NUXVscVV4RjZ1TmdEdGtzWDdlb0JsQzhIWUozSHhGVFNSYW55aWpaalN4V1NlU21GWUpjYURFVU9YajkwZ3ltNXhvM2kwRW51T2RtYzVtajM4M3RvRmYwLUNQU1RHN0hjYmlsR3JGdTQ2WVNoMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcU03UEttMkt2VHk0czNiZGxHNnB0MTR6Z2lvN01WUEF4VXZaejRWdV9IZ1d1b2YxUTc5bG9NUXVscVV4RjZ1TmdEdGtzWDdlb0JsQzhIWUozSHhGVFNSYW55aWpaalN4V1NlU21GWUpjYURFVU9YajkwZ3ltNXhvM2kwRW51T2RtYzVtajM4M3RvRmYwLUNQU1RHN0hjYmlsR3JGdTQ2WVNoMThMNTNwZmI0VlB5NXhaYzZoLWxralZSSGM?oc=5",
       "score": 50.4,
       "sources": [
         "google_news"
@@ -336,10 +376,10 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 23 Nov 2026 16:25:06 GMT",
+          "published": "Mon, 23 Nov 2026 12:06:56 GMT",
           "source": "Yahoo Finance"
         }
       ]
@@ -356,7 +396,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:39+00:00",
+      "first_seen": "2026-11-24T09:46:05+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -379,7 +419,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "global",
-      "first_seen": "2026-11-23T23:49:39+00:00",
+      "first_seen": "2026-11-24T09:46:05+00:00",
       "raw_samples": [
         {
           "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -391,10 +431,10 @@
       "is_global": true
     },
     {
-      "id": "91bc8241cba5",
-      "title": "If the Nasdaq Enters a Bear Market, I'm Buying These 3 ETFs on the Dip - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUhkVDhHWnZMZzZwSFVMNmltSmVacGF3SUlnTzRDQ1lwRzB4aVMzN1BUQzNobkd3dVJUQUdKQ1U2S0lldkhXbUR4OWFRV2pNMEV0cE81RXdZWUpWUmxvb2NXcWNWMzNXQjQySUhfVEpoUTVSc2RFNWVOMmJLZHRWS3QyVEJIT0hwMVFrVUJBRFJFNmNraWRjOUJuZnVRM20xN21IdQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUhkVDhHWnZMZzZwSFVMNmltSmVacGF3SUlnTzRDQ1lwRzB4aVMzN1BUQzNobkd3dVJUQUdKQ1U2S0lldkhXbUR4OWFRV2pNMEV0cE81RXdZWUpWUmxvb2NXcWNWMzNXQjQySUhfVEpoUTVSc2RFNWVOMmJLZHRWS3QyVEJIT0hwMVFrVUJBRFJFNmNraWRjOUJuZnVRM20xN21IdQ?oc=5",
+      "id": "c11f4223e5be",
+      "title": "2 Reasons Anthropic’s IPO Is a Bigger Risk to the Stock Market Than SpaceX’s - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTJlVWExRUxZYWpLekJNSGdPVndYRHpPRmpWZXlfcjZoaTJLTmdOd29va0tVZlo5NXBHRThrRTB1cFlJNHFQY1lQc2lPRVVKVmtUXzJCcThjUWd6SG9qSzN6cVN6MExQWnBXRlJhLWRLZzR6eFVRQWVjaWRpb1dwZlJXZTJFZDZWLWFzeW5VQjk1RjlwRmpmd0tMTVpWSWtDc1dxaVc2bXdFbD",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTJlVWExRUxZYWpLekJNSGdPVndYRHpPRmpWZXlfcjZoaTJLTmdOd29va0tVZlo5NXBHRThrRTB1cFlJNHFQY1lQc2lPRVVKVmtUXzJCcThjUWd6SG9qSzN6cVN6MExQWnBXRlJhLWRLZzR6eFVRQWVjaWRpb1dwZlJXZTJFZDZWLWFzeW5VQjk1RjlwRmpmd0tMTVpWSWtDc1dxaVc2bXdFbDFNc2RraWtjLTdER0hKekJj?oc=5",
       "score": 46.8,
       "sources": [
         "google_news"
@@ -402,79 +442,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 23 Nov 2026 17:45:02 GMT",
+          "published": "Mon, 23 Nov 2026 16:15:02 GMT",
           "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "9d338655de43",
-      "title": "lululemon athletica inc. stock rises Monday, still underperforms market - MarketWatch",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQVRFeTh0TGRTbV9zeF9LSlZCSGhtQ2IyUEV0YXh5b0FDSXRuTnN2SnhjQ0xZU1lIR3FHU3gtLV9JSUl4ZHhsSnFaWUZIZi1fMXI1MEFnXy1rQ0xUbVJjcktnUVpqdFF4cjYzSEdjWjk2ejdZVnpDSjFPcW14TDZzcnZoOUFJeG5PdHMxZTV2bFF0R3k2eGp1bFlzTC02Vm14NGtMeW1TYUJxZy",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQVRFeTh0TGRTbV9zeF9LSlZCSGhtQ2IyUEV0YXh5b0FDSXRuTnN2SnhjQ0xZU1lIR3FHU3gtLV9JSUl4ZHhsSnFaWUZIZi1fMXI1MEFnXy1rQ0xUbVJjcktnUVpqdFF4cjYzSEdjWjk2ejdZVnpDSjFPcW14TDZzcnZoOUFJeG5PdHMxZTV2bFF0R3k2eGp1bFlzTC02Vm14NGtMeW1TYUJxZy1XTzMwU2tEQ1hldjNuWU9QZWNQTEVWQjk1TWxGSUxMdnd6XzZNb2IyNDZVRENOOVZ1cE5qNg?oc=5",
-      "score": 41.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 23 Nov 2026 22:13:00 GMT",
-          "source": "MarketWatch"
-        },
-        {
-          "published": "Mon, 23 Nov 2026 22:30:00 GMT",
-          "source": "MarketWatch"
-        },
-        {
-          "published": "Mon, 23 Nov 2026 21:49:00 GMT",
-          "source": "MarketWatch"
-        }
-      ]
-    },
-    {
-      "id": "af2e8a5c1550",
-      "title": "Stock Market Sell-Off: Here's My Honest Take On What Every Long-Term Investor Should Do Right Now - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVDh0dGdBNnp2d3A0VVBncVJ1bUdvQm5uVUt0VVV6cnVfeldfQmhUYUtRcmdCeVJSOGVRbHRmMGlKbGt4dVdHQktIRHRyenBhT1V4MVFTVDFlSzlVWWJodGlXRHBDY1haSHVGdXp0WU1tTjJYNTRGVklYTDB0cHhnQXpDNVAzaXJXcXpwRGpMczhpd1drLUViX1VLcmNUaG85T0t0Tm9yNDBDRD",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVDh0dGdBNnp2d3A0VVBncVJ1bUdvQm5uVUt0VVV6cnVfeldfQmhUYUtRcmdCeVJSOGVRbHRmMGlKbGt4dVdHQktIRHRyenBhT1V4MVFTVDFlSzlVWWJodGlXRHBDY1haSHVGdXp0WU1tTjJYNTRGVklYTDB0cHhnQXpDNVAzaXJXcXpwRGpMczhpd1drLUViX1VLcmNUaG85T0t0Tm9yNDBDRDJ4N3hpb3FIb2lUWlNDREhsakRMT2tJb2hrZGJsemlGUzFCRk9Ndl9wRw?oc=5",
-      "score": 39.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 23 Nov 2026 09:26:02 GMT",
-          "source": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "66bf40792e9a",
-      "title": "Why Monday’s huge stock-market rally is actually a warning sign for bulls - MarketWatch",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHJnMGxNSzZhTHlVUmQ4U0N0T0RLWVdSVXVIVi1OS2pYYWdDaTFfLWZaX2xDd3BORmNZaE54cDBUNmVMeXZpT0JsUmVUNnFoVHpuTEJUY3FBYV9KMDA2M1NuaHBNR2hLbWZtLVhfbXo5a2pGMkhBWWsxdHVxQUZMRmc3LVRIdzIwUFU4N2Z0eE4tOFBRSlJGQjViVzhOamxFenhjUUxXUUpvS0",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHJnMGxNSzZhTHlVUmQ4U0N0T0RLWVdSVXVIVi1OS2pYYWdDaTFfLWZaX2xDd3BORmNZaE54cDBUNmVMeXZpT0JsUmVUNnFoVHpuTEJUY3FBYV9KMDA2M1NuaHBNR2hLbWZtLVhfbXo5a2pGMkhBWWsxdHVxQUZMRmc3LVRIdzIwUFU4N2Z0eE4tOFBRSlJGQjViVzhOamxFenhjUUxXUUpvS0xKUUxtTjJfdzdmdw?oc=5",
-      "score": 36.0,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
-      "raw_samples": [
-        {
-          "published": "Mon, 23 Nov 2026 19:54:00 GMT",
-          "source": "MarketWatch"
         }
       ]
     },
@@ -483,14 +455,14 @@
       "title": "Stock market rebounds sharply after sell-off, Nvidia soars - Yahoo Finance",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFFjNUFJZG83NlktVWI1Y3JPWW15MHlHMlJBbko1b0FYUmhyOGFDcUhVSlU1RjJ3RDVZY0xINlRVdXBZQXFwZmx1VzBaWFBTV1BRVlZTbUtfNXoxSXFfcGFvVTM5VjF2UzRBcTZmejdDNWRTamtVeEJ0RlJ1cUEyWU1VWW9meTBndVlLd1VqcGEycGRiZHZXeW1UUVZJNnVL?oc=5\" target=",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFFjNUFJZG83NlktVWI1Y3JPWW15MHlHMlJBbko1b0FYUmhyOGFDcUhVSlU1RjJ3RDVZY0xINlRVdXBZQXFwZmx1VzBaWFBTV1BRVlZTbUtfNXoxSXFfcGFvVTM5VjF2UzRBcTZmejdDNWRTamtVeEJ0RlJ1cUEyWU1VWW9meTBndVlLd1VqcGEycGRiZHZXeW1UUVZJNnVL?oc=5",
-      "score": 32.4,
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
           "published": "Mon, 23 Nov 2026 14:35:00 GMT",
@@ -499,22 +471,62 @@
       ]
     },
     {
-      "id": "45960f28674e",
-      "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history - MarketWatch",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPMDZvSUp1Y2NtbmRuR2lZZG1YTkxibDdWM01fc0F4SmR3ZnlnTVB3bHlBeElZU1NSRjFvXzlTb0VNQVFSX2VyTkdER212SHhEOUJIX1NJTmRHcFlJVWhaNVEtSHlyal9xc0U5Rm5MYkx5SkNNY0lIamh2Q3ZjdHJnOVBDbWl6MlRaMi0wTF8zRDdJb3FFUzJaX3VHUy1iV3ZieGpJZ1pGdlFSLW",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMDZvSUp1Y2NtbmRuR2lZZG1YTkxibDdWM01fc0F4SmR3ZnlnTVB3bHlBeElZU1NSRjFvXzlTb0VNQVFSX2VyTkdER212SHhEOUJIX1NJTmRHcFlJVWhaNVEtSHlyal9xc0U5Rm5MYkx5SkNNY0lIamh2Q3ZjdHJnOVBDbWl6MlRaMi0wTF8zRDdJb3FFUzJaX3VHUy1iV3ZieGpJZ1pGdlFSLWllSk1hZFNqZ2dNUS1sTFh3eVA2NGZLOWNvd0ZEVElR?oc=5",
-      "score": 28.8,
+      "id": "15e027bd11c8",
+      "title": "Why Lumentum Holdings Stock Trounced the Market Today - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOWG80R0t2V21xd012VmZSM1hpNUxtczNud2VzVi1DUndmMlVXWi1CSG9raGEybHllZEw5Mm5fMlNtRmpiWWUxeHF6bTdoZGgySC1Eb2NjVlJCZ2NKOEpzNzF2aW4xWl9RZmNvZFVucmVnVThjbmNTRG9TZ3VUMTlPc1JsOUkzZ082LWpqWmh3Y294OE1KTFFVTjFlLWM?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWG80R0t2V21xd012VmZSM1hpNUxtczNud2VzVi1DUndmMlVXWi1CSG9raGEybHllZEw5Mm5fMlNtRmpiWWUxeHF6bTdoZGgySC1Eb2NjVlJCZ2NKOEpzNzF2aW4xWl9RZmNvZFVucmVnVThjbmNTRG9TZ3VUMTlPc1JsOUkzZ082LWpqWmh3Y294OE1KTFFVTjFlLWM?oc=5",
+      "score": 39.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "CA",
-      "first_seen": "2026-11-23T23:47:21+00:00",
+      "first_seen": "2026-11-24T09:43:45+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 23 Nov 2026 21:19:00 GMT",
-          "source": "MarketWatch"
+          "published": "Mon, 23 Nov 2026 21:22:45 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "efb8082ff2a3",
+      "title": "Jensen Huang Just Killed Hopes For a Fed Rate Pause. Will Kevin Warsh Crush the Stock Market Recovery on Dec. 9? - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnVfUXp6QjgyRzhOZEkzLTFOdGtKWmlnbVY5NExxYmdZc3o4YWwxR2tUaUxkOXU5b2pEMFNEek9QVTNLLUhBNlZydHlQMjROSnl5eHpsT3g1NGJycUF3UndmbVl1VmtRUHlhbWlEMFUybFRlTmdfRU9Da1A3YTBRa2RGUUxhUDBjeGZKeEFzMWhGTXUyR3ZIQThMSGpOV3R2ZEhDYWlLRmx4cj",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnVfUXp6QjgyRzhOZEkzLTFOdGtKWmlnbVY5NExxYmdZc3o4YWwxR2tUaUxkOXU5b2pEMFNEek9QVTNLLUhBNlZydHlQMjROSnl5eHpsT3g1NGJycUF3UndmbVl1VmtRUHlhbWlEMFUybFRlTmdfRU9Da1A3YTBRa2RGUUxhUDBjeGZKeEFzMWhGTXUyR3ZIQThMSGpOV3R2ZEhDYWlLRmx4cjlKUE9xSWpTOThoZ2FMV0ZKUGo5V2lSbUh3bVNmaTkyUGNPZw?oc=5",
+      "score": 36.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-24T09:43:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 24 Nov 2026 08:45:02 GMT",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "664a77b89bf2",
+      "title": "Stock Market Sell-Off: Warren Buffett’s “Be Greedy” Rule Has a Catch Most Investors Forget - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWZtU19JUDJfdjVVa3QzMTVZekcydzIyZ1k3RV9PTFFHWkZyc1RoanVSRUNTMXA3bFlHb0tIelJzQ09uUGhqUUpzVXJHSDRyT3JYZnNhT1R6NkpPM3NZbEhWRm11ajZoUzlETGMzOVJ6R08xUTZxdnRvMkFJUEt6OXdOMWRlNTJWakZ5cENCTzNUeDNUOVpmUktmT2NsSm8xdjgzckg5X3JNQW",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWZtU19JUDJfdjVVa3QzMTVZekcydzIyZ1k3RV9PTFFHWkZyc1RoanVSRUNTMXA3bFlHb0tIelJzQ09uUGhqUUpzVXJHSDRyT3JYZnNhT1R6NkpPM3NZbEhWRm11ajZoUzlETGMzOVJ6R08xUTZxdnRvMkFJUEt6OXdOMWRlNTJWakZ5cENCTzNUeDNUOVpmUktmT2NsSm8xdjgzckg5X3JNQW9UZThrakNabEktTHR5cGU2LTdlU1FHTzJtUnNhQXV3?oc=5",
+      "score": 32.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "CA",
+      "first_seen": "2026-11-24T09:43:45+00:00",
+      "raw_samples": [
+        {
+          "published": "Mon, 23 Nov 2026 13:51:01 GMT",
+          "source": "The Motley Fool"
         }
       ]
     }
