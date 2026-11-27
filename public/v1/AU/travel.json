@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "travel",
   "region": "AU",
-  "generated_at": "2026-11-27T08:21:01+00:00",
+  "generated_at": "2026-11-27T21:14:56+00:00",
   "cache_ttl_hours": 6,
-  "count": 18,
+  "count": 20,
   "trends": [
     {
-      "id": "2a127d3c487f",
-      "title": "Tourism excellence celebrated at 2026 Perth Airport WA Tourism Awards - Australasian Leisure Management Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPajgxWkFfdUxvNXRYMFNiTmJsakM5TE44emRablR6Vno0UWpXRGNZdVFuWmV6SjUzampOMThYNXNqWHJUb3o1VlltUUhoV3FWNnVTd2Uydk55aFJEdkVnbUZhTEZocjJvUVdLWjRXMm1PUU5vOG5nN1QwdjQzbDZYbkhqSXN2clZYS25oamV2ZDhMckFtRXh2UGNpSTBVb1E2d3J2LVVCSQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajgxWkFfdUxvNXRYMFNiTmJsakM5TE44emRablR6Vno0UWpXRGNZdVFuWmV6SjUzampOMThYNXNqWHJUb3o1VlltUUhoV3FWNnVTd2Uydk55aFJEdkVnbUZhTEZocjJvUVdLWjRXMm1PUU5vOG5nN1QwdjQzbDZYbkhqSXN2clZYS25oamV2ZDhMckFtRXh2UGNpSTBVb1E2d3J2LVVCSQ?oc=5",
+      "id": "fbad9d7d6dc6",
+      "title": "Bushfire disaster ignites citizen science tourism - Phys.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQNUJjYXE4dXVCb1U3eGxuQ3dXdHpCaUdaRll0ZC1FNXRVNTdnR05UdTlSMk1BTHV5YjExZTFybXpKMG1sUlY1S3JSQ01lYjhzekpJNk11M2F6cHpoMTl0TUtfM290NV85N2tMYjZiLVl4bGpzek5SdXRTWFc4ZFBzMzZB?oc=5\" target=\"_blank\">Bushfire disaster ignites citiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNUJjYXE4dXVCb1U3eGxuQ3dXdHpCaUdaRll0ZC1FNXRVNTdnR05UdTlSMk1BTHV5YjExZTFybXpKMG1sUlY1S3JSQ01lYjhzekpJNk11M2F6cHpoMTl0TUtfM290NV85N2tMYjZiLVl4bGpzek5SdXRTWFc4ZFBzMzZB?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,47 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 27 Nov 2026 12:50:01 GMT",
+          "source": "Phys.org"
+        }
+      ]
+    },
+    {
+      "id": "4a0292a242c7",
+      "title": "Globetrotting: Lonely Planet’s Best in Travel 2027 - PS News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZm80MXpxelpPRF9FcEx6RVZYSW1WR2NpSDhSOVkyUXl6VVVNT2lWcFNtckdneUpvOHlHRmxfMnFBQ29INXpaQk83YVBpV1IwS3lsaUN1dURSNHpBVjRWLXJQZjBZOUtUcjZzUG5DTi1UUjc1dXJSV1RiRjBUUkRJYldYdW4?oc=5\" target=\"_blank\">Globetrotting: Lonely Planet",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZm80MXpxelpPRF9FcEx6RVZYSW1WR2NpSDhSOVkyUXl6VVVNT2lWcFNtckdneUpvOHlHRmxfMnFBQ29INXpaQk83YVBpV1IwS3lsaUN1dURSNHpBVjRWLXJQZjBZOUtUcjZzUG5DTi1UUjc1dXJSV1RiRjBUUkRJYldYdW4?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-27T21:06:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 27 Nov 2026 20:19:43 GMT",
+          "source": "PS News"
+        }
+      ]
+    },
+    {
+      "id": "2a127d3c487f",
+      "title": "Tourism excellence celebrated at 2026 Perth Airport WA Tourism Awards - Australasian Leisure Management Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPajgxWkFfdUxvNXRYMFNiTmJsakM5TE44emRablR6Vno0UWpXRGNZdVFuWmV6SjUzampOMThYNXNqWHJUb3o1VlltUUhoV3FWNnVTd2Uydk55aFJEdkVnbUZhTEZocjJvUVdLWjRXMm1PUU5vOG5nN1QwdjQzbDZYbkhqSXN2clZYS25oamV2ZDhMckFtRXh2UGNpSTBVb1E2d3J2LVVCSQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajgxWkFfdUxvNXRYMFNiTmJsakM5TE44emRablR6Vno0UWpXRGNZdVFuWmV6SjUzampOMThYNXNqWHJUb3o1VlltUUhoV3FWNnVTd2Uydk55aFJEdkVnbUZhTEZocjJvUVdLWjRXMm1PUU5vOG5nN1QwdjQzbDZYbkhqSXN2clZYS25oamV2ZDhMckFtRXh2UGNpSTBVb1E2d3J2LVVCSQ?oc=5",
+      "score": 82.8,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 26 Nov 2026 18:54:21 GMT",
@@ -27,30 +67,10 @@
       ]
     },
     {
-      "id": "f274cd7481af",
-      "title": "The Best Black Friday Travel Deals To Book Now, From International Flights to Dreamy Holidays - Broadsheet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWVFTXdwcmdsY1U3NklZdTlLUkZqUGZEb3N1MTJjVHFwOU1UX3VjM0VJcTdWd091bFE5WFZjS0Y2ZW1CRURTRlA1S0VQa0dRRGNPVkVXVEJub0VVTmJNR3dEV2xSQ1kxVmFHM2lJd0o1UnQtcTFrQUhndGNGdkpGYnVfQlkxcWtRT1BQRGgzQVlpc2JlX3Q0M1Bic3FWcDFlUC0zX3lBdDhwQQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWVFTXdwcmdsY1U3NklZdTlLUkZqUGZEb3N1MTJjVHFwOU1UX3VjM0VJcTdWd091bFE5WFZjS0Y2ZW1CRURTRlA1S0VQa0dRRGNPVkVXVEJub0VVTmJNR3dEV2xSQ1kxVmFHM2lJd0o1UnQtcTFrQUhndGNGdkpGYnVfQlkxcWtRT1BQRGgzQVlpc2JlX3Q0M1Bic3FWcDFlUC0zX3lBdDhwQQ?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 26 Nov 2026 19:13:01 GMT",
-          "source": "Broadsheet"
-        }
-      ]
-    },
-    {
-      "id": "07cba2a5803e",
-      "title": "‘Finally’: Aussies lose it over $15 travel undies - Escape Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnF1OHNHSG9IX0dyUW9nZzRkRFVUblFDQ1hocDdrRDhuNkNQSlVmUUpYV0QzWTFmVTFqOWdZVFozczNDbnZFWjRZUWxPczViVWdCQllDck9EbWVBckpLemZzYWR1Wm9hVUhWU0YyTmpOZ2wwTHhYcjJhTHNuQXYyb0x2cFBtd3lqUGhNWmhMQ0IySENNcDEzMEdyRzJVVTNJLUJac2Jxa9IBrA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnF1OHNHSG9IX0dyUW9nZzRkRFVUblFDQ1hocDdrRDhuNkNQSlVmUUpYV0QzWTFmVTFqOWdZVFozczNDbnZFWjRZUWxPczViVWdCQllDck9EbWVBckpLemZzYWR1Wm9hVUhWU0YyTmpOZ2wwTHhYcjJhTHNuQXYyb0x2cFBtd3lqUGhNWmhMQ0IySENNcDEzMEdyRzJVVTNJLUJac2Jxa9IBrAFBVV95cUxOdHJvWkNlRTRsSTRfbTQyUE51eGdZRk1ERkhpeDdGT3NfUWVaSUdQQ1VDUTFNRUtlZVlOYmVCamNNcmNMMGJfX1lvZ1J5QjZHcGIyaFZPUWhNT0F4eElQX3RNUlN5Vk80TGw0dzgzcWNXQjhnUFdzNHhaN0FHVWdOQ2NDZkFDM0xKaW81NE15S3ZoTGhjdE45TWc0WWMyVkhjWXM1SU1DSTVlLVY3?oc=5",
+      "id": "34ed991472d4",
+      "title": "Where to next? The trends and destinations shaping travel in 2027 - WAtoday",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORk01M0xlakhySUc4cDJoR1hpT24xVDdfQ01hMWdMZGNTOC1scUVvdjgzendxUUwwanl4TkhxYnQ2aEpsQlZkVnpzUGxKbnR5TFEwYl9fQzJDblRrcWtaOUtmS2VFTkF3VVNxNFJDSU81OWJuNHIwSDFGMVg1dVNYVFRpeGRCTjdHSEZSZFhTUUVrcEZSSmhFeXdxQ1FpbldtS1FCcWJLa1owOX",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORk01M0xlakhySUc4cDJoR1hpT24xVDdfQ01hMWdMZGNTOC1scUVvdjgzendxUUwwanl4TkhxYnQ2aEpsQlZkVnpzUGxKbnR5TFEwYl9fQzJDblRrcWtaOUtmS2VFTkF3VVNxNFJDSU81OWJuNHIwSDFGMVg1dVNYVFRpeGRCTjdHSEZSZFhTUUVrcEZSSmhFeXdxQ1FpbldtS1FCcWJLa1owOXhhd21jcFBzV2tDbmxxUVcya2ZkOGNNZldEQUdHdW1hR3JrOFE?oc=5",
       "score": 79.2,
       "sources": [
         "google_news"
@@ -58,19 +78,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 01:38:26 GMT",
-          "source": "Escape Australia"
+          "published": "Fri, 27 Nov 2026 04:11:53 GMT",
+          "source": "WAtoday"
         }
       ]
     },
     {
-      "id": "882264029c64",
-      "title": "Travel news: new Emirates lounge revealed, a huge gourmet giveway and luxury hotel launches - Gourmet Traveller",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBQbldtUGg0RURFU09WemprODBGeEJINGIyenN2NmEzSXZ2UU5IeENPZU1PMzRrbHNnY2h0UXI0VGd4enJCTW1MVnQ3bTZ1Ujg3Wnc3UWQ4N0dvSjdZYkdSUjdtS2hIR3BDUmFsT29zaWY?oc=5\" target=\"_blank\">Travel news: new Emirates lounge revealed, a huge gourme",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQbldtUGg0RURFU09WemprODBGeEJINGIyenN2NmEzSXZ2UU5IeENPZU1PMzRrbHNnY2h0UXI0VGd4enJCTW1MVnQ3bTZ1Ujg3Wnc3UWQ4N0dvSjdZYkdSUjdtS2hIR3BDUmFsT29zaWY?oc=5",
+      "id": "bf1e7d989752",
+      "title": "Sydney Airport ready for busy end to year and peak travel season - Airport World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYU5sSDFvOXBGNFZJemJHalZDeGk0WVFoNHd2X3JYVjQzajdSb3ZWNmw0b3dJSXp0M0hTcmlIU1Q2RmZkdmRGSDBrY29FZ3djQjBsQ1EwbklKRFM4eG9TSFlyZVdFMGloLXR5dHVIMk03WnE3ZWQ5OTFWX0VkOHRDMXVQNUt6R3E4M21SbGVBMzJ5YjkzbkE?oc=5\" target=\"_blank\">Sydn",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYU5sSDFvOXBGNFZJemJHalZDeGk0WVFoNHd2X3JYVjQzajdSb3ZWNmw0b3dJSXp0M0hTcmlIU1Q2RmZkdmRGSDBrY29FZ3djQjBsQ1EwbklKRFM4eG9TSFlyZVdFMGloLXR5dHVIMk03WnE3ZWQ5OTFWX0VkOHRDMXVQNUt6R3E4M21SbGVBMzJ5YjkzbkE?oc=5",
       "score": 75.6,
       "sources": [
         "google_news"
@@ -78,19 +98,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 00:23:32 GMT",
-          "source": "Gourmet Traveller"
+          "published": "Fri, 27 Nov 2026 08:35:02 GMT",
+          "source": "Airport World"
         }
       ]
     },
     {
-      "id": "e1bff40642cb",
-      "title": "Why Flight Centre Travel Group (ASX:FLT) Is Investigating an Accommodation Booking Incident - Kalkine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPNUt1NzFtcUtTUHhhdnJtUWpfUFRFQnpRLWg0MHVabzhwVU5MaGdrMXpjLU9meDNFZEE2T0k1WUR1V2pKdGh1MkExd2dVM0M4dkJ3ci1UbklDWTZBcWRIdzBRLXJHTzNJQ0JaSUdJMXduQXdxc3F3dTBJZnBEcWNBaGYzZV9OSzVnUi1lWmV0NEFoTjMyczYtMldYUGdYN0dGeV9vTG8ydzZjZm",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNUt1NzFtcUtTUHhhdnJtUWpfUFRFQnpRLWg0MHVabzhwVU5MaGdrMXpjLU9meDNFZEE2T0k1WUR1V2pKdGh1MkExd2dVM0M4dkJ3ci1UbklDWTZBcWRIdzBRLXJHTzNJQ0JaSUdJMXduQXdxc3F3dTBJZnBEcWNBaGYzZV9OSzVnUi1lWmV0NEFoTjMyczYtMldYUGdYN0dGeV9vTG8ydzZjZmZLX3A5R0NtR2U3eVU3TFpZQmcyU1pGUWNZOTVnWW5aZlN5dw?oc=5",
+      "id": "af6d9637edad",
+      "title": "Airlines bankroll travel influencers — and normalise a high‑carbon lifestyle for Europeans - EUobserver",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNc185clcxSTVuenJiNGdRcTNyNDBvUVRiZV9uY0EyU2NzTlVSWGc1c28zdUQ5cWlHS05nODF5Q2M5QmhsV1RoOVNJQ3dTdzEwN3BCZm9DMzVKWUZmam1kMjJwZW1KQ0xVTzVNUDNHdnBZMC1TWjZpQTdtSVhucVpLeURjdUZJLVlONHdRYXl6RTc0c2xhbmJZTUl6Wl9RWlpKVDZWVk90QjVKS3",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc185clcxSTVuenJiNGdRcTNyNDBvUVRiZV9uY0EyU2NzTlVSWGc1c28zdUQ5cWlHS05nODF5Q2M5QmhsV1RoOVNJQ3dTdzEwN3BCZm9DMzVKWUZmam1kMjJwZW1KQ0xVTzVNUDNHdnBZMC1TWjZpQTdtSVhucVpLeURjdUZJLVlONHdRYXl6RTc0c2xhbmJZTUl6Wl9RWlpKVDZWVk90QjVKS3JVenFVeUtJQ3lCaDJueEE?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -98,19 +118,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 07:10:00 GMT",
-          "source": "Kalkine"
+          "published": "Fri, 27 Nov 2026 15:03:34 GMT",
+          "source": "EUobserver"
         }
       ]
     },
     {
-      "id": "fb10cf4f16dd",
-      "title": "Travel to Vietnam - Minister for Trade and Tourism",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVTk1M21ycHpDUjFlVzV3OHNvZlZRVWRoVmEycmQyZDF2Q0gzWEdIQ0hPWmpDQ0dFZ0xVWHdJQ2lOWjhXU0RlNUgtSWxPRkJ4Yy0wRGxzSF9Eb3dQQnNzTkRDc0JQdnFnRm8teU5FVTkxVkQta3BUUjRvT21yQnZRRW9XRFVKNDdVUFE?oc=5\" target=\"_blank\">Travel to Vietnam</a",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVTk1M21ycHpDUjFlVzV3OHNvZlZRVWRoVmEycmQyZDF2Q0gzWEdIQ0hPWmpDQ0dFZ0xVWHdJQ2lOWjhXU0RlNUgtSWxPRkJ4Yy0wRGxzSF9Eb3dQQnNzTkRDc0JQdnFnRm8teU5FVTkxVkQta3BUUjRvT21yQnZRRW9XRFVKNDdVUFE?oc=5",
+      "id": "82bd1e7ed195",
+      "title": "Direct Travel Launches Avenir in Australia - Business Travel News Europe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHlpQzNBSDNwVVhKNkxKazlER3dXWHRMZGxHNlNQMWl0QjNlWTUxYW9KQzMtM0dEUVRETlJ2NGR5UlpQN0VhMERVWlAxM2VxcG1STWdFV2FvdGtZNHNRWlV6NnB1WUtxUG0zcUF5YzRSaXRRNWNPLVhpSW5YOE5GLXlYWnJmLURBcVVVU0NwOUF3bjJ0S3ZPQnJR?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHlpQzNBSDNwVVhKNkxKazlER3dXWHRMZGxHNlNQMWl0QjNlWTUxYW9KQzMtM0dEUVRETlJ2NGR5UlpQN0VhMERVWlAxM2VxcG1STWdFV2FvdGtZNHNRWlV6NnB1WUtxUG0zcUF5YzRSaXRRNWNPLVhpSW5YOE5GLXlYWnJmLURBcVVVU0NwOUF3bjJ0S3ZPQnJR?oc=5",
       "score": 68.4,
       "sources": [
         "google_news"
@@ -118,19 +138,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 25 Nov 2026 21:30:47 GMT",
-          "source": "Minister for Trade and Tourism"
+          "published": "Fri, 27 Nov 2026 10:07:55 GMT",
+          "source": "Business Travel News Europe"
         }
       ]
     },
     {
-      "id": "5a4ea3664216",
-      "title": "Best Aussie destination crowned in Time Out travel awards - Nine.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTh6bWZOZzdOYXBUODRkMFBCXzh4QXlwZmJCVERISjJNTl9KVFE1ZjVyYzNMdzFXeDhXTm5neUhFR21QVGVIR2hzelhuSmp0QkdWamo5OTJSdTJPMTZybEozVHByTDRQbHIyNTRSSFI3WUx5X2hhSHZSMWMwa1ZJdko2VTNsaVhIdU1PWUZKcnl6ZllLRUJsUXNIV01lb0pZbVR1cnduMHFRdH",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTh6bWZOZzdOYXBUODRkMFBCXzh4QXlwZmJCVERISjJNTl9KVFE1ZjVyYzNMdzFXeDhXTm5neUhFR21QVGVIR2hzelhuSmp0QkdWamo5OTJSdTJPMTZybEozVHByTDRQbHIyNTRSSFI3WUx5X2hhSHZSMWMwa1ZJdko2VTNsaVhIdU1PWUZKcnl6ZllLRUJsUXNIV01lb0pZbVR1cnduMHFRdHMwLWJYWEZMX1JYTWE4TVZ1RXpTd3B5Q2tYTUtZ?oc=5",
+      "id": "474630842597",
+      "title": "Seniors in Melbourne wins Gold at Victorian Tourism Awards - travelweekly.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSjNKTHFLZzZLYnBMdVRod2dGQU1IaXpyUm12SkZHOHNmeWFlTUNPeXRrVVB3UzF4SHdjeVo1TFVrWjVJWkJyeUpScUU1bXg3Y1Y1MmJvOVdrS0VMT1UtVE04Rkc1VHlwcGVRblRRc1Bhdm1YMFlCX3p5Z3pBR2NWVXoyZlI4ZDVHUFR6aHNBaEU?oc=5\" target=\"_blank\">Seniors in M",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSjNKTHFLZzZLYnBMdVRod2dGQU1IaXpyUm12SkZHOHNmeWFlTUNPeXRrVVB3UzF4SHdjeVo1TFVrWjVJWkJyeUpScUU1bXg3Y1Y1MmJvOVdrS0VMT1UtVE04Rkc1VHlwcGVRblRRc1Bhdm1YMFlCX3p5Z3pBR2NWVXoyZlI4ZDVHUFR6aHNBaEU?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -138,19 +158,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 25 Nov 2026 01:13:37 GMT",
-          "source": "Nine.com.au"
+          "published": "Fri, 27 Nov 2026 05:12:37 GMT",
+          "source": "travelweekly.com.au"
         }
       ]
     },
     {
-      "id": "4e524fc920ad",
-      "title": "Living museum and City shine at Victorian Tourism Awards - Times News Group",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPWi1yUkp0OGstemVkODJHTTEzVWNvWlU0UHFYdHpzSGJmWDg3ZFRUVjNFaENJT2VJSnp0OWVKUDhUVzJGWEUxNDYtUlF2djN2R180SkZhUzQ3RGM3QkhlbThzTDkya0Iya1c3R3FlUlQxaEkxbmRnTW5weDBmaWdxS3F5YXFKWDAzYkhWOHFfc2I4YnhCQTRQem1YS0VoVGQ3LU4w?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWi1yUkp0OGstemVkODJHTTEzVWNvWlU0UHFYdHpzSGJmWDg3ZFRUVjNFaENJT2VJSnp0OWVKUDhUVzJGWEUxNDYtUlF2djN2R180SkZhUzQ3RGM3QkhlbThzTDkya0Iya1c3R3FlUlQxaEkxbmRnTW5weDBmaWdxS3F5YXFKWDAzYkhWOHFfc2I4YnhCQTRQem1YS0VoVGQ3LU4w?oc=5",
+      "id": "c11c18365448",
+      "title": "Flight Centre Travel Group warns of customer data breach involving some passport details - Help Net Security",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdzd1bHlXNlZVNWJuTGVhVDFEcWFwTzFub3MtYkFJOF9YWG5NZ3dpb0xIb0tZX2hHYm5qNlZMT2d0V2JUYldsRzh4c0FlbGVWbDVvTmRYZ3k5VFZkTFFRbTktdThoWGktM3FqX20zNHk2Vmh6Wjd4YjJiN0hZYk1XOFdjdlpReU1kaXBTNER2NHNzWFBabzRFWE9qcUVCdw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzd1bHlXNlZVNWJuTGVhVDFEcWFwTzFub3MtYkFJOF9YWG5NZ3dpb0xIb0tZX2hHYm5qNlZMT2d0V2JUYldsRzh4c0FlbGVWbDVvTmRYZ3k5VFZkTFFRbTktdThoWGktM3FqX20zNHk2Vmh6Wjd4YjJiN0hZYk1XOFdjdlpReU1kaXBTNER2NHNzWFBabzRFWE9qcUVCdw?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -158,19 +178,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 02:23:07 GMT",
-          "source": "Times News Group"
+          "published": "Fri, 27 Nov 2026 09:31:44 GMT",
+          "source": "Help Net Security"
         }
       ]
     },
     {
-      "id": "9c7cebfb3c84",
-      "title": "Exclusive: State of the travel industry, & each sector, revealed in ATIA’s 2026 Benchmarking report - Karryon",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBKMjJpcmphLXRWVWM3ZDZLY3M4YnlLSFJYQUFjQ1daTlhuakEzeDg5Q2Rxb3AwZkRCdE56UGVKOTJSbWFVRmhLcTk1SGFfSVZKMXQ1UnNuU0s2bDVvZTJZb3JSQ1VDem5vRllWMEJrWHZ2eWxTZDBaQTdSd3RkMzA?oc=5\" target=\"_blank\">Exclusive: State of the travel indus",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKMjJpcmphLXRWVWM3ZDZLY3M4YnlLSFJYQUFjQ1daTlhuakEzeDg5Q2Rxb3AwZkRCdE56UGVKOTJSbWFVRmhLcTk1SGFfSVZKMXQ1UnNuU0s2bDVvZTJZb3JSQ1VDem5vRllWMEJrWHZ2eWxTZDBaQTdSd3RkMzA?oc=5",
+      "id": "4f12013f015c",
+      "title": "Helloworld Travel Limited (ASX:HLO): Why Is It Pairing Steady Dividends With a Currency Exchange Expansion? - Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOFJSbFVFVUk0WHI1NnlsaHN2eC03cFgya1ZFejBrcjAxUFV5eXk0TnYxMFhuMVlCZzNhVTFESW8xUkRWdTNfMUU0dWQxTU80MzNIQUJkaUFaMnlzbW9Hb3R2dndaU2V5VS1wMGVxRjNHZFlQM1hsR3RHMjJWR3RuMXFQdWZKM2kwUWNQZF9VRHRYcllsQUZCa2pvWi1RQVkxYzVxdmsxTnpqWk",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOFJSbFVFVUk0WHI1NnlsaHN2eC03cFgya1ZFejBrcjAxUFV5eXk0TnYxMFhuMVlCZzNhVTFESW8xUkRWdTNfMUU0dWQxTU80MzNIQUJkaUFaMnlzbW9Hb3R2dndaU2V5VS1wMGVxRjNHZFlQM1hsR3RHMjJWR3RuMXFQdWZKM2kwUWNQZF9VRHRYcllsQUZCa2pvWi1RQVkxYzVxdmsxTnpqWkxYX3dpMWhFVnhoVHNpTXczcDUyYlNOTlI2a0t3VDJ3Y2Y0eHkzbnNn?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -178,11 +198,51 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 01:53:14 GMT",
-          "source": "Karryon"
+          "published": "Fri, 27 Nov 2026 11:28:00 GMT",
+          "source": "Kalkine"
+        }
+      ]
+    },
+    {
+      "id": "4624cc894fbb",
+      "title": "The spirt of travel writing is vibrantly alive and well: Eight of the best travel books for 2026 - BBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcG1YRmVrMmwzRFZBMXR3aWdvTXFqSTVpWmxyVmQzTC02dXF1THpRal9Bb1VGVWt4SmhYQkNnalBxRmZoRFlua3RMVFd3bm5KM19Ec0dVVGFwWGdKcEtwLW5nU0hNZ3A0WjRwQ1E0V1hDdFBGUnU0TkgxYkpHaGdYZVAwMVlkaV9veXFB?oc=5\" target=\"_blank\">The spirt of travel",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcG1YRmVrMmwzRFZBMXR3aWdvTXFqSTVpWmxyVmQzTC02dXF1THpRal9Bb1VGVWt4SmhYQkNnalBxRmZoRFlua3RMVFd3bm5KM19Ec0dVVGFwWGdKcEtwLW5nU0hNZ3A0WjRwQ1E0V1hDdFBGUnU0TkgxYkpHaGdYZVAwMVlkaV9veXFB?oc=5",
+      "score": 54.0,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-27T21:06:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 27 Nov 2026 13:00:00 GMT",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "72a3928e6f58",
+      "title": "Travel and Infrastructure: 5 Tourist Attractions, from Naples to Australia - We Build Value",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE01NjdnNUl3TlpjTi1CVGVmTlVQOWhHSmpEZVVJUjNPRnpKMkNPZy1MTXhvS0QyWnZYS2VkWU5MWnE5dFhNUDljN0gyOThjc3kzTDlIaUVyRlYyb0hvdHFDcUp2S2ptZUpTc29tRktHMXFKZw?oc=5\" target=\"_blank\">Travel and Infrastructure: 5 Tourist Attractions, fro",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01NjdnNUl3TlpjTi1CVGVmTlVQOWhHSmpEZVVJUjNPRnpKMkNPZy1MTXhvS0QyWnZYS2VkWU5MWnE5dFhNUDljN0gyOThjc3kzTDlIaUVyRlYyb0hvdHFDcUp2S2ptZUpTc29tRktHMXFKZw?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-27T21:06:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 27 Nov 2026 14:47:24 GMT",
+          "source": "We Build Value"
         }
       ]
     },
@@ -191,14 +251,14 @@
       "title": "Harman Wines into Hall of Fame on golden night for Gippsland tourism - Sentinel-Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTU12T0N3MFMxTnpyYlJMUUlnc3d6V29KaVNzWXFZS2xDUmdZQ3p6LU1aZUNwTUhCSzFybnFGeWFwNGR1NDFzWFlMMWYydnZCcWVhcnBrdTVBR0VWd1JCb1RXNUV1LTJOLWRwb2MtWHdhaTVWRnhKTWdSbVFzSGxVQ0Rac2lCdTlsdnNoZ3lFVlVFeVhSM2pUUA?oc=5\" target=\"_blank\">H",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTU12T0N3MFMxTnpyYlJMUUlnc3d6V29KaVNzWXFZS2xDUmdZQ3p6LU1aZUNwTUhCSzFybnFGeWFwNGR1NDFzWFlMMWYydnZCcWVhcnBrdTVBR0VWd1JCb1RXNUV1LTJOLWRwb2MtWHdhaTVWRnhKTWdSbVFzSGxVQ0Rac2lCdTlsdnNoZ3lFVlVFeVhSM2pUUA?oc=5",
-      "score": 54.0,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
           "published": "Fri, 27 Nov 2026 04:56:22 GMT",
@@ -207,74 +267,10 @@
       ]
     },
     {
-      "id": "659ec955971b",
-      "title": "Where to next? The trends and destinations shaping travel in 2027 - SMH.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0RGUk9IRlN5Ulhfc09DcXFEaEFmZ3FnY2E1b1owN3piZUl3ZndLUW5NZmV0Tkg4R0l0RDZMamNDNVpPVHh6OWRYM3JJb2RDdTVPLS1EaTRjbjZHeXRiSXgwaVQ5ZDZNbVUyV014dFdOM3BRSDhnNEpxZFU0cGQ4OEhOMVJ0dWRZOXJaMlBsM2hyTkwzNUVkVUZYWmJYZm43NjNUTUk2MVgtLT",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0RGUk9IRlN5Ulhfc09DcXFEaEFmZ3FnY2E1b1owN3piZUl3ZndLUW5NZmV0Tkg4R0l0RDZMamNDNVpPVHh6OWRYM3JJb2RDdTVPLS1EaTRjbjZHeXRiSXgwaVQ5ZDZNbVUyV014dFdOM3BRSDhnNEpxZFU0cGQ4OEhOMVJ0dWRZOXJaMlBsM2hyTkwzNUVkVUZYWmJYZm43NjNUTUk2MVgtLTRqZ3RYTlJrM1ZrZVNKRnU2QThKeGJmV3U4QzdRRVFR?oc=5",
-      "score": 52.2,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 27 Nov 2026 00:42:57 GMT",
-          "source": "SMH.com.au"
-        },
-        {
-          "published": "Thu, 26 Nov 2026 18:00:00 GMT",
-          "source": "SMH.com.au"
-        }
-      ]
-    },
-    {
-      "id": "078cde050e10",
-      "title": "ChartWatch ASX Scans: CSL, A2 Milk, Cobram Olives, Elevra Lithium, Helloworld Travel, Siteminder, Vulcan Energy - Market Index",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcVJIdGJEbG9Wb2t1NjZQUTQwQ0hGUW8xX280eGtVV0xjNHpfbk5JNnN2akFyV0lKVXBUYkpQQ3hiQ1hwNF80Y3ZvOHo1NkdUUUZ4RHFoZTRfZnA4S0R4MGVmZGlHSkNoQVZIVkNpWWtFeVhmUUZTZEExVHcxTE0xZXdDUDdKbnRHZ2hIN3JtSkY1NTdGZGNSdjBoWW0xWUg3eUI2NGZDOGF5dn",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcVJIdGJEbG9Wb2t1NjZQUTQwQ0hGUW8xX280eGtVV0xjNHpfbk5JNnN2akFyV0lKVXBUYkpQQ3hiQ1hwNF80Y3ZvOHo1NkdUUUZ4RHFoZTRfZnA4S0R4MGVmZGlHSkNoQVZIVkNpWWtFeVhmUUZTZEExVHcxTE0xZXdDUDdKbnRHZ2hIN3JtSkY1NTdGZGNSdjBoWW0xWUg3eUI2NGZDOGF5dnppWGRzVTNYZ3N0WkFuZmlaUDJMcUxRWVdDd3FYRHk2cjNyR3lCSjVXRlcwYw?oc=5",
-      "score": 50.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
-      "raw_samples": [
-        {
-          "published": "Thu, 26 Nov 2026 22:14:21 GMT",
-          "source": "Market Index"
-        }
-      ]
-    },
-    {
-      "id": "21f0514dfc9b",
-      "title": "Black Friday Sale Fires Up with $99 Hot Passes for 2027 racing - Tourism and Events NT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3ZfQTZiZmYxeUs0TFh1ekxHZ1NaVkp2UnNWdm1LQkRQMklBNVZnOEd5SmlqcVdWbGhwQnpkcm0wY1otX0lnMnNNbWlGMmRZX05GcEExeEprSUVzUTloT3ZRVDI5M2FZUU9EVnRnSDBJdzlGclN3V0VMS3p3bTZQTmxKQ0NpSFd5MFZ0aTY3N1JRS1dZeTJaUzdFM3pBSlFTRk1mbHZ1cw?oc=",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3ZfQTZiZmYxeUs0TFh1ekxHZ1NaVkp2UnNWdm1LQkRQMklBNVZnOEd5SmlqcVdWbGhwQnpkcm0wY1otX0lnMnNNbWlGMmRZX05GcEExeEprSUVzUTloT3ZRVDI5M2FZUU9EVnRnSDBJdzlGclN3V0VMS3p3bTZQTmxKQ0NpSFd5MFZ0aTY3N1JRS1dZeTJaUzdFM3pBSlFTRk1mbHZ1cw?oc=5",
-      "score": 46.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "travel",
-      "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 27 Nov 2026 00:32:00 GMT",
-          "source": "Tourism and Events NT"
-        }
-      ]
-    },
-    {
-      "id": "64f524434f20",
-      "title": "Tourism Whitsundays Throws Last Party For 2026 - Mackay & Whitsunday Life",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWNRQm12eldZVm1yYS1DX21iaXlLTG1yREZ5alBoLTNYVmlwaFZjaFR2bWQ4anRmWVBZVC1yQUpHVHd0eEN4azh4MktjR0hOZVgwdWlBVW5Tb1E1LTAyb192bzV3QjN2NnUwbnMwYm5PSk9OM2tZbFE0Qm9pRW9rS2VqbGQ4Q1l6TVQyTmR5bUF0cEdjb18tMXlR?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWNRQm12eldZVm1yYS1DX21iaXlLTG1yREZ5alBoLTNYVmlwaFZjaFR2bWQ4anRmWVBZVC1yQUpHVHd0eEN4azh4MktjR0hOZVgwdWlBVW5Tb1E1LTAyb192bzV3QjN2NnUwbnMwYm5PSk9OM2tZbFE0Qm9pRW9rS2VqbGQ4Q1l6TVQyTmR5bUF0cEdjb18tMXlR?oc=5",
+      "id": "c3d48433cf9e",
+      "title": "EES: More than 80 tourism organizations call for greater flexibility at European borders - VisasNews",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXZQaFRTMlFWSzZ0NGFzSTgzU2QtR01paTB4d2xhZWdhWW9pdG1jaWItRkpzQ18tSjZzQjdoVG1hWTJ2WVhrbmRwNTlhaXBpQmQ0RUZ2TGhYcGtGRHJVYVhHRHA1T0hYMkdWaTQ5WWJfZlBjNm5DWXJKNm55M3BjZ3VzV2hsSnhNRDRrUTdNZW5IODRNcHdibDJlTDVoS3dSZ08xQ0U4eXpFUH",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXZQaFRTMlFWSzZ0NGFzSTgzU2QtR01paTB4d2xhZWdhWW9pdG1jaWItRkpzQ18tSjZzQjdoVG1hWTJ2WVhrbmRwNTlhaXBpQmQ0RUZ2TGhYcGtGRHJVYVhHRHA1T0hYMkdWaTQ5WWJfZlBjNm5DWXJKNm55M3BjZ3VzV2hsSnhNRDRrUTdNZW5IODRNcHdibDJlTDVoS3dSZ08xQ0U4eXpFUHhybkpZekFTQQ?oc=5",
       "score": 43.2,
       "sources": [
         "google_news"
@@ -282,19 +278,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 06:13:19 GMT",
-          "source": "Mackay & Whitsunday Life"
+          "published": "Fri, 27 Nov 2026 15:19:12 GMT",
+          "source": "VisasNews"
         }
       ]
     },
     {
-      "id": "41c9e494809b",
-      "title": "Truckies urged to plan ahead as freeway and bridge works impact travel this weekend - Big Rigs",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWl9ZZkxqM2o1MkItNDVJNnFCS0ZQLWxzVmFBUHB1YXQ5WE1QRW5CbUZEYUpFaGFkU20yMy1USG1oOEdIU0NrTzhVQmhVUE5hRTduNXZVcHpVS1JCNWtHdlpEd0Y1ako0Q1QyRXhqWWx2WEpXTW1oUWZZd1AyeUhNYWdEMXhob2tlaWx6R2JaUFQ5ekowLWRSYTdqS3JRTmhVdWpYbU8ycU5VSF",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWl9ZZkxqM2o1MkItNDVJNnFCS0ZQLWxzVmFBUHB1YXQ5WE1QRW5CbUZEYUpFaGFkU20yMy1USG1oOEdIU0NrTzhVQmhVUE5hRTduNXZVcHpVS1JCNWtHdlpEd0Y1ako0Q1QyRXhqWWx2WEpXTW1oUWZZd1AyeUhNYWdEMXhob2tlaWx6R2JaUFQ5ekowLWRSYTdqS3JRTmhVdWpYbU8ycU5VSFhmMkVUZm5NUlBySkd5VHc?oc=5",
+      "id": "dda8d19355e6",
+      "title": "Tourism slogans, from dreary to silly - The West Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWhGQ0tfR050VXFWZWpFUmU3VnNaOFo3eXlVb2F2MU5FMFpoT3JoLTJvWDBuVkRQMlZGVXlFRkY5VnJZMHdsVnVNVGtQNkF6aTBpVC1KV3dSWmdWOURBWkNSNHpzajl6MDd1S2V6WG5HMGlWbW90NHhVaktnaEtxWGdZONIBiAFBVV95cUxPQ3hpNUdsZTh5aDNTWG54ZDZIV080YmpRQVZoZ3",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWhGQ0tfR050VXFWZWpFUmU3VnNaOFo3eXlVb2F2MU5FMFpoT3JoLTJvWDBuVkRQMlZGVXlFRkY5VnJZMHdsVnVNVGtQNkF6aTBpVC1KV3dSWmdWOURBWkNSNHpzajl6MDd1S2V6WG5HMGlWbW90NHhVaktnaEtxWGdZONIBiAFBVV95cUxPQ3hpNUdsZTh5aDNTWG54ZDZIV080YmpRQVZoZ3BzVFBsUkdLYWJxTHJIcGFYcFdadXhhN04tWFVqSlZXY2FxTks4QzJkZ1VaWFhFeWpfaFpGbFFKeDhBLXlpMTdsX01ORVJ2Q2ZwQl9LdllibHN3MHVNaTloNGJyZ1FNdUVnM0RE?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -302,19 +298,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 26 Nov 2026 20:24:53 GMT",
-          "source": "Big Rigs"
+          "published": "Wed, 25 Nov 2026 04:31:00 GMT",
+          "source": "The West Australian"
         }
       ]
     },
     {
-      "id": "273e422f2e2f",
-      "title": "Road trip checklist for summer travel - Sunshine Coast News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPX1VxSms1aHBnT2lCS2tQc29uNEJMQjF0YWtTWEdFd2hZeEM2OWlVbkZNREFSZFNZeElVWWlKd1Y3YUpxbEI1R0JZcHppakhMc1hTMzhCVEljYmdsVWk4OVlheGlkLUFqUzZ4cFM4ZmVUcXRubkRCNmxFMHJOTW84WlJ4VHl2Y1NqXzMwNDhmMA?oc=5\" target=\"_blank\">Road trip che",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX1VxSms1aHBnT2lCS2tQc29uNEJMQjF0YWtTWEdFd2hZeEM2OWlVbkZNREFSZFNZeElVWWlKd1Y3YUpxbEI1R0JZcHppakhMc1hTMzhCVEljYmdsVWk4OVlheGlkLUFqUzZ4cFM4ZmVUcXRubkRCNmxFMHJOTW84WlJ4VHl2Y1NqXzMwNDhmMA?oc=5",
+      "id": "ccb31187df17",
+      "title": "UN Tourism and Uzbekistan launch International Year of Sustainable and Resilient Tourism - UN Tourism",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWURUR2FfbUJKeEdMUnVzT3h4TGZLenlmVS1sWkZ5X25qUkFfa1JKa19kMVBKNlZxeDF0WF9RMTQtdEtzamRfeFpHcmtReFlQa0M4TjNNWER4OEVTUTNvTVlDZUZsSHpGNFZYOWE0b2tseGRVTlBsODZ0MUtmT1V4aTN1MXJlRkstSmtkT2pKZnQwek1TSGRhejZOcHJycUFqWDdLU3owUGxtaX",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWURUR2FfbUJKeEdMUnVzT3h4TGZLenlmVS1sWkZ5X25qUkFfa1JKa19kMVBKNlZxeDF0WF9RMTQtdEtzamRfeFpHcmtReFlQa0M4TjNNWER4OEVTUTNvTVlDZUZsSHpGNFZYOWE0b2tseGRVTlBsODZ0MUtmT1V4aTN1MXJlRkstSmtkT2pKZnQwek1TSGRhejZOcHJycUFqWDdLU3owUGxtaXVSSnFPOTFSSW1JVmFhR1pV?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -322,19 +318,19 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 26 Nov 2026 18:00:12 GMT",
-          "source": "Sunshine Coast News"
+          "published": "Fri, 27 Nov 2026 15:57:43 GMT",
+          "source": "UN Tourism"
         }
       ]
     },
     {
-      "id": "f89197fe4a28",
-      "title": "The extraordinary ways nature will set the travel agenda in 2027 - SMH.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQN25GQ09RbFFycW9saEdFR3FvQWhfb1dWc01hSEZqQk1wbHc5ZmhLal82QmU4d0dkQXpYeVZMbzNBQy1DakVOTVlsLWptZGRFUmFjQW9pNmQzUWh1NEctMUd1NWFfeFZvS0dIMzE0dE9JckhsVXBqdmU0ZmREOWVHbFNFamZTQzdPZ2QxNXZZNDZVaHRnOWxKUkNMT2w5MUlmRmxpZldKWjlvcG",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN25GQ09RbFFycW9saEdFR3FvQWhfb1dWc01hSEZqQk1wbHc5ZmhLal82QmU4d0dkQXpYeVZMbzNBQy1DakVOTVlsLWptZGRFUmFjQW9pNmQzUWh1NEctMUd1NWFfeFZvS0dIMzE0dE9JckhsVXBqdmU0ZmREOWVHbFNFamZTQzdPZ2QxNXZZNDZVaHRnOWxKUkNMT2w5MUlmRmxpZldKWjlvcGpCSmNGZ3BfbFFmbDhNakJqT00tdkZIbExhWVFnOFF3?oc=5",
+      "id": "bccc2da4a834",
+      "title": "Unhappy with Qantas business class? Try Jetstar’s for half the price - WAtoday",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ3ZCVlhhOUUzcDZJTWtYWExuMXBKeWExS2xUaFdGMzEzUnZEaWJvazROOVl3ZkkxbmR0UjIxX1ItNlRicGp5NDhVQ0F1eG9iQWExWEEtNi0xUUJoZmZpazRhZlR1M3ZwRlExb3R2U0tqaF84cm42bG1LWlhXbzljTW50Qm05XzJvTDVISXptTW9MaFFLZThZVTM3cVR0ZjdUejgzTTBISldXVk",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ3ZCVlhhOUUzcDZJTWtYWExuMXBKeWExS2xUaFdGMzEzUnZEaWJvazROOVl3ZkkxbmR0UjIxX1ItNlRicGp5NDhVQ0F1eG9iQWExWEEtNi0xUUJoZmZpazRhZlR1M3ZwRlExb3R2U0tqaF84cm42bG1LWlhXbzljTW50Qm05XzJvTDVISXptTW9MaFFLZThZVTM3cVR0ZjdUejgzTTBISldXVkxkVzV2SUk4MEMzLWhza1hsVlZpWHBVczRRMU5uQjVablV5bU5jbHl3?oc=5",
       "score": 32.4,
       "sources": [
         "google_news"
@@ -342,35 +338,71 @@
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 26 Nov 2026 18:00:00 GMT",
-          "source": "SMH.com.au"
+          "published": "Fri, 27 Nov 2026 18:00:00 GMT",
+          "source": "WAtoday"
         }
       ]
     },
     {
-      "id": "ea517b0d737e",
-      "title": "Black Friday travel deals take off at Geelong Travel - Times News Group",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNa0s2S3ZXUldSTThCRVhiYWcxVHFTRk9pSUtkRUMtSG1vZmw3TmRWSVFVY0hJR05YQXRTS2xuc2RyeEdta3o3a003cDZ5SnRFNW9mRkx5eEh1WDdtWVRVa0EtZU1CUDhlaTdyajFzTFNnc0s1X3NTNkZTbDdjWFJQbW16U1FkWHA1S29kX1JPbFN4YU0yeHkwVkJqUkZZb0hxR2RKeS13?oc=5\"",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa0s2S3ZXUldSTThCRVhiYWcxVHFTRk9pSUtkRUMtSG1vZmw3TmRWSVFVY0hJR05YQXRTS2xuc2RyeEdta3o3a003cDZ5SnRFNW9mRkx5eEh1WDdtWVRVa0EtZU1CUDhlaTdyajFzTFNnc0s1X3NTNkZTbDdjWFJQbW16U1FkWHA1S29kX1JPbFN4YU0yeHkwVkJqUkZZb0hxR2RKeS13?oc=5",
-      "score": 27.0,
+      "id": "468e87bf7faf",
+      "title": "Travel tech giant GetYourGuide debuts Unlocked in Sydney as bookings soar 30% - travelweekly.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGwxN25GbkxiRlZEcE9xSWJqVnQ2MDF4OHEtQ2dFSzRfc1NMZ3VBVnFFTWJQcDNzc3JuZmJTOEJNQlZCNDkwZ1I4RnI1YlktMUZSRmlqOHktNmU0ZlJoSjdydnpzSmE2OVZZV2JVVWpzSE96WnhSQXA5RmFKc3B2QnRNSWNrTlJKVTF3WElZczhaRGprQUVKQTB0a0hJSU0tMXdzOV96X1U?oc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGwxN25GbkxiRlZEcE9xSWJqVnQ2MDF4OHEtQ2dFSzRfc1NMZ3VBVnFFTWJQcDNzc3JuZmJTOEJNQlZCNDkwZ1I4RnI1YlktMUZSRmlqOHktNmU0ZlJoSjdydnpzSmE2OVZZV2JVVWpzSE96WnhSQXA5RmFKc3B2QnRNSWNrTlJKVTF3WElZczhaRGprQUVKQTB0a0hJSU0tMXdzOV96X1U?oc=5",
+      "score": 28.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "travel",
       "region": "AU",
-      "first_seen": "2026-11-27T08:12:14+00:00",
+      "first_seen": "2026-11-27T21:06:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 26 Nov 2026 23:38:16 GMT",
-          "source": "Times News Group"
-        },
+          "published": "Fri, 27 Nov 2026 02:02:12 GMT",
+          "source": "travelweekly.com.au"
+        }
+      ]
+    },
+    {
+      "id": "e1bff40642cb",
+      "title": "Why Flight Centre Travel Group (ASX:FLT) Is Investigating an Accommodation Booking Incident - Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNWNuZlNMWXZTRzlfMm91UjBDTkRNa2lYenFua1hCNk56Y05UOHA3b0otMkpva0FVbVdmekJRdlhBcU1zenBNeFBjcGpwMjlaWEVGLUVOTDhlT211alQ4Zk0zMnVVeFBkZmQ1M09UZklfejVkYWJ5OXVJeXZZOVUxSXQ0aWFTMG1pZjlyc1ByY3BnTWg5dzJDRUhIVG5OZnd6NjB1RXpXdjE0Sm",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNWNuZlNMWXZTRzlfMm91UjBDTkRNa2lYenFua1hCNk56Y05UOHA3b0otMkpva0FVbVdmekJRdlhBcU1zenBNeFBjcGpwMjlaWEVGLUVOTDhlT211alQ4Zk0zMnVVeFBkZmQ1M09UZklfejVkYWJ5OXVJeXZZOVUxSXQ0aWFTMG1pZjlyc1ByY3BnTWg5dzJDRUhIVG5OZnd6NjB1RXpXdjE0Smp3amZXRm4xTWVOMmliQmotMVQyZjQ?oc=5",
+      "score": 25.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-27T21:06:05+00:00",
+      "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 02:18:11 GMT",
-          "source": "Times News Group"
+          "published": "Fri, 27 Nov 2026 07:10:00 GMT",
+          "source": "Kalkine"
+        }
+      ]
+    },
+    {
+      "id": "065147049c96",
+      "title": "Entire Travel Group invites advisors to February 2027 events - travelweekly.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQemRuVE45cUFxVXZwSE1vQTJ6S3FWcktxVS03Y1F6VmtSSmdGWDJrNTBpUkU0aXM5LUNHNDBQQVBtNnY4RXRTNEUtZ1dSTnp1akJUN01Kd1ViYnN6YVhrTjlXY1BqVUMzTFg3LVE3c1FuNjJybmx0VmNPZHRTUHpsNTM0S1ZOOUVham1TaGp5RmRobzg?oc=5\" target=\"_blank\">Entire T",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemRuVE45cUFxVXZwSE1vQTJ6S3FWcktxVS03Y1F6VmtSSmdGWDJrNTBpUkU0aXM5LUNHNDBQQVBtNnY4RXRTNEUtZ1dSTnp1akJUN01Kd1ViYnN6YVhrTjlXY1BqVUMzTFg3LVE3c1FuNjJybmx0VmNPZHRTUHpsNTM0S1ZOOUVham1TaGp5RmRobzg?oc=5",
+      "score": 21.6,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "travel",
+      "region": "AU",
+      "first_seen": "2026-11-27T21:06:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Fri, 27 Nov 2026 01:13:34 GMT",
+          "source": "travelweekly.com.au"
         }
       ]
     }
