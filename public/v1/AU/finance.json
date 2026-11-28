@@ -2,15 +2,15 @@
   "schema_version": 1,
   "niche": "finance",
   "region": "AU",
-  "generated_at": "2026-11-27T21:14:56+00:00",
+  "generated_at": "2026-11-28T07:45:04+00:00",
   "cache_ttl_hours": 6,
   "count": 19,
   "trends": [
     {
-      "id": "f59edcd52a83",
-      "title": "Stock market corrections, the US consumer and Fed policy - Livewire Markets",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjAyckNUYnNFODJwZGMxeGVSSFVpdXY2Q0V3bW1YZ1lDQ29Fc0RyZXJjalVGWW4tME85cnNEVWdfbk81Q1JpNnk0M2FLTExFYmFkeEZkM3Y0eVBNamVYamVnMnBkb2kySk00QW9NTldTQnFvQ1BXSUExSXlhd1hzRVd2ODJaVWJPWEtEcy1ULWVOb3N6LUp6Wg?oc=5\" target=\"_blank\">S",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjAyckNUYnNFODJwZGMxeGVSSFVpdXY2Q0V3bW1YZ1lDQ29Fc0RyZXJjalVGWW4tME85cnNEVWdfbk81Q1JpNnk0M2FLTExFYmFkeEZkM3Y0eVBNamVYamVnMnBkb2kySk00QW9NTldTQnFvQ1BXSUExSXlhd1hzRVd2ODJaVWJPWEtEcy1ULWVOb3N6LUp6Wg?oc=5",
+      "id": "87c19e3df28d",
+      "title": "What will markets do in 2027? Spoiler alert: Nobody knows - The Herald",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDRKcVl4UkhWRm9nampHcWgydXhCaDg2eUpseS0xTDh6YWdvTkp1R3oyZWRfbVg4OHVIX0k5bm93U0JoOFJGS2FjNHVBejdBN0xGaUd1Z1Vub2xtZGxsTjVaMXRkZ0stQzB6Q29FY0h3ejY2RnBCV3BOcGhDUEdVTGNZRF9aVkNEdlJJWGRsYUp2UHcyYjhjQ1pn?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDRKcVl4UkhWRm9nampHcWgydXhCaDg2eUpseS0xTDh6YWdvTkp1R3oyZWRfbVg4OHVIX0k5bm93U0JoOFJGS2FjNHVBejdBN0xGaUd1Z1Vub2xtZGxsTjVaMXRkZ0stQzB6Q29FY0h3ejY2RnBCV3BOcGhDUEdVTGNZRF9aVkNEdlJJWGRsYUp2UHcyYjhjQ1pn?oc=5",
       "score": 90.0,
       "sources": [
         "google_news"
@@ -18,7 +18,27 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Sat, 28 Nov 2026 04:52:14 GMT",
+          "source": "The Herald"
+        }
+      ]
+    },
+    {
+      "id": "f59edcd52a83",
+      "title": "Stock market corrections, the US consumer and Fed policy - Livewire Markets",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjAyckNUYnNFODJwZGMxeGVSSFVpdXY2Q0V3bW1YZ1lDQ29Fc0RyZXJjalVGWW4tME85cnNEVWdfbk81Q1JpNnk0M2FLTExFYmFkeEZkM3Y0eVBNamVYamVnMnBkb2kySk00QW9NTldTQnFvQ1BXSUExSXlhd1hzRVd2ODJaVWJPWEtEcy1ULWVOb3N6LUp6Wg?oc=5\" target=\"_blank\">S",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjAyckNUYnNFODJwZGMxeGVSSFVpdXY2Q0V3bW1YZ1lDQ29Fc0RyZXJjalVGWW4tME85cnNEVWdfbk81Q1JpNnk0M2FLTExFYmFkeEZkM3Y0eVBNamVYamVnMnBkb2kySk00QW9NTldTQnFvQ1BXSUExSXlhd1hzRVd2ODJaVWJPWEtEcy1ULWVOb3N6LUp6Wg?oc=5",
+      "score": 86.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
           "published": "Thu, 26 Nov 2026 20:49:47 GMT",
@@ -27,30 +47,10 @@
       ]
     },
     {
-      "id": "8e7674cb72fe",
-      "title": "Stock market jitters sap confidence - Taipei Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9IR2hiWjhCSERtaEgyQWZ2S1I3U0xNbGN2Z2hxSy1jekV1X1ZfYkhGYlhoVExaTks3TjhTeEZLRUpydkd4YWNhSXVtTVYyeTFnTExGOEF2b2ZvcmZ0dmF5QUV6WWhabXBHWEtpR3R0elpyV3lSQnc?oc=5\" target=\"_blank\">Stock market jitters sap confidence</a>&nbsp;&nb",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IR2hiWjhCSERtaEgyQWZ2S1I3U0xNbGN2Z2hxSy1jekV1X1ZfYkhGYlhoVExaTks3TjhTeEZLRUpydkd4YWNhSXVtTVYyeTFnTExGOEF2b2ZvcmZ0dmF5QUV6WWhabXBHWEtpR3R0elpyV3lSQnc?oc=5",
-      "score": 86.4,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
-      "raw_samples": [
-        {
-          "published": "Fri, 27 Nov 2026 16:00:00 GMT",
-          "source": "Taipei Times"
-        }
-      ]
-    },
-    {
-      "id": "c3f7684f1206",
-      "title": "Black Friday in the stock market - but are Britons investing yet? - Yahoo Finance UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2ticlFqLURmQXNsdjZId3VKX2ZYTjc0cEtmcTBNUlNKQkFpT3R4RF9zSWtPTGppSTlBWWhpYmNidVNNSzFrQ3VPd1ZCY3pSRHNMTDRNV1BmRGcyamlOcERqbjI3alFlUlZKeDIxSWJQZm8tejZPbzJiM2NtOTJTXzdlZlJTX1hUUlE?oc=5\" target=\"_blank\">Black Friday in the ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2ticlFqLURmQXNsdjZId3VKX2ZYTjc0cEtmcTBNUlNKQkFpT3R4RF9zSWtPTGppSTlBWWhpYmNidVNNSzFrQ3VPd1ZCY3pSRHNMTDRNV1BmRGcyamlOcERqbjI3alFlUlZKeDIxSWJQZm8tejZPbzJiM2NtOTJTXzdlZlJTX1hUUlE?oc=5",
+      "id": "2217a4f07031",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before - WSJ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAwajBpX0pHSkQ3RFZLUTFTZlN4Um0xdWFJOEhJd0ZaT2VYQmVpeEEtWVBqdVZ2YnVyNkUzTC1pMm9mSGd2ZGFwQkZWd25iSHZRV1lYZUpFM2tnVTU3VjNsSXctWTRMM2tuT1BIMk1IX1ZHN2tt?oc=5\" target=\"_blank\">Americans Are More Exposed to the Stock Market Than",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwajBpX0pHSkQ3RFZLUTFTZlN4Um0xdWFJOEhJd0ZaT2VYQmVpeEEtWVBqdVZ2YnVyNkUzTC1pMm9mSGd2ZGFwQkZWd25iSHZRV1lYZUpFM2tnVTU3VjNsSXctWTRMM2tuT1BIMk1IX1ZHN2tt?oc=5",
       "score": 82.8,
       "sources": [
         "google_news"
@@ -58,11 +58,31 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 18:33:27 GMT",
-          "source": "Yahoo Finance UK"
+          "published": "Sat, 28 Nov 2026 02:01:29 GMT",
+          "source": "WSJ"
+        }
+      ]
+    },
+    {
+      "id": "edc0a87b82a1",
+      "title": "The investor trap that nearly crashed an entire market - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5\" target=\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5",
+      "score": 79.2,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-28T07:36:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+          "source": "Morningstar Australia"
         }
       ]
     },
@@ -71,14 +91,14 @@
       "title": "The warnings behind this week’s stock-market rally - MarketWatch",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTU0MlVuZTRCclkzSjFlYTVwSEotWXFibFBvbGhzU3EzcjF0dHN5TXRCa2FNUHJzZlVuaXhBZ1RoSldrTVBJMjBfTm1MOW5xV3RUNE1McW9Vdl9aSGJCbkVqRklBZ3RtbVhqbTZ1bDltZTNWa0NwdllRM0s4RU1NOVREcFd5UllMYnBRakxCNXZLUmhQaWFR?oc=5\" target=\"_blank\">The",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTU0MlVuZTRCclkzSjFlYTVwSEotWXFibFBvbGhzU3EzcjF0dHN5TXRCa2FNUHJzZlVuaXhBZ1RoSldrTVBJMjBfTm1MOW5xV3RUNE1McW9Vdl9aSGJCbkVqRklBZ3RtbVhqbTZ1bDltZTNWa0NwdllRM0s4RU1NOVREcFd5UllMYnBRakxCNXZLUmhQaWFR?oc=5",
-      "score": 79.2,
+      "score": 75.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
           "published": "Fri, 27 Nov 2026 18:40:00 GMT",
@@ -87,30 +107,10 @@
       ]
     },
     {
-      "id": "b18c23f332f3",
-      "title": "Future Focus: Is passive investing killing the market? - Morningstar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXF3WnJnRWVBZEF1M191Z0FDS01FYm53THRYUlRGTzAteGdPSFEzZUt5NFJQV0dEcDRodUxYbkJyNkZ1OG43TzRHQ2RTT2ZneW5ZNlhyZ1RQaXdBUXE4RDYza3l3UUlkbE9YZ09vLXJsWUMxVHBRVlY2elU5a0REMUFESGhDbXFIUTRxdGdjU3o?oc=5\" target=\"_blank\">Future Focus",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXF3WnJnRWVBZEF1M191Z0FDS01FYm53THRYUlRGTzAteGdPSFEzZUt5NFJQV0dEcDRodUxYbkJyNkZ1OG43TzRHQ2RTT2ZneW5ZNlhyZ1RQaXdBUXE4RDYza3l3UUlkbE9YZ09vLXJsWUMxVHBRVlY2elU5a0REMUFESGhDbXFIUTRxdGdjU3o?oc=5",
-      "score": 75.6,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
-      "raw_samples": [
-        {
-          "published": "Tue, 10 Nov 2026 08:00:00 GMT",
-          "source": "Morningstar"
-        }
-      ]
-    },
-    {
-      "id": "ab137e46b4e4",
-      "title": "Stock market jitters weigh on Taiwan consumer confidence: Survey - Focus Taiwan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE50QXFrN1Q4X0FUOWI1d0xXcUQ0bGF3eGZheGJmUFQ3cG1UaUtfbWtCeTR0U3h1WV93S0txV2luMS0zdnROa1pJU2p5QWM3RFdDUGtIeEN1MA?oc=5\" target=\"_blank\">Stock market jitters weigh on Taiwan consumer confidence: Survey</a>&nbsp;&nbsp;<font col",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50QXFrN1Q4X0FUOWI1d0xXcUQ0bGF3eGZheGJmUFQ3cG1UaUtfbWtCeTR0U3h1WV93S0txV2luMS0zdnROa1pJU2p5QWM3RFdDUGtIeEN1MA?oc=5",
+      "id": "c3f7684f1206",
+      "title": "Black Friday in the stock market - but are Britons investing yet? - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2ticlFqLURmQXNsdjZId3VKX2ZYTjc0cEtmcTBNUlNKQkFpT3R4RF9zSWtPTGppSTlBWWhpYmNidVNNSzFrQ3VPd1ZCY3pSRHNMTDRNV1BmRGcyamlOcERqbjI3alFlUlZKeDIxSWJQZm8tejZPbzJiM2NtOTJTXzdlZlJTX1hUUlE?oc=5\" target=\"_blank\">Black Friday in the ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2ticlFqLURmQXNsdjZId3VKX2ZYTjc0cEtmcTBNUlNKQkFpT3R4RF9zSWtPTGppSTlBWWhpYmNidVNNSzFrQ3VPd1ZCY3pSRHNMTDRNV1BmRGcyamlOcERqbjI3alFlUlZKeDIxSWJQZm8tejZPbzJiM2NtOTJTXzdlZlJTX1hUUlE?oc=5",
       "score": 72.0,
       "sources": [
         "google_news"
@@ -118,11 +118,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 07:26:00 GMT",
-          "source": "Focus Taiwan"
+          "published": "Fri, 27 Nov 2026 18:33:27 GMT",
+          "source": "Yahoo Finance UK"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
           "published": "Fri, 27 Nov 2026 11:00:00 GMT",
@@ -147,10 +147,10 @@
       ]
     },
     {
-      "id": "2fbd492e9276",
-      "title": "The Stock Market Is Flashing a Signal Seen Only 6 Times in 156 Years. History Suggests These Stocks Could Take the Biggest Hit. - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVGFreUtYdk9BSmkwQndMMVF5bkFJMGNZZkJoUUFDc3NVRENTeG9ZbGNrSDRfTVh0YlJZWXdpa0pOZUNhbUpBVTBhb0k5cjRScmRQdkFmRVY0OEdyTkFPWDAwZW9RaDhMZFZfMTdTUDBaQjJPUjRSWVFTc2NBYmZNVFl3WHFEbHdhelMtMmhuVm9qMWZwS0NkZFV2VEVzUGd6ckdNSnhLLUFNc1",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVGFreUtYdk9BSmkwQndMMVF5bkFJMGNZZkJoUUFDc3NVRENTeG9ZbGNrSDRfTVh0YlJZWXdpa0pOZUNhbUpBVTBhb0k5cjRScmRQdkFmRVY0OEdyTkFPWDAwZW9RaDhMZFZfMTdTUDBaQjJPUjRSWVFTc2NBYmZNVFl3WHFEbHdhelMtMmhuVm9qMWZwS0NkZFV2VEVzUGd6ckdNSnhLLUFNc1BSMkdJbmtIc0RGUW4yY0pmSkpWTUVsOXZTbzVLTkRLOGZNZGV5bHVsc1VlVXVPeHRYeGxlTERvbFFzaEtQVmt4TzduclRLdTg1WmxtYVdnNlM?oc=5",
+      "id": "1d6a7e6186c1",
+      "title": "The investing mistake 45pc of Australians regret making - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUtMcFY1WER3QVNXQlVmUEFnLXNUbFJsaTR2blJSMDNib1ZwQlBfMExlU184Y0kxVVp2RXBMRUFoTC0yS2JHd1JaLWFoQ3hra2ctREtxVDk5a3VHWnFNRlk3a3VlSmRCZkdNRDhOWk1OR1BmYWpUT3NNdHpUUlpuWGd5aDl3TmM0cmllQTdwbXdvbkF2NmZwYWprb3lOODh0QzF6a1NMcGJHTz",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUtMcFY1WER3QVNXQlVmUEFnLXNUbFJsaTR2blJSMDNib1ZwQlBfMExlU184Y0kxVVp2RXBMRUFoTC0yS2JHd1JaLWFoQ3hra2ctREtxVDk5a3VHWnFNRlk3a3VlSmRCZkdNRDhOWk1OR1BmYWpUT3NNdHpUUlpuWGd5aDl3TmM0cmllQTdwbXdvbkF2NmZwYWprb3lOODh0QzF6a1NMcGJHTzRDSjBvYVpxbXZoUQ?oc=5",
       "score": 64.8,
       "sources": [
         "google_news"
@@ -158,19 +158,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 10:45:02 GMT",
-          "source": "The Motley Fool"
+          "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+          "source": "AFR"
         }
       ]
     },
     {
-      "id": "3ffae839f089",
-      "title": "Dow Adds 592 Points on Black Friday as AI Fear Fades: Stock Market Today - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWg2MHdsVVJ2T2NLQ1N0UjdUemdWTHB3X0ZuNzI3dVBseXltYlk1dkExX2pjMnRBT2FuT3c0b3I2QUUzWFNJMWpleU1WT2dtLXJ2T19kRzJQQjEtYnVrQkdkY0F5cUFOdjZtbm9NbFYwVXIzTktMOGdYcG1aNzVqT1g4dHBFZFdwdFFjNl82MzhZQjJUWUxoSU13ekpoR2hxWkluVGN6LUZlVW",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWg2MHdsVVJ2T2NLQ1N0UjdUemdWTHB3X0ZuNzI3dVBseXltYlk1dkExX2pjMnRBT2FuT3c0b3I2QUUzWFNJMWpleU1WT2dtLXJ2T19kRzJQQjEtYnVrQkdkY0F5cUFOdjZtbm9NbFYwVXIzTktMOGdYcG1aNzVqT1g4dHBFZFdwdFFjNl82MzhZQjJUWUxoSU13ekpoR2hxWkluVGN6LUZlVWhRSE5rbk53QnQ?oc=5",
+      "id": "73fc49baeb30",
+      "title": "Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDZPMVJlb0tjRWFYbWdWbjRHZi03MFR3SGwzWTktelNJTnhzYy1TNXdLd0VMcE5qbWpwSE53MV9Hb2NMcHVEOVJnVlRpZVpwYWhCSm1sX2VCZjdTTm5RZVV3MmFhXy10NUIwMUVVa1lFOHpGV1JOekEwQlhXQThRXzU5X2F4cGt4UXUwLWgtaGpKZThFazNhQ0kwLTREMnFaU2JjWUsxYTZOTX",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDZPMVJlb0tjRWFYbWdWbjRHZi03MFR3SGwzWTktelNJTnhzYy1TNXdLd0VMcE5qbWpwSE53MV9Hb2NMcHVEOVJnVlRpZVpwYWhCSm1sX2VCZjdTTm5RZVV3MmFhXy10NUIwMUVVa1lFOHpGV1JOekEwQlhXQThRXzU5X2F4cGt4UXUwLWgtaGpKZThFazNhQ0kwLTREMnFaU2JjWUsxYTZOTXQ0RHN3MjRacDVZUFF6WE8zMFRzN1N1QmR3QjkzMWNFenBSZlhGZndR?oc=5",
       "score": 61.2,
       "sources": [
         "google_news"
@@ -178,19 +178,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 18:11:31 GMT",
-          "source": "Kiplinger"
+          "published": "Fri, 27 Nov 2026 21:49:43 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "f020553476cb",
-      "title": "Could Binance Bring Stock Market IPOs On-Chain? New Job Listings Reveal Its Ambitions - Coinpaper",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0R1dGZhaXA0dW9iTExlSjUzeXhxM1FFUUlxS3BsNGJzalUxZVdxZDYxWGIyV2dUc0E0QlpmeVJJOU51eVB4dU9LSUpDbFhKNldKYTUyZUU1V0w5TnB3d0d1cWs4VXhpUXhRMEpId01YZEV3T0MwcU5rckxzVmhfVnRvYWV6cUV2X0dLdUVTNmhHMTJiVTJ3bnhyVE02U1ZTN0dHMGFZSlNhMG",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0R1dGZhaXA0dW9iTExlSjUzeXhxM1FFUUlxS3BsNGJzalUxZVdxZDYxWGIyV2dUc0E0QlpmeVJJOU51eVB4dU9LSUpDbFhKNldKYTUyZUU1V0w5TnB3d0d1cWs4VXhpUXhRMEpId01YZEV3T0MwcU5rckxzVmhfVnRvYWV6cUV2X0dLdUVTNmhHMTJiVTJ3bnhyVE02U1ZTN0dHMGFZSlNhMGNyMG5NS2FSOA?oc=5",
+      "id": "b2eb0ca52e8f",
+      "title": "The sudden reversal in the stock market, and what comes next - The Washington Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNSm50RWJ1NlVXc1k3X1NqclJ4Vy1INGk2b1hMOExGTG1wVF9HeGF0M2JTY2s1TEhPeHJ6MWRkSFVPU2ZrYzlsczI2N3ZHN0lHOFJsSXBaeU15QzdXSmRENll4WXA1Qjl1YlQ3M2JKWC0zclRvck9lT2J5cEttTG9qaWQtY2RxUDh1ZWNJaGFldHhiT3pwYW9qYThqdE4?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSm50RWJ1NlVXc1k3X1NqclJ4Vy1INGk2b1hMOExGTG1wVF9HeGF0M2JTY2s1TEhPeHJ6MWRkSFVPU2ZrYzlsczI2N3ZHN0lHOFJsSXBaeU15QzdXSmRENll4WXA1Qjl1YlQ3M2JKWC0zclRvck9lT2J5cEttTG9qaWQtY2RxUDh1ZWNJaGFldHhiT3pwYW9qYThqdE4?oc=5",
       "score": 57.6,
       "sources": [
         "google_news"
@@ -198,19 +198,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 17:25:45 GMT",
-          "source": "Coinpaper"
+          "published": "Sat, 21 Nov 2026 20:14:04 GMT",
+          "source": "The Washington Post"
         }
       ]
     },
     {
-      "id": "1d6a7e6186c1",
-      "title": "The investing mistake 45pc of Australians regret making - AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUtMcFY1WER3QVNXQlVmUEFnLXNUbFJsaTR2blJSMDNib1ZwQlBfMExlU184Y0kxVVp2RXBMRUFoTC0yS2JHd1JaLWFoQ3hra2ctREtxVDk5a3VHWnFNRlk3a3VlSmRCZkdNRDhOWk1OR1BmYWpUT3NNdHpUUlpuWGd5aDl3TmM0cmllQTdwbXdvbkF2NmZwYWprb3lOODh0QzF6a1NMcGJHTz",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUtMcFY1WER3QVNXQlVmUEFnLXNUbFJsaTR2blJSMDNib1ZwQlBfMExlU184Y0kxVVp2RXBMRUFoTC0yS2JHd1JaLWFoQ3hra2ctREtxVDk5a3VHWnFNRlk3a3VlSmRCZkdNRDhOWk1OR1BmYWpUT3NNdHpUUlpuWGd5aDl3TmM0cmllQTdwbXdvbkF2NmZwYWprb3lOODh0QzF6a1NMcGJHTzRDSjBvYVpxbXZoUQ?oc=5",
+      "id": "5c27a5ba69a0",
+      "title": "The investing mistake millions of investors still make - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5\" target=\"_blank\">The investing",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5",
       "score": 54.0,
       "sources": [
         "google_news"
@@ -218,10 +218,30 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "source": "Morningstar Australia"
+        }
+      ]
+    },
+    {
+      "id": "5d5424bef4c6",
+      "title": "How to grow $700k to $5.4m – and why panic selling could halve returns - AFR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhpSFRWeDd2ZjFOdmpfc3VQRXlPS3ZXVHlNM0pSQTlVWjR6R00ycXJQd0l4R0FiNnFZVVA5VUN1XzlLX2cwWElJMFVRbFhGMHpJSW5IM3puREdFWmptZEVJSnBRRThJcXZNeGlRZlBaZWpjUjgxSHhyUDJtX3J4U19aSDFYeFZSUGFuWDVoc0lUMUwtNXp2dktjNGhDME5reC1uT2FHYVZLcG",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhpSFRWeDd2ZjFOdmpfc3VQRXlPS3ZXVHlNM0pSQTlVWjR6R00ycXJQd0l4R0FiNnFZVVA5VUN1XzlLX2cwWElJMFVRbFhGMHpJSW5IM3puREdFWmptZEVJSnBRRThJcXZNeGlRZlBaZWpjUjgxSHhyUDJtX3J4U19aSDFYeFZSUGFuWDVoc0lUMUwtNXp2dktjNGhDME5reC1uT2FHYVZLcGE1RVdqMmZYQnBiQk01NUxoMTBjN2l0b0xq?oc=5",
+      "score": 50.4,
+      "sources": [
+        "google_news"
+      ],
+      "source_count": 1,
+      "niche": "finance",
+      "region": "AU",
+      "first_seen": "2026-11-28T07:36:05+00:00",
+      "raw_samples": [
+        {
+          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
           "source": "AFR"
         }
       ]
@@ -231,14 +251,14 @@
       "title": "Q4 US 2026 stock market outlook: Individual stock selection looks increasingly important - Morningstar Australia",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnZVUU1TT2xhdW5UOUVaY1RJblJlWVdiZHU3ZC16NUc0NTM0eFVVa1F3LTJOc1ZrU0xJaE1aenU5Yi1RLXBDZTZ2ZUwxVURGZk9rTWdJcnk5ZjRic20zUXBNcWdybEhoSDF6d3JSMUllY3dLdUpUeGh4WFJ0ekFZYzlybG1BYTktWktTc3ZxdlM5andaMEg1enlMT3drckI0WjFpYkF6YkxlQV",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnZVUU1TT2xhdW5UOUVaY1RJblJlWVdiZHU3ZC16NUc0NTM0eFVVa1F3LTJOc1ZrU0xJaE1aenU5Yi1RLXBDZTZ2ZUwxVURGZk9rTWdJcnk5ZjRic20zUXBNcWdybEhoSDF6d3JSMUllY3dLdUpUeGh4WFJ0ekFZYzlybG1BYTktWktTc3ZxdlM5andaMEg1enlMT3drckI0WjFpYkF6YkxlQV9oeUh1U0NiVlRuZ3dudkxaenNHMGFzWWRB?oc=5",
-      "score": 50.4,
+      "score": 46.8,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
           "published": "Mon, 12 Oct 2026 07:00:00 GMT",
@@ -247,34 +267,30 @@
       ]
     },
     {
-      "id": "e23c820e1df8",
-      "title": "Stock Market Midday, Nov. 27: Tech Stocks Recover and Amazon Posts Black Friday Gains - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWdoWHMzd1ZQNWprclp3U18xMG9EMUZJazNzay1iSTkycDlsMjhSd1Y4M1l5Ym5VNzgtOUNiT25LR1Q4MFRjQkhydFI0dVQ3SEJ6WnU0QlZUVUY0anFzdnd3R0RyYklfWDRFd1dBRWwwRmNIQzlCNDBEcTZyN3dtN2hEclhsVFI2b0ZvYVFLZ244b1dWUkhsNkJkNExSUGVfOGtjVndPQWpwLT",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWdoWHMzd1ZQNWprclp3U18xMG9EMUZJazNzay1iSTkycDlsMjhSd1Y4M1l5Ym5VNzgtOUNiT25LR1Q4MFRjQkhydFI0dVQ3SEJ6WnU0QlZUVUY0anFzdnd3R0RyYklfWDRFd1dBRWwwRmNIQzlCNDBEcTZyN3dtN2hEclhsVFI2b0ZvYVFLZ244b1dWUkhsNkJkNExSUGVfOGtjVndPQWpwLTIxOUJsQVE2VmxrQ2UwRFk1Zk9hWm5EUm1ob1Jid2N3Z2ZFbWtJOE5icU9LYTBKMjQ?oc=5",
-      "score": 45.0,
+      "id": "3eec1b9e3b2d",
+      "title": "Morgan Stanley (MS) Laps the Stock Market: Here's Why - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQODRqMFZXUXBBQ3U3Sk9Va05yNllXSEFYejNzMHVSdm1keE9jekFkRWQ3ZTk4Z21xM1ZVOWVuMmRkVW1FeGtVRVpfcFpxb01GcEJMcnFxUEFCRkdXUkF0TmlxNy1HYTNmenFHQ094R0U3ZGVHOFl2ZTMzY29OVEFzVWNYNGdia2FfQzQ0Y0YwbVRBNE5vSUgzNg?oc=5\" target=\"_blank\">M",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODRqMFZXUXBBQ3U3Sk9Va05yNllXSEFYejNzMHVSdm1keE9jekFkRWQ3ZTk4Z21xM1ZVOWVuMmRkVW1FeGtVRVpfcFpxb01GcEJMcnFxUEFCRkdXUkF0TmlxNy1HYTNmenFHQ094R0U3ZGVHOFl2ZTMzY29OVEFzVWNYNGdia2FfQzQ0Y0YwbVRBNE5vSUgzNg?oc=5",
+      "score": 43.2,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 17:11:17 GMT",
-          "source": "The Motley Fool"
-        },
-        {
-          "published": "Fri, 27 Nov 2026 17:31:17 GMT",
+          "published": "Fri, 27 Nov 2026 21:50:01 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
-      "id": "371295071067",
-      "title": "If You're Worried About the Stock Market Right Now, History Says This 1 Move Will Make or Break Your Portfolio - The Motley Fool",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVDFFd1hucmVjWDljX0VpZG1YV3V6ZE9Hamd4dE1OODhFY0xwN0lXY1pFNHlmSWF1eGlub0xJUzdOY3g2WU5GNXRkWGpBUWhhMGIya3lkQmpPMFhHNkd1djd0OVJNNWxKb0xLdTlqcHFkSHlwSWNzaTI3Mk9paHJrQngyTnFOTGZ5aXh4R1hOWXVtcGk0MEZybmM0RElKQk1XZUtTMXFVLXYzSH",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVDFFd1hucmVjWDljX0VpZG1YV3V6ZE9Hamd4dE1OODhFY0xwN0lXY1pFNHlmSWF1eGlub0xJUzdOY3g2WU5GNXRkWGpBUWhhMGIya3lkQmpPMFhHNkd1djd0OVJNNWxKb0xLdTlqcHFkSHlwSWNzaTI3Mk9paHJrQngyTnFOTGZ5aXh4R1hOWXVtcGk0MEZybmM0RElKQk1XZUtTMXFVLXYzSHBvME5qalo1UHdDYVdWRkc3WmJocXdTRnZWZWNlNnhwN09mSm14UC1HUmJzaWtheklNWDNSUzhuQ2JXZw?oc=5",
+      "id": "b27b3b0eb1f3",
+      "title": "How exposed is the UK stock market if the AI bubble bursts? - Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzRrNTE3bHVrbHpLcWY0UWJEZ05tRG1KSkw2ZnJKTTkwbkF5NkoxZXRleE96QTVDZTIyYmhMWTRNdlZWSXpUR2JUUWVUSS1nNmF6LWZ0Vk1kd19ja2g4SHJINkZRUjFsaWRfbFVCc2xGNUdBM0o3cldHVzBHUjMxWA?oc=5\" target=\"_blank\">How exposed is the UK stock marke",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzRrNTE3bHVrbHpLcWY0UWJEZ05tRG1KSkw2ZnJKTTkwbkF5NkoxZXRleE96QTVDZTIyYmhMWTRNdlZWSXpUR2JUUWVUSS1nNmF6LWZ0Vk1kd19ja2g4SHJINkZRUjFsaWRfbFVCc2xGNUdBM0o3cldHVzBHUjMxWA?oc=5",
       "score": 39.6,
       "sources": [
         "google_news"
@@ -282,19 +298,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Mon, 23 Nov 2026 18:45:02 GMT",
-          "source": "The Motley Fool"
+          "published": "Tue, 24 Nov 2026 17:10:00 GMT",
+          "source": "Yahoo Finance UK"
         }
       ]
     },
     {
-      "id": "edc0a87b82a1",
-      "title": "The investor trap that nearly crashed an entire market - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3o0T2xqMDRLSTRNWDFrQ3oweUJKcUtzRXZXWTRPOTFYV3hBQXdrOE8xY0QwS211RnZVWkQySW9ZN0V1VVRhbW52WWtKdFg5aDRjUHdmWnlXb3BpcTEzbWY4TDRaQVk5UV80SzNabGxLdW9kTVRkeWdNNnY3alNTWnVPTGFxZlp1SVZDeWQ3VGR6TTBMcWxhQ2F5Z29WOXM?oc=5",
+      "id": "7a4e3a62e1ff",
+      "title": "Future Focus: Tax alpha is becoming more important than market returns - Morningstar Australia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXRVWmNvWXV5TTlNeng5Y0RRejhHRVItWkNDWkpCd1ljQ3BmYXVFN3RUdTE1cVQ2QWFlMkZRVTlsbDZBRVpvc3dvNGU3anJhVUMzMkc2Z0ZyS0NlOUswT3hYUmtYNUE2ckQ1cV9hUzdRZjg2elhlcW5JQkkydjdCOWMtSnAyWVJHajRnM29zbnkyS2dkeW4xRmJaakpWVlRLVW1CR3RCVUIzTW",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXRVWmNvWXV5TTlNeng5Y0RRejhHRVItWkNDWkpCd1ljQ3BmYXVFN3RUdTE1cVQ2QWFlMkZRVTlsbDZBRVpvc3dvNGU3anJhVUMzMkc2Z0ZyS0NlOUswT3hYUmtYNUE2ckQ1cV9hUzdRZjg2elhlcW5JQkkydjdCOWMtSnAyWVJHajRnM29zbnkyS2dkeW4xRmJaakpWVlRLVW1CR3RCVUIzTWtQMUJrZnJsZTVyMUJs?oc=5",
       "score": 36.0,
       "sources": [
         "google_news"
@@ -302,59 +318,43 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+          "published": "Tue, 24 Mar 2026 07:00:00 GMT",
           "source": "Morningstar Australia"
         }
       ]
     },
     {
-      "id": "ad6f3c5b6515",
-      "title": "Is the stock market open on Thanksgiving and Black Friday? - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGxNaFVNcUlTOUdBMC05cnlFNk0xclZhd1JTZV9rRENvTFpkZDF4WnVLb1FWdmNmMDhOT0dpSDYzc3ljNFNYUTZSdm4ybnMxNlRzZkpCbkxrWG5NeHU3bGhRaUJlQkR3Uktjd2U3MDBDUWd2RGthRVhpVExtQmxCM2NocEdVZWpZM3liSzZXeFNHaWFHckRQajZRM1o3a29NbERKMHJESGRIbk",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGxNaFVNcUlTOUdBMC05cnlFNk0xclZhd1JTZV9rRENvTFpkZDF4WnVLb1FWdmNmMDhOT0dpSDYzc3ljNFNYUTZSdm4ybnMxNlRzZkpCbkxrWG5NeHU3bGhRaUJlQkR3Uktjd2U3MDBDUWd2RGthRVhpVExtQmxCM2NocEdVZWpZM3liSzZXeFNHaWFHckRQajZRM1o3a29NbERKMHJESGRIbk41SWxfSGV1cjlKSGZyLVB1RzhHOUtUS0RTc2RjSTRQNVFkUQ?oc=5",
-      "score": 32.4,
+      "id": "e1f1ca4ca75c",
+      "title": "Wells Fargo (WFC) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXkxOGxrUFFBYVBpUnVOdV81UXBCdmxtUXd2ZnJkdnh4bjFzcWt4YU1od3R3WXlTclREQjdYN2RxUGxRT0ZKN1ROVmhxV092bGk0ZlBpMWp4SjlwWkpqeVFQOWw4aGtCb1JObEVKR3FLcmF6bFkya2tJbDVNWl9zcVFMV3JidWRhNXNHOFhUOVh3TE5hdk00?oc=5\" target=\"_blank\">Wel",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXkxOGxrUFFBYVBpUnVOdV81UXBCdmxtUXd2ZnJkdnh4bjFzcWt4YU1od3R3WXlTclREQjdYN2RxUGxRT0ZKN1ROVmhxV092bGk0ZlBpMWp4SjlwWkpqeVFQOWw4aGtCb1JObEVKR3FLcmF6bFkya2tJbDVNWl9zcVFMV3JidWRhNXNHOFhUOVh3TE5hdk00?oc=5",
+      "score": 30.6,
       "sources": [
         "google_news"
       ],
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Wed, 25 Nov 2026 21:10:41 GMT",
+          "published": "Fri, 27 Nov 2026 21:45:03 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "published": "Fri, 27 Nov 2026 21:45:02 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
-      "id": "5c27a5ba69a0",
-      "title": "The investing mistake millions of investors still make - Morningstar Australia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5\" target=\"_blank\">The investing",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3ZzX2hseTdPdDB3LWFXQWx5MkVCby02VkxRc1ZVSmRDcUZmSHNFUWMyY25BUFdaQW51cHNmX25xcTU5SXhCOFBZSS1xUVRYMFVIck94ZGNkcDBwQzR5N3FZWHRkcEFDczc4ZThSU3h4ZGZhWGtTQ2hocnJtVXBkOWhRc1NQNWsxdUFNX3VTZw?oc=5",
-      "score": 28.8,
-      "sources": [
-        "google_news"
-      ],
-      "source_count": 1,
-      "niche": "finance",
-      "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
-      "raw_samples": [
-        {
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "source": "Morningstar Australia"
-        }
-      ]
-    },
-    {
-      "id": "b2eb0ca52e8f",
-      "title": "The sudden reversal in the stock market, and what comes next - The Washington Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNSm50RWJ1NlVXc1k3X1NqclJ4Vy1INGk2b1hMOExGTG1wVF9HeGF0M2JTY2s1TEhPeHJ6MWRkSFVPU2ZrYzlsczI2N3ZHN0lHOFJsSXBaeU15QzdXSmRENll4WXA1Qjl1YlQ3M2JKWC0zclRvck9lT2J5cEttTG9qaWQtY2RxUDh1ZWNJaGFldHhiT3pwYW9qYThqdE4?oc=5\" target=\"_bla",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSm50RWJ1NlVXc1k3X1NqclJ4Vy1INGk2b1hMOExGTG1wVF9HeGF0M2JTY2s1TEhPeHJ6MWRkSFVPU2ZrYzlsczI2N3ZHN0lHOFJsSXBaeU15QzdXSmRENll4WXA1Qjl1YlQ3M2JKWC0zclRvck9lT2J5cEttTG9qaWQtY2RxUDh1ZWNJaGFldHhiT3pwYW9qYThqdE4?oc=5",
+      "id": "2fbd492e9276",
+      "title": "The Stock Market Is Flashing a Signal Seen Only 6 Times in 156 Years. History Suggests These Stocks Could Take the Biggest Hit. - The Motley Fool",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVGFreUtYdk9BSmkwQndMMVF5bkFJMGNZZkJoUUFDc3NVRENTeG9ZbGNrSDRfTVh0YlJZWXdpa0pOZUNhbUpBVTBhb0k5cjRScmRQdkFmRVY0OEdyTkFPWDAwZW9RaDhMZFZfMTdTUDBaQjJPUjRSWVFTc2NBYmZNVFl3WHFEbHdhelMtMmhuVm9qMWZwS0NkZFV2VEVzUGd6ckdNSnhLLUFNc1",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVGFreUtYdk9BSmkwQndMMVF5bkFJMGNZZkJoUUFDc3NVRENTeG9ZbGNrSDRfTVh0YlJZWXdpa0pOZUNhbUpBVTBhb0k5cjRScmRQdkFmRVY0OEdyTkFPWDAwZW9RaDhMZFZfMTdTUDBaQjJPUjRSWVFTc2NBYmZNVFl3WHFEbHdhelMtMmhuVm9qMWZwS0NkZFV2VEVzUGd6ckdNSnhLLUFNc1BSMkdJbmtIc0RGUW4yY0pmSkpWTUVsOXZTbzVLTkRLOGZNZGV5bHVsc1VlVXVPeHRYeGxlTERvbFFzaEtQVmt4TzduclRLdTg1WmxtYVdnNlM?oc=5",
       "score": 25.2,
       "sources": [
         "google_news"
@@ -362,19 +362,19 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Sat, 21 Nov 2026 20:14:04 GMT",
-          "source": "The Washington Post"
+          "published": "Fri, 27 Nov 2026 10:45:02 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "6b8733ecdd33",
-      "title": "Two December Events Could Determine Whether the US Stock Market Ends 2026 in Recovery - Coinpaper",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWhaaWM3c1gyYTYwLVNtSWFBUHpyc293eWE5OHpyM2p1ZUExVnhYNmIzTTJoUmRQWXRjVzhfem54UWZmcDY4RXlJVzJqNHdON3VWaTd4QmYtc0VsXzBTNVRhU3ZyNVNmaW5FVDY0Z2tMNGdnV1A3LVo2eG95SDQtdzlfcERiVV84eDZCLXZkVjRjQ2FYeFpZRDVaWXF4cXNFQU5ROUZYOHJKaV",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWhaaWM3c1gyYTYwLVNtSWFBUHpyc293eWE5OHpyM2p1ZUExVnhYNmIzTTJoUmRQWXRjVzhfem54UWZmcDY4RXlJVzJqNHdON3VWaTd4QmYtc0VsXzBTNVRhU3ZyNVNmaW5FVDY0Z2tMNGdnV1A3LVo2eG95SDQtdzlfcERiVV84eDZCLXZkVjRjQ2FYeFpZRDVaWXF4cXNFQU5ROUZYOHJKaVZNVC1OeW1BWQ?oc=5",
+      "id": "ab137e46b4e4",
+      "title": "Stock market jitters weigh on Taiwan consumer confidence: Survey - Focus Taiwan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE50QXFrN1Q4X0FUOWI1d0xXcUQ0bGF3eGZheGJmUFQ3cG1UaUtfbWtCeTR0U3h1WV93S0txV2luMS0zdnROa1pJU2p5QWM3RFdDUGtIeEN1MA?oc=5\" target=\"_blank\">Stock market jitters weigh on Taiwan consumer confidence: Survey</a>&nbsp;&nbsp;<font col",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50QXFrN1Q4X0FUOWI1d0xXcUQ0bGF3eGZheGJmUFQ3cG1UaUtfbWtCeTR0U3h1WV93S0txV2luMS0zdnROa1pJU2p5QWM3RFdDUGtIeEN1MA?oc=5",
       "score": 21.6,
       "sources": [
         "google_news"
@@ -382,11 +382,11 @@
       "source_count": 1,
       "niche": "finance",
       "region": "AU",
-      "first_seen": "2026-11-27T21:05:54+00:00",
+      "first_seen": "2026-11-28T07:36:05+00:00",
       "raw_samples": [
         {
-          "published": "Fri, 27 Nov 2026 16:10:44 GMT",
-          "source": "Coinpaper"
+          "published": "Fri, 27 Nov 2026 07:26:00 GMT",
+          "source": "Focus Taiwan"
         }
       ]
     }
